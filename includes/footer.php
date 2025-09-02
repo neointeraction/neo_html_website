@@ -128,13 +128,13 @@
                             <p>Industries</p>
                         </div>
                         <div class="nav-item">
-                            <p>Fintech</p>
+                            <a href="#">Fintech</a>
                         </div>
                         <div class="nav-item">
-                            <p>Edtech</p>
+                            <a href="#">Edtech</a>
                         </div>
                         <div class="nav-item">
-                            <p>Healthcare</p>
+                            <a href="#">Healthcare</a>
                         </div>
                     </div>
                     
@@ -144,13 +144,13 @@
                             <p>Resources</p>
                         </div>
                         <div class="nav-item">
-                            <p>Events</p>
+                            <a href="#">Events</a>
                         </div>
                         <div class="nav-item">
-                            <p>Blogs</p>
+                            <a href="#">Blogs</a>
                         </div>
                         <div class="nav-item">
-                            <p>Downloads</p>
+                            <a href="#">Downloads</a>
                         </div>
                     </div>
                 </div>
