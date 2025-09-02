@@ -1,0 +1,323 @@
+ * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'DM Sans', sans-serif;
+            line-height: 1.5;
+        }
+
+        .footer {
+            background-color: #302d2d;
+            position: relative;
+            width: 100%;
+            height: 100vh;
+        }
+
+        .footer-content {
+            position: absolute;
+            left: 124px;
+            top: 40px;
+            width: 1192px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            gap: 60px;
+        }
+
+        /* Header Section */
+        .footer-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        .logo-section {
+            display: inline-grid;
+            grid-template-columns: max-content;
+            grid-template-rows: max-content;
+            place-items: start;
+            position: relative;
+        }
+
+        .logo-icon {
+            grid-area: 1 / 1;
+            margin-left: 0;
+            margin-top: 1.906%;
+            position: relative;
+            width: 46.71px;
+            height: 46.71px;
+        }
+
+        .logo-icon svg {
+            display: block;
+            width: 100%;
+            height: 100%;
+            fill: none;
+        }
+
+        .logo-text {
+            grid-area: 1 / 1;
+            font-family: 'Syne', sans-serif;
+            font-weight: 400;
+            line-height: 22.011px;
+            margin-left: 59.549px;
+            margin-top: 0;
+            position: relative;
+            color: #fdfdfd;
+            font-size: 27.514px;
+            white-space: nowrap;
+        }
+
+        .logo-text p:first-child {
+            margin-bottom: 3.669px;
+        }
+
+        /* Social Media Icons */
+        .social-icons {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 5.036px;
+        }
+
+        .social-icon {
+            background-color: #302d2d;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 16.114px;
+            gap: 10.071px;
+        }
+
+        .social-icon svg {
+            width: 20.143px;
+            height: 20.143px;
+            fill: none;
+        }
+
+        /* Main Content */
+        .footer-main {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+            width: 100%;
+            gap: 40px;
+        }
+
+        .footer-description {
+            display: flex;
+            font-family: 'DM Sans', sans-serif;
+            font-weight: 400;
+            gap: 328px;
+            align-items: center;
+            justify-content: flex-start;
+            line-height: 0;
+            color: #fdfdfd;
+            font-size: 16px;
+            width: 100%;
+            font-variation-settings: 'opsz' 14;
+        }
+
+        .company-description {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+            width: 584px;
+        }
+
+        .company-address {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+            width: 280px;
+        }
+
+        .description-text, .address-text {
+            line-height: normal;
+        }
+
+        /* Navigation Sections */
+        .footer-nav {
+            display: flex;
+            gap: 24px;
+            align-items: flex-start;
+            justify-content: flex-start;
+            width: 100%;
+        }
+
+        .nav-column {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            align-items: flex-start;
+            justify-content: flex-start;
+            line-height: 0;
+            color: #fdfdfd;
+            width: 280px;
+        }
+
+        .nav-title {
+            display: flex;
+            flex-direction: column;
+            font-family: 'DM Sans', sans-serif;
+            font-weight: 500;
+            justify-content: center;
+            min-width: 100%;
+            font-size: 20px;
+            font-variation-settings: 'opsz' 14;
+            width: min-content;
+        }
+
+        .nav-item {
+            display: flex;
+            flex-direction: column;
+            font-family: 'DM Sans', sans-serif;
+            font-weight: 400;
+            justify-content: center;
+            font-size: 16px;
+            white-space: nowrap;
+            font-variation-settings: 'opsz' 14;
+            text-decoration: none;
+        }
+
+         .nav-item a {
+            color: #ffffff!important;
+            text-decoration: none;
+            white-space: pre;
+        }
+        .nav-item p {
+            line-height: normal;
+            white-space: pre;
+        }
+
+        /* Newsletter Section */
+        .newsletter-section {
+            display: inline-grid;
+            grid-template-columns: max-content;
+            grid-template-rows: max-content;
+            place-items: start;
+            position: relative;
+        }
+
+        .newsletter-content {
+            grid-area: 1 / 1;
+            display: flex;
+            gap: 24px;
+            align-items: center;
+            justify-content: flex-start;
+            margin-left: 0;
+            margin-top: 0;
+            position: relative;
+            width: 1191.06px;
+        }
+
+        .newsletter-title {
+            grid-area: 1 / 1;
+            display: flex;
+            flex-direction: column;
+            font-family: 'DM Sans', sans-serif;
+            font-weight: 500;
+            justify-content: center;
+            line-height: 0;
+            margin-left: 0;
+            margin-top: 13px;
+            position: relative;
+            color: #fdfdfd;
+            font-size: 20px;
+            transform: translateY(-50%);
+            width: 280px;
+            font-variation-settings: 'opsz' 14;
+        }
+
+        .newsletter-form {
+            grid-area: 1 / 1;
+            display: flex;
+            gap: 24px;
+            align-items: center;
+            justify-content: flex-end;
+            margin-left: 0;
+            margin-top: 0;
+            position: relative;
+        }
+
+        .email-input {
+            background-color: #fdfdfd;
+            display: flex;
+            gap: 10px;
+            height: 46px;
+            align-items: center;
+            justify-content: flex-start;
+            padding: 2px 14px;
+            width: 584px;
+            border: none;
+        }
+
+        .email-placeholder {
+            display: flex;
+            flex-direction: column;
+            font-family: 'DM Sans', sans-serif;
+            font-weight: 400;
+            justify-content: center;
+            line-height: 0;
+            color: #97989a;
+            font-size: 16px;
+            white-space: nowrap;
+            font-variation-settings: 'opsz' 14;
+        }
+
+        .subscribe-button {
+            display: flex;
+            gap: 10px;
+            height: 46px;
+            align-items: center;
+            justify-content: center;
+            padding: 12px 32px;
+            position: relative;
+            border: 1px solid #fdfdfd;
+            background: transparent;
+            cursor: pointer;
+        }
+
+        .subscribe-text {
+            font-family: 'DM Sans', sans-serif;
+            font-weight: 600;
+            line-height: 0;
+            color: #fdfdfd;
+            font-size: 16px;
+            text-align: center;
+            white-space: nowrap;
+            font-variation-settings: 'opsz' 14;
+        }
+
+        .subscribe-text p {
+            line-height: normal;
+            white-space: pre;
+        }
+
+        /* Copyright */
+        .copyright {
+            display: flex;
+            flex-direction: column;
+            font-family: 'DM Sans', sans-serif;
+            font-weight: 400;
+            height: 20px;
+            justify-content: center;
+            line-height: 0;
+            color: #fdfdfd;
+            font-size: 16px;
+            text-align: center;
+            width: 407px;
+            font-variation-settings: 'opsz' 14;
+        }
+
+        .copyright p {
+            line-height: normal;
+        }
