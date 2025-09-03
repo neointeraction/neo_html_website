@@ -30,4 +30,16 @@
             </ul>
         </div>
     </nav>
+
+    <!-- WhatsApp Floating Button -->
+    <div class="whatsapp-float">
+        <a href="https://wa.me/919449565744?text=Hi%2C%20I%20visited%20www.neointeraction.com%20and%20would%20like%20to%20know%20more%20about%20UI%2FUX%20design%C2%A0services" 
+           target="_blank" 
+           class="whatsapp-button" 
+           title="Chat with us on WhatsApp">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+                 alt="WhatsApp" 
+                 class="whatsapp-icon">
+        </a>
+    </div>
 </header>
