@@ -20,11 +20,14 @@
     <div class="wrapper">
         <?php include 'includes/navigation.php';?>
 
+
         <section class="hero-section">
             <div class="hero-content">
                 <h1>We make tech products <span class="red-text">more human</span></h1>
                 <button class="black-button">Book A Consultation</button>
             </div>
+        </section>
+        <section class="hero-section">
             <div class="hero-slider">
                 <div class="slider-inner">
                     <div class="slider-item" style="background-image: url('img/projects/healthcare.png');"></div>

@@ -810,7 +810,6 @@ button,select {
     left: 10%; /* Adjust to left align */
     transform: translateY(-50%); /* Only translate Y, not X */
     z-index: 2;
-    max-width: 900px;
     padding: 20px;
     color: white;
     text-align: left; /* Left align text */
