@@ -44,56 +44,56 @@
         </section>
         <div class="page-container">
 
- <section class="services-section">
-            <div class="container">
-                <h2>Crafting business success through Digital Experience</h2>
-                <div class="service-cards">
-                    <div class="service-card ux-design">
-                        <div class="icon">
-                            <svg viewBox="0 0 24 24" fill="none">
-                                <path d="M12 2L13.09 8.26L20 9L13.09 9.74L12 16L10.91 9.74L4 9L10.91 8.26L12 2Z" fill="currentColor"/>
-                            </svg>
+            <section class="services-section">
+                <div class="container">
+                    <h2>Crafting business success through Digital Experience</h2>
+                    <div class="service-cards">
+                        <div class="service-card ux-design">
+                            <div class="icon">
+                                <svg viewBox="0 0 24 24" fill="none">
+                                    <path d="M12 2L13.09 8.26L20 9L13.09 9.74L12 16L10.91 9.74L4 9L10.91 8.26L12 2Z" fill="currentColor"/>
+                                </svg>
+                            </div>
+                            <h3>UX Design</h3>
+                            <p>Delivering seamless experiences that speak louder than words.</p>
+                            <button class="black-button">Submit Enquiry</button>
                         </div>
-                        <h3>UX Design</h3>
-                        <p>Delivering seamless experiences that speak louder than words.</p>
-                        <button class="black-button">Submit Enquiry</button>
-                    </div>
-                    <div class="service-card product-design">
-                        <div class="icon">
-                            <svg viewBox="0 0 24 24" fill="none">
-                                <path d="M12 2L2 7L12 12L22 7L12 2Z" fill="currentColor"/>
-                                <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" fill="none"/>
-                                <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" fill="none"/>
-                            </svg>
+                        <div class="service-card product-design">
+                            <div class="icon">
+                                <svg viewBox="0 0 24 24" fill="none">
+                                    <path d="M12 2L2 7L12 12L22 7L12 2Z" fill="currentColor"/>
+                                    <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" fill="none"/>
+                                    <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" fill="none"/>
+                                </svg>
+                            </div>
+                            <h3>Product Design</h3>
+                            <p>Shaping ideas into tangible user centric design solutions</p>
+                            <button class="enquiry-button">Submit Enquiry</button>
                         </div>
-                        <h3>Product Design</h3>
-                        <p>Shaping ideas into tangible user centric design solutions</p>
-                        <button class="enquiry-button">Submit Enquiry</button>
-                    </div>
-                    <div class="service-card digital-transformation">
-                        <div class="icon">
-                            <svg viewBox="0 0 24 24" fill="none">
-                                <circle cx="12" cy="12" r="3" fill="currentColor"/>
-                                <path d="M12 1V3M12 21V23M4.22 4.22L5.64 5.64M18.36 18.36L19.78 19.78M1 12H3M21 12H23M4.22 19.78L5.64 18.36M18.36 5.64L19.78 4.22" stroke="currentColor" stroke-width="2"/>
-                            </svg>
+                        <div class="service-card digital-transformation">
+                            <div class="icon">
+                                <svg viewBox="0 0 24 24" fill="none">
+                                    <circle cx="12" cy="12" r="3" fill="currentColor"/>
+                                    <path d="M12 1V3M12 21V23M4.22 4.22L5.64 5.64M18.36 18.36L19.78 19.78M1 12H3M21 12H23M4.22 19.78L5.64 18.36M18.36 5.64L19.78 4.22" stroke="currentColor" stroke-width="2"/>
+                                </svg>
+                            </div>
+                            <h3>Digital Transformation</h3>
+                            <p>Crafting revolutionary aesthetics that redefine user interaction.</p>
+                            <button class="enquiry-button">Submit Enquiry</button>
                         </div>
-                        <h3>Digital Transformation</h3>
-                        <p>Crafting revolutionary aesthetics that redefine user interaction.</p>
-                        <button class="enquiry-button">Submit Enquiry</button>
-                    </div>
-                    <div class="service-card frontend-development">
-                        <div class="icon">
-                            <svg viewBox="0 0 24 24" fill="none">
-                                <path d="M16 18L22 12L16 6M8 6L2 12L8 18" stroke="currentColor" stroke-width="2" fill="none"/>
-                            </svg>
+                        <div class="service-card frontend-development">
+                            <div class="icon">
+                                <svg viewBox="0 0 24 24" fill="none">
+                                    <path d="M16 18L22 12L16 6M8 6L2 12L8 18" stroke="currentColor" stroke-width="2" fill="none"/>
+                                </svg>
+                            </div>
+                            <h3>Frontend Development</h3>
+                            <p>Bridging creativity and code for pixel-perfect user interfaces.</p>
+                            <button class="enquiry-button">Submit Enquiry</button>
                         </div>
-                        <h3>Frontend Development</h3>
-                        <p>Bridging creativity and code for pixel-perfect user interfaces.</p>
-                        <button class="enquiry-button">Submit Enquiry</button>
                     </div>
                 </div>
-            </div>
-        </section>
+            </section>
 
         <section class="clients-section">
             <div class="container">
@@ -254,6 +254,7 @@
                 </div>
             </div>
         </section>
+    </div>
 
         <section class="demo-video-section">
             <div class="container">
@@ -306,6 +307,7 @@
             </div>
         </section>
 
+        <div class="page-container">
 <!-- FAQ Section -->
         <section class="faq-section">
              <div class="container">
