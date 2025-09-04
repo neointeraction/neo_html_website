@@ -155,7 +155,7 @@ body {
 }
 
 .nav-item a {
-  color: #007bff;
+  color: #ffffff;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -270,10 +270,12 @@ body {
 @media (max-width: 768px) {
   .footer {
     padding: 30px 15px;
+    width: 100%; /* Ensure footer takes full width */
   }
 
   .footer-content {
     gap: 30px;
+    width: 100%; /* Ensure content takes full width */
   }
 
   .footer-header {
@@ -307,6 +309,7 @@ body {
   .newsletter-form {
     flex-direction: column;
     gap: 15px;
+    width: 100%; /* Ensure newsletter form takes full width */
   }
 
   .email-input,
@@ -318,10 +321,12 @@ body {
 @media (max-width: 480px) {
   .footer {
     padding: 20px 10px;
+    width: 100%; /* Ensure footer takes full width */
   }
 
   .footer-content {
     gap: 25px;
+    width: 100%; /* Ensure content takes full width */
   }
 
   .logo-text {

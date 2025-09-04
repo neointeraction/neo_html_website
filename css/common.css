@@ -130,6 +130,12 @@ body {
     padding: 40px 20px; /* Add some padding on the sides and top/bottom */
 }
 
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1192px!important;
+    }
+}
+
 .secondary-button  a{
     text-decoration: none;
     color: #e74c3c;
