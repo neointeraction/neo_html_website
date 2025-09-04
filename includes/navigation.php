@@ -37,7 +37,7 @@
            target="_blank" 
            class="whatsapp-button" 
            title="Chat with us on WhatsApp">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+            <img src="img/icons/WhatsApp.svg" 
                  alt="WhatsApp" 
                  class="whatsapp-icon">
         </a>
