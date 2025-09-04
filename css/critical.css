@@ -33,6 +33,10 @@
     box-sizing: border-box
 }
 
+html, body {
+    height: 100%; /* Ensure full height for html and body */
+}
+
 html {
     font-family: sans-serif;
     line-height: 1.15;
@@ -53,6 +57,10 @@ body {
     color: #212529;
     text-align: left;
     background-color: #fff
+}
+
+.wrapper {
+    height: 100%; /* Ensure wrapper takes full height */
 }
 
 p {
@@ -786,26 +794,33 @@ button,select {
 /* Hero Section Styles */
 .hero-section {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding: 80px 100px; /* Adjusted padding for better spacing */
-    min-height: 600px; /* Adjust as needed */
-    background-color: #fff;
-    gap: 50px; /* Added gap between hero content and image */
+    position: relative;
+    overflow: hidden;
+    height: 350px; /* Fixed height for the slider */
+    color: #fff;
+    text-align: center;
 }
 
+
 .hero-content {
-    flex: 1;
-    flex-grow: 1; /* Ensure content grows to fill space */
-    max-width: 50%; /* Limit content width to prevent overflow */
-    /* Removed padding-right as justify-content handles spacing */
+    position: absolute;
+    top: 50%;
+    left: 10%; /* Adjust to left align */
+    transform: translateY(-50%); /* Only translate Y, not X */
+    z-index: 2;
+    max-width: 900px;
+    padding: 20px;
+    color: white;
+    text-align: left; /* Left align text */
 }
 
 .hero-content h1 {
     font-size: 60px;
     font-weight: 700;
     line-height: 1.2;
-    color: #333;
+    color: #FFFFFF; /* Changed to white */
     margin-bottom: 30px;
 }
 
@@ -813,28 +828,64 @@ button,select {
     color: #e74c3c; /* Red color for highlight */
 }
 
-.ux-consultation-button {
-    /* Inherits primary button styles */
+.black-button {
+    background-color: #000; /* Solid black */
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 12px 25px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
-.hero-image {
-    flex: 1;
-    flex-shrink: 0; /* Prevent image from shrinking too much */
+.black-button:hover {
+    background-color: #333;
+    border-color: #e74c3c;
+    color: #e74c3c;
+}
+
+/* Hero Slider Styles */
+.hero-slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 350px; /* Fixed height for the slider */
+    overflow: hidden;
+}
+
+.slider-inner {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
+    width: calc(100% + 20px); /* Adjust width to account for gap */
+    height: 350px; /* Fixed height for the slider */
+    animation: slide-animation 20s infinite linear;
 }
 
-.hero-image img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 20px; /* Adjust as needed for the curved shape */
-    object-fit: contain; /* Ensure the image fits within its container */
-    /* For the specific curved shape, more advanced CSS (clip-path or SVG) would be needed */
+.slider-item {
+    width: calc(25% - 15px); /* Each slide takes 25% of the inner width minus gap */
+    flex-shrink: 0;
+    height: 350px; /* Fixed height for the slider */
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px; /* Apply rounded corners */
+    margin-right: 20px; /* Add gap between images */
 }
 
-    
+@keyframes slide-animation {
+    0% { transform: translateX(0); }
+    20% { transform: translateX(0); }
+    25% { transform: translateX(calc(-100% - 20px)); } /* Adjusted for 4 images and gap */
+    45% { transform: translateX(calc(-100% - 20px)); }
+    50% { transform: translateX(calc(-200% - 40px)); }
+    70% { transform: translateX(calc(-200% - 40px)); }
+    75% { transform: translateX(calc(-300% - 60px)); }
+    95% { transform: translateX(calc(-300% - 60px)); }
+    100% { transform: translateX(calc(-400% - 80px)); }
+}
+
+/* Responsive adjustments for slider */
 
 /* WhatsApp Floating Button Styles */
 .whatsapp-float {
