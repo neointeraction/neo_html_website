@@ -312,61 +312,154 @@
 
         <div class="page-container">
 <!-- FAQ Section -->
-        <section class="faq-section">
-             <div class="container">
-            <h2>FAQ's</h2>
-            
-            <div class="faq-item">
-                <div class="faq-question">
-                    <span>How to choose a UI UX design company?</span>
-                    <span class="chevron">⌄</span>
+<section class="faq-section">
+    <div class="container">
+        <h2>FAQ's</h2>
+        
+        <div class="faq-item">
+            <div class="faq-question">
+                <span>How to choose a UI UX design company?</span>
+                <svg class="chevron" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7 10l5 5 5-5z"/>
+                </svg>
+            </div>
+            <div class="faq-answer">
+                <p>Look at their design portfolio, read client reviews, team strength and their experience in various industry domains. Make sure their design process and communication match what you need. It will also help if the agency has the capability for end to end design delivery including the front end development.</p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                <span>What does a UI UX Agency do?</span>
+                <svg class="chevron" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7 10l5 5 5-5z"/>
+                </svg>
+            </div>
+            <div class="faq-answer">
+                <p>A UI UX agency specializes in creating user-centered digital experiences through research, design, and testing. They help businesses understand their users' needs and create intuitive, engaging interfaces that improve user satisfaction and drive business results.</p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                <span>What is your UI UX Design process?</span>
+                <svg class="chevron" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7 10l5 5 5-5z"/>
+                </svg>
+            </div>
+            <div class="faq-answer">
+                <p>Our process includes discovery and research phase, user persona development, wireframing and information architecture, interactive prototyping, visual design and branding, usability testing, and iterative improvements based on user feedback.</p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                <span>How do you approach a new design project?</span>
+                <svg class="chevron" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7 10l5 5 5-5z"/>
+                </svg>
+            </div>
+            <div class="faq-answer">
+                <p>We start with understanding your business goals and user needs through comprehensive research and stakeholder interviews. This is followed by competitive analysis, user journey mapping, and defining clear project objectives and success metrics.</p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">
+                <span>What all services do you offer in UI/UX design?</span>
+                <svg class="chevron" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7 10l5 5 5-5z"/>
+                </svg>
+            </div>
+            <div class="faq-answer">
+                <p>We offer comprehensive services including user research and analytics, information architecture, wireframing and prototyping, visual design and branding, usability testing, accessibility audits, and front-end development support.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="events-section">
+    <div class="container">
+        <h2>Design Events</h2>
+        
+        <div class="event-card">
+            <div class="event-image">
+                <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2FtcGxlfGVufDB8fDB8fHww" alt="UX Design Workshop participants">
+            </div>
+            <div class="event-content">
+                <h3 class="event-title">Workshop on Accelerating Design decisions</h3>
+                <p class="event-description">
+                    A one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product Designers to elevate their product experiences and uplift their design career path.
+                </p>
+                <button class="read-more-btn">Read More</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="blogs-section">
+    <div class="container">
+        <div class="blogs-header">
+            <h2>Recent Blogs</h2>
+            <a href="#" class="view-all-btn">View All</a>
+        </div>
+        
+        <div class="blogs-grid">
+            <div class="blog-card">
+                <div class="blog-image">
+                    <img src="https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_494,h_370,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg" alt="Dashboard Analytics">
                 </div>
-                <div class="faq-answer">
-                    Look at their design portfolio, read client reviews, team strength and their experience in various industry domains. Make sure their design process and communication match what you need. It will also help if the agency has the capability for end to end design delivery including the front end development.
+                <div class="blog-content">
+                    <h3 class="blog-title">How to design Effective Dashboard to help boost your.....</h3>
+                    <div class="blog-meta">
+                        <span class="blog-author">Thirunavukkarasu L</span>
+                        <span class="blog-date">1 day ago</span>
+                    </div>
                 </div>
             </div>
 
-            <div class="faq-item">
-                <div class="faq-question">
-                    <span>What does a UI UX Agency do?</span>
-                    <span class="chevron">⌄</span>
+            <div class="blog-card">
+                <div class="blog-image">
+                    <img src="https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_494,h_370,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg" alt="Website Templates">
                 </div>
-                <div class="faq-answer">
-                    A UI UX agency specializes in creating user-centered digital experiences through research, design, and testing.
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <div class="faq-question">
-                    <span>What is your UI UX Design process?</span>
-                    <span class="chevron">⌄</span>
-                </div>
-                <div class="faq-answer">
-                    Our process includes discovery, research, wireframing, prototyping, visual design, and user testing.
+                <div class="blog-content">
+                    <h3 class="blog-title">Advantages and disadvantages of Website Templates</h3>
+                    <div class="blog-meta">
+                        <span class="blog-author">Rahul Kale</span>
+                        <span class="blog-date">6 days ago</span>
+                    </div>
                 </div>
             </div>
 
-            <div class="faq-item">
-                <div class="faq-question">
-                    <span>How do you approach a new design project?</span>
-                    <span class="chevron">⌄</span>
+            <div class="blog-card">
+                <div class="blog-image">
+                    <img src="https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_494,h_370,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg" alt="UX Design Process">
                 </div>
-                <div class="faq-answer">
-                    We start with understanding your business goals and user needs through comprehensive research and stakeholder interviews.
+                <div class="blog-content">
+                    <h3 class="blog-title">What Is UX Design Process? A Complete Actionable Guide</h3>
+                    <div class="blog-meta">
+                        <span class="blog-author">Rahul Kale</span>
+                        <span class="blog-date">6 days ago</span>
+                    </div>
                 </div>
             </div>
 
-            <div class="faq-item">
-                <div class="faq-question">
-                    <span>What all services do you offer in UI/UX design?</span>
-                    <span class="chevron">⌄</span>
+            <div class="blog-card">
+                <div class="blog-image">
+                    <img src="https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_494,h_370,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg" alt="UX Design Process Guide">
                 </div>
-                <div class="faq-answer">
-                    We offer user research, wireframing, prototyping, visual design, usability testing, and front-end development.
+                <div class="blog-content">
+                    <h3 class="blog-title">What Is UX Design Process? A Complete Actionable Guide</h3>
+                    <div class="blog-meta">
+                        <span class="blog-author">Rahul Kale</span>
+                        <span class="blog-date">6 days ago</span>
+                    </div>
                 </div>
             </div>
-</div>
-        </section>
+        </div>
+    </div>
+</section>
+
         </div>
 
         <?php include 'includes/footer.php'; ?>
@@ -377,23 +470,45 @@
     <script src="js/main.js"></script>
     <script>
         // Simple FAQ toggle functionality
-        document.querySelectorAll('.faq-question').forEach(question => {
-            question.addEventListener('click', () => {
-                const faqItem = question.parentElement;
-                const answer = faqItem.querySelector('.faq-answer');
-                const chevron = question.querySelector('.chevron');
+        // document.querySelectorAll('.faq-question').forEach(question => {
+        //     question.addEventListener('click', () => {
+        //         const faqItem = question.parentElement;
+        //         const answer = faqItem.querySelector('.faq-answer');
+        //         const chevron = question.querySelector('.chevron');
                 
-                faqItem.classList.toggle('active');
+        //         faqItem.classList.toggle('active');
                 
-                if (faqItem.classList.contains('active')) {
-                    answer.style.display = 'block';
-                    chevron.style.transform = 'rotate(180deg)';
-                } else {
-                    answer.style.display = 'none';
-                    chevron.style.transform = 'rotate(0deg)';
+        //         if (faqItem.classList.contains('active')) {
+        //             answer.style.display = 'block';
+        //             chevron.style.transform = 'rotate(180deg)';
+        //         } else {
+        //             answer.style.display = 'none';
+        //             chevron.style.transform = 'rotate(0deg)';
+        //         }
+        //     });
+        // });
+
+        document.addEventListener('DOMContentLoaded', function() {
+    const faqItems = document.querySelectorAll('.faq-item');
+
+    faqItems.forEach(item => {
+        const question = item.querySelector('.faq-question');
+        
+        question.addEventListener('click', function() {
+            // Close other open items
+            faqItems.forEach(otherItem => {
+                if (otherItem !== item) {
+                    otherItem.classList.remove('active');
                 }
             });
+
+            // Toggle current item
+            item.classList.toggle('active');
         });
+    });
+});
     </script>
+
+
 </body>
 </html>

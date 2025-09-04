@@ -7,6 +7,6 @@
 
 <link rel="stylesheet" href="css/critical.css">
 <link rel="stylesheet" rel="preconnect" href="css/non-critical.css">
-<!-- <link rel="stylesheet" href="css/common.css"> -->
+<link rel="stylesheet" href="css/navbar.css">
 <!-- <link rel="stylesheet" href="css/style.css"> -->
 

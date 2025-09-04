@@ -4,7 +4,7 @@
         <div class="footer-header">
             <div class="logo-section">
                 <div class="logo-icon">
-                    <img src="img/logo-white.avif" alt="Logo" height="60px" >
+                    <img src="img/logo-white.avif" alt="Logo" height="60px" width="120px" >
                 </div>
             </div>
             

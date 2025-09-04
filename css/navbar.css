@@ -1,0 +1,172 @@
+.custom-navbar {
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px 0;
+  position: fixed; /* ✅ make it fixed */
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1100; /* higher than overlay/menu */
+}
+
+/* Add spacing below navbar so content isn’t hidden */
+body {
+  padding-top: 80px; /* adjust to navbar height */
+}
+
+.custom-navbar .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.custom-logo img {
+  height: 50px;
+  width: auto;
+}
+
+/* Desktop Navigation */
+.custom-nav-menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 35px;
+}
+
+.custom-nav-item {
+  position: relative;
+}
+
+.custom-nav-link {
+  color: #333333;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 8px 0;
+  transition: color 0.3s ease;
+}
+
+.custom-nav-link:hover,
+.custom-nav-link.active {
+  color: #ff4757;
+  text-decoration: none;
+}
+
+/* Submit Enquiry Button */
+.custom-submit-btn {
+  background-color: #333333;
+  color: #ffffff !important;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.custom-submit-btn:hover {
+  background-color: #222222;
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+/* Mobile Toggle Button */
+.custom-mobile-toggle {
+  display: none;
+  background: none;
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.custom-mobile-toggle span {
+  display: block;
+  width: 20px;
+  height: 2px;
+  background-color: #333;
+  margin: 4px 0;
+  transition: 0.3s;
+}
+
+/* Mobile Styles */
+@media (max-width: 991px) {
+  .custom-mobile-toggle {
+    display: block;
+  }
+
+  .custom-nav-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #ffffff;
+    flex-direction: column;
+    gap: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px 0;
+    transform: translateY(-10px);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    z-index: 1000;
+  }
+
+  .custom-nav-menu.active {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .custom-nav-item {
+    padding: 0 30px;
+    margin: 8px 0;
+  }
+
+  .custom-nav-link {
+    display: block;
+    padding: 12px 0;
+    border-bottom: 1px solid #f0f0f0;
+  }
+
+  .custom-nav-item:last-child {
+    margin-top: 20px;
+  }
+
+  .custom-nav-item:last-child .custom-nav-link {
+    border-bottom: none;
+  }
+
+  .custom-submit-btn {
+    display: block;
+    text-align: center;
+    margin: 0 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .custom-navbar .container {
+    padding: 0 15px;
+  }
+
+  .custom-logo img {
+    height: 45px;
+  }
+
+  .custom-nav-item {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 576px) {
+  .custom-logo img {
+    height: 40px;
+  }
+
+  .custom-nav-item {
+    padding: 0 15px;
+  }
+}
