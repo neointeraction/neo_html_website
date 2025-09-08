@@ -39,6 +39,18 @@ $(".testimonial-slider").slick({
   ],
 });
 
+$(".banner-slider").slick({
+  dots: false,
+  arrows: false,
+  infinite: true,
+  speed: 1000,
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  fade: true,
+  cssEase: "linear",
+  autoplay: true,
+});
+
 // count
 
 // Check if element is in viewport
@@ -85,3 +97,22 @@ const startCountUp = () => {
 window.addEventListener("scroll", startCountUp);
 window.addEventListener("DOMContentLoaded", startCountUp);
 window.addEventListener("resize", startCountUp);
+
+// navbar
+
+function handleNavbarScroll() {
+  const navbar = document.querySelector(".navbar-container");
+
+  if (!navbar) return; // Prevent errors if navbar doesn't exist
+
+  window.addEventListener("scroll", () => {
+    if (window.scrollY > 0) {
+      navbar.classList.add("fixed");
+    } else {
+      navbar.classList.remove("fixed");
+    }
+  });
+}
+
+// Call the function after DOM is ready
+document.addEventListener("DOMContentLoaded", handleNavbarScroll);
