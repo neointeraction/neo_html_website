@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="../assets/css/vendor/aos.css" rel="stylesheet" />
-    <link href="../assets/css/main.css" rel="stylesheet" />
+    <link href="assets/css/vendor/aos.css" rel="stylesheet" />
+    <link href="assets/css/main.css" rel="stylesheet" />
     <title>Neointeraction - Home</title>
   </head>
   <body>
@@ -17,7 +17,7 @@
               <div class="container-fluid p-0">
                 <a class="navbar-brand d-flex align-items-center" href="#">
                   <img
-                    src="../assets/images/header_logo.png"
+                    src="assets/images/header_logo.png"
                     alt="header_logo"
                   />
                 </a>
@@ -98,7 +98,7 @@
             >
               <div class="custom-card">
                 <div class="icon-container">
-                  <img src="../assets/images/ux.svg" alt="ux" />
+                  <img src="assets/images/ux.svg" alt="ux" />
                 </div>
                 <h4 class="title">UX Design</h4>
                 <p class="description">
@@ -118,7 +118,7 @@
             >
               <div class="custom-card">
                 <div class="icon-container">
-                  <img src="../assets/images/pd.svg" alt="pd" />
+                  <img src="assets/images/pd.svg" alt="pd" />
                 </div>
                 <h4 class="title">Product Design</h4>
                 <p class="description">
@@ -138,7 +138,7 @@
             >
               <div class="custom-card">
                 <div class="icon-container">
-                  <img src="../assets/images/dt.svg" alt="dt" />
+                  <img src="assets/images/dt.svg" alt="dt" />
                 </div>
                 <h4 class="title">Digital Transformation</h4>
                 <p class="description">
@@ -159,7 +159,7 @@
             >
               <div class="custom-card">
                 <div class="icon-container">
-                  <img src="../assets/images/fd.svg" alt="fd" />
+                  <img src="assets/images/fd.svg" alt="fd" />
                 </div>
                 <h4 class="title">Frontend Development</h4>
                 <p class="description">
@@ -219,85 +219,85 @@
             <!-- First set of logos -->
             <div class="client-logo-flex" aria-hidden="true">
               <div class="clf-item">
-                <img src="../assets/images/clients/icici.png" alt="icici" />
+                <img src="assets/images/clients/icici.png" alt="icici" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/geo.png" alt="geo" />
+                <img src="assets/images/clients/geo.png" alt="geo" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/bnp.png" alt="bnp" />
+                <img src="assets/images/clients/bnp.png" alt="bnp" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/cbd.png" alt="bnp" />
+                <img src="assets/images/clients/cbd.png" alt="bnp" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/clayfin.png" alt="clayfin" />
+                <img src="assets/images/clients/clayfin.png" alt="clayfin" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/cb.png" alt="cb" />
+                <img src="assets/images/clients/cb.png" alt="cb" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/brac.png" alt="brac" />
+                <img src="assets/images/clients/brac.png" alt="brac" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/qb.png" alt="qb" />
+                <img src="assets/images/clients/qb.png" alt="qb" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/fs.png" alt="fs" />
+                <img src="assets/images/clients/fs.png" alt="fs" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/bosch.png" alt="bosch" />
+                <img src="assets/images/clients/bosch.png" alt="bosch" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/itg.png" alt="itg" />
+                <img src="assets/images/clients/itg.png" alt="itg" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/vc.png" alt="vc" />
+                <img src="assets/images/clients/vc.png" alt="vc" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/vidal.png" alt="vidal" />
+                <img src="assets/images/clients/vidal.png" alt="vidal" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/ls.png" alt="ls" />
+                <img src="assets/images/clients/ls.png" alt="ls" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/it.png" alt="it" />
+                <img src="assets/images/clients/it.png" alt="it" />
               </div>
               <div class="clf-item">
                 <img
-                  src="../assets/images/clients/traveloka.png"
+                  src="assets/images/clients/traveloka.png"
                   alt="traveloka"
                 />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/db.png" alt="db" />
+                <img src="assets/images/clients/db.png" alt="db" />
               </div>
               <div class="clf-item">
                 <img
-                  src="../assets/images/clients/inkmagik.png"
+                  src="assets/images/clients/inkmagik.png"
                   alt="inkmagik"
                 />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/tricog.png" alt="tricog" />
+                <img src="assets/images/clients/tricog.png" alt="tricog" />
               </div>
               <div class="clf-item">
                 <img
-                  src="../assets/images/clients/yokogawa.png"
+                  src="assets/images/clients/yokogawa.png"
                   alt="yokogawa"
                 />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/wipro.png" alt="wipro" />
+                <img src="assets/images/clients/wipro.png" alt="wipro" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/quest.png" alt="quest" />
+                <img src="assets/images/clients/quest.png" alt="quest" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/int.png" alt="int" />
+                <img src="assets/images/clients/int.png" alt="int" />
               </div>
               <div class="clf-item">
-                <img src="../assets/images/clients/car.png" alt="car" />
+                <img src="assets/images/clients/car.png" alt="car" />
               </div>
             </div>
           </div>
@@ -475,7 +475,7 @@
                   <!-- Image container with fixed height and object-fit for consistent appearance -->
                   <div class="col-lg-6 p-0 project-image-container">
                     <img
-                      src="../assets/images/projects/itg-bpm.png"
+                      src="assets/images/projects/itg-bpm.png"
                       alt="Project Image"
                       class="img-fluid project-image"
                     />
@@ -509,7 +509,7 @@
                 <div class="project-card d-lg-flex">
                   <div class="col-lg-6 p-0 project-image-container">
                     <img
-                      src="../assets/images/projects/itg-bpm.png"
+                      src="assets/images/projects/itg-bpm.png"
                       alt="Project Image"
                       class="img-fluid project-image"
                     />
@@ -543,7 +543,7 @@
                 <div class="project-card d-lg-flex">
                   <div class="col-lg-6 p-0 project-image-container">
                     <img
-                      src="../assets/images/projects/itg-bpm.png"
+                      src="assets/images/projects/itg-bpm.png"
                       alt="Project Image"
                       class="img-fluid project-image"
                     />
@@ -581,7 +581,7 @@
         <h2 class="section-title" data-aos="fade-down">Demo Video</h2>
         <img
           data-aos="fade-up"
-          src="../assets/images/temp/vid.png"
+          src="assets/images/temp/vid.png"
           alt="vid"
           style="width: 100%; margin-top: 40px"
         />
@@ -755,7 +755,7 @@
                 <div class="project-card d-lg-flex">
                   <div class="col-lg-6 p-0 project-image-container">
                     <img
-                      src="../assets/images/workshop.png"
+                      src="assets/images/workshop.png"
                       alt="Project Image"
                       class="img-fluid project-image"
                     />
@@ -793,7 +793,7 @@
         <div class="row align-items-start pb-4">
           <div class="col-12 col-md-6 mb-3 mb-md-0">
             <div class="d-flex align-items-center mb-3">
-              <img src="../assets/images/footer-logo.svg" alt="footer" />
+              <img src="assets/images/footer-logo.svg" alt="footer" />
             </div>
           </div>
           <div class="col-12 col-md-6 text-md-end footer-social-icons">
@@ -876,9 +876,9 @@
   </body>
 
   <!-- script includes -->
-  <script src="../assets/js/vendor/jquery-1.12.4.min.js"></script>
-  <script src="../assets/js/vendor/aos.js"></script>
-  <script src="../assets/js/vendor/bootstrap.min.js"></script>
-  <script src="../assets/js/vendor/slick.min.js"></script>
-  <script src="../assets/js/main.js"></script>
+  <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
+  <script src="assets/js/vendor/aos.js"></script>
+  <script src="assets/js/vendor/bootstrap.min.js"></script>
+  <script src="assets/js/vendor/slick.min.js"></script>
+  <script src="assets/js/main.js"></script>
 </html>
