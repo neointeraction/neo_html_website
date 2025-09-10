@@ -99,6 +99,8 @@
 </head>
 
 <body>
+   <?php $page='Home';?>
+   
   <!-- navbar  -->
   <div class="navbar-container-block">
     <?php include 'components/navigation.php'; ?>
@@ -1011,16 +1013,8 @@
       </div>
     </div>
   </section>
-  <!-- join-us -- end  -->
-  <!-- footer  -->
   <?php include 'components/footer.php'; ?>
-  <!-- footer -- end -->
+  <?php include 'includes/footer-additional-scripts.php'; ?>
+  <?php include 'includes/js.php'; ?>
 </body>
-
-<!-- script includes -->
-<script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
-<script src="assets/js/vendor/bootstrap.min.js"></script>
-<script src="assets/js/vendor/slick.min.js"></script>
-<script src="assets/js/main.js"></script>
-
 </html>

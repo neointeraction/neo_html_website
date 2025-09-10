@@ -26,7 +26,7 @@
     <?php include 'includes/head-additional-scripts.php'; ?>
 </head>
 <body>
-    <?php $page='blog';?>
+    <?php $page='Blogs';?>
     <?php include 'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
@@ -92,27 +92,21 @@
   <!-- recent-blogs  -->
   <section class="recent-blogs section-padding">
     <div class="container">
-      <div class="title-flex">
-        <h2 class="section-title" data-aos="fade-down">Recent Blogs</h2>
-        <a href="#" class="section-links" data-aos="fade-down">View All</a>
-      </div>
-      <div class="blog-container-block">
-        <div class="row g-4 justify-content-center">
-            <?php include 'components/blogs-listing.php'; ?>
+        <div class="title-flex">
+            <h2 class="section-title" data-aos="fade-down">Recent Blogs</h2>
+            <a href="#" class="section-links" data-aos="fade-down">View All</a>
         </div>
-      </div>
+        <div class="blog-container-block">
+            <div class="row g-4 justify-content-center">
+                <?php include 'components/blogs-listing.php'; ?>
+            </div>
+        </div>
     </div>
   </section>
   <!-- recent-blogs - end  -->
   <?php include 'components/submit-enquiry.php'; ?>
   <?php include 'components/footer.php'; ?>
-
-
   <?php include 'includes/footer-additional-scripts.php'; ?>
   <?php include 'includes/js.php'; ?>
 </body>
-
-<!-- script includes -->
-
-
 </html>
