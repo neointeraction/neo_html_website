@@ -118,9 +118,15 @@ body {
 }
 
 /* banner  */
+.top-section-padding {
+  padding: 0px 0px 40px 0px;
+}
 
 .section-padding {
   padding: 40px 0;
+}
+.heading-padding {
+  padding: 40px 0px 0px 0px;
 }
 
 .banner {

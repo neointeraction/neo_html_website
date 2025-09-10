@@ -26,146 +26,87 @@
     <?php include 'includes/head-additional-scripts.php'; ?>
 </head>
 <body>
-  <!-- navbar  -->
-  <div class="navbar-container-block">
-    <?php include 'components/navigation.php'; ?>
-    <?php include 'components/whatsapp.php'; ?>
-  </div>
-
-  <!-- navbar -- end  -->
-  <!-- banner  -->
-  <section class="banner section-padding">
-      <div>
-    <div class="container">
-    <h1 class="banner-title" data-aos="fade-up">
-      A collection of our <span class="highlight">insights</span>.
-    </h1>
-  </div>
-
+    <?php $page='Blogs';?>
+    <!-- <?php include 'includes/body-additional-scripts.php'; ?> -->
+    <!-- navbar  -->
+    <div class="navbar-container-block">
+        <?php include 'components/navigation.php'; ?>
+        <?php include 'components/whatsapp.php'; ?>
     </div>
-
-
-  </section>
-  <!-- banner -- end  -->
-  
-  <!-- browse-project  -->
-  <section class="browse-project section-padding">
-    <div class="container">
-      <div class="project-block">
-        <div class="project-block-item" data-aos="fade-up">
-          <div class="row justify-content-center">
-            <div class="col-12">
-              <div class="project-card d-lg-flex">
-                <!-- Image container with fixed height and object-fit for consistent appearance -->
-                <div class="col-lg-6 p-0 project-image-container">
-                  <img
-                    src="assets/images/projects/itg-bpm.png"
-                    alt="Project Image"
-                    class="img-fluid project-image" />
-                </div>
-                <div
-                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title">Intertrust BPM Tool</h2>
-                  <p class="project-description">
-                    A BPM application/product that helps optimizing business
-                    processes in an organization
-                  </p>
-                  <div class="project-tags">
-                    <span class="badge">Healthcare</span>
-                    <span class="badge">Healthcare</span>
-                  </div>
-
-                  <div class="pb-action-btn">
-                    <button class="btn btn-custom read-more-btn">
-                      Read More
-                    </button>
-                  </div>
-                </div>
-              </div>
+    <!-- navbar -- end  -->
+    <!-- banner  -->
+    <section class="banner heading-padding">
+        <div>
+            <div class="container">
+                <h1 class="banner-title" >
+                    A collection of our <span class="highlight">insights</span>.
+                </h1>
             </div>
-          </div>
         </div>
-      </div>
-    </div>
-  </section>
-  <!-- browse-project -- end -->
+    </section>
+    <!-- banner -- end  -->
+  
+    <!-- browse-project  -->
+    <section class="browse-project top-section-padding">
+        <div class="container">
+            <div class="project-block">
+                <div class="project-block-item" >
+                <div class="row justify-content-center">
+                    <div class="col-12">
+                    <div class="project-card d-lg-flex">
+                        <!-- Image container with fixed height and object-fit for consistent appearance -->
+                        <div class="col-lg-6 p-0 project-image-container">
+                        <img
+                            src="assets/images/projects/itg-bpm.png"
+                            alt="Project Image"
+                            class="img-fluid project-image" />
+                        </div>
+                        <div
+                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                        <h2 class="project-title">Intertrust BPM Tool</h2>
+                        <p class="project-description">
+                            A BPM application/product that helps optimizing business
+                            processes in an organization
+                        </p>
+                        <div class="project-tags">
+                            <span class="badge">Healthcare</span>
+                            <span class="badge">Healthcare</span>
+                        </div>
+
+                        <div class="pb-action-btn">
+                            <button class="btn btn-custom read-more-btn">
+                            Read More
+                            </button>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- browse-project -- end -->
 
 
   <!-- recent-blogs  -->
   <section class="recent-blogs section-padding">
     <div class="container">
-      <div class="title-flex">
-        <h2 class="section-title" data-aos="fade-down">Recent Blogs</h2>
-        <a href="#" class="section-links" data-aos="fade-down">View All</a>
-      </div>
-      <div class="blog-container-block">
-        <div class="row g-4 justify-content-center">
-          <!-- Card 1 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="100">
-            <div class="blog-card h-100">
-              <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
-              <div class="card-body">
-                <h5 class="blog-card-title">How to design Effective Dashboard to help boost your...</h5>
-                <p class="blog-card-text">
-                  <small class="text-muted">Thirunavukkarasu L • 1 day ago</small>
-                </p>
-              </div>
-            </div>
-          </div>
-          <!-- Card 2 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="300">
-            <div class="blog-card h-100">
-              <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
-              <div class="card-body">
-                <h5 class="blog-card-title">Advantages and disadvantages of Website Templates</h5>
-                <p class="blog-card-text">
-                  <small class="text-muted">Rahul Kale • 6 days ago</small>
-                </p>
-              </div>
-            </div>
-          </div>
-          <!-- Card 3 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="600">
-            <div class="blog-card h-100">
-              <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
-              <div class="card-body">
-                <h5 class="blog-card-title">What Is UX Design Process? A Complete Actionable Guide</h5>
-                <p class="blog-card-text">
-                  <small class="text-muted">Rahul Kale • 6 days ago</small>
-                </p>
-              </div>
-            </div>
-          </div>
-          <!-- Card 4 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="900">
-            <div class="blog-card h-100">
-              <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
-              <div class="card-body">
-                <h5 class="blog-card-title">What Is UX Design Process? A Complete Actionable Guide</h5>
-                <p class="blog-card-text">
-                  <small class="text-muted">Rahul Kale • 6 days ago</small>
-                </p>
-              </div>
-            </div>
-          </div>
+        <div class="title-flex">
+            <h2 class="section-title" >Recent Blogs</h2>
+            <a href="#" class="section-links" >View All</a>
         </div>
-      </div>
+        <div class="blog-container-block">
+            <div class="row g-4 justify-content-center">
+                <?php include 'components/blogs-listing.php'; ?>
+            </div>
+        </div>
     </div>
   </section>
   <!-- recent-blogs - end  -->
   <?php include 'components/submit-enquiry.php'; ?>
   <?php include 'components/footer.php'; ?>
+  <?php include 'includes/footer-additional-scripts.php'; ?>
+  <?php include 'includes/js.php'; ?>
 </body>
-
-<!-- script includes -->
-<script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
-<script src="assets/js/vendor/aos.js"></script>
-<script src="assets/js/vendor/bootstrap.min.js"></script>
-<script src="assets/js/vendor/slick.min.js"></script>
-<script src="assets/js/main.js"></script>
-
 </html>

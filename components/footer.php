@@ -33,7 +33,7 @@
           <li><a href="#">Services</a></li>
           <li><a href="#">Careers</a></li>
           <li><a href="#">Projects</a></li>
-          <li><a href="#">Contact Us</a></li>
+          <li><a href="contact-us.php">Contact Us</a></li>
         </ul>
       </div>
       <div class="col-6 col-md-3 footer-col">
@@ -43,7 +43,6 @@
           <li><a href="#">UI Development</a></li>
           <li><a href="#">UX Audit</a></li>
           <li><a href="#">Product Design</a></li>
-          <li><a href="#">Contact Us</a></li>
           <li><a href="#">Digital Transformation</a></li>
           <li><a href="#">Micro Frontend Architecture</a></li>
         </ul>
@@ -60,7 +59,7 @@
         <h5 class="footer-heading">Resources</h5>
         <ul class="p-0 footer-link-list">
           <li><a href="#">Events</a></li>
-          <li><a href="#">Blogs</a></li>
+          <li><a href="blogs.php">Blogs</a></li>
         </ul>
       </div>
     </div>
