@@ -24,7 +24,7 @@
     <?php include 'includes/head-additional-scripts.php'; ?>
 </head>
 <body>
-    <?php $page='blog';?>
+    <?php $page='Services';?>
     <?php include 'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
@@ -37,7 +37,7 @@
         <div>
             <div class="container">
                 <h1 class="banner-title">
-                    Use this PHP template <span class="highlight">to recreate new pages</span>
+                    Design shaping <span class="highlight">digital experiences</span>
                 </h1>
             </div>
         </div>
