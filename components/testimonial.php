@@ -1,6 +1,6 @@
   <section class="testimonials section-padding">
     <div class="container">
-      <h2 class="section-title">Testimonials</h2>
+      <h2 class="section-title">What our Clients say about us</h2>
       <div class="testimonial-slider-block">
         <div class="testimonial-slider">
           <div class="tc-item-flex">

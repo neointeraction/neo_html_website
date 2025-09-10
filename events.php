@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
-    
     <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!"/>
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction"/>

@@ -44,15 +44,15 @@
           <li><a href="#">UX Audit</a></li>
           <li><a href="#">Product Design</a></li>
           <li><a href="#">Digital Transformation</a></li>
-          <li><a href="#">Micro Frontend Architecture</a></li>
+          <li><a href="micro-frontend-architecture.php">Micro Frontend Architecture</a></li>
         </ul>
       </div>
       <div class="col-6 col-md-3 footer-col">
         <h5 class="footer-heading">Industries</h5>
         <ul class="p-0 footer-link-list">
-          <li><a href="#">Fintech</a></li>
-          <li><a href="#">Edtech</a></li>
-          <li><a href="#">Healthcare</a></li>
+          <li><a href="fintech.php">Fintech</a></li>
+          <li><a href="edtech.php">Edtech</a></li>
+          <li><a href="healthcare.php">Healthcare</a></li>
         </ul>
       </div>
       <div class="col-6 col-md-3 footer-col">
