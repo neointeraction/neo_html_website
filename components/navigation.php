@@ -25,7 +25,7 @@
                   id="navbarSupportedContent">
                   <ul class="navbar-nav mb-2 mb-lg-0">
                     <li class="nav-item">
-                      <a class="nav-link active" aria-current="page" href="#">Home</a>
+                      <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" href="#">About Us</a>
@@ -40,7 +40,7 @@
                       <a class="nav-link" href="#">Events</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#">Blogs</a>
+                      <a class="nav-link" href="blogs.php">Blogs</a>
                     </li>
                   </ul>
                   <a class="btn btn-custom ms-lg-3" href="contact-us.php">Submit Enquiry</a>
@@ -51,4 +51,5 @@
         </div>
       </div>
     </nav>
+
     <!-- navbar -- end  -->

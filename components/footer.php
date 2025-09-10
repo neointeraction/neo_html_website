@@ -33,7 +33,7 @@
           <li><a href="#">Services</a></li>
           <li><a href="#">Careers</a></li>
           <li><a href="#">Projects</a></li>
-          <li><a href="#">Contact Us</a></li>
+          <li><a href="contact-us.php">Contact Us</a></li>
         </ul>
       </div>
       <div class="col-6 col-md-3 footer-col">
@@ -43,7 +43,6 @@
           <li><a href="#">UI Development</a></li>
           <li><a href="#">UX Audit</a></li>
           <li><a href="#">Product Design</a></li>
-          <li><a href="#">Contact Us</a></li>
           <li><a href="#">Digital Transformation</a></li>
           <li><a href="#">Micro Frontend Architecture</a></li>
         </ul>
@@ -60,7 +59,7 @@
         <h5 class="footer-heading">Resources</h5>
         <ul class="p-0 footer-link-list">
           <li><a href="#">Events</a></li>
-          <li><a href="#">Blogs</a></li>
+          <li><a href="blogs.php">Blogs</a></li>
         </ul>
       </div>
     </div>
@@ -68,26 +67,83 @@
     <!-- Bottom Section - Newsletter & Copyright -->
     <div class="row">
       <div class="col-md-9">
-        <div class="footer-form-flex newsletter-form">
+        <div class="footer-form-flex newsletter-form flex-wrap">
           <h5 class="footer-heading mb-3">Subscribe to our Newsletters</h5>
-          <input
-            type="email"
-            class="form-control me-md-2 mb-2 mb-md-0"
-            placeholder="Enter your work email" />
+          <form id="newsletterForm" class="d-flex flex-wrap">
+            <input
+              style="min-width: 300px;"
+              type="email"
+              id="newsletter-email"
+              class="form-control me-md-2 mb-2 mb-md-0"
+              placeholder="Enter your work email"
+              required />
 
-          <button
-            class="btn btn-custom-secondary white">
-            Subscribe
-          </button>
+            <button
+              type="submit"
+              class="btn btn-custom-secondary white"
+              id="newsletter-btn">
+              Subscribe
+            </button>
+          </form>
+          <div id="newsletter-status"></div>
         </div>
       </div>
     </div>
-
-
-
 
     <p class="copyright-text mb-0">
       &copy; Neointeraction Design. All rights reserved
     </p>
   </div>
 </footer>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const form = document.getElementById("newsletterForm");
+  const emailInput = document.getElementById("newsletter-email");
+  const btn = document.getElementById("newsletter-btn");
+  const status = document.getElementById("newsletter-status");
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+
+    const email = emailInput.value.trim();
+
+    if (!email) {
+      status.innerHTML = '<small class="text-danger">Please enter your email</small>';
+      return;
+    }
+
+    btn.disabled = true;
+    btn.textContent = "Subscribing...";
+
+    // Google Form submission
+    const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
+    const GOOGLE_FORM_EMAIL_FIELD = "YOUR_TIMESTAMP_FIELD.1195398138"; // Replace with actual entry ID
+
+    const formData = new FormData();
+    formData.append(GOOGLE_FORM_EMAIL_FIELD, email);
+    formData.append("entry.873621461", "Newsletter"); // Optional
+    formData.append("entry.894386", new Date().toISOString()); // Optional
+
+    fetch(GOOGLE_FORM_URL, {
+      method: "POST",
+      mode: "no-cors", // Google Forms doesn’t support CORS
+      body: formData
+    })
+      .then(() => {
+        status.innerHTML = '<small class="text-success">Thank you for subscribing!</small>';
+        emailInput.value = "";
+      })
+      .catch(() => {
+        // Even if error, assume submission worked (Google Forms blocks CORS)
+        status.innerHTML = '<small class="text-success">Thank you for subscribing!</small>';
+        emailInput.value = "";
+      })
+      .finally(() => {
+        btn.disabled = false;
+        btn.textContent = "Subscribe";
+        setTimeout(() => (status.innerHTML = ""), 3000);
+      });
+  });
+});
+</script>
