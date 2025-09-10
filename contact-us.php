@@ -37,14 +37,22 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
-
+<html class="no-js" lang="en">
 <head>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="assets/css/vendor/aos.css" rel="stylesheet" />
-    <link href="assets/css/main.css" rel="stylesheet" />
     <title>Neointeraction - Contact Us</title>
+    <meta name="description" content="Get in touch with neointeraction design for inquiries and support.">
+    <meta name="keywords" content="contact, support, inquiry, neointeraction"/>
+    
+    <!-- Include the same CSS structure as blog page -->
+    <?php include 'includes/favicon.php'; ?>
+    <?php include 'includes/css.php'; ?>
+    <?php include 'includes/head-additional-scripts.php'; ?>
+    
+    <!-- Additional AOS CSS if not included in css.php -->
+    <link href="assets/css/vendor/aos.css" rel="stylesheet" />
 
     <style>
         .contact-section {
@@ -61,6 +69,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         .contact-left {
             color: #333;
+            padding: 60px;
         }
 
         .contact-title {
@@ -99,7 +108,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             padding: 60px;
             background: #EFEFEF;
             box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;   
-   }
+        }
 
         .form-title {
             font-size: 32px;
@@ -191,9 +200,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </head>
 
 <body>
+    <?php $page="Contact Us"; ?>
+    <?php include 'includes/body-additional-scripts.php'; ?>
+    
     <!-- navbar -->
     <div class="navbar-container-block">
         <?php include 'components/navigation.php'; ?>
+        <?php include 'components/whatsapp.php'; ?>
     </div>
 
     <!-- Contact Section -->
@@ -299,7 +312,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <!-- footer -->
     <?php include 'components/footer.php'; ?>
 
-    <!-- script includes -->
+    <!-- script includes - match blog page structure -->
+    <?php include 'includes/footer-additional-scripts.php'; ?>
+    <?php include 'includes/js.php'; ?>
+    
+    <!-- Additional scripts if not included in js.php -->
     <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
     <script src="assets/js/vendor/aos.js"></script>
     <script src="assets/js/vendor/bootstrap.min.js"></script>
