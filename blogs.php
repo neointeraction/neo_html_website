@@ -27,7 +27,7 @@
 </head>
 <body>
     <?php $page='Blogs';?>
-    <?php include 'includes/body-additional-scripts.php'; ?>
+    <!-- <?php include 'includes/body-additional-scripts.php'; ?> -->
     <!-- navbar  -->
     <div class="navbar-container-block">
         <?php include 'components/navigation.php'; ?>
@@ -38,7 +38,7 @@
     <section class="banner heading-padding">
         <div>
             <div class="container">
-                <h1 class="banner-title" data-aos="fade-up">
+                <h1 class="banner-title" >
                     A collection of our <span class="highlight">insights</span>.
                 </h1>
             </div>
@@ -50,7 +50,7 @@
     <section class="browse-project top-section-padding">
         <div class="container">
             <div class="project-block">
-                <div class="project-block-item" data-aos="fade-up">
+                <div class="project-block-item" >
                 <div class="row justify-content-center">
                     <div class="col-12">
                     <div class="project-card d-lg-flex">
@@ -93,8 +93,8 @@
   <section class="recent-blogs section-padding">
     <div class="container">
         <div class="title-flex">
-            <h2 class="section-title" data-aos="fade-down">Recent Blogs</h2>
-            <a href="#" class="section-links" data-aos="fade-down">View All</a>
+            <h2 class="section-title" >Recent Blogs</h2>
+            <a href="#" class="section-links" >View All</a>
         </div>
         <div class="blog-container-block">
             <div class="row g-4 justify-content-center">

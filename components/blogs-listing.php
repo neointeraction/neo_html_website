@@ -1,6 +1,5 @@
          <!-- Card 1 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="100">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3" >
             <div class="blog-card h-100">
               <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
               <div class="card-body">
@@ -12,8 +11,7 @@
             </div>
           </div>
           <!-- Card 2 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="300">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3" >
             <div class="blog-card h-100">
               <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
               <div class="card-body">
@@ -25,8 +23,7 @@
             </div>
           </div>
           <!-- Card 3 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="600">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3" >
             <div class="blog-card h-100">
               <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
               <div class="card-body">
@@ -38,8 +35,7 @@
             </div>
           </div>
           <!-- Card 4 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="900">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3" >
             <div class="blog-card h-100">
               <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
               <div class="card-body">
