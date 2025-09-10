@@ -43,8 +43,11 @@
         </div>
     </section>
     <!-- banner -- end  -->
-  <?php include 'components/footer.php'; ?>
-  <?php include 'includes/footer-additional-scripts.php'; ?>
-  <?php include 'includes/js.php'; ?>
+    <?php include 'components/testimonial.php'; ?>
+    <?php include 'components/submit-enquiry.php'; ?>
+    <?php include 'components/faq.php'; ?>
+    <?php include 'components/footer.php'; ?>
+    <?php include 'includes/footer-additional-scripts.php'; ?>
+    <?php include 'includes/js.php'; ?>
 </body>
 </html>
