@@ -74,6 +74,7 @@ body {
   font-weight: 600;
   transition: background-color 0.3s ease;
   border-radius: 0px;
+  width: auto;
 }
 
 .btn-custom:hover {
@@ -92,6 +93,7 @@ body {
   font-weight: 600;
   transition: background-color 0.3s ease;
   border-radius: 0;
+  width: auto;
 }
 
 .btn-custom-secondary.white {
@@ -157,7 +159,7 @@ body {
   padding: 40px 0;
 }
 .heading-padding {
-  padding: 40px 0px 0px 0px;
+  padding: 40px 0px 0px 0px !important;
 }
 
 .banner {
@@ -819,4 +821,8 @@ body {
 .accordion-button:focus,
 .btn:focus {
   box-shadow: none;
+}
+
+.blog-anchor {
+  text-decoration: none;
 }
