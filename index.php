@@ -7,6 +7,95 @@
   <link href="assets/css/vendor/aos.css" rel="stylesheet" />
   <link href="assets/css/main.css" rel="stylesheet" />
   <title>Neointeraction - Home</title>
+
+  <style>
+.solutions-help {
+  background: #fff;
+}
+
+.section-subtitle {
+  color: #666;
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.case-study-btn {
+  background: #333 !important;
+  border: 2px solid #333 !important;
+  color: #fff !important;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.case-study-btn:hover {
+  background: #555 !important;
+  color: #fff !important;
+}
+
+.modal-content {
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+}
+
+.modal-header {
+  border-bottom: 1px solid #eee;
+  padding: 20px 30px;
+}
+
+.modal-body {
+  padding: 30px;
+}
+
+.form-control {
+  border: 2px solid #e9ecef;
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-size: 16px;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,0.25);
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1050;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.modal.show {
+  display: block !important;
+}
+
+.modal-open {
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .section-subtitle {
+    font-size: 16px;
+  }
+  
+  .custom-card {
+    margin-bottom: 25px;
+  }
+}
+</style>
+
+
 </head>
 
 <body>
@@ -159,6 +248,115 @@
       </div>
     </div>
   </section>
+
+  <!-- solutions-help section -->
+<section class="solutions-help section-padding">
+  <div class="container">
+ <div class="d-flex justify-content-between align-items-start mb-4">
+      <div>
+        <h2 class="section-title" data-aos="fade-down">
+          How did our solutions help?
+        </h2>
+      </div>
+      <button class="btn btn-dark case-study-btn" data-case="all" data-aos="fade-down" id="case-study-btn">
+        Download case study
+      </button>
+    </div>
+    <p class="mb-5" data-aos="fade-up">
+      Our user task-focused design empowers crew members, ensuring seamless goal achievement and enhanced productivity. Beyond technical improvements, it transforms daily routines for a more enjoyable and manageable experience.
+    </p>
+    <div class="bs-card-section">
+      <div class="row justify-content-center">
+        <!-- Card 1 -->
+        <div
+          class="col-12 col-md-6 col-lg-3"
+          data-aos="fade-up"
+          data-aos-delay="100">
+          <div class="custom-card case-study-card" >
+            <h4 class="title" style="color: #333; margin-bottom: 16px;">Improved Usability</h4>
+            <p class="description" style="color: #666; margin-bottom: 20px;">
+              Our design significantly enhances the system's usability, offering a more user-friendly and accessible interface.
+            </p>
+        
+          </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div
+          class="col-12 col-md-6 col-lg-3"
+          data-aos="fade-up"
+          data-aos-delay="300">
+          <div class="custom-card case-study-card">
+            <h4 class="title" style="color: #333; margin-bottom: 16px;">User Centric UI</h4>
+            <p class="description" style="color: #666; margin-bottom: 20px;">
+              Prioritizing crew well-being and mobility management, our UI design ensures both functionality and comfort.
+            </p>
+      
+          </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div
+          class="col-12 col-md-6 col-lg-3"
+          data-aos="fade-up"
+          data-aos-delay="600">
+          <div class="custom-card case-study-card" >
+            <h4 class="title" style="color: #333; margin-bottom: 16px;">Enhanced Performance</h4>
+            <p class="description" style="color: #666; margin-bottom: 20px;">
+              Optimized workflows and reduced processing time resulted in significant performance improvements across all modules.
+            </p>
+       
+          </div>
+        </div>
+
+        <!-- Card 4 -->
+        <div
+          class="col-12 col-md-6 col-lg-3"
+          data-aos="fade-up"
+          data-aos-delay="900">
+          <div class="custom-card case-study-card" >
+            <h4 class="title" style="color: #333; margin-bottom: 16px;">Cost Efficiency</h4>
+            <p class="description" style="color: #666; margin-bottom: 20px;">
+              Strategic implementation reduced operational costs while maintaining high-quality standards and user satisfaction.
+            </p>
+         
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Case Study Download Modal -->
+<div class="modal fade" id="caseStudyModal" tabindex="-1" role="dialog" aria-labelledby="caseStudyModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="caseStudyModalLabel">Download Case Study</h5>
+      <!-- Change this line in your modal -->
+<button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p class="mb-3">Enter your email to download the case study and stay updated with our latest insights.</p>
+        <form id="caseStudyForm">
+          <div class="mb-3">
+            <input
+              type="email"
+              id="case-study-email"
+              class="form-control"
+              placeholder="Enter your work email"
+              required>
+          </div>
+          <div id="case-study-status" class="mb-3"></div>
+          <button type="submit" class="btn btn-custom-secondary w-100" id="case-study-submit">
+            Download Case Study
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
   <!-- business-success -- end  -->
   <!-- our-impact  -->
   <section class="our-impact section-padding">
