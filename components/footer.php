@@ -29,10 +29,10 @@
       <div class="col-6 col-md-3 footer-col">
         <h5 class="footer-heading">Overview</h5>
         <ul class="p-0 footer-link-list">
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Careers</a></li>
-          <li><a href="#">Projects</a></li>
+          <li><a href="about-us.php">About Us</a></li>
+          <li><a href="services.php">Services</a></li>
+          <li><a href="careers.php">Careers</a></li>
+          <li><a href="projects.php">Projects</a></li>
           <li><a href="contact-us.php">Contact Us</a></li>
         </ul>
       </div>
@@ -58,8 +58,9 @@
       <div class="col-6 col-md-3 footer-col">
         <h5 class="footer-heading">Resources</h5>
         <ul class="p-0 footer-link-list">
-          <li><a href="#">Events</a></li>
+          <li><a href="events.php">Events</a></li>
           <li><a href="blogs.php">Blogs</a></li>
+          <li><a href="privacy.php">Privacy Policy</a></li>
         </ul>
       </div>
     </div>
