@@ -4,8 +4,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href="assets/css/vendor/aos.css" rel="stylesheet" />
   <link href="assets/css/main.css" rel="stylesheet" />
+  <link href="assets/css/responsive.css" rel="stylesheet" />
   <title>Neointeraction - Home</title>
 </head>
 
@@ -22,46 +22,46 @@
     <div class="banner-slider">
       <div>
         <div class="container">
-          <h1 class="banner-title" data-aos="fade-up">
+          <h1 class="banner-title">
             Award winning <span class="highlight">Ux Agency</span>
           </h1>
         </div>
         <!-- <button
             class="btn btn-custom btn-custom-secondary mt-4"
-            data-aos="fade-up">
+            >
             Talk to an Expert
           </button> -->
-        <div class="banner-img-block" data-aos="fade-up">
+        <div class="banner-img-block">
           <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
         </div>
       </div>
       <div>
         <div class="container">
-          <h1 class="banner-title" data-aos="fade-up">
+          <h1 class="banner-title">
             Make tech products <span class="highlight">more human</span>
           </h1>
         </div>
-        <div class="banner-img-block" data-aos="fade-up">
+        <div class="banner-img-block">
           <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
         </div>
       </div>
       <div>
         <div class="container">
-          <h1 class="banner-title" data-aos="fade-up">
+          <h1 class="banner-title">
             AI-Powered Design. <span class="highlight">Human-Centered</span> Results.
           </h1>
         </div>
-        <div class="banner-img-block" data-aos="fade-up">
+        <div class="banner-img-block">
           <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
         </div>
       </div>
       <div>
         <div class="container">
-          <h1 class="banner-title" data-aos="fade-up">
+          <h1 class="banner-title">
             Design With Purpose. <span class="highlight">Build With Precision</span>.
           </h1>
         </div>
-        <div class="banner-img-block" data-aos="fade-up">
+        <div class="banner-img-block">
           <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
         </div>
       </div>
@@ -73,16 +73,13 @@
   <!-- business-success  -->
   <section class="business-success section-padding">
     <div class="container">
-      <h2 class="section-title" data-aos="fade-down">
+      <h2 class="section-title">
         Crafting business success through Digital Experience
       </h2>
       <div class="bs-card-section">
         <div class="row justify-content-center">
           <!-- Card 1 -->
-          <div
-            class="col-12 col-md-6 col-lg-3"
-            data-aos="fade-up"
-            data-aos-delay="100">
+          <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
               <div class="icon-container">
                 <img src="assets/images/ux.svg" alt="ux" />
@@ -98,10 +95,7 @@
           </div>
 
           <!-- Card 2 -->
-          <div
-            class="col-12 col-md-6 col-lg-3"
-            data-aos="fade-up"
-            data-aos-delay="300">
+          <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
               <div class="icon-container">
                 <img src="assets/images/pd.svg" alt="pd" />
@@ -117,10 +111,7 @@
           </div>
 
           <!-- Card 3 -->
-          <div
-            class="col-12 col-md-6 col-lg-3"
-            data-aos="fade-up"
-            data-aos-delay="600">
+          <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
               <div class="icon-container">
                 <img src="assets/images/dt.svg" alt="dt" />
@@ -137,10 +128,7 @@
           </div>
 
           <!-- Card 4 -->
-          <div
-            class="col-12 col-md-6 col-lg-3"
-            data-aos="fade-up"
-            data-aos-delay="900">
+          <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
               <div class="icon-container">
                 <img src="assets/images/fd.svg" alt="fd" />
@@ -163,9 +151,9 @@
   <!-- our-impact  -->
   <section class="our-impact section-padding">
     <div class="container">
-      <h2 class="section-title" data-aos="fade-down">Our Impact</h2>
+      <h2 class="section-title">Our Impact</h2>
 
-      <div class="row w-100" data-aos="fade-up">
+      <div class="row w-100">
         <!-- 15+ years expertise -->
         <div class="col-6 col-md-3 count-up-item">
           <div class="count-number" data-target="15">0</div>
@@ -177,12 +165,12 @@
           <div class="count-label">trusted clients</div>
         </div>
         <!-- 1b+ lives impacted -->
-        <div class="col-6 col-md-3 count-up-item mt-4 mt-md-0">
+        <div class="col-6 col-md-3 count-up-item  mt-md-0">
           <div class="count-number" data-target="1">0</div>
           <div class="count-label">billion+ lives impacted</div>
         </div>
         <!-- 10+ countries impacted -->
-        <div class="col-6 col-md-3 count-up-item mt-4 mt-md-0">
+        <div class="col-6 col-md-3 count-up-item mt-md-0">
           <div class="count-number" data-target="10">0</div>
           <div class="count-label">countries impacted</div>
         </div>
@@ -194,11 +182,11 @@
   <!-- clients  -->
   <section class="clients section-padding">
     <div class="container">
-      <h2 class="section-title" data-aos="fade-down">
+      <h2 class="section-title">
         Clients we’ve partnered with
       </h2>
 
-      <div class="scroll-container" data-aos="fade-up">
+      <div class="scroll-container">
         <div class="scrolling-logos">
           <!-- First set of logos -->
           <div class="client-logo-flex" aria-hidden="true">
@@ -289,14 +277,11 @@
   <!-- testimonials  -->
   <section class="testimonials section-padding">
     <div class="container">
-      <h2 class="section-title" data-aos="fade-down">Testimonials</h2>
+      <h2 class="section-title">Testimonials</h2>
       <div class="testimonial-slider-block">
         <div class="testimonial-slider">
           <div class="tc-item-flex">
-            <div
-              class="testimonial-card"
-              data-aos="fade-up"
-              data-aos-delay="100">
+            <div class="testimonial-card">
               <div class="quote-icon"></div>
               <div class="testimonial-text">
                 They had the expertise to provide out-of-the-box ideas
@@ -314,10 +299,7 @@
                 </div>
               </div>
             </div>
-            <div
-              class="testimonial-card"
-              data-aos="fade-up"
-              data-aos-delay="300">
+            <div class="testimonial-card">
               <div class="quote-icon"></div>
               <div class="testimonial-text">
                 We were most impressed with their commitment to the project.
@@ -337,9 +319,7 @@
 
           <div class="tc-item-flex">
             <div
-              class="testimonial-card"
-              data-aos="fade-up"
-              data-aos-delay="100">
+              class="testimonial-card">
               <div class="quote-icon"></div>
               <div class="testimonial-text">
                 They had the expertise to provide out-of-the-box ideas
@@ -358,9 +338,7 @@
               </div>
             </div>
             <div
-              class="testimonial-card"
-              data-aos="fade-up"
-              data-aos-delay="300">
+              class="testimonial-card">
               <div class="quote-icon"></div>
               <div class="testimonial-text">
                 We were most impressed with their commitment to the project.
@@ -380,9 +358,7 @@
 
           <div class="tc-item-flex">
             <div
-              class="testimonial-card"
-              data-aos="fade-up"
-              data-aos-delay="100">
+              class="testimonial-card">
               <div class="quote-icon"></div>
               <div class="testimonial-text">
                 They had the expertise to provide out-of-the-box ideas
@@ -401,9 +377,7 @@
               </div>
             </div>
             <div
-              class="testimonial-card"
-              data-aos="fade-up"
-              data-aos-delay="300">
+              class="testimonial-card">
               <div class="quote-icon"></div>
               <div class="testimonial-text">
                 We were most impressed with their commitment to the project.
@@ -429,11 +403,11 @@
   <section class="browse-project section-padding">
     <div class="container">
       <div class="title-flex">
-        <h2 class="section-title" data-aos="fade-down">Browse Projects</h2>
-        <a href="#" class="section-links" data-aos="fade-down">View All</a>
+        <h2 class="section-title">Browse Projects</h2>
+        <a href="#" class="section-links">View All</a>
       </div>
       <div class="project-block">
-        <div class="project-block-item" data-aos="fade-up">
+        <div class="project-block-item">
           <div class="row justify-content-center">
             <div class="col-12">
               <div class="project-card d-lg-flex">
@@ -466,7 +440,7 @@
             </div>
           </div>
         </div>
-        <div class="project-block-item" data-aos="fade-up">
+        <div class="project-block-item">
           <div class="row justify-content-center">
             <div class="col-12">
               <div class="project-card d-lg-flex">
@@ -498,7 +472,7 @@
             </div>
           </div>
         </div>
-        <div class="project-block-item" data-aos="fade-up">
+        <div class="project-block-item">
           <div class="row justify-content-center">
             <div class="col-12">
               <div class="project-card d-lg-flex">
@@ -537,9 +511,9 @@
   <!-- demo-video  -->
   <section class="demo-video section-padding">
     <div class="container">
-      <h2 class="section-title" data-aos="fade-down">Demo Video</h2>
+      <h2 class="section-title">Demo Video</h2>
       <img
-        data-aos="fade-up"
+        class=""
         src="assets/images/temp/vid.png"
         alt="vid"
         style="width: 100%; margin-top: 40px" />
@@ -548,9 +522,9 @@
   <!-- faq  -->
   <section class="faq section-padding">
     <div class="container">
-      <h2 class="section-title" data-aos="fade-down">FAQ’s</h2>
+      <h2 class="section-title">FAQ’s</h2>
 
-      <div class="faq-block" data-aos="fade-up">
+      <div class="faq-block">
         <div class="accordion" id="faqAccordion">
           <!-- FAQ Item 1 -->
           <div class="accordion-item">
@@ -694,10 +668,10 @@
   <!-- design-events  -->
   <section class="design-events section-padding">
     <div class="container">
-      <h2 class="section-title" data-aos="fade-down">Design Events</h2>
+      <h2 class="section-title">Design Events</h2>
 
-      <div class="project-block">
-        <div class="project-block-item" data-aos="fade-up">
+      <div class="project-block ">
+        <div class="project-block-item">
           <div class="row justify-content-center">
             <div class="col-12">
               <div class="project-card d-lg-flex">
@@ -736,14 +710,13 @@
   <section class="recent-blogs section-padding">
     <div class="container">
       <div class="title-flex">
-        <h2 class="section-title" data-aos="fade-down">Recent Blogs</h2>
-        <a href="#" class="section-links" data-aos="fade-down">View All</a>
+        <h2 class="section-title">Recent Blogs</h2>
+        <a href="#" class="section-links">View All</a>
       </div>
       <div class="blog-container-block">
         <div class="row g-4 justify-content-center">
           <!-- Card 1 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="100">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <div class="blog-card h-100">
               <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
               <div class="card-body">
@@ -755,8 +728,7 @@
             </div>
           </div>
           <!-- Card 2 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="300">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <div class="blog-card h-100">
               <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
               <div class="card-body">
@@ -768,8 +740,7 @@
             </div>
           </div>
           <!-- Card 3 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="600">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <div class="blog-card h-100">
               <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
               <div class="card-body">
@@ -781,8 +752,7 @@
             </div>
           </div>
           <!-- Card 4 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3" data-aos="fade-up"
-            data-aos-delay="900">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <div class="blog-card h-100">
               <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
               <div class="card-body">
@@ -801,22 +771,21 @@
   <!-- banner-strip  -->
   <section class="banner-strip section-padding">
     <div class="container">
-      <div class="row ui-card ">
+      <div class="row ui-card">
         <!-- Image Column -->
-        <div class="col-md-6  img-container" data-aos="zoom-in">
+        <div class="col-md-6 img-container">
           <img src="assets/images/bs-img.png" alt="Stylized illustration" class="img-fluid">
         </div>
 
         <!-- Text and Button Column -->
         <div class="col-md-6 ">
-          <h2 class="bs-title" data-aos="fade-left">Submit Enquiry</h2>
-          <p class="bs-text" data-aos="fade-left">
+          <h2 class="bs-title">Submit Enquiry</h2>
+          <p class="bs-text">
             Igniting success through passion-fueled collaboration. Igniting success
             through passion-fueled collaboration.
           </p>
           <button
-            class="btn btn-custom bs-button"
-            data-aos="fade-left">
+            class="btn btn-custom bs-button">
             Request a Quote
           </button>
         </div>
@@ -828,7 +797,7 @@
   <!-- join-us  -->
   <section class="join-us section-padding">
     <div class="container">
-      <div class="row align-items-center" data-aos="fade-up">
+      <div class="row align-items-center">
         <div class="col-md-3 d-flex align-items-center">
           <h1 class="join-us-title mb-0">Join Our Team</h1>
         </div>
@@ -852,7 +821,6 @@
 
 <!-- script includes -->
 <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
-<script src="assets/js/vendor/aos.js"></script>
 <script src="assets/js/vendor/bootstrap.min.js"></script>
 <script src="assets/js/vendor/slick.min.js"></script>
 <script src="assets/js/main.js"></script>

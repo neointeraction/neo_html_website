@@ -1,7 +1,3 @@
-// animation transition init
-
-AOS.init({ anchorPlacement: "bottom" });
-
 // slick
 
 $(".testimonial-slider").slick({
