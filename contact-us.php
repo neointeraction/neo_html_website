@@ -50,9 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <?php include 'includes/favicon.php'; ?>
     <?php include 'includes/css.php'; ?>
     <?php include 'includes/head-additional-scripts.php'; ?>
-    
-    <!-- Additional AOS CSS if not included in css.php -->
-    <link href="assets/css/vendor/aos.css" rel="stylesheet" />
+
 
     <style>
         .contact-section {
@@ -134,7 +132,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             width: 100%;
             padding: 12px 16px;
             border: 2px solid #e9ecef;
-            border-radius: 4px;
+            border-radius: 0px;
             font-size: 16px;
             background: #fff;
         }
@@ -155,7 +153,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             color: #fff;
             border: none;
             padding: 12px 24px;
-            border-radius: 4px;
+            border-radius: 0px;
             font-size: 16px;
             font-weight: 500;
             cursor: pointer;
@@ -309,18 +307,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </div>
     </section>
 
-    <!-- footer -->
     <?php include 'components/footer.php'; ?>
-
-    <!-- script includes - match blog page structure -->
     <?php include 'includes/footer-additional-scripts.php'; ?>
     <?php include 'includes/js.php'; ?>
     
-    <!-- Additional scripts if not included in js.php -->
-    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="assets/js/vendor/aos.js"></script>
-    <script src="assets/js/vendor/bootstrap.min.js"></script>
-    <script src="assets/js/main.js"></script>
 </body>
 
 </html>
