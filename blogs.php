@@ -29,6 +29,87 @@
 
 <body>
     <?php $page = 'Blogs'; ?>
+    
+    <?php
+    // Initialize the blog system
+    $news_list = array(
+        "john-distilleries-introduce-single-malt-whisky.php",
+        "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php",
+        "paul-john-shakes-world-single-malt-connoisseurship.php",
+        "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php",
+        "10-smoky-whiskies-sip-all-winter-long-peated-select-cask.php",
+        "10-superb-smoky-whiskies-you-should-try-paul-john-peated.php",
+        "depth-distinction-coming-density-robb-report.php",
+        "colourful-vibrant-and-balanced-paul-john-single-malt-must-lovers-peat-forbes.php",
+        "meet-craft-whiskies-2018-taste-tested-cbc-goodfood.php",
+        "whisky-made-india-by-independent-on-saturday-south-africa.php",
+        "premium-best-drams-spiritz-magazine-india.php",
+        "sip-some-single-malt-indias-first-ever-visitor-centre-distillery-tour-goa.php",
+        "paul-johns-kenny-joins-malt-maniacs-malt-malt.php",
+        "man-behind-paul-john-whisky-his-single-malt-journey-drink-making-philosophy-and-premium-gin-works.php",
+        "mithuna-makes-splash.php",
+        "little-known-indian-whiskey-beat-out-worlds-best.php",
+        "paul-john-whisky-mid-day.php",
+        "4-indian-whiskies-world-loves.php",
+        "paul-john-single-malt-story.php",
+        "paul-john-xo-branded-gold-world-brandy-awards-2021.php",
+        "mithuna-tasting-dramble.php",
+        "india-world-journey-paul-john.php",
+        "gloroso-architectural-digest.php"
+    );
+
+    // Blog metadata
+    $blog_metadata = array(
+        "john-distilleries-introduce-single-malt-whisky.php" => array(
+            "title" => "How to design Effective Dashboard to help boost your business",
+            "author" => "Thirunavukkarasu L",
+            "date" => "1 day ago",
+            "image" => "assets/images/temp/blog.png",
+            "alt" => "Dashboard UI"
+        ),
+        "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php" => array(
+            "title" => "Advantages and disadvantages of Website Templates",
+            "author" => "Rahul Kale",
+            "date" => "6 days ago",
+            "image" => "assets/images/temp/blog2.png",
+            "alt" => "Website Templates"
+        ),
+        "paul-john-shakes-world-single-malt-connoisseurship.php" => array(
+            "title" => "What Is UX Design Process? A Complete Actionable Guide",
+            "author" => "Rahul Kale",
+            "date" => "6 days ago",
+            "image" => "assets/images/temp/blog.png",
+            "alt" => "UX Design Process"
+        ),
+        "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php" => array(
+            "title" => "Revolutionary UI/UX Design Through Machine Learning",
+            "author" => "Thirunavukkarasu L",
+            "date" => "2 days ago",
+            "image" => "assets/images/temp/blog2.png",
+            "alt" => "Machine Learning UI"
+        ),
+        "10-smoky-whiskies-sip-all-winter-long-peated-select-cask.php" => array(
+            "title" => "Modern Web Development Best Practices for 2024",
+            "author" => "Rahul Kale",
+            "date" => "1 week ago",
+            "image" => "assets/images/temp/blog.png",
+            "alt" => "Web Development"
+        ),
+        "10-superb-smoky-whiskies-you-should-try-paul-john-peated.php" => array(
+            "title" => "Creating Responsive Design with CSS Grid and Flexbox",
+            "author" => "Thirunavukkarasu L",
+            "date" => "1 week ago",
+            "image" => "assets/images/temp/blog2.png",
+            "alt" => "Responsive Design"
+        ),
+        // Add more as needed - using fallback for others
+    );
+
+    // Pagination variables
+    $items_per_page = 8; // Show 8 items initially (2 rows of 4)
+    $load_more_count = 4; // Load 4 more items each time
+    ?>
+
     <!-- <?php include 'includes/body-additional-scripts.php'; ?> -->
     <!-- navbar  -->
     <div class="navbar-container-block">
@@ -92,17 +173,121 @@
     <section class="recent-blogs ">
         <div class="container">
             <div class="blog-container-block">
-                <div class="row g-4 justify-content-center">
-                    <?php include 'blogs/blogs-listing.php'; ?>
-                    <?php include 'blogs/blogs-listing.php'; ?>
-                    <button class="btn btn-custom btn-custom-secondary">
-                        Load More
-                    </button>
+                <div class="row g-4 justify-content-center" id="blog-container">
+                    <?php
+                    // Show initial blogs
+                    for ($i = 0; $i < min($items_per_page, count($news_list)); $i++) {
+                        $blog_file = $news_list[$i];
+                        $metadata = isset($blog_metadata[$blog_file]) ? $blog_metadata[$blog_file] : array(
+                            "title" => "Insightful Blog Post About Design and Development",
+                            "author" => "Design Team",
+                            "date" => "Recently",
+                            "image" => "assets/images/temp/blog.png",
+                            "alt" => "Blog Image"
+                        );
+                        ?>
+                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                            <a href="<?php echo htmlspecialchars($blog_file); ?>" class="blog-anchor">
+                                <div class="blog-card h-100">
+                                    <img src="<?php echo htmlspecialchars($metadata['image']); ?>" 
+                                         class="card-img-top" 
+                                         alt="<?php echo htmlspecialchars($metadata['alt']); ?>">
+                                    <div class="card-body">
+                                        <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
+                                        <p class="blog-card-text">
+                                            <small class="text-muted"><?php echo htmlspecialchars($metadata['author']); ?> • <?php echo htmlspecialchars($metadata['date']); ?></small>
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <?php
+                    }
+                    ?>
                 </div>
+                
+                <?php if (count($news_list) > $items_per_page): ?>
+                    <div class="text-center mt-4">
+                        <button class="btn btn-custom btn-custom-secondary" id="load-more-btn" onclick="loadMoreBlogs()">
+                            Load More
+                        </button>
+                    </div>
+                <?php endif; ?>
             </div>
         </div>
     </section>
     <!-- recent-blogs - end  -->
+
+    <!-- JavaScript for Load More functionality -->
+    <script>
+    let currentIndex = <?php echo $items_per_page; ?>;
+    const loadMoreCount = <?php echo $load_more_count; ?>;
+    const totalBlogs = <?php echo count($news_list); ?>;
+    
+    const blogData = <?php echo json_encode(array_map(function($blog_file) use ($blog_metadata) {
+        return array(
+            'file' => $blog_file,
+            'metadata' => isset($blog_metadata[$blog_file]) ? $blog_metadata[$blog_file] : array(
+                "title" => "Insightful Blog Post About Design and Development",
+                "author" => "Design Team", 
+                "date" => "Recently",
+                "image" => "assets/images/temp/blog.png",
+                "alt" => "Blog Image"
+            )
+        );
+    }, $news_list)); ?>;
+
+    function loadMoreBlogs() {
+        const container = document.getElementById('blog-container');
+        const loadMoreBtn = document.getElementById('load-more-btn');
+        
+        let itemsToLoad = Math.min(loadMoreCount, totalBlogs - currentIndex);
+        
+        for (let i = 0; i < itemsToLoad; i++) {
+            const blogIndex = currentIndex + i;
+            const blog = blogData[blogIndex];
+            
+            const blogCard = `
+                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <a href="${escapeHtml(blog.file)}" class="blog-anchor">
+                        <div class="blog-card h-100">
+                            <img src="${escapeHtml(blog.metadata.image)}" 
+                                 class="card-img-top" 
+                                 alt="${escapeHtml(blog.metadata.alt)}">
+                            <div class="card-body">
+                                <h5 class="blog-card-title">${escapeHtml(blog.metadata.title)}</h5>
+                                <p class="blog-card-text">
+                                    <small class="text-muted">${escapeHtml(blog.metadata.author)} • ${escapeHtml(blog.metadata.date)}</small>
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            `;
+            
+            container.insertAdjacentHTML('beforeend', blogCard);
+        }
+        
+        currentIndex += itemsToLoad;
+        
+        // Hide load more button if all blogs are loaded
+        if (currentIndex >= totalBlogs) {
+            loadMoreBtn.style.display = 'none';
+        }
+    }
+    
+    function escapeHtml(text) {
+        const map = {
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#039;'
+        };
+        return text.replace(/[&<>"']/g, function(m) { return map[m]; });
+    }
+    </script>
+    
     <?php include 'components/submit-enquiry.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>
