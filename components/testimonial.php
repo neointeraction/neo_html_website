@@ -137,7 +137,6 @@
               </div>
             </div>
           </div>
-
           <div
             class="testimonial-card">
             <div class="quote-icon"></div>
@@ -157,10 +156,6 @@
               </div>
             </div>
           </div>
-
-
-
-
           <div
             class="testimonial-card">
             <div class="quote-icon"></div>
@@ -180,8 +175,6 @@
               </div>
             </div>
           </div>
-
-
         </div>
       </div>
     </div>

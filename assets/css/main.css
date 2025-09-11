@@ -199,10 +199,11 @@ body {
   border-radius: 0px;
   padding: 24px;
   margin: 20px auto;
+  transition: 0.3s all ease-in-out;
 }
 
 .custom-card:hover {
-  background: rgba(223, 155, 155, 0.5);
+  box-shadow: 4px 6px 4px 0px #a1959540;
   transition: 0.3s all ease-in-out;
 }
 
@@ -238,25 +239,6 @@ body {
   line-height: 24px;
   margin-bottom: 24px;
 }
-
-/* .client-block {
-  margin-top: 30px;
-}
-
-.client-logo-flex {
-  display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  gap: 28px;
-  align-items: center;
-}
-
-.clf-item {
-  width: 100%;
-}
-
-.clf-item img {
-  width: 100%;
-} */
 
 .scroll-container {
   width: 100%;
@@ -823,6 +805,151 @@ body {
   box-shadow: none;
 }
 
+/* blog detail  */
+
 .blog-anchor {
   text-decoration: none;
+}
+
+.blog-body-padding {
+  padding: 0 120px;
+}
+
+.blog-banner-img {
+  margin: 60px 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.blog-body-text {
+  font-weight: 400;
+  font-size: 16px;
+  color: #58595a;
+}
+
+.blog-body-title {
+  font-weight: 500;
+  font-size: 32px;
+  color: #58595a;
+  margin-top: 40px;
+}
+
+.blog-section-banner-img {
+  margin: 20px 0 30px 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.blog-quote-block {
+  background: #efefef;
+  padding: 24px;
+  margin-top: 40px;
+}
+
+.blog-quote-text {
+  font-weight: 500;
+  font-size: 20px;
+  color: #2b2828;
+  margin-bottom: 0;
+}
+
+.view-all-blogs-btn {
+  padding: 60px 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+/* project detail  */
+
+.project-banner-img {
+  margin-top: 24px;
+}
+
+.project-banner-img img {
+  width: 100%;
+}
+
+.p-logo {
+  text-align: center;
+}
+
+.project-quote-block {
+  margin-top: 80px;
+}
+
+.project-section-title {
+  font-weight: 500;
+  font-size: 36px;
+  color: #58595a;
+}
+
+.project-section-padding {
+  padding-top: 60px;
+}
+
+.p-main-text {
+  font-weight: 400;
+  font-size: 32px;
+  color: #2b2828;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+
+.result-block .count-label {
+  font-weight: 400;
+  font-size: 20px;
+  color: #ec1c24;
+}
+
+.result-block .count-number {
+  font-weight: 400;
+  font-size: 60px;
+  color: #58595a;
+}
+
+.project-body-text {
+  font-weight: 400;
+  font-size: 18px;
+  color: #58595a;
+}
+
+.project-bs-cards .custom-card {
+  min-height: 182px;
+  margin: 20px auto 0 auto;
+}
+
+.project-bs-cards .custom-card .description {
+  margin-bottom: 0;
+}
+
+.brainstorming-session {
+  text-align: center;
+}
+
+.bs-img {
+  margin-top: 24px;
+}
+
+.bs-img img {
+  width: 100%;
+}
+
+.solutions-help .title-flex {
+  margin-bottom: 16px;
+}
+
+.solutions-help .custom-card {
+  min-height: 230px;
+  margin: 20px auto 0 auto;
+}
+
+.solutions-help .custom-card .description {
+  margin-bottom: 0;
+}
+
+.ui-update {
+  text-align: center;
 }
