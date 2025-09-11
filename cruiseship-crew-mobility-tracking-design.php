@@ -1,23 +1,22 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
-    <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
-    <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!"/>
-    <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction"/>
-    <link rel="canonical" href="https://www.neointeraction.com/blog"/>
-    <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations"/>
-    <meta property="og:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India."/>
-    <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png"/>
-    <meta property="og:image:width" content="1200"/>
-    <meta property="og:image:height" content="630"/>
-    <meta property="og:url" content="https://www.neointeraction.com/blog"/>
-    <meta property="og:site_name" content="Neointeraction Design"/>
-    <meta property="og:type" content="website"/>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations"/>
-    <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India."/>
-    <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png"/>
+  <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
+  <meta name="description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls."/>
+  <link rel="canonical" href="https://www.neointeraction.com/cruiseship-crew-mobility-tracking-design"/>
+  <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design"/>
+  <meta property="og:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls."/>
+  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta property="og:image:width" content="2500"/>
+  <meta property="og:image:height" content="1330"/>
+  <meta property="og:url" content="https://www.neointeraction.com/cruiseship-crew-mobility-tracking-design"/>
+  <meta property="og:site_name" content="Neointeraction Design"/>
+  <meta property="og:type" content="website"/>
+  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
+  <meta name="twitter:title" content="Crew Mobility Management in a Cruise | Neointeraction Design"/>
+  <meta name="twitter:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls."/>
+  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta name="twitter:card" content="summary"/>   
     <?php include './includes/favicon.php'; ?>
     <?php include './includes/css.php'; ?>
     <?php include_once './includes/head-additional-scripts.php'; ?>
@@ -36,7 +35,7 @@
         <div>
             <div class="container">
                 <h1 class="banner-title">
-                    Use this PHP template <span class="highlight">to recreate new pages</span>
+                    Crew Mobility Management <span class="highlight">in a Cruise</span>
                 </h1>
             </div>
         </div>

@@ -93,8 +93,8 @@
         <div class="container">
             <div class="blog-container-block">
                 <div class="row g-4 justify-content-center">
-                    <?php include 'components/blogs-listing.php'; ?>
-                    <?php include 'components/blogs-listing.php'; ?>
+                    <?php include 'blogs/blogs-listing.php'; ?>
+                    <?php include 'blogs/blogs-listing.php'; ?>
                     <button class="btn btn-custom btn-custom-secondary">
                         Load More
                     </button>

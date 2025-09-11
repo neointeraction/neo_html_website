@@ -36,7 +36,7 @@
                       <a class="nav-link<?php if ($page == 'About Us') echo ' active'; ?>" href="about-us.php">About Us</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link<?php if ($page == 'Services') echo ' active'; ?>" href="services.php">Services</a>
+                      <a class="nav-link<?php if ($page == 'Services') echo ' active'; ?>" href="ui-ux-design-services.php">Services</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link<?php if ($page == 'Projects') echo ' active'; ?>" href="projects.php">Projects</a>

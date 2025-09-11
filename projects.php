@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
-    
     <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!"/>
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction"/>
@@ -32,7 +31,7 @@
         <?php include 'components/whatsapp.php'; ?>
     </div>
     <!-- navbar -- end  -->
-    <!-- banner  -->
+    <!-- heading  -->
     <section class="banner heading-padding">
         <div>
             <div class="container">
@@ -42,7 +41,17 @@
             </div>
         </div>
     </section>
-    <!-- banner -- end  -->
+
+    <!-- browse-project  -->
+    <section class="browse-project section-padding">
+        <div class="container">
+        <div class="project-block">
+            <?php include 'projects/project-listing.php'; ?>
+        </div>
+        </div>
+    </section>
+    <!-- browse-project -- end -->
+
   <?php include 'components/submit-enquiry.php'; ?>
   <?php include 'components/footer.php'; ?>
   <?php include 'includes/footer-additional-scripts.php'; ?>

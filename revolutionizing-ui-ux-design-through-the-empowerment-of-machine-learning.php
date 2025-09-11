@@ -19,12 +19,12 @@
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations"/>
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India."/>
     <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png"/>
-    <?php include 'includes/favicon.php'; ?>
-    <?php include 'includes/css.php'; ?>
-    <?php include 'includes/head-additional-scripts.php'; ?>
+    <?php if (file_exists(__DIR__ . '/includes/favicon.php')) include_once __DIR__ . '/includes/favicon.php'; ?>
+    <?php if (file_exists(__DIR__ . '/includes/css.php')) include_once __DIR__ . '/includes/css.php'; ?>
+    <?php if (file_exists(__DIR__ . '/includes/head-additional-scripts.php')) include_once __DIR__ . '/includes/head-additional-scripts.php'; ?>
 </head>
 <body>
-    <?php $page='Services';?>
+    <?php $page='blog';?>
     <?php include 'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
@@ -37,17 +37,14 @@
         <div>
             <div class="container">
                 <h1 class="banner-title">
-                    Design shaping <span class="highlight">digital experiences</span>
+                    Revolutionizing UI UX Design through the Empowerment of Machine Learning
                 </h1>
             </div>
         </div>
     </section>
     <!-- banner -- end  -->
-    <?php include 'components/testimonial.php'; ?>
-    <?php include 'components/submit-enquiry.php'; ?>
-    <?php include 'components/faq.php'; ?>
-    <?php include 'components/footer.php'; ?>
-    <?php include 'includes/footer-additional-scripts.php'; ?>
-    <?php include 'includes/js.php'; ?>
+  <?php include 'components/footer.php'; ?>
+  <?php include 'includes/footer-additional-scripts.php'; ?>
+  <?php include 'includes/js.php'; ?>
 </body>
 </html>
