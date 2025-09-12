@@ -42,9 +42,8 @@
             Award winning <span class="highlight">Ux Agency</span>
           </h1>
         </div>
-
         <div class="banner-img-block">
-          <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
+          <img src="./assets/images/temp/placeholder.webp" alt="placeholder" />
         </div>
       </div>
       <div>
@@ -54,7 +53,7 @@
           </h1>
         </div>
         <div class="banner-img-block">
-          <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
+          <img src="./assets/images/temp/placeholder.webp" alt="placeholder" />
         </div>
       </div>
       <div>
@@ -64,7 +63,7 @@
           </h1>
         </div>
         <div class="banner-img-block">
-          <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
+          <img src="./assets/images/temp/placeholder.webp" alt="placeholder" />
         </div>
       </div>
       <div>
@@ -74,12 +73,10 @@
           </h1>
         </div>
         <div class="banner-img-block">
-          <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
+          <img src="./assets/images/temp/placeholder.webp" alt="placeholder" />
         </div>
       </div>
     </div>
-
-
   </section>
   <!-- banner -- end  -->
   <!-- business-success  -->
@@ -88,7 +85,7 @@
       <h2 class="section-title">
         Crafting business success through Digital Experience
       </h2>
-      <div class="bs-card-section">
+      <div class="bs-card-section section-margin">
         <div class="row justify-content-center">
           <!-- Card 1 -->
           <div class="col-12 col-md-6 col-lg-3">
@@ -121,7 +118,6 @@
               </button>
             </div>
           </div>
-
           <!-- Card 3 -->
           <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
@@ -138,7 +134,6 @@
               </button>
             </div>
           </div>
-
           <!-- Card 4 -->
           <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
@@ -201,88 +196,87 @@
       <h2 class="section-title">
         Clients we’ve partnered with
       </h2>
-
-      <div class="scroll-container">
+      <div class="scroll-container section-margin">
         <div class="scrolling-logos">
           <!-- First set of logos -->
           <div class="client-logo-flex" aria-hidden="true">
             <div class="clf-item">
-              <img src="assets/images/clients/icici.png" alt="icici" />
+              <img src="assets/images/clients/icici.webp" alt="icici" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/geo.png" alt="geo" />
+              <img src="assets/images/clients/geo.webp" alt="geo" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/bnp.png" alt="bnp" />
+              <img src="assets/images/clients/bnp.webp" alt="bnp" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/cbd.png" alt="bnp" />
+              <img src="assets/images/clients/cbd.webp" alt="bnp" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/clayfin.png" alt="clayfin" />
+              <img src="assets/images/clients/clayfin.webp" alt="clayfin" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/cb.png" alt="cb" />
+              <img src="assets/images/clients/cb.webp" alt="cb" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/brac.png" alt="brac" />
+              <img src="assets/images/clients/brac.webp" alt="brac" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/qb.png" alt="qb" />
+              <img src="assets/images/clients/qb.webp" alt="qb" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/fs.png" alt="fs" />
+              <img src="assets/images/clients/fs.webp" alt="fs" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/bosch.png" alt="bosch" />
+              <img src="assets/images/clients/bosch.webp" alt="bosch" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/itg.png" alt="itg" />
+              <img src="assets/images/clients/itg.webp" alt="itg" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/vc.png" alt="vc" />
+              <img src="assets/images/clients/vc.webp" alt="vc" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/vidal.png" alt="vidal" />
+              <img src="assets/images/clients/vidal.webp" alt="vidal" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/ls.png" alt="ls" />
+              <img src="assets/images/clients/ls.webp" alt="ls" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/it.png" alt="it" />
+              <img src="assets/images/clients/it.webp" alt="it" />
             </div>
             <div class="clf-item">
               <img
-                src="assets/images/clients/traveloka.png"
+                src="assets/images/clients/traveloka.webp"
                 alt="traveloka" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/db.png" alt="db" />
+              <img src="assets/images/clients/db.webp" alt="db" />
             </div>
             <div class="clf-item">
               <img
-                src="assets/images/clients/inkmagik.png"
+                src="assets/images/clients/inkmagik.webp"
                 alt="inkmagik" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/tricog.png" alt="tricog" />
+              <img src="assets/images/clients/tricog.webp" alt="tricog" />
             </div>
             <div class="clf-item">
               <img
-                src="assets/images/clients/yokogawa.png"
+                src="assets/images/clients/yokogawa.webp"
                 alt="yokogawa" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/wipro.png" alt="wipro" />
+              <img src="assets/images/clients/wipro.webp" alt="wipro" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/quest.png" alt="quest" />
+              <img src="assets/images/clients/quest.webp" alt="quest" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/int.png" alt="int" />
+              <img src="assets/images/clients/int.webp" alt="int" />
             </div>
             <div class="clf-item">
-              <img src="assets/images/clients/car.png" alt="car" />
+              <img src="assets/images/clients/car.webp" alt="car" />
             </div>
           </div>
         </div>
@@ -300,7 +294,7 @@
         <h2 class="section-title">Browse Projects</h2>
         <a href="#" class="section-links">View All</a>
       </div>
-      <div class="project-block">
+      <div class="project-block section-margin">
         <div class="project-block-item">
           <div class="row justify-content-center">
             <div class="col-12">
@@ -308,7 +302,7 @@
                 <!-- Image container with fixed height and object-fit for consistent appearance -->
                 <div class="col-lg-6 p-0 project-image-container">
                   <img
-                    src="assets/images/projects/itg-bpm.png"
+                    src="assets/images/projects/itg-bpm.webp"
                     alt="Project Image"
                     class="img-fluid project-image" />
                 </div>
@@ -340,7 +334,7 @@
               <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                   <img
-                    src="assets/images/projects/itg-bpm.png"
+                    src="assets/images/projects/itg-bpm.webp"
                     alt="Project Image"
                     class="img-fluid project-image" />
                 </div>
@@ -372,7 +366,7 @@
               <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                   <img
-                    src="assets/images/projects/itg-bpm.png"
+                    src="assets/images/projects/itg-bpm.webp"
                     alt="Project Image"
                     class="img-fluid project-image" />
                 </div>
@@ -406,10 +400,10 @@
   <section class="demo-video section-padding">
     <div class="container">
       <h2 class="section-title">Demo Video</h2>
-      <div class="video-container">
+      <div class="video-container section-margin">
         <img
           class=""
-          src="assets/images/temp/vid.png"
+          src="assets/images/temp/vid.webp"
           alt="vid"
           style="width: 100%" />
       </div>
@@ -424,14 +418,14 @@
     <div class="container">
       <h2 class="section-title">Design Events</h2>
 
-      <div class="project-block ">
+      <div class="project-block section-margin">
         <div class="project-block-item">
           <div class="row justify-content-center">
             <div class="col-12">
               <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                   <img
-                    src="assets/images/workshop.png"
+                    src="assets/images/workshop.webp"
                     alt="Project Image"
                     class="img-fluid project-image" />
                 </div>
@@ -467,13 +461,13 @@
         <h2 class="section-title">Recent Blogs</h2>
         <a href="#" class="section-links">View All</a>
       </div>
-      <div class="blog-container-block">
+      <div class="blog-container-block section-margin">
         <div class="row g-4 justify-content-center">
           <!-- Card 1 -->
           <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <a href="#" class="blog-anchor">
               <div class="blog-card h-100">
-                <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
+                <img src="assets/images/temp/blog.webp" class="card-img-top" alt="Dashboard UI" />
                 <div class="card-body">
                   <h5 class="blog-card-title">How to design Effective Dashboard to help boost your...</h5>
                   <p class="blog-card-text">
@@ -487,7 +481,7 @@
           <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <a href="#" class="blog-anchor">
               <div class="blog-card h-100">
-                <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
+                <img src="assets/images/temp/blog2.webp" class="card-img-top" alt="Dashboard UI" />
                 <div class="card-body">
                   <h5 class="blog-card-title">Advantages and disadvantages of Website Templates</h5>
                   <p class="blog-card-text">
@@ -501,7 +495,7 @@
           <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <a href="#" class="blog-anchor">
               <div class="blog-card h-100">
-                <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
+                <img src="assets/images/temp/blog.webp" class="card-img-top" alt="Dashboard UI" />
                 <div class="card-body">
                   <h5 class="blog-card-title">What Is UX Design Process? A Complete Actionable Guide</h5>
                   <p class="blog-card-text">
@@ -515,7 +509,7 @@
           <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <a href="#" class="blog-anchor">
               <div class="blog-card h-100">
-                <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
+                <img src="assets/images/temp/blog2.webp" class="card-img-top" alt="Dashboard UI" />
                 <div class="card-body">
                   <h5 class="blog-card-title">What Is UX Design Process? A Complete Actionable Guide</h5>
                   <p class="blog-card-text">
@@ -536,7 +530,7 @@
       <div class="row ui-card">
         <!-- Image Column -->
         <div class="col-md-6 img-container">
-          <img src="assets/images/bs-img.png" alt="Stylized illustration" class="img-fluid">
+          <img src="assets/images/bs-img.webp" alt="Stylized illustration" class="img-fluid">
         </div>
 
         <!-- Text and Button Column -->
@@ -575,6 +569,7 @@
       </div>
     </div>
   </section>
+  <!-- join-us -- end  -->
   <?php include 'components/footer.php'; ?>
   <?php include 'includes/footer-additional-scripts.php'; ?>
   <?php include 'includes/js.php'; ?>

@@ -104,7 +104,13 @@ body {
 
 .btn-custom-secondary:hover {
   background-color: #2b2828 !important;
-  color: #fff;
+  color: #ffffff;
+  transition: background-color 0.3s ease;
+}
+
+.btn-custom-secondary.white:hover {
+  background-color: #ffffff !important;
+  color: #2b2828;
   transition: background-color 0.3s ease;
 }
 
@@ -158,6 +164,11 @@ body {
 .section-padding {
   padding: 40px 0;
 }
+
+.section-margin {
+  margin-top: 24px;
+}
+
 .heading-padding {
   padding: 40px 0px 0px 0px !important;
 }
@@ -182,7 +193,6 @@ body {
 }
 
 .banner-title .highlight {
-  /* color: #ec1c24; */
   color: #a7a7a7;
 }
 
@@ -194,11 +204,14 @@ body {
   color: #58595a;
 }
 
+.bs-card-section {
+  margin-top: 24px;
+}
+
 .custom-card {
   background-color: #ffe6e7;
   border-radius: 0px;
   padding: 24px;
-  margin: 20px auto;
   transition: 0.3s all ease-in-out;
 }
 
@@ -244,6 +257,7 @@ body {
   width: 100%;
   overflow: hidden;
   position: relative;
+  margin-top: 24px;
 }
 
 .scrolling-logos {
@@ -290,7 +304,7 @@ body {
 /* carousal  */
 
 .testimonial-slider-block {
-  margin-top: 40px;
+  margin-top: 24px;
 }
 
 /* testimonial card  */
@@ -357,10 +371,6 @@ body {
 }
 
 /* project-card  */
-
-.project-block {
-  margin-top: 40px;
-}
 
 .project-block .project-block-item {
   margin-bottom: 60px;
@@ -556,15 +566,25 @@ body {
   color: #fdfdfd;
 }
 
+.footer-social-icons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
 .footer-social-icons a {
-  color: #ffffff;
-  font-size: 1.25rem;
-  margin-left: 1.5rem;
-  transition: color 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  width: 52px;
+  height: 52px;
+  transition: 0.3s all ease-in-out;
 }
 
 .footer-social-icons a:hover {
-  color: #ffffff;
+  background: #4c4d4d;
+  transition: 0.3s all ease-in-out;
 }
 
 .footer-link-list li {
@@ -575,6 +595,10 @@ body {
   margin-top: 16px;
 }
 
+.footer-link-block {
+  margin-bottom: 40px;
+}
+
 .footer-link-list a {
   font-weight: 400;
   font-size: 16px;
@@ -582,6 +606,7 @@ body {
   text-decoration: none;
   margin-bottom: 16px;
   display: block;
+  transition: 0.3s all ease-in-out;
 }
 
 .footer-link-list li:last-child a {
@@ -589,14 +614,9 @@ body {
 }
 
 .footer-link-list a:hover {
-  color: #ffffff;
-}
-
-.footer-heading {
-  font-weight: 500;
-  font-size: 20px;
   color: #fdfdfd;
-  flex-basis: 35%;
+  font-weight: 600;
+  transition: 0.3s all ease-in-out;
 }
 
 .footer-form-flex {
@@ -619,6 +639,10 @@ body {
   color: #8b8b8b;
 }
 
+.newsletter-email {
+  min-width: 380px;
+}
+
 .newsletter-form .btn {
   flex-basis: 20%;
 }
@@ -630,7 +654,7 @@ body {
 .copyright-text {
   font-weight: 400;
   font-size: 16px;
-  color: #fdfdfd;
+  color: #a6a6a6;
   text-align: center;
   padding: 60px 0 20px 0;
 }
@@ -647,10 +671,6 @@ body {
 }
 
 /* blog  */
-
-.blog-container-block {
-  margin-top: 40px;
-}
 
 .blog-card {
   border: none;
@@ -734,11 +754,11 @@ body {
   justify-content: space-between;
 }
 .join-us-title {
-  font-size: 2.5rem;
-  font-weight: 300;
-  color: #333;
-  margin-right: 1rem;
+  font-weight: 500;
+  font-size: 36px;
+  color: #58595a;
 }
+
 .join-us-description {
   font-size: 1rem;
   color: #6c757d;
@@ -749,7 +769,7 @@ body {
   font-size: 1rem;
   color: #333;
   background-color: #fff;
-  border-radius: 0; /* Bootstrap buttons have border-radius by default, so we remove it */
+  border-radius: 0;
 }
 .btn:hover {
   background-color: #f8f9fa;
@@ -793,7 +813,7 @@ body {
 }
 
 .video-container {
-  margin-top: 40px;
+  margin-top: 24px;
 }
 
 .accordion-button:after {
@@ -952,4 +972,102 @@ body {
 
 .ui-update {
   text-align: center;
+}
+
+/* about  */
+
+.experience-block {
+  margin-top: 40px;
+}
+
+.banner-subtext {
+  font-weight: 400;
+  font-size: 32px;
+  color: #58595a;
+  margin-top: 40px;
+}
+
+.project-slider-wrapper {
+  position: relative; /* This is essential for positioning the nav */
+}
+
+.project-slider-wrapper .project-block .project-block-item {
+  margin-bottom: 0;
+}
+
+.slick-navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 14px;
+  right: 14px;
+  z-index: 6;
+}
+
+.slick-navigation button {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.slick-navigation button:hover {
+  background-color: #286090;
+}
+
+.slick-btn {
+  height: 46px;
+  width: 46px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slick-btn:hover {
+  background: #eeeeee !important;
+}
+
+.what-we-do-block {
+  margin-top: 0;
+}
+
+.wwd-text {
+  font-weight: 400;
+  font-size: 20px;
+  color: #2b2828;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+
+.wwd-item {
+  margin-top: 24px;
+}
+
+.team-card-title {
+  font-weight: 400;
+  font-size: 20px;
+  color: #2b2828;
+  margin-bottom: 0;
+}
+
+.team-card-text {
+  font-weight: 400;
+  font-size: 16px;
+  color: #58595a;
+}
+
+.team-img-top {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+}
+
+.avatar-img {
+  margin-right: 12px;
+}
+
+.blog-author-text {
+  font-weight: 600;
+  font-size: 16px;
+  color: #58595a;
 }

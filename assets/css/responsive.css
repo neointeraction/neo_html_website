@@ -1,4 +1,7 @@
 @media (max-width: 768px) {
+  .navbar-container-block {
+    height: 62px;
+  }
   .banner-title {
     font-size: 38px;
     line-height: 46px;
@@ -46,9 +49,7 @@
   .bs-card-section {
     margin-top: 30px;
   }
-  .project-block {
-    margin-top: 30px;
-  }
+
   .accordion-button {
     font-size: 18px;
     padding-bottom: 16px;
@@ -61,15 +62,16 @@
     padding: 30px 0;
   }
   .footer-col {
-    margin-bottom: 2rem;
+    margin-bottom: 0;
   }
+
   .footer-social-icons {
-    justify-content: center !important;
     margin-top: 0;
+    justify-content: flex-start;
   }
-  .footer-social-icons a {
+  /* .footer-social-icons a {
     margin: 0 0.75rem;
-  }
+  } */
 
   .footer-form-flex {
     flex-direction: column;
@@ -80,6 +82,13 @@
     flex-basis: auto;
     width: 100%;
   }
+  .newsletter-email {
+    min-width: 100%;
+  }
+  .footer-link-block {
+    margin-bottom: 24px;
+  }
+
   .newsletter-form .btn {
     margin-top: 10px;
   }
@@ -97,7 +106,7 @@
   .custom-navbar {
     z-index: 9;
     border-radius: 0;
-    padding: 6px;
+    padding: 6px 0 6px 0;
     padding-right: 0;
   }
   .navbar-nav {
@@ -147,12 +156,6 @@
     margin-bottom: 0;
   }
   .testimonial-slider-block {
-    margin-top: 30px;
-  }
-  .video-container {
-    margin-top: 30px;
-  }
-  .blog-container-block {
     margin-top: 30px;
   }
   .navbar-container {

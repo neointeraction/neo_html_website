@@ -25,28 +25,28 @@ $blog_metadata = array(
         "title" => "How to design Effective Dashboard to help boost your...",
         "author" => "Thirunavukkarasu L",
         "date" => "1 day ago",
-        "image" => "assets/images/temp/blog.png",
+        "image" => "assets/images/temp/blog.webp",
         "alt" => "Dashboard UI"
     ),
     "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php" => array(
         "title" => "Advantages and disadvantages of Website Templates",
         "author" => "Rahul Kale",
         "date" => "6 days ago",
-        "image" => "assets/images/temp/blog2.png",
+        "image" => "assets/images/temp/blog2.webp",
         "alt" => "Website Templates"
     ),
     "paul-john-shakes-world-single-malt-connoisseurship.php" => array(
         "title" => "What Is UX Design Process? A Complete Actionable Guide",
         "author" => "Rahul Kale",
         "date" => "6 days ago",
-        "image" => "assets/images/temp/blog.png",
+        "image" => "assets/images/temp/blog.webp",
         "alt" => "UX Design Process"
     ),
     "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php" => array(
         "title" => "Revolutionary UI/UX Design Through Machine Learning",
         "author" => "Thirunavukkarasu L",
         "date" => "2 days ago",
-        "image" => "assets/images/temp/blog2.png",
+        "image" => "assets/images/temp/blog2.webp",
         "alt" => "Machine Learning UI"
     ),
     // Add more metadata as needed...
@@ -57,8 +57,8 @@ $curPageName = substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], 
 $index = array_search($curPageName, $news_list);
 
 if ($index == 0 || $index > 0) {
-    $previousURL = $index > 0 ? $news_list[$index-1] : $news_list[count($news_list)-1];
-    $nextURL = $index+1 >= count($news_list) ? $news_list[0] : $news_list[$index+1];
+    $previousURL = $index > 0 ? $news_list[$index - 1] : $news_list[count($news_list) - 1];
+    $nextURL = $index + 1 >= count($news_list) ? $news_list[0] : $news_list[$index + 1];
 } else {
     $previousURL = "javascript:void(0);";
     $nextURL = "javascript:void(0);";
@@ -83,16 +83,16 @@ foreach ($blogs_to_show as $blog_file) {
         "title" => "Blog Post Title",
         "author" => "Author Name",
         "date" => "Some time ago",
-        "image" => "assets/images/temp/blog.png",
+        "image" => "assets/images/temp/blog.webp",
         "alt" => "Blog Image"
     );
-    ?>
+?>
     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <a href="<?php echo htmlspecialchars($blog_file); ?>" class="blog-anchor">
             <div class="blog-card h-100">
-                <img src="<?php echo htmlspecialchars($metadata['image']); ?>" 
-                     class="card-img-top" 
-                     alt="<?php echo htmlspecialchars($metadata['alt']); ?>">
+                <img src="<?php echo htmlspecialchars($metadata['image']); ?>"
+                    class="card-img-top"
+                    alt="<?php echo htmlspecialchars($metadata['alt']); ?>">
                 <div class="card-body">
                     <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
                     <p class="blog-card-text">
@@ -102,6 +102,6 @@ foreach ($blogs_to_show as $blog_file) {
             </div>
         </a>
     </div>
-    <?php
+<?php
 }
 ?>

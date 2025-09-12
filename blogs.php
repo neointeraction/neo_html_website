@@ -29,7 +29,7 @@
 
 <body>
     <?php $page = 'Blogs'; ?>
-    
+
     <?php
     // Initialize the blog system
     $news_list = array(
@@ -64,42 +64,42 @@
             "title" => "How to design Effective Dashboard to help boost your business",
             "author" => "Thirunavukkarasu L",
             "date" => "1 day ago",
-            "image" => "assets/images/temp/blog.png",
+            "image" => "assets/images/temp/blog.webp",
             "alt" => "Dashboard UI"
         ),
         "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php" => array(
             "title" => "Advantages and disadvantages of Website Templates",
             "author" => "Rahul Kale",
             "date" => "6 days ago",
-            "image" => "assets/images/temp/blog2.png",
+            "image" => "assets/images/temp/blog2.webp",
             "alt" => "Website Templates"
         ),
         "paul-john-shakes-world-single-malt-connoisseurship.php" => array(
             "title" => "What Is UX Design Process? A Complete Actionable Guide",
             "author" => "Rahul Kale",
             "date" => "6 days ago",
-            "image" => "assets/images/temp/blog.png",
+            "image" => "assets/images/temp/blog.webp",
             "alt" => "UX Design Process"
         ),
         "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php" => array(
             "title" => "Revolutionary UI/UX Design Through Machine Learning",
             "author" => "Thirunavukkarasu L",
             "date" => "2 days ago",
-            "image" => "assets/images/temp/blog2.png",
+            "image" => "assets/images/temp/blog2.webp",
             "alt" => "Machine Learning UI"
         ),
         "10-smoky-whiskies-sip-all-winter-long-peated-select-cask.php" => array(
             "title" => "Modern Web Development Best Practices for 2024",
             "author" => "Rahul Kale",
             "date" => "1 week ago",
-            "image" => "assets/images/temp/blog.png",
+            "image" => "assets/images/temp/blog.webp",
             "alt" => "Web Development"
         ),
         "10-superb-smoky-whiskies-you-should-try-paul-john-peated.php" => array(
             "title" => "Creating Responsive Design with CSS Grid and Flexbox",
             "author" => "Thirunavukkarasu L",
             "date" => "1 week ago",
-            "image" => "assets/images/temp/blog2.png",
+            "image" => "assets/images/temp/blog2.webp",
             "alt" => "Responsive Design"
         ),
         // Add more as needed - using fallback for others
@@ -136,10 +136,9 @@
                     <div class="row justify-content-center">
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
-                                <!-- Image container with fixed height and object-fit for consistent appearance -->
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img
-                                        src="assets/images/projects/itg-bpm.png"
+                                        src="assets/images/projects/itg-bpm.webp"
                                         alt="Project Image"
                                         class="img-fluid project-image" />
                                 </div>
@@ -182,16 +181,16 @@
                             "title" => "Insightful Blog Post About Design and Development",
                             "author" => "Design Team",
                             "date" => "Recently",
-                            "image" => "assets/images/temp/blog.png",
+                            "image" => "assets/images/temp/blog.webp",
                             "alt" => "Blog Image"
                         );
-                        ?>
+                    ?>
                         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <a href="<?php echo htmlspecialchars($blog_file); ?>" class="blog-anchor">
                                 <div class="blog-card h-100">
-                                    <img src="<?php echo htmlspecialchars($metadata['image']); ?>" 
-                                         class="card-img-top" 
-                                         alt="<?php echo htmlspecialchars($metadata['alt']); ?>">
+                                    <img src="<?php echo htmlspecialchars($metadata['image']); ?>"
+                                        class="card-img-top"
+                                        alt="<?php echo htmlspecialchars($metadata['alt']); ?>">
                                     <div class="card-body">
                                         <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
                                         <p class="blog-card-text">
@@ -201,11 +200,11 @@
                                 </div>
                             </a>
                         </div>
-                        <?php
+                    <?php
                     }
                     ?>
                 </div>
-                
+
                 <?php if (count($news_list) > $items_per_page): ?>
                     <div class="text-center mt-4">
                         <button class="btn btn-custom btn-custom-secondary" id="load-more-btn" onclick="loadMoreBlogs()">
@@ -220,34 +219,34 @@
 
     <!-- JavaScript for Load More functionality -->
     <script>
-    let currentIndex = <?php echo $items_per_page; ?>;
-    const loadMoreCount = <?php echo $load_more_count; ?>;
-    const totalBlogs = <?php echo count($news_list); ?>;
-    
-    const blogData = <?php echo json_encode(array_map(function($blog_file) use ($blog_metadata) {
-        return array(
-            'file' => $blog_file,
-            'metadata' => isset($blog_metadata[$blog_file]) ? $blog_metadata[$blog_file] : array(
-                "title" => "Insightful Blog Post About Design and Development",
-                "author" => "Design Team", 
-                "date" => "Recently",
-                "image" => "assets/images/temp/blog.png",
-                "alt" => "Blog Image"
-            )
-        );
-    }, $news_list)); ?>;
+        let currentIndex = <?php echo $items_per_page; ?>;
+        const loadMoreCount = <?php echo $load_more_count; ?>;
+        const totalBlogs = <?php echo count($news_list); ?>;
 
-    function loadMoreBlogs() {
-        const container = document.getElementById('blog-container');
-        const loadMoreBtn = document.getElementById('load-more-btn');
-        
-        let itemsToLoad = Math.min(loadMoreCount, totalBlogs - currentIndex);
-        
-        for (let i = 0; i < itemsToLoad; i++) {
-            const blogIndex = currentIndex + i;
-            const blog = blogData[blogIndex];
-            
-            const blogCard = `
+        const blogData = <?php echo json_encode(array_map(function ($blog_file) use ($blog_metadata) {
+                                return array(
+                                    'file' => $blog_file,
+                                    'metadata' => isset($blog_metadata[$blog_file]) ? $blog_metadata[$blog_file] : array(
+                                        "title" => "Insightful Blog Post About Design and Development",
+                                        "author" => "Design Team",
+                                        "date" => "Recently",
+                                        "image" => "assets/images/temp/blog.webp",
+                                        "alt" => "Blog Image"
+                                    )
+                                );
+                            }, $news_list)); ?>;
+
+        function loadMoreBlogs() {
+            const container = document.getElementById('blog-container');
+            const loadMoreBtn = document.getElementById('load-more-btn');
+
+            let itemsToLoad = Math.min(loadMoreCount, totalBlogs - currentIndex);
+
+            for (let i = 0; i < itemsToLoad; i++) {
+                const blogIndex = currentIndex + i;
+                const blog = blogData[blogIndex];
+
+                const blogCard = `
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                     <a href="${escapeHtml(blog.file)}" class="blog-anchor">
                         <div class="blog-card h-100">
@@ -264,30 +263,32 @@
                     </a>
                 </div>
             `;
-            
-            container.insertAdjacentHTML('beforeend', blogCard);
+
+                container.insertAdjacentHTML('beforeend', blogCard);
+            }
+
+            currentIndex += itemsToLoad;
+
+            // Hide load more button if all blogs are loaded
+            if (currentIndex >= totalBlogs) {
+                loadMoreBtn.style.display = 'none';
+            }
         }
-        
-        currentIndex += itemsToLoad;
-        
-        // Hide load more button if all blogs are loaded
-        if (currentIndex >= totalBlogs) {
-            loadMoreBtn.style.display = 'none';
+
+        function escapeHtml(text) {
+            const map = {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            };
+            return text.replace(/[&<>"']/g, function(m) {
+                return map[m];
+            });
         }
-    }
-    
-    function escapeHtml(text) {
-        const map = {
-            '&': '&amp;',
-            '<': '&lt;',
-            '>': '&gt;',
-            '"': '&quot;',
-            "'": '&#039;'
-        };
-        return text.replace(/[&<>"']/g, function(m) { return map[m]; });
-    }
     </script>
-    
+
     <?php include 'components/submit-enquiry.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>
