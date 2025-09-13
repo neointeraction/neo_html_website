@@ -251,4 +251,23 @@
   .ps-responsive-margin {
     margin-top: 20px;
   }
+
+  .slick-navigation {
+    position: static;
+    justify-content: flex-end;
+  }
+  .project-description {
+    margin-bottom: 0;
+  }
+  .wwd-text {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 12px;
+  }
+  .wwd-item {
+    margin-top: 0px;
+  }
+  .what-we-do-block {
+    margin-top: 24px;
+  }
 }

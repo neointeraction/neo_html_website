@@ -76,7 +76,7 @@
     <section class="demo-video section-padding">
         <div class="container">
             <h2 class="section-title">Demo Video</h2>
-            <div class="video-container">
+            <div class="video-container section-margin">
                 <img
                     class=""
                     src="assets/images/temp/vid.webp"
@@ -92,7 +92,7 @@
             <h2 class="section-title">
                 Clients we’ve partnered with
             </h2>
-            <div class="scroll-container">
+            <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
                     <!-- First set of logos -->
                     <div class="client-logo-flex" aria-hidden="true">
@@ -187,7 +187,7 @@
                 <h2 class="section-title">Browse Projects</h2>
                 <a href="#" class="section-links">View All</a>
             </div>
-            <div class="project-slider-wrapper">
+            <div class="project-slider-wrapper section-margin">
                 <div class="project-block about-project-block">
                     <div class="project-block-item">
                         <div class="row justify-content-center">
@@ -303,7 +303,7 @@
     <section class="what-we-do section-padding">
         <div class="container">
             <h2 class="section-title">What We Do</h2>
-            <div class="what-we-do-block">
+            <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
@@ -359,7 +359,7 @@
                 <h2 class="section-title">Our Team</h2>
                 <a href="#" class="section-links">View Our Team</a>
             </div>
-            <div class="blog-container-block">
+            <div class="blog-container-block section-margin">
                 <div class="row g-4 justify-content-center">
                     <!-- Card 1 -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -446,7 +446,7 @@
     <section class="life-at-neo section-padding">
         <div class="container">
             <h2 class="section-title">Life at Neointeraction</h2>
-            <div class="project-slider-wrapper">
+            <div class="project-slider-wrapper section-margin">
                 <div class="project-block life-at-neo-block">
                     <div class="project-block-item">
                         <div class="row justify-content-center">
@@ -487,7 +487,6 @@
                                             A BPM application/product that helps optimizing business
                                             processes in an organization
                                         </p>
-
                                     </div>
                                 </div>
                             </div>
@@ -510,14 +509,13 @@
                                             A BPM application/product that helps optimizing business
                                             processes in an organization
                                         </p>
-
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="slick-navigation">
+                <div class="slick-navigation life-at-neo-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
                         <img src="assets/images/prev.svg" alt="prev" />
                     </button>
