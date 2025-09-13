@@ -215,14 +215,40 @@
   }
   .p-main-text {
     font-size: 20px;
+    margin-bottom: 12px;
   }
   .project-body-text {
     font-size: 16px;
+    margin-bottom: 0;
   }
   .project-section-padding {
     padding-top: 20px;
   }
   .project-bs-cards {
     margin-top: 0;
+  }
+  .blog-quote-text {
+    font-size: 16px;
+  }
+  .project-quote-block {
+    margin-top: 24px;
+  }
+  .case-study-mobview {
+    display: block;
+  }
+  .case-study-webview {
+    display: none;
+  }
+  .count-up-item {
+    padding: 10px;
+  }
+  .result-block .count-number {
+    font-size: 36px;
+  }
+  .result-block .count-label {
+    font-size: 18px;
+  }
+  .ps-responsive-margin {
+    margin-top: 20px;
   }
 }

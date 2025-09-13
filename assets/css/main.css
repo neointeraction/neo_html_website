@@ -921,7 +921,7 @@ body {
 .result-block .count-label {
   font-weight: 400;
   font-size: 20px;
-  color: #ec1c24;
+  color: #58595a;
 }
 
 .result-block .count-number {
@@ -1070,4 +1070,8 @@ body {
   font-weight: 600;
   font-size: 16px;
   color: #58595a;
+}
+
+.case-study-mobview {
+  display: none;
 }

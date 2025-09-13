@@ -63,16 +63,19 @@
         <div class="overview-block project-section-padding">
           <div class="title-flex">
             <h4 class="project-section-title">Overview </h4>
-            <button class="btn btn-custom ">
+            <button class="btn btn-custom case-study-webview ">
               Book A Consultation
             </button>
           </div>
           <p class="p-main-text">TM hub is an application used by the staff members aboard the Carnival ship to organize their daily activities, tasks, and information about their journey</p>
+          <button class="btn btn-custom case-study-mobview ">
+            Book A Consultation
+          </button>
         </div>
         <!-- result-block -->
         <div class="result-block project-section-padding">
           <h4 class="project-section-title">Result </h4>
-          <div class="row w-100">
+          <div class="row ">
             <!-- 15+ years expertise -->
             <div class="col-6 col-md-3 count-up-item">
               <div class="count-number" data-target="90">0</div>
@@ -84,7 +87,7 @@
               <div class="count-label">Profits</div>
             </div>
             <!-- 80% lives impacted -->
-            <div class="col-6 col-md-4 count-up-item  mt-md-0">
+            <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
               <div class="count-number" data-target="80">0</div>
               <div class="count-label">New Customer Acquisition</div>
             </div>
@@ -99,7 +102,7 @@
               <p class="project-body-text">The aim is to enhance the daily user experience by revamping the app's interface, making it more user-friendly. The focus is on simplifying the crews' daily activities, tasks, and get information about their journey seamlessly all in one place.</p>
             </div>
             <div class="col-md-6">
-              <h4 class="project-section-title">Challenges </h4>
+              <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
               <p class="project-body-text">Considering the app was created by tech first approach where in it was built from the utility point of view, no significant design considerations or user research were used when creating the app for various user personas </p>
             </div>
           </div>
@@ -161,18 +164,20 @@
         </div>
         <!-- solutions-help section -->
         <div class="solutions-help project-section-padding">
-
           <div class="title-flex">
             <h2 class="project-section-title">
               How did our solutions help?
             </h2>
-            <button class="btn btn-custom " data-case="all" id="case-study-btn">
+            <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn">
               Download case study
             </button>
           </div>
           <p class="project-body-text">
             Our user task-focused design empowers crew members, ensuring seamless goal achievement and enhanced productivity. Beyond technical improvements, it transforms daily routines for a more enjoyable and manageable experience.
           </p>
+          <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all" id="case-study-btn">
+            Download case study
+          </button>
           <div class="bs-card-section project-bs-cards">
             <div class="row justify-content-center">
               <!-- Card 1 -->
