@@ -270,4 +270,12 @@
   .what-we-do-block {
     margin-top: 24px;
   }
+  .banner-subtext {
+    font-size: 18px;
+    margin-top: 24px;
+    margin-bottom: 0;
+  }
+  .service-tags .badge {
+    text-wrap: wrap;
+  }
 }

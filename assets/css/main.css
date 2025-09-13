@@ -204,10 +204,6 @@ body {
   color: #58595a;
 }
 
-.bs-card-section {
-  margin-top: 24px;
-}
-
 .custom-card {
   background-color: #ffe6e7;
   border-radius: 0px;
@@ -1026,6 +1022,13 @@ body {
   margin-top: 0;
 }
 
+.wwd-title {
+  font-weight: 500;
+  font-size: 20px;
+  color: #2b2828;
+  margin-top: 16px;
+}
+
 .wwd-text {
   font-weight: 400;
   font-size: 20px;
@@ -1071,8 +1074,158 @@ body {
   display: none;
 }
 
-.banner-subtext {
-  font-size: 18px;
-  margin-top: 24px;
+.services-bs-card-section .custom-card {
+  margin-bottom: 24px;
+  min-height: 432px;
+}
+
+.service-tags {
+  margin-bottom: 16px;
+  margin-top: 16px;
+}
+
+.service-tags .badge {
+  margin-bottom: 12px;
+  border: 1px solid #e2e2e2;
+  font-weight: 400;
+  font-size: 16px;
+  color: #58595a;
+}
+
+.services-bs-card-section .custom-card .description {
   margin-bottom: 0;
+}
+
+.services-bs-card-section .custom-card .title {
+  font-weight: 500;
+  font-size: 36px;
+  color: #2b2828;
+}
+
+.testimonial-logo {
+  margin-bottom: 40px;
+}
+
+.testimonial-action {
+  margin-top: 40px;
+}
+
+.em-list {
+  margin-bottom: 0;
+}
+
+.em-list li {
+  font-weight: 400;
+  font-size: 16px;
+  color: #58595a;
+}
+
+.em-btn {
+  margin-top: 36px;
+  width: 200px;
+}
+
+.engagement-modal-block .project-block-item {
+  margin-bottom: 24px;
+}
+
+.engagement-modal-block .project-block-item:last-child {
+  margin-bottom: 0;
+}
+
+.body-text {
+  font-weight: 400;
+  font-size: 20px;
+  color: #58595a;
+  margin-bottom: 0;
+  margin-top: 8px;
+}
+
+.dev-cycle-blocks {
+  margin-top: 80px;
+}
+
+.dev-cycle-block {
+  padding: 24px;
+  border: 1px solid #e2e2e2;
+  text-align: center;
+  position: relative;
+  height: 100%;
+}
+
+.dcb-icon {
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.dcb-title {
+  font-weight: 500;
+  font-size: 20px;
+  color: #2b2828;
+}
+
+.dcb-list {
+  list-style: none;
+  margin-top: 16px;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.dcb-list li {
+  font-weight: 400;
+  font-size: 14px;
+  color: #4c4d4d;
+  background: #ffe6e7;
+  margin-bottom: 8px;
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 6px;
+}
+
+.dcb-list li:last-child {
+  margin-bottom: 0;
+}
+
+.disabled .dcb-list li {
+  background: #efefef;
+}
+
+.industry-experience .wwd-text {
+  font-weight: 400;
+  font-size: 16px;
+  color: #58595a;
+}
+
+.filter-tag-flex {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 60px;
+}
+
+.filter-button {
+  text-wrap: nowrap;
+  border: 1px solid #e2e2e2;
+  border-radius: 0;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.filter-button.active {
+  background-color: #58595a;
+  color: #fff;
+  border: 1px solid #e2e2e2;
+}
+
+.load-more-btn-projects {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 0 80px 0;
 }

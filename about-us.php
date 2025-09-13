@@ -70,7 +70,6 @@
             </div>
         </div>
     </section>
-
     <!-- banner -- end  -->
     <!-- demo-video  -->
     <section class="demo-video section-padding">
@@ -310,7 +309,6 @@
                             <img src="assets/images/star.svg" alt="star" />
                             <p class="wwd-text">Design Thinking is our Gene factor</p>
                         </div>
-
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
@@ -324,28 +322,24 @@
                             <img src="assets/images/doc.svg" alt="star" />
                             <p class="wwd-text">Business friendly engaging models </p>
                         </div>
-
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="assets/images/like.svg" alt="like" />
                             <p class="wwd-text">Focused on functional designs</p>
                         </div>
-
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="assets/images/money.svg" alt="money" />
                             <p class="wwd-text">Designs with measurable ROI</p>
                         </div>
-
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="assets/images/click.svg" alt="click" />
                             <p class="wwd-text">Provides end to end design services</p>
                         </div>
-
                     </div>
                 </div>
             </div>
