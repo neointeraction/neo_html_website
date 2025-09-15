@@ -3,6 +3,7 @@
 
 <head>
   <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
+  
   <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
   <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
   <link rel="canonical" href="https://www.neointeraction.com/blog" />
@@ -288,7 +289,7 @@
     <div class="container">
       <div class="title-flex">
         <h2 class="section-title">Browse Projects</h2>
-        <a href="#" class="section-links">View All</a>
+        <a href="projects.php" class="section-links">View All</a>
       </div>
       <div class="project-block section-margin">
         <div class="project-block-item">
@@ -298,16 +299,48 @@
                 <!-- Image container with fixed height and object-fit for consistent appearance -->
                 <div class="col-lg-6 p-0 project-image-container">
                   <img
-                    src="assets/images/projects/itg-bpm.webp"
-                    alt="Project Image"
-                    class="img-fluid project-image" />
+                    src="assets/images/projects/intertrust-bpm-tool.jpeg"
+                    alt="Intertrust BPM Tool"
+                    class="img-fluid project-image" 
+                     width="584px"
+                    height="280px"/>
                 </div>
                 <div
                   class="col-lg-6 d-flex flex-column justify-content-center project-content">
                   <h2 class="project-title">Intertrust BPM Tool</h2>
                   <p class="project-description">
-                    A BPM application/product that helps optimizing business
-                    processes in an organization
+                    Promo, the Intertrust’s BPM Tool, underwent a transformative revamp, leveraging streamlined UI enhancements and effective UX design techniques. By enhancing it into a user-friendly digital product, we significantly improved Promo's crucial role in enhancing workflow.</p>
+                  <div class="project-tags">
+                    <span class="badge">Healthcare</span>
+                    <span class="badge">Healthcare</span>
+                  </div>
+
+                  <div class="pb-action-btn">
+                    <button class="btn btn-custom read-more-btn">
+                      Read More
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="project-block-item">
+          <div class="row justify-content-center">
+            <div class="col-12">
+              <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                  <img
+                    src="assets/images/projects/music-rights-management-solution.jpeg"
+                    alt="Music Rights Management Solution"
+                    class="img-fluid project-image" 
+                    width="584px"
+                    height="280px"/>  
+                </div>
+                <div
+                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                  <h2 class="project-title">Music Rights Management Solution</h2>
+                    <p class="project-description">The platform helps Rights Management societies to maximize rights collection and distribution while reducing operational costs. The UX redesign prioritized user specific functionality with micro-interactions to create an engaging user experience.
                   </p>
                   <div class="project-tags">
                     <span class="badge">Healthcare</span>
@@ -330,48 +363,16 @@
               <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                   <img
-                    src="assets/images/projects/itg-bpm.webp"
-                    alt="Project Image"
-                    class="img-fluid project-image" />
+                    src="assets/images/projects/tricog-heart-failure-patient-app.jpeg"
+                    alt="AI Driven Healthcare Consultation Platform"
+                    class="img-fluid project-image" 
+                    width="584px"
+                    height="280px"/>
                 </div>
                 <div
                   class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title">Intertrust BPM Tool</h2>
-                  <p class="project-description">
-                    A BPM application/product that helps optimizing business
-                    processes in an organization
-                  </p>
-                  <div class="project-tags">
-                    <span class="badge">Healthcare</span>
-                    <span class="badge">Healthcare</span>
-                  </div>
-
-                  <div class="pb-action-btn">
-                    <button class="btn btn-custom read-more-btn">
-                      Read More
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="project-block-item">
-          <div class="row justify-content-center">
-            <div class="col-12">
-              <div class="project-card d-lg-flex">
-                <div class="col-lg-6 p-0 project-image-container">
-                  <img
-                    src="assets/images/projects/itg-bpm.webp"
-                    alt="Project Image"
-                    class="img-fluid project-image" />
-                </div>
-                <div
-                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title">Intertrust BPM Tool</h2>
-                  <p class="project-description">
-                    A BPM application/product that helps optimizing business
-                    processes in an organization
+                  <h2 class="project-title">AI Driven Healthcare Consultation Platform</h2>
+                  <p class="project-description">The UX design modifications for the healthcare application was tailored to simplify tasks for cardiologists and provide accessible AI. Streamlining data visualization made monitoring patient vitals more efficient and impactful for cardiologists.
                   </p>
                   <div class="project-tags">
                     <span class="badge">Healthcare</span>
@@ -421,7 +422,7 @@
               <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                   <img
-                    src="assets/images/workshop.webp"
+                    src="assets/images/events/workshop-on-accelerating design-decisions.jpeg"
                     alt="Project Image"
                     class="img-fluid project-image" />
                 </div>

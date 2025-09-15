@@ -187,7 +187,7 @@
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img
-                                        src="assets/images/workshop.webp"
+                                        src="assets/images/projects/intertrust-bpm-tool.jpeg"
                                         alt="Project Image"
                                         class="img-fluid project-image" />
                                 </div>
@@ -217,7 +217,7 @@
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img
-                                        src="assets/images/workshop.webp"
+                                        src="assets/images/projects/intertrust-bpm-tool.jpeg"
                                         alt="Project Image"
                                         class="img-fluid project-image" />
                                 </div>

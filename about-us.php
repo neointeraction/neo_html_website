@@ -188,103 +188,103 @@
             </div>
             <div class="project-slider-wrapper section-margin">
                 <div class="project-block about-project-block">
-                    <div class="project-block-item">
-                        <div class="row justify-content-center">
-                            <div class="col-12">
-                                <div class="project-card d-lg-flex">
-                                    <!-- Image container with fixed height and object-fit for consistent appearance -->
-                                    <div class="col-lg-6 p-0 project-image-container">
-                                        <img
-                                            src="assets/images/projects/itg-bpm.webp"
-                                            alt="Project Image"
-                                            class="img-fluid project-image" />
-                                    </div>
-                                    <div
-                                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                        <h2 class="project-title">Intertrust BPM Tool</h2>
-                                        <p class="project-description">
-                                            A BPM application/product that helps optimizing business
-                                            processes in an organization
-                                        </p>
-                                        <div class="project-tags">
-                                            <span class="badge">Healthcare</span>
-                                            <span class="badge">Healthcare</span>
-                                        </div>
+      <div class="project-block-item">
+          <div class="row justify-content-center">
+            <div class="col-12">
+              <div class="project-card d-lg-flex">
+                <!-- Image container with fixed height and object-fit for consistent appearance -->
+                <div class="col-lg-6 p-0 project-image-container">
+                  <img
+                    src="assets/images/projects/intertrust-bpm-tool.jpeg"
+                    alt="Intertrust BPM Tool"
+                    class="img-fluid project-image" 
+                     width="584px"
+                    height="280px"/>
+                </div>
+                <div
+                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                  <h2 class="project-title">Intertrust BPM Tool</h2>
+                  <p class="project-description">
+                    Promo, the Intertrust’s BPM Tool, underwent a transformative revamp, leveraging streamlined UI enhancements and effective UX design techniques. By enhancing it into a user-friendly digital product, we significantly improved Promo's crucial role in enhancing workflow.</p>
+                  <div class="project-tags">
+                    <span class="badge">Healthcare</span>
+                    <span class="badge">Healthcare</span>
+                  </div>
 
-                                        <div class="pb-action-btn">
-                                            <button class="btn btn-custom read-more-btn">
-                                                Read More
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project-block-item">
-                        <div class="row justify-content-center">
-                            <div class="col-12">
-                                <div class="project-card d-lg-flex">
-                                    <div class="col-lg-6 p-0 project-image-container">
-                                        <img
-                                            src="assets/images/projects/itg-bpm.webp"
-                                            alt="Project Image"
-                                            class="img-fluid project-image" />
-                                    </div>
-                                    <div
-                                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                        <h2 class="project-title">Intertrust BPM Tool</h2>
-                                        <p class="project-description">
-                                            A BPM application/product that helps optimizing business
-                                            processes in an organization
-                                        </p>
-                                        <div class="project-tags">
-                                            <span class="badge">Healthcare</span>
-                                            <span class="badge">Healthcare</span>
-                                        </div>
+                  <div class="pb-action-btn">
+                    <button class="btn btn-custom read-more-btn">
+                      Read More
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="project-block-item">
+          <div class="row justify-content-center">
+            <div class="col-12">
+              <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                  <img
+                    src="assets/images/projects/music-rights-management-solution.jpeg"
+                    alt="Music Rights Management Solution"
+                    class="img-fluid project-image" 
+                    width="584px"
+                    height="280px"/>  
+                </div>
+                <div
+                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                  <h2 class="project-title">Music Rights Management Solution</h2>
+                    <p class="project-description">The platform helps Rights Management societies to maximize rights collection and distribution while reducing operational costs. The UX redesign prioritized user specific functionality with micro-interactions to create an engaging user experience.
+                  </p>
+                  <div class="project-tags">
+                    <span class="badge">Healthcare</span>
+                    <span class="badge">Healthcare</span>
+                  </div>
 
-                                        <div class="pb-action-btn">
-                                            <button class="btn btn-custom read-more-btn">
-                                                Read More
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project-block-item">
-                        <div class="row justify-content-center">
-                            <div class="col-12">
-                                <div class="project-card d-lg-flex">
-                                    <div class="col-lg-6 p-0 project-image-container">
-                                        <img
-                                            src="assets/images/projects/itg-bpm.webp"
-                                            alt="Project Image"
-                                            class="img-fluid project-image" />
-                                    </div>
-                                    <div
-                                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                        <h2 class="project-title">Intertrust BPM Tool</h2>
-                                        <p class="project-description">
-                                            A BPM application/product that helps optimizing business
-                                            processes in an organization
-                                        </p>
-                                        <div class="project-tags">
-                                            <span class="badge">Healthcare</span>
-                                            <span class="badge">Healthcare</span>
-                                        </div>
+                  <div class="pb-action-btn">
+                    <button class="btn btn-custom read-more-btn">
+                      Read More
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="project-block-item">
+          <div class="row justify-content-center">
+            <div class="col-12">
+              <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                  <img
+                    src="assets/images/projects/tricog-heart-failure-patient-app.jpeg"
+                    alt="AI Driven Healthcare Consultation Platform"
+                    class="img-fluid project-image" 
+                    width="584px"
+                    height="280px"/>
+                </div>
+                <div
+                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                  <h2 class="project-title">AI Driven Healthcare Consultation Platform</h2>
+                  <p class="project-description">The UX design modifications for the healthcare application was tailored to simplify tasks for cardiologists and provide accessible AI. Streamlining data visualization made monitoring patient vitals more efficient and impactful for cardiologists.
+                  </p>
+                  <div class="project-tags">
+                    <span class="badge">Healthcare</span>
+                    <span class="badge">Healthcare</span>
+                  </div>
 
-                                        <div class="pb-action-btn">
-                                            <button class="btn btn-custom read-more-btn">
-                                                Read More
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                  <div class="pb-action-btn">
+                    <button class="btn btn-custom read-more-btn">
+                      Read More
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
                 </div>
                 <div class="slick-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
@@ -351,15 +351,29 @@
         <div class="container">
             <div class="title-flex">
                 <h2 class="section-title">Our Team</h2>
-                <a href="#" class="section-links">View Our Team</a>
+                <a href="team.php" class="section-links">View Our Team</a>
             </div>
             <div class="blog-container-block section-margin">
                 <div class="row g-4 justify-content-center">
                     <!-- Card 1 -->
+                   <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                        <a href="#" class="blog-anchor">
+                            <div class="blog-card h-100">
+                                <img src="assets/images/team/sam.jpeg" class="team-img-top" alt="sam" />
+                                <div class="card-body">
+                                    <h5 class="team-card-title">Sam Thomas</h5>
+                                    <p class="team-card-text">
+                                        <small class="text-muted">UX Director</small>
+                                    </p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
                             <div class="blog-card h-100">
-                                <img src="assets/images/team/shameer.jpg" class="team-img-top" alt="shameer" />
+                                <img src="assets/images/team/shameer.jpeg" class="team-img-top" alt="shameer" />
                                 <div class="card-body">
                                     <h5 class="team-card-title team-title">Shameer M</h5>
                                     <p class="team-card-text">
@@ -369,43 +383,29 @@
                             </div>
                         </a>
                     </div>
-                    <!-- Card 2 -->
+                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
                             <div class="blog-card h-100">
-                                <img src="assets/images/team/midhun.jpg" class="team-img-top" alt="midhun" />
+                                <img src="assets/images/team/vanessa.jpeg" class="team-img-top" alt="vanessa" />
+                                <div class="card-body">
+                                    <h5 class="team-card-title">Vanessa Lobo</h5>
+                                    <p class="team-card-text">
+                                        <small class="text-muted">UX Designer</small>
+                                    </p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                     <!-- item -->
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                        <a href="#" class="blog-anchor">
+                            <div class="blog-card h-100">
+                                <img src="assets/images/team/midhun.jpeg" class="team-img-top" alt="midhun" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Midhun M</h5>
                                     <p class="team-card-text">
                                         <small class="text-muted">Project Lead</small>
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Card 3 -->
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
-                                <img src="assets/images/team/allwyn.jpg" class="team-img-top" alt="allwyn" />
-                                <div class="card-body">
-                                    <h5 class="team-card-title">Allwyn Ebenezer PM</h5>
-                                    <p class="team-card-text">
-                                        <small class="text-muted">UI Developer</small>
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Card 4 -->
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
-                                <img src="assets/images/team/allwyn.jpg" class="team-img-top" alt="allwyn" />
-                                <div class="card-body">
-                                    <h5 class="team-card-title">Allwyn Ebenezer PM</h5>
-                                    <p class="team-card-text">
-                                        <small class="text-muted">UI Developer</small>
                                     </p>
                                 </div>
                             </div>
@@ -417,24 +417,7 @@
     </section>
     <!-- our-team - end  -->
     <!-- join-us  -->
-    <section class="join-us section-padding">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-3 d-flex align-items-center">
-                    <h1 class="join-us-title mb-0">Join Our Team</h1>
-                </div>
-                <div class="col-md-6 d-flex align-items-center">
-                    <p class="join-us-description mb-0">Igniting success through passion-fueled collaboration. Igniting success through passion-fueled collaboration.</p>
-                </div>
-                <div class="col-md-3 d-flex justify-content-end pr-0">
-                    <button
-                        class="btn btn-custom-secondary">
-                        Apply Now
-                    </button>
-                </div>
-            </div>
-        </div>
-    </section>
+     <?php include 'includes/join-our-team.php'; ?>
     <!-- join-us -- end  -->
     <!-- life-at-neo  -->
     <section class="life-at-neo section-padding">

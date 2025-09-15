@@ -9,10 +9,8 @@
           <p class="join-us-description mb-0">Igniting success through passion-fueled collaboration. Igniting success through passion-fueled collaboration.</p>
         </div>
         <div class="col-md-3 d-flex justify-content-end pr-0">
-          <button
-            class="btn btn-custom-secondary">
-            Apply Now
-          </button>
+          <a href="careers.php" class="btn btn-custom-secondary">Apply Now</a>
+          
         </div>
       </div>
     </div>
