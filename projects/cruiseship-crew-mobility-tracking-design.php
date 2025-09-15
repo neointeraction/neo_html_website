@@ -18,18 +18,18 @@
   <meta name="twitter:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
   <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
   <meta name="twitter:card" content="summary" />
-  <?php include './includes/favicon.php'; ?>
-  <?php include './includes/css.php'; ?>
-  <?php include_once './includes/head-additional-scripts.php'; ?>
+  <?php include '../includes/favicon.php'; ?>
+  <?php include '..includes/css.php'; ?>
+  <?php include_once 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
   <?php $page = 'Projects'; ?>
-  <?php include_once 'includes/body-additional-scripts.php'; ?>
+  <?php include_once '../includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
   <div class="navbar-container-block">
-    <?php include_once 'components/navigation.php'; ?>
-    <?php include_once 'components/whatsapp.php'; ?>
+    <?php include_once '../components/navigation.php'; ?>
+    <?php include_once '../components/whatsapp.php'; ?>
   </div>
   <!-- navbar -- end  -->
   <!-- banner  -->
@@ -282,9 +282,9 @@
   </div>
 
   <!-- banner -- end  -->
-  <?php include './components/footer.php'; ?>
-  <?php include './includes/footer-additional-scripts.php'; ?>
-  <?php include './includes/js.php'; ?>
+    <?php include '../components/footer.php'; ?>
+    <?php include '../includes/footer-additional-scripts.php'; ?>
+    <?php include '../includes/js.php'; ?>
 </body>
 
 </html>

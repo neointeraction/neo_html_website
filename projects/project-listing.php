@@ -1,4 +1,4 @@
-      <div class="project-block-item">
+      <div class="project-block-item" onclick="location.href='cruiseship-crew-mobility-tracking-design.php';" style="cursor: pointer;">
           <div class="row justify-content-center">
             <div class="col-12">
               <div class="project-card d-lg-flex">

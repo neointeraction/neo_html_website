@@ -33,45 +33,30 @@
     <?php
     // Initialize the blog system
     $news_list = array(
-        "john-distilleries-introduce-single-malt-whisky.php",
-        "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php",
-        "paul-john-shakes-world-single-malt-connoisseurship.php",
-        "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php",
-        "10-smoky-whiskies-sip-all-winter-long-peated-select-cask.php",
-        "10-superb-smoky-whiskies-you-should-try-paul-john-peated.php",
-        "depth-distinction-coming-density-robb-report.php",
-        "colourful-vibrant-and-balanced-paul-john-single-malt-must-lovers-peat-forbes.php",
-        "meet-craft-whiskies-2018-taste-tested-cbc-goodfood.php",
-        "whisky-made-india-by-independent-on-saturday-south-africa.php",
-        "premium-best-drams-spiritz-magazine-india.php",
-        "sip-some-single-malt-indias-first-ever-visitor-centre-distillery-tour-goa.php",
-        "paul-johns-kenny-joins-malt-maniacs-malt-malt.php",
-        "man-behind-paul-john-whisky-his-single-malt-journey-drink-making-philosophy-and-premium-gin-works.php",
-        "mithuna-makes-splash.php",
-        "little-known-indian-whiskey-beat-out-worlds-best.php",
-        "paul-john-whisky-mid-day.php",
-        "4-indian-whiskies-world-loves.php",
-        "paul-john-single-malt-story.php",
-        "paul-john-xo-branded-gold-world-brandy-awards-2021.php",
-        "mithuna-tasting-dramble.php",
-        "india-world-journey-paul-john.php",
-        "gloroso-architectural-digest.php"
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
     );
 
     // Blog metadata
     $blog_metadata = array(
-        "john-distilleries-introduce-single-malt-whisky.php" => array(
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning-.php" => array(
             "title" => "How to design Effective Dashboard to help boost your business",
             "author" => "Thirunavukkarasu L",
             "date" => "1 day ago",
-            "image" => "assets/images/temp/blog.webp",
+              "image" => "assets/images/temp/blog2.webp",
             "alt" => "Dashboard UI"
         ),
         "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php" => array(
             "title" => "Advantages and disadvantages of Website Templates",
             "author" => "Rahul Kale",
             "date" => "6 days ago",
-            "image" => "assets/images/temp/blog2.webp",
+            "image" => "assets/images/temp/blog1.webp",
             "alt" => "Website Templates"
         ),
         "paul-john-shakes-world-single-malt-connoisseurship.php" => array(
@@ -81,7 +66,7 @@
             "image" => "assets/images/temp/blog.webp",
             "alt" => "UX Design Process"
         ),
-        "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php" => array(
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php" => array(
             "title" => "Revolutionary UI/UX Design Through Machine Learning",
             "author" => "Thirunavukkarasu L",
             "date" => "2 days ago",
@@ -129,7 +114,7 @@
     </section>
     <!-- banner -- end  -->
     <!-- browse-project  -->
-    <section class="browse-project top-section-padding">
+    <section class="browse-project section-padding mb-5">
         <div class="container">
             <div class="project-block">
                 <div class="project-block-item">
@@ -138,7 +123,7 @@
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img
-                                        src="assets/images/projects/itg-bpm.webp"
+                                        src="assets/images/projects/intertrust-bpm-tool.jpeg"
                                         alt="Project Image"
                                         class="img-fluid project-image" />
                                 </div>

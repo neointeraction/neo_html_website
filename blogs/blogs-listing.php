@@ -2,8 +2,8 @@
 // blog-listing.php - Updated to work dynamically
 // This should be your existing $news_list array from the image
 $news_list = array(
-    "john-distilleries-introduce-single-malt-whisky.php",
-    "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php",
+    "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+    "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
     "paul-john-shakes-world-single-malt-connoisseurship.php",
     "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php",
     "10-smoky-whiskies-sip-all-winter-long-peated-select-cask.php",
@@ -21,28 +21,28 @@ $news_list = array(
 
 // Blog metadata array - you can store this in database or separate file
 $blog_metadata = array(
-    "john-distilleries-introduce-single-malt-whisky.php" => array(
+    "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php" => array(
         "title" => "How to design Effective Dashboard to help boost your...",
         "author" => "Thirunavukkarasu L",
         "date" => "1 day ago",
         "image" => "assets/images/temp/blog.webp",
         "alt" => "Dashboard UI"
     ),
-    "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php" => array(
+    "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php" => array(
         "title" => "Advantages and disadvantages of Website Templates",
         "author" => "Rahul Kale",
         "date" => "6 days ago",
         "image" => "assets/images/temp/blog2.webp",
         "alt" => "Website Templates"
     ),
-    "paul-john-shakes-world-single-malt-connoisseurship.php" => array(
+    "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php" => array(
         "title" => "What Is UX Design Process? A Complete Actionable Guide",
         "author" => "Rahul Kale",
         "date" => "6 days ago",
         "image" => "assets/images/temp/blog.webp",
         "alt" => "UX Design Process"
     ),
-    "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php" => array(
+    "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php" => array(
         "title" => "Revolutionary UI/UX Design Through Machine Learning",
         "author" => "Thirunavukkarasu L",
         "date" => "2 days ago",
