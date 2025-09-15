@@ -76,13 +76,10 @@
         <div class="container">
             <h2 class="section-title">Demo Video</h2>
             <div class="video-container section-margin">
-                <img
-                    class=""
-                    src="assets/images/temp/vid.webp"
-                    alt="vid"
-                    style="width: 100%" />
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/ag_Y_vApTp8?si=PIQBraA6Wx8KdlED" title="YouTube video player"
+                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
-
         </div>
     </section>
     <!-- clients  -->
@@ -94,7 +91,7 @@
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
                     <!-- First set of logos -->
-                     <?php include 'components/clients.php'; ?>
+                    <?php include 'components/clients.php'; ?>
                 </div>
             </div>
         </div>
@@ -109,103 +106,103 @@
             </div>
             <div class="project-slider-wrapper section-margin">
                 <div class="project-block about-project-block">
-      <div class="project-block-item">
-          <div class="row justify-content-center">
-            <div class="col-12">
-              <div class="project-card d-lg-flex">
-                <!-- Image container with fixed height and object-fit for consistent appearance -->
-                <div class="col-lg-6 p-0 project-image-container">
-                  <img
-                    src="assets/images/projects/intertrust-bpm-tool.jpeg"
-                    alt="Intertrust BPM Tool"
-                    class="img-fluid project-image" 
-                     width="584px"
-                    height="280px"/>
-                </div>
-                <div
-                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title">Intertrust BPM Tool</h2>
-                  <p class="project-description">
-                    Promo, the Intertrust’s BPM Tool, underwent a transformative revamp, leveraging streamlined UI enhancements and effective UX design techniques. By enhancing it into a user-friendly digital product, we significantly improved Promo's crucial role in enhancing workflow.</p>
-                  <div class="project-tags">
-                    <span class="badge">Healthcare</span>
-                    <span class="badge">Healthcare</span>
-                  </div>
+                    <div class="project-block-item">
+                        <div class="row justify-content-center">
+                            <div class="col-12">
+                                <div class="project-card d-lg-flex">
+                                    <!-- Image container with fixed height and object-fit for consistent appearance -->
+                                    <div class="col-lg-6 p-0 project-image-container">
+                                        <img
+                                            src="assets/images/projects/intertrust-bpm-tool.jpeg"
+                                            alt="Intertrust BPM Tool"
+                                            class="img-fluid project-image"
+                                            width="584px"
+                                            height="280px" />
+                                    </div>
+                                    <div
+                                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                        <h2 class="project-title">Intertrust BPM Tool</h2>
+                                        <p class="project-description">
+                                            Promo, the Intertrust’s BPM Tool, underwent a transformative revamp, leveraging streamlined UI enhancements and effective UX design techniques. By enhancing it into a user-friendly digital product, we significantly improved Promo's crucial role in enhancing workflow.</p>
+                                        <div class="project-tags">
+                                            <span class="badge">Healthcare</span>
+                                            <span class="badge">Healthcare</span>
+                                        </div>
 
-                  <div class="pb-action-btn">
-                    <button class="btn btn-custom read-more-btn">
-                      Read More
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="project-block-item">
-          <div class="row justify-content-center">
-            <div class="col-12">
-              <div class="project-card d-lg-flex">
-                <div class="col-lg-6 p-0 project-image-container">
-                  <img
-                    src="assets/images/projects/music-rights-management-solution.jpeg"
-                    alt="Music Rights Management Solution"
-                    class="img-fluid project-image" 
-                    width="584px"
-                    height="280px"/>  
-                </div>
-                <div
-                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title">Music Rights Management Solution</h2>
-                    <p class="project-description">The platform helps Rights Management societies to maximize rights collection and distribution while reducing operational costs. The UX redesign prioritized user specific functionality with micro-interactions to create an engaging user experience.
-                  </p>
-                  <div class="project-tags">
-                    <span class="badge">Healthcare</span>
-                    <span class="badge">Healthcare</span>
-                  </div>
+                                        <div class="pb-action-btn">
+                                            <button class="btn btn-custom read-more-btn">
+                                                Read More
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-block-item">
+                        <div class="row justify-content-center">
+                            <div class="col-12">
+                                <div class="project-card d-lg-flex">
+                                    <div class="col-lg-6 p-0 project-image-container">
+                                        <img
+                                            src="assets/images/projects/music-rights-management-solution.jpeg"
+                                            alt="Music Rights Management Solution"
+                                            class="img-fluid project-image"
+                                            width="584px"
+                                            height="280px" />
+                                    </div>
+                                    <div
+                                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                        <h2 class="project-title">Music Rights Management Solution</h2>
+                                        <p class="project-description">The platform helps Rights Management societies to maximize rights collection and distribution while reducing operational costs. The UX redesign prioritized user specific functionality with micro-interactions to create an engaging user experience.
+                                        </p>
+                                        <div class="project-tags">
+                                            <span class="badge">Healthcare</span>
+                                            <span class="badge">Healthcare</span>
+                                        </div>
 
-                  <div class="pb-action-btn">
-                    <button class="btn btn-custom read-more-btn">
-                      Read More
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="project-block-item">
-          <div class="row justify-content-center">
-            <div class="col-12">
-              <div class="project-card d-lg-flex">
-                <div class="col-lg-6 p-0 project-image-container">
-                  <img
-                    src="assets/images/projects/tricog-heart-failure-patient-app.jpeg"
-                    alt="AI Driven Healthcare Consultation Platform"
-                    class="img-fluid project-image" 
-                    width="584px"
-                    height="280px"/>
-                </div>
-                <div
-                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title">AI Driven Healthcare Consultation Platform</h2>
-                  <p class="project-description">The UX design modifications for the healthcare application was tailored to simplify tasks for cardiologists and provide accessible AI. Streamlining data visualization made monitoring patient vitals more efficient and impactful for cardiologists.
-                  </p>
-                  <div class="project-tags">
-                    <span class="badge">Healthcare</span>
-                    <span class="badge">Healthcare</span>
-                  </div>
+                                        <div class="pb-action-btn">
+                                            <button class="btn btn-custom read-more-btn">
+                                                Read More
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-block-item">
+                        <div class="row justify-content-center">
+                            <div class="col-12">
+                                <div class="project-card d-lg-flex">
+                                    <div class="col-lg-6 p-0 project-image-container">
+                                        <img
+                                            src="assets/images/projects/tricog-heart-failure-patient-app.jpeg"
+                                            alt="AI Driven Healthcare Consultation Platform"
+                                            class="img-fluid project-image"
+                                            width="584px"
+                                            height="280px" />
+                                    </div>
+                                    <div
+                                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                        <h2 class="project-title">AI Driven Healthcare Consultation Platform</h2>
+                                        <p class="project-description">The UX design modifications for the healthcare application was tailored to simplify tasks for cardiologists and provide accessible AI. Streamlining data visualization made monitoring patient vitals more efficient and impactful for cardiologists.
+                                        </p>
+                                        <div class="project-tags">
+                                            <span class="badge">Healthcare</span>
+                                            <span class="badge">Healthcare</span>
+                                        </div>
 
-                  <div class="pb-action-btn">
-                    <button class="btn btn-custom read-more-btn">
-                      Read More
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+                                        <div class="pb-action-btn">
+                                            <button class="btn btn-custom read-more-btn">
+                                                Read More
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="slick-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
@@ -277,7 +274,7 @@
             <div class="blog-container-block section-margin">
                 <div class="row g-4 justify-content-center">
                     <!-- Card 1 -->
-                   <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
                             <div class="blog-card h-100">
                                 <img src="assets/images/team/sam.jpeg" class="team-img-top" alt="sam" />
@@ -304,7 +301,7 @@
                             </div>
                         </a>
                     </div>
-                     <!-- item -->
+                    <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
                             <div class="blog-card h-100">
@@ -318,7 +315,7 @@
                             </div>
                         </a>
                     </div>
-                     <!-- item -->
+                    <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
                             <div class="blog-card h-100">
@@ -338,7 +335,7 @@
     </section>
     <!-- our-team - end  -->
     <!-- join-us  -->
-     <?php include 'includes/join-our-team.php'; ?>
+    <?php include 'includes/join-our-team.php'; ?>
     <!-- join-us -- end  -->
     <!-- life-at-neo  -->
     <section class="life-at-neo section-padding">

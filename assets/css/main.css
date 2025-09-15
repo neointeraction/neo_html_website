@@ -318,6 +318,7 @@ body {
   padding: 24px;
   color: #1f2937;
   flex-basis: 50%;
+  min-height: 315px;
 }
 
 .quote-icon {
@@ -379,6 +380,10 @@ body {
   overflow: hidden;
   background-color: white;
   cursor: pointer;
+}
+
+.browse-project .project-card {
+  min-height: 360px;
 }
 
 .pb-action-btn {
@@ -672,6 +677,10 @@ body {
   border-radius: 0;
 }
 
+.blog-card:hover {
+  background-color: #f6f6f6;
+}
+
 .card-img-top {
   border-radius: 0;
   height: 200px;
@@ -688,6 +697,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   color: #58595a;
+  margin-bottom: 0;
 }
 
 /* banner-strip  */
@@ -1228,4 +1238,64 @@ body {
   justify-content: center;
   align-items: center;
   padding: 60px 0 80px 0;
+}
+
+.contact-right .form-btn-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+}
+
+.custom-input {
+  background-color: #fdfdfd;
+  padding: 10px 16px;
+  border-radius: 0;
+}
+
+.custom-input:focus {
+  border-color: transparent;
+  box-shadow: none;
+}
+
+.contact-title {
+  font-size: 60px;
+  font-weight: 500;
+  margin-bottom: 40px;
+  line-height: 1.2;
+  color: #333;
+}
+
+.form-title {
+  font-weight: 500;
+  font-size: 32px;
+  color: #58595a;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.get-directions {
+  color: #2b2828;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.get-directions:hover {
+  color: #e74c3c;
+}
+
+.contact-info h4 {
+  font-weight: 600;
+  font-size: 22px;
+  color: #2b2828;
+}
+
+.contact-info p {
+  font-weight: 400;
+  font-size: 20px;
+  color: #374151;
+  margin-bottom: 0;
+}
+
+.ci-item {
+  margin-bottom: 24px;
 }

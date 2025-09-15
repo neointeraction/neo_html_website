@@ -3,7 +3,7 @@
 
 <head>
   <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
-  
+
   <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
   <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
   <link rel="canonical" href="https://www.neointeraction.com/blog" />
@@ -195,7 +195,7 @@
       </h2>
       <div class="scroll-container section-margin">
         <div class="scrolling-logos">
-           <?php include 'components/clients.php'; ?>
+          <?php include 'components/clients.php'; ?>
         </div>
       </div>
     </div>
@@ -222,13 +222,10 @@
     <div class="container">
       <h2 class="section-title">Demo Video</h2>
       <div class="video-container section-margin">
-        <img
-          class=""
-          src="assets/images/temp/vid.webp"
-          alt="vid"
-          style="width: 100%" />
+        <iframe width="100%" height="650" src="https://www.youtube.com/embed/ag_Y_vApTp8?si=PIQBraA6Wx8KdlED" title="YouTube video player"
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
       </div>
-
     </div>
   </section>
   <!-- faq  -->
@@ -285,7 +282,7 @@
       <div class="blog-container-block section-margin">
         <div class="row g-4 justify-content-center">
           <!-- Card 1 -->
-      <?php include 'blogs/blogs-listing.php'; ?>
+          <?php include 'blogs/blogs-listing.php'; ?>
         </div>
       </div>
     </div>
