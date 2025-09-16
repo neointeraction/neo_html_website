@@ -1,23 +1,23 @@
 <?php
 // blog-listing.php - Updated to work dynamically
 // This should be your existing $news_list array from the image
-$news_list = array(
-    "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
-    "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
-    "paul-john-shakes-world-single-malt-connoisseurship.php",
-    "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php",
-    "10-smoky-whiskies-sip-all-winter-long-peated-select-cask.php",
-    "10-superb-smoky-whiskies-you-should-try-paul-john-peated.php",
-    "depth-distinction-coming-density-robb-report.php",
-    "colourful-vibrant-and-balanced-paul-john-single-malt-must-lovers-peat-forbes.php",
-    "meet-craft-whiskies-2018-taste-tested-cbc-goodfood.php",
-    "whisky-made-india-by-independent-on-saturday-south-africa.php",
-    "premium-best-drams-spiritz-magazine-india.php",
-    "sip-some-single-malt-indias-first-ever-visitor-centre-distillery-tour-goa.php",
-    "paul-johns-kenny-joins-malt-maniacs-malt-malt.php",
-    "man-behind-paul-john-whisky-his-single-malt-journey-drink-making-philosophy-and-premium-gin-works.php",
-    // Add more blog entries as needed...
-);
+    $news_list = array(
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+        "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php",
+        "paul-john-shakes-world-single-malt-connoisseurship.php",
+        "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php",
+        "10-smoky-whiskies-sip-all-winter-long-peated-select-cask.php",
+        "10-superb-smoky-whiskies-you-should-try-paul-john-peated.php",
+        "depth-distinction-coming-density-robb-report.php",
+        "colourful-vibrant-and-balanced-paul-john-single-malt-must-lovers-peat-forbes.php",
+        "meet-craft-whiskies-2018-taste-tested-cbc-goodfood.php",
+        "whisky-made-india-by-independent-on-saturday-south-africa.php",
+        "premium-best-drams-spiritz-magazine-india.php",
+        "sip-some-single-malt-indias-first-ever-visitor-centre-distillery-tour-goa.php",
+        "paul-johns-kenny-joins-malt-maniacs-malt-malt.php",
+        "man-behind-paul-john-whisky-his-single-malt-journey-drink-making-philosophy-and-premium-gin-works.php",
+        // Add more blog entries as needed...
+    );
 
 // Blog metadata array - you can store this in database or separate file
 $blog_metadata = array(

@@ -38,7 +38,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Crew Mobility Management <span class="highlight">in a Cruise</span>
+        Claiming Efficiency- UX Boost for <span class="highlight">Cashless TPA</span>
       </h1>
     </div>
     <!-- project-banner-img -->

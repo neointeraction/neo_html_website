@@ -1,22 +1,25 @@
 <?php
   $rootPath = "projects/";
   $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2);
+  $allowedTags = [
+    'Mobile Design', 'Enterprise Apps', 'Start-up Projects', 'B2B', 'Fintech',
+    'Capital Market', 'Healthcare', 'IOT', 'Travel & Hospitality', 'B2C'];
 
   $projects = [
     [
       'title' => 'Intertrust BPM Tool',
       'description' => 'A BPM application/product revamped for enhanced user-friendliness & its vital role in improving organizational processes.',
-      'image' => 'intertrust-bpm-tool.png',
+      'image' => 'intertrust-bpm-tool.jpeg',
       'alt' => 'Intertrust BPM Tool',
-      'tags' => ['BPM', 'Workflow'],
+      'tags' => ['Enterprise Apps', 'BPM'],
       'link' => 'intertrust-bpm-tool.php'
     ],
     [
       'title' => 'Euclid - A biomedical Research platform',
       'description' => 'A platform that focuses on managing biomedical data complexities amid advancements in technology',
-      'image' => 'euclid-biomedical-research-platform.png',
+      'image' => 'euclid-biomedical-research-platform.jpeg',
       'alt' => 'Euclid - A biomedical Research platform',
-      'tags' => ['Biomedical', 'Research', 'Platform'],
+      'tags' => ['Start-up Projects', 'Healthcare'],
       'link' => 'euclid-biomedical-research-platform.php'
     ],
     [
@@ -24,23 +27,23 @@
       'description' => 'A platform enabling employees to monitor and track the company\'s fund-related operations',
       'image' => 'intertrust-navigate.jpeg',
       'alt' => 'Intertrust Navigate',
-      'tags' => ['Finance', 'Operations', 'Platform'],
+      'tags' => ['Enterprise Apps', 'Fintech'],
       'link' => 'intertrust-navigate.php'
     ],
     [
       'title' => 'Share Trading Platform',
       'description' => 'Trading platform revamped to offer users a unified experience accessible across devices',
-      'image' => 'share-trading-platform.png',
+      'image' => 'share-trading-platform.jpeg',
       'alt' => 'Share Trading Platform',
-      'tags' => ['Finance', 'Trading', 'Platform'],
+      'tags' => ['Fintech', 'Capital Market'],
       'link' => 'share-trading-platform.php'
     ],
     [
       'title' => 'Crew Mobility Management in a Cruise',
       'description' => 'Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information',
-      'image' => 'crew-mobility-management-in-a-cruise.png',
+      'image' => 'crew-mobility-management-in-a-cruise.jpeg',
       'alt' => 'Crew Mobility Management in a Cruise',
-      'tags' => ['Logistics', 'Travel', 'Mobile App'],
+      'tags' => ['Mobile Design', 'Travel & Hospitality'],
       'link' => 'crew-mobility-management-in-a-cruise.php'
     ],
     [
@@ -48,7 +51,7 @@
       'description' => 'Enhancing the usability of a platform that delivers tuition to your doorstep for easy learning',
       'image' => 'online-tutoring-platform.jpeg',
       'alt' => 'Online Tutoring Platform',
-      'tags' => ['Education', 'Mobile App'],
+      'tags' => ['Mobile Design', 'Start-up Projects'],
       'link' => 'online-tutoring-platform.php'
     ],
     [
@@ -56,7 +59,7 @@
       'description' => 'AI-driven predictive healthcare platform that improves heart failure patient care',
       'image' => 'ai-driven-healthcare-consultation-platform.jpeg',
       'alt' => 'AI Driven Healthcare Consultation Platform',
-      'tags' => ['Healthcare', 'AI/ML'],
+      'tags' => ['Healthcare'],
       'link' => 'ai-driven-healthcare-consultation-platform.php'
     ],
     [
@@ -64,15 +67,15 @@
       'description' => 'An advanced tech solution optimizes collection, distribution for Rights Management Organizations, minimizing costs.',
       'image' => 'music-rights-management-solution.jpeg',
       'alt' => 'Music Rights Management Solution',
-      'tags' => ['Music', 'Rights Management'],
+      'tags' => ['Enterprise Apps'],
       'link' => 'music-rights-management-solution.php'
     ],
     [
       'title' => 'Cattle Tracking & Management solution',
       'description' => 'Revolutionizing cattle farm management by streamlining tasks, promoting healthier livestock, and increasing profitability.',
-      'image' => 'cattle-tracking-management-solution.png',
+      'image' => 'cattle-tracking-management-solution.jpeg',
       'alt' => 'Cattle Tracking & Management solution',
-      'tags' => ['Agriculture', 'Management', 'IoT'],
+      'tags' => ['IOT', 'B2B'],
       'link' => 'cattle-tracking-management-solution.php'
     ],
     [
@@ -80,7 +83,7 @@
       'description' => 'Creating a user friendly modern banking platform for young professionals, expats, and native youth',
       'image' => 'revolutionizing-banking-experiences.jpeg',
       'alt' => 'Revolutionizing Banking Experiences',
-      'tags' => ['Banking', 'Fintech', 'UI/UX'],
+      'tags' => ['Fintech', 'B2C'],
       'link' => 'revolutionizing-banking-experiences.php'
     ],
     [
@@ -88,29 +91,40 @@
       'description' => 'The Player Transfer System redesign that streamlines player movements between FIFA accredited clubs',
       'image' => 'player-transfer-system.jpeg',
       'alt' => 'Player Transfer System',
-      'tags' => ['Sports', 'Management', 'System'],
+      'tags' => ['Enterprise Apps', 'B2B'],
       'link' => 'player-transfer-system.php'
     ],
     [
       'title' => 'Inkmagik - A Graphic Design Tool',
       'description' => 'An all in one easy to use graphics design tool for individuals and businesses',
-      'image' => 'inkmagik-graphic-design-tool.png',
+      'image' => 'inkmagik-graphic-design-tool.jpeg',
       'alt' => 'Inkmagik - A Graphic Design Tool',
-      'tags' => ['Design', 'Tool', 'Graphics'],
+      'tags' => ['Start-up Projects', 'B2C'],
       'link' => 'inkmagik-graphic-design-tool.php'
     ],
     [
       'title' => 'Claiming Efficiency - UX Boost for Cashless TPA',
       'description' => 'Revamping UX for TPA claims across 600 teams, prioritizing cashless simplicity and efficiency via TIPS.',
-      'image' => 'vidal-cashless-tpa.png',
+      'image' => 'vidal-cashless-tpa.jpeg',
       'alt' => 'Claiming Efficiency - UX Boost for Cashless TPA',
-      'tags' => ['Healthcare', 'Insurance', 'UX'],
+      'tags' => ['Healthcare', 'B2B'],
       'link' => 'vidal-cashless-tpa.php'
     ]
   ];
 
-  $limit = isset($limit) ? (int)$limit : count($projects);
-  $displayProjects = array_slice($projects, 0, $limit);
+  $filteredProjects = [];
+  if (isset($selectedTag) && $selectedTag !== 'All') {
+    foreach ($projects as $project) {
+      if (in_array($selectedTag, $project['tags'])) {
+        $filteredProjects[] = $project;
+      }
+    }
+  } else {
+    $filteredProjects = $projects;
+  }
+
+  $limit = isset($limit) ? (int)$limit : count($filteredProjects);
+  $displayProjects = array_slice($filteredProjects, 0, $limit);
 
   foreach ($displayProjects as $project) {
 ?>
