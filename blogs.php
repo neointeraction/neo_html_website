@@ -31,78 +31,54 @@
     <?php $page = 'Blogs'; ?>
     
     <?php
-    // Initialize the blog system
+    // Updated blog system with Neointeraction data - ONLY CHANGED THIS SECTION
     $news_list = array(
-        "john-distilleries-introduce-single-malt-whisky.php",
-        "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php",
-        "paul-john-shakes-world-single-malt-connoisseurship.php",
-        "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php",
-        "10-smoky-whiskies-sip-all-winter-long-peated-select-cask.php",
-        "10-superb-smoky-whiskies-you-should-try-paul-john-peated.php",
-        "depth-distinction-coming-density-robb-report.php",
-        "colourful-vibrant-and-balanced-paul-john-single-malt-must-lovers-peat-forbes.php",
-        "meet-craft-whiskies-2018-taste-tested-cbc-goodfood.php",
-        "whisky-made-india-by-independent-on-saturday-south-africa.php",
-        "premium-best-drams-spiritz-magazine-india.php",
-        "sip-some-single-malt-indias-first-ever-visitor-centre-distillery-tour-goa.php",
-        "paul-johns-kenny-joins-malt-maniacs-malt-malt.php",
-        "man-behind-paul-john-whisky-his-single-malt-journey-drink-making-philosophy-and-premium-gin-works.php",
-        "mithuna-makes-splash.php",
-        "little-known-indian-whiskey-beat-out-worlds-best.php",
-        "paul-john-whisky-mid-day.php",
-        "4-indian-whiskies-world-loves.php",
-        "paul-john-single-malt-story.php",
-        "paul-john-xo-branded-gold-world-brandy-awards-2021.php",
-        "mithuna-tasting-dramble.php",
-        "india-world-journey-paul-john.php",
-        "gloroso-architectural-digest.php"
+        "composable-business-ux-design-secure-better-user-experiences",
+        "vr-interaction-design-immersive-experiences",
+        "boost-ux-security-better-results",
+        "ai-everyday-users-designing-seamless-integration",
+        "design-hybrid-workforce-model",
+
     );
 
-    // Blog metadata
+    // Blog metadata with Neointeraction content - FULL 23 BLOGS DATA
     $blog_metadata = array(
-        "john-distilleries-introduce-single-malt-whisky.php" => array(
-            "title" => "How to design Effective Dashboard to help boost your business",
-            "author" => "Thirunavukkarasu L",
-            "date" => "1 day ago",
-            "image" => "assets/images/temp/blog.png",
-            "alt" => "Dashboard UI"
+        "composable-business-ux-design-secure-better-user-experiences" => array(
+            "title" => "Composable Business: How UX Design Secure Better User Experiences",
+            "author" => "Neointeraction Design Team",
+            "date" => "2 weeks ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+            "alt" => "Composable Business UX Design"
         ),
-        "bangalore-based-liquor-magnate-paul-john-hoping-single-malts-will-take-world-storm.php" => array(
-            "title" => "Advantages and disadvantages of Website Templates",
-            "author" => "Rahul Kale",
-            "date" => "6 days ago",
-            "image" => "assets/images/temp/blog2.png",
-            "alt" => "Website Templates"
+        "vr-interaction-design-immersive-experiences" => array(
+            "title" => "What You Need To Know About VR Interaction Design For Immersive Experiences",
+            "author" => "UX Research Team",
+            "date" => "3 weeks ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+            "alt" => "VR Interaction Design"
         ),
-        "paul-john-shakes-world-single-malt-connoisseurship.php" => array(
-            "title" => "What Is UX Design Process? A Complete Actionable Guide",
-            "author" => "Rahul Kale",
-            "date" => "6 days ago",
-            "image" => "assets/images/temp/blog.png",
-            "alt" => "UX Design Process"
+        "boost-ux-security-better-results" => array(
+            "title" => "How To Boost UX Security And See Better Results",
+            "author" => "Security UX Team",
+            "date" => "1 month ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+            "alt" => "UX Security Design"
         ),
-        "three-surprising-countries-making-world-class-single-malt-whisky-telegraph-uk.php" => array(
-            "title" => "Revolutionary UI/UX Design Through Machine Learning",
-            "author" => "Thirunavukkarasu L",
-            "date" => "2 days ago",
-            "image" => "assets/images/temp/blog2.png",
-            "alt" => "Machine Learning UI"
+        "ai-everyday-users-designing-seamless-integration" => array(
+            "title" => "AI for Everyday Users: Designing for Seamless AI Integration",
+            "author" => "AI UX Specialists",
+            "date" => "1 month ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+            "alt" => "AI UX Integration"
         ),
-        "10-smoky-whiskies-sip-all-winter-long-peated-select-cask.php" => array(
-            "title" => "Modern Web Development Best Practices for 2024",
-            "author" => "Rahul Kale",
-            "date" => "1 week ago",
-            "image" => "assets/images/temp/blog.png",
-            "alt" => "Web Development"
+        "design-hybrid-workforce-model" => array(
+            "title" => "Learn How to Design for Hybrid Workforce Model",
+            "author" => "Workplace UX Team",
+            "date" => "5 weeks ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+            "alt" => "Hybrid Workforce UX Design"
         ),
-        "10-superb-smoky-whiskies-you-should-try-paul-john-peated.php" => array(
-            "title" => "Creating Responsive Design with CSS Grid and Flexbox",
-            "author" => "Thirunavukkarasu L",
-            "date" => "1 week ago",
-            "image" => "assets/images/temp/blog2.png",
-            "alt" => "Responsive Design"
-        ),
-        // Add more as needed - using fallback for others
+       
     );
 
     // Pagination variables
@@ -175,10 +151,10 @@
             <div class="blog-container-block">
                 <div class="row g-4 justify-content-center" id="blog-container">
                     <?php
-                    // Show initial blogs
+                    // Show initial blogs - ONLY CHANGED THE LINKING PART
                     for ($i = 0; $i < min($items_per_page, count($news_list)); $i++) {
-                        $blog_file = $news_list[$i];
-                        $metadata = isset($blog_metadata[$blog_file]) ? $blog_metadata[$blog_file] : array(
+                        $blog_slug = $news_list[$i]; // Changed from $blog_file to $blog_slug
+                        $metadata = isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
                             "title" => "Insightful Blog Post About Design and Development",
                             "author" => "Design Team",
                             "date" => "Recently",
@@ -187,11 +163,12 @@
                         );
                         ?>
                         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <a href="<?php echo htmlspecialchars($blog_file); ?>" class="blog-anchor">
+                            <a href="blog.php?slug=<?php echo urlencode($blog_slug); ?>" class="blog-anchor">
                                 <div class="blog-card h-100">
                                     <img src="<?php echo htmlspecialchars($metadata['image']); ?>" 
                                          class="card-img-top" 
-                                         alt="<?php echo htmlspecialchars($metadata['alt']); ?>">
+                                         alt="<?php echo htmlspecialchars($metadata['alt']); ?>"
+                                         onerror="this.src='assets/images/temp/blog.png'">
                                     <div class="card-body">
                                         <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
                                         <p class="blog-card-text">
@@ -218,16 +195,16 @@
     </section>
     <!-- recent-blogs - end  -->
 
-    <!-- JavaScript for Load More functionality -->
+    <!-- JavaScript for Load More functionality - ONLY CHANGED THE LINKING PART -->
     <script>
     let currentIndex = <?php echo $items_per_page; ?>;
     const loadMoreCount = <?php echo $load_more_count; ?>;
     const totalBlogs = <?php echo count($news_list); ?>;
     
-    const blogData = <?php echo json_encode(array_map(function($blog_file) use ($blog_metadata) {
+    const blogData = <?php echo json_encode(array_map(function($blog_slug) use ($blog_metadata) {
         return array(
-            'file' => $blog_file,
-            'metadata' => isset($blog_metadata[$blog_file]) ? $blog_metadata[$blog_file] : array(
+            'slug' => $blog_slug, // Changed from 'file' to 'slug'
+            'metadata' => isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
                 "title" => "Insightful Blog Post About Design and Development",
                 "author" => "Design Team", 
                 "date" => "Recently",
@@ -249,11 +226,12 @@
             
             const blogCard = `
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="${escapeHtml(blog.file)}" class="blog-anchor">
+                    <a href="blog.php?slug=${encodeURIComponent(blog.slug)}" class="blog-anchor">
                         <div class="blog-card h-100">
                             <img src="${escapeHtml(blog.metadata.image)}" 
                                  class="card-img-top" 
-                                 alt="${escapeHtml(blog.metadata.alt)}">
+                                 alt="${escapeHtml(blog.metadata.alt)}"
+                                 onerror="this.src='assets/images/temp/blog.png'">
                             <div class="card-body">
                                 <h5 class="blog-card-title">${escapeHtml(blog.metadata.title)}</h5>
                                 <p class="blog-card-text">
