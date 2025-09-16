@@ -3,6 +3,7 @@
 
 <head>
   <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
+
   <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
   <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
   <link rel="canonical" href="https://www.neointeraction.com/blog" />
@@ -42,9 +43,8 @@
             Award winning <span class="highlight">Ux Agency</span>
           </h1>
         </div>
-
         <div class="banner-img-block">
-          <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
+          <img src="./assets/images/temp/placeholder.webp" alt="placeholder" />
         </div>
       </div>
       <div>
@@ -54,7 +54,7 @@
           </h1>
         </div>
         <div class="banner-img-block">
-          <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
+          <img src="./assets/images/temp/placeholder.webp" alt="placeholder" />
         </div>
       </div>
       <div>
@@ -64,7 +64,7 @@
           </h1>
         </div>
         <div class="banner-img-block">
-          <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
+          <img src="./assets/images/temp/placeholder.webp" alt="placeholder" />
         </div>
       </div>
       <div>
@@ -74,12 +74,10 @@
           </h1>
         </div>
         <div class="banner-img-block">
-          <img src="./assets/images/temp/placeholder.jpg" alt="placeholder" />
+          <img src="./assets/images/temp/placeholder.webp" alt="placeholder" />
         </div>
       </div>
     </div>
-
-
   </section>
   <!-- banner -- end  -->
   <!-- business-success  -->
@@ -88,7 +86,7 @@
       <h2 class="section-title">
         Crafting business success through Digital Experience
       </h2>
-      <div class="bs-card-section">
+      <div class="bs-card-section section-margin">
         <div class="row justify-content-center">
           <!-- Card 1 -->
           <div class="col-12 col-md-6 col-lg-3">
@@ -121,7 +119,6 @@
               </button>
             </div>
           </div>
-
           <!-- Card 3 -->
           <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
@@ -138,7 +135,6 @@
               </button>
             </div>
           </div>
-
           <!-- Card 4 -->
           <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
@@ -159,10 +155,6 @@
       </div>
     </div>
   </section>
-
-
-
-
   <!-- business-success -- end  -->
   <!-- our-impact  -->
   <section class="our-impact section-padding">
@@ -201,90 +193,9 @@
       <h2 class="section-title">
         Clients we’ve partnered with
       </h2>
-
-      <div class="scroll-container">
+      <div class="scroll-container section-margin">
         <div class="scrolling-logos">
-          <!-- First set of logos -->
-          <div class="client-logo-flex" aria-hidden="true">
-            <div class="clf-item">
-              <img src="assets/images/clients/icici.png" alt="icici" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/geo.png" alt="geo" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/bnp.png" alt="bnp" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/cbd.png" alt="bnp" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/clayfin.png" alt="clayfin" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/cb.png" alt="cb" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/brac.png" alt="brac" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/qb.png" alt="qb" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/fs.png" alt="fs" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/bosch.png" alt="bosch" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/itg.png" alt="itg" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/vc.png" alt="vc" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/vidal.png" alt="vidal" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/ls.png" alt="ls" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/it.png" alt="it" />
-            </div>
-            <div class="clf-item">
-              <img
-                src="assets/images/clients/traveloka.png"
-                alt="traveloka" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/db.png" alt="db" />
-            </div>
-            <div class="clf-item">
-              <img
-                src="assets/images/clients/inkmagik.png"
-                alt="inkmagik" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/tricog.png" alt="tricog" />
-            </div>
-            <div class="clf-item">
-              <img
-                src="assets/images/clients/yokogawa.png"
-                alt="yokogawa" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/wipro.png" alt="wipro" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/quest.png" alt="quest" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/int.png" alt="int" />
-            </div>
-            <div class="clf-item">
-              <img src="assets/images/clients/car.png" alt="car" />
-            </div>
-          </div>
+          <?php include 'components/clients.php'; ?>
         </div>
       </div>
     </div>
@@ -298,106 +209,10 @@
     <div class="container">
       <div class="title-flex">
         <h2 class="section-title">Browse Projects</h2>
-        <a href="#" class="section-links">View All</a>
+        <a href="projects.php" class="section-links">View All</a>
       </div>
-      <div class="project-block">
-        <div class="project-block-item">
-          <div class="row justify-content-center">
-            <div class="col-12">
-              <div class="project-card d-lg-flex">
-                <!-- Image container with fixed height and object-fit for consistent appearance -->
-                <div class="col-lg-6 p-0 project-image-container">
-                  <img
-                    src="assets/images/projects/itg-bpm.png"
-                    alt="Project Image"
-                    class="img-fluid project-image" />
-                </div>
-                <div
-                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title">Intertrust BPM Tool</h2>
-                  <p class="project-description">
-                    A BPM application/product that helps optimizing business
-                    processes in an organization
-                  </p>
-                  <div class="project-tags">
-                    <span class="badge">Healthcare</span>
-                    <span class="badge">Healthcare</span>
-                  </div>
-
-                  <div class="pb-action-btn">
-                    <button class="btn btn-custom read-more-btn">
-                      Read More
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="project-block-item">
-          <div class="row justify-content-center">
-            <div class="col-12">
-              <div class="project-card d-lg-flex">
-                <div class="col-lg-6 p-0 project-image-container">
-                  <img
-                    src="assets/images/projects/itg-bpm.png"
-                    alt="Project Image"
-                    class="img-fluid project-image" />
-                </div>
-                <div
-                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title">Intertrust BPM Tool</h2>
-                  <p class="project-description">
-                    A BPM application/product that helps optimizing business
-                    processes in an organization
-                  </p>
-                  <div class="project-tags">
-                    <span class="badge">Healthcare</span>
-                    <span class="badge">Healthcare</span>
-                  </div>
-
-                  <div class="pb-action-btn">
-                    <button class="btn btn-custom read-more-btn">
-                      Read More
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="project-block-item">
-          <div class="row justify-content-center">
-            <div class="col-12">
-              <div class="project-card d-lg-flex">
-                <div class="col-lg-6 p-0 project-image-container">
-                  <img
-                    src="assets/images/projects/itg-bpm.png"
-                    alt="Project Image"
-                    class="img-fluid project-image" />
-                </div>
-                <div
-                  class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title">Intertrust BPM Tool</h2>
-                  <p class="project-description">
-                    A BPM application/product that helps optimizing business
-                    processes in an organization
-                  </p>
-                  <div class="project-tags">
-                    <span class="badge">Healthcare</span>
-                    <span class="badge">Healthcare</span>
-                  </div>
-
-                  <div class="pb-action-btn">
-                    <button class="btn btn-custom read-more-btn">
-                      Read More
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div class="project-block section-margin">
+        <?php include 'projects/project-listing.php'; ?>
       </div>
     </div>
   </section>
@@ -406,14 +221,11 @@
   <section class="demo-video section-padding">
     <div class="container">
       <h2 class="section-title">Demo Video</h2>
-      <div class="video-container">
-        <img
-          class=""
-          src="assets/images/temp/vid.png"
-          alt="vid"
-          style="width: 100%" />
+      <div class="video-container section-margin">
+        <iframe width="100%" height="650" src="https://www.youtube.com/embed/ag_Y_vApTp8?si=PIQBraA6Wx8KdlED" title="YouTube video player"
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
       </div>
-
     </div>
   </section>
   <!-- faq  -->
@@ -424,14 +236,14 @@
     <div class="container">
       <h2 class="section-title">Design Events</h2>
 
-      <div class="project-block ">
+      <div class="project-block section-margin">
         <div class="project-block-item">
           <div class="row justify-content-center">
             <div class="col-12">
               <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                   <img
-                    src="assets/images/workshop.png"
+                    src="assets/images/events/workshop-on-accelerating design-decisions.jpeg"
                     alt="Project Image"
                     class="img-fluid project-image" />
                 </div>
@@ -467,64 +279,10 @@
         <h2 class="section-title">Recent Blogs</h2>
         <a href="#" class="section-links">View All</a>
       </div>
-      <div class="blog-container-block">
+      <div class="blog-container-block section-margin">
         <div class="row g-4 justify-content-center">
           <!-- Card 1 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <a href="#" class="blog-anchor">
-              <div class="blog-card h-100">
-                <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
-                <div class="card-body">
-                  <h5 class="blog-card-title">How to design Effective Dashboard to help boost your...</h5>
-                  <p class="blog-card-text">
-                    <small class="text-muted">Thirunavukkarasu L • 1 day ago</small>
-                  </p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <!-- Card 2 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <a href="#" class="blog-anchor">
-              <div class="blog-card h-100">
-                <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
-                <div class="card-body">
-                  <h5 class="blog-card-title">Advantages and disadvantages of Website Templates</h5>
-                  <p class="blog-card-text">
-                    <small class="text-muted">Rahul Kale • 6 days ago</small>
-                  </p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <!-- Card 3 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <a href="#" class="blog-anchor">
-              <div class="blog-card h-100">
-                <img src="assets/images/temp/blog.png" class="card-img-top" alt="Dashboard UI">
-                <div class="card-body">
-                  <h5 class="blog-card-title">What Is UX Design Process? A Complete Actionable Guide</h5>
-                  <p class="blog-card-text">
-                    <small class="text-muted">Rahul Kale • 6 days ago</small>
-                  </p>
-                </div>
-              </div>
-            </a>
-          </div>
-          <!-- Card 4 -->
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <a href="#" class="blog-anchor">
-              <div class="blog-card h-100">
-                <img src="assets/images/temp/blog2.png" class="card-img-top" alt="Dashboard UI">
-                <div class="card-body">
-                  <h5 class="blog-card-title">What Is UX Design Process? A Complete Actionable Guide</h5>
-                  <p class="blog-card-text">
-                    <small class="text-muted">Rahul Kale • 6 days ago</small>
-                  </p>
-                </div>
-              </div>
-            </a>
-          </div>
+          <?php include 'blogs/blogs-listing.php'; ?>
         </div>
       </div>
     </div>
@@ -536,7 +294,7 @@
       <div class="row ui-card">
         <!-- Image Column -->
         <div class="col-md-6 img-container">
-          <img src="assets/images/bs-img.png" alt="Stylized illustration" class="img-fluid">
+          <img src="assets/images/bs-img.webp" alt="Stylized illustration" class="img-fluid">
         </div>
 
         <!-- Text and Button Column -->
@@ -556,25 +314,7 @@
   </section>
   <!-- banner-strip --end  -->
 
-  <!-- join-us  -->
-  <section class="join-us section-padding">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-md-3 d-flex align-items-center">
-          <h1 class="join-us-title mb-0">Join Our Team</h1>
-        </div>
-        <div class="col-md-6 d-flex align-items-center">
-          <p class="join-us-description mb-0">Igniting success through passion-fueled collaboration. Igniting success through passion-fueled collaboration.</p>
-        </div>
-        <div class="col-md-3 d-flex justify-content-end pr-0">
-          <button
-            class="btn btn-custom-secondary">
-            Apply Now
-          </button>
-        </div>
-      </div>
-    </div>
-  </section>
+  <?php include 'includes/join-our-team.php'; ?>
   <?php include 'components/footer.php'; ?>
   <?php include 'includes/footer-additional-scripts.php'; ?>
   <?php include 'includes/js.php'; ?>

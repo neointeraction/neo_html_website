@@ -29,7 +29,7 @@
 
 <body>
     <?php $page = 'Blogs'; ?>
-    
+
     <?php
     // Updated blog system with Neointeraction data - ONLY CHANGED THIS SECTION
     $news_list = array(
@@ -105,17 +105,16 @@
     </section>
     <!-- banner -- end  -->
     <!-- browse-project  -->
-    <section class="browse-project top-section-padding">
+    <section class="browse-project section-padding mb-5">
         <div class="container">
             <div class="project-block">
                 <div class="project-block-item">
                     <div class="row justify-content-center">
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
-                                <!-- Image container with fixed height and object-fit for consistent appearance -->
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img
-                                        src="assets/images/projects/itg-bpm.png"
+                                        src="assets/images/projects/intertrust-bpm-tool.jpeg"
                                         alt="Project Image"
                                         class="img-fluid project-image" />
                                 </div>
@@ -158,10 +157,10 @@
                             "title" => "Insightful Blog Post About Design and Development",
                             "author" => "Design Team",
                             "date" => "Recently",
-                            "image" => "assets/images/temp/blog.png",
+                            "image" => "assets/images/temp/blog.webp",
                             "alt" => "Blog Image"
                         );
-                        ?>
+                    ?>
                         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <a href="blog.php?slug=<?php echo urlencode($blog_slug); ?>" class="blog-anchor">
                                 <div class="blog-card h-100">
@@ -178,11 +177,11 @@
                                 </div>
                             </a>
                         </div>
-                        <?php
+                    <?php
                     }
                     ?>
                 </div>
-                
+
                 <?php if (count($news_list) > $items_per_page): ?>
                     <div class="text-center mt-4">
                         <button class="btn btn-custom btn-custom-secondary" id="load-more-btn" onclick="loadMoreBlogs()">
@@ -214,17 +213,17 @@
         );
     }, $news_list)); ?>;
 
-    function loadMoreBlogs() {
-        const container = document.getElementById('blog-container');
-        const loadMoreBtn = document.getElementById('load-more-btn');
-        
-        let itemsToLoad = Math.min(loadMoreCount, totalBlogs - currentIndex);
-        
-        for (let i = 0; i < itemsToLoad; i++) {
-            const blogIndex = currentIndex + i;
-            const blog = blogData[blogIndex];
-            
-            const blogCard = `
+        function loadMoreBlogs() {
+            const container = document.getElementById('blog-container');
+            const loadMoreBtn = document.getElementById('load-more-btn');
+
+            let itemsToLoad = Math.min(loadMoreCount, totalBlogs - currentIndex);
+
+            for (let i = 0; i < itemsToLoad; i++) {
+                const blogIndex = currentIndex + i;
+                const blog = blogData[blogIndex];
+
+                const blogCard = `
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                     <a href="blog.php?slug=${encodeURIComponent(blog.slug)}" class="blog-anchor">
                         <div class="blog-card h-100">
@@ -242,30 +241,32 @@
                     </a>
                 </div>
             `;
-            
-            container.insertAdjacentHTML('beforeend', blogCard);
+
+                container.insertAdjacentHTML('beforeend', blogCard);
+            }
+
+            currentIndex += itemsToLoad;
+
+            // Hide load more button if all blogs are loaded
+            if (currentIndex >= totalBlogs) {
+                loadMoreBtn.style.display = 'none';
+            }
         }
-        
-        currentIndex += itemsToLoad;
-        
-        // Hide load more button if all blogs are loaded
-        if (currentIndex >= totalBlogs) {
-            loadMoreBtn.style.display = 'none';
+
+        function escapeHtml(text) {
+            const map = {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            };
+            return text.replace(/[&<>"']/g, function(m) {
+                return map[m];
+            });
         }
-    }
-    
-    function escapeHtml(text) {
-        const map = {
-            '&': '&amp;',
-            '<': '&lt;',
-            '>': '&gt;',
-            '"': '&quot;',
-            "'": '&#039;'
-        };
-        return text.replace(/[&<>"']/g, function(m) { return map[m]; });
-    }
     </script>
-    
+
     <?php include 'components/submit-enquiry.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>

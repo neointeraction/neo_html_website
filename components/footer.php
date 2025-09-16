@@ -9,11 +9,11 @@
         </div>
       </div>
       <div class="col-12 col-md-6 text-md-end footer-social-icons">
-        <a href="#"><img src="assets/images/social/linkedin.svg" alt="linkedin" /></a>
-        <a href="#"><img src="assets/images/social/ig.svg" alt="ig" /></a>
-        <a href="#"><img src="assets/images/social/fb.svg" alt="fb" /></a>
-        <a href="#"><img src="assets/images/social/db.svg" alt="db" /></a>
-        <a href="#"><img src="assets/images/social/med.svg" alt="medium" /></a>
+        <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/linkedin.svg" alt="linkedin" /></a>
+        <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/ig.svg" alt="ig" /></a>
+        <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/fb.svg" alt="fb" /></a>
+        <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/db.svg" alt="db" /></a>
+        <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/med.svg" alt="medium" /></a>
       </div>
     </div>
 
@@ -25,19 +25,18 @@
     </p>
 
     <!-- Middle Section - Link Columns -->
-    <div class="row py-5 border-secondary border-opacity-25">
+    <div class="row footer-link-block border-secondary border-opacity-25">
       <div class="col-6 col-md-3 footer-col">
-        <h5 class="footer-heading">Overview</h5>
         <ul class="p-0 footer-link-list">
+          <li><a href="index.php">Home</a></li>
           <li><a href="about-us.php">About Us</a></li>
           <li><a href="ui-ux-design-services.php">Services</a></li>
-          <li><a href="careers.php">Careers</a></li>
           <li><a href="projects.php">Projects</a></li>
+          <li><a href="careers.php">Careers</a></li>
           <li><a href="contact-us.php">Contact Us</a></li>
         </ul>
       </div>
       <div class="col-6 col-md-3 footer-col">
-        <h5 class="footer-heading">Services</h5>
         <ul class="p-0 footer-link-list">
           <li><a href="#">UX Design</a></li>
           <li><a href="#">UI Development</a></li>
@@ -48,15 +47,13 @@
         </ul>
       </div>
       <div class="col-6 col-md-3 footer-col">
-        <h5 class="footer-heading">Industries</h5>
         <ul class="p-0 footer-link-list">
-          <li><a href="fintech.php">Fintech</a></li>
-          <li><a href="edtech.php">Edtech</a></li>
-          <li><a href="healthcare.php">Healthcare</a></li>
+          <li><a href="fintech.php">Fintech UX Design</a></li>
+          <li><a href="edtech.php">Edtech UX Design</a></li>
+          <li><a href="healthcare.php">Healthcare UX Design</a></li>
         </ul>
       </div>
       <div class="col-6 col-md-3 footer-col">
-        <h5 class="footer-heading">Resources</h5>
         <ul class="p-0 footer-link-list">
           <li><a href="events.php">Events</a></li>
           <li><a href="blogs.php">Blogs</a></li>
@@ -67,21 +64,20 @@
 
     <!-- Bottom Section - Newsletter & Copyright -->
     <div class="row">
-      <div class="col-md-9">
+      <div class="col-md-9 col-12">
         <div class="footer-form-flex newsletter-form flex-wrap">
           <h5 class="footer-heading mb-3">Subscribe to our Newsletters</h5>
           <form id="newsletterForm" class="d-flex flex-wrap">
             <input
-              style="min-width: 300px;"
               type="email"
               id="newsletter-email"
-              class="form-control me-md-2 mb-2 mb-md-0"
+              class="newsletter-email form-control me-md-4 mb-2 mb-md-0"
               placeholder="Enter your work email"
               required />
 
             <button
               type="submit"
-              class="btn btn-custom-secondary white"
+              class="btn btn-custom-secondary white ml-2"
               id="newsletter-btn">
               Subscribe
             </button>
@@ -98,53 +94,53 @@
 </footer>
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  const form = document.getElementById("newsletterForm");
-  const emailInput = document.getElementById("newsletter-email");
-  const btn = document.getElementById("newsletter-btn");
-  const status = document.getElementById("newsletter-status");
+  document.addEventListener("DOMContentLoaded", function() {
+    const form = document.getElementById("newsletterForm");
+    const emailInput = document.getElementById("newsletter-email");
+    const btn = document.getElementById("newsletter-btn");
+    const status = document.getElementById("newsletter-status");
 
-  form.addEventListener("submit", function (e) {
-    e.preventDefault();
+    form.addEventListener("submit", function(e) {
+      e.preventDefault();
 
-    const email = emailInput.value.trim();
+      const email = emailInput.value.trim();
 
-    if (!email) {
-      status.innerHTML = '<small class="text-danger">Please enter your email</small>';
-      return;
-    }
+      if (!email) {
+        status.innerHTML = '<small class="text-danger">Please enter your email</small>';
+        return;
+      }
 
-    btn.disabled = true;
-    btn.textContent = "Subscribing...";
+      btn.disabled = true;
+      btn.textContent = "Subscribing...";
 
-    // Google Form submission
-    const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
-    const GOOGLE_FORM_EMAIL_FIELD = "YOUR_TIMESTAMP_FIELD.1195398138"; // Replace with actual entry ID
+      // Google Form submission
+      const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
+      const GOOGLE_FORM_EMAIL_FIELD = "YOUR_TIMESTAMP_FIELD.1195398138"; // Replace with actual entry ID
 
-    const formData = new FormData();
-    formData.append(GOOGLE_FORM_EMAIL_FIELD, email);
-    formData.append("entry.873621461", "Newsletter"); // Optional
-    formData.append("entry.894386", new Date().toISOString()); // Optional
+      const formData = new FormData();
+      formData.append(GOOGLE_FORM_EMAIL_FIELD, email);
+      formData.append("entry.873621461", "Newsletter"); // Optional
+      formData.append("entry.894386", new Date().toISOString()); // Optional
 
-    fetch(GOOGLE_FORM_URL, {
-      method: "POST",
-      mode: "no-cors", // Google Forms doesn’t support CORS
-      body: formData
-    })
-      .then(() => {
-        status.innerHTML = '<small class="text-success">Thank you for subscribing!</small>';
-        emailInput.value = "";
-      })
-      .catch(() => {
-        // Even if error, assume submission worked (Google Forms blocks CORS)
-        status.innerHTML = '<small class="text-success">Thank you for subscribing!</small>';
-        emailInput.value = "";
-      })
-      .finally(() => {
-        btn.disabled = false;
-        btn.textContent = "Subscribe";
-        setTimeout(() => (status.innerHTML = ""), 3000);
-      });
+      fetch(GOOGLE_FORM_URL, {
+          method: "POST",
+          mode: "no-cors", // Google Forms doesn’t support CORS
+          body: formData
+        })
+        .then(() => {
+          status.innerHTML = '<small class="text-success">Thank you for subscribing!</small>';
+          emailInput.value = "";
+        })
+        .catch(() => {
+          // Even if error, assume submission worked (Google Forms blocks CORS)
+          status.innerHTML = '<small class="text-success">Thank you for subscribing!</small>';
+          emailInput.value = "";
+        })
+        .finally(() => {
+          btn.disabled = false;
+          btn.textContent = "Subscribe";
+          setTimeout(() => (status.innerHTML = ""), 3000);
+        });
+    });
   });
-});
 </script>

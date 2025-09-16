@@ -4,7 +4,7 @@
       <div class="row ui-card ">
         <!-- Image Column -->
         <div class="col-md-6  img-container">
-          <img src="assets/images/bs-img.png" alt="Stylized illustration" class="img-fluid">
+          <img src="assets/images/bs-img.webp" alt="Stylized illustration" class="img-fluid">
         </div>
 
         <!-- Text and Button Column -->
@@ -15,8 +15,7 @@
             through passion-fueled collaboration.
           </p>
           <button
-            class="btn btn-custom bs-button"
-            >
+            class="btn btn-custom bs-button">
             Request a Quote
           </button>
         </div>

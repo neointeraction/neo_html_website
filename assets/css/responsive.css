@@ -1,4 +1,7 @@
 @media (max-width: 768px) {
+  .navbar-container-block {
+    height: 62px;
+  }
   .banner-title {
     font-size: 38px;
     line-height: 46px;
@@ -46,9 +49,7 @@
   .bs-card-section {
     margin-top: 30px;
   }
-  .project-block {
-    margin-top: 30px;
-  }
+
   .accordion-button {
     font-size: 18px;
     padding-bottom: 16px;
@@ -61,15 +62,16 @@
     padding: 30px 0;
   }
   .footer-col {
-    margin-bottom: 2rem;
+    margin-bottom: 0;
   }
+
   .footer-social-icons {
-    justify-content: center !important;
     margin-top: 0;
+    justify-content: flex-start;
   }
-  .footer-social-icons a {
+  /* .footer-social-icons a {
     margin: 0 0.75rem;
-  }
+  } */
 
   .footer-form-flex {
     flex-direction: column;
@@ -80,6 +82,13 @@
     flex-basis: auto;
     width: 100%;
   }
+  .newsletter-email {
+    min-width: 100%;
+  }
+  .footer-link-block {
+    margin-bottom: 24px;
+  }
+
   .newsletter-form .btn {
     margin-top: 10px;
   }
@@ -89,7 +98,7 @@
     margin-bottom: 1rem;
   }
   .join-us-title {
-    font-size: 2rem;
+    font-size: 24px;
   }
   .join-us .btn-custom-secondary {
     width: 100%;
@@ -97,7 +106,7 @@
   .custom-navbar {
     z-index: 9;
     border-radius: 0;
-    padding: 6px;
+    padding: 6px 0 6px 0;
     padding-right: 0;
   }
   .navbar-nav {
@@ -141,18 +150,12 @@
     margin-bottom: 0;
   }
   .bs-title {
-    font-size: 32px;
+    font-size: 24px;
   }
   .bs-text {
     margin-bottom: 0;
   }
   .testimonial-slider-block {
-    margin-top: 30px;
-  }
-  .video-container {
-    margin-top: 30px;
-  }
-  .blog-container-block {
     margin-top: 30px;
   }
   .navbar-container {
@@ -184,5 +187,116 @@
   }
   .banner-img-block img {
     height: 300px;
+  }
+
+  /* blog  */
+  .blog-body-padding {
+    padding: 0;
+  }
+  .blog-banner-img {
+    margin: 30px 0;
+  }
+  .blog-banner-img img,
+  .blog-section-banner-img img {
+    width: 100%;
+  }
+  .blog-body-title {
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 30px;
+  }
+  .solutions-help .custom-card,
+  .project-bs-cards .custom-card {
+    min-height: auto;
+  }
+  .project-section-title {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .p-main-text {
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  .project-body-text {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  .project-section-padding {
+    padding-top: 20px;
+  }
+  .project-bs-cards {
+    margin-top: 0;
+  }
+  .blog-quote-text {
+    font-size: 16px;
+  }
+  .project-quote-block {
+    margin-top: 24px;
+  }
+  .case-study-mobview {
+    display: block;
+  }
+  .case-study-webview {
+    display: none;
+  }
+  .count-up-item {
+    padding: 10px;
+  }
+  .result-block .count-number {
+    font-size: 36px;
+  }
+  .result-block .count-label {
+    font-size: 18px;
+  }
+  .ps-responsive-margin {
+    margin-top: 20px;
+  }
+
+  .slick-navigation {
+    position: static;
+    justify-content: flex-end;
+  }
+  .project-description {
+    margin-bottom: 0;
+  }
+  .wwd-text {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 12px;
+  }
+  .wwd-item {
+    margin-top: 0px;
+  }
+  .what-we-do-block {
+    margin-top: 24px;
+  }
+  .banner-subtext {
+    font-size: 18px;
+    margin-top: 24px;
+    margin-bottom: 0;
+  }
+  .service-tags .badge {
+    text-wrap: wrap;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .body-text {
+    font-size: 16px;
+  }
+  .dev-cycle-blocks {
+    margin-top: 30px;
+  }
+  .dev-cycle-block {
+    margin-bottom: 24px;
+  }
+  .contact-info {
+    margin-top: 24px;
+  }
+  .contact-info p {
+    font-size: 18px;
+  }
+  .contact-info h4 {
+    font-size: 20px;
   }
 }

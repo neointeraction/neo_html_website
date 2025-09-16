@@ -1,246 +1,203 @@
-
 /* Contact Form CSS ====================================================== */
-.contact-section {
-            padding: 100px 0;
-            background: #f8f9fa;
-        }
 
-        .contact-container {
-            margin: 0 auto;
-            border-radius: 0;
-            box-shadow: none;
-            overflow: hidden;
-        }
+.contact-container {
+  margin: 0 auto;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: hidden;
+}
 
-        .contact-left {
-            color: #333;
-            padding: 60px;
-        }
+.contact-left {
+  padding-right: 20px;
+}
 
-        .contact-title {
-            font-size: 48px;
-            font-weight: 700;
-            margin-bottom: 40px;
-            line-height: 1.2;
-            color: #333;
-        }
+.contact-title .highlight {
+  color: #e74c3c;
+}
 
-        .contact-title .highlight {
-            color: #e74c3c;
-        }
+.contact-right {
+  padding: 60px;
+  background: #efefef;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
 
-        .contact-info h4 {
-            font-size: 18px;
-            font-weight: 700;
-            margin-bottom: 8px;
-            color: #333;
-        }
+.form-group {
+  margin-bottom: 24px;
+}
 
-        .contact-info p {
-            font-size: 16px;
-            margin-bottom: 24px;
-            color: #333;
-            line-height: 1.5;
-        }
+.form-label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #333;
+  font-size: 16px;
+}
 
-        .get-directions {
-            color: #333;
-            text-decoration: underline;
-            font-weight: 500;
-        }
+.form-control {
+  width: 100%;
+  padding: 12px 16px;
+  border: 2px solid #e9ecef;
+  border-radius: 4px;
+  font-size: 16px;
+  background: #fff;
+}
 
-        .contact-right {
-            padding: 60px;
-            background: #EFEFEF;
-            box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;   
-        }
+.form-control:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
 
-        .form-title {
-            font-size: 32px;
-            font-weight: 600;
-            color: #666;
-            margin-bottom: 40px;
-            text-align: center;
-        }
+textarea.form-control {
+  min-height: 100px;
+  resize: vertical;
+}
 
-        .form-group {
-            margin-bottom: 24px;
-        }
+.submit-btn {
+  background: #333;
+  color: #fff;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+}
 
-        .form-label {
-            display: block;
-            margin-bottom: 8px;
-            font-weight: 500;
-            color: #333;
-            font-size: 16px;
-        }
+.submit-btn:hover {
+  background: #555;
+}
 
-        .form-control {
-            width: 100%;
-            padding: 12px 16px;
-            border: 2px solid #e9ecef;
-            border-radius: 4px;
-            font-size: 16px;
-            background: #fff;
-        }
+.alert {
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
 
-        .form-control:focus {
-            outline: none;
-            border-color: #007bff;
-            box-shadow: 0 0 0 0.2rem rgba(0,123,255,0.25);
-        }
+.alert-success {
+  background-color: #d4edda;
+  border: 1px solid #c3e6cb;
+  color: #155724;
+}
 
-        textarea.form-control {
-            min-height: 100px;
-            resize: vertical;
-        }
+.alert-danger {
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  color: #721c24;
+}
 
-        .submit-btn {
-            background: #333;
-            color: #fff;
-            border: none;
-            padding: 12px 24px;
-            border-radius: 4px;
-            font-size: 16px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: background 0.3s ease;
-            display: block;
-            margin: 0 auto;
-            width: fit-content;
-        }
+/* Thank You Page Styles */
+.thank-you-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8f9fa;
+  padding: 60px 20px;
+}
 
-        .submit-btn:hover {
-            background: #555;
-        }
+.thank-you-container {
+  text-align: center;
+  max-width: 600px;
+  width: 100%;
+}
 
-        .alert {
-            padding: 15px;
-            border-radius: 4px;
-            margin-bottom: 20px;
-        }
+.thank-you-title {
+  font-size: 72px;
+  font-weight: 400;
+  color: #333;
+  margin-bottom: 40px;
+  line-height: 1.1;
+}
 
-        .alert-success {
-            background-color: #d4edda;
-            border: 1px solid #c3e6cb;
-            color: #155724;
-        }
+.thank-you-title .highlight {
+  color: #e74c3c;
+}
 
-        .alert-danger {
-            background-color: #f8d7da;
-            border: 1px solid #f5c6cb;
-            color: #721c24;
-        }
+.email-icon {
+  width: 240px;
+  height: 120px;
+  margin: 0 auto 40px;
+  position: relative;
+}
 
-        /* Thank You Page Styles */
-        .thank-you-section {
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: #f8f9fa;
-            padding: 60px 20px;
-        }
+.email-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
 
-        .thank-you-container {
-            text-align: center;
-            max-width: 600px;
-            width: 100%;
-        }
+.thank-you-message {
+  margin-bottom: 50px;
+}
 
-        .thank-you-title {
-            font-size: 72px;
-            font-weight: 400;
-            color: #333;
-            margin-bottom: 40px;
-            line-height: 1.1;
-        }
+.thank-you-message p {
+  font-size: 20px;
+  color: #666;
+  margin: 8px 0;
+  font-weight: 400;
+}
 
-        .thank-you-title .highlight {
-            color: #e74c3c;
-        }
+.back-btn {
+  display: inline-block;
+  padding: 12px 30px;
+  border: 2px solid #333;
+  color: #333;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
 
-        .email-icon {
-            width: 240px;
-            height: 120px;
-            margin: 0 auto 40px;
-            position: relative;
-        }
+.back-btn:hover {
+  background: #333;
+  color: #fff;
+  text-decoration: none;
+}
 
-        .email-icon img {
-            width: 100%;
-            height: 100%;
-            object-fit: contain;
-        }
+@media (max-width: 768px) {
+  .contact-left,
+  .contact-right {
+    padding: 40px 30px;
+  }
 
- 
-        .thank-you-message {
-            margin-bottom: 50px;
-        }
+  .contact-title {
+    font-size: 36px;
+  }
 
-        .thank-you-message p {
-            font-size: 20px;
-            color: #666;
-            margin: 8px 0;
-            font-weight: 400;
-        }
+  .thank-you-title {
+    font-size: 48px;
+  }
 
-        .back-btn {
-            display: inline-block;
-            padding: 12px 30px;
-            border: 2px solid #333;
-            color: #333;
-            text-decoration: none;
-            font-size: 16px;
-            font-weight: 500;
-            border-radius: 4px;
-            transition: all 0.3s ease;
-        }
+  .thank-you-message p {
+    font-size: 18px;
+  }
+}
 
-        .back-btn:hover {
-            background: #333;
-            color: #fff;
-            text-decoration: none;
-        }
+@media (max-width: 480px) {
+  .thank-you-title {
+    font-size: 36px;
+  }
 
-        @media (max-width: 768px) {
-            .contact-left, .contact-right {
-                padding: 40px 30px;
-            }
-            
-            .contact-title {
-                font-size: 36px;
-            }
+  .email-icon {
+    width: 100px;
+    height: 75px;
+  }
 
-            .thank-you-title {
-                font-size: 48px;
-            }
+  .email-envelope {
+    width: 100px;
+    height: 75px;
+  }
 
-            .thank-you-message p {
-                font-size: 18px;
-            }
-        }
-
-        @media (max-width: 480px) {
-            .thank-you-title {
-                font-size: 36px;
-            }
-
-            .email-icon {
-                width: 100px;
-                height: 75px;
-            }
-
-            .email-envelope {
-                width: 100px;
-                height: 75px;
-            }
-
-            .thank-you-message p {
-                font-size: 16px;
-            }
-        }
-
+  .thank-you-message p {
+    font-size: 16px;
+  }
+}
 
 /* Download Case study ================================================================= */
 .solutions-help {
@@ -275,7 +232,7 @@
 .modal-content {
   border-radius: 12px;
   border: none;
-  box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
 }
 
 .modal-header {
@@ -296,7 +253,7 @@
 
 .form-control:focus {
   border-color: #007bff;
-  box-shadow: 0 0 0 0.2rem rgba(0,123,255,0.25);
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
 
 .modal {
@@ -307,7 +264,7 @@
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .modal.show {
@@ -322,7 +279,7 @@
   .section-subtitle {
     font-size: 16px;
   }
-  
+
   .custom-card {
     margin-bottom: 25px;
   }
