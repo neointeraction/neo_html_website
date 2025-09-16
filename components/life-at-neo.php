@@ -1,0 +1,189 @@
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/creative-atmosphere.jpeg"
+                        alt="Creative Atmosphere"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Creative Atmosphere</h2>
+                    <p class="project-description">
+                        Immersed in creativity, innovation, and vibrant energy. Every day is filled with inspiration.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/design-collaborations.jpeg"
+                        alt="Design Collaborations"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Design Collaborations</h2>
+                    <p class="project-description">
+                        A hub where UX/UI design enthusiasts come together to showcase their finest creations and collaborate on groundbreaking projects.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/continuous-learning.jpeg"
+                        alt="Continuous Learning"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Continuous Learning</h2>
+                    <p class="project-description">
+                        Embracing a culture of perpetual growth, where we learn, unlearn, and share knowledge within the ux design community.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/design-leadership-development.jpeg"
+                        alt="Design Leadership Development"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Design Leadership Development</h2>
+                    <p class="project-description">
+                        Empowering the next generation of ux design leaders through a unique leadership program tailored for the future.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/team-gatherings.jpeg"
+                        alt="Team Gatherings"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Team Gatherings</h2>
+                    <p class="project-description">
+                        Monthly and annual offsite gatherings unite our neointeraction team for fun, learning, and team-building activities, strengthening our bonds.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/recognition-and-celebrations.jpeg"
+                        alt="Recognition and Celebrations"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Recognition and Celebrations</h2>
+                    <p class="project-description">
+                        Honoring outstanding achievements and passion-driven work through annual awards and celebrations of expertise.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/workshop-sessions.jpeg"
+                        alt="Workshop Sessions"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Workshop Sessions</h2>
+                    <p class="project-description">
+                        Elevating our skillsets through diverse ux design & frontend development workshops, both internal and external, fostering collaboration between team members and external experts to bridge the gap between design and business goals.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/hybrid-collaboration.jpeg"
+                        alt="Hybrid Collaboration"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Hybrid Collaboration</h2>
+                    <p class="project-description">
+                        Fostering strong interpersonal connections and seamless collaboration across our diverse hybrid team.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/fun-friday.jpeg"
+                        alt="Fun Friday"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Fun Friday</h2>
+                    <p class="project-description">
+                        Unwind and strengthen team bonds with Fun Fridays where we come together for games and activities.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

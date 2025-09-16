@@ -20,18 +20,22 @@
   <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
   <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
   <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png" />
-  <?php include 'includes/favicon.php'; ?>
-  <?php include 'includes/css.php'; ?>
-  <?php include 'includes/head-additional-scripts.php'; ?>
+  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path.'includes/favicon.php'; ?>
+  <?php include $path.'includes/css.php'; ?>
+  <?php include $path.'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
-  <?php $page = 'Home'; ?>
-  <?php include 'includes/body-additional-scripts.php'; ?>
+
+  <?php 
+      $page = 'Home'; 
+  ?>
+  <?php include $path.'includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
   <div class="navbar-container-block">
-    <?php include 'components/navigation.php'; ?>
-    <?php include 'components/whatsapp.php'; ?>
+    <?php include $path.'components/navigation.php'; ?>
+    <?php include $path.'components/whatsapp.php'; ?>
   </div>
   <!-- navbar -- end  -->
   <!-- banner  -->
@@ -212,7 +216,10 @@
         <a href="projects.php" class="section-links">View All</a>
       </div>
       <div class="project-block section-margin">
-        <?php include 'projects/project-listing.php'; ?>
+        <?php 
+          $limit = 3; // Number of projects to display
+          include 'projects/project-listing.php'; 
+        ?>
       </div>
     </div>
   </section>
@@ -222,7 +229,7 @@
     <div class="container">
       <h2 class="section-title">Demo Video</h2>
       <div class="video-container section-margin">
-        <iframe width="100%" height="650" src="https://www.youtube.com/embed/ag_Y_vApTp8?si=PIQBraA6Wx8KdlED" title="YouTube video player"
+        <iframe width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player"
           frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
       </div>

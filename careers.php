@@ -19,17 +19,18 @@
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations"/>
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India."/>
     <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png"/>
-    <?php include 'includes/favicon.php'; ?>
-    <?php include 'includes/css.php'; ?>
-    <?php include 'includes/head-additional-scripts.php'; ?>
+   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/favicon.php'; ?>
+    <?php include $path.'includes/css.php'; ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
 </head>
 <body>
     <?php $page='blog';?>
-    <?php include 'includes/body-additional-scripts.php'; ?>
+    <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
-        <?php include 'components/navigation.php'; ?>
-        <?php include 'components/whatsapp.php'; ?>
+        <?php include $path.'components/navigation.php'; ?>
+        <?php include $path.'components/whatsapp.php'; ?>
     </div>
     <!-- navbar -- end  -->
     <!-- banner  -->
@@ -43,9 +44,9 @@
         </div>
     </section>
     <!-- banner -- end  -->
-    <?php include 'components/faq.php'; ?>
-    <?php include 'components/footer.php'; ?>
-    <?php include 'includes/footer-additional-scripts.php'; ?>
-    <?php include 'includes/js.php'; ?>
+    <?php include $path.'components/faq.php'; ?>
+    <?php include $path.'components/footer.php'; ?>
+    <?php include $path.'includes/footer-additional-scripts.php'; ?>
+    <?php include $path.'includes/js.php'; ?>
 </body>
 </html>

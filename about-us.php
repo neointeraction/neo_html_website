@@ -18,17 +18,19 @@
     <meta name="twitter:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
     <meta name="twitter:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />
     <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png" /><?php include 'includes/favicon.php'; ?>
-    <?php include 'includes/css.php'; ?>
-    <?php include 'includes/head-additional-scripts.php'; ?>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/favicon.php'; ?>
+    <?php include $path.'includes/css.php'; ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
     <?php $page = 'About Us'; ?>
-    <?php include 'includes/body-additional-scripts.php'; ?>
+    <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
-        <?php include 'components/navigation.php'; ?>
-        <?php include 'components/whatsapp.php'; ?>
+        <?php include $path.'components/navigation.php'; ?>
+        <?php include $path.'components/whatsapp.php'; ?>
     </div>
     <!-- navbar -- end  -->
     <!-- banner  -->
@@ -76,7 +78,7 @@
         <div class="container">
             <h2 class="section-title">Demo Video</h2>
             <div class="video-container section-margin">
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/ag_Y_vApTp8?si=PIQBraA6Wx8KdlED" title="YouTube video player"
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player"
                     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
@@ -343,72 +345,7 @@
             <h2 class="section-title">Life at Neointeraction</h2>
             <div class="project-slider-wrapper section-margin">
                 <div class="project-block life-at-neo-block">
-                    <div class="project-block-item">
-                        <div class="row justify-content-center">
-                            <div class="col-12">
-                                <div class="project-card d-lg-flex">
-                                    <div class="col-lg-6 p-0 project-image-container">
-                                        <img
-                                            src="assets/images/lifeatneo1.jpg"
-                                            alt="Project Image"
-                                            class="img-fluid project-image" />
-                                    </div>
-                                    <div
-                                        class="col-lg-6 d-flex flex-column  project-content">
-                                        <h2 class="project-title">Design Leadership Development</h2>
-                                        <p class="project-description">
-                                            Empowering the next generation of ux design leaders through a unique leadership program tailored for the future.
-                                        </p>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project-block-item">
-                        <div class="row justify-content-center">
-                            <div class="col-12">
-                                <div class="project-card d-lg-flex">
-                                    <div class="col-lg-6 p-0 project-image-container">
-                                        <img
-                                            src="assets/images/lifeatneo1.jpg"
-                                            alt="Project Image"
-                                            class="img-fluid project-image" />
-                                    </div>
-                                    <div
-                                        class="col-lg-6 d-flex flex-column  project-content">
-                                        <h2 class="project-title">Intertrust BPM Tool</h2>
-                                        <p class="project-description">
-                                            A BPM application/product that helps optimizing business
-                                            processes in an organization
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project-block-item">
-                        <div class="row justify-content-center">
-                            <div class="col-12">
-                                <div class="project-card d-lg-flex">
-                                    <div class="col-lg-6 p-0 project-image-container">
-                                        <img
-                                            src="assets/images/lifeatneo1.jpg"
-                                            alt="Project Image"
-                                            class="img-fluid project-image" />
-                                    </div>
-                                    <div
-                                        class="col-lg-6 d-flex flex-column  project-content">
-                                        <h2 class="project-title">Intertrust BPM Tool</h2>
-                                        <p class="project-description">
-                                            A BPM application/product that helps optimizing business
-                                            processes in an organization
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <?php include 'components/life-at-neo.php'; ?>
                 </div>
                 <div class="slick-navigation life-at-neo-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
@@ -422,7 +359,7 @@
         </div>
     </section>
     <!-- browse-project -- end -->
-    <?php include 'components/submit-enquiry.php'; ?>
+    <?php include 'components/hire-designers-engineers.php'; ?>
     <?php include 'components/faq.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>

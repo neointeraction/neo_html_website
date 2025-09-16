@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-
 <head>
   <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
   <meta name="description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
@@ -18,18 +17,21 @@
   <meta name="twitter:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
   <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
   <meta name="twitter:card" content="summary" />
-  <?php include '../includes/favicon.php'; ?>
-  <?php include '..includes/css.php'; ?>
-  <?php include_once 'includes/head-additional-scripts.php'; ?>
+  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path.'includes/favicon.php'; ?>
+  <?php include $path.'includes/css.php'; ?>
+  <?php include $path.'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
-  <?php $page = 'Projects'; ?>
-  <?php include_once '../includes/body-additional-scripts.php'; ?>
+  <?php 
+    $page = 'Projects'; 
+  ?>
+  <?php include $path.'includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
   <div class="navbar-container-block">
-    <?php include_once '../components/navigation.php'; ?>
-    <?php include_once '../components/whatsapp.php'; ?>
+    <?php include $path.'components/navigation.php'; ?>
+    <?php include $path.'components/whatsapp.php'; ?>
   </div>
   <!-- navbar -- end  -->
   <!-- banner  -->
@@ -41,7 +43,7 @@
     </div>
     <!-- project-banner-img -->
     <div class="project-banner-img">
-      <img src="assets/images/projects/pbanner1.jpg" alt="pbanner1" />
+      <img src="<?php echo $path; ?>assets/images/projects/pbanner1.jpg" alt="pbanner1" />
     </div>
     <div class="project-content-block">
       <div class="container">
@@ -50,7 +52,7 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="assets/images/projects/tricog.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/projects/tricog.png" alt="tricog" />
               </div>
             </div>
             <div class="col-md-9">
@@ -159,7 +161,7 @@
           <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches served as the project's inspiration</p>
 
           <div class="bs-img">
-            <img src="assets/images/projects/Brainstorming-Session.jpg" alt="Brainstorming-Session" />
+            <img src="<?php echo $path; ?>assets/images/projects/Brainstorming-Session.jpg" alt="Brainstorming-Session" />
           </div>
         </div>
         <!-- solutions-help section -->
@@ -236,7 +238,7 @@
           <h4 class="project-section-title">Interactive UI Upgrade </h4>
           <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and user-friendly experience.</p>
           <div class="bs-img">
-            <img src="assets/images/projects/ui-update.jpg" alt="ui-update" />
+            <img src="<?php echo $path; ?>assets/images/projects/ui-update.jpg" alt="ui-update" />
           </div>
         </div>
         <div class="view-all-blogs-btn">
@@ -282,9 +284,9 @@
   </div>
 
   <!-- banner -- end  -->
-    <?php include '../components/footer.php'; ?>
-    <?php include '../includes/footer-additional-scripts.php'; ?>
-    <?php include '../includes/js.php'; ?>
+    <?php include $path.'components/footer.php'; ?>
+    <?php include $path.'includes/footer-additional-scripts.php'; ?>
+    <?php include $path.'includes/js.php'; ?>
 </body>
 
 </html>

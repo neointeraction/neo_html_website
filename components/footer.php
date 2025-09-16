@@ -1,19 +1,22 @@
-<!-- footer  -->
+  <!-- footer  -->
+    <?php 
+      $path= $GLOBALS['path'];
+    ?>
 <footer class="footer">
   <div class="container">
     <!-- Top Section -->
     <div class="row align-items-start pb-4">
       <div class="col-12 col-md-6 mb-3 mb-md-0">
         <div class="d-flex align-items-center mb-3">
-          <img src="assets/images/footer-logo.svg" alt="footer" />
+          <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="footer" />
         </div>
       </div>
       <div class="col-12 col-md-6 text-md-end footer-social-icons">
-        <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/linkedin.svg" alt="linkedin" /></a>
-        <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/ig.svg" alt="ig" /></a>
-        <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/fb.svg" alt="fb" /></a>
-        <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/db.svg" alt="db" /></a>
-        <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img src="assets/images/social/med.svg" alt="medium" /></a>
+        <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/linkedin.svg" alt="linkedin" /></a>
+        <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/ig.svg" alt="ig" /></a>
+        <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/fb.svg" alt="fb" /></a>
+        <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/db.svg" alt="db" /></a>
+        <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/med.svg" alt="medium" /></a>
       </div>
     </div>
 
@@ -28,12 +31,12 @@
     <div class="row footer-link-block border-secondary border-opacity-25">
       <div class="col-6 col-md-3 footer-col">
         <ul class="p-0 footer-link-list">
-          <li><a href="index.php">Home</a></li>
-          <li><a href="about-us.php">About Us</a></li>
-          <li><a href="ui-ux-design-services.php">Services</a></li>
-          <li><a href="projects.php">Projects</a></li>
-          <li><a href="careers.php">Careers</a></li>
-          <li><a href="contact-us.php">Contact Us</a></li>
+          <li><a href="<?php echo $path; ?>index.php">Home</a></li>
+          <li><a href="<?php echo $path; ?>about-us.php">About Us</a></li>
+          <li><a href="<?php echo $path; ?>ui-ux-design-services.php">Services</a></li>
+          <li><a href="<?php echo $path; ?>projects.php">Projects</a></li>
+          <li><a href="<?php echo $path; ?>careers.php">Careers</a></li>
+          <li><a href="<?php echo $path; ?>contact-us.php">Contact Us</a></li>
         </ul>
       </div>
       <div class="col-6 col-md-3 footer-col">

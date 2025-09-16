@@ -672,6 +672,19 @@ body {
 
 /* blog  */
 
+
+.clf-item img {
+  max-height: 50px;
+  filter: grayscale(100%);
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+.clf-item img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
 .blog-card {
   border: none;
   border-radius: 0;
