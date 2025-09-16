@@ -345,25 +345,25 @@
             <h2 class="section-title">Life at Neointeraction</h2>
             <div class="project-slider-wrapper section-margin">
                 <div class="project-block life-at-neo-block">
-                    <?php include 'components/life-at-neo.php'; ?>
+                    <?php include $path.'components/life-at-neo.php'; ?>
                 </div>
                 <div class="slick-navigation life-at-neo-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
-                        <img src="assets/images/prev.svg" alt="prev" />
+                        <img src="$path.assets/images/prev.svg" alt="prev" />
                     </button>
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-next-custom">
-                        <img src="assets/images/next.svg" alt="next" />
+                        <img src="$path.assets/images/next.svg" alt="next" />
                     </button>
                 </div>
             </div>
         </div>
     </section>
     <!-- browse-project -- end -->
-    <?php include 'components/hire-designers-engineers.php'; ?>
-    <?php include 'components/faq.php'; ?>
-    <?php include 'components/footer.php'; ?>
-    <?php include 'includes/footer-additional-scripts.php'; ?>
-    <?php include 'includes/js.php'; ?>
+    <?php include $path.'components/hire-designers-engineers.php'; ?>
+    <?php include $path.'components/faq.php'; ?>
+    <?php include $path.'components/footer.php'; ?>
+    <?php include $path.'includes/footer-additional-scripts.php'; ?>
+    <?php include $path.'includes/js.php'; ?>
 </body>
 
 </html>

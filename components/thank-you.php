@@ -33,19 +33,29 @@
         <?php include $path.'components/whatsapp.php'; ?>
     </div>
     <!-- navbar -- end  -->
-    <!-- banner  -->
-    <section class="banner heading-padding">
-        <div>
-            <div class="container">
-                <h1 class="banner-title">
-                    Use this PHP template <span class="highlight">to recreate new pages</span>
+
+    <section class="thank-you-section">
+            <div class="thank-you-container">
+                <h1 class="thank-you-title">
+                    Thank <span class="highlight">you :)</span>
                 </h1>
+
+                <div class="email-icon">
+                    <img src="./assets/images/contact-feedback.svg" alt="feedback icon" />
+                </div>
+
+                <div class="thank-you-message">
+                    <p>Your message has been successfully sent.</p>
+                    <p>We will contact you very soon!</p>
+                </div>
+
+                <a href="<?php echo $path; ?>index" class="back-btn">Back to Homepage</a>
             </div>
-        </div>
-    </section>
-    <!-- banner -- end  -->
+        </section>
+
   <?php include $path.'components/footer.php'; ?>
   <?php include $path.'includes/footer-additional-scripts.php'; ?>
   <?php include $path.'includes/js.php'; ?>
 </body>
 </html>
+

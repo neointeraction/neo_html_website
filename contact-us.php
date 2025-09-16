@@ -174,24 +174,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     <?php else: ?>
         <!-- Thank You Page -->
-        <section class="thank-you-section">
-            <div class="thank-you-container">
-                <h1 class="thank-you-title">
-                    Thank <span class="highlight">you :)</span>
-                </h1>
-
-                <div class="email-icon">
-                    <img src="./assets/images/contact-feedback.svg" alt="feedback icon" />
-                </div>
-
-                <div class="thank-you-message">
-                    <p>Your message has been successfully sent.</p>
-                    <p>We will contact you very soon!</p>
-                </div>
-
-                <a href="<?php echo $_SERVER['PHP_SELF']; ?>" class="back-btn">Back to Homepage</a>
-            </div>
-        </section>
+        <?php include 'components/thank-you.php'; ?>
     <?php endif; ?>
 
     <!-- script includes - match blog page structure -->

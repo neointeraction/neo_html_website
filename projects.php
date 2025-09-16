@@ -19,18 +19,19 @@
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
     <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png" />
-    <?php include 'includes/favicon.php'; ?>
-    <?php include 'includes/css.php'; ?>
-    <?php include 'includes/head-additional-scripts.php'; ?>
+<?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/favicon.php'; ?>
+    <?php include $path.'includes/css.php'; ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
     <?php $page = 'Projects'; ?>
-    <?php include 'includes/body-additional-scripts.php'; ?>
+    <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
-        <?php include 'components/navigation.php'; ?>
-        <?php include 'components/whatsapp.php'; ?>
+        <?php include $path.'components/navigation.php'; ?>
+        <?php include $path.'components/whatsapp.php'; ?>
     </div>
     <!-- navbar -- end  -->
     <!-- heading  -->
@@ -62,23 +63,13 @@
                     <button class="btn filter-button">B2C</button>
                 </div>
                 <!-- project-listing  -->
-                <?php include 'projects/project-listing.php'; ?>
+                <?php include $path.include 'projects/project-listing.php'; ?>
                 <!-- project-listing -- end  -->
             </div>
         </div>
     </section>
     <!-- browse-project -- end -->
-    <?php include 'components/submit-enquiry.php'; ?>
-    <!-- project-listing  -->
-    <section class="browse-project section-padding">
-        <div class="container">
-            <div class="project-block">
-                <!-- project-listing  -->
-                <?php include 'projects/project-listing.php'; ?>
-                <!-- project-listing -- end  -->
-            </div>
-        </div>
-    </section>
+    <?php include include $path.'components/submit-enquiry.php'; ?>
     <div class="load-more-btn-projects">
         <button class="btn btn-custom btn-custom-secondary">
             Load More
@@ -86,9 +77,9 @@
     </div>
 
     <!-- project-listing -- end  -->
-    <?php include 'components/footer.php'; ?>
-    <?php include 'includes/footer-additional-scripts.php'; ?>
-    <?php include 'includes/js.php'; ?>
+    <?php include $path.'components/footer.php'; ?>
+    <?php include $path.'includes/footer-additional-scripts.php'; ?>
+    <?php include $path.'includes/js.php'; ?>
 </body>
 
 </html>

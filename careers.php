@@ -43,6 +43,100 @@
             </div>
         </div>
     </section>
+
+      <!-- business-success  -->
+  <section class="business-success section-padding">
+    <div class="container">
+      <h2 class="section-title">
+        Why work with Neointeraction ?
+      </h2>
+      <div class="bs-card-section section-margin">
+        <div class="row justify-content-center">
+          <!-- Card 1 -->
+          <div class="col-12 col-md-6 col-lg-3">
+            <div class="custom-card">
+              <div class="icon-container">
+                <img src="<?php echo $path; ?>assets/images/ux.svg" alt="ux" />
+              </div>
+              <h4 class="title">Get mentorship</h4>
+              <p class="description">
+                Real user insights to understand needs and pain points.
+              </p>
+              <button class="btn btn-custom btn-custom-secondary">
+                Hire Us
+              </button>
+            </div>
+          </div>
+
+          <!-- Card 2 -->
+          <div class="col-12 col-md-6 col-lg-3">
+            <div class="custom-card">
+              <div class="icon-container">
+                <img src="<?php echo $path; ?>assets/images/pd.svg" alt="pd" />
+              </div>
+              <h4 class="title">Cross functional team</h4>
+              <p class="description">
+                Analyze interactions for actionable insights.
+              </p>
+              <button class="btn btn-custom btn-custom-secondary">
+                Hire Us
+              </button>
+            </div>
+          </div>
+          <!-- Card 3 -->
+          <div class="col-12 col-md-6 col-lg-3">
+            <div class="custom-card">
+              <div class="icon-container">
+                <img src="<?php echo $path; ?>assets/images/dt.svg" alt="dt" />
+              </div>
+              <h4 class="title">Functional design </h4>
+              <p class="description">
+                Enhancing aesthetics and usability.
+              </p>
+              <button class="btn btn-custom btn-custom-secondary">
+                Hire Us
+              </button>
+            </div>
+          </div>
+          <!-- Card 4 -->
+          <div class="col-12 col-md-6 col-lg-3">
+            <div class="custom-card">
+              <div class="icon-container">
+                <img src="<?php echo $path; ?>assets/images/fd.svg" alt="fd" />
+              </div>
+              <h4 class="title">Ignite your Potential</h4>
+              <p class="description">
+                Gain Practical Insights in Transformative Workshops.
+              </p>
+              <button class="btn btn-custom btn-custom-secondary">
+                Hire Us
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="life-at-neo section-padding">
+        <div class="container">
+            <h2 class="section-title">Life at Neointeraction</h2>
+            <div class="project-slider-wrapper section-margin">
+                <div class="project-block life-at-neo-block">
+                    <?php include $path.'components/life-at-neo.php'; ?>
+                </div>
+                <div class="slick-navigation life-at-neo-navigation">
+                    <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
+                        <img src="<?php echo $path; ?>assets/images/prev.svg" alt="prev" />
+                    </button>
+                    <button class="btn btn-custom btn-custom-secondary slick-btn slick-next-custom">
+                        <img src="<?php echo $path; ?>assets/images/next.svg" alt="next" />
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+  <!-- business-success -- end  -->
     <!-- banner -- end  -->
     <?php include $path.'components/faq.php'; ?>
     <?php include $path.'components/footer.php'; ?>

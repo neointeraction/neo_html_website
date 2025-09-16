@@ -1,4 +1,7 @@
 <?php
+
+  $rootPath = "blog/";
+  $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2);
 // blog-listing.php - Updated to work dynamically
 // This should be your existing $news_list array from the image
     $news_list = array(
