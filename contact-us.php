@@ -41,6 +41,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html class="no-js" lang="en">
 
 <head>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/favicon.php'; ?>
+    <?php include $path.'includes/css.php'; ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -48,22 +52,17 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <meta name="description" content="Get in touch with neointeraction design for inquiries and support.">
     <meta name="keywords" content="contact, support, inquiry, neointeraction" />
 
-    <!-- Include the same CSS structure as blog page -->
-    <?php include 'includes/favicon.php'; ?>
-    <?php include 'includes/css.php'; ?>
-    <?php include 'includes/head-additional-scripts.php'; ?>
-
 </head>
 
 <body>
     <?php $page = "Contact Us"; ?>
-    <?php include 'includes/body-additional-scripts.php'; ?>
+    <?php include $path.'includes/body-additional-scripts.php'; ?>
 
     <?php if (!$show_thank_you): ?>
         <!-- navbar -->
         <div class="navbar-container-block">
-            <?php include 'components/navigation.php'; ?>
-            <?php include 'components/whatsapp.php'; ?>
+            <?php include $path.'components/navigation.php'; ?>
+            <?php include $path.'components/whatsapp.php'; ?>
         </div>
 
         <!-- Contact Section -->
@@ -170,22 +169,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </section>
 
         <!-- footer -->
-        <?php include 'components/footer.php'; ?>
-
-    <?php else: ?>
+        <?php include $path.'components/footer.php'; ?>
+        <?php else: ?>
         <!-- Thank You Page -->
-        <?php include 'components/thank-you.php'; ?>
-    <?php endif; ?>
-
-    <!-- script includes - match blog page structure -->
-    <?php include 'includes/footer-additional-scripts.php'; ?>
-    <?php include 'includes/js.php'; ?>
-
-    <!-- Additional scripts if not included in js.php -->
-    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="assets/js/vendor/aos.js"></script>
-    <script src="assets/js/vendor/bootstrap.min.js"></script>
-    <script src="assets/js/main.js"></script>
-</body>
-
+        <?php include $path.'components/thank-you.php'; ?>
+        <?php endif; ?>
+        <?php include $path.'includes/footer-additional-scripts.php'; ?>
+        <?php include $path.'includes/js.php'; ?>
+    </body>
 </html>

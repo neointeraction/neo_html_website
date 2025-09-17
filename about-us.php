@@ -2,6 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/favicon.php'; ?>
+    <?php include $path.'includes/css.php'; ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>About Neointeraction Design | One of the top UI UX developer in India | Get a free quote now</title>
     <meta name="description" content="Looking for a skilled UI UX developer in India? Neointeraction's design team excels in UX UI design and front-end development for interactive applications." />
     <link rel="canonical" href="https://www.neointeraction.com/about-us" />
@@ -17,11 +21,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
     <meta name="twitter:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />
-    <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png" /><?php include 'includes/favicon.php'; ?>
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path.'includes/favicon.php'; ?>
-    <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
+    <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png" />
 </head>
 
 <body>
@@ -115,7 +115,7 @@
                                     <!-- Image container with fixed height and object-fit for consistent appearance -->
                                     <div class="col-lg-6 p-0 project-image-container">
                                         <img
-                                            src="assets/images/projects/intertrust-bpm-tool.jpeg"
+                                            src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-tool.jpeg"
                                             alt="Intertrust BPM Tool"
                                             class="img-fluid project-image"
                                             width="584px"
@@ -147,7 +147,7 @@
                                 <div class="project-card d-lg-flex">
                                     <div class="col-lg-6 p-0 project-image-container">
                                         <img
-                                            src="assets/images/projects/music-rights-management-solution.jpeg"
+                                            src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution.jpeg"
                                             alt="Music Rights Management Solution"
                                             class="img-fluid project-image"
                                             width="584px"
@@ -179,7 +179,7 @@
                                 <div class="project-card d-lg-flex">
                                     <div class="col-lg-6 p-0 project-image-container">
                                         <img
-                                            src="assets/images/projects/tricog-heart-failure-patient-app.jpeg"
+                                            src="<?php echo $path; ?>assets/images/projects/tricog-heart-failure-patient-app.jpeg"
                                             alt="AI Driven Healthcare Consultation Platform"
                                             class="img-fluid project-image"
                                             width="584px"
@@ -208,10 +208,10 @@
                 </div>
                 <div class="slick-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
-                        <img src="assets/images/prev.svg" alt="prev" />
+                        <img src="<?php echo $path; ?>assets/images/prev.svg" alt="prev" />
                     </button>
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-next-custom">
-                        <img src="assets/images/next.svg" alt="next" />
+                        <img src="<?php echo $path; ?>assets/images/next.svg" alt="next" />
                     </button>
                 </div>
             </div>
@@ -226,38 +226,38 @@
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="assets/images/star.svg" alt="star" />
+                            <img src="<?php echo $path; ?>assets/images/star.svg" alt="star" />
                             <p class="wwd-text">Design Thinking is our Gene factor</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="assets/images/check.svg" alt="check" />
+                            <img src="<?php echo $path; ?>assets/images/check.svg" alt="check" />
                             <p class="wwd-text">Design for meaningful impact in lives</p>
                         </div>
 
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="assets/images/doc.svg" alt="star" />
+                            <img src="<?php echo $path; ?>assets/images/doc.svg" alt="star" />
                             <p class="wwd-text">Business friendly engaging models </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="assets/images/like.svg" alt="like" />
+                            <img src="<?php echo $path; ?>assets/images/like.svg" alt="like" />
                             <p class="wwd-text">Focused on functional designs</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="assets/images/money.svg" alt="money" />
+                            <img src="<?php echo $path; ?>assets/images/money.svg" alt="money" />
                             <p class="wwd-text">Designs with measurable ROI</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="assets/images/click.svg" alt="click" />
+                            <img src="<?php echo $path; ?>assets/images/click.svg" alt="click" />
                             <p class="wwd-text">Provides end to end design services</p>
                         </div>
                     </div>
@@ -279,7 +279,7 @@
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
                             <div class="blog-card h-100">
-                                <img src="assets/images/team/sam.jpeg" class="team-img-top" alt="sam" />
+                                <img src="<?php echo $path; ?>assets/images/team/sam.jpeg" class="team-img-top" alt="sam" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Sam Thomas</h5>
                                     <p class="team-card-text">
@@ -293,7 +293,7 @@
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
                             <div class="blog-card h-100">
-                                <img src="assets/images/team/shameer.jpeg" class="team-img-top" alt="shameer" />
+                                <img src="<?php echo $path; ?>assets/images/team/shameer.jpeg" class="team-img-top" alt="shameer" />
                                 <div class="card-body">
                                     <h5 class="team-card-title team-title">Shameer M</h5>
                                     <p class="team-card-text">
@@ -307,7 +307,7 @@
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
                             <div class="blog-card h-100">
-                                <img src="assets/images/team/vanessa.jpeg" class="team-img-top" alt="vanessa" />
+                                <img src="<?php echo $path; ?>assets/images/team/vanessa.jpeg" class="team-img-top" alt="vanessa" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Vanessa Lobo</h5>
                                     <p class="team-card-text">
@@ -321,7 +321,7 @@
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
                             <div class="blog-card h-100">
-                                <img src="assets/images/team/midhun.jpeg" class="team-img-top" alt="midhun" />
+                                <img src="<?php echo $path; ?>assets/images/team/midhun.jpeg" class="team-img-top" alt="midhun" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Midhun M</h5>
                                     <p class="team-card-text">
@@ -337,7 +337,7 @@
     </section>
     <!-- our-team - end  -->
     <!-- join-us  -->
-    <?php include 'includes/join-our-team.php'; ?>
+    <?php include $path.'includes/join-our-team.php'; ?>
     <!-- join-us -- end  -->
     <!-- life-at-neo  -->
     <section class="life-at-neo section-padding">
@@ -349,10 +349,10 @@
                 </div>
                 <div class="slick-navigation life-at-neo-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
-                        <img src="$path.assets/images/prev.svg" alt="prev" />
+                        <img src="<?php echo $path; ?>assets/images/prev.svg" alt="prev" />
                     </button>
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-next-custom">
-                        <img src="$path.assets/images/next.svg" alt="next" />
+                        <img src="<?php echo $path; ?>assets/images/next.svg" alt="next" />
                     </button>
                 </div>
             </div>

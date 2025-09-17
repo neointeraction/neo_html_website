@@ -2,6 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/favicon.php'; ?>
+    <?php include $path.'includes/css.php'; ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
@@ -22,9 +26,6 @@
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
     <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png" />
-    <?php include 'includes/favicon.php'; ?>
-    <?php include 'includes/css.php'; ?>
-    <?php include 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
@@ -39,23 +40,23 @@
         "ai-everyday-users-designing-seamless-integration",
         "design-hybrid-workforce-model",
         "design-systems-scalable-digital-products",
-"mobile-first-design-responsive-web-development", 
-"user-research-methods-better-ux-insights",
-"accessibility-inclusive-design-principles",
-"microinteractions-enhance-user-engagement",
-"design-thinking-process-innovation",
-"color-psychology-ui-design",
-"typography-web-design-best-practices",
-"ux-writing-conversational-interfaces",
-"design-trends-2025-digital-experiences",
-"prototyping-tools-ux-designers",
-"user-testing-validation-methods",
-"information-architecture-website-design",
-"visual-hierarchy-effective-layouts",
-"cross-platform-design-consistency",
-"animation-micro-interactions-web",
-"dashboard-design-data-visualization",
-"ecommerce-ux-conversion-optimization"
+        "mobile-first-design-responsive-web-development", 
+        "user-research-methods-better-ux-insights",
+        "accessibility-inclusive-design-principles",
+        "microinteractions-enhance-user-engagement",
+        "design-thinking-process-innovation",
+        "color-psychology-ui-design",
+        "typography-web-design-best-practices",
+        "ux-writing-conversational-interfaces",
+        "design-trends-2025-digital-experiences",
+        "prototyping-tools-ux-designers",
+        "user-testing-validation-methods",
+        "information-architecture-website-design",
+        "visual-hierarchy-effective-layouts",
+        "cross-platform-design-consistency",
+        "animation-micro-interactions-web",
+        "dashboard-design-data-visualization",
+        "ecommerce-ux-conversion-optimization"
 
     );
 
