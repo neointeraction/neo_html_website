@@ -177,13 +177,12 @@ body {
   padding: 40px 0;
 }
 
-.banner-img-block {
-  margin-top: 24px;
-  border-bottom: 4px solid #d20b15;
-}
-
-.banner-img-block img {
-  width: 100%;
+.banner-supertext {
+  font-weight: 400;
+  font-size: 32px;
+  color: #58595a;
+  width: 560px;
+  line-height: 42px;
 }
 
 .banner-title {
@@ -192,10 +191,29 @@ body {
   color: #030712;
 }
 
+.banner-slider .banner-title {
+  width: 680px;
+}
+
+.banner-slider {
+  border-bottom: 2px solid #dadada;
+}
+
 .banner-title .highlight {
   color: #a7a7a7;
 }
 
+.banner-btn {
+  margin-top: 18px;
+}
+
+.banner-img-block img {
+  width: 100%;
+}
+
+.banner-content {
+  padding: 0;
+}
 /* business-success  */
 
 .section-title {
@@ -208,6 +226,7 @@ body {
   background-color: #ffe6e7;
   border-radius: 0px;
   padding: 24px;
+  height: 100%;
   transition: 0.3s all ease-in-out;
 }
 
@@ -671,7 +690,6 @@ body {
 }
 
 /* blog  */
-
 
 .clf-item img {
   max-height: 50px;
@@ -1311,4 +1329,55 @@ body {
 
 .ci-item {
   margin-bottom: 24px;
+}
+
+.job-posting {
+  margin-top: 40px;
+}
+
+.job-header {
+  font-weight: 400;
+  font-size: 32px;
+  color: #2b2828;
+  margin-bottom: 8px;
+}
+
+.job-title {
+  font-weight: 400;
+  font-size: 32px;
+  color: #2b2828;
+  margin-bottom: 8px;
+}
+
+.job-body {
+  padding-right: 40px;
+}
+
+.time-list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 28px;
+  padding-left: 0;
+}
+
+.time-list li {
+  font-weight: 400;
+  font-size: 20px;
+  color: #ec1c24;
+}
+
+.time-list li:first-child {
+  list-style: none;
+}
+
+.upcoming-events-tags {
+  margin-bottom: 32px;
+}
+
+.privacy-text {
+  font-weight: 400;
+  font-size: 20px;
+  color: #58595a;
+  margin-top: 8px;
 }

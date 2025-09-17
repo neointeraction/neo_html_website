@@ -185,9 +185,6 @@
     font-size: 14px;
     padding: 30px 0 0 0;
   }
-  .banner-img-block img {
-    height: 300px;
-  }
 
   /* blog  */
   .blog-body-padding {
@@ -298,5 +295,41 @@
   }
   .contact-info h4 {
     font-size: 20px;
+  }
+  .banner-supertext {
+    width: 100%;
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .banner-slider .banner-title {
+    width: 100%;
+  }
+  .banner-btn {
+    margin-top: 16px;
+  }
+  .banner-img-block {
+    margin-top: 24px;
+  }
+
+  .time-list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 28px;
+    padding-left: 0;
+  }
+
+  .time-list li {
+    font-size: 16px;
+  }
+  .upcoming-events-tags {
+    margin-bottom: 24px;
+    margin-top: 24px;
+  }
+  .job-title {
+    font-size: 20px;
+  }
+  .privacy-text {
+    font-size: 16px;
   }
 }
