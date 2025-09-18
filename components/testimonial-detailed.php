@@ -6,7 +6,7 @@
           <div class="tc-item-flex">
             <div class="testimonial-card">
               <div class="testimonial-logo">
-                <img src="assets/images/projects/tricog.png" alt="tricog" />
+                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
               </div>
               <div class="quote-icon"></div>
               <div class="testimonial-text">
@@ -32,7 +32,7 @@
             </div>
             <div class="testimonial-card">
               <div class="testimonial-logo">
-                <img src="assets/images/projects/tricog.png" alt="tricog" />
+                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
               </div>
               <div class="quote-icon"></div>
               <div class="testimonial-text">
@@ -60,7 +60,7 @@
             <div
               class="testimonial-card">
               <div class="testimonial-logo">
-                <img src="assets/images/projects/tricog.png" alt="tricog" />
+                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
               </div>
               <div class="quote-icon"></div>
               <div class="testimonial-text">
@@ -87,7 +87,7 @@
             <div
               class="testimonial-card">
               <div class="testimonial-logo">
-                <img src="assets/images/projects/tricog.png" alt="tricog" />
+                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
               </div>
               <div class="quote-icon"></div>
               <div class="testimonial-text">
@@ -115,7 +115,7 @@
             <div
               class="testimonial-card">
               <div class="testimonial-logo">
-                <img src="assets/images/projects/tricog.png" alt="tricog" />
+                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
               </div>
               <div class="quote-icon"></div>
               <div class="testimonial-text">
@@ -142,7 +142,7 @@
             <div
               class="testimonial-card">
               <div class="testimonial-logo">
-                <img src="assets/images/projects/tricog.png" alt="tricog" />
+                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
               </div>
               <div class="quote-icon"></div>
               <div class="testimonial-text">
@@ -169,7 +169,7 @@
         <div class="testimonial-slider" id="testimonial-mob">
           <div class="testimonial-card">
             <div class="testimonial-logo">
-              <img src="assets/images/projects/tricog.png" alt="tricog" />
+              <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
             </div>
             <div class="quote-icon"></div>
             <div class="testimonial-text">
@@ -196,7 +196,7 @@
           <div
             class="testimonial-card">
             <div class="testimonial-logo">
-              <img src="assets/images/projects/tricog.png" alt="tricog" />
+              <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
             </div>
             <div class="quote-icon"></div>
             <div class="testimonial-text">
@@ -223,7 +223,7 @@
           <div
             class="testimonial-card">
             <div class="testimonial-logo">
-              <img src="assets/images/projects/tricog.png" alt="tricog" />
+              <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
             </div>
             <div class="quote-icon"></div>
             <div class="testimonial-text">

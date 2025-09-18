@@ -53,7 +53,7 @@ Euclid  <span class="highlight">- A biomedical Research platform</span>
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="<?php echo $path; ?>assets/images/projects/tricog.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
               </div>
             </div>
             <div class="col-md-9">

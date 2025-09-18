@@ -78,7 +78,7 @@
                             </div>
                             </div>
                             <div class="col-md-2">
-                                  <a href="contact-us.php" class="btn btn-custom btn-custom-secondary">Apply Now</a>
+                                  <a href="https://app.kapiree.com/info-candidate?id={$job['key']}" class="btn btn-custom btn-custom-secondary" "target="_blank">Apply Now</a>
                             </div>
                           </div>
                          

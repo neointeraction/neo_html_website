@@ -57,7 +57,7 @@
     [
       'title' => 'AI Driven Healthcare Consultation Platform',
       'description' => 'AI-driven predictive healthcare platform that improves heart failure patient care',
-      'image' => 'ai-driven-healthcare-consultation-platform.jpeg',
+      'image' => 'ai-driven-healthcare-consultation-platform\ai-driven-healthcare-consultation-platform.jpeg',
       'alt' => 'AI Driven Healthcare Consultation Platform',
       'tags' => ['Healthcare'],
       'link' => 'ai-driven-healthcare-consultation-platform.php'
