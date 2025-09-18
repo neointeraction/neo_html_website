@@ -1,26 +1,27 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
-  <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
-  <meta name="description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <link rel="canonical" href="https://www.neointeraction.com/cruiseship-crew-mobility-tracking-design" />
-  <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
-  <meta property="og:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
-  <meta property="og:image:width" content="2500" />
-  <meta property="og:image:height" content="1330" />
-  <meta property="og:url" content="https://www.neointeraction.com/cruiseship-crew-mobility-tracking-design" />
+  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path . 'includes/favicon.php'; ?>
+  <?php include $path . 'includes/css.php'; ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
+  <title>Intertrust BPM Tool | Neointeraction design | Contact Now</title>
+  <meta name="description" content="Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making organizational processes better." />
+  <meta name="keywords" content="BPM tool, business process management, UX design, user experience, Intertrust, promo tool redesign" />
+  <link rel="canonical" href="<?php echo $base_url; ?>bpm-redesign-project" />
+  <meta property="og:title" content="Intertrust BPM Tool | Neointeraction design | Contact Now" />
+  <meta property="og:description" content="Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making organizational processes better." />
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/projects/intertrust-bpm-tool.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:url" content="<?php echo $base_url; ?>bpm-redesign-project" />
   <meta property="og:site_name" content="Neointeraction Design" />
   <meta property="og:type" content="website" />
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
-  <meta name="twitter:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
-  <meta name="twitter:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
-  <meta name="twitter:card" content="summary" />
-  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-  <?php include $path.'includes/favicon.php'; ?>
-  <?php include $path.'includes/css.php'; ?>
-  <?php include $path.'includes/head-additional-scripts.php'; ?>
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Intertrust BPM Tool | Neointeraction design | Contact Now" />
+  <meta name="twitter:description" content="Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making organizational processes better." />
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/projects/intertrust-bpm-tool.jpg" />
 </head>
 
 <body>
@@ -43,7 +44,7 @@
     </div>
     <!-- project-banner-img -->
     <div class="project-banner-img">
-      <img src="<?php echo $path; ?>assets/images/projects/pbanner1.jpg" alt="pbanner1" />
+      <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-project-banner.jpeg" alt="pbanner1" />
     </div>
     <div class="project-content-block">
       <div class="container">
@@ -52,12 +53,12 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-group-landscape-logo.avif" alt="intertrust" />
               </div>
             </div>
             <div class="col-md-9">
               <div class="quote-icon"></div>
-              <p class="blog-quote-text">A well-crafted UI powered by machine learning is not just a design; it's an evolving masterpiece that learns, adapts, and grows with the users it serves.</p>
+              <p class="blog-quote-text">The visual appeal and the new banking experience led us to overcome the competition and we're very happy with the result the design team delivered</p>
             </div>
           </div>
         </div>
@@ -69,7 +70,7 @@
               Book A Consultation
             </button>
           </div>
-          <p class="p-main-text">TM hub is an application used by the staff members aboard the Carnival ship to organize their daily activities, tasks, and information about their journey</p>
+          <p class="p-main-text">Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making organizational processes better.</p>
           <button class="btn btn-custom case-study-mobview ">
             Book A Consultation
           </button>
@@ -78,19 +79,19 @@
         <div class="result-block project-section-padding">
           <h4 class="project-section-title">Result </h4>
           <div class="row ">
-            <!-- 15+ years expertise -->
+            <!-- 81% New User Engagement -->
             <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="90">0</div>
+              <div class="count-number" data-target="81">0</div>
               <div class="count-label">New User Engagement</div>
             </div>
-            <!-- 150+ trusted clients -->
+            <!-- 40+ Profits -->
             <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="85">0</div>
+              <div class="count-number" data-target="40">0</div>
               <div class="count-label">Profits</div>
             </div>
-            <!-- 80% lives impacted -->
+            <!-- 70% New Customer Acquisition -->
             <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-              <div class="count-number" data-target="80">0</div>
+              <div class="count-number" data-target="70">0</div>
               <div class="count-label">New Customer Acquisition</div>
             </div>
 
@@ -101,54 +102,54 @@
           <div class="row">
             <div class="col-md-6">
               <h4 class="project-section-title">Objective </h4>
-              <p class="project-body-text">The aim is to enhance the daily user experience by revamping the app's interface, making it more user-friendly. The focus is on simplifying the crews' daily activities, tasks, and get information about their journey seamlessly all in one place.</p>
+              <p class="project-body-text">The objective was to create a design tailored for Intertrust Groups, addressing the user pain points while using the tool ensuring an elevated user experience</p>
             </div>
             <div class="col-md-6">
               <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-              <p class="project-body-text">Considering the app was created by tech first approach where in it was built from the utility point of view, no significant design considerations or user research were used when creating the app for various user personas </p>
+              <p class="project-body-text">Challenges included putting together a smooth design system, presenting large data, transformation of user experience, easier navigation and designing for scalability.</p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
           <h4 class="project-section-title">Solutions we offered</h4>
-          <p class="project-body-text">We revamped the app to benefit the target user by simplifying and streamlining their daily tasks, which was accomplished through,</p>
+          <p class="project-body-text">Addressing critical issues while ensuring a seamless and effective design experience led to the digital transformation for Promo</p>
 
           <div class="bs-card-section project-bs-cards">
             <div class="row justify-content-center">
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Brainstorming</h4>
+                  <h4 class="title">Holistic Tool Creation</h4>
                   <p class="description">
-                    Brainstorming sessions with the client and the creation of rough sketches served as the project's inspiration
+                    Crafted Promo with a holistic perspective, ensuring consistency across all workflows for a unified user experience.
                   </p>
                 </div>
               </div>
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Identifying Key flows</h4>
+                  <h4 class="title">Scalability Emphasis</h4>
                   <p class="description">
-                    Brainstorming sessions with the client and the creation of rough sketches served as the project's inspiration
+                    Introduced the importance of product scalability, facilitating use with other Intertrust applications.
                   </p>
                 </div>
               </div>
               <!-- Card 3 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Decision making</h4>
+                  <h4 class="title">Uniform User Experience</h4>
                   <p class="description">
-                    Presentation of the refined key flow to the stakeholders to make impactful design decisions
+                    Delivered a uniform experience, eliminating inconsistencies through organized UI components and unified grammar.
                   </p>
                 </div>
               </div>
               <!-- Card 4 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Foundation </h4>
+                  <h4 class="title">Data Presentation Solutions</h4>
                   <p class="description">
-                    Wireframing , prototyping and micro interaction
+                    Complex sections were redesigned by data presentation, using basic UX principles to effectively resolve intricate issues.
                   </p>
                 </div>
               </div>
@@ -157,8 +158,8 @@
         </div>
         <!-- brainstorming-session  -->
         <div class="brainstorming-session project-section-padding">
-          <h4 class="project-section-title">Brainstorming Session </h4>
-          <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches served as the project's inspiration</p>
+          <h4 class="project-section-title">Optimized Prototyping & Data Presentation </h4>
+          <p class="project-body-text">Wireframing prototypes were meticulously created to refine the process flow and further refine the design solutions</p>
 
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/Brainstorming-Session.jpg" alt="Brainstorming-Session" />
@@ -175,7 +176,7 @@
             </button>
           </div>
           <p class="project-body-text">
-            Our user task-focused design empowers crew members, ensuring seamless goal achievement and enhanced productivity. Beyond technical improvements, it transforms daily routines for a more enjoyable and manageable experience.
+            Our UX techniques revamped Promo, converting it into a user-friendly product through streamlined UI enhancements and effective design techniques.
           </p>
           <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all" id="case-study-btn">
             Download case study
@@ -186,9 +187,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Improved Usability</h4>
+                  <h4 class="title">Streamlined Workflows</h4>
                   <p class="description">
-                    Our design significantly enhances the system's usability, offering a more user-friendly and accessible interface.
+                    Simplified processes enabled users to complete tasks faster and more successfully, enhancing overall workflow efficiency.
                   </p>
 
                 </div>
@@ -198,9 +199,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">User Centric UI</h4>
+                  <h4 class="title">Focused User Concentration</h4>
                   <p class="description">
-                    Prioritizing crew well-being and mobility management, our UI design ensures both functionality and comfort.
+                    Removal of unnecessary data reduced distractions, allowing users to maintain focus on critical and significant activities.
                   </p>
 
                 </div>
@@ -210,9 +211,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Enhanced Performance</h4>
+                  <h4 class="title">Intuitive Data Interpretation</h4>
                   <p class="description">
-                    Optimized workflows and reduced processing time resulted in significant performance improvements across all modules.
+                    Utilization of colors, typefaces, tooltips, and UI features improved data interpretation, making it easier for users to distinguish and understand information.
                   </p>
 
                 </div>
@@ -222,9 +223,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Cost Efficiency</h4>
+                  <h4 class="title">Step-by-Step Methodology</h4>
                   <p class="description">
-                    Strategic implementation reduced operational costs while maintaining high-quality standards and user satisfaction.
+                    The majority of workflows were broken down into a step-by-step method that allowed users to feel confident in completing a difficult activity.
                   </p>
 
                 </div>
@@ -238,7 +239,7 @@
           <h4 class="project-section-title">Interactive UI Upgrade </h4>
           <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and user-friendly experience.</p>
           <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/ui-update.jpg" alt="ui-update" />
+            <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-website-ui.jpeg" alt="ui-update" />
           </div>
         </div>
         <div class="view-all-blogs-btn">
