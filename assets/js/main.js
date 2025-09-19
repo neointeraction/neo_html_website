@@ -42,8 +42,8 @@ $(".banner-slider").slick({
   speed: 1000,
   slidesToShow: 1,
   slidesToScroll: 1,
-  fade: true,
-  cssEase: "linear",
+  fade: false,
+  // cssEase: "linear",
   autoplay: true,
 });
 

@@ -41,19 +41,18 @@
         <div class="banner-slider">
             <div>
                 <div class="container">
-                    <div class="row">   
+                    <div class="row">
                         <div class="col-md-8">
                             <div class="banner-content">
                                 <h4 class="banner-supertext">research-to-design process that differentiates professional UX work</h4>
                                 <h1 class="banner-title">
                                     Award winning <span class="highlight">Ux Agency</span>
                                 </h1>
-                                     <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
-                        <!-- Registration Modal -->
-                             <?php include $path.'components/registration-modal.php'; ?>
+
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
@@ -63,9 +62,6 @@
                     </div>
                 </div>
             </div>
-
-               
-
             <div>
                 <div class="container">
                     <div class="row">
@@ -82,7 +78,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="./assets/images/banner/banner-img1.jpg" alt="banner" />
+                                <img src="./assets/images/banner/banner2.png" alt="banner" />
                             </div>
                         </div>
                     </div>
@@ -371,6 +367,9 @@
         </div>
     </section>
     <!-- banner-strip --end  -->
+
+    <!-- Registration Modal BANNER ONE MODAL -->
+    <?php include $path . 'components/registration-modal.php'; ?>
 
     <?php include 'includes/join-our-team.php'; ?>
     <?php include 'components/footer.php'; ?>
