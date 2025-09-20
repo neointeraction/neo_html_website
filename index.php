@@ -6,11 +6,11 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
-    <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
-    <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
-    <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
+    <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
+    <meta name="description" content="Are you looking for a best UI UX design agency in India? Neointeraction Design is one of the best UI UX Design company in india offering Expert Solutions." />
+    <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="<?php echo $base_url; ?>blog" />
-    <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
+    <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design<" />
     <meta property="og:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
     <meta property="og:image:width" content="1200" />
@@ -71,7 +71,7 @@
                                 <h1 class="banner-title">
                                     Make tech products <span class="highlight">more human</span>
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
@@ -93,7 +93,7 @@
                                 <h1 class="banner-title">
                                     AI-Powered Design. <span class="highlight">Human-Centered</span> Results.
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal"
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
@@ -115,7 +115,7 @@
                                 <h1 class="banner-title">
                                     Design With Purpose. <span class="highlight">Build With Precision</span>.
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal"
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
@@ -355,12 +355,11 @@
                 <div class="col-md-6 ">
                     <h2 class="bs-title">Submit Enquiry</h2>
                     <p class="bs-text">
-                        Igniting success through passion-fueled collaboration. Igniting success
-                        through passion-fueled collaboration.
+                        Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!
                     </p>
                     <button
-                        class="btn btn-custom bs-button">
-                        Request a Quote
+                        class="btn btn-custom bs-button" data-bs-toggle="modal" data-bs-target="#registerModal">
+                        Contact Us
                     </button>
                 </div>
             </div>

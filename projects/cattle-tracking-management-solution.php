@@ -253,6 +253,7 @@
 
 
 
+
   <!-- Case Study Download Modal -->
   <div class="modal fade" id="caseStudyModal" tabindex="-1" role="dialog" aria-labelledby="caseStudyModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered">
@@ -260,10 +261,10 @@
         <div class="modal-header">
           <h5 class="modal-title" id="caseStudyModalLabel">Download Case Study</h5>
           <!-- Change this line in your modal -->
-          <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          <p class="mb-3">Enter your email to download the case study and stay updated with our latest insights.</p>
+          <p class="mb-3 mt-3">Enter your email to download the case study and stay updated with our latest insights.</p>
           <form id="caseStudyForm">
             <div class="mb-3">
               <input
@@ -273,10 +274,12 @@
                 placeholder="Enter your work email"
                 required>
             </div>
-            <div id="case-study-status" class="mb-3"></div>
-            <button type="submit" class="btn btn-custom-secondary w-100" id="case-study-submit">
-              Download Case Study
-            </button>
+            <div id="case-study-status" class="mb-3 text-center"></div>
+            <div class="d-flex justify-content-center">
+              <button type="submit" class="btn btn-custom" id="case-study-submit">
+                Download Case Study
+              </button>
+            </div>
           </form>
         </div>
       </div>

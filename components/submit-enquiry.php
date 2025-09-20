@@ -1,4 +1,5 @@
   <!-- banner-strip  -->
+<?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <section class="banner-strip section-padding">
     <div class="container">
       <div class="row ui-card ">
@@ -15,11 +16,12 @@
             through passion-fueled collaboration.
           </p>
           <button
-            class="btn btn-custom bs-button">
+            class="btn btn-custom bs-button" data-bs-toggle="modal" data-bs-target="#registerModal">
             Request a Quote
           </button>
         </div>
       </div>
     </div>
   </section>
+  <?php include $path . 'components/registration-modal.php'; ?>
   <!-- banner-strip --end  -->

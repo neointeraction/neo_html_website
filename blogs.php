@@ -97,132 +97,132 @@
             "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
             "alt" => "Hybrid Workforce UX Design"
         ),
-       "design-systems-scalable-digital-products" => array(
-    "title" => "Building Design Systems for Scalable Digital Products",
-    "author" => "Design Systems Team",
-    "date" => "6 weeks ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
-    "alt" => "Design Systems for Digital Products"
-),
-"mobile-first-design-responsive-web-development" => array(
-    "title" => "Mobile-First Design: The Future of Responsive Web Development",
-    "author" => "Mobile UX Team",
-    "date" => "2 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
-    "alt" => "Mobile First Design Approach"
-),
-"user-research-methods-better-ux-insights" => array(
-    "title" => "Essential User Research Methods for Better UX Insights",
-    "author" => "UX Research Team",
-    "date" => "2 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
-    "alt" => "User Research Methods"
-),
-"accessibility-inclusive-design-principles" => array(
-    "title" => "Accessibility and Inclusive Design: Principles for Everyone",
-    "author" => "Accessibility Team",
-    "date" => "3 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
-    "alt" => "Accessible Design Principles"
-),
-"microinteractions-enhance-user-engagement" => array(
-    "title" => "Microinteractions: Small Details That Enhance User Engagement",
-    "author" => "Interaction Design Team",
-    "date" => "3 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
-    "alt" => "Microinteractions in UX Design"
-),
-"design-thinking-process-innovation" => array(
-    "title" => "The Design Thinking Process: A Guide to Innovation",
-    "author" => "Innovation Team",
-    "date" => "4 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
-    "alt" => "Design Thinking Process"
-),
-"color-psychology-ui-design" => array(
-    "title" => "Color Psychology in UI Design: Creating Emotional Connections",
-    "author" => "Visual Design Team",
-    "date" => "4 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
-    "alt" => "Color Psychology in Design"
-),
-"typography-web-design-best-practices" => array(
-    "title" => "Typography in Web Design: Best Practices for Better Readability",
-    "author" => "Typography Specialists",
-    "date" => "5 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
-    "alt" => "Typography Best Practices"
-),
-"ux-writing-conversational-interfaces" => array(
-    "title" => "UX Writing: Crafting Conversational Interfaces That Connect",
-    "author" => "UX Writing Team",
-    "date" => "5 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
-    "alt" => "UX Writing and Content Design"
-),
-"design-trends-2025-digital-experiences" => array(
-    "title" => "Design Trends 2025: Shaping the Future of Digital Experiences",
-    "author" => "Trend Analysis Team",
-    "date" => "6 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
-    "alt" => "Design Trends 2025"
-),
-"prototyping-tools-ux-designers" => array(
-    "title" => "Best Prototyping Tools for UX Designers in 2025",
-    "author" => "Design Tools Team",
-    "date" => "6 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
-    "alt" => "UX Prototyping Tools"
-),
-"user-testing-validation-methods" => array(
-    "title" => "User Testing and Validation: Methods That Actually Work",
-    "author" => "User Testing Team",
-    "date" => "7 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
-    "alt" => "User Testing Methods"
-),
-"information-architecture-website-design" => array(
-    "title" => "Information Architecture: The Foundation of Great Website Design",
-    "author" => "IA Specialists",
-    "date" => "7 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
-    "alt" => "Information Architecture Design"
-),
-"visual-hierarchy-effective-layouts" => array(
-    "title" => "Visual Hierarchy: Creating Effective Layouts That Guide Users",
-    "author" => "Visual Design Team",
-    "date" => "8 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
-    "alt" => "Visual Hierarchy in Design"
-),
-"cross-platform-design-consistency" => array(
-    "title" => "Cross-Platform Design: Maintaining Consistency Across Devices",
-    "author" => "Platform Design Team",
-    "date" => "8 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
-    "alt" => "Cross Platform Design"
-),
-"animation-micro-interactions-web" => array(
-    "title" => "Web Animation and Micro-Interactions: Bringing Interfaces to Life",
-    "author" => "Animation Team",
-    "date" => "9 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
-    "alt" => "Web Animation Design"
-),
-"dashboard-design-data-visualization" => array(
-    "title" => "Dashboard Design and Data Visualization: Making Numbers Beautiful",
-    "author" => "Data Visualization Team",
-    "date" => "9 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
-    "alt" => "Dashboard and Data Visualization"
-),
-"ecommerce-ux-conversion-optimization" => array(
-    "title" => "E-commerce UX: Conversion Optimization Through Better Design",
-    "author" => "E-commerce UX Team",
-    "date" => "10 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
-    "alt" => "E-commerce UX Design"
-)
+        "design-systems-scalable-digital-products" => array(
+            "title" => "Building Design Systems for Scalable Digital Products",
+            "author" => "Design Systems Team",
+            "date" => "6 weeks ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+            "alt" => "Design Systems for Digital Products"
+        ),
+        "mobile-first-design-responsive-web-development" => array(
+            "title" => "Mobile-First Design: The Future of Responsive Web Development",
+            "author" => "Mobile UX Team",
+            "date" => "2 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+            "alt" => "Mobile First Design Approach"
+        ),
+        "user-research-methods-better-ux-insights" => array(
+            "title" => "Essential User Research Methods for Better UX Insights",
+            "author" => "UX Research Team",
+            "date" => "2 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+            "alt" => "User Research Methods"
+        ),
+        "accessibility-inclusive-design-principles" => array(
+            "title" => "Accessibility and Inclusive Design: Principles for Everyone",
+            "author" => "Accessibility Team",
+            "date" => "3 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+            "alt" => "Accessible Design Principles"
+        ),
+        "microinteractions-enhance-user-engagement" => array(
+            "title" => "Microinteractions: Small Details That Enhance User Engagement",
+            "author" => "Interaction Design Team",
+            "date" => "3 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+            "alt" => "Microinteractions in UX Design"
+        ),
+        "design-thinking-process-innovation" => array(
+            "title" => "The Design Thinking Process: A Guide to Innovation",
+            "author" => "Innovation Team",
+            "date" => "4 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+            "alt" => "Design Thinking Process"
+        ),
+        "color-psychology-ui-design" => array(
+            "title" => "Color Psychology in UI Design: Creating Emotional Connections",
+            "author" => "Visual Design Team",
+            "date" => "4 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+            "alt" => "Color Psychology in Design"
+        ),
+        "typography-web-design-best-practices" => array(
+            "title" => "Typography in Web Design: Best Practices for Better Readability",
+            "author" => "Typography Specialists",
+            "date" => "5 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+            "alt" => "Typography Best Practices"
+        ),
+        "ux-writing-conversational-interfaces" => array(
+            "title" => "UX Writing: Crafting Conversational Interfaces That Connect",
+            "author" => "UX Writing Team",
+            "date" => "5 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+            "alt" => "UX Writing and Content Design"
+        ),
+        "design-trends-2025-digital-experiences" => array(
+            "title" => "Design Trends 2025: Shaping the Future of Digital Experiences",
+            "author" => "Trend Analysis Team",
+            "date" => "6 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+            "alt" => "Design Trends 2025"
+        ),
+        "prototyping-tools-ux-designers" => array(
+            "title" => "Best Prototyping Tools for UX Designers in 2025",
+            "author" => "Design Tools Team",
+            "date" => "6 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+            "alt" => "UX Prototyping Tools"
+        ),
+        "user-testing-validation-methods" => array(
+            "title" => "User Testing and Validation: Methods That Actually Work",
+            "author" => "User Testing Team",
+            "date" => "7 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+            "alt" => "User Testing Methods"
+        ),
+        "information-architecture-website-design" => array(
+            "title" => "Information Architecture: The Foundation of Great Website Design",
+            "author" => "IA Specialists",
+            "date" => "7 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+            "alt" => "Information Architecture Design"
+        ),
+        "visual-hierarchy-effective-layouts" => array(
+            "title" => "Visual Hierarchy: Creating Effective Layouts That Guide Users",
+            "author" => "Visual Design Team",
+            "date" => "8 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+            "alt" => "Visual Hierarchy in Design"
+        ),
+        "cross-platform-design-consistency" => array(
+            "title" => "Cross-Platform Design: Maintaining Consistency Across Devices",
+            "author" => "Platform Design Team",
+            "date" => "8 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+            "alt" => "Cross Platform Design"
+        ),
+        "animation-micro-interactions-web" => array(
+            "title" => "Web Animation and Micro-Interactions: Bringing Interfaces to Life",
+            "author" => "Animation Team",
+            "date" => "9 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+            "alt" => "Web Animation Design"
+        ),
+        "dashboard-design-data-visualization" => array(
+            "title" => "Dashboard Design and Data Visualization: Making Numbers Beautiful",
+            "author" => "Data Visualization Team",
+            "date" => "9 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+            "alt" => "Dashboard and Data Visualization"
+        ),
+        "ecommerce-ux-conversion-optimization" => array(
+            "title" => "E-commerce UX: Conversion Optimization Through Better Design",
+            "author" => "E-commerce UX Team",
+            "date" => "10 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+            "alt" => "E-commerce UX Design"
+        )
     );
 
     // Pagination variables
