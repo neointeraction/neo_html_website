@@ -100,7 +100,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="./assets/images/banner/banner-img1.jpg" alt="banner" />
+                                <img src="./assets/images/banner/watch.png" alt="banner" />
                             </div>
                         </div>
                     </div>
