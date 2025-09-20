@@ -93,7 +93,7 @@
                                 <h1 class="banner-title">
                                     AI-Powered Design. <span class="highlight">Human-Centered</span> Results.
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal"
                                     Book A Consultation
                                 </button>
                             </div>
@@ -115,7 +115,7 @@
                                 <h1 class="banner-title">
                                     Design With Purpose. <span class="highlight">Build With Precision</span>.
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal"
                                     Book A Consultation
                                 </button>
                             </div>
@@ -149,7 +149,7 @@
                             <p class="description">
                                 Delivering seamless experiences that speak louder than words.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -165,7 +165,7 @@
                             <p class="description">
                                 Shaping ideas into tangible user centric design solutions
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -181,7 +181,7 @@
                                 Crafting revolutionary aesthetics that redefine user
                                 interaction.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -197,7 +197,7 @@
                                 Bridging creativity and code for pixel-perfect user
                                 interfaces.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -313,7 +313,7 @@
                                         career path.
                                     </p>
 
-                                    <button class="btn btn-custom read-more-btn">
+                                    <button class="btn btn-custom read-more-btn" onclick="window.location.href='ux-design-audit.php'">
                                         Read More
                                     </button>
                                 </div>

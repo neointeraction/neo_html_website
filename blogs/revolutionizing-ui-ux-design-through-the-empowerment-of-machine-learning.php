@@ -2,7 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
-
+  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path.'includes/favicon.php'; ?>
+  <?php include $path.'includes/css.php'; ?>
+  <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
@@ -20,9 +23,7 @@
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
     <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png" />
-    <?php if (file_exists(__DIR__ . '/includes/favicon.php')) include_once __DIR__ . '/includes/favicon.php'; ?>
-    <?php if (file_exists(__DIR__ . '/includes/css.php')) include_once __DIR__ . '/includes/css.php'; ?>
-    <?php if (file_exists(__DIR__ . '/includes/head-additional-scripts.php')) include_once __DIR__ . '/includes/head-additional-scripts.php'; ?>
+   
 </head>
 
 <body>
