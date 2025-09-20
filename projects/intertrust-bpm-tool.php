@@ -17,7 +17,7 @@
   <meta property="og:url" content="<?php echo $base_url; ?>bpm-redesign-project" />
   <meta property="og:site_name" content="Neointeraction Design" />
   <meta property="og:type" content="website" />
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+  <meta name="google-site-verification" content="" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Intertrust BPM Tool | Neointeraction design | Contact Now" />
   <meta name="twitter:description" content="Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making organizational processes better." />

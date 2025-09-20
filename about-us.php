@@ -19,7 +19,7 @@
     <meta property="og:url" content="https://www.neointeraction.com/about-us" />
     <meta property="og:site_name" content="About Neointeraction Design" />
     <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
     <meta name="twitter:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />

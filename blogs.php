@@ -21,7 +21,7 @@
     <meta property="og:type" content="website" />
     <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" type="application/rss+xml" title="Neointeraction - RSS" />
     <link rel="next" href="https://www.neointeraction.com /blog/page/2" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />

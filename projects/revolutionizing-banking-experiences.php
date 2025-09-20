@@ -7,16 +7,15 @@
 <head>
   <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
   <meta name="description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <link rel="canonical" href="https://www.neointeraction.com/cruiseship-crew-mobility-tracking-design" />
-  <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
+  <link rel="canonical" href="" /><meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
   <meta property="og:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
   <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
   <meta property="og:image:width" content="2500" />
   <meta property="og:image:height" content="1330" />
-  <meta property="og:url" content="https://www.neointeraction.com/cruiseship-crew-mobility-tracking-design" />
+  <meta property="og:url" content="" />
   <meta property="og:site_name" content="Neointeraction Design" />
   <meta property="og:type" content="website" />
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+  <meta name="google-site-verification" content="" />
   <meta name="twitter:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
   <meta name="twitter:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
   <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />

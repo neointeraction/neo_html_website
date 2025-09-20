@@ -17,7 +17,7 @@
   <meta property="og:url" content="<?php echo $base_url; ?>biomedical-research-ux-design" />
   <meta property="og:site_name" content="Neointeraction Design" />
   <meta property="og:type" content="website" />
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+  <meta name="google-site-verification" content="" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Biomedical Research platform | Euclid | Neointeraction design" />
   <meta name="twitter:description" content="Euclid focuses on managing biomedical data complexities amid advancements in technology. UX design for biomedical research platform by Neointeraction." />
