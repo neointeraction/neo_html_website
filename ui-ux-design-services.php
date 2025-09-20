@@ -2,6 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/favicon.php'; ?>
+    <?php include $path.'includes/css.php'; ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>   
     <title>UI UX Design Services in India | UI UX Design Studio | Neointeraction Design</title>
     <meta name="description" content="Neointeraction Design provides UI UX design services in India. Hire our experienced team for Product Design, UX UI Consultancy and implement a Design System." />
     <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-services" />
@@ -18,10 +22,7 @@
     <meta name="twitter:title" content="Trusted UI UX Design services in India | Neointeraction Design" />
     <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png" />
     <meta name="twitter:description" content="Looking for professional UI UX design services in India? Our dedicated designers deliver innovative solutions to optimize user interaction and boost your brand's online performance." />
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path.'includes/favicon.php'; ?>
-    <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
+
 </head>
 
 <body>
@@ -43,7 +44,7 @@
                     Design shaping <span class="highlight">digital experiences</span>
                 </h1>
                 <div class="experience-block">
-                    <button class="btn btn-custom btn-custom-secondary">
+                    <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                         Book A Consultation
                     </button>
                     <p class="banner-subtext">Neointeraction UX UI design agency with 15 years of expertise, has collaborated with various industry sectors and provided UX design & Frontend development services for business enterprises & startups to achieve their business goals.</p>
@@ -81,7 +82,7 @@
             <div class="bs-card-section services-bs-card-section">
                 <div class="row justify-content-center">
                     <!-- Card 1 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-6 mb-4">
                         <div class="custom-card">
                             <div class="icon-container">
                                 <img src="<?php echo $path; ?>assets/images/ux.svg" alt="ux" />
@@ -98,13 +99,13 @@
                                 <span class="badge">User Research</span>
                                 <span class="badge">Wireframing</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
                     </div>
                     <!-- Card 2 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-6 mb-4">
                         <div class="custom-card">
                             <div class="icon-container">
                                 <img src="<?php echo $path; ?>assets/images/pd.svg" alt="pd" />
@@ -121,7 +122,7 @@
                                 <span class="badge">Rapid Prototyping</span>
                                 <span class="badge">Rapid Prototyping</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -143,7 +144,7 @@
                                 <span class="badge">Design Documentation</span>
                                 <span class="badge">UX and UI Mastery</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -164,7 +165,7 @@
                                 <span class="badge">Dynamic React Component Construction</span>
                                 <span class="badge">Crafting Interactive User Journeys</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -209,7 +210,7 @@
                                         <li>Dedicated team collaboration fosters creativity</li>
                                         <li>Singular point of contact for streamlined communication</li>
                                     </ul>
-                                    <button class="btn btn-custom btn-custom-secondary em-btn">
+                                    <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                         Submit Enquiry
                                     </button>
                                 </div>
@@ -242,7 +243,7 @@
                                         <li>Dedicated team collaboration fosters creativity</li>
                                         <li>Singular point of contact for streamlined communication</li>
                                     </ul>
-                                    <button class="btn btn-custom btn-custom-secondary em-btn">
+                                    <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                         Submit Enquiry
                                     </button>
                                 </div>
@@ -389,6 +390,7 @@
         </div>
     </section>
     <!-- industry-experience -- end -->
+    <?php include $path . 'components/registration-modal.php'; ?>
     <?php include 'components/faq.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>

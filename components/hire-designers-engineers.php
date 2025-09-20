@@ -15,11 +15,12 @@
             Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. 
           </p>
           <button
-            class="btn btn-custom bs-button">
+            class="btn btn-custom bs-button " data-bs-toggle="modal" data-bs-target="#registerModal">
             Request a Quote
           </button>
         </div>
       </div>
     </div>
   </section>
+  <?php include $path . 'components/registration-modal.php'; ?>
   <!-- banner-strip --end  -->
