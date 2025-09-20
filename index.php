@@ -276,7 +276,7 @@
         <div class="container">
             <h2 class="section-title">Demo Video</h2>
             <div class="video-container section-margin">
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player"
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
                     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
@@ -370,10 +370,10 @@
     <!-- Registration Modal BANNER ONE MODAL -->
     <?php include $path . 'components/registration-modal.php'; ?>
 
-      <?php include $path.'components/join-our-team.php'; ?>
-    <?php include $path.'components/footer.php'; ?>
-    <?php include $path.'includes/footer-additional-scripts.php'; ?>
-    <?php include $path.'includes/js.php'; ?>
+    <?php include $path . 'components/join-our-team.php'; ?>
+    <?php include $path . 'components/footer.php'; ?>
+    <?php include $path . 'includes/footer-additional-scripts.php'; ?>
+    <?php include $path . 'includes/js.php'; ?>
 </body>
 
 </html>
