@@ -45,9 +45,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
     <?php include $path.'includes/head-additional-scripts.php'; ?>
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Neointeraction - Contact Us</title>
     <meta name="description" content="Get in touch with neointeraction design for inquiries and support.">
     <meta name="keywords" content="contact, support, inquiry, neointeraction" />

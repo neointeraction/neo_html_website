@@ -13,7 +13,7 @@
     <link rel="canonical" href="https://www.neointeraction.com/blog" />
     <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta property="og:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
-    <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="https://www.neointeraction.com/blog" />
@@ -25,8 +25,8 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
-    <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png" />
-</head>
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
+       </head>
 
 <body>
     <?php $page = 'Blogs'; ?>

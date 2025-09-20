@@ -14,7 +14,7 @@
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
    <meta property="og:image:width" content="1200"/>
     <meta property="og:image:height" content="630"/>
-    <meta property="og:url" content="https://www.neointeraction.com/blog"/>
+    <meta property="og:url" content=""/>
     <meta property="og:site_name" content="Neointeraction Design"/>
     <meta property="og:type" content="website"/>
     <meta name="google-site-verification" content=""/>

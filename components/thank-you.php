@@ -11,7 +11,7 @@
     <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png"/>
     <meta property="og:image:width" content="1200"/>
     <meta property="og:image:height" content="630"/>
-    <meta property="og:url" content="https://www.neointeraction.com/blog"/>
+    <meta property="og:url" content=""/>
     <meta property="og:site_name" content="Neointeraction Design"/>
     <meta property="og:type" content="website"/>
     <meta name="google-site-verification" content=""/>

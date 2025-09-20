@@ -12,9 +12,8 @@
     <link rel="canonical" href="https://www.neointeraction.com/about-us" />
     <meta property="og:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
     <meta property="og:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />
-    <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png" />
-    <meta property="og:image:width" content="600" />
+     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
     <meta property="og:url" content="https://www.neointeraction.com/about-us" />
     <meta property="og:site_name" content="About Neointeraction Design" />
@@ -23,8 +22,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
     <meta name="twitter:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />
-    <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
 </head>
 
 <body>
