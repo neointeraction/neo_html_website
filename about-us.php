@@ -337,7 +337,7 @@
     </section>
     <!-- our-team - end  -->
     <!-- join-us  -->
-    <?php include $path.'includes/join-our-team.php'; ?>
+    <?php include $path.'components/join-our-team.php'; ?>
     <!-- join-us -- end  -->
     <!-- life-at-neo  -->
     <section class="life-at-neo section-padding">

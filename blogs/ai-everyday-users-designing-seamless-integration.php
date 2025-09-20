@@ -40,14 +40,14 @@
         <div class="container">
             <div class="blog-body-padding">
                 <p class="blog-author-text">
-                    <img src="assets/images/temp/avatar.jpg" alt="avatar" class="avatar-img" />
+                    <img src="<?php echo $path; ?>assets/images/temp/avatar.jpg" alt="avatar" class="avatar-img" />
                     <span>Sahla Feroc • 2 Jan, 2021</span>
                 </p>
                 <h1 class="banner-title">
                     Revolutionizing UI UX Design through the Empowerment of <span class="highlight">Machine Learning</span>
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="assets/images/blog/blog1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/blog1.jpg" alt="blog1" />
                 </div>
                 <p class="blog-body-text">By seamlessly blending the principles of UI UX design with cutting-edge machine learning algorithms, designers can now craft personalized and intuitive experiences that resonate with users. This powerful fusion holds immense potential for creating captivating and user centric designs. Let's embark on an exploration of the exciting possibilities that machine learning brings to UI UX design, elevating user experiences to unprecedented heights.</p>
                 <h4 class="blog-body-title">Personalization in user experience design</h4>
@@ -58,7 +58,7 @@
                     Integrating machine learning into UI UX design enables product design agenciesto create user centric interactions, making applications more effective and engaging. The magic of personalization through machine learning revolutionizes user experiences, leaving behind the one-size-fits-all approach.</p>
                 <h4 class="blog-body-title">Automation in Design Tasks</h4>
                 <div class="blog-section-banner-img">
-                    <img src="assets/images/blog/blog1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/blog1.jpg" alt="blog1" />
                 </div>
                 <p class="blog-body-text">Machine learning in UI UX design brings automation to repetitive tasks, saving designers time and effort. Color palettes, responsive layouts, and element placement can be generated automatically using algorithms. This allows designers to focus on creative and strategic aspects of the design process. Furthermore, machine learning facilitates automating user testing, streamlining the collection and analysis of feedback, enabling quicker and more informed design decisions. For instance, Framer is a design tool that uses AI to transform static concepts into interactive prototypes, allowing designers to swiftly test and iterate user interactions without the need for in-depth coding.
                     With the integration of machine learning, UI UX design experiences improved automation, delivering superior results compared to the past. Designers can now efficiently create innovative and intuitive software applications. As machine learning continues to evolve, it further enhances the user experience, empowering UX designers to deliver visually appealing and user centric products with greater speed and precision.</p>
@@ -70,7 +70,7 @@
                 </div>
                 <h4 class="blog-body-title">Predictive analytics</h4>
                 <div class="blog-section-banner-img">
-                    <img src="assets/images/blog/blog1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/blog1.jpg" alt="blog1" />
                 </div>
                 <p class="blog-body-text">Incorporating predictive analytics in UX design is a powerful way to anticipate user needs and enhance the overall user experience. Leveraging data and statistical algorithms, predictive analytics empowers designers to make informed decisions and create more effective and user friendly interfaces.
                     By analyzing historical data and user patterns, designers can gain insights into how users interact with the interface, predicting their future actions and preferences. This valuable information allows designers to optimize the design and proactively address potential pain points or areas of confusion.

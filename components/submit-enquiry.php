@@ -5,7 +5,7 @@
       <div class="row ui-card ">
         <!-- Image Column -->
         <div class="col-md-6  img-container">
-          <img src="assets/images/bs-img.webp" alt="Stylized illustration" class="img-fluid">
+          <img src="<?php echo $path; ?>assets/images/bs-img.webp" alt="Stylized illustration" class="img-fluid">
         </div>
 
         <!-- Text and Button Column -->

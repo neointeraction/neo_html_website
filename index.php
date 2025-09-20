@@ -260,12 +260,12 @@
         <div class="container">
             <div class="title-flex">
                 <h2 class="section-title">Browse Projects</h2>
-                <a href="projects.php" class="section-links">View All</a>
+                <a href="<?php echo $path; ?>projects.php" class="section-links">View All</a>
             </div>
             <div class="project-block section-margin">
                 <?php
                 $limit = 3; // Number of projects to display
-                include 'projects/project-listing.php';
+                include $path . 'projects/project-listing.php';
                 ?>
             </div>
         </div>
@@ -331,7 +331,7 @@
         <div class="container">
             <div class="title-flex">
                 <h2 class="section-title">Recent Blogs</h2>
-                <a href="#" class="section-links">View All</a>
+                <a href="<?php echo $path; ?>blogs.php" class="section-links">View All</a>
             </div>
             <div class="blog-container-block section-margin">
                 <div class="row g-4 justify-content-center">
@@ -370,10 +370,10 @@
     <!-- Registration Modal BANNER ONE MODAL -->
     <?php include $path . 'components/registration-modal.php'; ?>
 
-    <?php include 'includes/join-our-team.php'; ?>
-    <?php include 'components/footer.php'; ?>
-    <?php include 'includes/footer-additional-scripts.php'; ?>
-    <?php include 'includes/js.php'; ?>
+      <?php include $path.'components/join-our-team.php'; ?>
+    <?php include $path.'components/footer.php'; ?>
+    <?php include $path.'includes/footer-additional-scripts.php'; ?>
+    <?php include $path.'includes/js.php'; ?>
 </body>
 
 </html>

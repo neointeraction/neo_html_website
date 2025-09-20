@@ -80,7 +80,7 @@
                     );
                 ?>
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="blog.php?slug=<?php echo urlencode($blog_slug); ?>" class="blog-anchor">
+                        <a href="blogs/<?php echo urlencode($blog_slug); ?>" class="blog-anchor">
                             <div class="blog-card h-100">
                                 <img src="<?php echo htmlspecialchars($metadata['image']); ?>" 
                                         class="card-img-top" 
