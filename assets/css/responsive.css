@@ -34,7 +34,7 @@
     padding: 16px 0;
   }
   .project-title {
-    font-size: 24px;
+    font-size: 20px;
   }
   .pb-action-btn {
     opacity: 1;
@@ -331,5 +331,8 @@
   }
   .privacy-text {
     font-size: 16px;
+  }
+  .project-tags {
+    margin-top: 16px;
   }
 }
