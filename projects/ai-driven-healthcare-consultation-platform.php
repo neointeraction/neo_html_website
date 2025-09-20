@@ -12,7 +12,7 @@
   <meta property="og:url" content="https://www.neointeraction.com/patient-consultation-ux"/>
   <meta property="og:site_name" content="Neointeraction Design"/>
   <meta property="og:type" content="website"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
+  <meta name="google-site-verification" content=""/>
   <meta name="twitter:title" content="AI Driven Healthcare Consultation Platform | Neointeraction Design"/>
   <meta name="twitter:description" content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients."/>
   <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>

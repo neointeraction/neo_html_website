@@ -11,16 +11,16 @@
     <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-services" />
     <meta property="og:title" content="Trusted UI UX Design services in India | Neointeraction Design" />
     <meta property="og:description" content="Looking for professional UI UX design services in India? Our dedicated designers deliver innovative solutions to optimize user interaction and boost your brand's online performance." />
-    <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg"/>
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
     <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-services" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Trusted UI UX Design services in India | Neointeraction Design" />
-    <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" />
     <meta name="twitter:description" content="Looking for professional UI UX design services in India? Our dedicated designers deliver innovative solutions to optimize user interaction and boost your brand's online performance." />
 
 </head>

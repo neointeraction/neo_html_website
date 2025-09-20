@@ -18,7 +18,7 @@
     <meta property="og:url" content="<?php echo $base_url; ?>blog" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
@@ -44,9 +44,9 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="banner-content">
-                                <h4 class="banner-supertext">research-to-design process that differentiates professional UX work</h4>
+                                <h4 class="banner-supertext">business impact and ROI-driven design</h4>
                                 <h1 class="banner-title">
-                                    Award winning <span class="highlight">Ux Agency</span>
+                                    Make tech products <span class="highlight">more human</span>
                                 </h1>
                                 <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
@@ -56,7 +56,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="<?php echo $path; ?>assets/images/banner/banner-img1.jpg" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/oldage.jpg" alt="Make tech products more human" />
                             </div>
                         </div>
                     </div>
