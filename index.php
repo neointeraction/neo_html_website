@@ -56,7 +56,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="<?php echo $path; ?>assets/images/banner/oldage.jpg" alt="Make tech products more human" />
+                                <img src="<?php echo $path; ?>assets/images/banner/oldage.jpeg" alt="Make tech products more human" />
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="./assets/images/banner/banner2.png" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/banner2.png" alt="banner" />
                             </div>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="./assets/images/banner/watch.png" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/watch.jpeg" alt="banner" />
                             </div>
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="./assets/images/banner/banner-img1.jpg" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/watch.jpeg" alt="banner" />
                             </div>
                         </div>
                     </div>
@@ -288,8 +288,12 @@
     <!-- design-events  -->
     <section class="design-events section-padding">
         <div class="container">
-            <h2 class="section-title">Design Events</h2>
 
+         <div class="title-flex">
+                <h2 class="section-title">Design Events</h2>
+                <a href="<?php echo $path; ?>events.php" class="section-links">View All</a>
+            </div>
+            
             <div class="project-block section-margin">
                 <div class="project-block-item">
                     <div class="row justify-content-center">
@@ -343,28 +347,7 @@
     </section>
     <!-- recent-blogs - end  -->
     <!-- banner-strip  -->
-    <section class="banner-strip section-padding">
-        <div class="container">
-            <div class="row ui-card">
-                <!-- Image Column -->
-                <div class="col-md-6 img-container">
-                    <img src="assets/images/bs-img.webp" alt="Stylized illustration" class="img-fluid">
-                </div>
-
-                <!-- Text and Button Column -->
-                <div class="col-md-6 ">
-                    <h2 class="bs-title">Submit Enquiry</h2>
-                    <p class="bs-text">
-                        Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!
-                    </p>
-                    <button
-                        class="btn btn-custom bs-button" data-bs-toggle="modal" data-bs-target="#registerModal">
-                        Contact Us
-                    </button>
-                </div>
-            </div>
-        </div>
-    </section>
+<?php include 'components/submit-enquiry.php'; ?>
     <!-- banner-strip --end  -->
 
     <!-- Registration Modal BANNER ONE MODAL -->

@@ -12,7 +12,7 @@
                             <div class="col-lg-12">
                                 <div class="modal-contact">
                                     <button type="button" class="btn-close modal-btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                    <h2 class="form-title">Send Us Your Enquiry</h2>
+                                    <h2 class="form-title">Enquiry Form</h2>
                                     <?php if (!empty($error_message)): ?>
                                         <div class="alert alert-danger">
                                             <?php echo htmlspecialchars($error_message); ?>
@@ -66,7 +66,7 @@
                                                 rows="6"
                                                 required><?php echo htmlspecialchars($requirement ?? ''); ?></textarea>
                                         </div>
-                                        <div class="form-btn-container">
+                                        <div class="form-btn-container d-flex justify-content-end">
                                             <button type="submit" class="btn btn-custom">
                                                 Submit
                                             </button>

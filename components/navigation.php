@@ -6,7 +6,7 @@
           <div class="col-12">
             <nav class="navbar navbar-expand-lg custom-navbar">
               <div class="container-fluid p-0">
-                <a class="navbar-brand d-flex align-items-center" href="#">
+                <a class="navbar-brand d-flex align-items-center" href="<?php echo $path; ?>index.php">
                   <img
                     src="<?php echo $path; ?>assets/images/header_logo.png"
                     alt="header_logo" />

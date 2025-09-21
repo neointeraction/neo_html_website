@@ -80,7 +80,8 @@
         <div class="container">
             <h2 class="section-title">Demo Video</h2>
             <div class="video-container section-margin">
-                <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player" frameborder="0"
+                
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/d_rEmpCVHAI?si=ZPQ5SxsTSvOkJsIW" title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
                     allowfullscreen style="border-radius: 0;"></iframe>
             </div>
@@ -278,7 +279,7 @@
                     <!-- Card 1 -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
+                            <div class="blog-card color-bw  h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/sam.jpeg" class="team-img-top" alt="sam" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Sam Thomas</h5>
@@ -292,7 +293,7 @@
                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
+                            <div class="blog-card color-bw h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/shameer.jpeg" class="team-img-top" alt="shameer" />
                                 <div class="card-body">
                                     <h5 class="team-card-title team-title">Shameer M</h5>
@@ -306,7 +307,7 @@
                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
+                            <div class="blog-card color-bw h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/vanessa.jpeg" class="team-img-top" alt="vanessa" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Vanessa Lobo</h5>
@@ -320,7 +321,7 @@
                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
+                            <div class="blog-card color-bw h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/midhun.jpeg" class="team-img-top" alt="midhun" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Midhun M</h5>
@@ -336,9 +337,7 @@
         </div>
     </section>
     <!-- our-team - end  -->
-    <!-- join-us  -->
-    <?php include $path . 'components/join-our-team.php'; ?>
-    <!-- join-us -- end  -->
+   
     <!-- life-at-neo  -->
     <section class="life-at-neo section-padding">
         <div class="container">

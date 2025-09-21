@@ -196,7 +196,7 @@ body {
 }
 
 .banner-slider {
-  border-bottom: 2px solid #dadada;
+  border-bottom: 2px solid #e74c3c;
 }
 
 .banner-title .highlight {
@@ -292,6 +292,19 @@ body {
   width: 50%;
   padding: 1rem 0;
   gap: 2rem;
+}
+
+
+
+
+.color-bw img{
+   filter: grayscale(100%);
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+.color-bw img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
 }
 
 .clf-item img {
@@ -455,7 +468,7 @@ body {
   border-radius: 0;
   margin-right: 8px;
   color: #58595a;
-  border: 1px solid #a6a6a6;
+  border: 1px solid #58595A;
   font-weight: 400;
   font-size: 16px;
 }
@@ -1165,11 +1178,14 @@ body {
 
 .service-tags .badge {
   margin-bottom: 12px;
-  border: 1px solid #e2e2e2;
+  border: 1px solid rgba(88, 89, 91, .5);
   font-weight: 400;
   font-size: 16px;
   color: #58595a;
+
 }
+
+
 
 .services-bs-card-section .custom-card .description {
   margin-bottom: 0;

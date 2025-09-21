@@ -125,9 +125,9 @@
                                     <div class="project-tags upcoming-events-tags">
                                         <span class="badge">Online Workshop</span>
                                     </div>
-                                    <button class="btn btn-custom" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                    <!-- <button class="btn btn-custom" data-bs-toggle="modal" data-bs-target="#registerModal">
                                         Register Now
-                                    </button>
+                                    </button> -->
                                 </div>
                             </div>
                         </div>
@@ -137,8 +137,7 @@
         </div>
     </section>
 
-    <!-- Registration Modal -->
-    <?php include 'components/registration-modal.php'; ?>
+
 
     <!-- upcoming-events  -->
     <?php include 'components/submit-enquiry.php'; ?>

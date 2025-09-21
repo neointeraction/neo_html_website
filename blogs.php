@@ -275,7 +275,7 @@
                                     </div>
 
                                     <div class="pb-action-btn">
-                                        <button class="btn btn-custom read-more-btn">
+                                        <button class="btn btn-custom read-more-btn" onclick="window.location.href='<?php echo $path; ?>projects/intertrust-bpm-tool.php'">
                                             Read More
                                         </button>
                                     </div>
