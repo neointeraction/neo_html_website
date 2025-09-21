@@ -144,6 +144,52 @@ $(document).ready(function () {
   });
 });
 
+$(document).ready(function () {
+  $(".event-slider-block").slick({
+    dots: false,
+    arrows: false, // Turn off default arrows
+    infinite: true,
+    speed: 800,
+    slidesToShow: 2,
+    slidesToScroll: 2,
+    // fade: true,
+    // cssEase: "linear",
+    autoplay: true,
+    adaptiveHeight: true,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2,
+        },
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+        },
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+        },
+      },
+    ],
+  });
+
+  // Handle custom button clicks to control the slider
+  $(".slick-next-custom").click(function () {
+    $(".event-slider-block").slick("slickNext");
+  });
+
+  $(".slick-prev-custom").click(function () {
+    $(".event-slider-block").slick("slickPrev");
+  });
+});
 // count
 
 // Check if element is in viewport

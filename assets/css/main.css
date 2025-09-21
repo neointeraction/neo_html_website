@@ -1466,3 +1466,17 @@ body {
   top: 20px;
   right: 24px;
 }
+
+/* event-highlight-nav */
+
+.event-highlight-nav {
+  position: static;
+}
+
+.event-item-block {
+  margin-bottom: 0 !important;
+}
+
+.event-item-block img {
+  width: 100%;
+}
