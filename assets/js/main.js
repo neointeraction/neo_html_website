@@ -45,6 +45,7 @@ $(".banner-slider").slick({
   fade: false,
   // cssEase: "linear",
   autoplay: true,
+  adaptiveHeight: true,
 });
 
 // about-project-block
