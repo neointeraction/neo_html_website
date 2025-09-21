@@ -228,6 +228,10 @@ body {
   padding: 24px;
   height: 100%;
   transition: 0.3s all ease-in-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .custom-card:hover {
@@ -266,6 +270,7 @@ body {
   color: #4c4d4d;
   line-height: 24px;
   margin-bottom: 24px;
+  flex-grow: 1;
 }
 
 .scroll-container {
@@ -294,11 +299,8 @@ body {
   gap: 2rem;
 }
 
-
-
-
-.color-bw img{
-   filter: grayscale(100%);
+.color-bw img {
+  filter: grayscale(100%);
   opacity: 0.7;
   transition: opacity 0.3s ease;
 }
@@ -468,7 +470,7 @@ body {
   border-radius: 0;
   margin-right: 8px;
   color: #58595a;
-  border: 1px solid #58595A;
+  border: 1px solid #58595a;
   font-weight: 400;
   font-size: 16px;
 }
@@ -748,7 +750,6 @@ body {
   flex-direction: column;
   flex-grow: 1;
   justify-content: space-between;
-  /* height: 16px; */
 }
 
 .card-img-top {
@@ -1178,14 +1179,11 @@ body {
 
 .service-tags .badge {
   margin-bottom: 12px;
-  border: 1px solid rgba(88, 89, 91, .5);
+  border: 1px solid rgba(88, 89, 91, 0.5);
   font-weight: 400;
   font-size: 16px;
   color: #58595a;
-
 }
-
-
 
 .services-bs-card-section .custom-card .description {
   margin-bottom: 0;

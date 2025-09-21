@@ -31,7 +31,7 @@
     font-size: 18px;
   }
   .project-content {
-    padding: 16px 0;
+    padding: 16px 0 0 0;
   }
   .project-title {
     font-size: 20px;
@@ -364,5 +364,48 @@
   .card-body {
     display: block;
     height: auto;
+  }
+  #load-more-btn {
+    margin: 30px 0;
+  }
+  .filter-tag-flex {
+    margin-bottom: 24px;
+  }
+  .filter-tags-scroll-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .filter-tags-scroll-container::-webkit-scrollbar {
+    display: none;
+  }
+  .filter-tags-scroll-container {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .filter-tag-flex {
+    flex-wrap: nowrap;
+    padding-bottom: 10px;
+  }
+  .filter-tag-flex .filter-button {
+    flex-shrink: 0;
+  }
+  .project-bs-cards .row {
+    --bs-gutter-y: 0;
+  }
+  .brainstorming-session,
+  .ui-update {
+    text-align: left;
+  }
+  .job-posting .btn-custom-secondary {
+    margin-top: 16px;
+  }
+  .job-posting {
+    margin-top: 24px;
+  }
+  .career-openings.section-padding {
+    padding-top: 0;
+  }
+  .career-banner .banner-title {
+    margin-bottom: 0;
   }
 }
