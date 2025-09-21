@@ -246,7 +246,7 @@ body {
 }
 
 .custom-card-white {
-  background-color: #F6F6F6;
+  background-color: #f6f6f6;
   border-radius: 0px;
   padding: 24px;
   height: 100%;
@@ -259,7 +259,7 @@ body {
 }
 
 .custom-card-white:hover .btn-custom-secondary {
-  background-color: #EFEFEF;
+  background-color: #efefef;
   color: #fff;
   transition: 0.3s all ease-in-out;
 }
@@ -1498,4 +1498,14 @@ body {
 
 .event-item-block img {
   width: 100%;
+}
+
+/* the slides */
+.event-slider-block .slick-slide {
+  margin: 0 12px;
+}
+
+/* the parent */
+.event-slider-block .slick-list {
+  margin: 0 -12px;
 }

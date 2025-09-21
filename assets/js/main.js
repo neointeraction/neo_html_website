@@ -87,7 +87,6 @@ $(document).ready(function () {
     ],
   });
 
-  // Handle custom button clicks to control the slider
   $(".slick-next-custom").click(function () {
     $(".about-project-block").slick("slickNext");
   });
@@ -147,7 +146,7 @@ $(document).ready(function () {
 $(document).ready(function () {
   $(".event-slider-block").slick({
     dots: false,
-    arrows: false, // Turn off default arrows
+    arrows: false,
     infinite: true,
     speed: 800,
     slidesToShow: 2,
@@ -181,7 +180,6 @@ $(document).ready(function () {
     ],
   });
 
-  // Handle custom button clicks to control the slider
   $(".slick-next-custom").click(function () {
     $(".event-slider-block").slick("slickNext");
   });
@@ -206,7 +204,7 @@ const isElementInViewport = (el) => {
 
 const countUp = (el, target) => {
   let count = 0;
-  // For the '1b+' label, we want a very fast count to 1, then we'll append the 'b+'
+
   const step = Math.ceil(target / (target > 10 ? 100 : 20));
   const interval = setInterval(() => {
     count += step;
@@ -219,7 +217,7 @@ const countUp = (el, target) => {
     } else {
       el.textContent = count + "+";
     }
-  }, 20); // Adjust interval for speed
+  }, 20);
 };
 
 const startCountUp = () => {
@@ -242,7 +240,7 @@ window.addEventListener("resize", startCountUp);
 function handleNavbarScroll() {
   const navbar = document.querySelector(".navbar-container");
 
-  if (!navbar) return; // Prevent errors if navbar doesn't exist
+  if (!navbar) return;
 
   window.addEventListener("scroll", () => {
     if (window.scrollY > 0) {
