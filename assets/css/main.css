@@ -1073,8 +1073,8 @@ body {
   align-items: center;
 }
 
-.slick-btn:hover {
-  background: #eeeeee !important;
+.slick-btn:hover .svg {
+  fill: white;
 }
 
 .what-we-do-block {
