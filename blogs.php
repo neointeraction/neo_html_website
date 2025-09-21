@@ -34,6 +34,12 @@
     <?php
     // Updated blog system with Neointeraction data - ONLY CHANGED THIS SECTION
     $news_list = array(
+        "effective-communication-with-clients-and-5-ways-to-improve-it",
+        "the-future-of-ux-ui-navigating-2024-s-breakthrough-trends",
+        "voice-user-interface-design-audits-how-to-make-user-engagement",
+        "how-to-make-strategic-business-growth-through-ux-design",
+        "what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design",
+        "what-you-need-to-know-about-vr-interaction-design",
         "composable-business-ux-design-secure-better-user-experiences",
         "vr-interaction-design-immersive-experiences",
         "boost-ux-security-better-results",
@@ -222,7 +228,42 @@
             "date" => "10 months ago",
             "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
             "alt" => "E-commerce UX Design"
-        )
+        ),
+        "effective-communication-with-clients-and-5-ways-to-improve-it" => array(
+            "title" => "Effective Communication with clients and 5 ways to improve it",
+            "author" => "E-commerce UX Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/effective-communication/image1.jpg",
+            "alt" => "E-commerce UX Design"
+        ),
+        "the-future-of-ux-ui-navigating-2024-s-breakthrough-trends" => array(
+            "title" => "The Future Of UX UI: Navigating 2024's Breakthrough Trends",
+            "author" => "UX Design Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/future-of-ux/image1.jpg",            
+            "alt" => "UX Design"            
+            ),
+        "voice-user-interface-design-audits-how-to-make-user-engagement" => array(
+            "title" => "Voice User Interface Design Audits: How To Make User Engagement",
+            "author" => "UX Design Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/voice-user-interface/image1.jpg",            
+            "alt" => "UX Design"            
+            ),
+        "how-to-make-strategic-business-growth-through-ux-design" => array(
+            "title" => "How to make Strategic Business Growth Through UX Design",
+            "author" => "UX Design Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/how-to-make-strategic/image1.jpg",            
+            "alt" => "UX Design"            
+            ),     
+        "what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" => array(             
+            "title" => "What is Design Thinking and How to Implement it in UI UX Design",
+            "author" => "UX Design Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/what-is-design-thinking/image1.jpg",            
+            "alt" => "UX Design"            
+            ),
     );
 
     // Pagination variables
@@ -293,37 +334,37 @@
         <div class="container">
             <div class="blog-container-block">
                 <div class="row g-4 justify-content-center" id="blog-container">
-                    <?php
-                    // Show initial blogs - ONLY CHANGED THE LINKING PART
-                    for ($i = 0; $i < min($items_per_page, count($news_list)); $i++) {
-                        $blog_slug = $news_list[$i]; // Changed from $blog_file to $blog_slug
-                        $metadata = isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
-                            "title" => "Insightful Blog Post About Design and Development",
-                            "author" => "Design Team",
-                            "date" => "Recently",
-                            "image" => "assets/images/temp/blog.webp",
-                            "alt" => "Blog Image"
-                        );
-                    ?>
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <a href="blog.php?slug=<?php echo urlencode($blog_slug); ?>" class="blog-anchor">
-                                <div class="blog-card">
-                                    <img src="<?php echo htmlspecialchars($metadata['image']); ?>"
-                                        class="card-img-top"
+                <?php
+                // Show initial blogs - ONLY CHANGED THE LINKING PART
+                for ($i = 0; $i < min($items_per_page, count($news_list)); $i++) {
+                    $blog_slug = $news_list[$i]; // Changed from $blog_file to $blog_slug
+                    $metadata = isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
+                        "title" => "Insightful Blog Post About Design and Development",
+                        "author" => "Design Team",
+                        "date" => "Recently",
+                        "image" => "assets/images/temp/blog.webp",
+                        "alt" => "Blog Image"
+                    );
+                ?>
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                        <a href="blogs/<?php echo urlencode($blog_slug); ?>" class="blog-anchor">
+                            <div class="blog-card h-100">
+                                <img src="<?php echo htmlspecialchars($metadata['image']); ?>" 
+                                        class="card-img-top" 
                                         alt="<?php echo htmlspecialchars($metadata['alt']); ?>"
                                         onerror="this.src='assets/images/temp/blog.png'">
-                                    <div class="card-body">
-                                        <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
-                                        <p class="blog-card-text">
-                                            <small class="text-muted"><?php echo htmlspecialchars($metadata['author']); ?> • <?php echo htmlspecialchars($metadata['date']); ?></small>
-                                        </p>
-                                    </div>
+                                <div class="card-body">
+                                    <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
+                                    <p class="blog-card-text">
+                                        <small class="text-muted"><?php echo htmlspecialchars($metadata['author']); ?> • <?php echo htmlspecialchars($metadata['date']); ?></small>
+                                    </p>
                                 </div>
-                            </a>
-                        </div>
-                    <?php
-                    }
-                    ?>
+                            </div>
+                        </a>
+                    </div>
+                <?php
+                }
+                ?>
                 </div>
 
                 <?php if (count($news_list) > $items_per_page): ?>
