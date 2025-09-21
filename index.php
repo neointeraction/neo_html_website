@@ -44,6 +44,28 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="banner-content">
+                                <h4 class="banner-supertext">research-to-design process that differentiates professional UX work</h4>
+                                <h1 class="banner-title">
+                                    Award winning <span class="highlight">Ux Agency</span>
+                                </h1>
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                    Book A Consultation
+                                </button>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="banner-img-block">
+                                <img src="<?php echo $path; ?>assets/images/banner/globe.jpg" alt="banner" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="banner-content">
                                 <h4 class="banner-supertext">business impact and ROI-driven design</h4>
                                 <h1 class="banner-title">
                                     Make tech products <span class="highlight">more human</span>
@@ -62,34 +84,13 @@
                     </div>
                 </div>
             </div>
+            
             <div>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
                             <div class="banner-content">
-                                <h4 class="banner-supertext">business impact and ROI-driven design</h4>
-                                <h1 class="banner-title">
-                                    Make tech products <span class="highlight">more human</span>
-                                </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                    Book A Consultation
-                                </button>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="banner-img-block">
-                                <img src="<?php echo $path; ?>assets/images/banner/banner2.png" alt="banner" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="banner-content">
-                                <h4 class="banner-supertext">bridging user satisfaction and commercial success</h4>
+                                <h4 class="banner-supertext">research-to-design process that differentiates professional UX work</h4>
                                 <h1 class="banner-title">
                                     AI-Powered Design. <span class="highlight">Human-Centered</span> Results.
                                 </h1>
@@ -100,7 +101,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="<?php echo $path; ?>assets/images/banner/watch.jpeg" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/lady.jpg" alt="banner" />
                             </div>
                         </div>
                     </div>
@@ -282,9 +283,7 @@
             </div>
         </div>
     </section>
-    <!-- faq  -->
-    <?php include 'components/faq.php'; ?>
-    <!-- faq -- end  -->
+
     <!-- design-events  -->
     <section class="design-events section-padding">
         <div class="container">
@@ -346,13 +345,9 @@
         </div>
     </section>
     <!-- recent-blogs - end  -->
-    <!-- banner-strip  -->
-<?php include 'components/submit-enquiry.php'; ?>
-    <!-- banner-strip --end  -->
-
-    <!-- Registration Modal BANNER ONE MODAL -->
+    <?php include $path . 'components/submit-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
-
+    <?php include $path . 'components/faq.php'; ?>
     <?php include $path . 'components/join-our-team.php'; ?>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>

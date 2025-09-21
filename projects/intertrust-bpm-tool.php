@@ -187,7 +187,7 @@
               <!-- Card 1 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card case-study-card">
+                <div class="custom-card-white case-study-card">
                   <h4 class="title">Streamlined Workflows</h4>
                   <p class="description">
                     Simplified processes enabled users to complete tasks faster and more successfully, enhancing overall workflow efficiency.
@@ -199,7 +199,7 @@
               <!-- Card 2 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card case-study-card">
+                <div class="custom-card-white case-study-card">
                   <h4 class="title">Focused User Concentration</h4>
                   <p class="description">
                     Removal of unnecessary data reduced distractions, allowing users to maintain focus on critical and significant activities.
@@ -211,7 +211,7 @@
               <!-- Card 3 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card case-study-card">
+                <div class="custom-card-white case-study-card">
                   <h4 class="title">Intuitive Data Interpretation</h4>
                   <p class="description">
                     Utilization of colors, typefaces, tooltips, and UI features improved data interpretation, making it easier for users to distinguish and understand information.
@@ -223,7 +223,7 @@
               <!-- Card 4 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card case-study-card">
+                <div class="custom-card-white case-study-card">
                   <h4 class="title">Step-by-Step Methodology</h4>
                   <p class="description">
                     The majority of workflows were broken down into a step-by-step method that allowed users to feel confident in completing a difficult activity.

@@ -233,7 +233,7 @@
         </div>
     </section>
 
-    <?php include $path . 'components/faq.php'; ?>
+
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>

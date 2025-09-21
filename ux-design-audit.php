@@ -70,7 +70,7 @@
                         <!-- Right Side -->
                         <div class="col-lg-6">
                             <div class="contact-right">
-                                <h2 class="form-title">Send Us Your Enquiry</h2>
+                                <h2 class="form-title">UX Audit Enquiry Form</h2>
 
                                 <?php if (!empty($error_message)): ?>
                                     <div class="alert alert-danger">
@@ -240,8 +240,8 @@
                                         <p class="project-description">
                                             <?php echo $event['description']; ?>
                                         </p>
-                                        <button class="btn btn-custom btn-custom-secondary em-btn" onclick="location.href='<?php echo $rootPath . $event['link']; ?>';" style="cursor: pointer;">
-                                            Reach Us Now for  an Audit
+                                        <button class="btn btn-custom btn-custom-secondary em-btn" onclick="location.href='#';" style="cursor: pointer;">
+                                            Reach Us Now
                                         </button>
                                     </div>
                                 </div>

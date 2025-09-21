@@ -411,7 +411,7 @@
         }
     </script>
 
-    <?php include 'components/submit-enquiry.php'; ?>
+    <?php include 'components/hire-designers-engineers.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>
     <?php include 'includes/js.php'; ?>
