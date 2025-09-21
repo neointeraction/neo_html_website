@@ -45,7 +45,7 @@
         </div>
     </section>
     <!-- banner -- end  -->
-    <section class="privacy">
+    <section class="privacy section-padding">
         <div class="container">
             <h1 class="section-title">
                 Welcome to Neointeraction Design’s Privacy Policy
