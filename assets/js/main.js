@@ -43,7 +43,7 @@ $(".banner-slider").slick({
   speed: 1000,
   slidesToShow: 1,
   slidesToScroll: 1,
-  fade: false,
+  fade: true,
   // cssEase: "linear",
   autoplay: true,
   adaptiveHeight: true,

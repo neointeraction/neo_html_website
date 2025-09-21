@@ -10,7 +10,7 @@
 
         <!-- Text and Button Column -->
         <div class="col-md-6 ">
-          <h2 class="bs-title">Submit Enquiry</h2>
+          <h2 class="bs-title">Enquiry Form</h2>
           <p class="bs-text">
             Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!
           </p>

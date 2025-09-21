@@ -71,10 +71,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <div class="col-lg-6">
                             <div class="contact-left">
                                 <h1 class="banner-title">
-                                    Book Your <span class="highlight">Free UI UX<br>Consultation</span>
+                                    Share Your <span class="highlight">Enquiry</span>
                                 </h1>
 
                                 <div class="contact-info">
+                                    <div class="ci-item">
+                                         <p>Submit your inquiry — our team will get in touch with you shortly.</p> 
+                                      </div>
                                     <div class="ci-item">
                                         <h4>Mail</h4>
                                         <p>info@neointeraction.com</p>
@@ -88,7 +91,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                                         <p>Neointeraction Designs, # M-98, 2nd Floor, LIC housing colony, HAL 3rd stage, Jeevan Bhima Nagar, Bangalore - 560 075</p>
                                     </div>
 
-                                    <a href="#" class="get-directions">Get Directions</a>
+                                    <a href="https://www.google.com/maps/place/Neointeraction+UX+Design+Services/@12.9685287,77.6527232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae16ae4b33f91d:0x16ae479052c160f0!8m2!3d12.9685287!4d77.6527232!16s%2Fg%2F1tscmfns?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D"  target="_blank" class="get-directions">Get Directions</a>
                                 </div>
                             </div>
                         </div>
@@ -96,7 +99,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <!-- Right Side -->
                         <div class="col-lg-6">
                             <div class="contact-right">
-                                <h2 class="form-title">Send Us Your Enquiry</h2>
+                                <h2 class="form-title">Enquiry Form</h2>
 
                                 <?php if (!empty($error_message)): ?>
                                     <div class="alert alert-danger">
