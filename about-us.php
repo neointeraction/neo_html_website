@@ -3,17 +3,17 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path.'includes/favicon.php'; ?>
-    <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
+    <?php include $path . 'includes/favicon.php'; ?>
+    <?php include $path . 'includes/css.php'; ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>About Neointeraction Design | One of the top UI UX developer in India | Get a free quote now</title>
     <meta name="description"
         content="Looking for a skilled UI UX developer in India? Neointeraction's design team excels in UX UI design and front-end development for interactive applications." />
     <link rel="canonical" href="https://www.neointeraction.com/about-us" />
     <meta property="og:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
     <meta property="og:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />
-     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
-     <meta property="og:image:width" content="600" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
     <meta property="og:url" content="https://www.neointeraction.com/about-us" />
     <meta property="og:site_name" content="About Neointeraction Design" />
@@ -27,11 +27,11 @@
 
 <body>
     <?php $page = 'About Us'; ?>
-    <?php include $path.'includes/body-additional-scripts.php'; ?>
+    <?php include $path . 'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
-        <?php include $path.'components/navigation.php'; ?>
-        <?php include $path.'components/whatsapp.php'; ?>
+        <?php include $path . 'components/navigation.php'; ?>
+        <?php include $path . 'components/whatsapp.php'; ?>
     </div>
     <!-- navbar -- end  -->
     <!-- banner  -->
@@ -80,7 +80,7 @@
         <div class="container">
             <h2 class="section-title">Demo Video</h2>
             <div class="video-container section-margin">
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player" frameborder="0"
+                <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
                     allowfullscreen style="border-radius: 0;"></iframe>
             </div>
@@ -332,7 +332,7 @@
     </section>
     <!-- our-team - end  -->
     <!-- join-us  -->
-    <?php include $path.'components/join-our-team.php'; ?>
+    <?php include $path . 'components/join-our-team.php'; ?>
     <!-- join-us -- end  -->
     <!-- life-at-neo  -->
     <section class="life-at-neo section-padding">
@@ -340,7 +340,7 @@
             <h2 class="section-title">Life at Neointeraction</h2>
             <div class="project-slider-wrapper section-margin">
                 <div class="project-block life-at-neo-block">
-                    <?php include $path.'components/life-at-neo.php'; ?>
+                    <?php include $path . 'components/life-at-neo.php'; ?>
                 </div>
                 <div class="slick-navigation life-at-neo-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
@@ -355,11 +355,11 @@
     </section>
     <!-- browse-project -- end -->
     <?php include $path . 'components/registration-modal.php'; ?>
-    <?php include $path.'components/hire-designers-engineers.php'; ?>
-    <?php include $path.'components/faq.php'; ?>
-    <?php include $path.'components/footer.php'; ?>
-    <?php include $path.'includes/footer-additional-scripts.php'; ?>
-    <?php include $path.'includes/js.php'; ?>
+    <?php include $path . 'components/hire-designers-engineers.php'; ?>
+    <?php include $path . 'components/faq.php'; ?>
+    <?php include $path . 'components/footer.php'; ?>
+    <?php include $path . 'includes/footer-additional-scripts.php'; ?>
+    <?php include $path . 'includes/js.php'; ?>
 </body>
 
 </html>

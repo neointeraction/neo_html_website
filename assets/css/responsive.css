@@ -45,6 +45,7 @@
   .custom-card {
     margin: 0 0 20px 0;
     padding: 18px;
+    height: auto;
   }
   .bs-card-section {
     margin-top: 30px;
@@ -334,5 +335,8 @@
   }
   .project-tags {
     margin-top: 16px;
+  }
+  .video-iframe {
+    height: 260px;
   }
 }

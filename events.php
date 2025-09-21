@@ -213,7 +213,7 @@
             </h2>
             <p class="body-text">An in-depth workshop on breaking monoliths into scalable micro frontends, streamlining development, and enabling independent team deployments.</p>
             <div class="video-container section-margin ">
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player"
+                <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player"
                     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
@@ -227,7 +227,7 @@
             </h2>
             <p class="body-text">A hands-on session exploring user-centered design principles, practical tools, and real-world case studies to craft better digital experiences</p>
             <div class="video-container section-margin ">
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/6Y12RcoHwc4?si=y75cMFm8oaaivTfb" title="YouTube video player"
+                <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube.com/embed/6Y12RcoHwc4?si=y75cMFm8oaaivTfb" title="YouTube video player"
                     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
