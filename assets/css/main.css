@@ -730,6 +730,14 @@ body {
   background-color: #f6f6f6;
 }
 
+.card-body {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  /* height: 16px; */
+}
+
 .card-img-top {
   border-radius: 0;
   height: 200px;
@@ -740,12 +748,22 @@ body {
   font-weight: 400;
   font-size: 18px;
   color: #2b2828;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 2.5em; /* Adjust height to fit two lines of text */
 }
 
 .blog-card-text {
   font-weight: 400;
   font-size: 16px;
   color: #58595a;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
   margin-bottom: 0;
 }
 
@@ -920,7 +938,7 @@ body {
 
 .blog-quote-text {
   font-weight: 500;
-  font-size: 20px;
+  font-size: 18px;
   color: #2b2828;
   margin-bottom: 0;
 }
@@ -987,8 +1005,11 @@ body {
 }
 
 .project-bs-cards .custom-card {
-  min-height: 182px;
   margin: 20px auto 0 auto;
+}
+
+.project-bs-cards .row {
+  --bs-gutter-y: 1.5rem;
 }
 
 .project-bs-cards .custom-card .description {
@@ -1012,7 +1033,6 @@ body {
 }
 
 .solutions-help .custom-card {
-  min-height: 230px;
   margin: 20px auto 0 auto;
 }
 

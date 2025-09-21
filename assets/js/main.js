@@ -10,6 +10,7 @@ $(".testimonial-slider").slick({
   fade: true,
   cssEase: "linear",
   autoplay: true,
+  adaptiveHeight: true,
   responsive: [
     {
       breakpoint: 1024,
@@ -107,6 +108,7 @@ $(document).ready(function () {
     fade: true,
     cssEase: "linear",
     autoplay: true,
+    adaptiveHeight: true,
     responsive: [
       {
         breakpoint: 1024,

@@ -224,38 +224,38 @@
             <h2 class="section-title">What We Do</h2>
             <div class="what-we-do-block section-margin">
                 <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/star.svg" alt="star" />
                             <p class="wwd-text">Design Thinking is our Gene factor</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/check.svg" alt="check" />
                             <p class="wwd-text">Design for meaningful impact in lives</p>
                         </div>
 
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/doc.svg" alt="star" />
                             <p class="wwd-text">Business friendly engaging models </p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/like.svg" alt="like" />
                             <p class="wwd-text">Focused on functional designs</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/money.svg" alt="money" />
                             <p class="wwd-text">Designs with measurable ROI</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/click.svg" alt="click" />
                             <p class="wwd-text">Provides end to end design services</p>

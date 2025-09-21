@@ -1,41 +1,42 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
+
 <head>
   <title>AI Driven Healthcare Consultation Platform | Neointeraction Design</title>
-  <meta name="description" content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients."/>
-  <link rel="canonical" href="https://www.neointeraction.com/patient-consultation-ux"/>
-  <meta property="og:title" content="AI Driven Healthcare Consultation Platform | Neointeraction Design"/>
-  <meta property="og:description" content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients."/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
-  <meta property="og:image:width" content="2500"/>
-  <meta property="og:image:height" content="1330"/>
-  <meta property="og:url" content="https://www.neointeraction.com/patient-consultation-ux"/>
-  <meta property="og:site_name" content="Neointeraction Design"/>
-  <meta property="og:type" content="website"/>
-  <meta name="google-site-verification" content=""/>
-  <meta name="twitter:title" content="AI Driven Healthcare Consultation Platform | Neointeraction Design"/>
-  <meta name="twitter:description" content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients."/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
-  <meta name="twitter:card" content="summary"/>
+  <meta name="description" content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients." />
+  <link rel="canonical" href="https://www.neointeraction.com/patient-consultation-ux" />
+  <meta property="og:title" content="AI Driven Healthcare Consultation Platform | Neointeraction Design" />
+  <meta property="og:description" content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients." />
+  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+  <meta property="og:image:width" content="2500" />
+  <meta property="og:image:height" content="1330" />
+  <meta property="og:url" content="https://www.neointeraction.com/patient-consultation-ux" />
+  <meta property="og:site_name" content="Neointeraction Design" />
+  <meta property="og:type" content="website" />
+  <meta name="google-site-verification" content="" />
+  <meta name="twitter:title" content="AI Driven Healthcare Consultation Platform | Neointeraction Design" />
+  <meta name="twitter:description" content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients." />
+  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+  <meta name="twitter:card" content="summary" />
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-  <?php include $path.'includes/favicon.php'; ?>
-  <?php include $path.'includes/css.php'; ?>
-  <?php include $path.'includes/head-additional-scripts.php'; ?>
+  <?php include $path . 'includes/favicon.php'; ?>
+  <?php include $path . 'includes/css.php'; ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
-  <?php 
-    $page = 'Projects'; 
+  <?php
+  $page = 'Projects';
   ?>
-  <?php include $path.'includes/body-additional-scripts.php'; ?>
+  <?php include $path . 'includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
   <div class="navbar-container-block">
-    <?php include $path.'components/navigation.php'; ?>
-    <?php include $path.'components/whatsapp.php'; ?>
+    <?php include $path . 'components/navigation.php'; ?>
+    <?php include $path . 'components/whatsapp.php'; ?>
   </div>
   <!-- navbar -- end  -->
   <!-- banner  -->
-   <section class="banner section-padding">
+  <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
         AI Driven <span class="highlight">Healthcare Consultation Platform</span>
@@ -105,8 +106,9 @@
             </div>
             <div class="col-md-6">
               <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                <p class="project-body-text">Tricog is one of the world’s largest predictive healthcare analytics firms. Tricog leverages its deep medical and technical expertise, to provide Virtual Cardiology Services to remote clinics.
-                <br><br>The main challenges involved integrating AI for predicting healthcare analytics into the medical data, making sure that doctors and patients can talk securely, and creating a platform that's easy to use while having advanced features. Handling and showing data about patient progress and analysis in a way that doctors easily understand also makes the project challenging. To overcome these challenges, we need to be familiar with both medical and tech knowledge to provide live saving timely interventions.</p>
+              <p class="project-body-text">Tricog is one of the world’s largest predictive healthcare analytics firms. Tricog leverages its deep medical and technical expertise, to provide Virtual Cardiology Services to remote clinics.
+                <br><br>The main challenges involved integrating AI for predicting healthcare analytics into the medical data, making sure that doctors and patients can talk securely, and creating a platform that's easy to use while having advanced features. Handling and showing data about patient progress and analysis in a way that doctors easily understand also makes the project challenging. To overcome these challenges, we need to be familiar with both medical and tech knowledge to provide live saving timely interventions.
+              </p>
             </div>
           </div>
         </div>
@@ -116,7 +118,7 @@
           <p class="project-body-text">We assisted the client in strategizing and developing a product based on their requirements, as well as some of our design recommendations that assist the target user by conducting,</p>
 
           <div class="bs-card-section project-bs-cards">
-            <div class="row justify-content-center">
+            <div class="row">
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
@@ -223,7 +225,7 @@
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v4.jpeg" alt="ui-update" />
           </div>
-            <div class="bs-img">
+          <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v2.jpeg" alt="ui-update" />
           </div>
         </div>
@@ -273,9 +275,9 @@
   </div>
 
   <!-- banner -- end  -->
-    <?php include $path.'components/footer.php'; ?>
-    <?php include $path.'includes/footer-additional-scripts.php'; ?>
-    <?php include $path.'includes/js.php'; ?>
+  <?php include $path . 'components/footer.php'; ?>
+  <?php include $path . 'includes/footer-additional-scripts.php'; ?>
+  <?php include $path . 'includes/js.php'; ?>
 </body>
 
 </html>

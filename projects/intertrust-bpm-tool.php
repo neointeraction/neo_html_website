@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
+
 <head>
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <?php include $path . 'includes/favicon.php'; ?>
@@ -25,14 +26,14 @@
 </head>
 
 <body>
-  <?php 
-    $page = 'Projects'; 
+  <?php
+  $page = 'Projects';
   ?>
-  <?php include $path.'includes/body-additional-scripts.php'; ?>
+  <?php include $path . 'includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
   <div class="navbar-container-block">
-    <?php include $path.'components/navigation.php'; ?>
-    <?php include $path.'components/whatsapp.php'; ?>
+    <?php include $path . 'components/navigation.php'; ?>
+    <?php include $path . 'components/whatsapp.php'; ?>
   </div>
   <!-- navbar -- end  -->
   <!-- banner  -->
@@ -116,7 +117,7 @@
           <p class="project-body-text">Addressing critical issues while ensuring a seamless and effective design experience led to the digital transformation for Promo</p>
 
           <div class="bs-card-section project-bs-cards">
-            <div class="row justify-content-center">
+            <div class="row ">
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
@@ -182,7 +183,7 @@
             Download case study
           </button>
           <div class="bs-card-section project-bs-cards">
-            <div class="row justify-content-center">
+            <div class="row ">
               <!-- Card 1 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
@@ -285,9 +286,9 @@
   </div>
 
   <!-- banner -- end  -->
-    <?php include $path.'components/footer.php'; ?>
-    <?php include $path.'includes/footer-additional-scripts.php'; ?>
-    <?php include $path.'includes/js.php'; ?>
+  <?php include $path . 'components/footer.php'; ?>
+  <?php include $path . 'includes/footer-additional-scripts.php'; ?>
+  <?php include $path . 'includes/js.php'; ?>
 </body>
 
 </html>

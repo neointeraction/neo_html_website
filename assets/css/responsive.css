@@ -48,7 +48,7 @@
     height: auto;
   }
   .bs-card-section {
-    margin-top: 30px;
+    margin-top: 0;
   }
 
   .accordion-button {
@@ -137,10 +137,10 @@
     font-size: 18px;
   }
   .btn-custom-secondary {
-    padding: 8px 22px;
+    padding: 8px 10px;
   }
   .btn-custom {
-    padding: 8px 22px;
+    padding: 8px 10px;
   }
   .blog-card .card-body {
     padding-bottom: 0;
@@ -287,6 +287,10 @@
   }
   .dev-cycle-block {
     margin-bottom: 24px;
+    height: auto;
+    height: auto;
+    width: 80%;
+    margin: auto auto 24px auto;
   }
   .contact-info {
     margin-top: 24px;
@@ -338,5 +342,27 @@
   }
   .video-iframe {
     height: 260px;
+  }
+  .experience-block {
+    margin-top: 16px;
+  }
+  .services-bs-card-section .custom-card {
+    margin-bottom: 0;
+  }
+  .em-btn {
+    margin-top: 16px;
+  }
+  .services-bs-card-section .custom-card .title {
+    font-size: 22px;
+  }
+  .icon-container img {
+    width: 46px;
+  }
+  .custom-card.mb-0 {
+    margin-bottom: 24px !important;
+  }
+  .card-body {
+    display: block;
+    height: auto;
   }
 }

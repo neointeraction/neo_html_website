@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path.'includes/favicon.php'; ?>
-    <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
+    <?php include $path . 'includes/favicon.php'; ?>
+    <?php include $path . 'includes/css.php'; ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
@@ -26,7 +26,7 @@
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
-       </head>
+</head>
 
 <body>
     <?php $page = 'Blogs'; ?>
@@ -40,7 +40,7 @@
         "ai-everyday-users-designing-seamless-integration",
         "design-hybrid-workforce-model",
         "design-systems-scalable-digital-products",
-        "mobile-first-design-responsive-web-development", 
+        "mobile-first-design-responsive-web-development",
         "user-research-methods-better-ux-insights",
         "accessibility-inclusive-design-principles",
         "microinteractions-enhance-user-engagement",
@@ -249,7 +249,7 @@
     </section>
     <!-- banner -- end  -->
     <!-- browse-project  -->
-    <section class="browse-project section-padding mb-5">
+    <section class="browse-project section-padding">
         <div class="container">
             <div class="project-block">
                 <div class="project-block-item">
@@ -307,11 +307,11 @@
                     ?>
                         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                             <a href="blog.php?slug=<?php echo urlencode($blog_slug); ?>" class="blog-anchor">
-                                <div class="blog-card h-100">
-                                    <img src="<?php echo htmlspecialchars($metadata['image']); ?>" 
-                                         class="card-img-top" 
-                                         alt="<?php echo htmlspecialchars($metadata['alt']); ?>"
-                                         onerror="this.src='assets/images/temp/blog.png'">
+                                <div class="blog-card">
+                                    <img src="<?php echo htmlspecialchars($metadata['image']); ?>"
+                                        class="card-img-top"
+                                        alt="<?php echo htmlspecialchars($metadata['alt']); ?>"
+                                        onerror="this.src='assets/images/temp/blog.png'">
                                     <div class="card-body">
                                         <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
                                         <p class="blog-card-text">
@@ -340,22 +340,22 @@
 
     <!-- JavaScript for Load More functionality - ONLY CHANGED THE LINKING PART -->
     <script>
-    let currentIndex = <?php echo $items_per_page; ?>;
-    const loadMoreCount = <?php echo $load_more_count; ?>;
-    const totalBlogs = <?php echo count($news_list); ?>;
-    
-    const blogData = <?php echo json_encode(array_map(function($blog_slug) use ($blog_metadata) {
-        return array(
-            'slug' => $blog_slug, // Changed from 'file' to 'slug'
-            'metadata' => isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
-                "title" => "Insightful Blog Post About Design and Development",
-                "author" => "Design Team", 
-                "date" => "Recently",
-                "image" => "assets/images/temp/blog.png",
-                "alt" => "Blog Image"
-            )
-        );
-    }, $news_list)); ?>;
+        let currentIndex = <?php echo $items_per_page; ?>;
+        const loadMoreCount = <?php echo $load_more_count; ?>;
+        const totalBlogs = <?php echo count($news_list); ?>;
+
+        const blogData = <?php echo json_encode(array_map(function ($blog_slug) use ($blog_metadata) {
+                                return array(
+                                    'slug' => $blog_slug, // Changed from 'file' to 'slug'
+                                    'metadata' => isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
+                                        "title" => "Insightful Blog Post About Design and Development",
+                                        "author" => "Design Team",
+                                        "date" => "Recently",
+                                        "image" => "assets/images/temp/blog.png",
+                                        "alt" => "Blog Image"
+                                    )
+                                );
+                            }, $news_list)); ?>;
 
         function loadMoreBlogs() {
             const container = document.getElementById('blog-container');

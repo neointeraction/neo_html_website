@@ -3,15 +3,15 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path.'includes/favicon.php'; ?>
-    <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>   
+    <?php include $path . 'includes/favicon.php'; ?>
+    <?php include $path . 'includes/css.php'; ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UI UX Design Services in India | UI UX Design Studio | Neointeraction Design</title>
     <meta name="description" content="Neointeraction Design provides UI UX design services in India. Hire our experienced team for Product Design, UX UI Consultancy and implement a Design System." />
     <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-services" />
     <meta property="og:title" content="Trusted UI UX Design services in India | Neointeraction Design" />
     <meta property="og:description" content="Looking for professional UI UX design services in India? Our dedicated designers deliver innovative solutions to optimize user interaction and boost your brand's online performance." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg"/>
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" />
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
     <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-services" />
@@ -27,13 +27,13 @@
 
 <body>
 
-    <?php 
-        $page = 'Services'; 
-        include $path.'includes/body-additional-scripts.php'; ?>
+    <?php
+    $page = 'Services';
+    include $path . 'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
-        <?php include $path.'components/navigation.php'; ?>
-        <?php include $path.'components/whatsapp.php'; ?>
+        <?php include $path . 'components/navigation.php'; ?>
+        <?php include $path . 'components/whatsapp.php'; ?>
     </div>
     <!-- navbar -- end  -->
     <!-- banner  -->
@@ -193,10 +193,9 @@
                                     <img
                                         src="<?php echo $path; ?>assets/images/services/resource-augmentation.jpeg"
                                         alt="Resource Augmentation"
-                                        class="img-fluid project-image" 
+                                        class="img-fluid project-image"
                                         width="100%"
-                                        height="auto"
-                                        />
+                                        height="auto" />
                                 </div>
                                 <div
                                     class="col-lg-6 d-flex flex-column justify-content-center project-content">
@@ -226,10 +225,9 @@
                                     <img
                                         src="<?php echo $path; ?>assets/images/services/team-based-hiring.jpeg"
                                         alt="Team-Based Hiring"
-                                        class="img-fluid project-image" 
+                                        class="img-fluid project-image"
                                         width="100%"
-                                        height="auto"
-                                        />
+                                        height="auto" />
                                 </div>
                                 <div
                                     class="col-lg-6 d-flex flex-column justify-content-center project-content">
@@ -328,14 +326,14 @@
             <p class="body-text">Neointeraction Design is an expert frontend development company in India that specialize in implementing pixel-perfect UI designs across diverse industries, driving successful outcomes for enterprise solutions, startup ventures, and B2C products enhancing user experiences and boosts business performance.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
                             <h4 class="wwd-title">Online Banking</h4>
                             <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and secure transactions.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="cm" />
                             <h4 class="wwd-title">Capital Market</h4>
@@ -343,42 +341,42 @@
                         </div>
 
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="healthcare" />
                             <h4 class="wwd-title">Healthcare</h4>
                             <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="iot" />
                             <h4 class="wwd-title">IoT</h4>
                             <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="th" />
                             <h4 class="wwd-title">Travel and Hospitality</h4>
                             <p class="wwd-text">Crafting memorable customer digital journeys, from booking to exploration, for unforgettable experiences.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
                             <h4 class="wwd-title">Enterprise Solutions</h4>
                             <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
                             <h4 class="wwd-title">Startup Ventures</h4>
                             <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
                             <h4 class="wwd-title">B2C</h4>
