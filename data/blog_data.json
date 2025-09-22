@@ -57,6 +57,56 @@
       "image": "assets/images/blog/how-gmail-ui/image1.jpg",
       "alt": "How Gmail's UX Design makes email management better"
     },
+    "how-to-bring-a-unified-frontend-experience-for-all-our-products": {
+      "title": "How to bring a unified frontend experience for all our products",
+      "author": "Aditya Sharma",
+      "date": "Jul 17, 2024",
+      "image": "assets/images/blog/how-to-bring-unified/image1.jpg",
+      "alt": "How to bring a unified frontend experience for all our products"
+    },
+    "top-5-frontend-development-trends-of-2024": {
+      "title": "Top 5 frontend development trends of 2024",
+      "author": "Aditya Sharma",
+      "date": "Jul 12, 2024",
+      "image": "assets/images/blog/top-frontend-trends/image1.jpg",
+      "alt": "Top 5 frontend development trends of 2024"
+    },
+    "voice-interface-design-enhancing-user-interaction-in-a-voice-first-world":{
+      "title": "Voice Interface Design: Enhancing User Interaction in a Voice-First World",
+      "author": "Vanessa Lobo",
+      "date": "Jul 19, 2024",
+      "image": "assets/images/blog/voice-interface-design/image1.jpg",
+      "alt": "Voice Interface Design: Enhancing User Interaction in a Voice-First World"
+    },
+    "the-impact-of-color-in-branding":{
+      "title": "The Impact of Color in Branding",
+      "author": "Sahla Feroc",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/impact-of-color/image1.jpg",
+      "alt": "The Impact of Color in Branding"
+    },
+    "adobe-buys-figma-is-this-a-positive-or-negative-development":{
+      "title": "Adobe Buys Figma: Is this a positive or negative development?",
+      "author": "Ashutosh Shakya",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/adobe-buys-figma/image1.jpg",
+      "alt": "Adobe Buys Figma: Is this a positive or negative development?"
+    },
+    "how-bumble-s-diverse-connection-modes-boost-user-engagement-and-retention":{
+      "title": "How Bumble's Diverse Connection Modes Boost User Engagement and Retention",
+      "author": "Sakshi Patil",
+      "date": "Sept 11, 2024",
+      "image": "assets/images/blog/how-bumble-diverse/image1.jpg",
+      "alt": "How Bumble's Diverse Connection Modes Boost User Engagement and Retention"
+    },
+    "interaction-design-what-is-it-and-why-is-it-important":{
+      "title": "Interaction design: what is it and why is it important?",
+      "author": "Sebin George",
+      "date": "May 8, 2024",
+      "image": "assets/images/blog/interaction-design/image1.jpg",
+      "alt": "Interaction design: what is it and why is it important?"
+    },
+
     "what-you-need-to-know-about-vr-interaction-design": {
       "title": "What You Need To Know About VR Interaction Design",
       "author": "UX Research Team",
