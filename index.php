@@ -48,7 +48,7 @@
                                 <h1 class="banner-title">
                                     Award winning <span class="highlight">Ux Agency</span>
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
@@ -70,7 +70,7 @@
                                 <h1 class="banner-title">
                                     Make tech products <span class="highlight">more human</span>
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
@@ -94,7 +94,7 @@
                                 <h1 class="banner-title">
                                     AI-Powered Design. <span class="highlight">Human-Centered</span> Results.
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
@@ -116,7 +116,7 @@
                                 <h1 class="banner-title">
                                     Design With Purpose. <span class="highlight">Build With Precision</span>.
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
@@ -150,7 +150,7 @@
                             <p class="description">
                                 Delivering seamless experiences that speak louder than words.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -166,7 +166,7 @@
                             <p class="description">
                                 Shaping ideas into tangible user centric design solutions
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Product Design" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -182,7 +182,7 @@
                                 Crafting revolutionary aesthetics that redefine user
                                 interaction.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Digital Transformation" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -198,7 +198,7 @@
                                 Bridging creativity and code for pixel-perfect user
                                 interfaces.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Frontend Development" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -243,7 +243,7 @@
     <section class="clients section-padding">
         <div class="container">
             <h2 class="section-title">
-                Clients we’ve partnered with
+                Clients we've partnered with
             </h2>
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
@@ -345,6 +345,7 @@
         </div>
     </section>
     <!-- recent-blogs - end  -->
+    
     <?php include $path . 'components/submit-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path . 'components/faq.php'; ?>
@@ -352,6 +353,49 @@
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>
+
+    <!-- Button tracking script - loads only once -->
+    <script>
+    (function() {
+        'use strict';
+        
+        let buttonTrackingInitialized = false;
+
+        function initializeButtonTracking() {
+            if (buttonTrackingInitialized) {
+                return;
+            }
+            
+            buttonTrackingInitialized = true;
+
+            // Handle "Book A Consultation" buttons
+            const consultationBtns = document.querySelectorAll('.consultation-btn');
+            consultationBtns.forEach(btn => {
+                btn.addEventListener('click', function(e) {
+                    localStorage.setItem('enquiryType', 'Book A Consultation');
+                    console.log('Set enquiry type: Book A Consultation');
+                });
+            });
+
+            // Handle "Hire Us" buttons
+            const hireUsBtns = document.querySelectorAll('.hire-us-btn');
+            hireUsBtns.forEach(btn => {
+                btn.addEventListener('click', function(e) {
+                    const service = this.getAttribute('data-service') || 'General Service';
+                    localStorage.setItem('enquiryType', `Hire Us - ${service}`);
+                    console.log(`Set enquiry type: Hire Us - ${service}`);
+                });
+            });
+        }
+
+        // Initialize when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initializeButtonTracking);
+        } else {
+            initializeButtonTracking();
+        }
+    })();
+    </script>
 </body>
 
 </html>

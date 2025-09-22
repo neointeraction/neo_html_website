@@ -279,6 +279,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const email = emailInput.value.trim();
 
+
       if (!email) {
         status.innerHTML =
           '<small class="text-danger">Please enter your email</small>';
@@ -291,10 +292,9 @@ document.addEventListener("DOMContentLoaded", function () {
       // Google Form submission
       const GOOGLE_FORM_URL =
         "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
-      const GOOGLE_FORM_EMAIL_FIELD = "entry.1195398138"; // Replace with actual entry ID
 
       const formData = new FormData();
-      formData.append(GOOGLE_FORM_EMAIL_FIELD, email);
+      formData.append("entry.1195398138", email);
       formData.append("entry.873621461", `Case Study - ${currentCaseType}`);
       formData.append("entry.894386", new Date().toISOString());
 

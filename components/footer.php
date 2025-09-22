@@ -108,6 +108,8 @@
 
         const email = emailInput.value.trim();
 
+        console.log(email)
+
         if (!email) {
           status.innerHTML = '<small class="text-danger">Please enter your email</small>';
           return;
@@ -118,10 +120,9 @@
 
         // Google Form submission
         const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
-        const GOOGLE_FORM_EMAIL_FIELD = "YOUR_TIMESTAMP_FIELD.1195398138"; // Replace with actual entry ID
 
         const formData = new FormData();
-        formData.append(GOOGLE_FORM_EMAIL_FIELD, email);
+        formData.append("entry.1195398138", email);
         formData.append("entry.873621461", "Newsletter"); // Optional
         formData.append("entry.894386", new Date().toISOString()); // Optional
 
