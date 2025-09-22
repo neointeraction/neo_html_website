@@ -1,65 +1,15 @@
 <?php
     $rootPath = "blog/";
     $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2);
-    $news_list = array(
-        "composable-business-ux-design-secure-better-user-experiences",
-        "vr-interaction-design-immersive-experiences",
-        "boost-ux-security-better-results",
-        "ai-everyday-users-designing-seamless-integration",
-        "design-hybrid-workforce-model",
-        "design-systems-scalable-digital-products",
-        "mobile-first-design-responsive-web-development", 
-        "user-research-methods-better-ux-insights",
-        "accessibility-inclusive-design-principles",
-        "microinteractions-enhance-user-engagement",
-        "design-thinking-process-innovation",
-        "color-psychology-ui-design",
-        "typography-web-design-best-practices",
-        "ux-writing-conversational-interfaces",
-        "design-trends-2025-digital-experiences",
-        "prototyping-tools-ux-designers",
-        "user-testing-validation-methods",
-        "information-architecture-website-design",
-        "visual-hierarchy-effective-layouts",
-        "cross-platform-design-consistency",
-        "animation-micro-interactions-web",
-        "dashboard-design-data-visualization",
-        "ecommerce-ux-conversion-optimization"
 
-    );
+    // Load blog data from JSON file
+    $blog_data_json = file_get_contents($path . 'data/blog_data.json');
+    $blog_data = json_decode($blog_data_json, true);
 
-    // Blog metadata with Neointeraction content - FULL 23 BLOGS DATA
-    $blog_metadata = array(
-        "composable-business-ux-design-secure-better-user-experiences" => array(
-            "title" => "Composable Business: How UX Design Secure Better User Experiences",
-            "author" => "Neointeraction Design Team",
-            "date" => "2 weeks ago",
-            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
-            "alt" => "Composable Business UX Design"
-        ),
-        "vr-interaction-design-immersive-experiences" => array(
-            "title" => "What You Need To Know About VR Interaction Design For Immersive Experiences",
-            "author" => "UX Research Team",
-            "date" => "3 weeks ago",
-            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
-            "alt" => "VR Interaction Design"
-        ),
-        "boost-ux-security-better-results" => array(
-            "title" => "How To Boost UX Security And See Better Results",
-            "author" => "Security UX Team",
-            "date" => "1 month ago",
-            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
-            "alt" => "UX Security Design"
-        ),
-        "ai-everyday-users-designing-seamless-integration" => array(
-            "title" => "AI for Everyday Users: Designing for Seamless AI Integration",
-            "author" => "AI UX Specialists",
-            "date" => "1 month ago",
-            "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
-            "alt" => "AI UX Integration"
-        )
-    );
-   // Pagination variables
+    $blog_metadata = $blog_data['blog_metadata'];
+    $news_list = array_keys($blog_metadata);
+
+    // Pagination variables
     $items_per_page = 4; // Show 8 items initially (2 rows of 4)
     $load_more_count = 4; // Load 4 more items each time
 ?>
