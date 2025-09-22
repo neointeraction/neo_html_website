@@ -1,7 +1,6 @@
 {
   "featured_blog_slug": "effective-communication-with-clients-and-5-ways-to-improve-it",
   "blog_metadata": {
-  
     "effective-communication-with-clients-and-5-ways-to-improve-it": {
       "title": "Effective Communication with clients and 5 ways to improve it",
       "author": "E-commerce UX Team",
@@ -36,6 +35,27 @@
       "date": "10 months ago",
       "image": "assets/images/blog/what-is-design-thinking/image1.jpg",
       "alt": "UX Design"
+    },
+    "effective-ux-audit-and-website-redesign-to-boost-ux-for-lic": {
+      "title": "Effective UX Audit and Website Redesign to boost UX for LIC",
+      "author": "Thirunavukkarasu Lakshumanan",
+      "date": "10 months ago",
+      "image": "assets/images/blog/effective-ux-audit/image1.jpg",
+      "alt": "Effective UX Audit and Website Redesign to boost UX for LIC"
+    },
+    "maximizing-efficiency-with-ai-powered-ux-audits-the-future-of-saas-product-optimization": {
+      "title": "The Ultimate Guide To AI UX Audits: Empower SaaS Product",
+      "author": "Sahla Feroc",
+      "date": "Oct 17, 2024",
+      "image": "assets/images/blog/maximizing-efficiency/image1.jpg",
+      "alt": "Maximizing Effiency with AI UX Audits"
+    },
+    "how-gmail-s-ux-design-makes-email-management-better": {
+      "title": "How Gmail's UX Design makes email management better",
+      "author": "Vanessa Lobo",
+      "date": "Nov 6, 2024",
+      "image": "assets/images/blog/how-gmail-ui/image1.jpg",
+      "alt": "How Gmail's UX Design makes email management better"
     },
     "what-you-need-to-know-about-vr-interaction-design": {
       "title": "What You Need To Know About VR Interaction Design",
