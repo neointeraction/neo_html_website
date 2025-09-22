@@ -2,37 +2,38 @@
 <html class="no-js" lang="en">
 
 <head>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/favicon.php'; ?>
+    <?php include $path . 'includes/css.php'; ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UI UX Design Services in India | UI UX Design Studio | Neointeraction Design</title>
     <meta name="description" content="Neointeraction Design provides UI UX design services in India. Hire our experienced team for Product Design, UX UI Consultancy and implement a Design System." />
     <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-services" />
     <meta property="og:title" content="Trusted UI UX Design services in India | Neointeraction Design" />
     <meta property="og:description" content="Looking for professional UI UX design services in India? Our dedicated designers deliver innovative solutions to optimize user interaction and boost your brand's online performance." />
-    <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" />
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
     <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-services" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Trusted UI UX Design services in India | Neointeraction Design" />
-    <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_98ecb8ad5d6e4103af469aede79b15d5~mv2.png" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" />
     <meta name="twitter:description" content="Looking for professional UI UX design services in India? Our dedicated designers deliver innovative solutions to optimize user interaction and boost your brand's online performance." />
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path.'includes/favicon.php'; ?>
-    <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
+
 </head>
 
 <body>
 
-    <?php 
-        $page = 'Services'; 
-        include $path.'includes/body-additional-scripts.php'; ?>
+    <?php
+    $page = 'Services';
+    include $path . 'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
-        <?php include $path.'components/navigation.php'; ?>
-        <?php include $path.'components/whatsapp.php'; ?>
+        <?php include $path . 'components/navigation.php'; ?>
+        <?php include $path . 'components/whatsapp.php'; ?>
     </div>
     <!-- navbar -- end  -->
     <!-- banner  -->
@@ -43,7 +44,7 @@
                     Design shaping <span class="highlight">digital experiences</span>
                 </h1>
                 <div class="experience-block">
-                    <button class="btn btn-custom btn-custom-secondary">
+                    <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                         Book A Consultation
                     </button>
                     <p class="banner-subtext">Neointeraction UX UI design agency with 15 years of expertise, has collaborated with various industry sectors and provided UX design & Frontend development services for business enterprises & startups to achieve their business goals.</p>
@@ -81,7 +82,7 @@
             <div class="bs-card-section services-bs-card-section">
                 <div class="row justify-content-center">
                     <!-- Card 1 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-6 mb-4">
                         <div class="custom-card">
                             <div class="icon-container">
                                 <img src="<?php echo $path; ?>assets/images/ux.svg" alt="ux" />
@@ -98,13 +99,13 @@
                                 <span class="badge">User Research</span>
                                 <span class="badge">Wireframing</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
                     </div>
                     <!-- Card 2 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-6 mb-4">
                         <div class="custom-card">
                             <div class="icon-container">
                                 <img src="<?php echo $path; ?>assets/images/pd.svg" alt="pd" />
@@ -121,7 +122,7 @@
                                 <span class="badge">Rapid Prototyping</span>
                                 <span class="badge">Rapid Prototyping</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -143,7 +144,7 @@
                                 <span class="badge">Design Documentation</span>
                                 <span class="badge">UX and UI Mastery</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -164,7 +165,7 @@
                                 <span class="badge">Dynamic React Component Construction</span>
                                 <span class="badge">Crafting Interactive User Journeys</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -192,10 +193,9 @@
                                     <img
                                         src="<?php echo $path; ?>assets/images/services/resource-augmentation.jpeg"
                                         alt="Resource Augmentation"
-                                        class="img-fluid project-image" 
+                                        class="img-fluid project-image"
                                         width="100%"
-                                        height="auto"
-                                        />
+                                        height="auto" />
                                 </div>
                                 <div
                                     class="col-lg-6 d-flex flex-column justify-content-center project-content">
@@ -209,7 +209,7 @@
                                         <li>Dedicated team collaboration fosters creativity</li>
                                         <li>Singular point of contact for streamlined communication</li>
                                     </ul>
-                                    <button class="btn btn-custom btn-custom-secondary em-btn">
+                                    <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                         Submit Enquiry
                                     </button>
                                 </div>
@@ -225,10 +225,9 @@
                                     <img
                                         src="<?php echo $path; ?>assets/images/services/team-based-hiring.jpeg"
                                         alt="Team-Based Hiring"
-                                        class="img-fluid project-image" 
+                                        class="img-fluid project-image"
                                         width="100%"
-                                        height="auto"
-                                        />
+                                        height="auto" />
                                 </div>
                                 <div
                                     class="col-lg-6 d-flex flex-column justify-content-center project-content">
@@ -242,7 +241,7 @@
                                         <li>Dedicated team collaboration fosters creativity</li>
                                         <li>Singular point of contact for streamlined communication</li>
                                     </ul>
-                                    <button class="btn btn-custom btn-custom-secondary em-btn">
+                                    <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                         Submit Enquiry
                                     </button>
                                 </div>
@@ -327,14 +326,14 @@
             <p class="body-text">Neointeraction Design is an expert frontend development company in India that specialize in implementing pixel-perfect UI designs across diverse industries, driving successful outcomes for enterprise solutions, startup ventures, and B2C products enhancing user experiences and boosts business performance.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
                             <h4 class="wwd-title">Online Banking</h4>
                             <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and secure transactions.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="cm" />
                             <h4 class="wwd-title">Capital Market</h4>
@@ -342,42 +341,42 @@
                         </div>
 
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="healthcare" />
                             <h4 class="wwd-title">Healthcare</h4>
                             <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="iot" />
                             <h4 class="wwd-title">IoT</h4>
                             <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="th" />
                             <h4 class="wwd-title">Travel and Hospitality</h4>
                             <p class="wwd-text">Crafting memorable customer digital journeys, from booking to exploration, for unforgettable experiences.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
                             <h4 class="wwd-title">Enterprise Solutions</h4>
                             <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
                             <h4 class="wwd-title">Startup Ventures</h4>
                             <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
                             <h4 class="wwd-title">B2C</h4>
@@ -389,6 +388,7 @@
         </div>
     </section>
     <!-- industry-experience -- end -->
+    <?php include $path . 'components/registration-modal.php'; ?>
     <?php include 'components/faq.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>

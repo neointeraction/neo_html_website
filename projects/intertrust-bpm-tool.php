@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
+
 <head>
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <?php include $path . 'includes/favicon.php'; ?>
@@ -17,7 +18,7 @@
   <meta property="og:url" content="<?php echo $base_url; ?>bpm-redesign-project" />
   <meta property="og:site_name" content="Neointeraction Design" />
   <meta property="og:type" content="website" />
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+  <meta name="google-site-verification" content="" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Intertrust BPM Tool | Neointeraction design | Contact Now" />
   <meta name="twitter:description" content="Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making organizational processes better." />
@@ -25,14 +26,14 @@
 </head>
 
 <body>
-  <?php 
-    $page = 'Projects'; 
+  <?php
+  $page = 'Projects';
   ?>
-  <?php include $path.'includes/body-additional-scripts.php'; ?>
+  <?php include $path . 'includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
   <div class="navbar-container-block">
-    <?php include $path.'components/navigation.php'; ?>
-    <?php include $path.'components/whatsapp.php'; ?>
+    <?php include $path . 'components/navigation.php'; ?>
+    <?php include $path . 'components/whatsapp.php'; ?>
   </div>
   <!-- navbar -- end  -->
   <!-- banner  -->
@@ -116,7 +117,7 @@
           <p class="project-body-text">Addressing critical issues while ensuring a seamless and effective design experience led to the digital transformation for Promo</p>
 
           <div class="bs-card-section project-bs-cards">
-            <div class="row justify-content-center">
+            <div class="row ">
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
@@ -182,11 +183,11 @@
             Download case study
           </button>
           <div class="bs-card-section project-bs-cards">
-            <div class="row justify-content-center">
+            <div class="row ">
               <!-- Card 1 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card case-study-card">
+                <div class="custom-card-white case-study-card">
                   <h4 class="title">Streamlined Workflows</h4>
                   <p class="description">
                     Simplified processes enabled users to complete tasks faster and more successfully, enhancing overall workflow efficiency.
@@ -198,7 +199,7 @@
               <!-- Card 2 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card case-study-card">
+                <div class="custom-card-white case-study-card">
                   <h4 class="title">Focused User Concentration</h4>
                   <p class="description">
                     Removal of unnecessary data reduced distractions, allowing users to maintain focus on critical and significant activities.
@@ -210,7 +211,7 @@
               <!-- Card 3 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card case-study-card">
+                <div class="custom-card-white case-study-card">
                   <h4 class="title">Intuitive Data Interpretation</h4>
                   <p class="description">
                     Utilization of colors, typefaces, tooltips, and UI features improved data interpretation, making it easier for users to distinguish and understand information.
@@ -222,7 +223,7 @@
               <!-- Card 4 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card case-study-card">
+                <div class="custom-card-white case-study-card">
                   <h4 class="title">Step-by-Step Methodology</h4>
                   <p class="description">
                     The majority of workflows were broken down into a step-by-step method that allowed users to feel confident in completing a difficult activity.
@@ -285,9 +286,9 @@
   </div>
 
   <!-- banner -- end  -->
-    <?php include $path.'components/footer.php'; ?>
-    <?php include $path.'includes/footer-additional-scripts.php'; ?>
-    <?php include $path.'includes/js.php'; ?>
+  <?php include $path . 'components/footer.php'; ?>
+  <?php include $path . 'includes/footer-additional-scripts.php'; ?>
+  <?php include $path . 'includes/js.php'; ?>
 </body>
 
 </html>

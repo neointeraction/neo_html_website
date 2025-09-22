@@ -138,7 +138,7 @@
                     class="col-lg-6 d-flex flex-column  project-content">
                     <h2 class="project-title">Workshop Sessions</h2>
                     <p class="project-description">
-                        Elevating our skillsets through diverse ux design & frontend development workshops, both internal and external, fostering collaboration between team members and external experts to bridge the gap between design and business goals.
+                        Enhancing our skills through UX and frontend workshops, fostering collaboration to bridge design and business goals
                     </p>
                 </div>
             </div>

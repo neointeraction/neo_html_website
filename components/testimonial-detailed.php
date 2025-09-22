@@ -1,253 +1,70 @@
-  <section class="testimonials section-padding">
+<section class="testimonials section-padding">
     <div class="container">
-      <h2 class="section-title">What our Clients say about us</h2>
-      <div class="testimonial-slider-block">
-        <div class="testimonial-slider" id="testimonial-web">
-          <div class="tc-item-flex">
-            <div class="testimonial-card">
-              <div class="testimonial-logo">
-                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
-              </div>
-              <div class="quote-icon"></div>
-              <div class="testimonial-text">
-                They had the expertise to provide out-of-the-box ideas
-                throughout the project
-              </div>
-              <div class="author-info">
-                <img
-                  src="https://placehold.co/60x60/808080/FFFFFF?text=S.M"
-                  alt="Jacob Varghese"
-                  class="author-image" />
-                <div class="author-details">
-                  <span class="author-name">Sameer Mathur </span>
-                  <span class="author-title">Senior VP at Tricog Health
-                  </span>
-                </div>
-              </div>
-              <div class="testimonial-action">
-                <button class="btn btn-custom btn-custom-secondary">
-                  Take me to project details
-                </button>
-              </div>
+        <h2 class="section-title">What our Clients say about us</h2>
+        <div class="testimonial-slider-block">
+            <?php
+            $json_data = file_get_contents('data/testimonials.json');
+            $testimonials = json_decode($json_data, true);
+            ?>
+            <div class="testimonial-slider" id="testimonial-web">
+                <?php
+                $testimonial_chunks = array_chunk($testimonials, 2);
+                foreach ($testimonial_chunks as $chunk) {
+                    echo '<div class="tc-item-flex">';
+                    foreach ($chunk as $testimonial) {
+                ?>
+                        <div class="testimonial-card">
+                            <div class="testimonial-logo">
+                                <img src="<?php echo $testimonial['logo']; ?>" alt="<?php echo $testimonial['alt']; ?>" />
+                            </div>
+                            <div class="quote-icon"></div>
+                            <div class="testimonial-text">
+                                <?php echo $testimonial['quote']; ?>
+                            </div>
+                            <div class="author-info">
+                                <img src="<?php echo $testimonial['author_image']; ?>" alt="<?php echo $testimonial['author_name']; ?>" class="author-image" />
+                                <div class="author-details">
+                                    <span class="author-name"><?php echo $testimonial['author_name']; ?></span>
+                                    <span class="author-title"><?php echo $testimonial['author_title']; ?></span>
+                                </div>
+                            </div>
+                            <div class="testimonial-action">
+                                <a href="<?php echo $path . $testimonial['project_link']; ?>" class="btn btn-custom btn-custom-secondary">
+                                    Take me to project details
+                                </a>
+                            </div>
+                        </div>
+                <?php
+                    }
+                    echo '</div>';
+                }
+                ?>
             </div>
-            <div class="testimonial-card">
-              <div class="testimonial-logo">
-                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
-              </div>
-              <div class="quote-icon"></div>
-              <div class="testimonial-text">
-                We were most impressed with their commitment to the project.
-              </div>
-              <div class="author-info">
-                <img
-                  src="https://placehold.co/60x60/808080/FFFFFF?text=J.V"
-                  alt="Jacob Varghese"
-                  class="author-image" />
-                <div class="author-details">
-                  <span class="author-name">Jacob Varghese</span>
-                  <span class="author-title">Director at Noctil</span>
-                </div>
-              </div>
-              <div class="testimonial-action">
-                <button class="btn btn-custom btn-custom-secondary">
-                  Take me to project details
-                </button>
-              </div>
+            <div class="testimonial-slider" id="testimonial-mob">
+                <?php foreach ($testimonials as $testimonial) { ?>
+                    <div class="testimonial-card">
+                        <div class="testimonial-logo">
+                            <img src="<?php echo $testimonial['logo']; ?>" alt="<?php echo $testimonial['alt']; ?>" />
+                        </div>
+                        <div class="quote-icon"></div>
+                        <div class="testimonial-text">
+                            <?php echo $testimonial['quote']; ?>
+                        </div>
+                        <div class="author-info">
+                            <img src="<?php echo $testimonial['author_image']; ?>" alt="<?php echo $testimonial['author_name']; ?>" class="author-image" />
+                            <div class="author-details">
+                                <span class="author-name"><?php echo $testimonial['author_name']; ?></span>
+                                <span class="author-title"><?php echo $testimonial['author_title']; ?></span>
+                            </div>
+                        </div>
+                        <div class="testimonial-action">
+                            <a href="<?php echo $path . $testimonial['project_link']; ?>" class="btn btn-custom btn-custom-secondary">
+                                Take me to project details
+                            </a>
+                        </div>
+                    </div>
+                <?php } ?>
             </div>
-          </div>
-
-          <div class="tc-item-flex">
-            <div
-              class="testimonial-card">
-              <div class="testimonial-logo">
-                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
-              </div>
-              <div class="quote-icon"></div>
-              <div class="testimonial-text">
-                They had the expertise to provide out-of-the-box ideas
-                throughout the project
-              </div>
-              <div class="author-info">
-                <img
-                  src="https://placehold.co/60x60/808080/FFFFFF?text=S.M"
-                  alt="Jacob Varghese"
-                  class="author-image" />
-                <div class="author-details">
-                  <span class="author-name">John Doe </span>
-                  <span class="author-title">Senior VP at Tricog Health
-                  </span>
-                </div>
-              </div>
-              <div class="testimonial-action">
-                <button class="btn btn-custom btn-custom-secondary">
-                  Take me to project details
-                </button>
-              </div>
-            </div>
-            <div
-              class="testimonial-card">
-              <div class="testimonial-logo">
-                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
-              </div>
-              <div class="quote-icon"></div>
-              <div class="testimonial-text">
-                We were most impressed with their commitment to the project.
-              </div>
-              <div class="author-info">
-                <img
-                  src="https://placehold.co/60x60/808080/FFFFFF?text=J.V"
-                  alt="Jacob Varghese"
-                  class="author-image" />
-                <div class="author-details">
-                  <span class="author-name">Jane Doe</span>
-                  <span class="author-title">Director at Noctil</span>
-                </div>
-              </div>
-              <div class="testimonial-action">
-                <button class="btn btn-custom btn-custom-secondary">
-                  Take me to project details
-                </button>
-              </div>
-            </div>
-          </div>
-
-          <div class="tc-item-flex">
-            <div
-              class="testimonial-card">
-              <div class="testimonial-logo">
-                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
-              </div>
-              <div class="quote-icon"></div>
-              <div class="testimonial-text">
-                They had the expertise to provide out-of-the-box ideas
-                throughout the project
-              </div>
-              <div class="author-info">
-                <img
-                  src="https://placehold.co/60x60/808080/FFFFFF?text=S.M"
-                  alt="Jacob Varghese"
-                  class="author-image" />
-                <div class="author-details">
-                  <span class="author-name">Sameer Mathew </span>
-                  <span class="author-title">Senior VP at Tricog Health
-                  </span>
-                </div>
-              </div>
-              <div class="testimonial-action">
-                <button class="btn btn-custom btn-custom-secondary">
-                  Take me to project details
-                </button>
-              </div>
-            </div>
-            <div
-              class="testimonial-card">
-              <div class="testimonial-logo">
-                <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
-              </div>
-              <div class="quote-icon"></div>
-              <div class="testimonial-text">
-                We were most impressed with their commitment to the project.
-              </div>
-              <div class="author-info">
-                <img
-                  src="https://placehold.co/60x60/808080/FFFFFF?text=J.V"
-                  alt="Jacob Varghese"
-                  class="author-image" />
-                <div class="author-details">
-                  <span class="author-name">James Varghese</span>
-                  <span class="author-title">Director at Noctil</span>
-                </div>
-              </div>
-              <div class="testimonial-action">
-                <button class="btn btn-custom btn-custom-secondary">
-                  Take me to project details
-                </button>
-              </div>
-            </div>
-          </div>
         </div>
-        <div class="testimonial-slider" id="testimonial-mob">
-          <div class="testimonial-card">
-            <div class="testimonial-logo">
-              <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
-            </div>
-            <div class="quote-icon"></div>
-            <div class="testimonial-text">
-              They had the expertise to provide out-of-the-box ideas
-              throughout the project
-            </div>
-            <div class="author-info">
-              <img
-                src="https://placehold.co/60x60/808080/FFFFFF?text=S.M"
-                alt="Jacob Varghese"
-                class="author-image" />
-              <div class="author-details">
-                <span class="author-name">Sameer Mathur </span>
-                <span class="author-title">Senior VP at Tricog Health
-                </span>
-              </div>
-            </div>
-            <div class="testimonial-action">
-              <button class="btn btn-custom btn-custom-secondary">
-                Take me to project details
-              </button>
-            </div>
-          </div>
-          <div
-            class="testimonial-card">
-            <div class="testimonial-logo">
-              <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
-            </div>
-            <div class="quote-icon"></div>
-            <div class="testimonial-text">
-              They had the expertise to provide out-of-the-box ideas
-              throughout the project
-            </div>
-            <div class="author-info">
-              <img
-                src="https://placehold.co/60x60/808080/FFFFFF?text=S.M"
-                alt="Jacob Varghese"
-                class="author-image" />
-              <div class="author-details">
-                <span class="author-name">John Doe </span>
-                <span class="author-title">Senior VP at Tricog Health
-                </span>
-              </div>
-            </div>
-            <div class="testimonial-action">
-              <button class="btn btn-custom btn-custom-secondary">
-                Take me to project details
-              </button>
-            </div>
-          </div>
-          <div
-            class="testimonial-card">
-            <div class="testimonial-logo">
-              <img src="assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
-            </div>
-            <div class="quote-icon"></div>
-            <div class="testimonial-text">
-              They had the expertise to provide out-of-the-box ideas
-              throughout the project
-            </div>
-            <div class="author-info">
-              <img
-                src="https://placehold.co/60x60/808080/FFFFFF?text=S.M"
-                alt="Jacob Varghese"
-                class="author-image" />
-              <div class="author-details">
-                <span class="author-name">Sameer Mathew </span>
-                <span class="author-title">Senior VP at Tricog Health
-                </span>
-              </div>
-            </div>
-            <div class="testimonial-action">
-              <button class="btn btn-custom btn-custom-secondary">
-                Take me to project details
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
-  </section>
+</section>

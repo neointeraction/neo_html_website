@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
+
 <head>
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <?php include $path . 'includes/favicon.php'; ?>
@@ -17,7 +18,7 @@
   <meta property="og:url" content="<?php echo $base_url; ?>biomedical-research-ux-design" />
   <meta property="og:site_name" content="Neointeraction Design" />
   <meta property="og:type" content="website" />
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+  <meta name="google-site-verification" content="" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Biomedical Research platform | Euclid | Neointeraction design" />
   <meta name="twitter:description" content="Euclid focuses on managing biomedical data complexities amid advancements in technology. UX design for biomedical research platform by Neointeraction." />
@@ -25,14 +26,14 @@
 </head>
 
 <body>
-  <?php 
-    $page = 'Projects'; 
+  <?php
+  $page = 'Projects';
   ?>
-  <?php include $path.'includes/body-additional-scripts.php'; ?>
+  <?php include $path . 'includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
   <div class="navbar-container-block">
-    <?php include $path.'components/navigation.php'; ?>
-    <?php include $path.'components/whatsapp.php'; ?>
+    <?php include $path . 'components/navigation.php'; ?>
+    <?php include $path . 'components/whatsapp.php'; ?>
   </div>
   <!-- navbar -- end  -->
   <!-- banner  -->
@@ -116,7 +117,7 @@
           <p class="project-body-text">We developed an application that displaying the extracted knowledge with sufficient background information. It also captures the cause-and-effect features of biological entities</p>
 
           <div class="bs-card-section project-bs-cards">
-            <div class="row justify-content-center">
+            <div class="row">
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
@@ -182,7 +183,7 @@
             Download case study
           </button>
           <div class="bs-card-section project-bs-cards">
-            <div class="row justify-content-center">
+            <div class="row">
               <!-- Card 1 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
@@ -285,9 +286,9 @@
   </div>
 
   <!-- banner -- end  -->
-    <?php include $path.'components/footer.php'; ?>
-    <?php include $path.'includes/footer-additional-scripts.php'; ?>
-    <?php include $path.'includes/js.php'; ?>
+  <?php include $path . 'components/footer.php'; ?>
+  <?php include $path . 'includes/footer-additional-scripts.php'; ?>
+  <?php include $path . 'includes/js.php'; ?>
 </body>
 
 </html>

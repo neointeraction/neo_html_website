@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path.'includes/favicon.php'; ?>
-    <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
+    <?php include $path . 'includes/favicon.php'; ?>
+    <?php include $path . 'includes/css.php'; ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
@@ -13,7 +13,7 @@
     <link rel="canonical" href="https://www.neointeraction.com/blog" />
     <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta property="og:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
-    <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="https://www.neointeraction.com/blog" />
@@ -21,11 +21,11 @@
     <meta property="og:type" content="website" />
     <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" type="application/rss+xml" title="Neointeraction - RSS" />
     <link rel="next" href="https://www.neointeraction.com /blog/page/2" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
-    <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png/v1/fill/w_1200,h_630,al_c/c380a9_dc195b7222dd4fa890f20ccee3a0c7d3~mv2.png" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
 </head>
 
 <body>
@@ -34,13 +34,19 @@
     <?php
     // Updated blog system with Neointeraction data - ONLY CHANGED THIS SECTION
     $news_list = array(
+        "effective-communication-with-clients-and-5-ways-to-improve-it",
+        "the-future-of-ux-ui-navigating-2024-s-breakthrough-trends",
+        "voice-user-interface-design-audits-how-to-make-user-engagement",
+        "how-to-make-strategic-business-growth-through-ux-design",
+        "what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design",
+        "what-you-need-to-know-about-vr-interaction-design",
         "composable-business-ux-design-secure-better-user-experiences",
         "vr-interaction-design-immersive-experiences",
         "boost-ux-security-better-results",
         "ai-everyday-users-designing-seamless-integration",
         "design-hybrid-workforce-model",
         "design-systems-scalable-digital-products",
-        "mobile-first-design-responsive-web-development", 
+        "mobile-first-design-responsive-web-development",
         "user-research-methods-better-ux-insights",
         "accessibility-inclusive-design-principles",
         "microinteractions-enhance-user-engagement",
@@ -97,132 +103,167 @@
             "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
             "alt" => "Hybrid Workforce UX Design"
         ),
-       "design-systems-scalable-digital-products" => array(
-    "title" => "Building Design Systems for Scalable Digital Products",
-    "author" => "Design Systems Team",
-    "date" => "6 weeks ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
-    "alt" => "Design Systems for Digital Products"
-),
-"mobile-first-design-responsive-web-development" => array(
-    "title" => "Mobile-First Design: The Future of Responsive Web Development",
-    "author" => "Mobile UX Team",
-    "date" => "2 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
-    "alt" => "Mobile First Design Approach"
-),
-"user-research-methods-better-ux-insights" => array(
-    "title" => "Essential User Research Methods for Better UX Insights",
-    "author" => "UX Research Team",
-    "date" => "2 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
-    "alt" => "User Research Methods"
-),
-"accessibility-inclusive-design-principles" => array(
-    "title" => "Accessibility and Inclusive Design: Principles for Everyone",
-    "author" => "Accessibility Team",
-    "date" => "3 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
-    "alt" => "Accessible Design Principles"
-),
-"microinteractions-enhance-user-engagement" => array(
-    "title" => "Microinteractions: Small Details That Enhance User Engagement",
-    "author" => "Interaction Design Team",
-    "date" => "3 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
-    "alt" => "Microinteractions in UX Design"
-),
-"design-thinking-process-innovation" => array(
-    "title" => "The Design Thinking Process: A Guide to Innovation",
-    "author" => "Innovation Team",
-    "date" => "4 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
-    "alt" => "Design Thinking Process"
-),
-"color-psychology-ui-design" => array(
-    "title" => "Color Psychology in UI Design: Creating Emotional Connections",
-    "author" => "Visual Design Team",
-    "date" => "4 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
-    "alt" => "Color Psychology in Design"
-),
-"typography-web-design-best-practices" => array(
-    "title" => "Typography in Web Design: Best Practices for Better Readability",
-    "author" => "Typography Specialists",
-    "date" => "5 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
-    "alt" => "Typography Best Practices"
-),
-"ux-writing-conversational-interfaces" => array(
-    "title" => "UX Writing: Crafting Conversational Interfaces That Connect",
-    "author" => "UX Writing Team",
-    "date" => "5 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
-    "alt" => "UX Writing and Content Design"
-),
-"design-trends-2025-digital-experiences" => array(
-    "title" => "Design Trends 2025: Shaping the Future of Digital Experiences",
-    "author" => "Trend Analysis Team",
-    "date" => "6 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
-    "alt" => "Design Trends 2025"
-),
-"prototyping-tools-ux-designers" => array(
-    "title" => "Best Prototyping Tools for UX Designers in 2025",
-    "author" => "Design Tools Team",
-    "date" => "6 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
-    "alt" => "UX Prototyping Tools"
-),
-"user-testing-validation-methods" => array(
-    "title" => "User Testing and Validation: Methods That Actually Work",
-    "author" => "User Testing Team",
-    "date" => "7 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
-    "alt" => "User Testing Methods"
-),
-"information-architecture-website-design" => array(
-    "title" => "Information Architecture: The Foundation of Great Website Design",
-    "author" => "IA Specialists",
-    "date" => "7 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
-    "alt" => "Information Architecture Design"
-),
-"visual-hierarchy-effective-layouts" => array(
-    "title" => "Visual Hierarchy: Creating Effective Layouts That Guide Users",
-    "author" => "Visual Design Team",
-    "date" => "8 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
-    "alt" => "Visual Hierarchy in Design"
-),
-"cross-platform-design-consistency" => array(
-    "title" => "Cross-Platform Design: Maintaining Consistency Across Devices",
-    "author" => "Platform Design Team",
-    "date" => "8 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
-    "alt" => "Cross Platform Design"
-),
-"animation-micro-interactions-web" => array(
-    "title" => "Web Animation and Micro-Interactions: Bringing Interfaces to Life",
-    "author" => "Animation Team",
-    "date" => "9 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
-    "alt" => "Web Animation Design"
-),
-"dashboard-design-data-visualization" => array(
-    "title" => "Dashboard Design and Data Visualization: Making Numbers Beautiful",
-    "author" => "Data Visualization Team",
-    "date" => "9 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
-    "alt" => "Dashboard and Data Visualization"
-),
-"ecommerce-ux-conversion-optimization" => array(
-    "title" => "E-commerce UX: Conversion Optimization Through Better Design",
-    "author" => "E-commerce UX Team",
-    "date" => "10 months ago",
-    "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
-    "alt" => "E-commerce UX Design"
-)
+        "design-systems-scalable-digital-products" => array(
+            "title" => "Building Design Systems for Scalable Digital Products",
+            "author" => "Design Systems Team",
+            "date" => "6 weeks ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+            "alt" => "Design Systems for Digital Products"
+        ),
+        "mobile-first-design-responsive-web-development" => array(
+            "title" => "Mobile-First Design: The Future of Responsive Web Development",
+            "author" => "Mobile UX Team",
+            "date" => "2 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+            "alt" => "Mobile First Design Approach"
+        ),
+        "user-research-methods-better-ux-insights" => array(
+            "title" => "Essential User Research Methods for Better UX Insights",
+            "author" => "UX Research Team",
+            "date" => "2 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+            "alt" => "User Research Methods"
+        ),
+        "accessibility-inclusive-design-principles" => array(
+            "title" => "Accessibility and Inclusive Design: Principles for Everyone",
+            "author" => "Accessibility Team",
+            "date" => "3 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+            "alt" => "Accessible Design Principles"
+        ),
+        "microinteractions-enhance-user-engagement" => array(
+            "title" => "Microinteractions: Small Details That Enhance User Engagement",
+            "author" => "Interaction Design Team",
+            "date" => "3 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+            "alt" => "Microinteractions in UX Design"
+        ),
+        "design-thinking-process-innovation" => array(
+            "title" => "The Design Thinking Process: A Guide to Innovation",
+            "author" => "Innovation Team",
+            "date" => "4 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+            "alt" => "Design Thinking Process"
+        ),
+        "color-psychology-ui-design" => array(
+            "title" => "Color Psychology in UI Design: Creating Emotional Connections",
+            "author" => "Visual Design Team",
+            "date" => "4 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+            "alt" => "Color Psychology in Design"
+        ),
+        "typography-web-design-best-practices" => array(
+            "title" => "Typography in Web Design: Best Practices for Better Readability",
+            "author" => "Typography Specialists",
+            "date" => "5 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+            "alt" => "Typography Best Practices"
+        ),
+        "ux-writing-conversational-interfaces" => array(
+            "title" => "UX Writing: Crafting Conversational Interfaces That Connect",
+            "author" => "UX Writing Team",
+            "date" => "5 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+            "alt" => "UX Writing and Content Design"
+        ),
+        "design-trends-2025-digital-experiences" => array(
+            "title" => "Design Trends 2025: Shaping the Future of Digital Experiences",
+            "author" => "Trend Analysis Team",
+            "date" => "6 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+            "alt" => "Design Trends 2025"
+        ),
+        "prototyping-tools-ux-designers" => array(
+            "title" => "Best Prototyping Tools for UX Designers in 2025",
+            "author" => "Design Tools Team",
+            "date" => "6 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+            "alt" => "UX Prototyping Tools"
+        ),
+        "user-testing-validation-methods" => array(
+            "title" => "User Testing and Validation: Methods That Actually Work",
+            "author" => "User Testing Team",
+            "date" => "7 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+            "alt" => "User Testing Methods"
+        ),
+        "information-architecture-website-design" => array(
+            "title" => "Information Architecture: The Foundation of Great Website Design",
+            "author" => "IA Specialists",
+            "date" => "7 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+            "alt" => "Information Architecture Design"
+        ),
+        "visual-hierarchy-effective-layouts" => array(
+            "title" => "Visual Hierarchy: Creating Effective Layouts That Guide Users",
+            "author" => "Visual Design Team",
+            "date" => "8 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+            "alt" => "Visual Hierarchy in Design"
+        ),
+        "cross-platform-design-consistency" => array(
+            "title" => "Cross-Platform Design: Maintaining Consistency Across Devices",
+            "author" => "Platform Design Team",
+            "date" => "8 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+            "alt" => "Cross Platform Design"
+        ),
+        "animation-micro-interactions-web" => array(
+            "title" => "Web Animation and Micro-Interactions: Bringing Interfaces to Life",
+            "author" => "Animation Team",
+            "date" => "9 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+            "alt" => "Web Animation Design"
+        ),
+        "dashboard-design-data-visualization" => array(
+            "title" => "Dashboard Design and Data Visualization: Making Numbers Beautiful",
+            "author" => "Data Visualization Team",
+            "date" => "9 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+            "alt" => "Dashboard and Data Visualization"
+        ),
+        "ecommerce-ux-conversion-optimization" => array(
+            "title" => "E-commerce UX: Conversion Optimization Through Better Design",
+            "author" => "E-commerce UX Team",
+            "date" => "10 months ago",
+            "image" => "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+            "alt" => "E-commerce UX Design"
+        ),
+        "effective-communication-with-clients-and-5-ways-to-improve-it" => array(
+            "title" => "Effective Communication with clients and 5 ways to improve it",
+            "author" => "E-commerce UX Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/effective-communication/image1.jpg",
+            "alt" => "E-commerce UX Design"
+        ),
+        "the-future-of-ux-ui-navigating-2024-s-breakthrough-trends" => array(
+            "title" => "The Future Of UX UI: Navigating 2024's Breakthrough Trends",
+            "author" => "UX Design Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/future-of-ux/image1.jpg",            
+            "alt" => "UX Design"            
+            ),
+        "voice-user-interface-design-audits-how-to-make-user-engagement" => array(
+            "title" => "Voice User Interface Design Audits: How To Make User Engagement",
+            "author" => "UX Design Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/voice-user-interface/image1.jpg",            
+            "alt" => "UX Design"            
+            ),
+        "how-to-make-strategic-business-growth-through-ux-design" => array(
+            "title" => "How to make Strategic Business Growth Through UX Design",
+            "author" => "UX Design Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/how-to-make-strategic/image1.jpg",            
+            "alt" => "UX Design"            
+            ),     
+        "what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" => array(             
+            "title" => "What is Design Thinking and How to Implement it in UI UX Design",
+            "author" => "UX Design Team",
+            "date" => "10 months ago",
+            "image" => $path . "assets/images/blog/what-is-design-thinking/image1.jpg",            
+            "alt" => "UX Design"            
+            ),
     );
 
     // Pagination variables
@@ -249,7 +290,7 @@
     </section>
     <!-- banner -- end  -->
     <!-- browse-project  -->
-    <section class="browse-project section-padding mb-5">
+    <section class="browse-project section-padding">
         <div class="container">
             <div class="project-block">
                 <div class="project-block-item">
@@ -275,7 +316,7 @@
                                     </div>
 
                                     <div class="pb-action-btn">
-                                        <button class="btn btn-custom read-more-btn">
+                                        <button class="btn btn-custom read-more-btn" onclick="window.location.href='<?php echo $path; ?>projects/intertrust-bpm-tool.php'">
                                             Read More
                                         </button>
                                     </div>
@@ -293,37 +334,37 @@
         <div class="container">
             <div class="blog-container-block">
                 <div class="row g-4 justify-content-center" id="blog-container">
-                    <?php
-                    // Show initial blogs - ONLY CHANGED THE LINKING PART
-                    for ($i = 0; $i < min($items_per_page, count($news_list)); $i++) {
-                        $blog_slug = $news_list[$i]; // Changed from $blog_file to $blog_slug
-                        $metadata = isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
-                            "title" => "Insightful Blog Post About Design and Development",
-                            "author" => "Design Team",
-                            "date" => "Recently",
-                            "image" => "assets/images/temp/blog.webp",
-                            "alt" => "Blog Image"
-                        );
-                    ?>
-                        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <a href="blog.php?slug=<?php echo urlencode($blog_slug); ?>" class="blog-anchor">
-                                <div class="blog-card h-100">
-                                    <img src="<?php echo htmlspecialchars($metadata['image']); ?>" 
-                                         class="card-img-top" 
-                                         alt="<?php echo htmlspecialchars($metadata['alt']); ?>"
-                                         onerror="this.src='assets/images/temp/blog.png'">
-                                    <div class="card-body">
-                                        <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
-                                        <p class="blog-card-text">
-                                            <small class="text-muted"><?php echo htmlspecialchars($metadata['author']); ?> • <?php echo htmlspecialchars($metadata['date']); ?></small>
-                                        </p>
-                                    </div>
+                <?php
+                // Show initial blogs - ONLY CHANGED THE LINKING PART
+                for ($i = 0; $i < min($items_per_page, count($news_list)); $i++) {
+                    $blog_slug = $news_list[$i]; // Changed from $blog_file to $blog_slug
+                    $metadata = isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
+                        "title" => "Insightful Blog Post About Design and Development",
+                        "author" => "Design Team",
+                        "date" => "Recently",
+                        "image" => "assets/images/temp/blog.webp",
+                        "alt" => "Blog Image"
+                    );
+                ?>
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                        <a href="blogs/<?php echo urlencode($blog_slug); ?>" class="blog-anchor">
+                            <div class="blog-card h-100">
+                                <img src="<?php echo htmlspecialchars($metadata['image']); ?>" 
+                                        class="card-img-top" 
+                                        alt="<?php echo htmlspecialchars($metadata['alt']); ?>"
+                                        onerror="this.src='assets/images/temp/blog.png'">
+                                <div class="card-body">
+                                    <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
+                                    <p class="blog-card-text">
+                                        <small class="text-muted"><?php echo htmlspecialchars($metadata['author']); ?> • <?php echo htmlspecialchars($metadata['date']); ?></small>
+                                    </p>
                                 </div>
-                            </a>
-                        </div>
-                    <?php
-                    }
-                    ?>
+                            </div>
+                        </a>
+                    </div>
+                <?php
+                }
+                ?>
                 </div>
 
                 <?php if (count($news_list) > $items_per_page): ?>
@@ -340,22 +381,22 @@
 
     <!-- JavaScript for Load More functionality - ONLY CHANGED THE LINKING PART -->
     <script>
-    let currentIndex = <?php echo $items_per_page; ?>;
-    const loadMoreCount = <?php echo $load_more_count; ?>;
-    const totalBlogs = <?php echo count($news_list); ?>;
-    
-    const blogData = <?php echo json_encode(array_map(function($blog_slug) use ($blog_metadata) {
-        return array(
-            'slug' => $blog_slug, // Changed from 'file' to 'slug'
-            'metadata' => isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
-                "title" => "Insightful Blog Post About Design and Development",
-                "author" => "Design Team", 
-                "date" => "Recently",
-                "image" => "assets/images/temp/blog.png",
-                "alt" => "Blog Image"
-            )
-        );
-    }, $news_list)); ?>;
+        let currentIndex = <?php echo $items_per_page; ?>;
+        const loadMoreCount = <?php echo $load_more_count; ?>;
+        const totalBlogs = <?php echo count($news_list); ?>;
+
+        const blogData = <?php echo json_encode(array_map(function ($blog_slug) use ($blog_metadata) {
+                                return array(
+                                    'slug' => $blog_slug, // Changed from 'file' to 'slug'
+                                    'metadata' => isset($blog_metadata[$blog_slug]) ? $blog_metadata[$blog_slug] : array(
+                                        "title" => "Insightful Blog Post About Design and Development",
+                                        "author" => "Design Team",
+                                        "date" => "Recently",
+                                        "image" => "assets/images/temp/blog.png",
+                                        "alt" => "Blog Image"
+                                    )
+                                );
+                            }, $news_list)); ?>;
 
         function loadMoreBlogs() {
             const container = document.getElementById('blog-container');
@@ -411,7 +452,7 @@
         }
     </script>
 
-    <?php include 'components/submit-enquiry.php'; ?>
+    <?php include 'components/hire-designers-engineers.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>
     <?php include 'includes/js.php'; ?>

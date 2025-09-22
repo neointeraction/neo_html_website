@@ -49,13 +49,13 @@
         'title' => 'Associate Vice President at Evo11ve',
         'text' => 'The skill set of the assigned people and their commitment, proactiveness, and professionalism were impressive.'
     ],
-    [
-        'image' => 'assets/images/testimonials/man.jpeg',
-        'alt' => 'Sajan Jose',
-        'name' => 'Sajan Jose',
-        'title' => 'Chief Manager of Marketing of Geojit',
-        'text' => 'Their collaborative approach and clarity in communication made them feel like an extension of our internal team.'
-    ],
+    // [
+    //     'image' => 'assets/images/testimonials/man.jpeg',
+    //     'alt' => 'Sajan Jose',
+    //     'name' => 'Sajan Jose',
+    //     'title' => 'Chief Manager of Marketing of Geojit',
+    //     'text' => 'Their collaborative approach and clarity in communication made them feel like an extension of our internal team.'
+    // ],
     [
         'image' => 'assets/images/testimonials/varun-k-r.jpeg',
         'alt' => 'Shrikant Raipure',

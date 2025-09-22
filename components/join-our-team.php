@@ -6,10 +6,10 @@
           <h1 class="join-us-title mb-0">Join Our Team</h1>
         </div>
         <div class="col-md-6 d-flex align-items-center">
-          <p class="join-us-description mb-0">Igniting success through passion-fueled collaboration. Igniting success through passion-fueled collaboration.</p>
+          <p class="join-us-description mb-0">Love what you do? Share a bit about yourself and let’s make great things happen together!</p>
         </div>
         <div class="col-md-3 d-flex justify-content-end pr-0">
-          <a href="careers.php" class="btn btn-custom-secondary">Apply Now</a>
+          <a href="careers.php" class="btn btn-custom-secondary">View Positions</a>
           
         </div>
       </div>

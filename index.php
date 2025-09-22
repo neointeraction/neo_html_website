@@ -6,11 +6,11 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
-    <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
-    <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
-    <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
+    <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
+    <meta name="description" content="Are you looking for a best UI UX design agency in India? Neointeraction Design is one of the best UI UX Design company in india offering Expert Solutions." />
+    <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="<?php echo $base_url; ?>blog" />
-    <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
+    <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design<" />
     <meta property="og:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
     <meta property="og:image:width" content="1200" />
@@ -18,7 +18,7 @@
     <meta property="og:url" content="<?php echo $base_url; ?>blog" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
@@ -48,15 +48,14 @@
                                 <h1 class="banner-title">
                                     Award winning <span class="highlight">Ux Agency</span>
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
-
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="./assets/images/banner/banner-img1.jpg" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/globe.jpg" alt="banner" />
                             </div>
                         </div>
                     </div>
@@ -71,36 +70,38 @@
                                 <h1 class="banner-title">
                                     Make tech products <span class="highlight">more human</span>
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
+
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="./assets/images/banner/banner-img1.jpg" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/oldage.jpeg" alt="Make tech products more human" />
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            
             <div>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
                             <div class="banner-content">
-                                <h4 class="banner-supertext">bridging user satisfaction and commercial success</h4>
+                                <h4 class="banner-supertext">research-to-design process that differentiates professional UX work</h4>
                                 <h1 class="banner-title">
                                     AI-Powered Design. <span class="highlight">Human-Centered</span> Results.
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="./assets/images/banner/banner-img1.jpg" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/lady.jpg" alt="banner" />
                             </div>
                         </div>
                     </div>
@@ -115,14 +116,14 @@
                                 <h1 class="banner-title">
                                     Design With Purpose. <span class="highlight">Build With Precision</span>.
                                 </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn">
+                                <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
                                 </button>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="./assets/images/banner/banner-img1.jpg" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/watch.jpeg" alt="banner" />
                             </div>
                         </div>
                     </div>
@@ -149,7 +150,7 @@
                             <p class="description">
                                 Delivering seamless experiences that speak louder than words.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -165,7 +166,7 @@
                             <p class="description">
                                 Shaping ideas into tangible user centric design solutions
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -181,7 +182,7 @@
                                 Crafting revolutionary aesthetics that redefine user
                                 interaction.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -197,7 +198,7 @@
                                 Bridging creativity and code for pixel-perfect user
                                 interfaces.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary">
+                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -260,12 +261,12 @@
         <div class="container">
             <div class="title-flex">
                 <h2 class="section-title">Browse Projects</h2>
-                <a href="projects.php" class="section-links">View All</a>
+                <a href="<?php echo $path; ?>projects.php" class="section-links">View All</a>
             </div>
             <div class="project-block section-margin">
                 <?php
                 $limit = 3; // Number of projects to display
-                include 'projects/project-listing.php';
+                include $path . 'projects/project-listing.php';
                 ?>
             </div>
         </div>
@@ -276,20 +277,22 @@
         <div class="container">
             <h2 class="section-title">Demo Video</h2>
             <div class="video-container section-margin">
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player"
+                <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
                     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
         </div>
     </section>
-    <!-- faq  -->
-    <?php include 'components/faq.php'; ?>
-    <!-- faq -- end  -->
+
     <!-- design-events  -->
     <section class="design-events section-padding">
         <div class="container">
-            <h2 class="section-title">Design Events</h2>
 
+         <div class="title-flex">
+                <h2 class="section-title">Design Events</h2>
+                <a href="<?php echo $path; ?>events.php" class="section-links">View All</a>
+            </div>
+            
             <div class="project-block section-margin">
                 <div class="project-block-item">
                     <div class="row justify-content-center">
@@ -313,7 +316,7 @@
                                         career path.
                                     </p>
 
-                                    <button class="btn btn-custom read-more-btn">
+                                    <button class="btn btn-custom read-more-btn" onclick="window.location.href='ux-design-audit.php'">
                                         Read More
                                     </button>
                                 </div>
@@ -331,7 +334,7 @@
         <div class="container">
             <div class="title-flex">
                 <h2 class="section-title">Recent Blogs</h2>
-                <a href="#" class="section-links">View All</a>
+                <a href="<?php echo $path; ?>blogs.php" class="section-links">View All</a>
             </div>
             <div class="blog-container-block section-margin">
                 <div class="row g-4 justify-content-center">
@@ -342,36 +345,13 @@
         </div>
     </section>
     <!-- recent-blogs - end  -->
-    <!-- banner-strip  -->
-    <section class="banner-strip section-padding">
-        <div class="container">
-            <div class="row ui-card">
-                <!-- Image Column -->
-                <div class="col-md-6 img-container">
-                    <img src="assets/images/bs-img.webp" alt="Stylized illustration" class="img-fluid">
-                </div>
-
-                <!-- Text and Button Column -->
-                <div class="col-md-6 ">
-                    <h2 class="bs-title">Submit Enquiry</h2>
-                    <p class="bs-text">
-                        Igniting success through passion-fueled collaboration. Igniting success
-                        through passion-fueled collaboration.
-                    </p>
-                    <button
-                        class="btn btn-custom bs-button">
-                        Request a Quote
-                    </button>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- banner-strip --end  -->
-
-    <?php include 'includes/join-our-team.php'; ?>
-    <?php include 'components/footer.php'; ?>
-    <?php include 'includes/footer-additional-scripts.php'; ?>
-    <?php include 'includes/js.php'; ?>
+    <?php include $path . 'components/submit-enquiry.php'; ?>
+    <?php include $path . 'components/registration-modal.php'; ?>
+    <?php include $path . 'components/faq.php'; ?>
+    <?php include $path . 'components/join-our-team.php'; ?>
+    <?php include $path . 'components/footer.php'; ?>
+    <?php include $path . 'includes/footer-additional-scripts.php'; ?>
+    <?php include $path . 'includes/js.php'; ?>
 </body>
 
 </html>

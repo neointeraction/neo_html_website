@@ -3,34 +3,35 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path.'includes/favicon.php'; ?>
-    <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
+    <?php include $path . 'includes/favicon.php'; ?>
+    <?php include $path . 'includes/css.php'; ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>About Neointeraction Design | One of the top UI UX developer in India | Get a free quote now</title>
-    <meta name="description" content="Looking for a skilled UI UX developer in India? Neointeraction's design team excels in UX UI design and front-end development for interactive applications." />
+    <meta name="description"
+        content="Looking for a skilled UI UX developer in India? Neointeraction's design team excels in UX UI design and front-end development for interactive applications." />
     <link rel="canonical" href="https://www.neointeraction.com/about-us" />
     <meta property="og:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
     <meta property="og:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />
-    <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
     <meta property="og:url" content="https://www.neointeraction.com/about-us" />
     <meta property="og:site_name" content="About Neointeraction Design" />
     <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
     <meta name="twitter:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />
-    <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png/v1/fill/w_600,h_315,al_c/c380a9_f268e72cbfad40e5bb0aafd0ef4a84ea~mv2.png" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
 </head>
 
 <body>
     <?php $page = 'About Us'; ?>
-    <?php include $path.'includes/body-additional-scripts.php'; ?>
+    <?php include $path . 'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
     <div class="navbar-container-block">
-        <?php include $path.'components/navigation.php'; ?>
-        <?php include $path.'components/whatsapp.php'; ?>
+        <?php include $path . 'components/navigation.php'; ?>
+        <?php include $path . 'components/whatsapp.php'; ?>
     </div>
     <!-- navbar -- end  -->
     <!-- banner  -->
@@ -41,10 +42,11 @@
                     Passionately crafting <span class="highlight">digital experiences</span>
                 </h1>
                 <div class="experience-block">
-                    <button class="btn btn-custom btn-custom-secondary">
+                    <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                         Book A Consultation
                     </button>
-                    <p class="banner-subtext">With over 15 years of experience, we've consistently worked with clients from diverse domains and delivered top-tier design solutions aligned with business goals for success.</p>
+                    <p class="banner-subtext">With over 15 years of experience, we've consistently worked with clients from diverse domains and delivered top-tier design solutions
+                        aligned with business goals for success.</p>
                     <div class="row w-100">
                         <!-- 15+ years expertise -->
                         <div class="col-6 col-md-3 count-up-item">
@@ -78,9 +80,10 @@
         <div class="container">
             <h2 class="section-title">Demo Video</h2>
             <div class="video-container section-margin">
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f" title="YouTube video player"
-                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
+                
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/d_rEmpCVHAI?si=ZPQ5SxsTSvOkJsIW" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen style="border-radius: 0;"></iframe>
             </div>
         </div>
     </section>
@@ -114,25 +117,22 @@
                                 <div class="project-card d-lg-flex">
                                     <!-- Image container with fixed height and object-fit for consistent appearance -->
                                     <div class="col-lg-6 p-0 project-image-container">
-                                        <img
-                                            src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-tool.jpeg"
-                                            alt="Intertrust BPM Tool"
-                                            class="img-fluid project-image"
-                                            width="584px"
-                                            height="280px" />
+                                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-tool.jpeg" alt="Intertrust BPM Tool" class="img-fluid project-image"
+                                            width="584px" height="280px" />
                                     </div>
-                                    <div
-                                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                         <h2 class="project-title">Intertrust BPM Tool</h2>
                                         <p class="project-description">
-                                            Promo, the Intertrust’s BPM Tool, underwent a transformative revamp, leveraging streamlined UI enhancements and effective UX design techniques. By enhancing it into a user-friendly digital product, we significantly improved Promo's crucial role in enhancing workflow.</p>
+                                            Promo, the Intertrust’s BPM Tool, underwent a transformative revamp, leveraging streamlined UI enhancements and effective UX design
+                                            techniques. By enhancing it into a user-friendly digital product, we significantly improved Promo's crucial role in enhancing workflow.
+                                        </p>
                                         <div class="project-tags">
                                             <span class="badge">Healthcare</span>
                                             <span class="badge">Healthcare</span>
                                         </div>
 
                                         <div class="pb-action-btn">
-                                            <button class="btn btn-custom read-more-btn">
+                                            <button class="btn btn-custom read-more-btn" onclick="window.location.href='<?php echo $path; ?>projects/intertrust-bpm-tool.php'">
                                                 Read More
                                             </button>
                                         </div>
@@ -146,17 +146,14 @@
                             <div class="col-12">
                                 <div class="project-card d-lg-flex">
                                     <div class="col-lg-6 p-0 project-image-container">
-                                        <img
-                                            src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution.jpeg"
-                                            alt="Music Rights Management Solution"
-                                            class="img-fluid project-image"
-                                            width="584px"
-                                            height="280px" />
+                                        <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution.jpeg" alt="Music Rights Management Solution"
+                                            class="img-fluid project-image" width="584px" height="280px" />
                                     </div>
-                                    <div
-                                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                         <h2 class="project-title">Music Rights Management Solution</h2>
-                                        <p class="project-description">The platform helps Rights Management societies to maximize rights collection and distribution while reducing operational costs. The UX redesign prioritized user specific functionality with micro-interactions to create an engaging user experience.
+                                        <p class="project-description">The platform helps Rights Management societies to maximize rights collection and distribution while reducing
+                                            operational costs. The UX redesign prioritized user specific functionality with micro-interactions to create an engaging user
+                                            experience.
                                         </p>
                                         <div class="project-tags">
                                             <span class="badge">Healthcare</span>
@@ -164,7 +161,8 @@
                                         </div>
 
                                         <div class="pb-action-btn">
-                                            <button class="btn btn-custom read-more-btn">
+                                            <button class="btn btn-custom read-more-btn"
+                                                onclick="window.location.href='<?php echo $path; ?>projects/music-rights-management-solution.php'">
                                                 Read More
                                             </button>
                                         </div>
@@ -178,17 +176,14 @@
                             <div class="col-12">
                                 <div class="project-card d-lg-flex">
                                     <div class="col-lg-6 p-0 project-image-container">
-                                        <img
-                                            src="<?php echo $path; ?>assets/images/projects/tricog-heart-failure-patient-app.jpeg"
-                                            alt="AI Driven Healthcare Consultation Platform"
-                                            class="img-fluid project-image"
-                                            width="584px"
-                                            height="280px" />
+                                        <img src="<?php echo $path; ?>assets/images/projects/tricog-heart-failure-patient-app.jpeg" alt="AI Driven Healthcare Consultation Platform"
+                                            class="img-fluid project-image" width="584px" height="280px" />
                                     </div>
-                                    <div
-                                        class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                         <h2 class="project-title">AI Driven Healthcare Consultation Platform</h2>
-                                        <p class="project-description">The UX design modifications for the healthcare application was tailored to simplify tasks for cardiologists and provide accessible AI. Streamlining data visualization made monitoring patient vitals more efficient and impactful for cardiologists.
+                                        <p class="project-description">The UX design modifications for the healthcare application was tailored to simplify tasks for cardiologists
+                                            and provide accessible AI. Streamlining data visualization made monitoring patient vitals more efficient and impactful for
+                                            cardiologists.
                                         </p>
                                         <div class="project-tags">
                                             <span class="badge">Healthcare</span>
@@ -196,7 +191,8 @@
                                         </div>
 
                                         <div class="pb-action-btn">
-                                            <button class="btn btn-custom read-more-btn">
+                                            <button class="btn btn-custom read-more-btn"
+                                                onclick="window.location.href='<?php echo $path; ?>projects/ai-driven-healthcare-consultation-platform.php'">
                                                 Read More
                                             </button>
                                         </div>
@@ -208,10 +204,15 @@
                 </div>
                 <div class="slick-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
-                        <img src="<?php echo $path; ?>assets/images/prev.svg" alt="prev" />
+                        <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path class="svg" fill-rule="evenodd" clip-rule="evenodd" d="M0.292787 7.70734C0.105316 7.51981 0 7.26551 0 7.00034C0 6.73518 0.105316 6.48087 0.292787 6.29334L5.94979 0.636343C6.04203 0.540833 6.15238 0.464651 6.27438 0.412242C6.39639 0.359833 6.52761 0.332246 6.66039 0.331092C6.79316 0.329939 6.92484 0.355241 7.04774 0.405521C7.17064 0.455802 7.28229 0.530055 7.37618 0.623948C7.47007 0.717841 7.54433 0.829492 7.59461 0.952389C7.64489 1.07529 7.67019 1.20696 7.66904 1.33974C7.66788 1.47252 7.6403 1.60374 7.58789 1.72575C7.53548 1.84775 7.4593 1.9581 7.36379 2.05034L2.41379 7.00034L7.36379 11.9503C7.54594 12.1389 7.64674 12.3915 7.64446 12.6537C7.64218 12.9159 7.53701 13.1668 7.35161 13.3522C7.1662 13.5376 6.91538 13.6427 6.65319 13.645C6.39099 13.6473 6.13839 13.5465 5.94979 13.3643L0.292787 7.70734Z" fill="#2B2828" />
+                        </svg>
+
                     </button>
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-next-custom">
-                        <img src="<?php echo $path; ?>assets/images/next.svg" alt="next" />
+                        <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path class="svg" fill-rule="evenodd" clip-rule="evenodd" d="M7.70832 6.29318C7.89579 6.48071 8.00111 6.73502 8.00111 7.00018C8.00111 7.26534 7.89579 7.51965 7.70832 7.70718L2.05132 13.3642C1.95907 13.4597 1.84873 13.5359 1.72672 13.5883C1.60472 13.6407 1.4735 13.6683 1.34072 13.6694C1.20794 13.6706 1.07626 13.6453 0.953366 13.595C0.83047 13.5447 0.718817 13.4705 0.624924 13.3766C0.531032 13.2827 0.456778 13.171 0.406498 13.0481C0.356217 12.9252 0.330915 12.7936 0.332069 12.6608C0.333223 12.528 0.360809 12.3968 0.413218 12.2748C0.465627 12.1528 0.541809 12.0424 0.637319 11.9502L5.58732 7.00018L0.637319 2.05018C0.455161 1.86158 0.354367 1.60898 0.356645 1.34678C0.358924 1.08458 0.464092 0.83377 0.6495 0.648362C0.834909 0.462954 1.08572 0.357785 1.34792 0.355507C1.61011 0.353228 1.86272 0.454022 2.05132 0.636181L7.70832 6.29318Z" fill="#2B2828" />
+                        </svg>
                     </button>
                 </div>
             </div>
@@ -224,38 +225,38 @@
             <h2 class="section-title">What We Do</h2>
             <div class="what-we-do-block section-margin">
                 <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/star.svg" alt="star" />
                             <p class="wwd-text">Design Thinking is our Gene factor</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/check.svg" alt="check" />
                             <p class="wwd-text">Design for meaningful impact in lives</p>
                         </div>
 
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/doc.svg" alt="star" />
                             <p class="wwd-text">Business friendly engaging models </p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/like.svg" alt="like" />
                             <p class="wwd-text">Focused on functional designs</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/money.svg" alt="money" />
                             <p class="wwd-text">Designs with measurable ROI</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/click.svg" alt="click" />
                             <p class="wwd-text">Provides end to end design services</p>
@@ -278,7 +279,7 @@
                     <!-- Card 1 -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
+                            <div class="blog-card color-bw  h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/sam.jpeg" class="team-img-top" alt="sam" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Sam Thomas</h5>
@@ -292,7 +293,7 @@
                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
+                            <div class="blog-card color-bw h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/shameer.jpeg" class="team-img-top" alt="shameer" />
                                 <div class="card-body">
                                     <h5 class="team-card-title team-title">Shameer M</h5>
@@ -306,7 +307,7 @@
                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
+                            <div class="blog-card color-bw h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/vanessa.jpeg" class="team-img-top" alt="vanessa" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Vanessa Lobo</h5>
@@ -320,7 +321,7 @@
                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                         <a href="#" class="blog-anchor">
-                            <div class="blog-card h-100">
+                            <div class="blog-card color-bw h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/midhun.jpeg" class="team-img-top" alt="midhun" />
                                 <div class="card-body">
                                     <h5 class="team-card-title">Midhun M</h5>
@@ -336,34 +337,37 @@
         </div>
     </section>
     <!-- our-team - end  -->
-    <!-- join-us  -->
-    <?php include $path.'includes/join-our-team.php'; ?>
-    <!-- join-us -- end  -->
+   
     <!-- life-at-neo  -->
     <section class="life-at-neo section-padding">
         <div class="container">
             <h2 class="section-title">Life at Neointeraction</h2>
             <div class="project-slider-wrapper section-margin">
                 <div class="project-block life-at-neo-block">
-                    <?php include $path.'components/life-at-neo.php'; ?>
+                    <?php include $path . 'components/life-at-neo.php'; ?>
                 </div>
                 <div class="slick-navigation life-at-neo-navigation">
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
-                        <img src="<?php echo $path; ?>assets/images/prev.svg" alt="prev" />
+                        <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path class="svg" fill-rule="evenodd" clip-rule="evenodd" d="M0.292787 7.70734C0.105316 7.51981 0 7.26551 0 7.00034C0 6.73518 0.105316 6.48087 0.292787 6.29334L5.94979 0.636343C6.04203 0.540833 6.15238 0.464651 6.27438 0.412242C6.39639 0.359833 6.52761 0.332246 6.66039 0.331092C6.79316 0.329939 6.92484 0.355241 7.04774 0.405521C7.17064 0.455802 7.28229 0.530055 7.37618 0.623948C7.47007 0.717841 7.54433 0.829492 7.59461 0.952389C7.64489 1.07529 7.67019 1.20696 7.66904 1.33974C7.66788 1.47252 7.6403 1.60374 7.58789 1.72575C7.53548 1.84775 7.4593 1.9581 7.36379 2.05034L2.41379 7.00034L7.36379 11.9503C7.54594 12.1389 7.64674 12.3915 7.64446 12.6537C7.64218 12.9159 7.53701 13.1668 7.35161 13.3522C7.1662 13.5376 6.91538 13.6427 6.65319 13.645C6.39099 13.6473 6.13839 13.5465 5.94979 13.3643L0.292787 7.70734Z" fill="#2B2828" />
+                        </svg>
                     </button>
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-next-custom">
-                        <img src="<?php echo $path; ?>assets/images/next.svg" alt="next" />
+                        <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path class="svg" fill-rule="evenodd" clip-rule="evenodd" d="M7.70832 6.29318C7.89579 6.48071 8.00111 6.73502 8.00111 7.00018C8.00111 7.26534 7.89579 7.51965 7.70832 7.70718L2.05132 13.3642C1.95907 13.4597 1.84873 13.5359 1.72672 13.5883C1.60472 13.6407 1.4735 13.6683 1.34072 13.6694C1.20794 13.6706 1.07626 13.6453 0.953366 13.595C0.83047 13.5447 0.718817 13.4705 0.624924 13.3766C0.531032 13.2827 0.456778 13.171 0.406498 13.0481C0.356217 12.9252 0.330915 12.7936 0.332069 12.6608C0.333223 12.528 0.360809 12.3968 0.413218 12.2748C0.465627 12.1528 0.541809 12.0424 0.637319 11.9502L5.58732 7.00018L0.637319 2.05018C0.455161 1.86158 0.354367 1.60898 0.356645 1.34678C0.358924 1.08458 0.464092 0.83377 0.6495 0.648362C0.834909 0.462954 1.08572 0.357785 1.34792 0.355507C1.61011 0.353228 1.86272 0.454022 2.05132 0.636181L7.70832 6.29318Z" fill="#2B2828" />
+                        </svg>
                     </button>
                 </div>
             </div>
         </div>
     </section>
     <!-- browse-project -- end -->
-    <?php include $path.'components/hire-designers-engineers.php'; ?>
-    <?php include $path.'components/faq.php'; ?>
-    <?php include $path.'components/footer.php'; ?>
-    <?php include $path.'includes/footer-additional-scripts.php'; ?>
-    <?php include $path.'includes/js.php'; ?>
+    <?php include $path . 'components/registration-modal.php'; ?>
+    <?php include $path . 'components/hire-designers-engineers.php'; ?>
+    <?php include $path . 'components/faq.php'; ?>
+    <?php include $path . 'components/footer.php'; ?>
+    <?php include $path . 'includes/footer-additional-scripts.php'; ?>
+    <?php include $path . 'includes/js.php'; ?>
 </body>
 
 </html>
