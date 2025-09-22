@@ -244,7 +244,7 @@ document.addEventListener("DOMContentLoaded", function () {
       // Google Form submission
       const GOOGLE_FORM_URL =
         "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
-      const GOOGLE_FORM_EMAIL_FIELD = "YOUR_TIMESTAMP_FIELD.1195398138"; // Replace with actual entry ID
+      const GOOGLE_FORM_EMAIL_FIELD = "entry.1195398138"; // Replace with actual entry ID
 
       const formData = new FormData();
       formData.append(GOOGLE_FORM_EMAIL_FIELD, email);
