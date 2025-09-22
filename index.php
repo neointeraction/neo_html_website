@@ -348,7 +348,7 @@
     
     <?php include $path . 'components/submit-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
-    <?php include $path . 'components/faq.php'; ?>
+    <?php $faq_tag = 'home'; include $path . 'components/faq.php'; ?>
     <?php include $path . 'components/join-our-team.php'; ?>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>

@@ -389,7 +389,7 @@
     </section>
     <!-- industry-experience -- end -->
     <?php include $path . 'components/registration-modal.php'; ?>
-    <?php include 'components/faq.php'; ?>
+    <?php $faq_tag = 'services'; include 'components/faq.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>
     <?php include 'includes/js.php'; ?>

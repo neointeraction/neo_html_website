@@ -364,7 +364,6 @@
     <!-- browse-project -- end -->
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path . 'components/hire-designers-engineers.php'; ?>
-    <?php include $path . 'components/faq.php'; ?>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>

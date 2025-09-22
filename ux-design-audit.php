@@ -315,7 +315,7 @@
     <!-- testimonials -- end  -->
     <?php include $path.'components/free-consultation.php'; ?>
             <!-- testimonials  -->
-    <?php include 'components/faq.php'; ?>
+    <?php $faq_tag = 'ux-audit'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->
   <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path.'components/footer.php'; ?>

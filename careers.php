@@ -190,7 +190,7 @@ HTML;
   </section>
   <!-- business-success -- end  -->
   <!-- banner -- end  -->
-  <?php include $path . 'components/faq.php'; ?>
+  <?php $faq_tag = 'career'; include $path . 'components/faq.php'; ?>
   <?php include $path . 'components/footer.php'; ?>
   <?php include $path . 'includes/footer-additional-scripts.php'; ?>
   <?php include $path . 'includes/js.php'; ?>
