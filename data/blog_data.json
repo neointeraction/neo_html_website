@@ -106,6 +106,28 @@
       "image": "assets/images/blog/interaction-design/image1.jpg",
       "alt": "Interaction design: what is it and why is it important?"
     },
+    "composable-business-how-ux-design-secure-better-user-experiences":{
+      "title": "Composable Business : How UX Design Secure Better User Experiences",
+      "author": "Sahla Feroc",
+      "date": "Dec 27, 2024",
+      "image": "assets/images/blog/composible-business/image1.jpg",
+      "alt": "Composable Business : How UX Design Secure Better User Experiences"
+    },
+    "how-to-align-good-ux-ui-concepts-with-customer-requirements":{
+      "title": "How to align good UX UI concepts with customer requirements?",
+      "author": "Wenkit",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/how-to-align/image1.jpg",
+      "alt": "How to align good UX UI concepts with customer requirements?"
+    },
+    "takeaways-from-our-1-day-ux-design-workshop": {
+      "title": "Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta",
+      "author": "Vanessa Lobo",
+      "date": "Nov 15, 2023",
+      "image": "assets/images/blog/takeaway-from-workshop/image1.jpg",
+      "alt": "Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta"
+    },
+
 
     "what-you-need-to-know-about-vr-interaction-design": {
       "title": "What You Need To Know About VR Interaction Design",
