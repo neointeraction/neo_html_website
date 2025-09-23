@@ -1509,3 +1509,13 @@ body {
 .event-slider-block .slick-list {
   margin: 0 -12px;
 }
+
+.avatar-img-block {
+  display: inline-flex;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 12px;
+  vertical-align: bottom;
+}

@@ -44,7 +44,9 @@
         <div class="container">
             <div class="blog-body-padding">
                 <p class="blog-author-text">
-                    <img src="<?php echo $path; ?>assets/images/temp/avatar.jpg" alt="avatar" class="avatar-img" />
+                    <div class="avatar-img-block">
+                        <img src="<?php echo $path; ?>assets/images/blog/author/sahla-feroc.png" alt="avatar" class="avatar-img" />
+                    </div>
                     <span>Sahla Feroc • 30 Oct, 2024</span>
                 </p>
                 <h1 class="banner-title">
