@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Sam Thomas",
+        "role": "UX Director",
+        "image": "assets/images/team/sam.jpeg",
+        "linkedin": "https://www.linkedin.com/in/neointeraction",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Shameer M",
+        "role": "UI Lead",
+        "image": "assets/images/team/shameer.jpeg",
+        "linkedin": "https://www.linkedin.com/in/shameerm/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Vanessa Lobo",
+        "role": "UX Designer",
+        "image": "assets/images/team/vanessa.jpeg",
+        "linkedin": "https://www.linkedin.com/in/vanessa-lobo-73210a20b/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Midhun M",
+        "role": "Project Lead",
+        "image": "assets/images/team/midhun.jpeg",
+        "linkedin": "https://www.linkedin.com/in/midhunvmanikkath/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Allwyn Ebenezer PM",
+        "role": "UI Developer",
+        "image": "assets/images/team/allwyn.jpeg",
+        "linkedin": "https://www.linkedin.com/in/allwyn-ebenezer/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Jishnu Krishnan",
+        "role": "UI Developer",
+        "image": "assets/images/team/jishnu.jpeg",
+        "linkedin": "https://www.linkedin.com/in/jishnu-krishnan",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Sahla Feroc",
+        "role": "UX Designer",
+        "image": "assets/images/team/sahla.jpeg",
+        "linkedin": "https://www.linkedin.com/in/sahla-mohd-feroc-8a39721ba/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Talha Shaikh",
+        "role": "UI Developer",
+        "image": "assets/images/team/talha.jpeg",
+        "linkedin": "https://www.linkedin.com/in/talha6366",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Liya Theresa Siby",
+        "role": "UI Developer",
+        "image": "assets/images/team/liya.jpeg",
+        "linkedin": "https://www.linkedin.com/in/liya-theresa-siby-309674205/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Sangram Patil",
+        "role": "UI Developer",
+        "image": "assets/images/team/sangram.jpeg",
+        "linkedin": "https://www.linkedin.com/in/contactsangrampatil/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Veena Varghese",
+        "role": "UX Designer",
+        "image": "assets/images/team/veena.jpeg",
+        "linkedin": "https://www.linkedin.com/in/veenavarghese/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Sindhu K",
+        "role": "HR Executive",
+        "image": "assets/images/team/sindhu.jpeg",
+        "linkedin": "https://www.linkedin.com/in/sindhuk15/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Aditya Sharma",
+        "role": "UI Developer",
+        "image": "assets/images/team/aditya.jpeg",
+        "linkedin": "https://www.linkedin.com/in/aditya-prem-sharma/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Ashutosh Shakya",
+        "role": "Graphic Designer",
+        "image": "assets/images/team/ashutosh.jpeg",
+        "linkedin": "https://www.linkedin.com/in/ashutoshkya/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Sakshi Patil",
+        "role": "UX Designer",
+        "image": "assets/images/team/sakshi.jpeg",
+        "linkedin": "https://www.linkedin.com/in/sakshipatil1401/",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Rishi C",
+        "role": "Digital Marketing Executive",
+        "image": "assets/images/team/rishi.jpeg",
+        "linkedin": "https://www.linkedin.com/in/rishi-chandran-25bb62b9/",
+        "tags": ["all", "home"]
+    }
+]

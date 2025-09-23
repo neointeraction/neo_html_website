@@ -300,8 +300,8 @@ body {
 
 .scrolling-logos {
   display: flex;
-  width: 200%;
-  animation: scroll 30s linear infinite;
+  width: max-content; /* Ensure the flex container is wide enough */
+  animation: scroll-left 30s linear infinite; /* Adjust duration as needed */
 }
 
 .scrolling-logos:hover {
@@ -313,7 +313,6 @@ body {
   flex-shrink: 0;
   justify-content: space-around;
   align-items: center;
-  width: 50%;
   padding: 1rem 0;
   gap: 2rem;
 }
@@ -328,6 +327,10 @@ body {
   opacity: 1;
 }
 
+.clf-item {
+  flex-shrink: 0; /* Prevent items from shrinking */
+}
+
 .clf-item img {
   max-height: 50px;
   filter: grayscale(100%);
@@ -340,12 +343,12 @@ body {
   opacity: 1;
 }
 
-@keyframes scroll {
+@keyframes scroll-left {
   0% {
     transform: translateX(0%);
   }
   100% {
-    transform: translateX(-50%);
+    transform: translateX(-33.33%); /* Adjust based on number of original sets + clones */
   }
 }
 

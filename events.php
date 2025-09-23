@@ -183,7 +183,7 @@
             </h2>
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
-                    <?php include $path . 'components/event-attendees.php'; ?>
+                    <?php $client_tag = 'events'; include $path . 'components/clients.php'; ?>
                 </div>
             </div>
         </div>

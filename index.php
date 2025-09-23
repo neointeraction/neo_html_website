@@ -10,7 +10,7 @@
     <meta name="description" content="Are you looking for a best UI UX design agency in India? Neointeraction Design is one of the best UI UX Design company in india offering Expert Solutions." />
     <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="<?php echo $base_url; ?>blog" />
-    <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design<" />
+    <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design" />
     <meta property="og:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
     <meta property="og:image:width" content="1200" />
@@ -247,7 +247,7 @@
             </h2>
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
-                    <?php include 'components/clients.php'; ?>
+                    <?php $client_tag = 'home'; include 'components/clients.php'; ?>
                 </div>
             </div>
         </div>
@@ -329,6 +329,22 @@
     </section>
     <!-- design-events -- end -->
 
+    <!-- our-team  -->
+    <section class="our-team section-padding">
+        <div class="container">
+            <div class="title-flex">
+                <h2 class="section-title">Our Team</h2>
+                <a href="<?php echo $path; ?>team.php" class="section-links">View All</a>
+            </div>
+            <?php
+            $team_tag = 'home';
+            $team_limit = 4;
+            include $path . 'components/teams-listing.php';
+            ?>
+        </div>
+    </section>
+    <!-- our-team -- end  -->
+
     <!-- recent-blogs  -->
     <section class="recent-blogs section-padding">
         <div class="container">
@@ -339,7 +355,7 @@
             <div class="blog-container-block section-margin">
                 <div class="row g-4 justify-content-center">
                     <!-- Card 1 -->
-                    <?php include 'blogs/blogs-listing.php'; ?>
+                    <?php include $path . 'blogs/blogs-listing.php'; ?>
                 </div>
             </div>
         </div>

@@ -1,0 +1,162 @@
+[
+    {
+        "name": "ICICI",
+        "image": "assets/images/clients/icici-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Geojit",
+        "image": "assets/images/clients/geojit-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "BNP Paribas",
+        "image": "assets/images/clients/bnp-paribas-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Commercial Bank of Dubai",
+        "image": "assets/images/clients/commercial-bank-of-dubai-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Clayfin",
+        "image": "assets/images/clients/clayfin-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "CBFS",
+        "image": "assets/images/clients/cbfs-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Brac Bank",
+        "image": "assets/images/clients/brac-bank-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Qudos Bank",
+        "image": "assets/images/clients/qudos-bank-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Funding Societies",
+        "image": "assets/images/clients/funding-societies-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Bosch",
+        "image": "assets/images/clients/bosch-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Inatech",
+        "image": "assets/images/clients/inatech-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Vconstruct",
+        "image": "assets/images/clients/vconstruct-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Vidal",
+        "image": "assets/images/clients/vidal-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Lifesignals",
+        "image": "assets/images/clients/lifesignals-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Intertrust",
+        "image": "assets/images/clients/intertrust-logo.png",
+        "tags": ["all", "home", "events"]
+    },
+    {
+        "name": "Traveloka",
+        "image": "assets/images/clients/traveloka-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Drumbuffer",
+        "image": "assets/images/clients/drumbuffer-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Inkmagic",
+        "image": "assets/images/clients/inkmagic-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Tricog",
+        "image": "assets/images/clients/tricog-logo.png",
+        "tags": ["all", "home","events"]
+    },
+    {
+        "name": "Yokogawa",
+        "image": "assets/images/clients/yokogawa-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Wipro",
+        "image": "assets/images/clients/wipro-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Quest",
+        "image": "assets/images/clients/quest-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Intellithink",
+        "image": "assets/images/clients/intellithink-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Carnival",
+        "image": "assets/images/clients/carnival-logo.png",
+        "tags": ["all", "home"]
+    },
+    {
+        "name": "Samsung",
+        "image": "assets/images/clients/samsung-logo.jpg",
+        "tags": ["all", "events"]
+    },
+    {
+        "name": "Tyson",
+        "image": "assets/images/clients/tyson-logo.jpg",
+        "tags": ["all", "events"]
+    },
+    {
+        "name": "Unext",
+        "image": "assets/images/clients/unext-logo.jpg",
+        "tags": ["all", "events"]
+    },
+    {
+        "name": "Schneider Electric",
+        "image": "assets/images/clients/schneider-electric-logo.jpg",
+        "tags": ["all", "events"]
+    },
+    {
+        "name": "Payglocal",
+        "image": "assets/images/clients/payglocal-logo.jpg",
+        "tags": ["all", "events"]
+    },
+    {
+        "name": "Cateina",
+        "image": "assets/images/clients/cateina-logo.jpg",
+        "tags": ["all", "events"]
+    },
+    {
+        "name": "JD",
+        "image": "assets/images/clients/jd-logo.jpg",
+        "tags": ["all", "events"]
+    },
+    {
+        "name": "Zopsmart",
+        "image": "assets/images/clients/zopsmart-logo.jpg",
+        "tags": ["all", "events"]
+    }
+]
