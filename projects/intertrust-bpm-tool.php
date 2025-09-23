@@ -256,34 +256,70 @@
 
 
   <!-- Case Study Download Modal -->
-  <div class="modal fade" id="caseStudyModal" tabindex="-1" role="dialog" aria-labelledby="caseStudyModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="caseStudyModalLabel">Download Case Study</h5>
-          <!-- Change this line in your modal -->
-          <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="mb-3">Enter your email to download the case study and stay updated with our latest insights.</p>
-          <form id="caseStudyForm">
-            <div class="mb-3">
-              <input
-                type="email"
-                id="case-study-email"
-                class="form-control"
-                placeholder="Enter your work email"
-                required>
+<!-- Case Study Download Modal -->
+<div class="modal fade" id="caseStudyModal" tabindex="-1" role="dialog" aria-labelledby="caseStudyModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="contact-container">
+          <div class="row g-0">
+            <div class="col-lg-12">
+              <div class="modal-contact">
+
+              <button type="button" class="btn-close modal-btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <h2 class="form-title">Download Case Study</h2>
+                <p class="mb-3">Enter your details to download the case study and stay updated with our latest insights.</p>
+                
+                <form id="caseStudyForm">
+                  <div class="form-group">
+                    <label for="case-study-name" class="form-label">Name</label>
+                    <input
+                      type="text"
+                      id="case-study-name"
+                      name="name"
+                      class="form-control custom-input"
+                      placeholder="Enter your name"
+                      required>
+                  </div>
+
+                  <div class="form-group">
+                    <label for="case-study-email" class="form-label">Work email</label>
+                    <input
+                      type="email"
+                      id="case-study-email"
+                      name="email"
+                      class="form-control custom-input"
+                      placeholder="Enter your work email"
+                      required>
+                  </div>
+
+                  <div class="form-group">
+                    <label for="case-study-phone" class="form-label">Mobile Number</label>
+                    <input
+                      type="tel"
+                      id="case-study-phone"
+                      name="phone"
+                      class="form-control custom-input"
+                      placeholder="Enter your mobile number"
+                      required>
+                  </div>
+                  
+                  <div id="case-study-status"></div>
+                  
+                  <div class="form-btn-container d-flex justify-content-end">
+<button type="submit" class="btn btn-custom" id="case-study-submit">
+                      Download Case Study
+                    </button>
+                  </div>
+                </form>
+              </div>
             </div>
-            <div id="case-study-status" class="mb-3"></div>
-            <button type="submit" class="btn btn-custom-secondary w-100" id="case-study-submit">
-              Download Case Study
-            </button>
-          </form>
+          </div>
         </div>
       </div>
     </div>
   </div>
+</div>
 
   <!-- banner -- end  -->
   <?php include $path . 'components/footer.php'; ?>

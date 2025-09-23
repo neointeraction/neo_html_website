@@ -196,8 +196,7 @@ const isElementInViewport = (el) => {
   return (
     rect.top >= 0 &&
     rect.left >= 0 &&
-    rect.bottom <=
-      (window.innerHeight || document.documentElement.clientHeight) &&
+    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
     rect.right <= (window.innerWidth || document.documentElement.clientWidth)
   );
 };
@@ -279,10 +278,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const email = emailInput.value.trim();
 
-
       if (!email) {
-        status.innerHTML =
-          '<small class="text-danger">Please enter your email</small>';
+        status.innerHTML = '<small class="text-danger">Please enter your email</small>';
         return;
       }
 
@@ -307,8 +304,7 @@ document.addEventListener("DOMContentLoaded", function () {
         .then(() => {
           // Trigger PDF download after successful submission
           downloadCaseStudyPDF(currentCaseType);
-          status.innerHTML =
-            '<small class="text-success">Download started! Check your downloads folder.</small>';
+          status.innerHTML = '<small class="text-success">Download started! Check your downloads folder.</small>';
           emailInput.value = "";
 
           // Close modal after successful submission
@@ -320,8 +316,7 @@ document.addEventListener("DOMContentLoaded", function () {
         .catch(() => {
           // Even if error, assume submission worked (Google Forms blocks CORS)
           downloadCaseStudyPDF(currentCaseType);
-          status.innerHTML =
-            '<small class="text-success">Download started! Check your downloads folder.</small>';
+          status.innerHTML = '<small class="text-success">Download started! Check your downloads folder.</small>';
           emailInput.value = "";
 
           setTimeout(() => {
