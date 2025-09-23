@@ -35,6 +35,7 @@ include_once 'includes/tracking-functions.php';
                                             name="work_email"
                                             class="form-control custom-input"
                                             placeholder="Enter work email"
+                                            pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$"
                                             required>
                                     </div>
 
@@ -45,25 +46,23 @@ include_once 'includes/tracking-functions.php';
                                             id="mobile_number"
                                             name="mobile_number"
                                             class="form-control custom-input"
-                                            placeholder="Enter mobile number"
-                                            required>
+                                            placeholder="Enter mobile number (e.g. +1234567890)"
+                                            pattern="^\+?[0-9]{10,15}$"
+                                            required
+                                            oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                     </div>
 
                                     <div class="form-group">
                                         <label for="requirement" class="form-label">Type your requirement</label>
-                                        <div class="textarea-container" style="position: relative;">
-                                            <textarea
-                                                id="requirement"
-                                                name="requirement"
-                                                class="form-control custom-input"
-                                                placeholder="Describe project needs (eg, mobile app, website design, website development, UX audit..etc)"
-                                                rows="6"
-                                                maxlength="200"
-                                                required></textarea>
-                                            <div id="char-counter" style="position: absolute; bottom: 8px; right: 12px; font-size: 12px; color: #666; background: rgba(255,255,255,0.8); padding: 2px 4px; border-radius: 3px;">
-                                                0/200
-                                            </div>
-                                        </div>
+                                        <textarea
+                                            id="requirement"
+                                            name="requirement"
+                                            class="form-control custom-input"
+                                            placeholder="Describe project needs (eg, mobile app, website design, website development, UX audit..etc)"
+                                            rows="6"
+                                            maxlength="200"
+                                            required></textarea>
+                                        <div id="charCount" class="form-text text-muted text-end">0/200 characters</div>
                                     </div>
                                     
                                     <div id="enquiry-status"></div>
@@ -133,33 +132,10 @@ function submitEnquiry() {
         hasErrors = true;
     }
 
-    // Phone validation - exactly 10 digits
-    const phoneRegex = /^\d{10}$/;
-    if (!mobile || !phoneRegex.test(mobile)) {
-        mobileInput.classList.add("is-invalid");
-        if (!hasErrors) {
-            status.innerHTML = '<small class="text-danger">Please enter a valid 10-digit mobile number</small>';
-        }
-        hasErrors = true;
-    }
-
-    // Requirement validation - minimum 10 characters, maximum 200 characters
-    if (!requirement || requirement.length < 10) {
-        requirementInput.classList.add("is-invalid");
-        if (!hasErrors) {
-            status.innerHTML = '<small class="text-danger">Please describe your requirement (minimum 10 characters)</small>';
-        }
-        hasErrors = true;
-    } else if (requirement.length > 200) {
-        requirementInput.classList.add("is-invalid");
-        if (!hasErrors) {
-            status.innerHTML = '<small class="text-danger">Requirement description is too long (maximum 200 characters)</small>';
-        }
-        hasErrors = true;
-    }
-
-    // If there are validation errors, stop submission
-    if (hasErrors) {
+    // Phone validation - allows optional '+' and 10 to 15 digits
+    const phoneRegex = /^\+?[0-9]{10,15}$/;
+    if (!phoneRegex.test(mobile)) {
+        status.innerHTML = '<small class="text-danger">Please enter a valid mobile number (e.g., +1234567890)</small>';
         return;
     }
 
@@ -326,6 +302,25 @@ document.addEventListener('DOMContentLoaded', function() {
             localStorage.removeItem('enquiryType');
             isSubmitting = false;
         });
+    }
+});
+
+// Character counter for requirement textarea
+document.addEventListener('DOMContentLoaded', function() {
+    const requirementTextarea = document.getElementById('requirement');
+    const charCountDisplay = document.getElementById('charCount');
+    const maxLength = requirementTextarea.getAttribute('maxlength');
+
+    if (requirementTextarea && charCountDisplay) {
+        function updateCharCount() {
+            const currentLength = requirementTextarea.value.length;
+            charCountDisplay.textContent = `${currentLength}/${maxLength} characters`;
+        }
+
+        requirementTextarea.addEventListener('input', updateCharCount);
+
+        // Initialize count on page load
+        updateCharCount();
     }
 });
 </script>
