@@ -50,7 +50,7 @@
     <div class="container">
       <h2 class="section-title">Current Openings</h2>
       <?php
-      $json_data = file_get_contents('data/joblisting.json');
+      $json_data = file_get_contents('data/job_listing_data.json');
       $jobs = json_decode($json_data, true);
 
       if (json_last_error() !== JSON_ERROR_NONE) {
