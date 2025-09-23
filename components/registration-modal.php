@@ -30,6 +30,7 @@
                                             name="work_email"
                                             class="form-control custom-input"
                                             placeholder="Enter work email"
+                                            pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$"
                                             required>
                                     </div>
 
@@ -40,8 +41,10 @@
                                             id="mobile_number"
                                             name="mobile_number"
                                             class="form-control custom-input"
-                                            placeholder="Enter mobile number"
-                                            required>
+                                            placeholder="Enter mobile number (e.g. +1234567890)"
+                                            pattern="^\+?[0-9]{10,15}$"
+                                            required
+                                            oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                     </div>
 
                                     <div class="form-group">
@@ -52,7 +55,9 @@
                                             class="form-control custom-input"
                                             placeholder="Describe project needs (eg, mobile app, website design, website development, UX audit..etc)"
                                             rows="6"
+                                            maxlength="200"
                                             required></textarea>
+                                        <div id="charCount" class="form-text text-muted text-end">0/200 characters</div>
                                     </div>
                                     
                                     <div id="enquiry-status"></div>
@@ -107,10 +112,10 @@ function submitEnquiry() {
         return;
     }
 
-    // Phone validation - exactly 10 digits
-    const phoneRegex = /^\d{10}$/;
+    // Phone validation - allows optional '+' and 10 to 15 digits
+    const phoneRegex = /^\+?[0-9]{10,15}$/;
     if (!phoneRegex.test(mobile)) {
-        status.innerHTML = '<small class="text-danger">Please enter a valid 10-digit mobile number</small>';
+        status.innerHTML = '<small class="text-danger">Please enter a valid mobile number (e.g., +1234567890)</small>';
         return;
     }
 
@@ -203,6 +208,25 @@ document.addEventListener('DOMContentLoaded', function() {
             localStorage.removeItem('enquiryType');
             isSubmitting = false;
         });
+    }
+});
+
+// Character counter for requirement textarea
+document.addEventListener('DOMContentLoaded', function() {
+    const requirementTextarea = document.getElementById('requirement');
+    const charCountDisplay = document.getElementById('charCount');
+    const maxLength = requirementTextarea.getAttribute('maxlength');
+
+    if (requirementTextarea && charCountDisplay) {
+        function updateCharCount() {
+            const currentLength = requirementTextarea.value.length;
+            charCountDisplay.textContent = `${currentLength}/${maxLength} characters`;
+        }
+
+        requirementTextarea.addEventListener('input', updateCharCount);
+
+        // Initialize count on page load
+        updateCharCount();
     }
 });
 </script>
