@@ -107,6 +107,13 @@ function submitEnquiry() {
         return;
     }
 
+    // Phone validation - exactly 10 digits
+    const phoneRegex = /^\d{10}$/;
+    if (!phoneRegex.test(mobile)) {
+        status.innerHTML = '<small class="text-danger">Please enter a valid 10-digit mobile number</small>';
+        return;
+    }
+
     // Set submission flag
     isSubmitting = true;
     
