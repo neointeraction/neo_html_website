@@ -71,7 +71,6 @@
         </div>
     </section>
     <!-- browse-project -- end -->
-    <?php include include $path . 'components/submit-enquiry.php'; ?>
     <div class="load-more-btn-projects">
         <button class="btn btn-custom btn-custom-secondary">
             Load More
