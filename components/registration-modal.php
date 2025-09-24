@@ -112,6 +112,12 @@ function submitEnquiry() {
     emailInput.classList.remove("is-invalid");
     mobileInput.classList.remove("is-invalid");
     requirementInput.classList.remove("is-invalid");
+    
+    // Manually remove red border
+    nameInput.style.borderColor = "";
+    emailInput.style.borderColor = "";
+    mobileInput.style.borderColor = "";
+    requirementInput.style.borderColor = "";
 
     let hasErrors = false;
 
@@ -134,8 +140,37 @@ function submitEnquiry() {
 
     // Phone validation - allows optional '+' and 10 to 15 digits
     const phoneRegex = /^\+?[0-9]{10,15}$/;
-    if (!phoneRegex.test(mobile)) {
-        status.innerHTML = '<small class="text-danger">Please enter a valid mobile number (e.g., +1234567890)</small>';
+    if (!mobile || !phoneRegex.test(mobile)) {
+        mobileInput.classList.add("is-invalid");
+        if (!hasErrors) {
+            status.innerHTML = '<small class="text-danger">Please enter a valid mobile number (e.g., +1234567890)</small>';
+        }
+        hasErrors = true;
+    }
+
+    // Requirement validation - check if empty
+    if (!requirement) {
+        requirementInput.classList.add("is-invalid");
+        if (!hasErrors) {
+            status.innerHTML = '<small class="text-danger">Please describe your project needs</small>';
+        }
+        hasErrors = true;
+    }
+
+    if (hasErrors) {
+        // Manually apply red border to invalid fields
+        if (nameInput.classList.contains("is-invalid")) {
+            nameInput.style.borderColor = "red";
+        }
+        if (emailInput.classList.contains("is-invalid")) {
+            emailInput.style.borderColor = "red";
+        }
+        if (mobileInput.classList.contains("is-invalid")) {
+            mobileInput.style.borderColor = "red";
+        }
+        if (requirementInput.classList.contains("is-invalid")) {
+            requirementInput.style.borderColor = "red";
+        }
         return;
     }
 

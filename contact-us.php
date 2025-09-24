@@ -3,6 +3,11 @@
 $show_thank_you = false; // Always show the main form
 ?>
 
+<?php
+// Include tracking functions
+include_once 'includes/tracking-functions.php';
+?>
+
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 
@@ -86,6 +91,7 @@ $show_thank_you = false; // Always show the main form
                                         name="work_email"
                                         class="form-control custom-input"
                                         placeholder="Enter work email"
+                                        pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$"
                                         required>
                                 </div>
 
@@ -96,8 +102,10 @@ $show_thank_you = false; // Always show the main form
                                         id="mobile_number"
                                         name="mobile_number"
                                         class="form-control custom-input"
-                                        placeholder="Enter mobile number"
-                                        required>
+                                        placeholder="Enter mobile number (e.g. +1234567890)"
+                                        pattern="^\+?[0-9]{10,15}$"
+                                        required
+                                        oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                 </div>
 
                                 <div class="form-group">
@@ -108,7 +116,9 @@ $show_thank_you = false; // Always show the main form
                                         class="form-control custom-input"
                                         placeholder="Describe project needs (eg, mobile app, website design, website development, UX audit..etc)"
                                         rows="6"
+                                        maxlength="200"
                                         required></textarea>
+                                    <div id="charCount" class="form-text text-muted text-end">0/200 characters</div>
                                 </div>
                                 
                                 <div id="contact-status"></div>
@@ -133,6 +143,9 @@ $show_thank_you = false; // Always show the main form
     <?php include $path.'includes/js.php'; ?>
 
     <script>
+    // Get tracking data from PHP
+    const trackingData = <?php echo getTrackingDataJson(); ?>;
+
     let isContactSubmitting = false;
 
     function submitContactForm() {
@@ -154,16 +167,51 @@ $show_thank_you = false; // Always show the main form
         const mobile = mobileInput.value.trim();
         const requirement = requirementInput.value.trim();
 
-        // Basic validation
-        if (!name || !email || !mobile || !requirement) {
-            status.innerHTML = '<small class="text-danger">Please fill all fields</small>';
-            return;
+        // Clear previous validation styles
+        nameInput.classList.remove("is-invalid");
+        emailInput.classList.remove("is-invalid");
+        mobileInput.classList.remove("is-invalid");
+        requirementInput.classList.remove("is-invalid");
+
+        let hasErrors = false;
+
+        // Name validation - only letters and spaces, minimum 2 characters
+        if (!name || name.length < 2 || !/^[a-zA-Z\s]+$/.test(name)) {
+            nameInput.classList.add("is-invalid");
+            status.innerHTML = '<small class="text-danger">Please enter a valid name (letters only, minimum 2 characters)</small>';
+            hasErrors = true;
         }
 
-        // Email validation
+        // Email validation - proper email format
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-        if (!emailRegex.test(email)) {
-            status.innerHTML = '<small class="text-danger">Please enter a valid email address</small>';
+        if (!email || !emailRegex.test(email)) {
+            emailInput.classList.add("is-invalid");
+            if (!hasErrors) {
+                status.innerHTML = '<small class="text-danger">Please enter a valid email address</small>';
+            }
+            hasErrors = true;
+        }
+
+        // Phone validation - allows optional '+' and 10 to 15 digits
+        const phoneRegex = /^\+?[0-9]{10,15}$/;
+        if (!mobile || !phoneRegex.test(mobile)) {
+            mobileInput.classList.add("is-invalid");
+            if (!hasErrors) {
+                status.innerHTML = '<small class="text-danger">Please enter a valid mobile number (e.g., +1234567890)</small>';
+            }
+            hasErrors = true;
+        }
+
+        // Requirement validation - check if empty
+        if (!requirement) {
+            requirementInput.classList.add("is-invalid");
+            if (!hasErrors) {
+                status.innerHTML = '<small class="text-danger">Please describe your project needs</small>';
+            }
+            hasErrors = true;
+        }
+
+        if (hasErrors) {
             return;
         }
 
@@ -188,10 +236,16 @@ $show_thank_you = false; // Always show the main form
         formData.append("entry.628579240", requirement);
         formData.append("entry.873621461", enquiryType);
         formData.append("entry.894386", new Date().toISOString());
+        
+        // Add tracking data
+        formData.append("entry.338027777", trackingData.current_url); // URL tracking
+        formData.append("entry.1290170642", trackingData.ip_address); // IP address tracking
 
         // Debug logging
         console.log("=== CONTACT FORM SUBMISSION ===");
         console.log("Enquiry Type:", enquiryType);
+        console.log("Current URL:", trackingData.current_url);
+        console.log("IP Address:", trackingData.ip_address);
         console.log("Timestamp:", new Date().toISOString());
 
         // Single fetch request
@@ -205,21 +259,28 @@ $show_thank_you = false; // Always show the main form
             status.innerHTML = '<small class="text-success">Thank you! Your enquiry has been submitted successfully. We will get back to you soon.</small>';
             document.getElementById("contactForm").reset();
             
-            // Optionally redirect to thank you page or keep on same page
-            setTimeout(() => {
-                status.innerHTML = "";
-                // window.location.href = 'thank-you.php'; // Uncomment if you want to redirect
-            }, 3000);
+            // Clear validation styles after successful submission
+            nameInput.classList.remove("is-invalid");
+            emailInput.classList.remove("is-invalid");
+            mobileInput.classList.remove("is-invalid");
+            requirementInput.classList.remove("is-invalid");
+
+            // Redirect to thank you page
+            window.location.href = '<?php echo $path; ?>components/thank-you.php';
         })
         .catch((error) => {
             console.log("Contact form submission completed (assuming success due to CORS)");
             status.innerHTML = '<small class="text-success">Thank you! Your enquiry has been submitted successfully. We will get back to you soon.</small>';
             document.getElementById("contactForm").reset();
             
-            setTimeout(() => {
-                status.innerHTML = "";
-                // window.location.href = 'thank-you.php'; // Uncomment if you want to redirect
-            }, 3000);
+            // Clear validation styles
+            nameInput.classList.remove("is-invalid");
+            emailInput.classList.remove("is-invalid");
+            mobileInput.classList.remove("is-invalid");
+            requirementInput.classList.remove("is-invalid");
+
+            // Redirect to thank you page
+            window.location.href = '<?php echo $path; ?>components/thank-you.php';
         })
         .finally(() => {
             // Reset button and flag
@@ -229,6 +290,52 @@ $show_thank_you = false; // Always show the main form
             console.log("Contact form submission completed");
         });
     }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        // Character counter for requirement textarea
+        const requirementTextarea = document.getElementById('requirement');
+        const charCountDisplay = document.getElementById('charCount');
+        const maxLength = requirementTextarea.getAttribute('maxlength');
+
+        if (requirementTextarea && charCountDisplay) {
+            function updateCharCount() {
+                const currentLength = requirementTextarea.value.length;
+                charCountDisplay.textContent = `${currentLength}/${maxLength} characters`;
+            }
+
+            requirementTextarea.addEventListener('input', updateCharCount);
+
+            // Initialize count on page load
+            updateCharCount();
+        }
+
+        // Real-time validation clearing
+        const inputs = [
+            document.getElementById("name"),
+            document.getElementById("work_email"),
+            document.getElementById("mobile_number"),
+            document.getElementById("requirement")
+        ];
+
+        inputs.forEach(input => {
+            if (input) {
+                input.addEventListener("input", function() {
+                    this.classList.remove("is-invalid");
+                    document.getElementById("contact-status").innerHTML = "";
+                    
+                    // Update character count for requirement field
+                    if (this.id === "requirement") {
+                        const currentLength = this.value.length;
+                        const maxLength = 200;
+                        const counter = document.getElementById("charCount");
+                        if (counter) {
+                            counter.textContent = `${currentLength}/${maxLength} characters`;
+                        }
+                    }
+                });
+            }
+        });
+    });
     </script>
 </body>
 </html>
