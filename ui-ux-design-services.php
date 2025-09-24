@@ -44,7 +44,7 @@
                     Design shaping <span class="highlight">digital experiences</span>
                 </h1>
                 <div class="experience-block">
-                    <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                         Book A Consultation
                     </button>
                     <p class="banner-subtext">Neointeraction UX UI design agency with 15 years of expertise, has collaborated with various industry sectors and provided UX design & Frontend development services for business enterprises & startups to achieve their business goals.</p>
@@ -389,7 +389,8 @@
     </section>
     <!-- industry-experience -- end -->
     <?php include $path . 'components/registration-modal.php'; ?>
-    <?php $faq_tag = 'services'; include 'components/faq.php'; ?>
+    <?php $faq_tag = 'services';
+    include 'components/faq.php'; ?>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>
     <?php include 'includes/js.php'; ?>

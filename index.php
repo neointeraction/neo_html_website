@@ -84,7 +84,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div>
                 <div class="container">
                     <div class="row">
@@ -136,7 +136,7 @@
     <section class="business-success section-padding">
         <div class="container">
             <h2 class="section-title">
-                Crafting business success through Digital Experience
+                Our Services
             </h2>
             <div class="bs-card-section section-margin">
                 <div class="row justify-content-center">
@@ -247,7 +247,8 @@
             </h2>
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
-                    <?php $client_tag = 'home'; include 'components/clients.php'; ?>
+                    <?php $client_tag = 'home';
+                    include 'components/clients.php'; ?>
                 </div>
             </div>
         </div>
@@ -288,11 +289,11 @@
     <section class="design-events section-padding">
         <div class="container">
 
-         <div class="title-flex">
+            <div class="title-flex">
                 <h2 class="section-title">Design Events</h2>
                 <a href="<?php echo $path; ?>events.php" class="section-links">View All</a>
             </div>
-            
+
             <div class="project-block section-margin">
                 <div class="project-block-item">
                     <div class="row justify-content-center">
@@ -336,11 +337,14 @@
                 <h2 class="section-title">Our Team</h2>
                 <a href="<?php echo $path; ?>team.php" class="section-links">View All</a>
             </div>
-            <?php
-            $team_tag = 'home';
-            $team_limit = 4;
-            include $path . 'components/teams-listing.php';
-            ?>
+            <div class="section-margin">
+                <?php
+                $team_tag = 'home';
+                $team_limit = 4;
+                include $path . 'components/teams-listing.php';
+                ?>
+            </div>
+
         </div>
     </section>
     <!-- our-team -- end  -->
@@ -361,10 +365,11 @@
         </div>
     </section>
     <!-- recent-blogs - end  -->
-    
+
     <?php include $path . 'components/submit-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
-    <?php $faq_tag = 'home'; include $path . 'components/faq.php'; ?>
+    <?php $faq_tag = 'home';
+    include $path . 'components/faq.php'; ?>
     <?php include $path . 'components/join-our-team.php'; ?>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
@@ -372,45 +377,45 @@
 
     <!-- Button tracking script - loads only once -->
     <script>
-    (function() {
-        'use strict';
-        
-        let buttonTrackingInitialized = false;
+        (function() {
+            'use strict';
 
-        function initializeButtonTracking() {
-            if (buttonTrackingInitialized) {
-                return;
+            let buttonTrackingInitialized = false;
+
+            function initializeButtonTracking() {
+                if (buttonTrackingInitialized) {
+                    return;
+                }
+
+                buttonTrackingInitialized = true;
+
+                // Handle "Book A Consultation" buttons
+                const consultationBtns = document.querySelectorAll('.consultation-btn');
+                consultationBtns.forEach(btn => {
+                    btn.addEventListener('click', function(e) {
+                        localStorage.setItem('enquiryType', 'Book A Consultation');
+                        console.log('Set enquiry type: Book A Consultation');
+                    });
+                });
+
+                // Handle "Hire Us" buttons
+                const hireUsBtns = document.querySelectorAll('.hire-us-btn');
+                hireUsBtns.forEach(btn => {
+                    btn.addEventListener('click', function(e) {
+                        const service = this.getAttribute('data-service') || 'General Service';
+                        localStorage.setItem('enquiryType', `Hire Us - ${service}`);
+                        console.log(`Set enquiry type: Hire Us - ${service}`);
+                    });
+                });
             }
-            
-            buttonTrackingInitialized = true;
 
-            // Handle "Book A Consultation" buttons
-            const consultationBtns = document.querySelectorAll('.consultation-btn');
-            consultationBtns.forEach(btn => {
-                btn.addEventListener('click', function(e) {
-                    localStorage.setItem('enquiryType', 'Book A Consultation');
-                    console.log('Set enquiry type: Book A Consultation');
-                });
-            });
-
-            // Handle "Hire Us" buttons
-            const hireUsBtns = document.querySelectorAll('.hire-us-btn');
-            hireUsBtns.forEach(btn => {
-                btn.addEventListener('click', function(e) {
-                    const service = this.getAttribute('data-service') || 'General Service';
-                    localStorage.setItem('enquiryType', `Hire Us - ${service}`);
-                    console.log(`Set enquiry type: Hire Us - ${service}`);
-                });
-            });
-        }
-
-        // Initialize when DOM is ready
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', initializeButtonTracking);
-        } else {
-            initializeButtonTracking();
-        }
-    })();
+            // Initialize when DOM is ready
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', initializeButtonTracking);
+            } else {
+                initializeButtonTracking();
+            }
+        })();
     </script>
 </body>
 
