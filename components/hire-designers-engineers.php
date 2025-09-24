@@ -14,10 +14,16 @@
           <p class="bs-text">
             Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. 
           </p>
-          <button
-            class="btn btn-custom bs-button " data-bs-toggle="modal" data-bs-target="#registerModal">
+  
+          <button class="btn btn-custom bs-button" data-bs-toggle="modal" data-bs-target="#registerModal" data-service="Request a Quote" onclick="setEnquiryType('Request a Quote')">
             Request a Quote
           </button>
+
+          <script>
+            function setEnquiryType(enquiryType) {
+              localStorage.setItem('enquiryType', enquiryType);
+            }
+          </script>
         </div>
       </div>
     </div>

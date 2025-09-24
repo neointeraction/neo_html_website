@@ -1,21 +1,27 @@
+
+
+<?php
+// Remove PHP form handling since we're using Google Forms
+$show_thank_you = false; // Always show the main form
+?>
 <?php
 // Include tracking functions
 include_once 'includes/tracking-functions.php';
 ?>
 
 <!-- Registration Modal -->
-<div class="modal fade" id="registerModal" tabindex="-1" aria-labelledby="registerModalLabel" aria-hidden="true">
+<div class="modal fade" id="registerModal" tabindex="-1" aria-labelledby="registerModalLabel" aria-hidden="true" tabindex="-1">
     <div class="modal-dialog modal-dialog-centered ">
         <div class="modal-content">
             <div class="modal-body">
                 <div class="contact-container">
                     <div class="row g-0">
                         <div class="col-lg-12">
-                            <div class="modal-contact">
+                            <div class="modal-contact" style="min-height: 650px;">
                                 <button type="button" class="btn-close modal-btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                <h2 class="form-title">Enquiry Form</h2>
+                                <h2 class="form-title" id="enquiry-form-title">Enquiry Form</h2>
 
-                                <form id="enquiryForm">
+                                <form id="enquiryForm" novalidate>
                                     <div class="form-group">
                                         <label for="name" class="form-label">Name</label>
                                         <input
@@ -73,6 +79,17 @@ include_once 'includes/tracking-functions.php';
                                         </button>
                                     </div>
                                 </form>
+                                 <div id="successMessage" style="display: none; text-align: center; background-color: white; padding: 20px;">
+                                    <div class="email-icon">
+                                        <img src="assets/images/contact-feedback.svg" alt="feedback icon" style="width: 120px; height: auto; margin-bottom: 20px;" />
+                                    </div>
+                                    <h2 class="form-title">Thank <span class="highlight">you :)</span></h2>
+                                    <p>Your message has been successfully sent.</p>
+                                    <p>We will contact you very soon!</p>
+                                    <button type="button" class="btn btn-custom" data-bs-dismiss="modal">Close</button>
+                                </div>
+                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -81,7 +98,7 @@ include_once 'includes/tracking-functions.php';
         </div>
     </div>
 </div>
-
+</div>
 <script>
 // Get tracking data from PHP
 const trackingData = <?php echo getTrackingDataJson(); ?>;
@@ -124,37 +141,39 @@ function submitEnquiry() {
     // Name validation - only letters and spaces, minimum 2 characters
     if (!name || name.length < 2 || !/^[a-zA-Z\s]+$/.test(name)) {
         nameInput.classList.add("is-invalid");
-        status.innerHTML = '<small class="text-danger">Please enter a valid name (letters only, minimum 2 characters)</small>';
+        nameInput.setCustomValidity("Please enter a valid name (letters only, minimum 2 characters)");
         hasErrors = true;
+    } else {
+        nameInput.setCustomValidity("");
     }
 
     // Email validation - proper email format
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!email || !emailRegex.test(email)) {
         emailInput.classList.add("is-invalid");
-        if (!hasErrors) {
-            status.innerHTML = '<small class="text-danger">Please enter a valid email address</small>';
-        }
+        emailInput.setCustomValidity("Please enter a valid email address");
         hasErrors = true;
+    } else {
+        emailInput.setCustomValidity("");
     }
 
     // Phone validation - allows optional '+' and 10 to 15 digits
     const phoneRegex = /^\+?[0-9]{10,15}$/;
     if (!mobile || !phoneRegex.test(mobile)) {
         mobileInput.classList.add("is-invalid");
-        if (!hasErrors) {
-            status.innerHTML = '<small class="text-danger">Please enter a valid mobile number (e.g., +1234567890)</small>';
-        }
+        mobileInput.setCustomValidity("Please enter a valid mobile number (e.g., +1234567890)");
         hasErrors = true;
+    } else {
+        mobileInput.setCustomValidity("");
     }
 
     // Requirement validation - check if empty
     if (!requirement) {
         requirementInput.classList.add("is-invalid");
-        if (!hasErrors) {
-            status.innerHTML = '<small class="text-danger">Please describe your project needs</small>';
-        }
+        requirementInput.setCustomValidity("Please describe your project needs");
         hasErrors = true;
+    } else {
+        requirementInput.setCustomValidity("");
     }
 
     if (hasErrors) {
@@ -178,7 +197,7 @@ function submitEnquiry() {
     isSubmitting = true;
     
     // Get enquiry type from localStorage
-    const enquiryType = localStorage.getItem('enquiryType') || 'General Enquiry';
+    const enquiryType = localStorage.getItem('enquiryType') || 'Request a Quote';
 
     // Update button state
     submitBtn.disabled = true;
@@ -216,8 +235,13 @@ function submitEnquiry() {
     })
     .then(() => {
         console.log("Form submitted successfully");
-        status.innerHTML = '<small class="text-success">Thank you! Your enquiry has been submitted successfully.</small>';
-        document.getElementById("enquiryForm").reset();
+        
+        // Hide form and show success message
+        document.getElementById("enquiryForm").style.display = "none";
+        document.getElementById("successMessage").style.display = "block";
+        document.getElementById("enquiry-form-title").style.display = "none";
+        document.querySelector(".modal-contact").style.backgroundColor = "white";
+
         localStorage.removeItem('enquiryType');
         
         // Clear validation styles after successful submission
@@ -225,23 +249,16 @@ function submitEnquiry() {
         emailInput.classList.remove("is-invalid");
         mobileInput.classList.remove("is-invalid");
         requirementInput.classList.remove("is-invalid");
-        
-        // Close modal after success
-        setTimeout(() => {
-            const modal = document.getElementById('registerModal');
-            if (window.bootstrap && window.bootstrap.Modal) {
-                const modalInstance = bootstrap.Modal.getInstance(modal) || new bootstrap.Modal(modal);
-                modalInstance.hide();
-            } else if (window.jQuery && window.jQuery.fn.modal) {
-                jQuery('#registerModal').modal('hide');
-            }
-            status.innerHTML = "";
-        }, 2000);
     })
     .catch((error) => {
         console.log("Form submission completed (assuming success due to CORS)");
-        status.innerHTML = '<small class="text-success">Thank you! Your enquiry has been submitted successfully.</small>';
-        document.getElementById("enquiryForm").reset();
+        
+        // Hide form and show success message
+        document.getElementById("enquiryForm").style.display = "none";
+        document.getElementById("successMessage").style.display = "block";
+        document.getElementById("enquiry-form-title").style.display = "none";
+        document.querySelector(".modal-contact").style.backgroundColor = "white";
+
         localStorage.removeItem('enquiryType');
         
         // Clear validation styles
@@ -249,17 +266,6 @@ function submitEnquiry() {
         emailInput.classList.remove("is-invalid");
         mobileInput.classList.remove("is-invalid");
         requirementInput.classList.remove("is-invalid");
-        
-        setTimeout(() => {
-            const modal = document.getElementById('registerModal');
-            if (window.bootstrap && window.bootstrap.Modal) {
-                const modalInstance = bootstrap.Modal.getInstance(modal) || new bootstrap.Modal(modal);
-                modalInstance.hide();
-            } else if (window.jQuery && window.jQuery.fn.modal) {
-                jQuery('#registerModal').modal('hide');
-            }
-            status.innerHTML = "";
-        }, 2000);
     })
     .finally(() => {
         // Reset button and flag
@@ -308,10 +314,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (input.type === "requirement") {
                     const currentLength = this.value.length;
                     const maxLength = 200;
-                    const counter = document.getElementById("char-counter");
+                    const counter = document.getElementById("charCount");
                     
                     if (counter) {
-                        counter.textContent = `${currentLength}/${maxLength}`;
+                        counter.textContent = `${currentLength}/${maxLength} characters`;
                     }
                 }
             });
@@ -322,7 +328,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const modal = document.getElementById('registerModal');
     if (modal) {
         modal.addEventListener('hidden.bs.modal', function() {
+            // Reset form and show it again
             document.getElementById("enquiryForm").reset();
+            document.getElementById("enquiryForm").style.display = "block";
+            document.getElementById("successMessage").style.display = "none";
+            document.querySelector(".modal-contact .form-title").style.display = "block";
+            
             document.getElementById("enquiry-status").innerHTML = "";
             document.getElementById("enquiry-submit-btn").disabled = false;
             document.getElementById("enquiry-submit-btn").textContent = "Submit";
@@ -331,6 +342,7 @@ document.addEventListener('DOMContentLoaded', function() {
             inputs.forEach(input => {
                 if (input.element) {
                     input.element.classList.remove("is-invalid");
+                    input.element.style.borderColor = ""; // Also clear manual styles
                 }
             });
             
