@@ -28,6 +28,28 @@
 <body>
   <?php
   $page = 'Projects';
+
+  // Get current page filename
+  $current_page_filename = basename($_SERVER['PHP_SELF']);
+
+  // Load projects data from JSON
+  $projects_json_path = $path . 'data/projects_data.json';
+  $projects_data = [];
+  if (file_exists($projects_json_path)) {
+      $projects_data = json_decode(file_get_contents($projects_json_path), true);
+  }
+
+  $project_title = 'Download Case Study'; // Default title
+  $case_study_download_url = '#'; // Default URL
+
+  // Find the current project's data
+  foreach ($projects_data as $project) {
+      if (isset($project['link']) && $project['link'] === $current_page_filename) {
+          $project_title = $project['title'];
+          $case_study_download_url = $path . $project['case_study_url']; // Prepend path for correct URL
+          break;
+      }
+  }
   ?>
   <?php include $path . 'includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
@@ -69,6 +91,14 @@
             <h4 class="project-section-title">Overview </h4>
             <button class="btn btn-custom case-study-webview ">
               Book A Consultation
+            </button>
+             <button class="btn btn-custom btn-custom-secondary hire-us-btn"
+                     data-service="intertrust-bpm-tool"
+                     data-bs-toggle="modal"
+                     data-bs-target="#downloadCaseStudyModal"
+                     data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                     data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
+              Download case study
             </button>
           </div>
           <p class="p-main-text">Euclid focuses on managing biomedical data complexities amid advancements in technology.</p>
@@ -172,14 +202,26 @@
             <h2 class="project-section-title">
               How did our solutions help?
             </h2>
-            <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn">
+            <button class="btn btn-custom case-study-webview"
+                    data-case="all"
+                    id="case-study-btn"
+                    data-bs-toggle="modal"
+                    data-bs-target="#downloadCaseStudyModal"
+                    data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                    data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
               Download case study
             </button>
           </div>
           <p class="project-body-text">
             Our solutions brought significant improvements to the user experience of our app, addressing key aspects of usability, accessibility, and engagement. Here's how our efforts positively impacted the user interface,
           </p>
-          <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all" id="case-study-btn">
+          <button class="btn btn-custom case-study-mobview ps-responsive-margin"
+                  data-case="all"
+                  id="case-study-btn"
+                  data-bs-toggle="modal"
+                  data-bs-target="#downloadCaseStudyModal"
+                  data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                  data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
             Download case study
           </button>
           <div class="bs-card-section project-bs-cards">
@@ -253,42 +295,13 @@
     </div>
   </section>
 
-
-
-  <!-- Case Study Download Modal -->
-  <div class="modal fade" id="caseStudyModal" tabindex="-1" role="dialog" aria-labelledby="caseStudyModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="caseStudyModalLabel">Download Case Study</h5>
-          <!-- Change this line in your modal -->
-          <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="mb-3">Enter your email to download the case study and stay updated with our latest insights.</p>
-          <form id="caseStudyForm">
-            <div class="mb-3">
-              <input
-                type="email"
-                id="case-study-email"
-                class="form-control"
-                placeholder="Enter your work email"
-                required>
-            </div>
-            <div id="case-study-status" class="mb-3"></div>
-            <button type="submit" class="btn btn-custom-secondary w-100" id="case-study-submit">
-              Download Case Study
-            </button>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
+  <?php include $path . 'components/download-casestudy-modal.php'; ?>
 
   <!-- banner -- end  -->
   <?php include $path . 'components/footer.php'; ?>
   <?php include $path . 'includes/footer-additional-scripts.php'; ?>
   <?php include $path . 'includes/js.php'; ?>
+
 </body>
 
 </html>

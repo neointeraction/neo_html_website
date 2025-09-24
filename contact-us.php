@@ -81,6 +81,7 @@ include_once 'includes/tracking-functions.php';
                                         class="form-control custom-input"
                                         placeholder="Enter name"
                                         required>
+                                    <div id="name-error" class="text-danger"></div>
                                 </div>
 
                                 <div class="form-group">
@@ -93,6 +94,7 @@ include_once 'includes/tracking-functions.php';
                                         placeholder="Enter work email"
                                         pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$"
                                         required>
+                                    <div id="email-error" class="text-danger"></div>
                                 </div>
 
                                 <div class="form-group">
@@ -106,6 +108,7 @@ include_once 'includes/tracking-functions.php';
                                         pattern="^\+?[0-9]{10,15}$"
                                         required
                                         oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
+                                    <div id="mobile-error" class="text-danger"></div>
                                 </div>
 
                                 <div class="form-group">
@@ -119,6 +122,7 @@ include_once 'includes/tracking-functions.php';
                                         maxlength="200"
                                         required></textarea>
                                     <div id="charCount" class="form-text text-muted text-end">0/200 characters</div>
+                                    <div id="requirement-error" class="text-danger"></div>
                                 </div>
                                 
                                 <div id="contact-status"></div>
@@ -162,6 +166,11 @@ include_once 'includes/tracking-functions.php';
         const submitBtn = document.getElementById("contact-submit-btn");
         const status = document.getElementById("contact-status");
 
+        const nameError = document.getElementById("name-error");
+        const emailError = document.getElementById("email-error");
+        const mobileError = document.getElementById("mobile-error");
+        const requirementError = document.getElementById("requirement-error");
+
         const name = nameInput.value.trim();
         const email = emailInput.value.trim();
         const mobile = mobileInput.value.trim();
@@ -172,13 +181,17 @@ include_once 'includes/tracking-functions.php';
         emailInput.classList.remove("is-invalid");
         mobileInput.classList.remove("is-invalid");
         requirementInput.classList.remove("is-invalid");
+        nameError.textContent = "";
+        emailError.textContent = "";
+        mobileError.textContent = "";
+        requirementError.textContent = "";
 
         let hasErrors = false;
 
         // Name validation - only letters and spaces, minimum 2 characters
         if (!name || name.length < 2 || !/^[a-zA-Z\s]+$/.test(name)) {
             nameInput.classList.add("is-invalid");
-            status.innerHTML = '<small class="text-danger">Please enter a valid name (letters only, minimum 2 characters)</small>';
+            nameError.textContent = "Enter a valid name (letters only, minimum 2 characters)";
             hasErrors = true;
         }
 
@@ -186,9 +199,7 @@ include_once 'includes/tracking-functions.php';
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
         if (!email || !emailRegex.test(email)) {
             emailInput.classList.add("is-invalid");
-            if (!hasErrors) {
-                status.innerHTML = '<small class="text-danger">Please enter a valid email address</small>';
-            }
+            emailError.textContent = "Enter a valid email address";
             hasErrors = true;
         }
 
@@ -196,18 +207,14 @@ include_once 'includes/tracking-functions.php';
         const phoneRegex = /^\+?[0-9]{10,15}$/;
         if (!mobile || !phoneRegex.test(mobile)) {
             mobileInput.classList.add("is-invalid");
-            if (!hasErrors) {
-                status.innerHTML = '<small class="text-danger">Please enter a valid mobile number (e.g., +1234567890)</small>';
-            }
+            mobileError.textContent = "Enter a valid mobile number (e.g., +1234567890)";
             hasErrors = true;
         }
 
         // Requirement validation - check if empty
         if (!requirement) {
             requirementInput.classList.add("is-invalid");
-            if (!hasErrors) {
-                status.innerHTML = '<small class="text-danger">Please describe your project needs</small>';
-            }
+            requirementError.textContent = "Please describe your project needs";
             hasErrors = true;
         }
 

@@ -254,109 +254,59 @@ function handleNavbarScroll() {
 document.addEventListener("DOMContentLoaded", handleNavbarScroll);
 
 document.addEventListener("DOMContentLoaded", function () {
-  const caseStudyButton = document.getElementById("case-study-btn");
-  const form = document.getElementById("caseStudyForm");
-  const emailInput = document.getElementById("case-study-email");
-  const submitBtn = document.getElementById("case-study-submit");
-  const status = document.getElementById("case-study-status");
-
-  let currentCaseType = "";
-
-  // Handle case study button clicks - Using Bootstrap 4 jQuery syntax
-  if (caseStudyButton) {
-    caseStudyButton.addEventListener("click", function () {
-      currentCaseType = this.getAttribute("data-case") || "all";
-      // Bootstrap 4 way to show modal
-      $("#caseStudyModal").modal("show");
-    });
-  }
-
-  // Handle form submission
-  if (form) {
-    form.addEventListener("submit", function (e) {
-      e.preventDefault();
-
-      const email = emailInput.value.trim();
-
-      if (!email) {
-        status.innerHTML = '<small class="text-danger">Please enter your email</small>';
-        return;
+  // Handle case study button clicks
+  document.querySelectorAll('.case-study-webview, .case-study-mobview').forEach(button => {
+    button.addEventListener('click', function() {
+      const caseStudyUrl = this.getAttribute('data-case-study-url');
+      if (caseStudyUrl) {
+        localStorage.setItem('caseStudyUrl', caseStudyUrl);
       }
-
-      submitBtn.disabled = true;
-      submitBtn.textContent = "Processing...";
-
-      // Google Form submission
-      const GOOGLE_FORM_URL =
-        "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
-
-      const formData = new FormData();
-      formData.append("entry.1195398138", email);
-      formData.append("entry.873621461", `Case Study - ${currentCaseType}`);
-      formData.append("entry.894386", new Date().toISOString());
-
-      // Submit to Google Form
-      fetch(GOOGLE_FORM_URL, {
-        method: "POST",
-        mode: "no-cors", // Google Forms doesn't support CORS
-        body: formData,
-      })
-        .then(() => {
-          // Trigger PDF download after successful submission
-          downloadCaseStudyPDF(currentCaseType);
-          status.innerHTML = '<small class="text-success">Download started! Check your downloads folder.</small>';
-          emailInput.value = "";
-
-          // Close modal after successful submission
-          setTimeout(() => {
-            $("#caseStudyModal").modal("hide");
-            status.innerHTML = "";
-          }, 2000);
-        })
-        .catch(() => {
-          // Even if error, assume submission worked (Google Forms blocks CORS)
-          downloadCaseStudyPDF(currentCaseType);
-          status.innerHTML = '<small class="text-success">Download started! Check your downloads folder.</small>';
-          emailInput.value = "";
-
-          setTimeout(() => {
-            $("#caseStudyModal").modal("hide");
-            status.innerHTML = "";
-          }, 2000);
-        })
-        .finally(() => {
-          submitBtn.disabled = false;
-          submitBtn.textContent = "Download Case Study";
-        });
+      // Trigger the modal
+      const caseStudyModalElement = document.getElementById('caseStudyModal');
+      if (caseStudyModalElement) {
+        const caseStudyModal = new bootstrap.Modal(caseStudyModalElement);
+        caseStudyModal.show();
+      }
     });
-  }
-
-  // Function to download PDF
-  function downloadCaseStudyPDF(caseType) {
-    const link = document.createElement("a");
-    const pdfMap = {
-      all: "assets/pdfs/complete-case-study.pdf",
-      usability: "assets/pdfs/improved-usability-case-study.pdf",
-      ui: "assets/pdfs/user-centric-ui-case-study.pdf",
-      flow1: "assets/pdfs/streamlined-user-flow-1-case-study.pdf",
-      flow2: "assets/pdfs/streamlined-user-flow-2-case-study.pdf",
-    };
-
-    const pdfUrl = pdfMap[caseType] || "assets/pdfs/default-case-study.pdf";
-    link.href = pdfUrl;
-    link.download = `${caseType}-case-study.pdf`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  }
-
-  // Clear status when modal is hidden (Bootstrap 4 syntax)
-  $("#caseStudyModal").on("hidden.bs.modal", function () {
-    if (status) status.innerHTML = "";
-    if (emailInput) emailInput.value = "";
-    if (submitBtn) {
-      submitBtn.disabled = false;
-      submitBtn.textContent = "Download Case Study";
-    }
   });
 });
+
+(function() {
+        'use strict';
+        
+        let buttonTrackingInitialized = false;
+
+        function initializeButtonTracking() {
+            if (buttonTrackingInitialized) {
+                return;
+            }
+            
+            buttonTrackingInitialized = true;
+
+            // Handle "Book A Consultation" buttons
+            const consultationBtns = document.querySelectorAll('.consultation-btn');
+            consultationBtns.forEach(btn => {
+                btn.addEventListener('click', function(e) {
+                    localStorage.setItem('enquiryType', 'Book A Consultation');
+                    console.log('Set enquiry type: Book A Consultation');
+                });
+            });
+
+            // Handle "Hire Us" buttons
+            const hireUsBtns = document.querySelectorAll('.hire-us-btn');
+            hireUsBtns.forEach(btn => {
+                btn.addEventListener('click', function(e) {
+                    const service = this.getAttribute('data-service') || 'General Service';
+                    localStorage.setItem('enquiryType', `Hire Us - ${service}`);
+                    console.log(`Set enquiry type: Hire Us - ${service}`);
+                });
+            });
+        }
+
+        // Initialize when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initializeButtonTracking);
+        } else {
+            initializeButtonTracking();
+        }
+    })();

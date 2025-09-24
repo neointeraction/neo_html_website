@@ -7,7 +7,8 @@
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
-    <meta name="description" content="Are you looking for a best UI UX design agency in India? Neointeraction Design is one of the best UI UX Design company in india offering Expert Solutions." />
+    <meta name="description"
+        content="Are you looking for a best UI UX design agency in India? Neointeraction Design is one of the best UI UX Design company in india offering Expert Solutions." />
     <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="<?php echo $base_url; ?>blog" />
     <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design" />
@@ -182,7 +183,8 @@
                                 Crafting revolutionary aesthetics that redefine user
                                 interaction.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Digital Transformation" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Digital Transformation" data-bs-toggle="modal"
+                                data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -198,7 +200,8 @@
                                 Bridging creativity and code for pixel-perfect user
                                 interfaces.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Frontend Development" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Frontend Development" data-bs-toggle="modal"
+                                data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -300,13 +303,9 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <img
-                                        src="assets/images/events/workshop-on-accelerating design-decisions.jpeg"
-                                        alt="Project Image"
-                                        class="img-fluid project-image" />
+                                    <img src="assets/images/events/workshop-on-accelerating design-decisions.jpeg" alt="Project Image" class="img-fluid project-image" />
                                 </div>
-                                <div
-                                    class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <h2 class="project-title">
                                         Workshop on Accelerating Design decisions
                                     </h2>
@@ -368,55 +367,13 @@
 
     <?php include $path . 'components/submit-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
-    <?php $faq_tag = 'home';
-    include $path . 'components/faq.php'; ?>
+    <?php $faq_tag = 'home'; include $path . 'components/faq.php'; ?>
     <?php include $path . 'components/join-our-team.php'; ?>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>
 
-    <!-- Button tracking script - loads only once -->
-    <script>
-        (function() {
-            'use strict';
 
-            let buttonTrackingInitialized = false;
-
-            function initializeButtonTracking() {
-                if (buttonTrackingInitialized) {
-                    return;
-                }
-
-                buttonTrackingInitialized = true;
-
-                // Handle "Book A Consultation" buttons
-                const consultationBtns = document.querySelectorAll('.consultation-btn');
-                consultationBtns.forEach(btn => {
-                    btn.addEventListener('click', function(e) {
-                        localStorage.setItem('enquiryType', 'Book A Consultation');
-                        console.log('Set enquiry type: Book A Consultation');
-                    });
-                });
-
-                // Handle "Hire Us" buttons
-                const hireUsBtns = document.querySelectorAll('.hire-us-btn');
-                hireUsBtns.forEach(btn => {
-                    btn.addEventListener('click', function(e) {
-                        const service = this.getAttribute('data-service') || 'General Service';
-                        localStorage.setItem('enquiryType', `Hire Us - ${service}`);
-                        console.log(`Set enquiry type: Hire Us - ${service}`);
-                    });
-                });
-            }
-
-            // Initialize when DOM is ready
-            if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', initializeButtonTracking);
-            } else {
-                initializeButtonTracking();
-            }
-        })();
-    </script>
 </body>
 
 </html>

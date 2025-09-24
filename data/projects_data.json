@@ -5,7 +5,8 @@
       "image": "intertrust-bpm-tool.jpeg",
       "alt": "Intertrust BPM Tool",
       "tags": ["Enterprise Apps", "BPM"],
-      "link": "intertrust-bpm-tool.php"
+      "link": "intertrust-bpm-tool.php",
+      "case_study_url": "case-study/c16c07_4ad37f70c891459ebf5eba5b2bb9ef17.pdf"
     },
     {
       "title": "Euclid - A biomedical Research platform",
@@ -13,7 +14,8 @@
       "image": "euclid-biomedical-research-platform.jpeg",
       "alt": "Euclid - A biomedical Research platform",
       "tags": ["Start-up Projects", "Healthcare"],
-      "link": "euclid-biomedical-research-platform.php"
+      "link": "euclid-biomedical-research-platform.php",
+      "case_study_url": "case-study/c16c07_4ad37f70c891459ebf5eba5b2bb9ef17.pdf"
     },
     {
       "title": "Intertrust Navigate",
@@ -21,7 +23,8 @@
       "image": "intertrust-navigate.jpeg",
       "alt": "Intertrust Navigate",
       "tags": ["Enterprise Apps", "Fintech"],
-      "link": "intertrust-navigate.php"
+      "link": "intertrust-navigate.php",
+      "case_study_url": "#"
     },
     {
       "title": "Share Trading Platform",
@@ -29,7 +32,8 @@
       "image": "share-trading-platform.jpeg",
       "alt": "Share Trading Platform",
       "tags": ["Fintech", "Capital Market"],
-      "link": "share-trading-platform.php"
+      "link": "share-trading-platform.php",
+      "case_study_url": "#"
     },
     {
       "title": "Crew Mobility Management in a Cruise",
@@ -37,7 +41,8 @@
       "image": "crew-mobility-management-in-a-cruise.jpeg",
       "alt": "Crew Mobility Management in a Cruise",
       "tags": ["Mobile Design", "Travel & Hospitality"],
-      "link": "crew-mobility-management-in-a-cruise.php"
+      "link": "crew-mobility-management-in-a-cruise.php",
+      "case_study_url": "#"
     },
     {
       "title": "Online Tutoring Platform 90+ Tuition App",
@@ -45,7 +50,8 @@
       "image": "online-tutoring-platform.jpeg",
       "alt": "Online Tutoring Platform",
       "tags": ["Mobile Design", "Start-up Projects"],
-      "link": "online-tutoring-platform.php"
+      "link": "online-tutoring-platform.php",
+      "case_study_url": "#"
     },
     {
       "title": "AI Driven Healthcare Consultation Platform",
@@ -53,7 +59,8 @@
       "image": "ai-driven-healthcare-consultation-platform\\ai-driven-healthcare-consultation-platform.jpeg",
       "alt": "AI Driven Healthcare Consultation Platform",
       "tags": ["Healthcare"],
-      "link": "ai-driven-healthcare-consultation-platform.php"
+      "link": "ai-driven-healthcare-consultation-platform.php",
+      "case_study_url": "#"
     },
     {
       "title": "Music Rights Management solution (noctti)",
@@ -61,7 +68,8 @@
       "image": "music-rights-management-solution.jpeg",
       "alt": "Music Rights Management Solution",
       "tags": ["Enterprise Apps"],
-      "link": "music-rights-management-solution.php"
+      "link": "music-rights-management-solution.php",
+      "case_study_url": "#"
     },
     {
       "title": "Cattle Tracking & Management solution",
@@ -69,7 +77,8 @@
       "image": "cattle-tracking-management-solution.jpeg",
       "alt": "Cattle Tracking & Management solution",
       "tags": ["IOT", "B2B"],
-      "link": "cattle-tracking-management-solution.php"
+      "link": "cattle-tracking-management-solution.php",
+      "case_study_url": "#"
     },
     {
       "title": "Revolutionizing Banking Experiences",
@@ -77,7 +86,8 @@
       "image": "revolutionizing-banking-experiences.jpeg",
       "alt": "Revolutionizing Banking Experiences",
       "tags": ["Fintech", "B2C"],
-      "link": "revolutionizing-banking-experiences.php"
+      "link": "revolutionizing-banking-experiences.php",
+      "case_study_url": "#"
     },
     {
       "title": "Player Transfer System",
@@ -85,7 +95,8 @@
       "image": "player-transfer-system.jpeg",
       "alt": "Player Transfer System",
       "tags": ["Enterprise Apps", "B2B"],
-      "link": "player-transfer-system.php"
+      "link": "player-transfer-system.php",
+      "case_study_url": "#"
     },
     {
       "title": "Inkmagik - A Graphic Design Tool",
@@ -93,7 +104,8 @@
       "image": "inkmagik-graphic-design-tool.jpeg",
       "alt": "Inkmagik - A Graphic Design Tool",
       "tags": ["Start-up Projects", "B2C"],
-      "link": "inkmagik-graphic-design-tool.php"
+      "link": "inkmagik-graphic-design-tool.php",
+      "case_study_url": "#"
     },
     {
       "title": "Claiming Efficiency - UX Boost for Cashless TPA",
@@ -101,6 +113,7 @@
       "image": "vidal-cashless-tpa.jpeg",
       "alt": "Claiming Efficiency - UX Boost for Cashless TPA",
       "tags": ["Healthcare", "B2B"],
-      "link": "vidal-cashless-tpa.php"
+      "link": "vidal-cashless-tpa.php",
+      "case_study_url": "#"
     }
 ]

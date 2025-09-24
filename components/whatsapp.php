@@ -4,7 +4,7 @@
        target="_blank"
        class="whatsapp-button"
        title="Chat with us on WhatsApp">
-      <img src="assets/images/social/wa.svg" alt="WhatsApp" class="whatsapp-icon">
+      <img src="<?php echo $path; ?>assets/images/social/wa.svg" alt="WhatsApp" class="whatsapp-icon">
     </a>
   </div>
 
