@@ -14,10 +14,17 @@
           <p class="bs-text">
             Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!
           </p>
-          <button
-            class="btn btn-custom bs-button" data-bs-toggle="modal" data-bs-target="#registerModal">
+
+
+          <button class="btn btn-custom bs-button" data-bs-toggle="modal" data-bs-target="#registerModal" data-service="Request a Quote" onclick="setEnquiryType('Request a Quote')">
             Request a Quote
           </button>
+
+          <script>
+            function setEnquiryType(enquiryType) {
+              localStorage.setItem('enquiryType', enquiryType);
+            }
+          </script>
         </div>
       </div>
     </div>
