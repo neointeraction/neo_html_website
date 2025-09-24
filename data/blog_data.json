@@ -1,146 +1,7 @@
 {
   "featured_blog_slug": "effective-communication-with-clients-and-5-ways-to-improve-it",
   "blog_metadata": {
-    "effective-communication-with-clients-and-5-ways-to-improve-it": {
-      "title": "Effective Communication with clients and 5 ways to improve it",
-      "author": "E-commerce UX Team",
-      "date": "10 months ago",
-      "image": "assets/images/blog/effective-communication/image1.jpg",
-      "alt": "E-commerce UX Design"
-    },
-    "the-future-of-ux-ui-navigating-2024-s-breakthrough-trends": {
-      "title": "The Future Of UX UI: Navigating 2024's Breakthrough Trends",
-      "author": "UX Design Team",
-      "date": "10 months ago",
-      "image": "assets/images/blog/future-of-ux/image1.jpg",
-      "alt": "UX Design"
-    },
-    "voice-user-interface-design-audits-how-to-make-user-engagement": {
-      "title": "Voice User Interface Design Audits: How To Make User Engagement",
-      "author": "UX Design Team",
-      "date": "10 months ago",
-      "image": "assets/images/blog/voice-user-interface/image1.jpg",
-      "alt": "UX Design"
-    },
-    "how-to-make-strategic-business-growth-through-ux-design": {
-      "title": "How to make Strategic Business Growth Through UX Design",
-      "author": "UX Design Team",
-      "date": "10 months ago",
-      "image": "assets/images/blog/how-to-make-strategic/image1.jpg",
-      "alt": "UX Design"
-    },
-    "what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design": {
-      "title": "What is Design Thinking and How to Implement it in UI UX Design",
-      "author": "UX Design Team",
-      "date": "10 months ago",
-      "image": "assets/images/blog/what-is-design-thinking/image1.jpg",
-      "alt": "UX Design"
-    },
-    "effective-ux-audit-and-website-redesign-to-boost-ux-for-lic": {
-      "title": "Effective UX Audit and Website Redesign to boost UX for LIC",
-      "author": "Thirunavukkarasu Lakshumanan",
-      "date": "10 months ago",
-      "image": "assets/images/blog/effective-ux-audit/image1.jpg",
-      "alt": "Effective UX Audit and Website Redesign to boost UX for LIC"
-    },
-    "maximizing-efficiency-with-ai-powered-ux-audits-the-future-of-saas-product-optimization": {
-      "title": "The Ultimate Guide To AI UX Audits: Empower SaaS Product",
-      "author": "Sahla Feroc",
-      "date": "Oct 17, 2024",
-      "image": "assets/images/blog/maximizing-efficiency/image1.jpg",
-      "alt": "Maximizing Effiency with AI UX Audits"
-    },
-    "how-gmail-s-ux-design-makes-email-management-better": {
-      "title": "How Gmail's UX Design makes email management better",
-      "author": "Vanessa Lobo",
-      "date": "Nov 6, 2024",
-      "image": "assets/images/blog/how-gmail-ui/image1.jpg",
-      "alt": "How Gmail's UX Design makes email management better"
-    },
-    "how-to-bring-a-unified-frontend-experience-for-all-our-products": {
-      "title": "How to bring a unified frontend experience for all our products",
-      "author": "Aditya Sharma",
-      "date": "Jul 17, 2024",
-      "image": "assets/images/blog/how-to-bring-unified/image1.jpg",
-      "alt": "How to bring a unified frontend experience for all our products"
-    },
-    "top-5-frontend-development-trends-of-2024": {
-      "title": "Top 5 frontend development trends of 2024",
-      "author": "Aditya Sharma",
-      "date": "Jul 12, 2024",
-      "image": "assets/images/blog/top-frontend-trends/image1.jpg",
-      "alt": "Top 5 frontend development trends of 2024"
-    },
-    "voice-interface-design-enhancing-user-interaction-in-a-voice-first-world":{
-      "title": "Voice Interface Design: Enhancing User Interaction in a Voice-First World",
-      "author": "Vanessa Lobo",
-      "date": "Jul 19, 2024",
-      "image": "assets/images/blog/voice-interface-design/image1.jpg",
-      "alt": "Voice Interface Design: Enhancing User Interaction in a Voice-First World"
-    },
-    "the-impact-of-color-in-branding":{
-      "title": "The Impact of Color in Branding",
-      "author": "Sahla Feroc",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/impact-of-color/image1.jpg",
-      "alt": "The Impact of Color in Branding"
-    },
-    "adobe-buys-figma-is-this-a-positive-or-negative-development":{
-      "title": "Adobe Buys Figma: Is this a positive or negative development?",
-      "author": "Ashutosh Shakya",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/adobe-buys-figma/image1.jpg",
-      "alt": "Adobe Buys Figma: Is this a positive or negative development?"
-    },
-    "how-bumble-s-diverse-connection-modes-boost-user-engagement-and-retention":{
-      "title": "How Bumble's Diverse Connection Modes Boost User Engagement and Retention",
-      "author": "Sakshi Patil",
-      "date": "Sept 11, 2024",
-      "image": "assets/images/blog/how-bumble-diverse/image1.jpg",
-      "alt": "How Bumble's Diverse Connection Modes Boost User Engagement and Retention"
-    },
-    "interaction-design-what-is-it-and-why-is-it-important":{
-      "title": "Interaction design: what is it and why is it important?",
-      "author": "Sebin George",
-      "date": "May 8, 2024",
-      "image": "assets/images/blog/interaction-design/image1.jpg",
-      "alt": "Interaction design: what is it and why is it important?"
-    },
-    "composable-business-how-ux-design-secure-better-user-experiences":{
-      "title": "Composable Business : How UX Design Secure Better User Experiences",
-      "author": "Sahla Feroc",
-      "date": "Dec 27, 2024",
-      "image": "assets/images/blog/composible-business/image1.jpg",
-      "alt": "Composable Business : How UX Design Secure Better User Experiences"
-    },
-    "how-to-align-good-ux-ui-concepts-with-customer-requirements":{
-      "title": "How to align good UX UI concepts with customer requirements?",
-      "author": "Wenkit",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/how-to-align/image1.jpg",
-      "alt": "How to align good UX UI concepts with customer requirements?"
-    },
-    "takeaways-from-our-1-day-ux-design-workshop": {
-      "title": "Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta",
-      "author": "Vanessa Lobo",
-      "date": "Nov 15, 2023",
-      "image": "assets/images/blog/takeaway-from-workshop/image1.jpg",
-      "alt": "Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta"
-    },
-    "how-to-promote-positive-emotions-in-the-user-experience-of-your-product": {
-      "title": "How to Promote Positive emotions in the User Experience of Your Product",
-      "author": "Vanessa Lobo",
-      "date": "Nov 15, 2023",
-      "image": "assets/images/blog/how-to-promote-positive/image1.jpg",
-      "alt": "How to Promote Positive emotions in the User Experience of Your Product"
-    },
-    "boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash": {
-      "title": "Boost fintech UX noesis : A UI UX design Case study on bKash",
-      "author": "Sahla Feroc",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/boost-fintech-ux/image1.jpg",
-      "alt": "Boost fintech UX noesis : A UI UX design Case study on bKash"
-    },
+    
     "everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know": {
       "title": "Everything As A Service (XaaS) & The Surging UI UX Landscape: What You Need To Know",
       "author": "Sahla Feroc",
@@ -161,6 +22,41 @@
       "date": "Jan 24, 2024",
       "image": "assets/images/blog/ui-ux-design-microinteractions/image1.jpg",
       "alt": "UI UX Design can be enhanced using micro interactions and this is how"
+    },
+    "tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization": {
+      "title": "Tailoring AI-Powered DTx: The Importance of Healthcare Personalization",
+      "author": "Vanessa Lobo",
+      "date": "Jun 26, 2024",
+      "image": "assets/images/blog/tailoring-ai-powered-dtx/image1.jpg",
+      "alt": "Tailoring AI-Powered DTx: The Importance of Healthcare Personalization"
+    },
+    "fostering-user-confidence-in-your-brand-through-designing-for-trust": {
+      "title": "Fostering User Confidence in Your Brand through Designing for Trust",
+      "author": "Veena Varghese",
+      "date": "Jan 17, 2024",
+      "image": "assets/images/blog/fostering-user-confidence/image1.jpg",
+      "alt": "Fostering User Confidence in Your Brand through Designing for Trust"
+    },
+    "tap-into-the-revolutionary-potential-of-ai-for-ux-research": {
+      "title": "Tap into the Revolutionary Potential of AI for UX Research",
+      "author": "Veena Varghese",
+      "date": "Aug 9, 2024",
+      "image": "assets/images/blog/tap-into-revolutionary/image1.jpg",
+      "alt": "Tap into the Revolutionary Potential of AI for UX Research"
+    },
+    "neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy": {
+      "title": "Neobanking and the need to redefine banking solutions in the Indian Economy",
+      "author": "Sahla Feroc",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/neobanking-and-the-need/image1.jpg",
+      "alt": "Neobanking and the need to redefine banking solutions in the Indian Economy"
+    },
+    "unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization": {
+      "title": "Unlock Future Of UX Design: Epic Guide To AI-Powered Personalization",
+      "author": "Sebin George",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/unlock-future-of-ux/image1.jpg",
+      "alt": "Unlock Future Of UX Design: Epic Guide To AI-Powered Personalization"
     },
 
     "what-you-need-to-know-about-vr-interaction-design": {
