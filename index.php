@@ -68,7 +68,7 @@
                             <div class="banner-content">
                                 <h4 class="banner-supertext">business impact and ROI-driven design</h4>
                                 <h1 class="banner-title">
-                                    Make tech products <span class="highlight">more human</span>
+                                    Make tech products <span class="highlight"><br>more human</span>
                                 </h1>
                                 <button class="btn btn-custom btn-custom-secondary banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                                     Book A Consultation
@@ -227,7 +227,7 @@
                 <!-- 1b+ lives impacted -->
                 <div class="col-6 col-md-3 count-up-item  mt-md-0">
                     <div class="count-number" data-target="1">0</div>
-                    <div class="count-label">billion+ lives impacted</div>
+                    <div class="count-label"> lives impacted</div>
                 </div>
                 <!-- 10+ countries impacted -->
                 <div class="col-6 col-md-3 count-up-item mt-md-0">
@@ -275,7 +275,7 @@
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Demo Video</h2>
+            <h2 class="section-title">Get to know us and what we do</h2>
             <div class="video-container section-margin">
                 <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
                     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

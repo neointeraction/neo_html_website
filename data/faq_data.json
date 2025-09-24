@@ -2,7 +2,7 @@
   {
     "question": "How to choose a UI UX design company?",
     "answer": "Look at their design portfolio, read client reviews, team strength and their experience in various industry domains. Make sure their design process and communication match what you need. It will also help if the agency has the capability for end to end design delivery including the front end development.",
-    "tags": ["ui-ux-design", "general", "services"]
+    "tags": ["ui-ux-design", "general"]
   },
   {
     "question": "What does a UI UX Agency do?",
@@ -62,7 +62,7 @@
   {
     "question": "Does your design agency in India provide additional services such as UX audits and web development?",
     "answer": "Yes, we also provide UX audits, front end development, and other related services to ensure a cohesive digital product. Learn more by <a href='http://www.neointeraction.com/contact-us.php'>contacting us.</a>",
-    "tags": ["home"]
+    "tags": ["home","services"]
   },
 
   {
@@ -108,7 +108,7 @@
   {
     "question": "Why is UI UX important?",
     "answer": "UI/UX design ensures products are easy and enjoyable to use, leading to higher user satisfaction, engagement, and conversion rates. It builds trust and loyalty, encouraging users to return and recommend your product.",
-    "tags": ["services"]
+    "tags": []
   },
   {
     "question": "How long does it take to complete a UI/UX design project?",

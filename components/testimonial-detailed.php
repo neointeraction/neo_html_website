@@ -30,7 +30,7 @@
                             </div>
                             <div class="testimonial-action">
                                 <a href="<?php echo $path . $testimonial['project_link']; ?>" class="btn btn-custom btn-custom-secondary">
-                                    Take me to project details
+                                    View project
                                 </a>
                             </div>
                         </div>
@@ -59,7 +59,7 @@
                         </div>
                         <div class="testimonial-action">
                             <a href="<?php echo $path . $testimonial['project_link']; ?>" class="btn btn-custom btn-custom-secondary">
-                                Take me to project details
+                                View project
                             </a>
                         </div>
                     </div>

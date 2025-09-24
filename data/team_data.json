@@ -15,7 +15,7 @@
     },
     {
         "name": "Vanessa Lobo",
-        "role": "UX Designer",
+        "role": "Senior UX UI Designer",
         "image": "assets/images/team/vanessa.jpeg",
         "linkedin": "https://www.linkedin.com/in/vanessa-lobo-73210a20b/",
         "tags": ["all", "home"]
@@ -27,13 +27,7 @@
         "linkedin": "https://www.linkedin.com/in/midhunvmanikkath/",
         "tags": ["all", "home"]
     },
-    {
-        "name": "Allwyn Ebenezer PM",
-        "role": "UI Developer",
-        "image": "assets/images/team/allwyn.jpeg",
-        "linkedin": "https://www.linkedin.com/in/allwyn-ebenezer/",
-        "tags": ["all", "home"]
-    },
+    
     {
         "name": "Jishnu Krishnan",
         "role": "UI Developer",
@@ -57,7 +51,7 @@
     },
     {
         "name": "Liya Theresa Siby",
-        "role": "UI Developer",
+        "role": "Digital Marketing Executive",
         "image": "assets/images/team/liya.jpeg",
         "linkedin": "https://www.linkedin.com/in/liya-theresa-siby-309674205/",
         "tags": ["all", "home"]
@@ -92,7 +86,7 @@
     },
     {
         "name": "Ashutosh Shakya",
-        "role": "Graphic Designer",
+        "role": "UX Designer",
         "image": "assets/images/team/ashutosh.jpeg",
         "linkedin": "https://www.linkedin.com/in/ashutoshkya/",
         "tags": ["all", "home"]
