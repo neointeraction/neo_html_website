@@ -6,7 +6,7 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
-    <title>About Neointeraction Design | One of the top UI UX developer in India | Get a free quote now</title>
+    <title>About Neointeraction Design | Leading UI UX Design Agency in India</title>
     <meta name="description"
         content="Looking for a skilled UI UX developer in India? Neointeraction's design team excels in UX UI design and front-end development for interactive applications." />
     <link rel="canonical" href="https://www.neointeraction.com/about-us" />

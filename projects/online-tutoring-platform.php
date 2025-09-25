@@ -39,7 +39,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Online Tutoring Platform <span class="highlight">90+ Tuition App</span>
+        90+ Tuition App - Online Tutoring Platform
       </h1>
     </div>
     <!-- project-banner-img -->

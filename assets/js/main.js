@@ -257,12 +257,16 @@ document.addEventListener("DOMContentLoaded", function () {
   // Handle case study button clicks
   document.querySelectorAll('.case-study-webview, .case-study-mobview').forEach(button => {
     button.addEventListener('click', function() {
+      const projectTitle = this.getAttribute('data-project-title');
       const caseStudyUrl = this.getAttribute('data-case-study-url');
+      if (projectTitle) {
+        localStorage.setItem('enquiryType', projectTitle);
+      }
       if (caseStudyUrl) {
         localStorage.setItem('caseStudyUrl', caseStudyUrl);
       }
       // Trigger the modal
-      const caseStudyModalElement = document.getElementById('caseStudyModal');
+      const caseStudyModalElement = document.getElementById('downloadCaseStudyModal'); // Corrected ID
       if (caseStudyModalElement) {
         const caseStudyModal = new bootstrap.Modal(caseStudyModalElement);
         caseStudyModal.show();

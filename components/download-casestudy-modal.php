@@ -18,56 +18,55 @@ include_once $path . 'includes/tracking-functions.php';
 
                                 <form id="downloadCaseStudyForm" novalidate>
                                     <div class="form-group">
-                                        <label for="name-casestudy" class="form-label">Name</label>
+                                        <label for="cs_name-casestudy" class="form-label">Name</label>
                                         <input
                                             type="text"
-                                            id="name-casestudy"
-                                            name="name"
+                                            id="cs_name-casestudy"
+                                            name="cs_name"
                                             class="form-control custom-input"
                                             placeholder="Enter name"
                                             required>
-                                        <div id="name-error-casestudy" class="text-danger"></div>
+                                        <div id="cs_name-error-casestudy" class="text-danger"></div>
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="work_email-casestudy" class="form-label">Work email</label>
+                                        <label for="cs_work_email-casestudy" class="form-label">Work email</label>
                                         <input
                                             type="email"
-                                            id="work_email-casestudy"
-                                            name="work_email"
+                                            id="cs_work_email-casestudy"
+                                            name="cs_work_email"
                                             class="form-control custom-input"
                                             placeholder="Enter work email"
                                             pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$"
                                             required>
-                                        <div id="email-error-casestudy" class="text-danger"></div>
+                                        <div id="cs_email-error-casestudy" class="text-danger"></div>
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="mobile_number-casestudy" class="form-label">Mobile Number</label>
+                                        <label for="cs_mobile_number-casestudy" class="form-label">Mobile Number</label>
                                         <input
                                             type="tel"
-                                            id="mobile_number-casestudy"
-                                            name="mobile_number"
+                                            id="cs_mobile_number-casestudy"
+                                            name="cs_mobile_number"
                                             class="form-control custom-input"
                                             placeholder="Enter mobile number (e.g. +1234567890)"
                                             pattern="^\+?[0-9]{10,15}$"
                                             required>
-                                        <div id="mobile-error-casestudy" class="text-danger"></div>
+                                        <div id="cs_mobile-error-casestudy" class="text-danger"></div>
                                     </div>
                                     
                                     <div class="form-btn-container d-flex justify-content-end">
-                                        <button type="submit" class="btn btn-custom" id="download-casestudy-submit-btn">
+                                        <button type="submit" class="btn btn-custom" id="cs_download-casestudy-submit-btn">
                                             Submit
                                         </button>
                                     </div>
                                 </form>
-                                 <div id="successMessage" style="display: none; text-align: center; background-color: white; padding: 20px;">
+                                 <div id="cs_successMessage" style="display: none; text-align: center; background-color: white; padding: 20px;">
                                     <div class="email-icon">
                                         <img src="<?php echo $path; ?>assets/images/contact-feedback.svg" alt="feedback icon" style="width: 120px; height: auto; margin-bottom: 20px;" />
                                     </div>
                                     <h2 class="form-title">Thank you for your interest!</h2>
-                                    <p>Your case study download is ready.</p>
-                                    <a id="downloadCaseStudyButton" href="#" class="btn btn-custom" download>Download Case Study</a>
+                                    <p id="cs_emailConfirmationMessage">An email with the download link is sent to "the validated email address".</p>
                                     <button type="button" class="btn btn-custom" data-bs-dismiss="modal">Close</button>
                                 </div>
                             </div>

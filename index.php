@@ -7,8 +7,7 @@
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
-    <meta name="description"
-        content="Are you looking for a best UI UX design agency in India? Neointeraction Design is one of the best UI UX Design company in india offering Expert Solutions." />
+    <meta name="description"content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." />
     <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="<?php echo $base_url; ?>blog" />
     <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design" />
@@ -365,8 +364,8 @@
     </section>
     <!-- recent-blogs - end  -->
 
-    <?php include $path . 'components/submit-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
+    <?php include $path . 'components/submit-enquiry.php'; ?>
     <?php $faq_tag = 'home'; include $path . 'components/faq.php'; ?>
     <?php include $path . 'components/join-our-team.php'; ?>
     <?php include $path . 'components/footer.php'; ?>

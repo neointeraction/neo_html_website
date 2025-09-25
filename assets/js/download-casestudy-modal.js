@@ -8,53 +8,60 @@ function submitCaseStudyForm() {
         return;
     }
 
-    const nameInput = document.getElementById("name-casestudy");
-    const emailInput = document.getElementById("work_email-casestudy");
-    const mobileInput = document.getElementById("mobile_number-casestudy");
-    const submitBtn = document.getElementById("download-casestudy-submit-btn");
+    const cs_nameInput = document.getElementById("cs_name-casestudy");
+    console.log("cs_nameInput:", cs_nameInput);
+    const cs_emailInput = document.getElementById("cs_work_email-casestudy");
+    console.log("cs_emailInput:", cs_emailInput);
+    const cs_mobileInput = document.getElementById("cs_mobile_number-casestudy");
+    console.log("cs_mobileInput:", cs_mobileInput);
+    const cs_submitBtn = document.getElementById("cs_download-casestudy-submit-btn");
+    console.log("cs_submitBtn:", cs_submitBtn);
 
-    const nameError = document.getElementById("name-error-casestudy");
-    const emailError = document.getElementById("email-error-casestudy");
-    const mobileError = document.getElementById("mobile-error-casestudy");
+    const cs_nameError = document.getElementById("cs_name-error-casestudy");
+    console.log("cs_nameError:", cs_nameError);
+    const cs_emailError = document.getElementById("cs_email-error-casestudy");
+    console.log("cs_emailError:", cs_emailError);
+    const cs_mobileError = document.getElementById("cs_mobile-error-casestudy");
+    console.log("cs_mobileError:", cs_mobileError);
 
-    const name = nameInput.value.trim();
-    const email = emailInput.value.trim();
-    const mobile = mobileInput.value.trim();
+    const cs_name = cs_nameInput.value.trim();
+    const cs_email = cs_emailInput.value.trim();
+    const cs_mobile = cs_mobileInput.value.trim();
 
     // Clear previous validation styles
-    nameInput.classList.remove("is-invalid");
-    emailInput.classList.remove("is-invalid");
-    mobileInput.classList.remove("is-invalid");
-    nameError.textContent = "";
-    emailError.textContent = "";
-    mobileError.textContent = "";
+    cs_nameInput.classList.remove("is-invalid");
+    cs_emailInput.classList.remove("is-invalid");
+    cs_mobileInput.classList.remove("is-invalid");
+    cs_nameError.textContent = "";
+    cs_emailError.textContent = "";
+    cs_mobileError.textContent = "";
     
-    let hasErrors = false;
+    let cs_hasErrors = false;
 
     // Name validation - only letters and spaces, minimum 2 characters
-    if (!name || name.length < 2 || !/^[a-zA-Z\s]+$/.test(name)) {
-        nameInput.classList.add("is-invalid");
-        nameError.textContent = "Enter a valid name (letters only, minimum 2 characters)";
-        hasErrors = true;
+    if (!cs_name || cs_name.length < 2 || !/^[a-zA-Z\s]+$/.test(cs_name)) {
+        cs_nameInput.classList.add("is-invalid");
+        cs_nameError.textContent = "Enter a valid name (letters only, minimum 2 characters)";
+        cs_hasErrors = true;
     }
 
     // Email validation - proper email format
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!email || !emailRegex.test(email)) {
-        emailInput.classList.add("is-invalid");
-        emailError.textContent = "Enter a valid email address";
-        hasErrors = true;
+    if (!cs_email || !emailRegex.test(cs_email)) {
+        cs_emailInput.classList.add("is-invalid");
+        cs_emailError.textContent = "Enter a valid email address";
+        cs_hasErrors = true;
     }
 
     // Phone validation - allows optional '+' and 10 to 15 digits
     const phoneRegex = /^\+?[0-9]{10,15}$/;
-    if (!mobile || !phoneRegex.test(mobile)) {
-        mobileInput.classList.add("is-invalid");
-        mobileError.textContent = "Enter a valid mobile number (e.g., +1234567890)";
-        hasErrors = true;
+    if (!cs_mobile || !phoneRegex.test(cs_mobile)) {
+        cs_mobileInput.classList.add("is-invalid");
+        cs_mobileError.textContent = "Enter a valid mobile number (e.g., +1234567890)";
+        cs_hasErrors = true;
     }
 
-    if (hasErrors) {
+    if (cs_hasErrors) {
         return;
     }
 
@@ -63,13 +70,13 @@ function submitCaseStudyForm() {
     
     // Get enquiry type and case study URL from localStorage
     // These are set when the "Download case study" button is clicked
-    const enquiryType = localStorage.getItem('enquiryType');
+    let cs_enquiryType = localStorage.getItem('enquiryType');
     const caseStudyUrl = localStorage.getItem('caseStudyUrl');
     
     // Fallback if localStorage items are not set (should not happen if button click is the entry point)
-    if (!enquiryType) {
-        console.warn("enquiryType not found in localStorage, defaulting.");
-        enquiryType = 'Download Case Study';
+    if (!cs_enquiryType) {
+        console.warn("cs_enquiryType not found in localStorage, defaulting.");
+        cs_enquiryType = 'Download Case Study';
     }
     if (!caseStudyUrl) {
         console.warn("caseStudyUrl not found in localStorage, defaulting.");
@@ -77,83 +84,81 @@ function submitCaseStudyForm() {
     }
 
     // Update button state
-    submitBtn.disabled = true;
-    submitBtn.textContent = "Submitting...";
+    cs_submitBtn.disabled = true;
+    cs_submitBtn.textContent = "Submitting...";
 
     // Google Form submission
-    const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
+    const CS_GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
+    // Local server-side script submission
+    const CS_EMAIL_SUBMIT_URL ="../includes/send_casestudy_email.php"; // Path to your new PHP script
 
-    const formData = new FormData();
-    formData.append("entry.1195398138", email);
-    formData.append("entry.2044501982", name);
-    formData.append("entry.943859299", mobile);
-    formData.append("entry.628579240", enquiryType); // Now sends project title as requirement
-    formData.append("entry.873621461", "Case Study Download"); // Now sends static string as enquiryType
-    formData.append("entry.894386", new Date().toISOString());
-    
-    // Add tracking data
-    // Debug logging (excluding tracking data as per user request)
+    const googleFormData = new FormData();
+    googleFormData.append("entry.1195398138", cs_email);
+    googleFormData.append("entry.2044501982", cs_name);
+    googleFormData.append("entry.943859299", cs_mobile);
+    googleFormData.append("entry.628579240", cs_enquiryType); // Now sends project title as requirement
+    googleFormData.append("entry.873621461", "Case Study Download"); // Now sends static string as enquiryType
+    googleFormData.append("entry.894386", new Date().toISOString());
+
+    const emailFormData = new FormData();
+    emailFormData.append("cs_name", cs_name);
+    emailFormData.append("cs_work_email", cs_email);
+    emailFormData.append("cs_mobile_number", cs_mobile);
+    emailFormData.append("cs_enquiryType", cs_enquiryType);
+    emailFormData.append("caseStudyUrl", caseStudyUrl); // Pass the case study URL
+
     console.log("=== CASE STUDY SUBMISSION ===");
-    console.log("Enquiry Type:", enquiryType);
-    console.log("Timestamp:", new Date().toISOString());
+    console.log("Enquiry Type:", cs_enquiryType);
     console.log("Case Study URL:", caseStudyUrl);
 
-    // Single fetch request
-    fetch(GOOGLE_FORM_URL, {
-        method: "POST",
-        mode: "no-cors",
-        body: formData
-    })
-    .then(() => {
-        console.log("Form submitted successfully");
-        
-        // Hide form and show success message
-        document.getElementById("downloadCaseStudyForm").style.display = "none";
-        document.getElementById("successMessage").style.display = "block";
-        document.getElementById("download-casestudy-form-title").style.display = "none";
-        document.querySelector(".modal-contact").style.backgroundColor = "white";
+    // Perform both submissions concurrently
+    Promise.all([
+        fetch(CS_GOOGLE_FORM_URL, {
+            method: "POST",
+            mode: "no-cors", // Google Forms require no-cors
+            body: googleFormData
+        }),
+        fetch(CS_EMAIL_SUBMIT_URL, {
+            method: "POST",
+            body: emailFormData
+        }).then(response => response.json()) // Parse JSON response for our script
+    ])
+    .then(([googleResponse, emailData]) => {
+        console.log("Google Form submission completed (assuming success due to CORS)");
+        console.log("Email script server response:", emailData);
 
-        // Set the download link
-        const downloadButton = document.getElementById("downloadCaseStudyButton");
-        if (downloadButton) {
-            downloadButton.href = caseStudyUrl;
+        // Check if email sending was successful
+        if (emailData && emailData.status === 'success') {
+            // Hide form and show success message
+            document.getElementById("downloadCaseStudyForm").style.display = "none";
+            document.getElementById("cs_successMessage").style.display = "block";
+            document.getElementById("download-casestudy-form-title").style.display = "none";
+            document.querySelector(".modal-contact").style.backgroundColor = "white";
+
+            // Display the email address in the success message
+            document.getElementById("cs_emailConfirmationMessage").textContent = `An email with the download link has been sent to ${cs_email}.`;
+
+            localStorage.removeItem('enquiryType');
+            localStorage.removeItem('caseStudyUrl');
+            
+            // Clear validation styles after successful submission
+            cs_nameInput.classList.remove("is-invalid");
+            cs_emailInput.classList.remove("is-invalid");
+            cs_mobileInput.classList.remove("is-invalid");
+        } else {
+            // Handle error from our email script
+            alert("Error sending email: " + (emailData ? emailData.message : "Unknown error"));
+            console.error("Email script error:", emailData ? emailData.message : "Unknown error");
         }
-
-        localStorage.removeItem('enquiryType');
-        localStorage.removeItem('caseStudyUrl');
-        
-        // Clear validation styles after successful submission
-        nameInput.classList.remove("is-invalid");
-        emailInput.classList.remove("is-invalid");
-        mobileInput.classList.remove("is-invalid");
     })
     .catch((error) => {
-        console.log("Form submission completed (assuming success due to CORS)");
-        
-        // Hide form and show success message
-        document.getElementById("downloadCaseStudyForm").style.display = "none";
-        document.getElementById("successMessage").style.display = "block";
-        document.getElementById("download-casestudy-form-title").style.display = "none";
-        document.querySelector(".modal-contact").style.backgroundColor = "white";
-
-        // Set the download link
-        const downloadButton = document.getElementById("downloadCaseStudyButton");
-        if (downloadButton) {
-            downloadButton.href = caseStudyUrl;
-        }
-
-        localStorage.removeItem('enquiryType');
-        localStorage.removeItem('caseStudyUrl');
-        
-        // Clear validation styles
-        nameInput.classList.remove("is-invalid");
-        emailInput.classList.remove("is-invalid");
-        mobileInput.classList.remove("is-invalid");
+        console.error("One or more form submissions failed:", error);
+        alert("An unexpected error occurred during submission. Please try again.");
     })
     .finally(() => {
         // Reset button and flag
-        submitBtn.disabled = false;
-        submitBtn.textContent = "Submit";
+        cs_submitBtn.disabled = false;
+        cs_submitBtn.textContent = "Submit";
         isCaseStudySubmitting = false; // Use new variable name
         console.log("Submission completed");
     });
@@ -165,13 +170,20 @@ document.addEventListener('DOMContentLoaded', function() {
     const downloadCaseStudyButtons = document.querySelectorAll('[data-bs-target="#downloadCaseStudyModal"]');
     downloadCaseStudyButtons.forEach(button => {
         button.addEventListener('click', function() {
-            const projectTitle = this.dataset.projectTitle;
-            const caseStudyUrl = this.dataset.caseStudyUrl;
+            // Check if dataset exists before accessing properties
+            const projectTitle = this.dataset ? this.dataset.projectTitle : null;
+            const caseStudyUrl = this.dataset ? this.dataset.caseStudyUrl : null;
+            
+            // Only set localStorage items if the data attributes exist
             if (projectTitle) {
                 localStorage.setItem('enquiryType', projectTitle);
+            } else {
+                localStorage.removeItem('enquiryType'); // Clear if not present
             }
             if (caseStudyUrl) {
                 localStorage.setItem('caseStudyUrl', caseStudyUrl);
+            } else {
+                localStorage.removeItem('caseStudyUrl'); // Clear if not present
             }
             console.log(`LocalStorage set: enquiryType = ${projectTitle}, caseStudyUrl = ${caseStudyUrl}`);
         });
@@ -179,6 +191,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Handle form submission
     const downloadCaseStudyForm = document.getElementById("downloadCaseStudyForm");
+    console.log("downloadCaseStudyForm:", downloadCaseStudyForm);
     if (downloadCaseStudyForm) {
         console.log("downloadCaseStudyForm found, attaching submit listener.");
         downloadCaseStudyForm.addEventListener("submit", function(e) {
@@ -191,49 +204,55 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Real-time validation clearing
-    const inputs = [
-        { element: document.getElementById("name-casestudy"), type: "name" },
-        { element: document.getElementById("work_email-casestudy"), type: "email" },
-        { element: document.getElementById("mobile_number-casestudy"), type: "mobile" }
+    const cs_inputs = [
+        { element: document.getElementById("cs_name-casestudy"), type: "name" },
+        { element: document.getElementById("cs_work_email-casestudy"), type: "email" },
+        { element: document.getElementById("cs_mobile_number-casestudy"), type: "mobile" }
     ];
+    console.log("cs_inputs elements:", cs_inputs.map(input => input.element));
 
-    inputs.forEach(input => {
-        if (input.element) {
-            input.element.addEventListener("input", function() {
+    cs_inputs.forEach(cs_input => {
+        if (cs_input.element) {
+            cs_input.element.addEventListener("input", function() {
                 this.classList.remove("is-invalid");
                 // Clear specific error messages
-                if (this.id === "name-casestudy") document.getElementById("name-error-casestudy").textContent = "";
-                if (this.id === "work_email-casestudy") document.getElementById("email-error-casestudy").textContent = "";
-                if (this.id === "mobile_number-casestudy") document.getElementById("mobile-error-casestudy").textContent = "";
+                if (this.id === "cs_name-casestudy") document.getElementById("cs_name-error-casestudy").textContent = "";
+                if (this.id === "cs_work_email-casestudy") document.getElementById("cs_email-error-casestudy").textContent = "";
+                if (this.id === "cs_mobile_number-casestudy") document.getElementById("cs_mobile-error-casestudy").textContent = "";
             });
         }
     });
 
     // Handle modal close
-    const modal = document.getElementById('downloadCaseStudyModal'); // Corrected ID
-    if (modal) {
-        modal.addEventListener('hidden.bs.modal', function() {
+    const cs_modal = document.getElementById('downloadCaseStudyModal'); // Corrected ID
+    console.log("cs_modal:", cs_modal);
+    if (cs_modal) {
+        cs_modal.addEventListener('hidden.bs.modal', function() {
+            console.log("Download Case Study Modal hidden event triggered.");
             // Reset form and show it again
             document.getElementById("downloadCaseStudyForm").reset();
             document.getElementById("downloadCaseStudyForm").style.display = "block";
-            document.getElementById("successMessage").style.display = "none";
+            document.getElementById("cs_successMessage").style.display = "none";
             document.getElementById("download-casestudy-form-title").style.display = "block";
             document.querySelector(".modal-contact").style.backgroundColor = ""; // Reset background
+            // Ensure the backdrop is removed by Bootstrap
+            document.body.classList.remove('modal-open');
+            document.querySelectorAll('.modal-backdrop').forEach(backdrop => backdrop.remove());
             
-            document.getElementById("download-casestudy-submit-btn").disabled = false;
-            document.getElementById("download-casestudy-submit-btn").textContent = "Submit";
+            document.getElementById("cs_download-casestudy-submit-btn").disabled = false;
+            document.getElementById("cs_download-casestudy-submit-btn").textContent = "Submit";
             
             // Clear validation styles
-            inputs.forEach(input => {
-                if (input.element) {
-                    input.element.classList.remove("is-invalid");
-                    input.element.style.borderColor = ""; // Also clear manual styles
+            cs_inputs.forEach(cs_input => {
+                if (cs_input.element) {
+                    cs_input.element.classList.remove("is-invalid");
+                    cs_input.element.style.borderColor = ""; // Also clear manual styles
                 }
             });
             // Clear specific error messages
-            document.getElementById("name-error-casestudy").textContent = "";
-            document.getElementById("email-error-casestudy").textContent = "";
-            document.getElementById("mobile-error-casestudy").textContent = "";
+            document.getElementById("cs_name-error-casestudy").textContent = "";
+            document.getElementById("cs_email-error-casestudy").textContent = "";
+            document.getElementById("cs_mobile-error-casestudy").textContent = "";
             
             // Removed localStorage.removeItem for enquiryType and caseStudyUrl as they are handled on submission
             isCaseStudySubmitting = false; // Use new variable name

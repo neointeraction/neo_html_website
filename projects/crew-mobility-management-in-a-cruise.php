@@ -39,7 +39,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Crew Mobility Management <span class="highlight">in a Cruise</span>
+        Mobility Paltform for Crew Ship workforce management
       </h1>
     </div>
     <!-- project-banner-img -->

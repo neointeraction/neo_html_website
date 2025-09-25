@@ -39,7 +39,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Inkmagik <span class="highlight">- A Graphic Design Tool</span>
+        Inkmagik - A Graphic Design Software
       </h1>
     </div>
     <!-- project-banner-img -->

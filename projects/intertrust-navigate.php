@@ -39,7 +39,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Intertrust <span class="highlight">Navigate</span>
+        Intertrust Navigate- Fund operations platform
       </h1>
     </div>
     <!-- project-banner-img -->

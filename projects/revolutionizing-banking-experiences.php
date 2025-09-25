@@ -43,7 +43,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Revolutionizing Banking Experiences at <span class="highlight">Dubai Bank</span>
+        Redesign Digital banking platform for Commercail Bank of Dubai
       </h1>
     </div>
     <!-- project-banner-img -->

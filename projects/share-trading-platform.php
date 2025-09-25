@@ -39,7 +39,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Share Trading <span class="highlight">Platform Redesign</span>
+        Share Trading platform redesign
       </h1>
     </div>
     <!-- project-banner-img -->
