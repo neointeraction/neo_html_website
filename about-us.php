@@ -8,10 +8,10 @@
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>About Neointeraction Design | Leading UI UX Design Agency in India</title>
     <meta name="description"
-        content="Looking for a skilled UI UX developer in India? Neointeraction's design team excels in UX UI design and front-end development for interactive applications." />
+        content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise." />
     <link rel="canonical" href="https://www.neointeraction.com/about-us" />
     <meta property="og:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
-    <meta property="og:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />
+    <meta property="og:description" content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
@@ -21,7 +21,7 @@
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
-    <meta name="twitter:description" content="Hire UI UX developer in India for your needs. Get in touch for innovative solutions that drive engagement and satisfaction." />
+    <meta name="twitter:description" content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
 </head>
 
@@ -272,7 +272,7 @@
         <div class="container">
             <div class="title-flex">
                 <h2 class="section-title">Our Team</h2>
-                <a href="team.php" class="section-links">View Our Team</a>
+                <a href="teams.php" class="section-links">View Our Team</a>
             </div>
             <div class="blog-container-block section-margin">
                 <div class="row g-4 justify-content-center">

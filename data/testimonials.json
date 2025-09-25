@@ -1,56 +1,86 @@
 [
-  {
-    "logo": "assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png",
-    "alt": "tricog",
-    "quote": "They had the expertise to provide out-of-the-box ideas throughout the project",
-    "author_image": "https://placehold.co/60x60/808080/FFFFFF?text=S.M",
-    "author_name": "Sameer Mathur",
-    "author_title": "Senior VP at Tricog Health",
-    "project_link": "projects/ai-driven-healthcare-consultation-platform.php"
-  },
-  {
-    "logo": "assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png",
-    "alt": "tricog",
-    "quote": "We were most impressed with their commitment to the project.",
-    "author_image": "https://placehold.co/60x60/808080/FFFFFF?text=J.V",
-    "author_name": "Jacob Varghese",
-    "author_title": "Director at Noctil",
-    "project_link": "projects/vidal-cashless-tpa.php"
-  },
-  {
-    "logo": "assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png",
-    "alt": "tricog",
-    "quote": "They had the expertise to provide out-of-the-box ideas throughout the project",
-    "author_image": "https://placehold.co/60x60/808080/FFFFFF?text=S.M",
-    "author_name": "John Doe",
-    "author_title": "Senior VP at Tricog Health",
-    "project_link": "projects/ai-driven-healthcare-consultation-platform.php"
-  },
-  {
-    "logo": "assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png",
-    "alt": "tricog",
-    "quote": "We were most impressed with their commitment to the project.",
-    "author_image": "https://placehold.co/60x60/808080/FFFFFF?text=J.V",
-    "author_name": "Jane Doe",
-    "author_title": "Director at Noctil",
-    "project_link": "projects/vidal-cashless-tpa.php"
-  },
-  {
-    "logo": "assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png",
-    "alt": "tricog",
-    "quote": "They had the expertise to provide out-of-the-box ideas throughout the project",
-    "author_image": "https://placehold.co/60x60/808080/FFFFFF?text=S.M",
-    "author_name": "Sameer Mathew",
-    "author_title": "Senior VP at Tricog Health",
-    "project_link": "projects/ai-driven-healthcare-consultation-platform.php"
-  },
-  {
-    "logo": "assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png",
-    "alt": "tricog",
-    "quote": "We were most impressed with their commitment to the project.",
-    "author_image": "https://placehold.co/60x60/808080/FFFFFF?text=J.V",
-    "author_name": "James Varghese",
-    "author_title": "Director at Noctil",
-    "project_link": "projects/vidal-cashless-tpa.php"
-  }
+    {
+        "logo": "assets/images/clients/tricog-logo.png",
+        "alt": "Sameer Mathur",
+        "quote": "They had the expertise to provide out-of-the-box ideas throughout the project.",
+        "author_image": "assets/images/testimonials/sameer-mathur.jpeg",
+        "author_name": "Sameer Mathur",
+        "author_title": "Senior VP at Tricog Health",
+        "project_link": ""
+    },
+    {
+        "logo": "assets/images/clients/noctil.svg",
+        "alt": "Jacob Varghese",
+        "quote": "We were most impressed with their commitment to the project.",
+        "author_image": "assets/images/testimonials/jacob-varghese.jpeg",
+        "author_name": "Jacob Varghese",
+        "author_title": "Director at Noctil",
+        "project_link": ""
+    },
+    {
+        "logo": "assets/images/clients/trustcheckr.png",
+        "alt": "Varun K R",
+        "quote": "Their adaptability, attention to detail, and client-centric collaboration contributed to the project's success.",
+        "author_image": "assets/images/testimonials/varun-k-r.jpeg",
+        "author_name": "Varun K R",
+        "author_title": "Product Manager at TrustCheckr",
+        "project_link": ""
+    },
+    {
+        "logo": "assets/images/clients/funding-societies-logo.png",
+        "alt": "Lakshminarayana J",
+        "quote": "Whenever the team encountered challenges, they had access to internal frontend experts to overcome these obstacles.",
+        "author_image": "assets/images/testimonials/lakshminarayana-j.jpeg",
+        "author_name": "Lakshminarayana J",
+        "author_title": "VP of Engineering at Funding Societies",
+        "project_link": ""
+
+    },
+    {
+        "logo": "assets/images/clients/venus-geo.svg",
+        "alt": "Jude Patrick",
+        "quote": "The response to any work items was at its best.",
+        "author_image": "assets/images/testimonials/jude-patrick.jpeg",
+        "author_name": "Jude Patrick",
+        "author_title": "CEO at Venusgeo Solutions Inc",
+        "project_link": ""
+    },
+    {
+        "logo": "assets/images/clients/evo11ve.svg",
+        "alt": "Rajith Kumar K",
+        "quote": "The skill set of the assigned people and their commitment, proactiveness, and professionalism were impressive.",
+        "author_image": "assets/images/testimonials/rajith-kumar-k.jpeg",
+        "author_name": "Rajith Kumar K",
+        "author_title": "Associate Vice President at Evo11ve",
+        "project_link": ""
+    },
+    {
+        "logo": "assets/images/clients/geojit-logo.png",
+        "alt": "Geojit",
+        "quote": "Their collaborative approach and clarity in communication made them feel like an extension of our internal team.",
+        "author_image": "assets/images/testimonials/sajan-jose.png",
+        "author_name": "Sajan Jose",
+        "author_title": "Chief Manager of Marketing of Geojit",
+        "project_link": ""
+    },
+    
+    {
+        "logo": "assets/images/clients/mega-wecare.png",
+        "alt": "Shrikant Raipure",
+        "quote": "Everything related to project management was good.",
+        "author_image": "assets/images/testimonials/shrikant-raipure.png",
+        "author_name": "Shrikant Raipure",
+        "author_title": "Senior Manager at Megawecare",
+        "project_link": ""
+    },
+    {
+        "logo": "assets/images/clients/clayfin-logo.png",
+        "alt": "Clayfin",
+        "quote": "They were responsive and good to work with.",
+        "author_image": "assets/images/testimonials/vp.png",
+        "author_name": "VP at Clayfin",
+        "author_title": "VP at Clayfin",
+        "project_link": ""
+    }
+   
 ]

@@ -6,13 +6,13 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
-    <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
+    <title>Events on Design & Front End Technologies | Neointeraction Bangalore</title>
     <meta name="description"
-        content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
+        content="Neointeraction hosts events on UX research services in India. Join industry leaders to explore user experience strategies, design innovations, and front-end trends." />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="https://www.neointeraction.com/blog" />
     <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
-    <meta property="og:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
+    <meta property="og:description" content="Neointeraction hosts events on UX research services in India. Join industry leaders to explore user experience strategies, design innovations, and front-end trends." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/assets/images/og/neo-events-design-brand.jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -22,7 +22,7 @@
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
-    <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
+    <meta name="twitter:description" content="Neointeraction hosts events on UX research services in India. Join industry leaders to explore user experience strategies, design innovations, and front-end trends." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/assets/images/og/neo-events-design-brand.jpeg" />
 </head>
 

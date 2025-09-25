@@ -7,10 +7,10 @@
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UI UX Design Services in India | UI UX Design Studio | Neointeraction Design</title>
-    <meta name="description" content="Neointeraction Design provides UI UX design services in India. Hire our experienced team for Product Design, UX UI Consultancy and implement a Design System." />
+    <meta name="description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." />
     <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-services" />
-    <meta property="og:title" content="Trusted UI UX Design services in India | Neointeraction Design" />
-    <meta property="og:description" content="Looking for professional UI UX design services in India? Our dedicated designers deliver innovative solutions to optimize user interaction and boost your brand's online performance." />
+    <meta property="og:title" content="UI UX Design Services in India | UI UX Design Studio | Neointeraction Design" />
+    <meta property="og:description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" />
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
@@ -19,9 +19,9 @@
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Trusted UI UX Design services in India | Neointeraction Design" />
+    <meta name="twitter:title" content="UI UX Design Services in India | UI UX Design Studio | Neointeraction Design" />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" />
-    <meta name="twitter:description" content="Looking for professional UI UX design services in India? Our dedicated designers deliver innovative solutions to optimize user interaction and boost your brand's online performance." />
+    <meta name="twitter:description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." />
 
 </head>
 

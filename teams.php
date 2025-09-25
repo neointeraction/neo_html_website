@@ -6,12 +6,12 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
-    <title>Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations</title>
+    <title>UX Design Team -Enhance User Experience |  Neointeraction Design</title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="https://www.neointeraction.com/blog" />
-    <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
-    <meta property="og:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
+    <meta property="og:title" content="UX Design Team -Enhance User Experience |  Neointeraction Design" />
+    <meta property="og:description" content="India's leading UI/UX design company reveals their process for creating digital products with delightful CX and measurable business impact." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -20,8 +20,8 @@
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
-    <meta name="twitter:description" content="Craft your brand identity with the expertise of Neointeraction Design  best branding studio in India." />
+    <meta name="twitter:title" content="UX Design Team -Enhance User Experience |  Neointeraction Design" />
+    <meta name="twitter:description" content="India's leading UI/UX design company reveals their process for creating digital products with delightful CX and measurable business impact." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" />
 </head>
 
