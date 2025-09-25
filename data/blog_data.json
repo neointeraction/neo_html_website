@@ -232,6 +232,41 @@
       "image": "assets/images/blog/designing-for-the-metaverse/image1.jpg",
       "alt": "Designing For Metaverse: Introducing The Mind-blowing Future Of UX"
     },
+    "how-to-boost-your-agency-website-using-strapi-next-js": {
+      "title": "How to boost your agency website using Strapi & Next.js",
+      "author": "Shameer M",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/how-to-boost-your-agency/image1.jpg",
+      "alt": "How to boost your agency website using Strapi & Next.js"
+    },
+    "the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology": {
+      "title": "The Power of AI in Design: Transforming Creativity with Intelligent Technology",
+      "author": "Liya Theresa Siby",
+      "date": "Jan 23, 2024",
+      "image": "assets/images/blog/the-power-of-ai-in-design/image1.jpg",
+      "alt": "The Power of AI in Design: Transforming Creativity with Intelligent Technology"
+    },
+    "how-to-conduct-user-research-that-drives-ux-success": {
+      "title": "How To Conduct User Research That Drives UX Success",
+      "author": "Sebin George",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/how-to-conduct-user/image1.jpg",
+      "alt": "How To Conduct User Research That Drives UX Success"
+    },
+    "the-rise-of-twitter-blue-a-new-era-in-social-media": {
+      "title": "The Rise Of Twitter Blue: A New Era In Social Media",
+      "author": "Sahla Feroc",
+      "date": "Apr 15, 2024",
+      "image": "assets/images/blog/the-rise-of-twitter/image1.jpg",
+      "alt": "The Rise Of Twitter Blue: A New Era In Social Media"
+    },
+    "remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist": {
+      "title": "Remembering Virgil Abloh, a brilliant fashion designer and artist",
+      "author": "Sam Thomas",
+      "date": "Jan 25, 2024",
+      "image": "assets/images/blog/remembering-virgil-abloh/image1.jpg",
+      "alt": "Remembering Virgil Abloh, a brilliant fashion designer and artist"
+    },
    
     "what-you-need-to-know-about-vr-interaction-design": {
       "title": "What You Need To Know About VR Interaction Design",
