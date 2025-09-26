@@ -2,22 +2,23 @@
 <html class="no-js" lang="en">
 
 <head>
-  <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
-  <meta name="description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <link rel="canonical" href="" />
-  <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
-  <meta property="og:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
-  <meta property="og:image:width" content="2500" />
-  <meta property="og:image:height" content="1330" />
-  <meta property="og:url" content="" />
-  <meta property="og:site_name" content="Neointeraction Design" />
-  <meta property="og:type" content="website" />
-  <meta name="google-site-verification" content="" />
-  <meta name="twitter:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
-  <meta name="twitter:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
-  <meta name="twitter:card" content="summary" />
+<title>UX redesign for ERP platform - Neointeraction Design</title>
+  <meta name="description" content="UX redesign for Bangalore based TPA's ERP platform to enhance user experience and significantly improve internal TAT for cashless treatment approvals."/>
+  <link rel="canonical" href="https://www.neointeraction.com/tpa-erp-ux-redesign"/>
+  <meta property="og:title" content="UX redesign for ERP platform - Neointeraction Design"/>
+  <meta property="og:description" content="UX redesign for Bangalore based TPA's ERP platform to enhance user experience and significantly improve internal TAT for cashless treatment approvals."/>
+  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta property="og:image:width" content="2500"/>
+  <meta property="og:image:height" content="1330"/>
+  <meta property="og:url" content="https://www.neointeraction.com/tpa-erp-ux-redesign"/>
+  <meta property="og:site_name" content="Neointeraction Design"/>
+  <meta property="og:type" content="website"/>
+  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
+  <meta name="twitter:title" content="UX redesign for ERP platform - Neointeraction Design"/>
+  <meta name="twitter:description" content="UX redesign for Bangalore based TPA's ERP platform to enhance user experience and significantly improve internal TAT for cashless treatment approvals."/>
+  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta name="twitter:card" content="summary"/>
+<style id="page-transitions">@view-transition {navigation: auto;types: OutIn}</style>
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <?php include $path . 'includes/favicon.php'; ?>
   <?php include $path . 'includes/css.php'; ?>
@@ -45,7 +46,7 @@
     </div>
     <!-- project-banner-img -->
     <div class="project-banner-img">
-      <img src="<?php echo $path; ?>assets/images/projects/pbanner1.jpg" alt="pbanner1" />
+      <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner.jpg" alt="project banner" />
     </div>
     <div class="project-content-block">
       <div class="container">
@@ -54,12 +55,13 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/clients/vidal-logo.png" alt="vidal" />
               </div>
             </div>
             <div class="col-md-9">
               <div class="quote-icon"></div>
-              <p class="blog-quote-text">A well-crafted UI powered by machine learning is not just a design; it's an evolving masterpiece that learns, adapts, and grows with the users it serves.</p>
+              <p class="blog-quote-text">
+              The UX exercise improved preauth TAT from 1.5hrs to 15mns which is a great boost for our business as we could process more requests.</p>
             </div>
           </div>
         </div>
@@ -71,7 +73,7 @@
               Book A Consultation
             </button>
           </div>
-          <p class="p-main-text">TM hub is an application used by the staff members aboard the Carnival ship to organize their daily activities, tasks, and information about their journey</p>
+          <p class="p-main-text">UX Revamp for TPA claim processes across 600 nationwide teams, focusing on simplifying cashless claims and boosting efficiency via the TIPS platform</p>
           <button class="btn btn-custom case-study-mobview ">
             Book A Consultation
           </button>
@@ -82,17 +84,17 @@
           <div class="row ">
             <!-- 15+ years expertise -->
             <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="90">0</div>
+              <div class="count-number" data-target="200">0</div>
               <div class="count-label">New User Engagement</div>
             </div>
             <!-- 150+ trusted clients -->
             <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="85">0</div>
+              <div class="count-number" data-target="70">0</div>
               <div class="count-label">Profits</div>
             </div>
             <!-- 80% lives impacted -->
             <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-              <div class="count-number" data-target="80">0</div>
+              <div class="count-number" data-target="60">0</div>
               <div class="count-label">New Customer Acquisition</div>
             </div>
 
@@ -103,54 +105,54 @@
           <div class="row">
             <div class="col-md-6">
               <h4 class="project-section-title">Objective </h4>
-              <p class="project-body-text">The aim is to enhance the daily user experience by revamping the app's interface, making it more user-friendly. The focus is on simplifying the crews' daily activities, tasks, and get information about their journey seamlessly all in one place.</p>
+              <p class="project-body-text">The goal is to enhance efficiency and speed by improving Turnaround Times (TAT) and creating a seamless experience for various processing teams through consistency, improved usability, and overall enhancement of the TPA claim processing experience.</p>
             </div>
             <div class="col-md-6">
               <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-              <p class="project-body-text">Considering the app was created by tech first approach where in it was built from the utility point of view, no significant design considerations or user research were used when creating the app for various user personas </p>
+              <p class="project-body-text">The inefficient processing of claims, causing delays in request handling, highlighted a need for improvement in the TIPS application. To address this, one key initiative was to automate the filling in of details from the Pre-Authorization level when dealing with cashless claims. </p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
           <h4 class="project-section-title">Solutions we offered</h4>
-          <p class="project-body-text">We revamped the app to benefit the target user by simplifying and streamlining their daily tasks, which was accomplished through,</p>
+          <p class="project-body-text">We worked on making the platform more user-friendly by simplifying both manual and automated claim processes.</p>
 
           <div class="bs-card-section project-bs-cards">
             <div class="row">
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Brainstorming</h4>
+                  <h4 class="title">Adopted a User-centric Approach</h4>
                   <p class="description">
-                    Brainstorming sessions with the client and the creation of rough sketches served as the project's inspiration
+                  Prioritizing user needs and experiences to address existing system issues.
                   </p>
                 </div>
               </div>
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Identifying Key flows</h4>
+                  <h4 class="title">Streamlined Claim Process</h4>
                   <p class="description">
-                    Brainstorming sessions with the client and the creation of rough sketches served as the project's inspiration
+                  Identified and solved issues in both manual and automated claim process stages, improving overall efficiency.
                   </p>
                 </div>
               </div>
               <!-- Card 3 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Decision making</h4>
+                  <h4 class="title">Measurable UX Solutions</h4>
                   <p class="description">
-                    Presentation of the refined key flow to the stakeholders to make impactful design decisions
+                  Translated business insights into a tangible UX solution, aiming to reduce Turnaround Times (TATs) and prioritize user tasks.
                   </p>
                 </div>
               </div>
               <!-- Card 4 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Foundation </h4>
+                  <h4 class="title">Alignment with UX Recommendations </h4>
                   <p class="description">
-                    Wireframing , prototyping and micro interaction
+                  The business team made necessary changes to align with the improvements in user experience.
                   </p>
                 </div>
               </div>
@@ -158,14 +160,14 @@
           </div>
         </div>
         <!-- brainstorming-session  -->
-        <div class="brainstorming-session project-section-padding">
+        <!-- <div class="brainstorming-session project-section-padding">
           <h4 class="project-section-title">Brainstorming Session </h4>
           <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches served as the project's inspiration</p>
 
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/Brainstorming-Session.jpg" alt="Brainstorming-Session" />
           </div>
-        </div>
+        </div> -->
         <!-- solutions-help section -->
         <div class="solutions-help project-section-padding">
           <div class="title-flex">
@@ -177,7 +179,7 @@
             </button>
           </div>
           <p class="project-body-text">
-            Our user task-focused design empowers crew members, ensuring seamless goal achievement and enhanced productivity. Beyond technical improvements, it transforms daily routines for a more enjoyable and manageable experience.
+          Our UX solutions made things better by reducing Turnaround Times (TATs), simplifying cashless claims, and providing a holistic redesign.
           </p>
           <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all" id="case-study-btn">
             Download case study
@@ -188,9 +190,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Improved Usability</h4>
+                  <h4 class="title">Preauthorization Time Reduction</h4>
                   <p class="description">
-                    Our design significantly enhances the system's usability, offering a more user-friendly and accessible interface.
+                  The new design brought about a remarkable 70% reduction in time for completing the preauthorization confirmation within the existing Pre Auth flow.
                   </p>
 
                 </div>
@@ -200,9 +202,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">User Centric UI</h4>
+                  <h4 class="title">Comprehensive Redesign for Modern Adaptability</h4>
                   <p class="description">
-                    Prioritizing crew well-being and mobility management, our UI design ensures both functionality and comfort.
+                  We chose a holistic approach to optimize designs, making sure our designs work well on various screen sizes and touch-enabled devices
                   </p>
 
                 </div>
@@ -212,9 +214,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Enhanced Performance</h4>
+                  <h4 class="title">Stakeholder Testing</h4>
                   <p class="description">
-                    Optimized workflows and reduced processing time resulted in significant performance improvements across all modules.
+                  Thorough testing with stakeholders made sure ensured efficiency, with necessary adjustments based on their feedback before finalizing the design for production.
                   </p>
 
                 </div>
@@ -224,23 +226,36 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Cost Efficiency</h4>
+                  <h4 class="title">Modular and Scalable Design</h4>
                   <p class="description">
-                    Strategic implementation reduced operational costs while maintaining high-quality standards and user satisfaction.
+                  By using a modular approach, we created designs that can be reused and adapted as needed, improving the overall efficiency
                   </p>
 
                 </div>
               </div>
+
+              <div
+                class="col-12 col-md-6 col-lg-3">
+                <div class="custom-card case-study-card">
+                  <h4 class="title">Remarkable Daily Request Surge</h4>
+                  <p class="description">
+                  Post adopting the Pre-Auth feature in T1 hospitals, the daily request surged by an impressive 400%.
+                  </p>
+
+                </div>
+              </div>
+
+
             </div>
           </div>
 
         </div>
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
-          <h4 class="project-section-title">Interactive UI Upgrade </h4>
-          <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and user-friendly experience.</p>
+          <h4 class="project-section-title">Enhanced Efficiency </h4>
+          <p class="project-body-text">Our UX solution significantly improved Turnaround Times (TATs), minimized manual steps, and streamlined the cashless claim request to the final process, enabling our clients to handle more requests and boost business.</p>
           <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/ui-update.jpg" alt="ui-update" />
+            <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-website-ui.jpeg" alt="ui-update" />
           </div>
         </div>
         <div class="view-all-blogs-btn">

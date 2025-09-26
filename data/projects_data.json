@@ -54,6 +54,24 @@
     "case_study_url": "case-study/c16c07_4ad37f70c891459ebf5eba5b2bb9ef17.pdf"
   },
   {
+    "title": "Healtcare ERP System Boost for Cashless TPA",
+    "description": "Revamping UX for TPA claims across 600 teams, prioritizing cashless simplicity and efficiency via TIPS.",
+    "image": "vidal-cashless-tpa.jpeg",
+    "alt": "Claiming Efficiency - UX Boost for Cashless TPA",
+    "tags": ["Healthcare", "B2B"],
+    "link": "vidal-cashless-tpa.php",
+    "case_study_url": "#"
+  },
+  {
+    "title": "90+ Tuition App - Online Tutoring Platform",
+    "description": "Enhancing the usability of a platform that delivers tuition to your doorstep for easy learning",
+    "image": "online-tutoring-platform.jpeg",
+    "alt": "Online Tutoring Platform",
+    "tags": ["Mobile Design", "Start-up Projects"],
+    "link": "online-tutoring-platform.php",
+    "case_study_url": "#"
+  },
+  {
     "title": "Intertrust Navigate- Fund operations platform",
     "description": "A platform enabling employees to monitor and track the company's fund-related operations",
     "image": "intertrust-navigate.jpeg",
@@ -72,15 +90,7 @@
     "case_study_url": "#"
   },
 
-  {
-    "title": "90+ Tuition App - Online Tutoring Platform",
-    "description": "Enhancing the usability of a platform that delivers tuition to your doorstep for easy learning",
-    "image": "online-tutoring-platform.jpeg",
-    "alt": "Online Tutoring Platform",
-    "tags": ["Mobile Design", "Start-up Projects"],
-    "link": "online-tutoring-platform.php",
-    "case_study_url": "#"
-  },
+ 
   {
     "title": "Redesigning Tricogs AI Driven Healthcare Platform",
     "description": "AI-driven predictive healthcare platform that improves heart failure patient care",
@@ -111,15 +121,7 @@
     "case_study_url": "#"
   },
  
-  {
-    "title": "Healtcare ERP System Boost for Cashless TPA",
-    "description": "Revamping UX for TPA claims across 600 teams, prioritizing cashless simplicity and efficiency via TIPS.",
-    "image": "vidal-cashless-tpa.jpeg",
-    "alt": "Claiming Efficiency - UX Boost for Cashless TPA",
-    "tags": ["Healthcare", "B2B"],
-    "link": "vidal-cashless-tpa.php",
-    "case_study_url": "#"
-  },
+  
   {
     "title": "ESG Management Platform",
     "description": "A platform to manage Environmental, Social, and Governance (ESG) initiatives and reporting.",
