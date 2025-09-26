@@ -67,9 +67,9 @@
         <div class="overview-block project-section-padding">
           <div class="title-flex">
             <h4 class="project-section-title">Overview </h4>
-            <button class="btn btn-custom case-study-webview ">
-              Book A Consultation
-            </button>
+            <button class="btn btn-custom  banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                Book A Consultation
+                    </button>
           </div>
           <p class="p-main-text">Noctil is an advanced technology solution that helps Rights Management Organizations to maximize collection and distribution while reducing operational costs.</p>
           <button class="btn btn-custom case-study-mobview ">
@@ -265,7 +265,7 @@
         </div>
     
         <div class="view-all-blogs-btn">
-          <button class="btn btn-custom btn-custom-secondary">
+          <button class="btn btn-custom btn-custom-secondary" onclick="location.href='<?php echo $path; ?>projects.php'">
             View More Projects
           </button>
         </div>
