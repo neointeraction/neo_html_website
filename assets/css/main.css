@@ -878,6 +878,10 @@ testimonial-card-detailed {
 .ui-card-dark .bs-text {
   color: #fff;
 } 
+.ui-card-dark .bs-button {
+  background-color: #fff;
+  color: #555;
+}
 
 .bs-title {
   color: #2b2828;
