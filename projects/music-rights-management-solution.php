@@ -2,22 +2,22 @@
 <html class="no-js" lang="en">
 
 <head>
-  <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
-  <meta name="description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <link rel="canonical" href="" />
-  <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
-  <meta property="og:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
-  <meta property="og:image:width" content="2500" />
-  <meta property="og:image:height" content="1330" />
-  <meta property="og:url" content="" />
-  <meta property="og:site_name" content="Neointeraction Design" />
-  <meta property="og:type" content="website" />
-  <meta name="google-site-verification" content="" />
-  <meta name="twitter:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
-  <meta name="twitter:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
-  <meta name="twitter:card" content="summary" />
+<title>Noctil | Music Rights Management solution | Neointeraction design</title>
+  <meta name="description" content="UX design solution for Notcil's metadata management platform tackled complex data configurations and sped up the royalty collection and distribution in the music industry with AI-powered matching."/>
+  <link rel="canonical" href="https://www.neointeraction.com/music-rights-management-design-development"/>
+  <meta property="og:title" content="Noctil | Music Rights Management solution | Neointeraction design"/>
+  <meta property="og:description" content="UX design solution for Notcil's metadata management platform tackled complex data configurations and sped up the royalty collection and distribution in the music industry with AI-powered matching."/>
+  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta property="og:image:width" content="2500"/>
+  <meta property="og:image:height" content="1330"/>
+  <meta property="og:url" content="https://www.neointeraction.com/music-rights-management-design-development"/>
+  <meta property="og:site_name" content="Neointeraction Design"/>
+  <meta property="og:type" content="website"/>
+  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="Noctil | Music Rights Management solution | Neointeraction design"/>
+  <meta name="twitter:description" content="UX design solution for Notcil's metadata management platform tackled complex data configurations and sped up the royalty collection and distribution in the music industry with AI-powered matching."/>
+  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <?php include $path . 'includes/favicon.php'; ?>
   <?php include $path . 'includes/css.php'; ?>
@@ -27,6 +27,7 @@
 <body>
   <?php
   $page = 'Projects';
+  include $path . 'includes/case_study_helper.php';
   ?>
   <?php include $path . 'includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
@@ -44,7 +45,7 @@
     </div>
     <!-- project-banner-img -->
     <div class="project-banner-img">
-      <img src="<?php echo $path; ?>assets/images/projects/pbanner1.jpg" alt="pbanner1" />
+      <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-project-banner.jpg" alt="noctil project banner" />
     </div>
     <div class="project-content-block">
       <div class="container">
@@ -53,12 +54,12 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/clients/noctil.svg" alt="noctil" />
               </div>
             </div>
             <div class="col-md-9">
               <div class="quote-icon"></div>
-              <p class="blog-quote-text">A well-crafted UI powered by machine learning is not just a design; it's an evolving masterpiece that learns, adapts, and grows with the users it serves.</p>
+              <p class="blog-quote-text">We were most impressed with their commitment to the project</p>
             </div>
           </div>
         </div>
@@ -70,7 +71,7 @@
               Book A Consultation
             </button>
           </div>
-          <p class="p-main-text">TM hub is an application used by the staff members aboard the Carnival ship to organize their daily activities, tasks, and information about their journey</p>
+          <p class="p-main-text">Noctil is an advanced technology solution that helps Rights Management Organizations to maximize collection and distribution while reducing operational costs.</p>
           <button class="btn btn-custom case-study-mobview ">
             Book A Consultation
           </button>
@@ -81,17 +82,17 @@
           <div class="row ">
             <!-- 15+ years expertise -->
             <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="90">0</div>
+              <div class="count-number" data-target="80">0</div>
               <div class="count-label">New User Engagement</div>
             </div>
             <!-- 150+ trusted clients -->
             <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="85">0</div>
+              <div class="count-number" data-target="70">0</div>
               <div class="count-label">Profits</div>
             </div>
             <!-- 80% lives impacted -->
             <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-              <div class="count-number" data-target="80">0</div>
+              <div class="count-number" data-target="90">0</div>
               <div class="count-label">New Customer Acquisition</div>
             </div>
 
@@ -102,58 +103,67 @@
           <div class="row">
             <div class="col-md-6">
               <h4 class="project-section-title">Objective </h4>
-              <p class="project-body-text">The aim is to enhance the daily user experience by revamping the app's interface, making it more user-friendly. The focus is on simplifying the crews' daily activities, tasks, and get information about their journey seamlessly all in one place.</p>
+              <p class="project-body-text">To optimize the platform's usability by creating a visually appealing and functional driven user experience to maximize efficiency and save money in how the platform collects and shares information.</p>
             </div>
             <div class="col-md-6">
               <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-              <p class="project-body-text">Considering the app was created by tech first approach where in it was built from the utility point of view, no significant design considerations or user research were used when creating the app for various user personas </p>
+              <p class="project-body-text">The current application was not suitable for it's target audience and the user flows were complicated . The low usability performance required a careful evaluation of the user interactions and incorporation of user feedback to optimize the user experience.</p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
           <h4 class="project-section-title">Solutions we offered</h4>
-          <p class="project-body-text">We revamped the app to benefit the target user by simplifying and streamlining their daily tasks, which was accomplished through,</p>
+          <p class="project-body-text">We examined the current platform and performed a heuristic analysis using user pain points. This data enabled us to make a design choice that would be practical for both the user and the development team.</p>
 
           <div class="bs-card-section project-bs-cards">
             <div class="row">
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Brainstorming</h4>
+                  <h4 class="title">Usability Enhancement</h4>
                   <p class="description">
-                    Brainstorming sessions with the client and the creation of rough sketches served as the project's inspiration
+                    Conducted a thorough examination of the existing platform utilizing heuristic analysis to identify and address user pain points.
                   </p>
                 </div>
               </div>
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Identifying Key flows</h4>
+                  <h4 class="title">User Engagement Improvement</h4>
                   <p class="description">
-                    Brainstorming sessions with the client and the creation of rough sketches served as the project's inspiration
+                    Balanced the design through the strategic use of color contrasts to guide and engage users.
                   </p>
                 </div>
               </div>
               <!-- Card 3 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Decision making</h4>
+                  <h4 class="title">Collaborative decision making</h4>
                   <p class="description">
-                    Presentation of the refined key flow to the stakeholders to make impactful design decisions
+                    Presentation of the key flow to the stakeholders to make a design decision aligned to meet both business and user needs
                   </p>
                 </div>
               </div>
               <!-- Card 4 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Foundation </h4>
+                  <h4 class="title">Streamlined UI & UX </h4>
                   <p class="description">
-                    Wireframing , prototyping and micro interaction
+                    Improved the overall user experience to ensure efficiency and ease of use for the end user
                   </p>
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+          <!-- approach-session  -->
+           <div class="brainstorming-session project-section-padding">
+          <h4 class="project-section-title">Our Approach</h4>
+          <p class="project-body-text">Understanding the problem and coming up with design thinking driven solutions helped get started with the project. We identified the issue, proposed iterative design solutions, and streamlined the process to ensure a holistically enhanced user experience</p>
+
+          <div class="bs-img">
+            <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-digital-service-providers.jpg" alt="noctil project banner" />
           </div>
         </div>
         <!-- brainstorming-session  -->
@@ -162,9 +172,11 @@
           <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches served as the project's inspiration</p>
 
           <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/Brainstorming-Session.jpg" alt="Brainstorming-Session" />
+            <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-digital-service-providers.jpg" alt="noctil digital service providers" />
           </div>
         </div>
+
+      
         <!-- solutions-help section -->
         <div class="solutions-help project-section-padding">
           <div class="title-flex">
@@ -176,7 +188,7 @@
             </button>
           </div>
           <p class="project-body-text">
-            Our user task-focused design empowers crew members, ensuring seamless goal achievement and enhanced productivity. Beyond technical improvements, it transforms daily routines for a more enjoyable and manageable experience.
+          Our solutions aimed to enhance the user experience and streamline operational efficiency. The redesigned UI helped in quick interactions, improved overall performance, and simplified human resource management.
           </p>
           <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all" id="case-study-btn">
             Download case study
@@ -189,7 +201,7 @@
                 <div class="custom-card case-study-card">
                   <h4 class="title">Improved Usability</h4>
                   <p class="description">
-                    Our design significantly enhances the system's usability, offering a more user-friendly and accessible interface.
+                  The design helped users with an enhanced user interface for seamless interaction.
                   </p>
 
                 </div>
@@ -199,9 +211,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">User Centric UI</h4>
+                  <h4 class="title">Improved Application Performance</h4>
                   <p class="description">
-                    Prioritizing crew well-being and mobility management, our UI design ensures both functionality and comfort.
+                  The design also improved the overall performance of the application and reduced the difficulty in managing human resources.
                   </p>
 
                 </div>
@@ -211,7 +223,7 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Enhanced Performance</h4>
+                  <h4 class="title">Agile Design for Problem Identification</h4>
                   <p class="description">
                     Optimized workflows and reduced processing time resulted in significant performance improvements across all modules.
                   </p>
@@ -225,7 +237,7 @@
                 <div class="custom-card case-study-card">
                   <h4 class="title">Cost Efficiency</h4>
                   <p class="description">
-                    Strategic implementation reduced operational costs while maintaining high-quality standards and user satisfaction.
+                  By adopting an agile approach and making sure we align with the product needs we followed an iterative design process.
                   </p>
 
                 </div>
@@ -235,13 +247,23 @@
 
         </div>
         <!-- ui-update  -->
-        <div class="ui-update project-section-padding">
-          <h4 class="project-section-title">Interactive UI Upgrade </h4>
+        <div class="brainstorming-session project-section-padding">
+          <h4 class="project-section-title">Interactive UI Upgrade</h4>
           <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and user-friendly experience.</p>
+
           <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/ui-update.jpg" alt="ui-update" />
+            <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-website-ui.jpg" alt="noctil website ui" />
+          </div>
+
+          <div class="bs-img">
+            <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-logo-style-guide.jpg" alt="noctil logo style guide" />
+          </div>
+
+          <div class="bs-img">
+            <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-music-management-solution.jpg" alt="noctil project banner" />
           </div>
         </div>
+    
         <div class="view-all-blogs-btn">
           <button class="btn btn-custom btn-custom-secondary">
             View More Projects
@@ -285,6 +307,8 @@
   </div>
 
   <!-- banner -- end  -->
+  <?php include $path . 'components/registration-modal.php'; ?>
+  <?php include $path . 'components/download-casestudy-modal.php'; ?>
   <?php include $path . 'components/footer.php'; ?>
   <?php include $path . 'includes/footer-additional-scripts.php'; ?>
   <?php include $path . 'includes/js.php'; ?>
