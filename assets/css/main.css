@@ -230,7 +230,7 @@ body {
 }
 
 .custom-card {
-  background-color: #ffe6e7;
+  background-color: #f6f6f6;
   border-radius: 0px;
   padding: 24px;
   height: 100%;
@@ -244,6 +244,8 @@ body {
 .custom-card:hover {
   box-shadow: 4px 6px 4px 0px #a1959540;
   transition: 0.3s all ease-in-out;
+  border: 1px solid #E2E2E2;
+  background-color: #ffffff;
 }
 
 .custom-card:hover .btn-custom-secondary {
@@ -383,7 +385,7 @@ body {
   padding: 24px;
   color: #1f2937;
   flex-basis: 50%;
-  min-height: 300px;
+  min-height: 370px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;

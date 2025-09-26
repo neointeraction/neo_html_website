@@ -59,10 +59,12 @@
             </div>
           </div>
         </div>
+      
 <?php
+}
     $projectCount++;
     if ($projectCount % 4 === 0) { // Insert after every 4 projects
       include $path . 'components/submit-enquiry.php';
     }
-  }
+  
 ?>

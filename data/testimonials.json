@@ -18,6 +18,15 @@
         "project_link": ""
     },
     {
+        "logo": "assets/images/clients/semantic-web.svg",
+        "alt": "Asha Subramanian",
+        "quote": "They were very accommodative to repeated iterations until the design was accepted by all stakeholders.",
+        "author_image": "assets/images/testimonials/asha-subramanian.jpeg",
+        "author_name": "Asha Subramanian",
+        "author_title": "Founder & CEO at Semantic Web India",
+        "project_link": ""
+    },
+    {
         "logo": "assets/images/clients/trustcheckr.png",
         "alt": "Varun K R",
         "quote": "Their adaptability, attention to detail, and client-centric collaboration contributed to the project's success.",
@@ -34,7 +43,6 @@
         "author_name": "Lakshminarayana J",
         "author_title": "VP of Engineering at Funding Societies",
         "project_link": ""
-
     },
     {
         "logo": "assets/images/clients/venus-geo.svg",
@@ -63,7 +71,6 @@
         "author_title": "Chief Manager of Marketing of Geojit",
         "project_link": ""
     },
-    
     {
         "logo": "assets/images/clients/mega-wecare.png",
         "alt": "Shrikant Raipure",
@@ -82,5 +89,4 @@
         "author_title": "VP at Clayfin",
         "project_link": ""
     }
-   
 ]
