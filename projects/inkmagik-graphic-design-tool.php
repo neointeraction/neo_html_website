@@ -44,7 +44,7 @@
     </div>
     <!-- project-banner-img -->
     <div class="project-banner-img">
-      <img src="<?php echo $path; ?>assets/images/projects/pbanner1.jpg" alt="pbanner1" />
+      <img src="<?php echo $path; ?>assets/images/projects/inkmagik/inkmagik-project-banner.jpeg" alt="Inkmagik Project Banner" />
     </div>
     <div class="project-content-block">
       <div class="container">

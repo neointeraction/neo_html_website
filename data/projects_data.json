@@ -117,5 +117,50 @@
     "tags": ["Healthcare", "B2B"],
     "link": "vidal-cashless-tpa.php",
     "case_study_url": "#"
+  },
+  {
+    "title": "ESG Management Platform",
+    "description": "A platform to manage Environmental, Social, and Governance (ESG) initiatives and reporting.",
+    "image": "esg-management-platform.jpeg",
+    "alt": "ESG Management Platform",
+    "tags": ["Enterprise Apps", "B2B"],
+    "link": "esg-management-platform.php",
+    "case_study_url": "#"
+  },
+  {
+    "title": "Digital Experience in Health & Wellness",
+    "description": "Enhancing user experience for digital health and wellness platforms.",
+    "image": "digital-health-wellness.jpeg",
+    "alt": "Digital Experience in Health & Wellness",
+    "tags": ["Healthcare", "B2C"],
+    "link": "digital-health-wellness.php",
+    "case_study_url": "#"
+  },
+  {
+    "title": "Employee Transportation Platform",
+    "description": "A platform to manage and optimize employee transportation services.",
+    "image": "employee-transportation-platform.jpeg",
+    "alt": "Employee Transportation Platform",
+    "tags": ["Enterprise Apps", "B2B"],
+    "link": "employee-transportation-platform.php",
+    "case_study_url": "#"
+  },
+  {
+    "title": "Startup Accelerator Website",
+    "description": "A website for a startup accelerator program, showcasing startups and program details.",
+    "image": "startup-accelerator-website.jpeg",
+    "alt": "Startup Accelerator Website",
+    "tags": ["Start-up Projects", "B2C"],
+    "link": "startup-accelerator-website.php",
+    "case_study_url": "#"
+  },
+  {
+    "title": "Construction Management Platform",
+    "description": "A platform for managing construction projects, from planning to execution.",
+    "image": "construction-management-platform.jpeg",
+    "alt": "Construction Management Platform",
+    "tags": ["Enterprise Apps", "B2B"],
+    "link": "construction-management-platform.php",
+    "case_study_url": "#"
   }
 ]
