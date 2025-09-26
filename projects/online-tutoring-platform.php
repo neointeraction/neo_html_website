@@ -27,6 +27,7 @@
 <body>
   <?php
   $page = 'Projects';
+  include $path . 'includes/case_study_helper.php';
   ?>
   <?php include $path . 'includes/body-additional-scripts.php'; ?>
   <!-- navbar  -->
@@ -284,10 +285,12 @@
     </div>
   </div>
 
-  <!-- banner -- end  -->
-  <?php include $path . 'components/footer.php'; ?>
-  <?php include $path . 'includes/footer-additional-scripts.php'; ?>
-  <?php include $path . 'includes/js.php'; ?>
+  <?php include $path . 'components/projects-enquiry.php'; ?>
+    <?php include $path . 'components/registration-modal.php'; ?>
+    <?php include $path . 'components/download-casestudy-modal.php'; ?>
+    <?php include $path . 'components/footer.php'; ?>
+    <?php include $path . 'includes/footer-additional-scripts.php'; ?>
+    <?php include $path . 'includes/js.php'; ?>
 </body>
 
 </html>

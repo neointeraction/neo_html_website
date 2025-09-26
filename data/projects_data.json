@@ -27,6 +27,24 @@
     "case_study_url": "case-study/c16c07_4ad37f70c891459ebf5eba5b2bb9ef17.pdf"
   },
   {
+    "title": "Inkmagik - A Graphic Design Software",
+    "description": "An all in one easy to use graphics design tool for individuals and businesses",
+    "image": "inkmagik-graphic-design-tool.jpeg",
+    "alt": "Inkmagik - A Graphic Design Tool",
+    "tags": ["Start-up Projects", "B2C"],
+    "link": "inkmagik-graphic-design-tool.php",
+    "case_study_url": "#"
+  },
+  {
+    "title": "Redesigning Cattle Tracking & Management solution",
+    "description": "Revolutionizing cattle farm management by streamlining tasks, promoting healthier livestock, and increasing profitability.",
+    "image": "cattle-tracking-management-solution.jpeg",
+    "alt": "Cattle Tracking & Management solution",
+    "tags": ["IOT", "B2B"],
+    "link": "cattle-tracking-management-solution.php",
+    "case_study_url": "#"
+  },
+  {
     "title": "UX Design for Biomedical Reserach Platform",
     "description": "A platform that focuses on managing biomedical data complexities amid advancements in technology",
     "image": "euclid-biomedical-research-platform.jpeg",
@@ -73,15 +91,7 @@
     "case_study_url": "#"
   },
 
-  {
-    "title": "Redesigning Cattle Tracking & Management solution",
-    "description": "Revolutionizing cattle farm management by streamlining tasks, promoting healthier livestock, and increasing profitability.",
-    "image": "cattle-tracking-management-solution.jpeg",
-    "alt": "Cattle Tracking & Management solution",
-    "tags": ["IOT", "B2B"],
-    "link": "cattle-tracking-management-solution.php",
-    "case_study_url": "#"
-  },
+  
   {
     "title": "Redesign Digital banking platform for Commercail Bank of Dubai",
     "description": "Creating a user friendly modern banking platform for young professionals, expats, and native youth",
@@ -100,15 +110,7 @@
     "link": "player-transfer-system.php",
     "case_study_url": "#"
   },
-  {
-    "title": "Inkmagik - A Graphic Design Software",
-    "description": "An all in one easy to use graphics design tool for individuals and businesses",
-    "image": "inkmagik-graphic-design-tool.jpeg",
-    "alt": "Inkmagik - A Graphic Design Tool",
-    "tags": ["Start-up Projects", "B2C"],
-    "link": "inkmagik-graphic-design-tool.php",
-    "case_study_url": "#"
-  },
+ 
   {
     "title": "Healtcare ERP System Boost for Cashless TPA",
     "description": "Revamping UX for TPA claims across 600 teams, prioritizing cashless simplicity and efficiency via TIPS.",
