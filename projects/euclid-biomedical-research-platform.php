@@ -10,7 +10,8 @@
     <title>Biomedical Research platform | Euclid | Neointeraction design</title>
     <meta name="description"
         content="Euclid focuses on managing biomedical data complexities amid advancements in technology. UX design for biomedical research platform by Neointeraction." />
-    <meta name="keywords" content="biomedical research, UX design, healthcare platform, medical data, life sciences, research platform, euclid" />
+    <meta name="keywords"
+        content="biomedical research, UX design, healthcare platform, medical data, life sciences, research platform, euclid" />
     <link rel="canonical" href="<?php echo $base_url; ?>biomedical-research-ux-design" />
     <meta property="og:title" content="Biomedical Research platform | Euclid | Neointeraction design" />
     <meta property="og:description"
@@ -26,7 +27,8 @@
     <meta name="twitter:title" content="Biomedical Research platform | Euclid | Neointeraction design" />
     <meta name="twitter:description"
         content="Euclid focuses on managing biomedical data complexities amid advancements in technology. UX design for biomedical research platform by Neointeraction." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/projects/euclid-biomedical-research.jpg" />
+    <meta name="twitter:image"
+        content="<?php echo $base_url; ?>assets/images/projects/euclid-biomedical-research.jpg" />
 </head>
 
 <body>
@@ -50,7 +52,8 @@
         </div>
         <!-- project-banner-img -->
         <div class="project-banner-img">
-            <img src="<?php echo $path; ?>assets/images/projects/euclid-project-banner.jpeg" alt="pbanner1" />
+            <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-project-banner.jpg"
+                alt="pbanner1" />
         </div>
         <div class="project-content-block">
             <div class="container">
@@ -64,7 +67,9 @@
                         </div>
                         <div class="col-md-9">
                             <div class="quote-icon"></div>
-                            <p class="blog-quote-text">We beat the competition thanks to the aesthetic appeal, and we are pleased with the outcome the design team produced.</p>
+                            <p class="blog-quote-text">
+                                We beat the competition thanks to the aesthetic appeal, and we are pleased with the
+                                outcome the design team produced.</p>
                         </div>
                     </div>
                 </div>
@@ -77,7 +82,8 @@
                         </button>
 
                     </div>
-                    <p class="p-main-text">Euclid focuses on managing biomedical data complexities amid advancements in technology.</p>
+                    <p class="p-main-text">Euclid focuses on managing biomedical data complexities amid advancements in
+                        technology.</p>
                     <button class="btn btn-custom case-study-mobview ">
                         Book A Consultation
                     </button>
@@ -109,23 +115,27 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="project-section-title">Objective </h4>
-                            <p class="project-body-text">To design a platform that help manage biomedical data better and make it easier to get important information in life
-                                sciences. Our aim is to create ways to gather and communicate information seamlessly in areas where there aren't many approved medicines for
-                                complicated diseases.</p>
+                            <p class="project-body-text">To design a platform that help manage biomedical data better
+                                and make it easier to get important information in life sciences. Our aim is to create
+                                ways to gather and communicate information seamlessly in areas where there aren't many
+                                approved medicines for complicated diseases.</p>
                         </div>
                         <div class="col-md-6">
                             <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                            <p class="project-body-text">In the field of life sciences, where we have only a few approved drugs for many diseases, there's a recognized need to
-                                gather and organize knowledge in a way that users can understand. Even with lots of data from high-throughput technologies, it's still tricky to use
-                                it for specific purposes for which we needed to create an application that helps integrate it all.</p>
+                            <p class="project-body-text">In the field of life sciences, where we have only a few
+                                approved drugs for many diseases, there's a recognized need to gather and organize
+                                knowledge in a way that users can understand. Even with lots of data from
+                                high-throughput technologies, it's still tricky to use it for specific purposes for
+                                which we needed to create an application that helps integrate it all.</p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Solutions we offered</h4>
-                    <p class="project-body-text">We developed an application that displaying the extracted knowledge with sufficient background information. It also captures the
-                        cause-and-effect features of biological entities</p>
+                    <p class="project-body-text">We developed an application that displaying the extracted knowledge
+                        with sufficient background information. It also captures the cause-and-effect features of
+                        biological entities</p>
 
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
@@ -143,7 +153,8 @@
                                 <div class="custom-card">
                                     <h4 class="title">Digitalization of Manual Data Handling</h4>
                                     <p class="description">
-                                        Users were able to properly visualize and experience the look and feel of a product through prototyping and testing
+                                        Users were able to properly visualize and experience the look and feel of a
+                                        product through prototyping and testing
                                     </p>
                                 </div>
                             </div>
@@ -152,51 +163,44 @@
                                 <div class="custom-card">
                                     <h4 class="title">Early Developer Engagement</h4>
                                     <p class="description">
-                                        Engaging developers during the process helped in reducing reworks and assist them to spot any potential issues
+                                        Engaging developers during the process helped in reducing reworks and assist
+                                        them to spot any potential issues
                                     </p>
                                 </div>
                             </div>
                             <!-- Card 4 -->
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card">
-                                    <h4 class="title">Our Approach</h4>
-                                    <p class="description">
-                                        We started by understanding the challenge and conducting research. Our strategy involved creating a detailed list of requirements and
-                                        exploring potential solutions.
-                                    </p>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                 </div>
-                <!-- brainstorming-session  -->
-                <div class="brainstorming-session project-section-padding">
-                    <h4 class="project-section-title">Final UI </h4>
-                    <p class="project-body-text">We started by understanding the challenge and conducting research. Our strategy involved creating a detailed list of requirements
-                        and exploring potential solutions. Moving forward, we carefully selected the most effective solution from the list and proceeded to build a prototype,
-                        laying the foundation for the development phase.</p>
 
-                    <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/Brainstorming-Session.jpg" alt="Brainstorming-Session" />
-                    </div>
+                <div class="solutions-offered project-section-padding">
+                    <h4 class="project-section-title">Our Approach</h4>
+                    <p class="project-body-text"> We started by understanding the challenge and conducting research. Our strategy involved creating a detailed list of requirements and exploring potential solutions. Moving forward, we carefully selected the most effective solution from the list and proceeded to build a prototype, laying the foundation for the development phase.</p>
                 </div>
+                <!-- brainstorming-session  -->
+           
                 <!-- solutions-help section -->
                 <div class="solutions-help project-section-padding">
                     <div class="title-flex">
                         <h2 class="project-section-title">
                             How did our solutions help?
                         </h2>
-                        <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn" data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
-                            data-project-title="<?php echo htmlspecialchars($project_title); ?>" data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
+                        <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn"
+                            data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
+                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                            data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                             Download case study
                         </button>
                     </div>
                     <p class="project-body-text">
-                        Our solutions brought significant improvements to the user experience of our app, addressing key aspects of usability, accessibility, and engagement. Here's
+                        Our solutions brought significant improvements to the user experience of our app, addressing key
+                        aspects of usability, accessibility, and engagement. Here's
                         how our efforts positively impacted the user interface,
                     </p>
-                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all" id="case-study-btn" data-bs-toggle="modal"
-                        data-bs-target="#downloadCaseStudyModal" data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all"
+                        id="case-study-btn" data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
+                        data-project-title="<?php echo htmlspecialchars($project_title); ?>"
                         data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                         Download case study
                     </button>
@@ -207,7 +211,8 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Enhanced Usability</h4>
                                     <p class="description">
-                                        Users were happy with the user interface for its improved usability and a more relatable design, contributing to a smoother and more
+                                        Users were happy with the user interface for its improved usability and a more
+                                        relatable design, contributing to a smoother and more
                                         enjoyable user flow.
                                     </p>
 
@@ -219,7 +224,8 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Simplified Accessibility</h4>
                                     <p class="description">
-                                        We were able to achieve the goal of simplicity and make the app even more accessible to users of all ages since we employed a consistent
+                                        We were able to achieve the goal of simplicity and make the app even more
+                                        accessible to users of all ages since we employed a consistent
                                         design language throughout the UI.
                                     </p>
 
@@ -231,7 +237,8 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Positive User Feedback</h4>
                                     <p class="description">
-                                        The revamped design received positive feedback from users, emphasizing satisfaction with the improved user interface.
+                                        The revamped design received positive feedback from users, emphasizing
+                                        satisfaction with the improved user interface.
                                     </p>
 
                                 </div>
@@ -242,7 +249,8 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Increased Engagement</h4>
                                     <p class="description">
-                                        By using a consistent design language and enhancing accessibility, the app saw increased engagement.
+                                        By using a consistent design language and enhancing accessibility, the app saw
+                                        increased engagement.
                                     </p>
 
                                 </div>
@@ -253,18 +261,16 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                    <h4 class="project-section-title">Interactive UI Upgrade </h4>
-                    <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and
-                        user-friendly experience.</p>
+                    <h4 class="project-section-title">Final UI </h4>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/euclid-website-ui.jpeg" alt="ui-update" />
+                        <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-website-ui.jpg" alt="ui-update" />
                     </div>
                 </div>
-                <div class="view-all-blogs-btn">
+                <!-- <div class="view-all-blogs-btn">
                     <button class="btn btn-custom btn-custom-secondary">
                         View More Projects
                     </button>
-                </div>
+                </div> -->
                 <?php include 'components/submit-enquiry.php'; ?>
             </div>
         </div>

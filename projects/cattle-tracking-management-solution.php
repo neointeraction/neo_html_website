@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 
 <head>
-  <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
+  <title>Redesigning Cattle Tracking & Management solution | Neointeraction Design</title>
   <meta name="description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
   <link rel="canonical" href="" />
   <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
@@ -45,7 +45,7 @@
     </div>
     <!-- project-banner-img -->
     <div class="project-banner-img">
-      <img src="<?php echo $path; ?>assets/images/projects/pbanner1.jpg" alt="pbanner1" />
+      <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-project-banner.jpg" alt="project-banner" />
     </div>
     <div class="project-content-block">
       <div class="container">
@@ -54,12 +54,13 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/clients/.png" alt="tricog" />
               </div>
             </div>
             <div class="col-md-9">
               <div class="quote-icon"></div>
-              <p class="blog-quote-text">A well-crafted UI powered by machine learning is not just a design; it's an evolving masterpiece that learns, adapts, and grows with the users it serves.</p>
+              <p class="blog-quote-text">
+              Spending the majority of our time on outmoded supply chain systems was challenging. New user experience design were straightforward, efficient, and most importantly, reliable.</p>
             </div>
           </div>
         </div>
@@ -71,7 +72,7 @@
               Book A Consultation
             </button>
           </div>
-          <p class="p-main-text">TM hub is an application used by the staff members aboard the Carnival ship to organize their daily activities, tasks, and information about their journey</p>
+          <p class="p-main-text">Revolutionizing cattle farm management by streamlining tasks, promoting healthier livestock, and increasing profitability</p>
           <button class="btn btn-custom case-study-mobview ">
             Book A Consultation
           </button>
@@ -92,7 +93,7 @@
             </div>
             <!-- 80% lives impacted -->
             <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-              <div class="count-number" data-target="80">0</div>
+              <div class="count-number" data-target="77">0</div>
               <div class="count-label">New Customer Acquisition</div>
             </div>
 
@@ -103,45 +104,46 @@
           <div class="row">
             <div class="col-md-6">
               <h4 class="project-section-title">Objective </h4>
-              <p class="project-body-text">The aim is to enhance the daily user experience by revamping the app's interface, making it more user-friendly. The focus is on simplifying the crews' daily activities, tasks, and get information about their journey seamlessly all in one place.</p>
+              <p class="project-body-text">Revamping herd management technology for cow/calf producers and stockers to boost efficiency and promote healthier cattle. The redesign aims for a modern look, improved usability, and a consistent visual style for a streamlined and effective user experience.</p>
             </div>
             <div class="col-md-6">
               <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-              <p class="project-body-text">Considering the app was created by tech first approach where in it was built from the utility point of view, no significant design considerations or user research were used when creating the app for various user personas </p>
+              <p class="project-body-text">Simplifying the manual work to make cattle tracking and management digitally accessible needed key attention to details. Considering the complexity and the users, crafting a seamless user experience across websites and mobiles was challenging.</p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
           <h4 class="project-section-title">Solutions we offered</h4>
-          <p class="project-body-text">We revamped the app to benefit the target user by simplifying and streamlining their daily tasks, which was accomplished through,</p>
+          <p class="project-body-text">With a fresh consistent visual style the new design streamlined an effective guided user experience to boost efficiency and promote healthier cattle</p>
 
           <div class="bs-card-section project-bs-cards">
             <div class="row">
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Brainstorming</h4>
+                  <h4 class="title">Unified Design Language</h4>
                   <p class="description">
-                    Brainstorming sessions with the client and the creation of rough sketches served as the project's inspiration
+                  Fully revamped the design language, preserving the company's branding and usability while ensuring consistency across both web and mobile platforms.
                   </p>
                 </div>
               </div>
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Identifying Key flows</h4>
+                  <h4 class="title">Digitalization of Manual Data Handling</h4>
                   <p class="description">
-                    Brainstorming sessions with the client and the creation of rough sketches served as the project's inspiration
+                  Transformed the manual data handling process into a digitalized system for optimal performance.
                   </p>
                 </div>
               </div>
               <!-- Card 3 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Decision making</h4>
+                  <h4 class="title">
+                  Iterative Design Process</h4>
                   <p class="description">
-                    Presentation of the refined key flow to the stakeholders to make impactful design decisions
+                  Created interactive designs leading to prototypes to provide a comprehensive understanding of the product.
                   </p>
                 </div>
               </div>
@@ -157,15 +159,6 @@
             </div>
           </div>
         </div>
-        <!-- brainstorming-session  -->
-        <div class="brainstorming-session project-section-padding">
-          <h4 class="project-section-title">Brainstorming Session </h4>
-          <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches served as the project's inspiration</p>
-
-          <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/Brainstorming-Session.jpg" alt="Brainstorming-Session" />
-          </div>
-        </div>
         <!-- solutions-help section -->
         <div class="solutions-help project-section-padding">
           <div class="title-flex">
@@ -177,7 +170,7 @@
             </button>
           </div>
           <p class="project-body-text">
-            Our user task-focused design empowers crew members, ensuring seamless goal achievement and enhanced productivity. Beyond technical improvements, it transforms daily routines for a more enjoyable and manageable experience.
+          We made things easier for farmers by improving how they handle data. This means less manual work for them, making their work more efficient. By keeping a constant eye on things, we also helped reduce health problems with the animals on the farm.
           </p>
           <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all" id="case-study-btn">
             Download case study
@@ -188,9 +181,10 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Improved Usability</h4>
+                  <h4 class="title">
+                  Enhanced User Experience</h4>
                   <p class="description">
-                    Our design significantly enhances the system's usability, offering a more user-friendly and accessible interface.
+                  Users found the redesigned solution notably easier to use and the increase overall user engagement.
                   </p>
 
                 </div>
@@ -200,9 +194,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">User Centric UI</h4>
+                  <h4 class="title">Reduced Manual Workload</h4>
                   <p class="description">
-                    Prioritizing crew well-being and mobility management, our UI design ensures both functionality and comfort.
+                  The digitalization of manual data processes led to a significant decrease in manual work for Ranchers.
                   </p>
 
                 </div>
@@ -212,9 +206,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Enhanced Performance</h4>
+                  <h4 class="title">Increased Operational Efficiency</h4>
                   <p class="description">
-                    Optimized workflows and reduced processing time resulted in significant performance improvements across all modules.
+                  The solution resulted in improved efficiency for cow/calf producers and stockers
                   </p>
 
                 </div>
@@ -224,9 +218,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Cost Efficiency</h4>
+                  <h4 class="title">Health Monitoring Advancement</h4>
                   <p class="description">
-                    Strategic implementation reduced operational costs while maintaining high-quality standards and user satisfaction.
+                  Continuous herd monitoring through the application contributed to a notable reduction in illnesses and fatalities.
                   </p>
 
                 </div>
@@ -237,10 +231,13 @@
         </div>
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
-          <h4 class="project-section-title">Interactive UI Upgrade </h4>
-          <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and user-friendly experience.</p>
+          <h4 class="project-section-title">Mobile-Centric Digital Integration </h4>
+          <p class="project-body-text">Made it easy for users to seamlessly use both the website and mobile application without doing the same data entry twice thereby making it easier and faster for users to complete their task.</p>
           <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/ui-update.jpg" alt="ui-update" />
+            <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-website-ui.jpg" alt="ui-update" />
+          </div>
+          <div class="bs-img">
+            <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-mobile-ui.jpg" alt="ui-update" />
           </div>
         </div>
         <div class="view-all-blogs-btn">
