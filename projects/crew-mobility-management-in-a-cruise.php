@@ -44,7 +44,7 @@
     </div>
     <!-- project-banner-img -->
     <div class="project-banner-img">
-      <img src="<?php echo $path; ?>assets/images/projects/pbanner1.jpg" alt="pbanner1" />
+      <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management-banner.jpg" alt="pbanner1" />
     </div>
     <div class="project-content-block">
       <div class="container">
@@ -53,7 +53,7 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/clients/carnival-logo.png" alt="carnival" />
               </div>
             </div>
             <div class="col-md-9">
@@ -129,18 +129,18 @@
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Identifying Key flows</h4>
+                  <h4 class="title">Identifying Key flows and user pain points</h4>
                   <p class="description">
-                    Brainstorming sessions with the client and the creation of rough sketches served as the project's inspiration
+                  Identifying key user flow and its pain point in the existing app
                   </p>
                 </div>
               </div>
               <!-- Card 3 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Decision making</h4>
+                  <h4 class="title">Collaborative decision making</h4>
                   <p class="description">
-                    Presentation of the refined key flow to the stakeholders to make impactful design decisions
+                  Presentation of the refined key flow to the stakeholders to make impactful design decisions
                   </p>
                 </div>
               </div>
@@ -160,10 +160,9 @@
         <div class="brainstorming-session project-section-padding">
           <h4 class="project-section-title">Brainstorming Session </h4>
           <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches served as the project's inspiration</p>
-
-          <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/Brainstorming-Session.jpg" alt="Brainstorming-Session" />
-          </div>
+<div class="bs-img">
+          <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-brainstorming-session.jpg" alt="crew-mobility-brainstorming" />
+</div>
         </div>
         <!-- solutions-help section -->
         <div class="solutions-help project-section-padding">
@@ -201,7 +200,7 @@
                 <div class="custom-card case-study-card">
                   <h4 class="title">User Centric UI</h4>
                   <p class="description">
-                    Prioritizing crew well-being and mobility management, our UI design ensures both functionality and comfort.
+                  Prioritizing crew well-being and mobility managment, our UI design ensures both functionality and ergonomic comfort, enhancing the overall user experience.
                   </p>
 
                 </div>
@@ -211,25 +210,14 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Enhanced Performance</h4>
+                  <h4 class="title">Streamlined User Flow</h4>
                   <p class="description">
-                    Optimized workflows and reduced processing time resulted in significant performance improvements across all modules.
+                  The new user flows made it easier to get tasks done quickly, reducing challenges and ensured a smooth transition for different user throughout their navigation
                   </p>
 
                 </div>
               </div>
 
-              <!-- Card 4 -->
-              <div
-                class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card case-study-card">
-                  <h4 class="title">Cost Efficiency</h4>
-                  <p class="description">
-                    Strategic implementation reduced operational costs while maintaining high-quality standards and user satisfaction.
-                  </p>
-
-                </div>
-              </div>
             </div>
           </div>
 
@@ -239,7 +227,7 @@
           <h4 class="project-section-title">Interactive UI Upgrade </h4>
           <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and user-friendly experience.</p>
           <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/ui-update.jpg" alt="ui-update" />
+            <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-mobile-ui.jpg" alt="crew mobility mobile ui" />
           </div>
         </div>
         <div class="view-all-blogs-btn">
