@@ -174,8 +174,8 @@
                     <h4 class="project-section-title">Optimized Prototyping & Data Presentation </h4>
                     <p class="project-body-text">Wireframing prototypes were meticulously created to refine the process flow and further refine the design solutions</p>
 
-                    <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/Brainstorming-Session.jpg" alt="Brainstorming-Session" />
+                 <div class="bs-img">
+                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-website-ui.jpeg" alt="ui-update" />
                     </div>
                 </div>
                 <!-- solutions-help section -->
@@ -253,30 +253,15 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
-                <!-- ui-update  -->
-                <div class="ui-update project-section-padding">
-                    <h4 class="project-section-title">Interactive UI Upgrade </h4>
-                    <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and
-                        user-friendly experience.</p>
-                    <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-website-ui.jpeg" alt="ui-update" />
-                    </div>
-                </div>
-                <div class="view-all-blogs-btn">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View More Projects
-                    </button>
-                </div>
-                <?php include 'components/submit-enquiry.php'; ?>
+          
             </div>
         </div>
     </section>
 
 
 
-
+    <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path . 'components/download-casestudy-modal.php'; ?>
     <?php include $path . 'components/footer.php'; ?>

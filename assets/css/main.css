@@ -842,6 +842,11 @@ testimonial-card-detailed {
   overflow: hidden;
   padding: 35px 24px;
 }
+.ui-card-dark {
+  background-color: #1a1b1b;
+  overflow: hidden;
+  padding: 35px 24px;
+}
 .btn-dark-custom {
   background-color: #2e2e2e;
   color: #fff;
@@ -868,6 +873,11 @@ testimonial-card-detailed {
 .text-light-muted {
   color: #555 !important;
 }
+
+.ui-card-dark .bs-title,
+.ui-card-dark .bs-text {
+  color: #fff;
+} 
 
 .bs-title {
   color: #2b2828;
