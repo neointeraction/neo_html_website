@@ -90,19 +90,6 @@
     "link": "intertrust-navigate.php",
     "case_study_url": "#"
   },
- 
- 
-  {
-    "title": "Redesigning Tricogs AI Driven Healthcare Platform",
-    "description": "AI-driven predictive healthcare platform that improves heart failure patient care",
-    "image": "ai-driven-healthcare-consultation-platform\\ai-driven-healthcare-consultation-platform.jpeg",
-    "alt": "AI Driven Healthcare Consultation Platform",
-    "tags": ["Healthcare"],
-    "link": "ai-driven-healthcare-consultation-platform.php",
-    "case_study_url": "#"
-  },
-
-  
   {
     "title": "Redesign Digital banking platform for Commercail Bank of Dubai",
     "description": "Creating a user friendly modern banking platform for young professionals, expats, and native youth",
@@ -110,6 +97,15 @@
     "alt": "Revolutionizing Banking Experiences",
     "tags": ["Fintech", "B2C"],
     "link": "revolutionizing-banking-experiences.php",
+    "case_study_url": "#"
+  },
+  {
+    "title": "Redesigning Tricogs AI Driven Healthcare Platform",
+    "description": "AI-driven predictive healthcare platform that improves heart failure patient care",
+    "image": "ai-driven-healthcare-consultation-platform\\ai-driven-healthcare-consultation-platform.jpeg",
+    "alt": "AI Driven Healthcare Consultation Platform",
+    "tags": ["Healthcare"],
+    "link": "ai-driven-healthcare-consultation-platform.php",
     "case_study_url": "#"
   },
   {
@@ -121,8 +117,6 @@
     "link": "player-transfer-system.php",
     "case_study_url": "#"
   },
- 
-  
   {
     "title": "ESG Management Platform",
     "description": "A platform to manage Environmental, Social, and Governance (ESG) initiatives and reporting.",
