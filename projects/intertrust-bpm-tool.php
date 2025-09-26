@@ -54,7 +54,7 @@
         </div>
         <!-- project-banner-img -->
         <div class="project-banner-img">
-            <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-project-banner.jpeg" alt="pbanner1" />
+            <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-project-banner.jpeg" alt="Intertrust BPM Project Banner" />
         </div>
         <div class="project-content-block">
             <div class="container">
@@ -63,7 +63,7 @@
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
                             <div class="p-logo">
-                                <img src="<?php echo $path; ?>assets/images/projects/intertrust-group-landscape-logo.avif" alt="intertrust" />
+                                <img src="<?php echo $path; ?>assets/images/clients/intertrust-logo.png" alt="intertrust" />
                             </div>
                         </div>
                         <div class="col-md-9">

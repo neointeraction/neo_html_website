@@ -54,7 +54,7 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="<?php echo $path; ?>assets/images/clients/.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/clients/herdx.avif" alt="herdx" />
               </div>
             </div>
             <div class="col-md-9">

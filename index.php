@@ -328,24 +328,7 @@
     </section>
     <!-- design-events -- end -->
 
-    <!-- our-team  -->
-    <section class="our-team section-padding">
-        <div class="container">
-            <div class="title-flex">
-                <h2 class="section-title">Our Team</h2>
-                <a href="<?php echo $path; ?>teams.php" class="section-links">View All</a>
-            </div>
-            <div class="section-margin">
-                <?php
-                $team_tag = 'home';
-                $team_limit = 4;
-                include $path . 'components/teams-listing.php';
-                ?>
-            </div>
 
-        </div>
-    </section>
-    <!-- our-team -- end  -->
 
     <!-- recent-blogs  -->
     <section class="recent-blogs section-padding">
