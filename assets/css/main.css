@@ -224,6 +224,7 @@ body {
 /* business-success  */
 
 .section-title {
+  padding-top: 40px;;
   font-weight: 500;
   font-size: 36px;
   color: #58595a;
@@ -371,6 +372,10 @@ body {
 
 /* testimonial card  */
 
+.testimonials{
+  background-color: #f6f6f6;
+}
+
 #testimonial-mob {
   display: none;
 }
@@ -380,12 +385,24 @@ body {
 }
 
 .testimonial-card {
-  background-color: #e2e2e2;
+  background-color: #ffffff;
   border-radius: 0;
   padding: 24px;
   color: #1f2937;
   flex-basis: 50%;
-  min-height: 370px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+testimonial-card-detailed {
+  background-color: #ffffff;
+  border-radius: 0;
+  padding: 24px;
+  color: #1f2937;
+  flex-basis: 100%;
+  min-height: 450px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
