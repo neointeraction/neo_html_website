@@ -120,7 +120,7 @@
   {
     "title": "ESG Management Platform",
     "description": "A platform to manage Environmental, Social, and Governance (ESG) initiatives and reporting.",
-    "image": "esg-management-platform.jpeg",
+    "image": "esg-management/digital-blanket-homepage-banner.jpeg",
     "alt": "ESG Management Platform",
     "tags": ["Enterprise Apps", "B2B"],
     "link": "esg-management-platform.php",
@@ -129,7 +129,7 @@
   {
     "title": "Digital Experience in Health & Wellness",
     "description": "Enhancing user experience for digital health and wellness platforms.",
-    "image": "digital-health-wellness.jpeg",
+    "image": "digital-experience/mega-we-care-homepage-banner.jpeg",
     "alt": "Digital Experience in Health & Wellness",
     "tags": ["Healthcare", "B2C"],
     "link": "digital-health-wellness.php",
@@ -138,7 +138,7 @@
   {
     "title": "Employee Transportation Platform",
     "description": "A platform to manage and optimize employee transportation services.",
-    "image": "employee-transportation-platform.jpeg",
+    "image": "etravelmate-travel/etravelmate-homepage-banner.jpg",
     "alt": "Employee Transportation Platform",
     "tags": ["Enterprise Apps", "B2B"],
     "link": "employee-transportation-platform.php",
@@ -147,7 +147,7 @@
   {
     "title": "Startup Accelerator Website",
     "description": "A website for a startup accelerator program, showcasing startups and program details.",
-    "image": "startup-accelerator-website.jpeg",
+    "image": "startup-accelerator/india-accelerator-homepage-banner.jpeg",
     "alt": "Startup Accelerator Website",
     "tags": ["Start-up Projects", "B2C"],
     "link": "startup-accelerator-website.php",
@@ -156,7 +156,7 @@
   {
     "title": "Construction Management Platform",
     "description": "A platform for managing construction projects, from planning to execution.",
-    "image": "construction-management-platform.jpeg",
+    "image": "construction-management/homepage.jpg",
     "alt": "Construction Management Platform",
     "tags": ["Enterprise Apps", "B2B"],
     "link": "construction-management-platform.php",
