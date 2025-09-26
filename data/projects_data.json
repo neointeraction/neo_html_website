@@ -72,15 +72,6 @@
     "case_study_url": "#"
   },
   {
-    "title": "Intertrust Navigate- Fund operations platform",
-    "description": "A platform enabling employees to monitor and track the company's fund-related operations",
-    "image": "intertrust-navigate.jpeg",
-    "alt": "Intertrust Navigate",
-    "tags": ["Enterprise Apps", "Fintech"],
-    "link": "intertrust-navigate.php",
-    "case_study_url": "#"
-  },
-  {
     "title": "Share Trading platform redesign",
     "description": "Trading platform revamped to offer users a unified experience accessible across devices",
     "image": "share-trading-platform.jpeg",
@@ -90,6 +81,16 @@
     "case_study_url": "#"
   },
 
+  {
+    "title": "Intertrust Navigate- Fund operations platform",
+    "description": "A platform enabling employees to monitor and track the company's fund-related operations",
+    "image": "intertrust-navigate.jpeg",
+    "alt": "Intertrust Navigate",
+    "tags": ["Enterprise Apps", "Fintech"],
+    "link": "intertrust-navigate.php",
+    "case_study_url": "#"
+  },
+ 
  
   {
     "title": "Redesigning Tricogs AI Driven Healthcare Platform",
