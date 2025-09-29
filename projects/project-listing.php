@@ -19,6 +19,7 @@
     $filteredProjects = $projects;
   }
 
+
   $limit = isset($limit) ? (int)$limit : count($filteredProjects);
   $displayProjects = array_slice($filteredProjects, 0, $limit);
   $projectCount = 0; // Initialize a counter for projects
