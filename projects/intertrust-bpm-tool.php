@@ -8,13 +8,13 @@
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Intertrust BPM Tool | Neointeraction design | Contact Now</title>
     <meta name="description"
-        content="Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making organizational processes better." />
+        content="BPM tools are designed to help organizations manage and improve business processes efficiently. Contact us to design similar projects." />
     <meta name="keywords" content="BPM tool, business process management, UX design, user experience, Intertrust, promo tool redesign" />
     <link rel="canonical" href="<?php echo $base_url; ?>bpm-redesign-project" />
     <meta property="og:title" content="Intertrust BPM Tool | Neointeraction design | Contact Now" />
     <meta property="og:description"
-        content="Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making organizational processes better." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/projects/intertrust-bpm-tool.jpg" />
+        content="BPM tools are designed to help organizations manage and improve business processes efficiently. Contact us to design similar projects." />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-bpm-homepage-thumbnail.jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="<?php echo $base_url; ?>bpm-redesign-project" />
@@ -24,8 +24,8 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Intertrust BPM Tool | Neointeraction design | Contact Now" />
     <meta name="twitter:description"
-        content="Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making organizational processes better." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/projects/intertrust-bpm-tool.jpg" />
+        content="BPM tools are designed to help organizations manage and improve business processes efficiently. Contact us to design similar projects." />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-bpm-homepage-thumbnail.jpeg" />
 </head>
 
 <body>

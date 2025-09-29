@@ -2,22 +2,27 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>
-        Startup Accelerator Website | Neointeraction Design</title>
+    <title>Tech Startup Accelerator | Neointeraction Design</title>
+    <meta name="description"
+        content="We redesigned the website for India Accelerator, a leading tech startup accelerator in India and UAE, improving user experience and showcasing startups effectively." />
     <link rel="canonical" href="https://www.neointeraction.com/startup-accelerator-website" />
     <meta name="robots" content="noindex" />
-    <meta property="og:title" content="India Accelerator | Neointeraction Design" />
+    <meta property="og:title" content="Tech Startup Accelerator | Neointeraction Design" />
+    <meta property="og:description"
+        content="We redesigned the website for India Accelerator, a leading tech startup accelerator in India and UAE, improving user experience and showcasing startups effectively." />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+        content="<?php echo $base_url; ?>assets/images/og/startup-accelerator-website.jpeg" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/startup-accelerator-website" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
-    <meta name="twitter:title" content="India Accelerator | Neointeraction Design" />
+    <meta name="twitter:title" content="Tech Startup Accelerator | Neointeraction Design" />
+    <meta name="twitter:description"
+        content="We redesigned the website for India Accelerator, a leading tech startup accelerator in India and UAE, improving user experience and showcasing startups effectively." />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+        content="<?php echo $base_url; ?>assets/images/og/startup-accelerator-website.jpeg" />
     <meta name="twitter:card" content="summary" />
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
     <?php include $path . 'includes/favicon.php'; ?>

@@ -2,26 +2,30 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>UX redesign for ERP platform - Neointeraction Design</title>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/favicon.php'; ?>
+    <?php include $path . 'includes/css.php'; ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
+    <title>UX redesign for ERP platform | Neointeraction Design</title>
     <meta name="description"
-        content="UX redesign for Bangalore based TPA's ERP platform to enhance user experience and significantly improve internal TAT for cashless treatment approvals." />
+        content="UX redesign for Bangalore-based TPA's ERP platform improved user experience and streamlined internal TAT for faster cashless treatment approvals." />
     <link rel="canonical" href="https://www.neointeraction.com/tpa-erp-ux-redesign" />
-    <meta property="og:title" content="UX redesign for ERP platform - Neointeraction Design" />
+    <meta property="og:title" content="UX redesign for ERP platform | Neointeraction Design" />
     <meta property="og:description"
-        content="UX redesign for Bangalore based TPA's ERP platform to enhance user experience and significantly improve internal TAT for cashless treatment approvals." />
+        content="UX redesign for Bangalore-based TPA's ERP platform improved user experience and streamlined internal TAT for faster cashless treatment approvals." />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+        content="<?php echo $base_url; ?>assets/images/og/vidal-homepage-thumbnail.jpeg" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/tpa-erp-ux-redesign" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
-    <meta name="twitter:title" content="UX redesign for ERP platform - Neointeraction Design" />
+    <meta name="twitter:title" content="UX redesign for ERP platform | Neointeraction Design" />
     <meta name="twitter:description"
-        content="UX redesign for Bangalore based TPA's ERP platform to enhance user experience and significantly improve internal TAT for cashless treatment approvals." />
+        content="UX redesign for Bangalore-based TPA's ERP platform improved user experience and streamlined internal TAT for faster cashless treatment approvals." />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+        content="<?php echo $base_url; ?>assets/images/og/vidal-homepage-thumbnail.jpeg" />
     <meta name="twitter:card" content="summary" />
     <style id="page-transitions">
     @view-transition {
@@ -29,10 +33,6 @@
         types: OutIn
     }
     </style>
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path . 'includes/favicon.php'; ?>
-    <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>

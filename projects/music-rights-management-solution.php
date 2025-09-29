@@ -2,12 +2,16 @@
 <html class="no-js" lang="en">
 
 <head>
+  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path . 'includes/favicon.php'; ?>
+  <?php include $path . 'includes/css.php'; ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
 <title>Noctil | Music Rights Management solution | Neointeraction design</title>
-  <meta name="description" content="UX design solution for Notcil's metadata management platform tackled complex data configurations and sped up the royalty collection and distribution in the music industry with AI-powered matching."/>
+  <meta name="description" content="UX design solutions for Notcil's metadata management platform improved data handling and sped up royalty collection in the music industry with AI-powered matching."/>
   <link rel="canonical" href="https://www.neointeraction.com/music-rights-management-design-development"/>
   <meta property="og:title" content="Noctil | Music Rights Management solution | Neointeraction design"/>
-  <meta property="og:description" content="UX design solution for Notcil's metadata management platform tackled complex data configurations and sped up the royalty collection and distribution in the music industry with AI-powered matching."/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta property="og:description" content="UX design solutions for Notcil's metadata management platform improved data handling and sped up royalty collection in the music industry with AI-powered matching."/>
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/noctil-homepage-banner.jpeg"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
   <meta property="og:url" content="https://www.neointeraction.com/music-rights-management-design-development"/>
@@ -16,12 +20,8 @@
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Noctil | Music Rights Management solution | Neointeraction design"/>
-  <meta name="twitter:description" content="UX design solution for Notcil's metadata management platform tackled complex data configurations and sped up the royalty collection and distribution in the music industry with AI-powered matching."/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
-  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-  <?php include $path . 'includes/favicon.php'; ?>
-  <?php include $path . 'includes/css.php'; ?>
-  <?php include $path . 'includes/head-additional-scripts.php'; ?>
+  <meta name="twitter:description" content="UX design solutions for Notcil's metadata management platform improved data handling and sped up royalty collection in the music industry with AI-powered matching."/>
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/noctil-homepage-banner.jpeg"/>
 </head>
 
 <body>

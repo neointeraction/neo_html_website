@@ -2,12 +2,12 @@
 <html class="no-js" lang="en">
 
 <head>
-<title>MEGA We Care | Neointeraction design | Contact Now</title>
+<title>Health & Wellness Website | Neointeraction Design</title>
   <link rel="canonical" href="https://www.neointeraction.com/digital-experience-in-health-wellness"/>
   <meta name="robots" content="noindex"/>
-  <meta property="og:title" content="MEGA We Care | Neointeraction design | Contact Now"/>
-  <meta property="og:description" content=" Intertrust BPM tool was designed to streamline and enhance organizational business processes efficiently."/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta property="og:title" content="Health & Wellness Website | Neointeraction Design"/>
+  <meta property="og:description" content="MEGA We Care redesigned its health & wellness website with digital experience design, leveraging customer insights to improve UX and expand brand reach."/>
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.jpeg"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
   <meta property="og:url" content="https://www.neointeraction.com/digital-experience-in-health-wellness"/>
@@ -15,9 +15,9 @@
   <meta property="og:type" content="website"/>
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="MEGA We Care | Neointeraction design | Contact Now"/>
-  <meta name="twitter:description" content=" Intertrust BPM tool was designed to streamline and enhance organizational business processes efficiently."/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta name="twitter:title" content="Health & Wellness Website | Neointeraction Design"/>
+  <meta name="twitter:description" content="MEGA We Care redesigned its health & wellness website with digital experience design, leveraging customer insights to improve UX and expand brand reach."/>
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.jpeg"/>
 <style id="page-transitions">@view-transition {navigation: auto;types: OutIn}</style>
   <meta name="twitter:card" content="summary" />
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>

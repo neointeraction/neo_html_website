@@ -9,14 +9,14 @@
     <?php include $path . 'includes/case_study_helper.php'; ?>
     <title>Biomedical Research platform | Euclid | Neointeraction design</title>
     <meta name="description"
-        content="Euclid focuses on managing biomedical data complexities amid advancements in technology. UX design for biomedical research platform by Neointeraction." />
+        content="Keyword extraction in medical research using UX design and React.js. Discover AI-driven text mining solutions and contact Neointeraction for innovative projects." />
     <meta name="keywords"
         content="biomedical research, UX design, healthcare platform, medical data, life sciences, research platform, euclid" />
     <link rel="canonical" href="<?php echo $base_url; ?>biomedical-research-ux-design" />
     <meta property="og:title" content="Biomedical Research platform | Euclid | Neointeraction design" />
     <meta property="og:description"
-        content="Euclid focuses on managing biomedical data complexities amid advancements in technology. UX design for biomedical research platform by Neointeraction." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/projects/euclid-biomedical-research.jpg" />
+        content="Keyword extraction in medical research using UX design and React.js. Discover AI-driven text mining solutions and contact Neointeraction for innovative projects." />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/euclid-homepage-thumbnail.jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="<?php echo $base_url; ?>biomedical-research-ux-design" />
@@ -26,9 +26,9 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Biomedical Research platform | Euclid | Neointeraction design" />
     <meta name="twitter:description"
-        content="Euclid focuses on managing biomedical data complexities amid advancements in technology. UX design for biomedical research platform by Neointeraction." />
+        content="Keyword extraction in medical research using UX design and React.js. Discover AI-driven text mining solutions and contact Neointeraction for innovative projects." />
     <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/projects/euclid-biomedical-research.jpg" />
+        content="<?php echo $base_url; ?>assets/images/og/euclid-homepage-thumbnail.jpeg" />
 </head>
 
 <body>

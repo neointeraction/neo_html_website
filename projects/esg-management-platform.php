@@ -2,19 +2,21 @@
 <html class="no-js" lang="en">
 
 <head>
-  <title>Digital Blanket| Neointeraction Design</title>
+  <title>ESG Management Platform | AI & IoT Solutions | Neointeraction Design</title>
   <link rel="canonical" href="https://www.neointeraction.com/esg-management-platform"/>
   <meta name="robots" content="noindex"/>
-  <meta property="og:title" content="Digital Blanket| Neointeraction Design"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta property="og:title" content="ESG Management Platform | AI & IoT Solutions | Neointeraction Design"/>
+  <meta property="og:description" content="We redesigned Digital Blanket, an AI and IoT-powered ESG management platform in India, improving user experience, streamlining operations, and saving energy."/>
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/digital-blanket-thumbnail.jpeg"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
   <meta property="og:url" content="https://www.neointeraction.com/esg-management-platform"/>
   <meta property="og:site_name" content="Neointeraction Design"/>
   <meta property="og:type" content="website"/>
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta name="twitter:title" content="Digital Blanket| Neointeraction Design"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta name="twitter:title" content="ESG Management Platform | AI & IoT Solutions | Neointeraction Design"/>
+  <meta name="twitter:description" content="We redesigned Digital Blanket, an AI and IoT-powered ESG management platform in India, improving user experience, streamlining operations, and saving energy."/>
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/digital-blanket-thumbnail.jpeg"/>
   <meta name="twitter:card" content="summary"/>
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <?php include $path . 'includes/favicon.php'; ?>

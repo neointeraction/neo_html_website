@@ -2,16 +2,16 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Player Transfer System | Neointeraction Design</title>
+    <title>UX consultancy for football Player Transfer solution | Neointeraction Design</title>
     <meta name="description"
-        content="UI UX redesign of FIFA clearing house International club’s player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />
+        content="UI UX redesign of FIFA clearing house International club's player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />
     <link rel="canonical" href="https://www.neointeraction.com/player-transfer-solution-ux-design" />
     <meta property="og:title"
-        content="UX Design for Football Player Transfer solution | Contact Neointeraction Design" />
+        content="UX consultancy for football Player Transfer solution | Neointeraction Design" />
     <meta property="og:description"
-        content="UI UX redesign of FIFA clearing house International club’s player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />
+        content="UI UX redesign of FIFA clearing house International club's player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+        content="<?php echo $base_url; ?>assets/images/og/player-transfer-system-thumbnail.jpeg" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/player-transfer-solution-ux-design" />
@@ -19,11 +19,11 @@
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta name="twitter:title"
-        content="UX Design for Football Player Transfer solution | Contact Neointeraction Design" />
+        content="UX consultancy for football Player Transfer solution | Neointeraction Design" />
     <meta name="twitter:description"
-        content="UI UX redesign of FIFA clearing house International club’s player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />
+        content="UI UX redesign of FIFA clearing house International club's player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+        content="<?php echo $base_url; ?>assets/images/og/player-transfer-system-thumbnail.jpeg" />
     <meta name="twitter:card" content="summary" />
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
     <?php include $path . 'includes/favicon.php'; ?>

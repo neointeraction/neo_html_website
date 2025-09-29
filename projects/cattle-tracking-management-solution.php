@@ -2,26 +2,26 @@
 <html class="no-js" lang="en">
 
 <head>
-  <title>Redesigning Cattle Tracking & Management solution | Neointeraction Design</title>
-  <meta name="description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <link rel="canonical" href="" />
-  <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
-  <meta property="og:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path . 'includes/favicon.php'; ?>
+  <?php include $path . 'includes/css.php'; ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
+  <title>UX for livestock tracker | Cattle Tracking & Management solution | Neointeraction Design</title>
+  <meta name="description" content="Livestock Tracker app consolidates inventory, saving ranchers time and ensuring accurate tracking with a seamless web and mobile experience." />
+  <link rel="canonical" href="<?php echo $base_url; ?>cattle-tracking-management-solution" />
+  <meta property="og:title" content="UX for livestock tracker | Cattle Tracking & Management solution | Neointeraction Design" />
+  <meta property="og:description" content="Livestock Tracker app consolidates inventory, saving ranchers time and ensuring accurate tracking with a seamless web and mobile experience." />
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/herdx-project-thumbnail.jpeg" />
   <meta property="og:image:width" content="2500" />
   <meta property="og:image:height" content="1330" />
   <meta property="og:url" content="" />
   <meta property="og:site_name" content="Neointeraction Design" />
   <meta property="og:type" content="website" />
   <meta name="google-site-verification" content="" />
-  <meta name="twitter:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
-  <meta name="twitter:description" content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png" />
+  <meta name="twitter:title" content="UX for livestock tracker | Cattle Tracking & Management solution | Neointeraction Design" />
+  <meta name="twitter:description" content="Livestock Tracker app consolidates inventory, saving ranchers time and ensuring accurate tracking with a seamless web and mobile experience." />
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/herdx-project-thumbnail.jpeg" />
   <meta name="twitter:card" content="summary" />
-  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-  <?php include $path . 'includes/favicon.php'; ?>
-  <?php include $path . 'includes/css.php'; ?>
-  <?php include $path . 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
