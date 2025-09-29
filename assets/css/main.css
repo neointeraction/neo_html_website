@@ -1051,7 +1051,7 @@ testimonial-card-detailed {
   right: 90px;
   bottom: 0;
   opacity: 0;
-  animation: fadeInUp 0.2s ease-in-out 0.2s;
+  animation: fadeInDown 0.2s ease-in-out 0.2s;
   animation-fill-mode: forwards;
 }
 
