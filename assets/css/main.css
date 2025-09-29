@@ -224,7 +224,7 @@ body {
 /* business-success  */
 
 .section-title {
-  padding-top: 40px;;
+  padding-top: 40px;
   font-weight: 500;
   font-size: 36px;
   color: #58595a;
@@ -245,7 +245,7 @@ body {
 .custom-card:hover {
   box-shadow: 4px 6px 4px 0px #a1959540;
   transition: 0.3s all ease-in-out;
-  border: 1px solid #E2E2E2;
+  border: 1px solid #e2e2e2;
   background-color: #ffffff;
 }
 
@@ -372,7 +372,7 @@ body {
 
 /* testimonial card  */
 
-.testimonials{
+.testimonials {
   background-color: #f6f6f6;
 }
 
@@ -420,12 +420,11 @@ testimonial-card-detailed {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.6;
-  margin-bottom: 10px; 
+  margin-bottom: 10px;
   flex-grow: 1;
 }
 
 .author-info {
-
   display: flex;
   align-items: center;
   gap: 16px;
@@ -877,7 +876,7 @@ testimonial-card-detailed {
 .ui-card-dark .bs-title,
 .ui-card-dark .bs-text {
   color: #fff;
-} 
+}
 .ui-card-dark .bs-button {
   background-color: #fff;
   color: #555;
@@ -1036,10 +1035,28 @@ testimonial-card-detailed {
 
 .project-banner-img {
   margin-top: 24px;
+  position: relative;
 }
 
-.project-banner-img img {
+.project-banner-img .pbi-layer1 {
+  animation: fadeInUp 0.3s ease-in-out;
+}
+
+.project-banner-img .pbi-layer1 img {
   width: 100%;
+}
+
+.pbi-layer2 {
+  position: absolute;
+  right: 90px;
+  bottom: 0;
+  opacity: 0;
+  animation: fadeInUp 0.2s ease-in-out 0.2s;
+  animation-fill-mode: forwards;
+}
+
+.pbi-layer2 img {
+  width: 21vw;
 }
 
 .p-logo {
@@ -1566,4 +1583,35 @@ testimonial-card-detailed {
   overflow: hidden;
   margin-right: 12px;
   vertical-align: bottom;
+}
+
+/* Keyframes for animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -40px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 40px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
 }
