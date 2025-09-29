@@ -41,19 +41,19 @@
         </div>
         <div class="col-6 col-md-3 footer-col">
           <ul class="p-0 footer-link-list">
-            <li><a href="<?php echo $path; ?>ux-design.php">UX Design</a></li>
-            <li><a href="<?php echo $path; ?>ui-development.php">UI Development</a></li>
+            <li><a href="<?php echo $path; ?>ux-design-services.php">UX Design</a></li>
+            <li><a href="<?php echo $path; ?>front-end-development-services.php">UI Development</a></li>
             <li><a href="<?php echo $path; ?>ux-design-audit.php">UX Audit</a></li>
-            <li><a href="<?php echo $path; ?>product-design.php">Product Design</a></li>
+            <li><a href="<?php echo $path; ?>product-design-services.php">Product Design</a></li>
             <li><a href="<?php echo $path; ?>digital-transformation.php">Digital Transformation</a></li>
             <li><a href="<?php echo $path; ?>micro-frontend-architecture.php">Micro Frontend Architecture</a></li>
           </ul>
         </div>
         <div class="col-6 col-md-3 footer-col">
           <ul class="p-0 footer-link-list">
-            <li><a href="<?php echo $path; ?>fintech.php">Fintech UX Design</a></li>
-            <li><a href="<?php echo $path; ?>edtech.php">Edtech UX Design</a></li>
-            <li><a href="<?php echo $path; ?>healthcare.php">Healthcare UX Design</a></li>
+            <li><a href="<?php echo $path; ?>banking-and-fintech-solutions.php">Fintech UX Design</a></li>
+            <li><a href="<?php echo $path; ?>edtech-design-services.php">Edtech UX Design</a></li>
+            <li><a href="<?php echo $path; ?>health-care-design-services.php">Healthcare UX Design</a></li>
           </ul>
         </div>
         <div class="col-6 col-md-3 footer-col">

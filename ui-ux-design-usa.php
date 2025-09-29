@@ -15,30 +15,26 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
     <?php include $path.'includes/head-additional-scripts.php'; ?>
-    <title>UX Design Services | Neointeraction Design | Contact Us</title>
-    <meta name="description"
-        content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
-    <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
-    <link rel="canonical" href="https://www.neointeraction.com/blog" />
-    <meta property="og:title" content="Expert UX Design Audit in India | Neointeraction Design | Contact Us" />
-    <meta property="og:description"
-        content="Boost your digital presence with our  UX Design Audit services in India. Uncover actionable insights for user experiences and drive business growth" />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:url" content="" />
-    <meta property="og:site_name" content="Neointeraction Design" />
-    <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Expert UX Design Audit in India | Neointeraction Design | Contact Us" />
-    <meta name="twitter:description"
-        content="Boost your digital presence with our  UX Design Audit services in India. Uncover actionable insights for user experiences and drive business growth" />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <title>Best UI UX agency in USA | UI UX Services | Neointeraction Design</title>
+  <meta name="description" content="Leading UI UX agency in USA offering top UI UX services. Boost user experiences with our innovative design solutions. Contact us for expert  services."/>
+  <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-usa"/>
+  <meta property="og:title" content="Contact Neointeraction Design | Top UI/UX Agency in the USA | Expert UI/UX Services"/>
+  <meta property="og:description" content="Transforming digital landscapes, our UI UX agency in USA delivers best design solutions for you. Contact us today!"/>
+  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta property="og:image:width" content="2500"/>
+  <meta property="og:image:height" content="1330"/>
+  <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-usa"/>
+  <meta property="og:site_name" content="Neointeraction Design"/>
+  <meta property="og:type" content="website"/>
+  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="Contact Neointeraction Design | Top UI/UX Agency in the USA | Expert UI/UX Services"/>
+  <meta name="twitter:description" content="Transforming digital landscapes, our UI UX agency in USA delivers best design solutions for you. Contact us today!"/>
+  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
 </head>
 
 <body>
-    <?php $page='blog';
+    <?php $page='landing';
  
     ?>
     <?php include $path.'includes/body-additional-scripts.php'; ?>
@@ -57,11 +53,14 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left">
                             <h1 class="banner-title">
-                            Transform <br> <span class="highlight">Web & Mob App Designs</span>
+
+                            Ideas to Impact: <br><span class="highlight">USA's Leading UI/UX Design Agency</span>
+
+
                             </h1>
 
                             <div class="contact-info">
-                                <p class="banner-subtext">Craft seamless experiences that delight your users. From research to design, we create intuitive interfaces that drive engagement. Let’s turn your ideas into impactful digital products.</p>
+                                <p class="banner-subtext">need content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content here</p>
 
                             </div>
                         </div>
@@ -70,7 +69,7 @@ include_once 'includes/tracking-functions.php';
                     <!-- Right Side -->
                     <div class="col-lg-6">
                         <div class="contact-right">
-                            <h2 class="form-title">Connect with our Experts</h2>
+                            <h2 class="form-title">Design Enquiry for USA Clients</h2>
 
 
                             <form id="contactForm">
@@ -122,15 +121,18 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- banner -- end  -->
 
-
     <section class="section-padding">
         <div class="container">
             <div class="contact-info">
-            <p class="banner-subtext">With a deep understanding of industry trends and user behavior, we craft UX design services that truly resonate with your target audience, increasing satisfaction and loyalty. Our collaborative approach ensures every design decision aligns with your product and business objectives, laying the foundation for long-term success and growth </p>
-            </div>
+            <p class="banner-subtext">Neointeraction Design is your gateway to cutting-edge UX/UI solutions tailored for US markets. With a track record of excellence spanning 15 years, our team of seasoned experts combines creativity with technical prowess to deliver solutions that exceed expectations. From concept to product, we prioritize creating engaging designs aligned with business goals, ensuring measurable ROI. Our commitment to end-to-end services means we're with you every step of the way, meticulously crafting every aspect of your project to perfection. Whether you require UX/UI design, frontend development, or a seamless integration of both for your website or SaaS product, our team possesses the expertise and experience to bring your vision to life
+            </p>
+    </div>
         </div>
     </section>
 
+
+
+ 
     <section class="banner section-padding">
         <div>
             <div class="container">
@@ -166,7 +168,7 @@ include_once 'includes/tracking-functions.php';
         <div class="container">
             <div class="project__header">
                 <h2 class="section-title">
-                Recent UX Design Projects
+                Browse Projects
                 </h2>
                 <a href="<?php echo $path; ?>projects.php">
                     View All
@@ -176,7 +178,7 @@ include_once 'includes/tracking-functions.php';
                 <?php 
                 $limit = 2;
 
-                $selectedTag = 'Mobile Design';
+                $selectedTag = 'Healthcare';
 
                 include $path . include 'projects/project-listing.php'; ?>
             </div>
@@ -189,7 +191,7 @@ include_once 'includes/tracking-functions.php';
     <section class="clients section-padding">
         <div class="container">
             <h2 class="section-title">
-                Middle east Clients we’ve partnered with
+            Clients we collaborated with
             </h2>
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
@@ -204,115 +206,71 @@ include_once 'includes/tracking-functions.php';
         <?php include 'components/testimonial.php'; ?>
     <!-- testimonials -- end  -->
 
-   
 
     <section class="industry-experience section-padding">
         <div class="container">
-            <h2 class="section-title">UX Design Process</h2>
+            <h2 class="section-title">Why US Companies chose us for their product?</h2>
+            <p class="body-text">At Neointeraction Design, we understand that your digital product is the cornerstone of your business. That's why we're committed to delivering best product design services that not only meet but exceed your expectations. Here's why US clients choose us to design and develop their product</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/graph.svg" alt="qa" />
-                            <h4 class="wwd-title">User Research</h4>
+                            <img src="<?php echo $path; ?>assets/images/icons/diamond.svg" alt="qa" />
+                            <h4 class="wwd-title">Quality Assurance </h4>
+                            <p class="wwd-text">While our rates may be competitive, our commitment to quality remains unwavering. With over 15 years of industry experience, our team of experts is dedicated to delivering superior design solutions that not only meet but exceed your expectations, ensuring optimal user experiences and driving your brand's success.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/person.svg" alt="value" />
-                            <h4 class="wwd-title">Persona Development</h4>
+                            <img src="<?php echo $path; ?>assets/images/icons/book.svg" alt="value" />
+                            <h4 class="wwd-title">Value-Packed Packages</h4>
+                            <p class="wwd-text">Our service packages are designed to offer maximum value for your investment. Enjoy a comprehensive range of services, including UX/UI design, product design, and frontend development, all bundled together to streamline your project workflow and enhance efficiency.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/arcticons_journey.svg" alt="optimise" />
-                            <h4 class="wwd-title">User Journey Mapping</h4>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/like.svg" alt="data" />
-                            <h4 class="wwd-title">IA Validation</h4>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/ph_strategy-light.svg" alt="plane" />
-                            <h4 class="wwd-title">UX Strategy & Wireframing</h4>
+                            <img src="<?php echo $path; ?>assets/images/icons/optimise.svg" alt="optimise" />
+                            <h4 class="wwd-title">Cost-Optimized Outsourcing</h4>
+                            <p class="wwd-text">Outsource to maximize cost efficiency and optimize your project expenses while still receiving top-notch design services</p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-pointer.svg" alt="team" />
-                            <h4 class="wwd-title">Interactive Prototype</h4>
-                        </div>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section class="industry-experience section-padding">
-        <div class="container">
-            <h2 class="section-title">Tailored UX Design Solutions</h2>
-            <p class="section-desc">Neointeraction Design is a UX design company in India which offers customizable UX design solutions to suit your specific needs. Whether you're in the early stages of product development or looking to optimize an existing platform, we've got you covered.</p>
-            <div class="what-we-do-block section-margin">
-                <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/token_cweb.svg" alt="qa" />
-                            <h4 class="wwd-title">UX Research </h4>
-                            <p class="wwd-text">Gain valuable insights into user behaviors and preferences to inform your product strategy and design decisions.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/arcticons_journey.svg" alt="value" />
-                            <h4 class="wwd-title">IA and Content</h4>
-                            <p class="wwd-text">Develop a clear information architecture and compelling content strategy to ensure that users can easily find what they need and engage with your brand</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/ph_strategy-light.svg" alt="optimise" />
-                            <h4 class="wwd-title">UX Optimization</h4>
-                            <p class="wwd-text">Continuously improve your digital product based on user feedback and analytics, optimizing the user experience to drive engagement and conversions.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-pointer.svg" alt="data" />
-                            <h4 class="wwd-title">Interactive Prototyping and Usability</h4>
-                            <p class="wwd-text">Test early prototypes with real users to identify usability issues and refine the user experience before development begins.</p>
+                            <img src="<?php echo $path; ?>assets/images/icons/data.svg" alt="data" />
+                            <h4 class="wwd-title">Data-Driven Solutions</h4>
+                            <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we make is backed by research and analysis.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="plane" />
-                            <h4 class="wwd-title">UI Design</h4>
-                            <p class="wwd-text">From wireframes to high-fidelity mockups, our UI designers will create visually stunning user interfaces that align with your brand and delight your users</p>
+                            <h4 class="wwd-title">Your reliable UX/UI design partner</h4>
+                            <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to make sure we accelerate your product journey.</p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="team" />
-                            <h4 class="wwd-title">Front End Development</h4>
-                            <p class="wwd-text">Bring your designs to life with our front-end development services, ensuring pixel-perfect execution and seamless integration with your backend systems.</p>
+                            <img src="<?php echo $path; ?>assets/images/icons/team.svg" alt="team" />
+                            <h4 class="wwd-title">Exceptional Team</h4>
+                            <p class="wwd-text">Our team of ux/ui designers, product designers and frontend developers is among the best in the industry, with the skills and expertise to bring your vision to life.</p>
                         </div>
                     </div>
 
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/record.svg" alt="record" />
+                            <h4 class="wwd-title">Proven Track Record</h4>
+                            <p class="wwd-text">We have a proven track record of success, with numerous satisfied clients across diverse domains.</p>
+                        </div>
+                    </div>
 
                 </div>
             </div>
         </div>
     </section>
+
 
     <section class="business-success section-padding">
         <div class="container">
@@ -430,7 +388,69 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
-
+     <!-- dev-cycle  -->
+     <section class="dev-cycle section-padding">
+        <div class="container">
+            <h2 class="section-title">
+                Supporting 70% of Product Development cycle
+            </h2>
+            <p class="body-text">Neointeraction UX UI design agency with 15 years of expertise, has collaborated with various industry sectors and provided UX design & Frontend development services for business enterprises & startups to achieve their business goals.</p>
+            <div class="dev-cycle-blocks section-margin">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="dev-cycle-block">
+                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
+                            <h4 class="dcb-title">UX Design</h4>
+                            <ul class="dcb-list">
+                                <li>User Research</li>
+                                <li>UX Audit</li>
+                                <li>Customer Journey Mapping</li>
+                                <li>Persona Development</li>
+                                <li>IA Validation</li>
+                                <li>UX Strategy & Prototyping</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="dev-cycle-block">
+                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
+                            <h4 class="dcb-title">UI Design</h4>
+                            <ul class="dcb-list">
+                                <li>Design Systems</li>
+                                <li>Brand Elements</li>
+                                <li>Custom Graphics</li>
+                                <li>UI Handoff</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="dev-cycle-block">
+                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
+                            <h4 class="dcb-title">UI Development</h4>
+                            <ul class="dcb-list">
+                                <li>Micro Frontend Architecture</li>
+                                <li>Modular Component Building</li>
+                                <li>Story Books</li>
+                                <li>API Integration</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="dev-cycle-block disabled">
+                            <img src="<?php echo $path; ?>assets/images/close-circle.svg" alt="close-circle" class="dcb-icon" />
+                            <h4 class="dcb-title">Backend & Integration</h4>
+                            <ul class="dcb-list">
+                                <li>DB Design</li>
+                                <li>API Development</li>
+                                <li>QA</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- dev-cycle -- end -->
 
     <section class="industry-experience section-padding mb-5">
         <div class="container">
@@ -500,28 +520,13 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
-    <section class="ux-design-subscription section-padding">
-        <div class="container">
-            <h2 class="section-title">Design as a Service - Scalable Solutions for Your Business</h2>
-           <p>Transform your digital presence with our Design as a Service. With flexible monthly subscriptions, we offer tailored UX, UI, and product design solutions that adapt to your business needs. Let us help you create user experiences that drive results.</p>
-        </div>
-    </section>
 
-    <section class="ux-design-subscription section-padding">
-        <div class="container">
-            <h2 class="section-title">Why Choose UX Design Subscription Plans?</h2>
-            <ul>
-                <li><p >Get a UX Team to Support Product Designs</p></li>
-                <li><p >Flexible Support for Your Business Needs</p></li>
-                <li><p >Expert Design Team Aligned with Your Goals</p></li>
-                <li><p >Hassle-Free Management with Clear Timelines</p></li>
-            </ul>
-        </div>
-    </section>
+
+
 
     <?php include $path.'components/hire-designers-engineers.php'; ?>
     <!-- testimonials  -->
-    <?php $faq_tag = 'ux-design'; include 'components/faq.php'; ?>
+    <?php $faq_tag = 'product-design'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path.'components/footer.php'; ?>
