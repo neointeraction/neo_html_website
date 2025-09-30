@@ -343,7 +343,7 @@ body {
 }
 
 .clf-item img {
-  max-height: 50px;
+  max-height: 70px;
   /* filter: grayscale(100%); */
   /* opacity: 0.7; */
   transition: opacity 0.3s ease;
@@ -376,7 +376,7 @@ body {
 
 .testimonials {
   background-color: #f6f6f6;
-  margin-bottom: 5em;
+  /* margin-bottom: 5em; */
 }
 
 #testimonial-mob {
@@ -781,7 +781,7 @@ testimonial-card-detailed {
 /* blog  */
 
 .clf-item img {
-  max-height: 50px;
+  max-height: 70px;
   /* filter: grayscale(100%); */
   /* opacity: 0.7; */
   transition: opacity 0.3s ease;
@@ -1307,7 +1307,8 @@ testimonial-card-detailed {
 }
 
 .engagement-modal-block .project-block-item {
-  margin-bottom: 24px;
+  margin-bottom: 60px; 
+  /* 24px; */
 }
 
 .engagement-modal-block .project-block-item:last-child {
@@ -1621,7 +1622,7 @@ testimonial-card-detailed {
 
 
 .contact-section {
-  margin-top: 5em;
+  margin-top: 80px;
 }
 
 .project__header {
@@ -1681,4 +1682,13 @@ testimonial-card-detailed {
 
 .request-quote-btn {
   background: #FDFDFD;
+}
+
+.request-quote-btn:hover {
+  border-color: #FDFDFD;
+}
+
+.what-we-do-block.no-desc-block .wwd-title{
+  color: #58595A !important;
+  font-weight: 400;
 }

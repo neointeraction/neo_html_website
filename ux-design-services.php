@@ -131,7 +131,7 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
-    <section class="banner section-padding">
+    <section class="section-padding">
         <div>
             <div class="container">
         
@@ -209,7 +209,7 @@ include_once 'includes/tracking-functions.php';
     <section class="industry-experience section-padding">
         <div class="container">
             <h2 class="section-title">UX Design Process</h2>
-            <div class="what-we-do-block section-margin">
+            <div class="what-we-do-block section-margin no-desc-block">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">

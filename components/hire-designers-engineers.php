@@ -18,7 +18,7 @@
             Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. 
           </p>
   
-          <button class="btn btn-custom btn-custom-secondary request-quote-btn" data-bs-toggle="modal" data-bs-target="#registerModal" data-service="Request a Quote" onclick="setEnquiryType('Request a Quote')">
+          <button class="btn btn-custom btn-custom-secondary bs-button request-quote-btn" data-bs-toggle="modal" data-bs-target="#registerModal" data-service="Request a Quote" onclick="setEnquiryType('Request a Quote')">
             Request a Quote
           </button>
 
