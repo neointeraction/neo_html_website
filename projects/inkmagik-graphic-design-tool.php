@@ -27,12 +27,7 @@
     <meta name="twitter:image"
         content="<?php echo $base_url; ?>assets/images/og/inkmagik-project-thumbnail.jpeg" />
     <meta name="twitter:card" content="summary" />
-    <style id="page-transitions">
-    @view-transition {
-        navigation: auto;
-        types: OutIn
-    }
-    </style>
+
 </head>
 
 <body>
@@ -51,7 +46,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Inkmagik - A Graphic Design Software
+                Inkmagik - <span class="highlight">A Graphic Design Software</span>
             </h1>
         </div>
         <!-- project-banner-img -->

@@ -45,7 +45,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Redesigning Cattle Tracking & Management solution
+                Redesigning <span class="highlight">Cattle Tracking & Management solution</span>
             </h1>
         </div>
    

@@ -2,7 +2,12 @@
 <html class="no-js" lang="en">
 
 <head>
-<title>Employee Transportation Platform | SaaS UI UX Design | Neointeraction Design</title>
+
+  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path . 'includes/favicon.php'; ?>
+  <?php include $path . 'includes/css.php'; ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
+  <title>Employee Transportation Platform | SaaS UI UX Design | Neointeraction Design</title>
   <link rel="canonical" href="https://www.neointeraction.com/employee-transportation-platform"/>
   <meta name="robots" content="noindex"/>
   <meta property="og:title" content="Employee Transportation Platform | SaaS UI UX Design | Neointeraction Design"/>
@@ -18,10 +23,6 @@
   <meta name="twitter:description" content="eTravelMate, a leading employee transportation management platform, was redesigned by us to optimize workflows and user experience with advanced SaaS UI UX design."/>
   <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/employee-transportation-platform.jpeg"/>
   <meta name="twitter:card" content="summary"/>
-  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-  <?php include $path . 'includes/favicon.php'; ?>
-  <?php include $path . 'includes/css.php'; ?>
-  <?php include $path . 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
@@ -40,7 +41,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-      Employee Transportation Platform
+      Corporate Employee <span class="highlight">Transportation Management</span>
       </h1>
     </div>
     <!-- project-banner-img -->

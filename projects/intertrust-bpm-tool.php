@@ -49,7 +49,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Intertrust - A BPM Application
+                Intertrust - <span class="highlight">A BPM Application</span>
             </h1>
         </div>
         <!-- project-banner-img -->

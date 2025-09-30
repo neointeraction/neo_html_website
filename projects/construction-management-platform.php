@@ -46,8 +46,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Construction
-                Management Platform
+                UX UI Design for <span class="highlight">Construction Management Platform</span>
             </h1>
         </div>
    

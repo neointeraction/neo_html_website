@@ -2,29 +2,28 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Health & Wellness Website | Neointeraction Design</title>
-    <link rel="canonical" href="https://www.neointeraction.com/digital-experience-in-health-wellness" />
-    <meta name="robots" content="noindex" />
-    <meta property="og:title" content="Health & Wellness Website | Neointeraction Design" />
-    <meta property="og:description"
-        content="MEGA We Care redesigned its health & wellness website with digital experience design, leveraging customer insights to improve UX and expand brand reach." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.jpeg" />
-    <meta property="og:image:width" content="2500" />
-    <meta property="og:image:height" content="1330" />
-    <meta property="og:url" content="https://www.neointeraction.com/digital-experience-in-health-wellness" />
-    <meta property="og:site_name" content="Neointeraction Design" />
-    <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Health & Wellness Website | Neointeraction Design" />
-    <meta name="twitter:description"
-        content="MEGA We Care redesigned its health & wellness website with digital experience design, leveraging customer insights to improve UX and expand brand reach." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.jpeg" />
-    <meta name="twitter:card" content="summary" />
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path . 'includes/favicon.php'; ?>
-    <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
+<?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path . 'includes/favicon.php'; ?>
+  <?php include $path . 'includes/css.php'; ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
+  <title>Health & Wellness Website | Neointeraction Design</title>
+  <link rel="canonical" href="https://www.neointeraction.com/digital-experience-in-health-wellness"/>
+  <meta name="robots" content="noindex"/>
+  <meta property="og:title" content="Health & Wellness Website | Neointeraction Design"/>
+  <meta property="og:description" content="MEGA We Care redesigned its health & wellness website with digital experience design, leveraging customer insights to improve UX and expand brand reach."/>
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.jpeg"/>
+  <meta property="og:image:width" content="2500"/>
+  <meta property="og:image:height" content="1330"/>
+  <meta property="og:url" content="https://www.neointeraction.com/digital-experience-in-health-wellness"/>
+  <meta property="og:site_name" content="Neointeraction Design"/>
+  <meta property="og:type" content="website"/>
+  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="Health & Wellness Website | Neointeraction Design"/>
+  <meta name="twitter:description" content="MEGA We Care redesigned its health & wellness website with digital experience design, leveraging customer insights to improve UX and expand brand reach."/>
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.jpeg"/>
+  <meta name="twitter:card" content="summary" />
+  
 </head>
 
 <body>
@@ -43,7 +42,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Enhancing Digital Experience in Health & Wellness
+                Health & wellness <span class="highlight">website redesign</span>
             </h1>
         </div>
         <!-- project-banner-img -->

@@ -27,12 +27,6 @@
     <meta name="twitter:image"
         content="<?php echo $base_url; ?>assets/images/og/vidal-homepage-thumbnail.jpeg" />
     <meta name="twitter:card" content="summary" />
-    <style id="page-transitions">
-    /* @view-transition {
-        navigation: auto;
-        types: OutIn
-    } */
-    </style>
 </head>
 
 <body>
@@ -50,7 +44,7 @@ include $path . 'includes/case_study_helper.php';
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Claiming Efficiency- UX Boost for <span class="highlight">Cashless TPA</span>
+                Healtcare ERP System Boost for <span class="highlight">Cashless TPA</span>
             </h1>
         </div>
         <!-- project-banner-img -->

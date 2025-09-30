@@ -44,7 +44,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                AI Driven <span class="highlight">Healthcare Consultation Platform</span>
+                Redesigning Tricogs <span class="highlight">AI Driven Healthcare Platform</span>
             </h1>
         </div>
 

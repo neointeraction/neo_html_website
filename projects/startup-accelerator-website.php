@@ -2,6 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/favicon.php'; ?>
+    <?php include $path . 'includes/css.php'; ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Tech Startup Accelerator | Neointeraction Design</title>
     <meta name="description"
         content="We redesigned the website for India Accelerator, a leading tech startup accelerator in India and UAE, improving user experience and showcasing startups effectively." />
@@ -24,10 +28,6 @@
     <meta name="twitter:image"
         content="<?php echo $base_url; ?>assets/images/og/startup-accelerator-website.jpeg" />
     <meta name="twitter:card" content="summary" />
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path . 'includes/favicon.php'; ?>
-    <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
@@ -47,7 +47,7 @@
         <div class="container">
             <h1 class="banner-title">
 
-                Startup Accelerator Website
+                Website Redesign for <span class="highlight">Tech startup accelerator</span>
             </h1>
         </div>
         <!-- project-banner-img -->

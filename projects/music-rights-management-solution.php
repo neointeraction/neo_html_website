@@ -40,7 +40,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Redesigning Noctils Music Rights Management solution
+        Redesigning Noctils <span class="highlight">Music Rights Management solution</span>
       </h1>
     </div>
     <!-- project-banner-img -->

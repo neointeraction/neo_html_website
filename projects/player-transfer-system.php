@@ -2,6 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/favicon.php'; ?>
+    <?php include $path . 'includes/css.php'; ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UX consultancy for football Player Transfer solution | Neointeraction Design</title>
     <meta name="description"
         content="UI UX redesign of FIFA clearing house International club's player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />
@@ -25,10 +29,6 @@
     <meta name="twitter:image"
         content="<?php echo $base_url; ?>assets/images/og/player-transfer-system-thumbnail.jpeg" />
     <meta name="twitter:card" content="summary" />
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-    <?php include $path . 'includes/favicon.php'; ?>
-    <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>
@@ -47,7 +47,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Player <span class="highlight">Transfer System</span>
+                Redesign for <span class="highlight">Player transfer System</span>
             </h1>
         </div>
         <!-- project-banner-img -->

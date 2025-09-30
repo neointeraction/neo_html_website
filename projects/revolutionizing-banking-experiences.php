@@ -44,7 +44,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Redesign Digital banking platform for Commercail Bank of Dubai
+        Redesign Digital banking platform for <span class="highlight">Commercail Bank of Dubai</span>
       </h1>
     </div>
     <!-- project-banner-img -->

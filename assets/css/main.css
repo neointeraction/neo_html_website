@@ -1058,9 +1058,9 @@ testimonial-card-detailed {
   animation-fill-mode: forwards;
 }
 
-.pbi-layer2 img {
-  width: 21vw;
-}
+/* .pbi-layer2 img {
+  /* width: 21vw; */
+} */
 
 .p-logo {
   text-align: center;

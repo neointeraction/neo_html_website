@@ -40,7 +40,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-      Intelligent Building & ESG Management Platform
+      Redesigning <span class="highlight">Intelligent Building & ESG Management Platform</span>
       </h1>
     </div>
   
