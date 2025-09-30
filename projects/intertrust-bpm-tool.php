@@ -53,8 +53,16 @@
             </h1>
         </div>
         <!-- project-banner-img -->
-        <div class="project-banner-img">
-            <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-project-banner.jpeg" alt="Intertrust BPM Project Banner" />
+
+
+        <div class="project-banner-img project-banner-img-block">
+        <div class="pbi-layer1">
+            <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-project-banner.jpeg"
+                alt="pbanner1" />
+        </div>
+        <div class="pbi-layer2">
+            <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-project-banner-float.jpg"
+                alt="pbanner1" />
         </div>
         <div class="project-content-block">
             <div class="container">
@@ -262,7 +270,6 @@
 
 
     <?php include $path . 'components/projects-enquiry.php'; ?>
-    <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path . 'components/download-casestudy-modal.php'; ?>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
