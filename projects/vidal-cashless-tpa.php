@@ -28,10 +28,10 @@
         content="<?php echo $base_url; ?>assets/images/og/vidal-homepage-thumbnail.jpeg" />
     <meta name="twitter:card" content="summary" />
     <style id="page-transitions">
-    @view-transition {
+    /* @view-transition {
         navigation: auto;
         types: OutIn
-    }
+    } */
     </style>
 </head>
 
@@ -54,8 +54,16 @@ include $path . 'includes/case_study_helper.php';
             </h1>
         </div>
         <!-- project-banner-img -->
-        <div class="project-banner-img">
-            <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner.jpg" alt="project banner" />
+       
+        <div class="project-banner-img project-banner-img-block">
+            <div class="pbi-layer1">
+                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner.jpg"
+                alt="pbanner1" />
+            </div>
+            <div class="pbi-layer2">
+                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner-float.jpeg"
+                    alt="pbanner1" />
+            </div>
         </div>
         <div class="project-content-block">
             <div class="container">

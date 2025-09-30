@@ -44,8 +44,16 @@
       </h1>
     </div>
     <!-- project-banner-img -->
-    <div class="project-banner-img">
-      <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-banner.jpg" alt="pbanner1" />
+  
+    <div class="project-banner-img project-banner-img-block">
+        <div class="pbi-layer1">
+            <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-banner.jpg"
+            alt="pbanner1" />
+        </div>
+        <div class="pbi-layer2">
+            <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-banner-float.jpeg"
+                alt="pbanner1" />
+        </div>
     </div>
     <div class="project-content-block">
       <div class="container">

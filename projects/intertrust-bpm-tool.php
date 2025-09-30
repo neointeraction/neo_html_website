@@ -53,16 +53,16 @@
             </h1>
         </div>
         <!-- project-banner-img -->
-
-
+  
         <div class="project-banner-img project-banner-img-block">
-        <div class="pbi-layer1">
-            <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm-project-banner.jpeg"
-                alt="pbanner1" />
-        </div>
-        <div class="pbi-layer2">
-            <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-project-banner-float.jpg"
-                alt="pbanner1" />
+            <div class="pbi-layer1">
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-project-banner.jpeg"
+                    alt="pbanner1" />
+            </div>
+            <div class="pbi-layer2">
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-project-banner-float.jpeg"
+                    alt="pbanner1" />
+            </div>
         </div>
         <div class="project-content-block">
             <div class="container">
