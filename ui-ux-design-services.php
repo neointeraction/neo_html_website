@@ -37,7 +37,7 @@
     </div>
     <!-- navbar -- end  -->
     <!-- banner  -->
-    <section class="banner section-padding">
+    <section class=" section-padding">
         <div>
             <div class="container">
                 <h1 class="banner-title">

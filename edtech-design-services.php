@@ -262,13 +262,13 @@ include_once 'includes/tracking-functions.php';
             <h2 class="section-title">
                 Our Services
             </h2>
-            <div class="bs-card-section section-margin">
+            <div class="bs-card-section section-margin our-services">
                 <div class="row justify-content-center">
                     <!-- Card 1 -->
                     <div class="col-12 col-md-6 col-lg-6 pb-4">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/ux.svg" alt="ux" />
+                                <img src="<?php echo $path; ?>assets/images/services/ux-design.svg" alt="ux" />
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
@@ -292,7 +292,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-6 col-lg-6 pb-4">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/pd.svg" alt="pd" />
+                                <img src="<?php echo $path; ?>assets/images/services/product-design.svg" alt="ux" />
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
@@ -314,7 +314,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-6 col-lg-6">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/dt.svg" alt="dt" />
+                                <img src="<?php echo $path; ?>assets/images/services/ux-audit.svg" alt="ux" />
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
@@ -337,7 +337,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-6 col-lg-6">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/fd.svg" alt="fd" />
+                                <img src="<?php echo $path; ?>assets/images/services/ui-engineering.svg" alt="ux" />
                             </div>
                             <h4 class="title">UI Engineering</h4>
                             <p class="description">

@@ -129,7 +129,7 @@ include_once 'includes/tracking-functions.php';
 
 
 
-    <section class="banner section-padding">
+    <section class=" section-padding">
         <div>
             <div class="container">
         

@@ -1692,3 +1692,15 @@ testimonial-card-detailed {
   color: #58595A !important;
   font-weight: 400;
 }
+
+.our-services .icon-container img {
+  filter: grayscale(100%);
+}
+
+.our-services .custom-card:hover img {
+  filter: grayscale(0%);
+}
+
+.our-services h4 {
+  font-size: 36px;
+}
