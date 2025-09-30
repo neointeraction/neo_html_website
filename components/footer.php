@@ -45,8 +45,8 @@
             <li><a href="<?php echo $path; ?>front-end-development-services.php">UI Development</a></li>
             <li><a href="<?php echo $path; ?>ux-design-audit.php">UX Audit</a></li>
             <li><a href="<?php echo $path; ?>product-design-services.php">Product Design</a></li>
-            <li><a href="<?php echo $path; ?>digital-transformation.php">Digital Transformation</a></li>
-            <li><a href="<?php echo $path; ?>micro-frontend-architecture.php">Micro Frontend Architecture</a></li>
+            <li><a href="<?php echo $path; ?>ui-ux-design-usa.php">USA</a></li>
+            <li><a href="<?php echo $path; ?>ui-ux-design-uae.php">UAE</a></li>
           </ul>
         </div>
         <div class="col-6 col-md-3 footer-col">

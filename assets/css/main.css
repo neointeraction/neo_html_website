@@ -1670,3 +1670,15 @@ testimonial-card-detailed {
 .ux-design-subscription  p{
   color: #58595A;
 }
+
+.hire-engineers {
+  background-color: #2B2828;
+}
+
+.hire-engineers .bs-title,  .hire-engineers .bs-text{
+  color: #FDFDFD;
+}
+
+.request-quote-btn {
+  background: #FDFDFD;
+}
