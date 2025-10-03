@@ -55,7 +55,7 @@ include $path . 'includes/case_study_helper.php';
                 alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner-float.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner-float.svg"
                     alt="pbanner1" />
             </div>
         </div>

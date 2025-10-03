@@ -53,7 +53,7 @@
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner-float.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner-float.svg"
                     alt="pbanner1" />
             </div>
         </div>

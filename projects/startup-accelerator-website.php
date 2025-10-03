@@ -57,7 +57,7 @@
                 alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner-float.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner-float.svg"
                     alt="pbanner1" />
             </div>
         </div>

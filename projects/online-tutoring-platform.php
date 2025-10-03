@@ -55,7 +55,7 @@
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-banner-float.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-banner-float.svg"
                     alt="pbanner1" />
             </div>
         </div>

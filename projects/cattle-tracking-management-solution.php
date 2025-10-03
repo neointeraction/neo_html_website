@@ -51,11 +51,11 @@
    
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-project-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-banner.jpg"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-project-banner-float.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-banner-float.svg"
                     alt="pbanner1" />
             </div>
         </div>

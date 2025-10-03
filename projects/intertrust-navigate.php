@@ -51,7 +51,7 @@
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-banner-float.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-banner-float.svg"
                     alt="pbanner1" />
             </div>
         </div>

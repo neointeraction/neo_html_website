@@ -53,11 +53,11 @@
         <!-- project-banner-img -->
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-project-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner.jpg"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-project-banner-float.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner-float.svg"
                     alt="pbanner1" />
             </div>
         </div>

@@ -53,11 +53,11 @@
       
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/inkmagik/inkmagik-project-banner.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/inkmagik/inkmagik-project-banner.jpg"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/inkmagik/inkmagik-project-banner-float.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/inkmagik/inkmagik-project-banner-float.svg"
                     alt="pbanner1" />
             </div>
         </div>

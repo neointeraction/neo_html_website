@@ -57,7 +57,7 @@
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner-float.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner-float.svg"
                     alt="pbanner1" />
             </div>
         </div>

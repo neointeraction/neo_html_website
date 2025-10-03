@@ -52,7 +52,7 @@
                 alt="pbanner1" />
         </div>
         <div class="pbi-layer2">
-            <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-banner-float.jpeg"
+            <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-banner-float.svg"
                 alt="pbanner1" />
         </div>
     </div>
