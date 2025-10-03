@@ -80,9 +80,9 @@
             </button>
           </div>
           <p class="p-main-text">Noctil is an advanced technology solution that helps Rights Management Organizations to maximize collection and distribution while reducing operational costs.</p>
-          <button class="btn btn-custom case-study-mobview ">
+          <!-- <button class="btn btn-custom case-study-mobview ">
             Book A Consultation
-          </button>
+          </button> -->
         </div>
         <!-- result-block -->
         <div class="result-block project-section-padding">
@@ -90,7 +90,7 @@
           <div class="row ">
             <!-- 15+ years expertise -->
             <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="80">0</div>
+              <div class="count-number" data-target="80" data-type="percent">0</div>
               <div class="count-label">New User Engagement</div>
             </div>
             <!-- 150+ trusted clients -->
@@ -100,7 +100,7 @@
             </div>
             <!-- 80% lives impacted -->
             <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-              <div class="count-number" data-target="90">0</div>
+              <div class="count-number" data-target="90" data-type="percent">0</div>
               <div class="count-label">New Customer Acquisition</div>
             </div>
 
@@ -166,13 +166,10 @@
           </div>
         </div>
           <!-- approach-session  -->
-           <div class="brainstorming-session project-section-padding">
+
+        <div class="solutions-offered project-section-padding">
           <h4 class="project-section-title">Our Approach</h4>
           <p class="project-body-text">Understanding the problem and coming up with design thinking driven solutions helped get started with the project. We identified the issue, proposed iterative design solutions, and streamlined the process to ensure a holistically enhanced user experience</p>
-
-          <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-digital-service-providers.jpg" alt="noctil project banner" />
-          </div>
         </div>
         <!-- brainstorming-session  -->
         <div class="brainstorming-session project-section-padding">
@@ -270,12 +267,6 @@
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-music-management-solution.jpg" alt="noctil project banner" />
           </div>
-        </div>
-    
-        <div class="view-all-blogs-btn">
-          <button class="btn btn-custom btn-custom-secondary" onclick="location.href='<?php echo $path; ?>projects.php'">
-            View More Projects
-          </button>
         </div>
       </div>
     </div>

@@ -49,13 +49,19 @@
             </h1>
         </div>
         <!-- project-banner-img -->
-        <div class="project-banner-img project-banner-img-block">
+        <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management-banner.jpg"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management-banner-2.png"
+                    alt="pbanner1" />
+            </div>
+        </div>
+        <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
+            <div class="pbi-layer1">
+                <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise.jpeg"
                     alt="pbanner1" />
             </div>
         </div>
@@ -71,9 +77,8 @@
                         </div>
                         <div class="col-md-9">
                             <div class="quote-icon"></div>
-                            <p class="blog-quote-text">A well-crafted UI powered by machine learning is not just a
-                                design; it's an evolving masterpiece that learns, adapts, and grows with the users it
-                                serves.</p>
+                            <p class="blog-quote-text">
+                            A well designed product, we are impressed with design quality and User experience. Detailed wireframe & prototypes helped us to understand the UX better.</p>
                         </div>
                     </div>
                 </div>
@@ -81,15 +86,15 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom case-study-webview ">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
                     </div>
                     <p class="p-main-text">TM hub is an application used by the staff members aboard the Carnival ship
                         to organize their daily activities, tasks, and information about their journey</p>
-                    <button class="btn btn-custom case-study-mobview ">
+                    <!-- <button class="btn btn-custom case-study-mobview" >
                         Book A Consultation
-                    </button>
+                    </button> -->
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -97,7 +102,7 @@
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="90">0</div>
+                            <div class="count-number" data-target="90" >0</div>
                             <div class="count-label">New User Engagement</div>
                         </div>
                         <!-- 150+ trusted clients -->
@@ -106,8 +111,8 @@
                             <div class="count-label">Profits</div>
                         </div>
                         <!-- 80% lives impacted -->
-                        <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-                            <div class="count-number" data-target="80">0</div>
+                        <div class="col-6 col-md-4  count-up-item pb-0 mt-md-0">
+                            <div class="count-number" data-target="80"  data-type="percent">0</div>
                             <div class="count-label">New Customer Acquisition</div>
                         </div>
 
@@ -266,7 +271,6 @@
                         View More Projects
                     </button>
                 </div> -->
-                <?php include 'components/submit-enquiry.php'; ?>
             </div>
         </div>
     </section>

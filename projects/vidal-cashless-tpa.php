@@ -80,15 +80,15 @@ include $path . 'includes/case_study_helper.php';
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom case-study-webview ">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
                     </div>
                     <p class="p-main-text">UX Revamp for TPA claim processes across 600 nationwide teams, focusing on simplifying cashless claims and boosting efficiency via the
                         TIPS platform</p>
-                    <button class="btn btn-custom case-study-mobview ">
+                    <!-- <button class="btn btn-custom case-study-mobview ">
                         Book A Consultation
-                    </button>
+                    </button> -->
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -96,7 +96,7 @@ include $path . 'includes/case_study_helper.php';
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="200">0</div>
+                            <div class="count-number" data-target="200" data-type="percent">0</div>
                             <div class="count-label">New User Engagement</div>
                         </div>
                         <!-- 150+ trusted clients -->
@@ -106,7 +106,7 @@ include $path . 'includes/case_study_helper.php';
                         </div>
                         <!-- 80% lives impacted -->
                         <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-                            <div class="count-number" data-target="60">0</div>
+                            <div class="count-number" data-target="60" data-type="percent">0</div>
                             <div class="count-label">New Customer Acquisition</div>
                         </div>
 
@@ -225,17 +225,7 @@ include $path . 'includes/case_study_helper.php';
                                 </div>
                             </div>
 
-                            <!-- Card 3 -->
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card case-study-card">
-                                    <h4 class="title">Stakeholder Testing</h4>
-                                    <p class="description">
-                                        Thorough testing with stakeholders made sure ensured efficiency, with necessary adjustments based on their feedback before finalizing the
-                                        design for production.
-                                    </p>
-
-                                </div>
-                            </div>
+                         
 
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
@@ -272,12 +262,11 @@ include $path . 'includes/case_study_helper.php';
                         <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-website-ui.jpeg" alt="ui-update" />
                     </div>
                 </div>
-                <div class="view-all-projects-btn">
+                <!-- <div class="view-all-projects-btn">
                     <button class="btn btn-custom btn-custom-secondary">
                         View More Projects
                     </button>
-                </div>
-                <?php include $path . 'components/submit-enquiry.php'; ?>
+                </div> -->
             </div>
         </div>
     </section>

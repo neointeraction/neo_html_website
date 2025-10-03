@@ -77,15 +77,15 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom case-study-webview ">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal" data-title="Book A Consultation">
                             Book A Consultation
                         </button>
                     </div>
                     <p class="p-main-text">MEGA We Care aimed to enhance the user experience of its corporate website,
                         by gaining insights into its target customers for improved brand reach</p>
-                    <button class="btn btn-custom case-study-mobview ">
+                    <!-- <button class="btn btn-custom case-study-mobview ">
                         Book A Consultation
-                    </button>
+                    </button> -->
                 </div>
                 <!-- result-block -->
 
@@ -163,7 +163,7 @@
                     <div class="bs-card-section project-bs-cards">
                         <div class="row justify-content-center">
                             <!-- Card 1 -->
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Improved User Engagement</h4>
                                     <p class="description">
@@ -173,7 +173,7 @@
                                 </div>
                             </div>
                             <!-- Card 2 -->
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Reduced Bounce Rate</h4>
                                     <p class="description">
@@ -183,7 +183,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Enhanced Accessibility & Performance</h4>
                                     <p class="description">
@@ -193,7 +193,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Higher Returning Visitors</h4>
                                     <p class="description">
@@ -203,16 +203,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-12 col-md-6">
-                                <div class="custom-card case-study-card">
-                                    <h4 class="title">Stronger Brand Reach</h4>
-                                    <p class="description">
-                                        By aligning the website with user expectations and optimizing content for
-                                        different target demographics, MEGA We Care improved its ability to connect with
-                                        and retain its audience.
-                                    </p>
-                                </div>
-                            </div>
+                       
                         </div>
                     </div>
                 </div>
@@ -229,13 +220,12 @@
                             alt="banner" />
                     </div>
                 </div>
-                <div class="view-all-blogs-btn">
+                <!-- <div class="view-all-blogs-btn">
                     <button class="btn btn-custom btn-custom-secondary"
                         onclick="window.location.href='<?php echo $path; ?>projects.php'">
                         View More Projects
                     </button>
-                </div>
-                <?php include 'components/submit-enquiry.php'; ?>
+                </div> -->
             </div>
         </div>
     </section>

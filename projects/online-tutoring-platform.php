@@ -82,14 +82,14 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom case-study-webview ">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
                     </div>
                     <p class="p-main-text">90+ My Tuition App offers syllabus-oriented digital classes with animated content for easy understanding, bringing tuition directly to your doorstep.</p>
-                    <button class="btn btn-custom case-study-mobview ">
+                    <!-- <button class="btn btn-custom case-study-mobview ">
                         Book A Consultation
-                    </button>
+                    </button> -->
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -97,7 +97,7 @@
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="82">0</div>
+                            <div class="count-number" data-target="82" data-type="percent">0</div>
                             <div class="count-label">New User Engagement</div>
                         </div>
                         <!-- 150+ trusted clients -->
@@ -107,7 +107,7 @@
                         </div>
                         <!-- 80% lives impacted -->
                         <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-                            <div class="count-number" data-target="96">0</div>
+                            <div class="count-number" data-target="96" data-type="percent">0</div>
                             <div class="count-label">New Customer Acquisition</div>
                         </div>
 
@@ -228,12 +228,11 @@
                         <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-mobile-ui.jpeg" alt="ui-update" />
                     </div>
                 </div>
-                <div class="view-all-blogs-btn">
+                <!-- <div class="view-all-blogs-btn">
                     <button class="btn btn-custom btn-custom-secondary">
                         View More Projects
                     </button>
-                </div>
-                <?php include 'components/submit-enquiry.php'; ?>
+                </div> -->
             </div>
         </div>
     </section>

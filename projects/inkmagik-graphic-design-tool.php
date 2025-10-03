@@ -84,16 +84,16 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom case-study-webview ">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
                     </div>
                     <p class="p-main-text">
                         An all in one easy to use graphics design tool for individuals and businesses
                     </p>
-                    <button class="btn btn-custom case-study-mobview ">
+                    <!-- <button class="btn btn-custom case-study-mobview ">
                         Book A Consultation
-                    </button>
+                    </button> -->
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -101,7 +101,7 @@
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="81">0</div>
+                            <div class="count-number" data-target="81" data-type="percent">0</div>
                             <div class="count-label">New User Engagement</div>
                         </div>
                         <!-- 150+ trusted clients -->
@@ -111,7 +111,7 @@
                         </div>
                         <!-- 80% lives impacted -->
                         <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-                            <div class="count-number" data-target="70">0</div>
+                            <div class="count-number" data-target="70" data-type="percent">0</div>
                             <div class="count-label">New Customer Acquisition</div>
                         </div>
 
@@ -180,15 +180,6 @@
                                 </div>
                             </div>
 
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card">
-                                    <h4 class="title">Opportunity for Earning </h4>
-                                    <p class="description">
-                                        Inkmagik also provides users with an option to sell their designs and earn based
-                                        on their sales.
-                                    </p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -262,16 +253,7 @@
                             </div>
 
 
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card case-study-card">
-                                    <h4 class="title">
-                                    Entrepreneurs</h4>
-                                    <p class="description">
-                                    Connecting with the audience through good design.
-                                    </p>
-
-                                </div>
-                            </div>
+                          
 
                         </div>
                     </div>
@@ -285,12 +267,11 @@
                         <img src="<?php echo $path; ?>assets/images/projects/inkmagik/inkmagik-website-ui.jpg" alt="ui-update" />
                     </div>
                 </div>
-                <div class="view-all-blogs-btn">
+                <!-- <div class="view-all-blogs-btn">
                     <button class="btn btn-custom btn-custom-secondary">
                         View More Projects
                     </button>
-                </div>
-                <?php include 'components/submit-enquiry.php'; ?>
+                </div> -->
             </div>
         </div>
     </section>

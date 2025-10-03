@@ -100,7 +100,7 @@
                         <!-- 81% New User Engagement -->
                         <div class="col-6 col-md-3 count-up-item">
                             <div class="count-number" data-target="81">0</div>
-                            <div class="count-label">New User Engagement</div>
+                            <div class="count-label" data-type="percent">New User Engagement</div>
                         </div>
                         <!-- 40+ Profits -->
                         <div class="col-6 col-md-3 count-up-item">
@@ -109,7 +109,7 @@
                         </div>
                         <!-- 70% New Customer Acquisition -->
                         <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-                            <div class="count-number" data-target="70">0</div>
+                            <div class="count-number" data-target="70" data-type="percent">0</div>
                             <div class="count-label">New Customer Acquisition</div>
                         </div>
 

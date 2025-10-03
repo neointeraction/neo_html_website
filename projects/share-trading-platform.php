@@ -62,7 +62,7 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/clients/geojit-logo.png" alt="geogit" />
               </div>
             </div>
             <div class="col-md-9">
@@ -76,14 +76,14 @@
         <div class="overview-block project-section-padding">
           <div class="title-flex">
             <h4 class="project-section-title">Overview </h4>
-            <button class="btn btn-custom case-study-webview ">
-              Book A Consultation
-            </button>
+            <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            Book A Consultation
+                        </button>
           </div>
           <p class="p-main-text">Geojit BNP Paribas revamped their trading platform, transitioning from "FLIP" to "SELFIE," for a unified and enriched user experience across devices.</p>
-          <button class="btn btn-custom case-study-mobview ">
+          <!-- <button class="btn btn-custom case-study-mobview ">
             Book A Consultation
-          </button>
+          </button> -->
         </div>
         <!-- result-block -->
         <div class="result-block project-section-padding">
@@ -91,7 +91,7 @@
           <div class="row ">
             <!-- 15+ years expertise -->
             <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="86">0</div>
+              <div class="count-number" data-target="86" data-type="percent">0</div>
               <div class="count-label">New User Engagement</div>
             </div>
             <!-- 150+ trusted clients -->
@@ -101,7 +101,7 @@
             </div>
             <!-- 80% lives impacted -->
             <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-              <div class="count-number" data-target="75">0</div>
+              <div class="count-number" data-target="75" data-type="percent">0</div>
               <div class="count-label">New Customer Acquisition</div>
             </div>
 
@@ -142,15 +142,6 @@
                   <h4 class="title">Unified Watchlist Look</h4>
                   <p class="description">
                   Users can enjoy a consistent watchlist experience across both web and mobile platforms for easy market monitoring.
-                  </p>
-                </div>
-              </div>
-              <!-- Card 3 -->
-              <div class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card">
-                  <h4 class="title">Advanced HTML5 Charting</h4>
-                  <p class="description">
-                  Leverage cutting-edge charting technologies, including Renko, Kagi, P&F, and line break, for detailed market analysis.
                   </p>
                 </div>
               </div>
@@ -243,12 +234,11 @@
             <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-mobile-ui.jpg" alt="geogit-mobile-ui" />
           </div>
         </div>
-        <div class="view-all-blogs-btn">
+        <!-- <div class="view-all-blogs-btn">
           <button class="btn btn-custom btn-custom-secondary">
             View More Projects
           </button>
-        </div>
-        <?php include 'components/submit-enquiry.php'; ?>
+        </div> -->
       </div>
     </div>
   </section>

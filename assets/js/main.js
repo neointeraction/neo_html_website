@@ -201,7 +201,7 @@ const isElementInViewport = (el) => {
   );
 };
 
-const countUp = (el, target) => {
+const countUp = (el, target, suffix = "+") => {
   let count = 0;
 
   const step = Math.ceil(target / (target > 10 ? 100 : 20));
@@ -211,10 +211,12 @@ const countUp = (el, target) => {
       clearInterval(interval);
       count = target;
     }
-    if (el.dataset.target === "1") {
+    if (el.dataset.type === "b") {
       el.textContent = count + "b+";
+    } else if (el.dataset.type === "percent") {
+      el.textContent = count + "%";
     } else {
-      el.textContent = count + "+";
+      el.textContent = count + suffix;
     }
   }, 20);
 };
@@ -224,7 +226,8 @@ const startCountUp = () => {
   countElements.forEach((el) => {
     if (isElementInViewport(el) && !el.classList.contains("counted")) {
       const target = parseInt(el.dataset.target);
-      countUp(el, target);
+      const suffix = el.dataset.suffix || "+";
+      countUp(el, target, suffix);
       el.classList.add("counted");
     }
   });

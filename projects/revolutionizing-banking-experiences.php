@@ -66,7 +66,7 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png" alt="tricog" />
+                <img src="<?php echo $path; ?>assets/images/clients/commercial-bank-of-dubai-logo.png" alt="tricog" />
               </div>
             </div>
             <div class="col-md-9">
@@ -80,14 +80,14 @@
         <div class="overview-block project-section-padding">
           <div class="title-flex">
             <h4 class="project-section-title">Overview </h4>
-            <button class="btn btn-custom case-study-webview ">
-              Book A Consultation
-            </button>
+            <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            Book A Consultation
+                        </button>
           </div>
           <p class="p-main-text">Dubai Bank aimed to attract and serve young professionals, expats, and native youth by adopting Oracle's Flexcube platform for a streamlined and contemporary banking experience</p>
-          <button class="btn btn-custom case-study-mobview ">
+          <!-- <button class="btn btn-custom case-study-mobview ">
             Book A Consultation
-          </button>
+          </button> -->
         </div>
         <!-- result-block -->
         <div class="result-block project-section-padding">
@@ -95,7 +95,7 @@
           <div class="row ">
             <!-- 15+ years expertise -->
             <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="90">0</div>
+              <div class="count-number" data-target="90" data-type="percent">0</div>
               <div class="count-label">New User Engagement</div>
             </div>
             <!-- 150+ trusted clients -->
@@ -105,7 +105,7 @@
             </div>
             <!-- 80% lives impacted -->
             <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-              <div class="count-number" data-target="90">0</div>
+              <div class="count-number" data-target="90" data-type="percent">0</div>
               <div class="count-label">New Customer Acquisition</div>
             </div>
 
@@ -249,12 +249,11 @@
             <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-website-ui.jpeg" alt="ui-update" />
           </div>
         </div>
-        <div class="view-all-blogs-btn">
+        <!-- <div class="view-all-blogs-btn">
           <button class="btn btn-custom btn-custom-secondary">
             View More Projects
           </button>
-        </div>
-        <?php include 'components/submit-enquiry.php'; ?>
+        </div> -->
       </div>
     </div>
   </section>

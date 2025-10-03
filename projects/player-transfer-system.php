@@ -85,15 +85,15 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom case-study-webview ">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
                     </div>
                     <p class="p-main-text">The redesign of the Player Transfer System aims to streamline player
                         movements among approved clubs, crucial for the World Cup 2022.</p>
-                    <button class="btn btn-custom case-study-mobview ">
+                    <!-- <button class="btn btn-custom case-study-mobview ">
                         Book A Consultation
-                    </button>
+                    </button> -->
                 </div>
                 <!-- result-block -->
                 <!-- <div class="result-block project-section-padding">
@@ -276,12 +276,11 @@
                         <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-website-ui.jpeg" alt="ui-update" />
                     </div>
                 </div>
-                <div class="view-all-blogs-btn">
+                <!-- <div class="view-all-blogs-btn">
                     <button class="btn btn-custom btn-custom-secondary">
                         View More Projects
                     </button>
-                </div>
-                <?php include 'components/submit-enquiry.php'; ?>
+                </div> -->
             </div>
         </div>
     </section>

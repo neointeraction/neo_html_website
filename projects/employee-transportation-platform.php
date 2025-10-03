@@ -76,14 +76,14 @@
         <div class="overview-block project-section-padding">
           <div class="title-flex">
             <h4 class="project-section-title">Overview </h4>
-            <button class="btn btn-custom case-study-webview ">
-              Book A Consultation
-            </button>
+            <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            Book A Consultation
+                        </button>
           </div>
           <p class="p-main-text">eTravelMate is a leading SaaS platform that helps organizations automate and optimize employee transportation with advanced technology.</p>
-          <button class="btn btn-custom case-study-mobview ">
+          <!-- <button class="btn btn-custom case-study-mobview ">
             Book A Consultation
-          </button>
+          </button> -->
         </div>
         <!-- result-block -->
        
@@ -217,12 +217,11 @@
           <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-mobile-ui.jpg" alt="etravelmate-mobile-ui" />
           </div>
         </div>
-        <div class="view-all-blogs-btn">
+        <!-- <div class="view-all-blogs-btn">
           <button class="btn btn-custom btn-custom-secondary" onclick="window.location.href='<?php echo $path; ?>projects.php'">
             View More Projects
           </button>
-        </div>
-        <?php include 'components/submit-enquiry.php'; ?>
+        </div> -->
       </div>
     </div>
   </section>

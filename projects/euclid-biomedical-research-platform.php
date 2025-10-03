@@ -83,16 +83,16 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom case-study-webview ">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
 
                     </div>
                     <p class="p-main-text">Euclid focuses on managing biomedical data complexities amid advancements in
                         technology.</p>
-                    <button class="btn btn-custom case-study-mobview ">
+                    <!-- <button class="btn btn-custom case-study-mobview ">
                         Book A Consultation
-                    </button>
+                    </button> -->
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -277,7 +277,6 @@
                         View More Projects
                     </button>
                 </div> -->
-                <?php include 'components/submit-enquiry.php'; ?>
             </div>
         </div>
     </section>
