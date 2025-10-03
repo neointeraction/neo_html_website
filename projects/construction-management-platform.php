@@ -51,13 +51,20 @@
         </div>
    
 
-        <div class="project-banner-img project-banner-img-block">
+        <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner.jpg"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner-float.jpeg"
+                    alt="pbanner1" />
+            </div>
+        </div>
+
+        <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
+            <div class="pbi-layer1">
+                <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner.jpeg"
                     alt="pbanner1" />
             </div>
         </div>

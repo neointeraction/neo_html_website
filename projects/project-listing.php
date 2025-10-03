@@ -41,14 +41,15 @@
                 </div>
                 <div
                   class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                  <h2 class="project-title"><?php echo $project['title']; ?></h2>
-                  <p class="project-description">
-                    <?php echo $project['description']; ?></p>
                   <div class="project-tags">
                     <?php foreach ($project['tags'] as $tag) { ?>
                       <span class="badge"><?php echo $tag; ?></span>
                     <?php } ?>
                   </div>
+                  <h2 class="project-title"><?php echo $project['title']; ?></h2>
+                  <p class="project-description">
+                    <?php echo $project['description']; ?></p>
+                 
 
                   <div class="pb-action-btn">
                     <button class="btn btn-custom read-more-btn">
@@ -62,10 +63,15 @@
         </div>
       
 <?php
-}
+  }
     $projectCount++;
-    if ($projectCount % 4 === 0) { // Insert after every 4 projects
-      include $path . 'components/submit-enquiry.php';
+    if ($projectCount % 3 === 0) { // Insert after every 4 projects
+      // include $path . 'components/submit-enquiry.php';
+        $title = "Start Your Consultation";
+        $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
+       include $path.'components/hire-designers-engineers.php';
     }
+
+                    
   
 ?>

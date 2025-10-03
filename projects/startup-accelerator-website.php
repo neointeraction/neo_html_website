@@ -51,13 +51,19 @@
             </h1>
         </div>
         <!-- project-banner-img -->
-        <div class="project-banner-img project-banner-img-block">
+        <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner.jpg"
                 alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner-float.jpeg"
+                    alt="pbanner1" />
+            </div>
+        </div>
+        <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
+            <div class="pbi-layer1">
+                <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-homepage-banner.jpeg"
                     alt="pbanner1" />
             </div>
         </div>
@@ -197,9 +203,9 @@
                     Our solutions significantly improved platform engagement and streamlined IA’s core service offerings for different user groups.
                     </p>
                     <div class="bs-card-section project-bs-cards">
-                        <div class="row justify-content-center">
+                        <div class="row ">
                             <!-- Card 1 -->
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Clear & Intuitive Navigation</h4>
                                     <p class="description">
@@ -208,7 +214,7 @@
                                 </div>
                             </div>
                             <!-- Card 2 -->
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Stronger Brand Positioning</h4>
                                     <p class="description">

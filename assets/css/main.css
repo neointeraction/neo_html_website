@@ -532,7 +532,7 @@ testimonial-card-detailed {
 }
 
 .read-more-btn {
-  margin-top: 36px;
+  /* margin-top: 36px; */
   width: 140px;
 }
 
@@ -1703,4 +1703,8 @@ testimonial-card-detailed {
 
 .our-services h4 {
   font-size: 36px;
+}
+
+.project-tags {
+  margin: 1rem 0;
 }

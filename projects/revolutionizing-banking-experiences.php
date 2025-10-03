@@ -44,12 +44,12 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Redesign Digital banking platform for <span class="highlight">Commercail Bank of Dubai</span>
+        Redesign Digital banking platform for <span class="highlight">Commercial Bank of Dubai</span>
       </h1>
     </div>
     <!-- project-banner-img -->
 
-    <div class="project-banner-img project-banner-img-block">
+    <div class="project-banner-img project-banner-img-block d-none d-md-block">
         <div class="pbi-layer1">
             <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-banner.jpg"
             alt="pbanner1" />
@@ -59,6 +59,12 @@
                 alt="pbanner1" />
         </div>
     </div>
+    <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
+            <div class="pbi-layer1">
+                <img src="<?php echo $path; ?>assets/images/projects/revolutionizing-banking-experiences.jpeg"
+                    alt="pbanner1" />
+            </div>
+        </div>
     <div class="project-content-block">
       <div class="container">
         <!-- blog-quote-block  -->

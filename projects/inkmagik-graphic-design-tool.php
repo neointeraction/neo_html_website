@@ -51,7 +51,7 @@
         </div>
         <!-- project-banner-img -->
       
-        <div class="project-banner-img project-banner-img-block">
+        <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/inkmagik/inkmagik-project-banner.jpeg"
                     alt="pbanner1" />
@@ -61,6 +61,11 @@
                     alt="pbanner1" />
             </div>
         </div>
+        <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
+            <div class="pbi-layer1">
+                <img src="<?php echo $path; ?>assets/images/projects/inkmagik/inkmagik-graphic-design-tool.jpeg"
+                    alt="pbanner1" />
+            </div>
         <div class="project-content-block">
             <div class="container">
                 <!-- blog-quote-block  -->
@@ -82,7 +87,7 @@
                 </div>
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
-                    <div class="title-flex">
+                    <div class="title-flex align-items-center">
                         <h4 class="project-section-title">Overview </h4>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
