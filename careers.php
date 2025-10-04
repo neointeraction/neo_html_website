@@ -103,7 +103,7 @@ HTML;
           <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
               <div class="icon-container">
-                <img src="<?php echo $path; ?>assets/images/ux.svg" alt="ux" />
+                <img src="<?php echo $path; ?>assets/images/get-mentorship.svg" alt="get-mentorship" />
               </div>
               <h4 class="title">Get mentorship</h4>
               <p class="description">
@@ -119,7 +119,7 @@ HTML;
           <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
               <div class="icon-container">
-                <img src="<?php echo $path; ?>assets/images/pd.svg" alt="pd" />
+                <img src="<?php echo $path; ?>assets/images/cross-functional.svg" alt="cross-functional" />
               </div>
               <h4 class="title">Cross functional team</h4>
               <p class="description">
@@ -134,7 +134,7 @@ HTML;
           <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
               <div class="icon-container">
-                <img src="<?php echo $path; ?>assets/images/dt.svg" alt="dt" />
+                <img src="<?php echo $path; ?>assets/images/functional-design.svg" alt="functional-team" />
               </div>
               <h4 class="title">Functional design </h4>
               <p class="description">
@@ -149,7 +149,7 @@ HTML;
           <div class="col-12 col-md-6 col-lg-3">
             <div class="custom-card">
               <div class="icon-container">
-                <img src="<?php echo $path; ?>assets/images/fd.svg" alt="fd" />
+                <img src="<?php echo $path; ?>assets/images/ignite-potential.svg" alt="ignite-potential" />
               </div>
               <h4 class="title">Ignite your Potential</h4>
               <p class="description">

@@ -1733,3 +1733,54 @@ testimonial-card-detailed {
   transform: scaleX(-1);
   width: 100px;
 }
+
+.ux-design-img {
+  height: 120px;
+  width: 120px;
+  background-image: url(../images/ux-lg.svg);
+  background-position: 0;
+  background-repeat: no-repeat;
+}
+
+.custom-card:hover .ux-design-img {
+  background-image: url(../images/ux-lg-hover.svg);
+}
+
+.pd-design-img {
+  height: 120px;
+  width: 120px;
+  background-image: url(../images/pd-lg.svg);
+  background-position: 0;
+  background-repeat: no-repeat;
+}
+
+.custom-card:hover .pd-design-img {
+  background-image: url(../images/pd-lg-hover.svg);
+}
+
+.ux-audit-img {
+  height: 120px;
+  width: 120px;
+  background-image: url(../images/dt-lg.svg);
+  background-position: 0;
+  background-repeat: no-repeat;
+}
+
+.custom-card:hover .ux-audit-img {
+  background-image: url(../images/dt-lg-hover.svg);
+}
+
+
+.ui-engg-img {
+  height: 120px;
+  width: 120px;
+  background-image: url(../images/fd-lg.svg);
+  background-position: 0;
+  background-repeat: no-repeat;
+}
+
+.custom-card:hover .ui-engg-img {
+  background-image: url(../images/fd-lg-hover.svg);
+}
+
+

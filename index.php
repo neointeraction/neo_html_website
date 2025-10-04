@@ -177,10 +177,9 @@
                             <div class="icon-container">
                                 <img src="assets/images/dt.svg" alt="dt" />
                             </div>
-                            <h4 class="title">Digital Transformation</h4>
+                            <h4 class="title">UX Audit</h4>
                             <p class="description">
-                                Crafting revolutionary aesthetics that redefine user
-                                interaction.
+                                Crafting revolutionary aesthetics that redefine user interaction.
                             </p>
                             <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Digital Transformation" data-bs-toggle="modal"
                                 data-bs-target="#registerModal">

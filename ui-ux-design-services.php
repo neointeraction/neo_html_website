@@ -85,7 +85,8 @@
                     <div class="col-12 col-md-6 col-lg-6 mb-4">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/ux.svg" alt="ux" />
+                                <!-- <img src="<?php echo $path; ?>assets/images/ux-lg.svg" alt="ux" /> -->
+                                 <div class="ux-design-img"></div>
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
@@ -108,7 +109,8 @@
                     <div class="col-12 col-md-6 col-lg-6 mb-4">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/pd.svg" alt="pd" />
+                                <!-- <img src="<?php echo $path; ?>assets/images/pd-lg.svg" alt="pd" /> -->
+                                <div class="pd-design-img"></div>
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
@@ -131,7 +133,8 @@
                     <div class="col-12 col-md-6 col-lg-6">
                         <div class="custom-card mb-0">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/dt.svg" alt="dt" />
+                                <!-- <img src="<?php echo $path; ?>assets/images/dt-lg.svg" alt="dt" /> -->
+                                <div class="ux-audit-img"></div>
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
@@ -153,7 +156,8 @@
                     <div class="col-12 col-md-6 col-lg-6">
                         <div class="custom-card mb-0">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/fd.svg" alt="fd" />
+                                <!-- <img src="<?php echo $path; ?>assets/images/fd-lg.svg" alt="fd" /> -->
+                                <div class="ui-engg-img"></div>
                             </div>
                             <h4 class="title">UI Engineering</h4>
                             <p class="description">
