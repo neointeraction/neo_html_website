@@ -62,7 +62,7 @@
 
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management-solution.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-homepage-banner.jpeg"
                     alt="pbanner1" />
             </div>
         </div>
@@ -76,6 +76,7 @@
                             <div class="p-logo">
                                 <img src="<?php echo $path; ?>assets/images/clients/herdx.avif" alt="herdx" />
                             </div>
+                            <div class="quote-icon"></div>
                         </div>
                         <div class="col-md-9">
                             <div class="quote-icon"></div>
@@ -320,6 +321,14 @@
             </div>
         </div>
     </div>
+
+    <?php 
+        $previous = "Inkmagik - A Graphic Design Software";
+        $previousLink = "/inkmagik-graphic-design-tool.php";
+        $next = "UX Design for Biomedical Reserach Platform";
+        $nextLink ="/euclid-biomedical-research-platform.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
 
 
     <?php include $path . 'components/projects-enquiry.php'; ?>

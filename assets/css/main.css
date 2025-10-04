@@ -1708,3 +1708,20 @@ testimonial-card-detailed {
 .project-tags {
   margin: 1rem 0;
 }
+
+.navigation-footer {
+  background-color: white;
+}
+
+
+.navigation-footer > div:last-child {
+  text-align: right;
+}
+
+.navigation-footer > div > h4 {
+  width: 400px;
+  white-space: nowrap;       /* keep text on one line */
+  overflow: hidden;          /* cut off extra text */
+  text-overflow: ellipsis; 
+}
+

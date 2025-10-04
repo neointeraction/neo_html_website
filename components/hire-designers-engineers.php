@@ -15,7 +15,7 @@
     <div class="container">
       <div class="row ui-card hire-engineers">
         <!-- Image Column -->
-        <div class="col-md-6  img-container">
+        <div class="col-md-6  img-container d-none">
           <!-- <img src="<?php echo $path; ?>assets/images/about-us/hire-designers-front-end-engineers.jpeg" alt="Hire Designers/Front-end Engineers" class="img-fluid"> -->
 
           <img src="<?php echo $path; ?>assets/images/bs-img.webp" alt="Hire Designers/Front-end Engineers" class="img-fluid">

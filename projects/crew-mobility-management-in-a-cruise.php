@@ -307,6 +307,14 @@
         </div>
     </div>
 
+    <?php 
+        $previous = "Construction Management Platform";
+        $previousLink = "/construction-management-platform.php";
+        $next = "Redesigning Noctils Music Rights Management solution";
+        $nextLink ="/music-rights-management-solution.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
     <!-- banner -- end  -->
     <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>

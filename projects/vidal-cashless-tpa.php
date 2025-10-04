@@ -277,6 +277,14 @@ include $path . 'includes/case_study_helper.php';
         </div>
     </section>
 
+    <?php 
+        $previous = "UX Design for Biomedical Reserach Platform";
+        $previousLink = "/euclid-biomedical-research-platform.php";
+        $next = "90+ Tuition App - Online Tutoring Platform";
+        $nextLink ="/online-tutoring-platform.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
     <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path . 'components/download-casestudy-modal.php'; ?>

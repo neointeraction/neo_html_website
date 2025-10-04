@@ -296,6 +296,14 @@
     </div>
   </div>
 
+  <?php 
+        $previous = "Intertrust Navigate- Fund operations platform";
+        $previousLink = "/intertrust-navigate.php";
+        $next = "Redesigning Tricogs AI Driven Healthcare Platform";
+        $nextLink ="/ai-driven-healthcare-consultation-platform.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
 
   <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>

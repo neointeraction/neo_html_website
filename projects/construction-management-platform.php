@@ -183,7 +183,7 @@
                     <div class="bs-card-section project-bs-cards">
                         <div class="row justify-content-center">
                             <!-- Card 1 -->
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Streamlining Project Structuring</h4>
                                     <p class="description">
@@ -192,7 +192,7 @@
                                 </div>
                             </div>
                             <!-- Card 2 -->
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Optimizing Information Architecture</h4>
                                     <p class="description">
@@ -201,7 +201,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Redesigning the UI & Workflows</h4>
                                     <p class="description">
@@ -210,7 +210,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Customization for Diverse Project Needs</h4>
                                     <p class="description">
@@ -277,6 +277,14 @@
             </div>
         </div>
     </div>
+
+    <?php 
+        $previous = "Startup Accelerator Website";
+        $previousLink = "/startup-accelerator-website.php";
+        $next = "Mobility Paltform for Crew Ship workforce management";
+        $nextLink ="/crew-mobility-management-in-a-cruise.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
 
 
     <?php include $path . 'components/projects-enquiry.php'; ?>

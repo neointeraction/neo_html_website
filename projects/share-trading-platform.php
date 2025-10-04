@@ -281,6 +281,14 @@
     </div>
   </div>
 
+  <?php 
+        $previous = "90+ Tuition App - Online Tutoring Platform";
+        $previousLink = "/online-tutoring-platform.php";
+        $next = "Intertrust Navigate- Fund operations platform";
+        $nextLink ="/intertrust-navigate.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
  
   <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>

@@ -321,6 +321,15 @@
         </div>
     </div>
 
+    <?php 
+        $previous = "Redesigning Tricogs AI Driven Healthcare Platform";
+        $previousLink = "/ai-driven-healthcare-consultation-platform.php";
+        $next = "ESG Management Platform";
+        $nextLink ="/esg-management-platform.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
+
 
     <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>

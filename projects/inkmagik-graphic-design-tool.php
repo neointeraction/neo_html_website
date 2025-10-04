@@ -66,6 +66,7 @@
                 <img src="<?php echo $path; ?>assets/images/projects/inkmagik/inkmagik-graphic-design-tool.jpeg"
                     alt="pbanner1" />
             </div>
+        </div>
         <div class="project-content-block">
             <div class="container">
                 <!-- blog-quote-block  -->
@@ -310,6 +311,15 @@
             </div>
         </div>
     </div>
+
+    <?php 
+        $previous = "Intertrust - A BPM Application";
+        $previousLink = "/intertrust-bpm-tool.php";
+        $next = "Redesigning Cattle Tracking & Management solution";
+        $nextLink ="/cattle-tracking-management-solution.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
 
 
     <?php include $path . 'components/projects-enquiry.php'; ?>

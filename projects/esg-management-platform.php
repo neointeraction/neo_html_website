@@ -176,7 +176,7 @@
           <div class="bs-card-section project-bs-cards">
             <div class="row justify-content-center">
               <!-- Card 1 -->
-              <div class="col-12 col-md-6">
+              <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
                   <h4 class="title">Clarity in Data Interpretation</h4>
                   <p class="description">
@@ -185,7 +185,7 @@
                 </div>
               </div>
               <!-- Card 2 -->
-              <div class="col-12 col-md-6">
+              <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
                   <h4 class="title">Reduced Cognitive Load for Multi-tasking Users</h4>
                   <p class="description">
@@ -194,7 +194,7 @@
                 </div>
               </div>
 
-              <div class="col-12 col-md-6">
+              <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
                   <h4 class="title">Consistent Interaction Patterns Across Workflows</h4>
                   <p class="description">
@@ -203,7 +203,7 @@
                 </div>
               </div>
 
-              <div class="col-12 col-md-6">
+              <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
                   <h4 class="title">Customizable Themes for Diverse User Preferences</h4>
                   <p class="description">
@@ -212,14 +212,7 @@
                 </div>
               </div>
 
-              <div class="col-12 col-md-6">
-                <div class="custom-card case-study-card">
-                  <h4 class="title">Future-Ready Design for Scalable Operations</h4>
-                  <p class="description">
-                  The modular, scalable design system supports easy expansion of features and functionality without requiring a full redesign.
-                  </p>
-                </div>
-              </div>
+              
             </div>
           </div>
         </div>
@@ -282,6 +275,14 @@
       </div>
     </div>
   </div>
+
+  <?php 
+        $previous = "Redesign for Player transfer System";
+        $previousLink = "/player-transfer-system.php";
+        $next = "Digital Experience in Health & Wellness";
+        $nextLink ="/digital-health-wellness.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
 
 
   <?php include $path . 'components/projects-enquiry.php'; ?>

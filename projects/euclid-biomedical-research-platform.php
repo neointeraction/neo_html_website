@@ -287,6 +287,15 @@
         </div>
     </section>
 
+    <?php 
+        $previous = "Redesigning Cattle Tracking & Management solution";
+        $previousLink = "/cattle-tracking-management-solution.php";
+        $next = "Healtcare ERP System Boost for Cashless TPA";
+        $nextLink ="/vidal-cashless-tpa.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
+
 
     <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>

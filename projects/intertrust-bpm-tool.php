@@ -273,6 +273,14 @@
         </div>
     </section>
 
+    <?php 
+        $previous = "Redesigning Noctils Music Rights Management solution";
+        $previousLink = "/music-rights-management-solution.php";
+        $next = "Inkmagik - A Graphic Design Software";
+        $nextLink ="/inkmagik-graphic-design-tool.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
 
 
     <?php include $path . 'components/projects-enquiry.php'; ?>

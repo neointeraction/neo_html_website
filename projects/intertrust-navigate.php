@@ -302,6 +302,15 @@
         </div>
     </div>
 
+    <?php 
+        $previous = "Share Trading platform redesign";
+        $previousLink = "/share-trading-platform.php";
+        $next = "Redesign Digital banking platform for Commercial Bank of Dubai";
+        $nextLink ="/revolutionizing-banking-experiences.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
+
 
     <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>

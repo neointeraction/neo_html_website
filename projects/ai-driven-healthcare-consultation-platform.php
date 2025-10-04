@@ -249,9 +249,9 @@
                         cardiologists.
                     </p>
                     <div class="bs-card-section project-bs-cards">
-                        <div class="row justify-content-center">
+                        <div class="row">
                             <!-- Card 1 -->
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Seamless Idea Integration</h4>
                                     <p class="description">
@@ -261,7 +261,7 @@
                                 </div>
                             </div>
                             <!-- Card 2 -->
-                            <div class="col-12 col-md-6">
+                            <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Enhanced Cardiologist Workflow</h4>
                                     <p class="description">
@@ -329,6 +329,15 @@
             </div>
         </div>
     </div>
+
+    <?php 
+        $previous = "Redesign Digital banking platform for Commercial Bank of Dubai";
+        $previousLink = "/revolutionizing-banking-experiences.php";
+        $next = "Redesign for Player transfer System";
+        $nextLink ="/player-transfer-system.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
 
 
     <?php include $path . 'components/projects-enquiry.php'; ?>

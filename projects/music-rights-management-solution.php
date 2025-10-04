@@ -280,6 +280,14 @@
     </div>
   </section>
 
+  <?php 
+        $previous = "Mobility Paltform for Crew Ship workforce management";
+        $previousLink = "/crew-mobility-management-in-a-cruise.php";
+        $next = "Intertrust - A BPM Application";
+        $nextLink ="/intertrust-bpm-tool.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
 
   <!-- banner -- end  -->
   <?php include $path . 'components/projects-enquiry.php'; ?>

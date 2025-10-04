@@ -283,6 +283,14 @@
         </div>
     </div>
 
+    <?php 
+        $previous = "Employee Transportation Platform";
+        $previousLink = "/employee-transportation-platform.php";
+        $next = "Construction Management Platform";
+        $nextLink ="/construction-management-platform.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
 
     <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>

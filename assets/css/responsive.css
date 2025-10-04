@@ -439,5 +439,10 @@
   .load-more-btn-projects {
     padding: 20px 0 30px 0;
   }
+
+  .navigation-footer > div > h4 {
+    width: 200px;
+  }
+  
   
 }

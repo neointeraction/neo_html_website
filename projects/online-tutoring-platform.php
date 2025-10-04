@@ -72,8 +72,8 @@
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
                             <div class="p-logo">
-                                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png"
-                                    alt="tricog" />
+                                <img src="<?php echo $path; ?>assets/images/clients/90plus-logo.svg"
+                                    alt="90plus" />
                             </div>
                         </div>
                         <div class="col-md-9">
@@ -272,6 +272,14 @@
             </div>
         </div>
     </div>
+
+    <?php 
+        $previous = "Healtcare ERP System Boost for Cashless TPA";
+        $previousLink = "/vidal-cashless-tpa.php";
+        $next = "Share Trading platform redesign";
+        $nextLink ="/share-trading-platform.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
 
     <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>

@@ -269,6 +269,15 @@
         </div>
     </div>
 
+    <?php 
+        $previous = "ESG Management Platform";
+        $previousLink = "/esg-management-platform.php";
+        $next = "Employee Transportation Platform";
+        $nextLink ="/employee-transportation-platform.php";
+        include $path . 'components/navigation-footer.php';
+    ?>
+
+
 
     <?php include $path . 'components/projects-enquiry.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
