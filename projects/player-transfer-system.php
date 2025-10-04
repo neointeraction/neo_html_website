@@ -74,13 +74,14 @@
                 <div class="blog-quote-block project-quote-block">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
-                            <div class="p-logo">
+                            <div class="p-logo d-flex align-items-center justify-content-between">
                                 <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog.png"
                                     alt="tricog" />
+                                <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
                         <div class="col-md-9">
-                            <div class="quote-icon"></div>
+                            <div class="quote-icon d-none d-md-block"></div>
                             <p class="blog-quote-text">We aimed to make our player management system more user-centric
                                 and reduce the overall time to analyze player transfer data. A remarkable outcome was
                                 obtained, indicating a significant shift in the work process.</p>

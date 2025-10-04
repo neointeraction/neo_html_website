@@ -71,12 +71,13 @@ include $path . 'includes/case_study_helper.php';
                 <div class="blog-quote-block project-quote-block">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
-                            <div class="p-logo">
+                            <div class="p-logo d-flex align-items-center justify-content-between">
                                 <img src="<?php echo $path; ?>assets/images/clients/vidal-logo.png" alt="vidal" />
+                                <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
                         <div class="col-md-9">
-                            <div class="quote-icon"></div>
+                            <div class="quote-icon d-none d-md-block"></div>
                             <p class="blog-quote-text">
                                 The UX exercise improved preauth TAT from 1.5hrs to 15mns which is a great boost for our business as we could process more requests.</p>
                         </div>
@@ -101,17 +102,17 @@ include $path . 'includes/case_study_helper.php';
                     <h4 class="project-section-title">Result </h4>
                     <div class="row ">
                         <!-- 15+ years expertise -->
-                        <div class="col-6 col-md-3 count-up-item">
+                        <div class="col-4 col-md-3 count-up-item">
                             <div class="count-number" data-target="200" data-type="percent">0</div>
                             <div class="count-label">New User Engagement</div>
                         </div>
                         <!-- 150+ trusted clients -->
-                        <div class="col-6 col-md-3 count-up-item">
+                        <div class="col-4 col-md-3 count-up-item">
                             <div class="count-number" data-target="70">0</div>
                             <div class="count-label">Profits</div>
                         </div>
                         <!-- 80% lives impacted -->
-                        <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
+                        <div class="col-4 col-md-3 count-up-item pb-0 mt-md-0">
                             <div class="count-number" data-target="60" data-type="percent">0</div>
                             <div class="count-label">New Customer Acquisition</div>
                         </div>

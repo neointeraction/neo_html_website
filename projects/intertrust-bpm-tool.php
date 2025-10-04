@@ -76,12 +76,13 @@
                 <div class="blog-quote-block project-quote-block">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
-                            <div class="p-logo">
+                            <div class="p-logo d-flex align-items-center justify-content-between">
                                 <img src="<?php echo $path; ?>assets/images/clients/intertrust-logo.png" alt="intertrust" />
+                                <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
                         <div class="col-md-9">
-                            <div class="quote-icon"></div>
+                            <div class="quote-icon d-none d-md-block"></div>
                             <p class="blog-quote-text">The visual appeal and the new banking experience led us to overcome the competition and we're very happy with the result the
                                 design team delivered</p>
                         </div>
@@ -104,17 +105,17 @@
                     <h4 class="project-section-title">Result </h4>
                     <div class="row ">
                         <!-- 81% New User Engagement -->
-                        <div class="col-6 col-md-3 count-up-item">
+                        <div class="col-4 col-md-3 count-up-item">
                             <div class="count-number" data-target="81">0</div>
                             <div class="count-label" data-type="percent">New User Engagement</div>
                         </div>
                         <!-- 40+ Profits -->
-                        <div class="col-6 col-md-3 count-up-item">
+                        <div class="col-4 col-md-3 count-up-item">
                             <div class="count-number" data-target="40">0</div>
                             <div class="count-label">Profits</div>
                         </div>
                         <!-- 70% New Customer Acquisition -->
-                        <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
+                        <div class="col-4 col-md-3 count-up-item pb-0 mt-md-0">
                             <div class="count-number" data-target="70" data-type="percent">0</div>
                             <div class="count-label">New Customer Acquisition</div>
                         </div>

@@ -73,13 +73,13 @@
                 <div class="blog-quote-block project-quote-block">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
-                            <div class="p-logo">
+                            <div class="p-logo d-flex align-items-center justify-content-between">
                                 <img src="<?php echo $path; ?>assets/images/clients/herdx.avif" alt="herdx" />
+                                <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
-                            <div class="quote-icon"></div>
                         </div>
                         <div class="col-md-9">
-                            <div class="quote-icon"></div>
+                            <div class="quote-icon d-none d-md-block"></div>
                             <p class="blog-quote-text">
                                 Spending the majority of our time on outmoded supply chain systems was challenging. New
                                 user experience design were straightforward, efficient, and most importantly, reliable.
@@ -106,17 +106,17 @@
                     <h4 class="project-section-title">Result </h4>
                     <div class="row ">
                         <!-- 15+ years expertise -->
-                        <div class="col-6 col-md-3 count-up-item">
+                        <div class="col-4 col-md-3 count-up-item">
                             <div class="count-number" data-target="90" data-type="percent">0</div>
                             <div class="count-label">New User Engagement</div>
                         </div>
                         <!-- 150+ trusted clients -->
-                        <div class="col-6 col-md-3 count-up-item">
+                        <div class="col-4 col-md-3 count-up-item">
                             <div class="count-number" data-target="85">0</div>
                             <div class="count-label">Profits</div>
                         </div>
                         <!-- 80% lives impacted -->
-                        <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
+                        <div class="col-4 col-md-3 count-up-item pb-0 mt-md-0">
                             <div class="count-number" data-target="77" data-type="percent">0</div>
                             <div class="count-label">New Customer Acquisition</div>
                         </div>
