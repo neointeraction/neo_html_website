@@ -39,7 +39,21 @@ include_once 'includes/tracking-functions.php';
 
 <body>
     <?php $page='blog';
- 
+  $events = [
+    [
+        'title' => 'Streamlining Fund Operations: UI/UX Development for Intertrust Navigate',
+        'description' => 'Developing a scalable, user-centric interface to transform Intertrust\'s fund management workflow and consolidate vast amounts of data.',
+        'image' => 'projects/intertrust-navigate/intertrust-navigate-homepage-banner-listing.jpg',
+        'alt' => 'Streamlining Fund Operations: UI/UX Development for Intertrust Navigate',
+        'link' => 'intertrust-navigate.php'
+    ],
+    [
+        'title' => 'Redesigning Tricogs AI Driven Healthcare Platform',
+        'description' => 'AI-driven predictive healthcare platform that improves heart failure patient care',
+        'image' => 'projects/ai-driven-healthcare/tricog-homepage-banner-listing.jpg',
+        'alt' => 'Redesigning Tricogs AI Driven Healthcare Platform',
+        'link' => 'ai-driven-healthcare-consultation-platform.php'
+    ]]
     ?>
     <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
@@ -61,7 +75,7 @@ include_once 'includes/tracking-functions.php';
                             </h1>
 
                             <div class="contact-info">
-                                <p class="banner-subtext">Transform your digital presence with expert frontend development solutions. At Neointeraction Design, we pride ourselves on our ability to deliver captivating user interfaces that not only drive engagement and conversions but also enhance the overall user experience. Our dedicated frontend development team is committed to collaborating closely with you to bring your digital product concepts to life, ensuring that they are supported by intuitive interfaces that resonate with your target audience. With our tailored solutions, you can elevate your brand's online presence and make a lasting impact in the digital landscape.</p>
+                                <p class="banner-subtext">Bring your digital product to life with fast, engaging, and user-friendly web experiences. Our frontend expertise ensures high-performing interfaces that captivate your users. Turn your ideas into interactive, results-driven digital solutions</p>
 
                             </div>
                         </div>
@@ -124,60 +138,7 @@ include_once 'includes/tracking-functions.php';
 
 
 
-    <section class=" section-padding">
-        <div>
-            <div class="container">
-        
-                    <div class="row w-100">
-                        <!-- 15+ years expertise -->
-                        <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="15">0</div>
-                            <div class="count-label">years expertise</div>
-                        </div>
-                        <!-- 150+ trusted clients -->
-                        <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="150">0</div>
-                            <div class="count-label">trusted clients</div>
-                        </div>
-                        <!-- 1b+ lives impacted -->
-                        <div class="col-6 col-md-3 count-up-item  mt-md-0">
-                            <div class="count-number" data-target="1">0</div>
-                            <div class="count-label">lives impacted</div>
-                        </div>
-                        <!-- 10+ countries impacted -->
-                        <div class="col-6 col-md-3 count-up-item mt-md-0">
-                            <div class="count-number" data-target="10">0</div>
-                            <div class="count-label">countries impacted</div>
-                        </div>
-                    </div>
-                </div>
-        </div>
-    </section>
-
-
-    <section class="engagement-modal section-padding">
-        <div class="container">
-            <div class="project__header">
-                <h2 class="section-title">
-                Recent UI Development Projects
-                </h2>
-                <a href="<?php echo $path; ?>projects.php">
-                    View All
-                </a>
-            </div>
-            <div class="engagement-modal-block section-margin">
-                <?php 
-                $limit = 2;
-
-                $selectedTag = 'Enterprise Apps';
-
-                include $path . include 'projects/project-listing.php'; ?>
-            </div>
-        </div>
-    </section>
-
-    
-
+  
     <!-- clients  -->
     <section class="clients section-padding">
         <div class="container">
@@ -193,10 +154,6 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- clients -- end  -->
 
-        <!-- testimonials  -->
-        <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
-
 
     <section class="industry-experience section-padding">
         <div class="container">
@@ -205,21 +162,21 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/building.svg" alt="qa" />
+                            <img src="<?php echo $path; ?>assets/images/icons/code-browser.svg" alt="qa" />
                             <h4 class="wwd-title">Expert Frontend Development</h4>
                             <p class="wwd-text">Our team comprises seasoned frontend developers with extensive experience in crafting intuitive and visually appealing user interfaces. With a keen eye for detail and a passion for innovation, we ensure that your digital product stands out.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/chart.svg" alt="value" />
+                            <img src="<?php echo $path; ?>assets/images/icons/technology.svg" alt="value" />
                             <h4 class="wwd-title">Cutting-Edge Technologies</h4>
                             <p class="wwd-text">We stay ahead of the curve by leveraging the latest technologies and frameworks in frontend development. Whether it's React, Angular, Vue.js, or HTML/CSS (SASS), we have the expertise to build dynamic and responsive interfaces that elevate user experiences.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="optimise" />
+                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="optimise" />
                             <h4 class="wwd-title">Customized Solutions</h4>
                             <p class="wwd-text">We understand that every project is unique, which is why we offer tailored solutions to meet your specific needs and objectives. From concept to execution, we collaborate closely with you to ensure that the end product aligns perfectly with your vision.</p>
                         </div>
@@ -227,14 +184,14 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="data" />
+                            <img src="<?php echo $path; ?>assets/images/icons/api.svg" alt="data" />
                             <h4 class="wwd-title">Seamless Integration</h4>
                             <p class="wwd-text">Our frontend development services seamlessly integrate with your existing systems and technologies, ensuring smooth operation and compatibility across platforms. Whether you're building from scratch or enhancing an existing product, we've got you covered.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="plane" />
+                            <img src="<?php echo $path; ?>assets/images/icons/team-building.svg" alt="plane" />
                             <h4 class="wwd-title">Collaborative Partnership</h4>
                             <p class="wwd-text">We view our clients as partners and believe in building long-term relationships based on trust, transparency, and mutual success. When you choose us for your frontend development needs, you're not just getting a service provider – you're gaining a strategic ally dedicated to your success.</p>
                         </div>
@@ -242,7 +199,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="team" />
+                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="team" />
                             <h4 class="wwd-title">Proven Track Record</h4>
                             <p class="wwd-text">With a proven track record of delivering high-quality frontend solutions for diverse industries and clients, you can trust us to bring your digital vision to life. Our portfolio speaks for itself, showcasing our expertise and commitment to excellence.</p>
                         </div>
@@ -250,7 +207,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="team" />
+                            <img src="<?php echo $path; ?>assets/images/icons/arrow-flow.svg" alt="team" />
                             <h4 class="wwd-title">Agile Development Approach</h4>
                             <p class="wwd-text">We follow an agile development approach, allowing for flexibility, transparency, and quick iterations throughout the project lifecycle. This ensures that we adapt to changing requirements and deliver results efficiently and effectively. </p>
                         </div>
@@ -258,7 +215,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="team" />
+                            <img src="<?php echo $path; ?>assets/images/icons/support.svg" alt="team" />
                             <h4 class="wwd-title">Dedicated Support</h4>
                             <p class="wwd-text">Our commitment to customer satisfaction doesn't end with the project delivery. We provide ongoing support and maintenance to ensure that your product continues to perform optimally and evolves with your business needs.</p>
                         </div>
@@ -270,10 +227,67 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
+
+    <section class="industry-experience section-padding">
+        <div class="container">
+            <h2 class="section-title">Our Development Process</h2>
+            <div class="what-we-do-block section-margin">
+                <div class="row">
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/dynamic_feed.svg" alt="qa" />
+                            <p class="wwd-text">Dynamic Component Construction</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/flowchart.svg" alt="value" />
+                            <p class="wwd-text">Crafting Interactive User Journeys</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/responsive.svg" alt="optimise" />
+                            <p class="wwd-text">Responsive Design Implementation</p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/check-circle.svg" alt="data" />
+                            <p class="wwd-text">Business Flow Validation</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="plane" />
+                            <p class="wwd-text">Seamless Service Integration</p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/developer-mode.svg" alt="team" />
+                            <p class="wwd-text">Dev-Ready UI Transition</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <section class="business-success section-padding">
         <div class="container">
+        <div class="d-flex justify-content-between align-items-end">
             <h2 class="section-title">
             Frontend Development Services
+</h2>
+<button class="btn btn-custom " data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    Start your project
+                </button>
+</div>
                 <div class="bs-card-section section-margin">
                     <div class="row justify-content-center">
                         <!-- Card 1 -->
@@ -318,54 +332,55 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
-    <section class="industry-experience section-padding">
+
+
+    <section class="engagement-modal section-padding">
         <div class="container">
-            <h2 class="section-title">Our Development Process</h2>
-            <div class="what-we-do-block section-margin">
-                <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/star.svg" alt="qa" />
-                            <p class="wwd-text">Dynamic Component Construction</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/check.svg" alt="value" />
-                            <p class="wwd-text">Crafting Interactive User Journeys</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/document.svg" alt="optimise" />
-                            <p class="wwd-text">Responsive Design Implementation</p>
-                        </div>
-                    </div>
+            <h2 class="section-title">
+            Recent UI Development Projects
+            </h2>
+            <div class="engagement-modal-block section-margin">
+                <?php foreach ($events as $event) { ?>
+                <div class="project-block-item">
+                    <div class="row justify-content-center">
+                        <div class="col-12">
+                            <div class="project-card d-lg-flex">
+                                <div class="col-lg-6 p-0 project-image-container">
+                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
+                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
+                                        height="auto" />
+                                </div>
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <h2 class="project-title">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
+                                    <p class="project-description">
+                                        <?php echo $event['description']; ?>
+                                    </p>
 
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/thumbs-up.svg" alt="data" />
-                            <p class="wwd-text">Business Flow Validation</p>
+                                    <div class="pb-action-btn">
+                                        <button class="btn btn-custom">
+                                            Download Case Study
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/coin.svg" alt="plane" />
-                            <p class="wwd-text">Seamless Service Integration</p>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-pointer.svg" alt="team" />
-                            <p class="wwd-text">Dev-Ready UI Transition</p>
-                        </div>
-                    </div>
-
                 </div>
+                <?php } ?>
             </div>
         </div>
     </section>
+
+    
+
+
+
+        <!-- testimonials  -->
+        <?php include 'components/testimonial.php'; ?>
+    <!-- testimonials -- end  -->
+
 
 
 
