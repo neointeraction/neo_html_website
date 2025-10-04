@@ -1,26 +1,24 @@
   <!-- banner-strip  -->
     <?php $path= $GLOBALS['path'];
     
-    if(empty($title)) {
-      $title = "Hire Designers/Front-end Engineers";
-    }
+    // if(empty($title)) {
+    //   $title = "Hire Designers/Front-end Engineers";
+    // }
 
-    if(empty($desc)) {
-      $desc = " Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
-    }
+    // if(empty($desc)) {
+    //   $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
+    // }
 
-    if(empty($buttonName)){
-      $buttonName = "Request a Quote";
-    }
-     
+    // if(empty($buttonName)){
+    //   $buttonName = "Request a Quote";
+    // }
   
     ?>
   <section class="banner-strip section-padding ">
     <div class="container">
       <div class="row ui-card hire-engineers">
         <!-- Image Column -->
-        <div class="col-md-6  img-container">
-          <!-- <img src="<?php echo $path; ?>assets/images/about-us/hire-designers-front-end-engineers.jpeg" alt="Hire Designers/Front-end Engineers" class="img-fluid"> -->
+        <div class="col-md-6 img-container">
 
           <img src="<?php echo $path; ?>assets/images/bs-img.webp" alt="Hire Designers/Front-end Engineers" class="img-fluid">
           
