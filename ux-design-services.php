@@ -39,7 +39,23 @@ include_once 'includes/tracking-functions.php';
 
 <body>
     <?php $page='blog';
- 
+
+ $events = [
+    [
+        'title' => 'Redesigning Tricogs AI Driven Healthcare Platform',
+        'description' => 'AI-driven predictive healthcare platform that improves heart failure patient care',
+        'image' => 'projects/ai-driven-healthcare/tricog-homepage-banner-listing.jpg',
+        'alt' => 'Redesigning Tricogs AI Driven Healthcare Platform',
+        'link' => 'ai-driven-healthcare-consultation-platform.php'
+    ],
+    [
+        'title' => 'Mobility Paltform for Crew Ship workforce management',
+        'description' => 'Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information',
+        'image' => 'projects/dubai-banking/dubai-bank-homepage-banner-listing.jpg',
+        'alt' => 'Mobility Paltform for Crew Ship workforce management',
+        'link' => 'crew-mobility-management-in-a-cruise.php'
+    ]
+    ]
     ?>
     <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
@@ -122,74 +138,11 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- banner -- end  -->
 
-
-    <section class="section-padding">
-        <div class="container">
-            <div class="contact-info">
-            <p class="banner-subtext">With a deep understanding of industry trends and user behavior, we craft UX design services that truly resonate with your target audience, increasing satisfaction and loyalty. Our collaborative approach ensures every design decision aligns with your product and business objectives, laying the foundation for long-term success and growth </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="section-padding">
-        <div>
-            <div class="container">
-        
-                    <div class="row w-100">
-                        <!-- 15+ years expertise -->
-                        <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="15">0</div>
-                            <div class="count-label">years expertise</div>
-                        </div>
-                        <!-- 150+ trusted clients -->
-                        <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="150">0</div>
-                            <div class="count-label">trusted clients</div>
-                        </div>
-                        <!-- 1b+ lives impacted -->
-                        <div class="col-6 col-md-3 count-up-item  mt-md-0">
-                            <div class="count-number" data-target="1">0</div>
-                            <div class="count-label">lives impacted</div>
-                        </div>
-                        <!-- 10+ countries impacted -->
-                        <div class="col-6 col-md-3 count-up-item mt-md-0">
-                            <div class="count-number" data-target="10">0</div>
-                            <div class="count-label">countries impacted</div>
-                        </div>
-                    </div>
-                </div>
-        </div>
-    </section>
-
-
-    <section class="engagement-modal section-padding">
-        <div class="container">
-            <div class="project__header">
-                <h2 class="section-title">
-                Recent UX Design Projects
-                </h2>
-                <a href="<?php echo $path; ?>projects.php">
-                    View All
-                </a>
-            </div>
-            <div class="engagement-modal-block section-margin">
-                <?php 
-                $limit = 2;
-
-                $selectedTag = 'Mobile Design';
-
-                include $path . include 'projects/project-listing.php'; ?>
-            </div>
-        </div>
-    </section>
-
-    
-
-    <!-- clients  -->
-    <section class="clients section-padding">
+     <!-- clients  -->
+     <section class="clients section-padding">
         <div class="container">
             <h2 class="section-title">
-                Middle east Clients we’ve partnered with
+            Clients we collaborated with
             </h2>
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
@@ -200,66 +153,65 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- clients -- end  -->
 
-        <!-- testimonials  -->
-        <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
-
-   
-
-    <section class="industry-experience section-padding">
-        <div class="container">
-            <h2 class="section-title">UX Design Process</h2>
-            <div class="what-we-do-block section-margin no-desc-block">
+    <section class="industry-experience section-padding mb-5">
+        <div class="container"> 
+            <h2 class="section-title">Why Brands Trust Us for UX Design ?</h2>
+            <p class="body-text">We design experiences that put users first and brands ahead. Our proven approach blends creativity, strategy, and technology to deliver impact-driven results.</p>
+            <div class="what-we-do-block section-margin">
                 <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/graph.svg" alt="qa" />
-                            <h4 class="wwd-title">User Research</h4>
+                            <img src="<?php echo $path; ?>assets/images/icons/user-chat.svg" alt="user-chat" />
+                            <h4 class="wwd-title">User-Centered Approach</h4>
+                            <p class="wwd-text">Every design decision focuses on your users, creating clear and easy-to-use interactions. We prioritize simplicity and usability in every step of the design process.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/person.svg" alt="value" />
-                            <h4 class="wwd-title">Persona Development</h4>
+                            <img src="<?php echo $path; ?>assets/images/icons/flag-post.svg" alt="cm" />
+                            <h4 class="wwd-title">Strategic Alignment</h4>
+                            <p class="wwd-text">Designs are created to reflect your business goals and vision. Each solution supports measurable growth and aligns with your long-term strategy.</p>
                         </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/arcticons_journey.svg" alt="optimise" />
-                            <h4 class="wwd-title">User Journey Mapping</h4>
-                        </div>
-                    </div>
 
-                    <div class="col-12 col-md-3 col-lg-3">
+                    </div>
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/like.svg" alt="data" />
-                            <h4 class="wwd-title">IA Validation</h4>
+                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="healthcare" />
+                            <h4 class="wwd-title">Proven Expertise</h4>
+                            <p class="wwd-text">With years of experience across industries, we deliver seamless and intuitive digital experiences. Our track record shows consistent results for businesses of all sizes.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/ph_strategy-light.svg" alt="plane" />
-                            <h4 class="wwd-title">UX Strategy & Wireframing</h4>
+                            <img src="<?php echo $path; ?>assets/images/icons/team-building.svg" alt="iot" />
+                            <h4 class="wwd-title">Collaborative Process</h4>
+                            <p class="wwd-text">Open communication and teamwork guide every stage of the project. Your input is incorporated at every step to ensure alignment with your expectations.</p>
                         </div>
                     </div>
-
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-pointer.svg" alt="team" />
-                            <h4 class="wwd-title">Interactive Prototype</h4>
+                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="th" />
+                            <h4 class="wwd-title">Future-Ready Solutions</h4>
+                            <p class="wwd-text">Our designs are scalable and adaptable to changing business needs. They are built to grow with your brand and respond to evolving digital trends.</p>
                         </div>
                     </div>
-
-
+                    <div class="col-6 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/target.svg" alt="es" />
+                            <h4 class="wwd-title">Measurable Impact</h4>
+                            <p class="wwd-text">Every design is focused on delivering results you can track. We aim to improve user engagement, satisfaction, and conversion through thoughtful UX solutions.</p>
+                        </div>
+                    </div>
+                   
                 </div>
-            </div>
+            </div> 
         </div>
     </section>
 
-
+   
     <section class="industry-experience section-padding">
         <div class="container">
-            <h2 class="section-title">Tailored UX Design Solutions</h2>
+            <h2 class="section-title">UX Design Process</h2>
             <p class="section-desc">Neointeraction Design is a UX design company in India which offers customizable UX design solutions to suit your specific needs. Whether you're in the early stages of product development or looking to optimize an existing platform, we've got you covered.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
@@ -316,100 +268,63 @@ include_once 'includes/tracking-functions.php';
 
     <section class="business-success section-padding">
         <div class="container">
-            <h2 class="section-title">
-                Our Services
-            </h2>
-            <div class="bs-card-section section-margin our-services">
+            <div class="d-flex justify-content-between align-items-end">
+                <h2 class="section-title">
+                    Our Services
+                </h2>
+                <button class="btn btn-custom " data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    Start your project
+                </button>
+            </div>
+            <div class="bs-card-section section-margin">
                 <div class="row justify-content-center">
                     <!-- Card 1 -->
-                    <div class="col-12 col-md-6 col-lg-6 pb-4">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/ux-design.svg" alt="ux" />
+                                <img src="assets/images/ux.svg" alt="ux" />
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
                             Shape tomorrow's digital experiences with our UX design services, crafting seamless interactions that align with your brand and business goals.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">User Journey Mapping</span>
-                                <span class="badge">Persona Development</span>
-                                <span class="badge">IA Validation</span>
-                                <span class="badge">Heuristic Evaluation</span>
-                                <span class="badge">User Research</span>
-                                <span class="badge">Wireframing</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
 
                     <!-- Card 2 -->
-                    <div class="col-12 col-md-6 col-lg-6 pb-4">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/product-design.svg" alt="ux" />
+                                <img src="assets/images/pd.svg" alt="pd" />
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
                             Revamp your product with our concise Product Design services, seamlessly blending innovative aesthetics and functionality for standout, user-centric solutions.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">Product Vision</span>
-                                <span class="badge">Product Research</span>
-                                <span class="badge">Structure Ideas</span>
-                                <span class="badge">Agile Design Sprints</span>
-                                <span class="badge">Rapid Prototyping</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Product Design" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
                     <!-- Card 3 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/ux-audit.svg" alt="ux" />
+                                <img src="assets/images/dt.svg" alt="dt" />
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
                             Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">Achieving Human-Centric UX Heuristic Evaluation</span>
-                                <span class="badge">Setting a Design Foundation </span>
-                                <span class="badge">Design Strategy Building</span>
-                                <span class="badge">Design Documentation</span>
-                                <span class="badge">UX and UI Mastery</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Digital Transformation" data-bs-toggle="modal"
-                                data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
                     <!-- Card 4 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/ui-engineering.svg" alt="ux" />
+                                <img src="assets/images/fd.svg" alt="fd" />
                             </div>
-                            <h4 class="title">UI Engineering</h4>
+                            <h4 class="title">Frontend Development</h4>
                             <p class="description">
                             Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">Dev-Ready UI Transition</span>
-                                <span class="badge">Business Flow Validation</span>
-                                <span class="badge">Dynamic React Component Construction</span>
-                                <span class="badge">Crafting Interactive User Journeys</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Frontend Development" data-bs-toggle="modal"
-                                data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
                 </div>
@@ -417,13 +332,60 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
+
+    <section class="engagement-modal section-padding">
+        <div class="container">
+            <h2 class="section-title">
+            Recent UX Design Projects
+            </h2>
+            <div class="engagement-modal-block section-margin">
+                <?php foreach ($events as $event) { ?>
+                <div class="project-block-item">
+                    <div class="row justify-content-center">
+                        <div class="col-12">
+                            <div class="project-card d-lg-flex">
+                                <div class="col-lg-6 p-0 project-image-container">
+                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
+                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
+                                        height="auto" />
+                                </div>
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <h2 class="project-title">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
+                                    <p class="project-description">
+                                        <?php echo $event['description']; ?>
+                                    </p>
+
+                                    <div class="pb-action-btn">
+                                        <button class="btn btn-custom">
+                                            Download Case Study
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <?php } ?>
+            </div>
+        </div>
+    </section>
+
+    
+        <!-- testimonials  -->
+        <?php include 'components/testimonial.php'; ?>
+    <!-- testimonials -- end  -->
+
+   
+
       <!-- demo-video  -->
       <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Showcase Reel</h2>
+            <h2 class="section-title">Our Process</h2>
             <div class="video-container section-margin">
                 
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/d_rEmpCVHAI?si=ZPQ5SxsTSvOkJsIW" title="YouTube video player" frameborder="0"
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=B8pq4kK3-ExetQKL" title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
                     allowfullscreen style="border-radius: 0;"></iframe>
             </div>
@@ -497,25 +459,6 @@ include_once 'includes/tracking-functions.php';
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <section class="ux-design-subscription section-padding">
-        <div class="container">
-            <h2 class="section-title">Design as a Service - Scalable Solutions for Your Business</h2>
-           <p>Transform your digital presence with our Design as a Service. With flexible monthly subscriptions, we offer tailored UX, UI, and product design solutions that adapt to your business needs. Let us help you create user experiences that drive results.</p>
-        </div>
-    </section>
-
-    <section class="ux-design-subscription section-padding">
-        <div class="container">
-            <h2 class="section-title">Why Choose UX Design Subscription Plans?</h2>
-            <ul>
-                <li><p >Get a UX Team to Support Product Designs</p></li>
-                <li><p >Flexible Support for Your Business Needs</p></li>
-                <li><p >Expert Design Team Aligned with Your Goals</p></li>
-                <li><p >Hassle-Free Management with Clear Timelines</p></li>
-            </ul>
         </div>
     </section>
 
