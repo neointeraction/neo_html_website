@@ -221,6 +221,11 @@
                         <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-priority-mapping.jpeg"
                             alt="banner" />
                     </div>
+</div>
+<div class="ui-update project-section-padding">
+                    <p class="project-body-text">
+                    By aligning the website with user expectations and optimizing content for different target demographics, MEGA We Care improved its ability to connect with and retain its audience by applying the recommendations from the priority map
+</div>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-audit-findings.jpeg"
                             alt="banner" />

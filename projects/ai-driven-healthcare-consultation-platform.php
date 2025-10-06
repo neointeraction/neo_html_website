@@ -108,7 +108,7 @@
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-4 col-md-3 count-up-item">
-                            <div class="count-number" data-target="86">0</div>
+                            <div class="count-number" data-target="86" data-type="percent">0</div>
                             <div class="count-label">New User Engagement</div>
                         </div>
                         <!-- 150+ trusted clients -->
@@ -118,7 +118,7 @@
                         </div>
                         <!-- 80% lives impacted -->
                         <div class="col-4 col-md-3 count-up-item pb-0 mt-md-0">
-                            <div class="count-number" data-target="92">0</div>
+                            <div class="count-number" data-target="92" data-type="percent">0</div>
                             <div class="count-label">New Customer Acquisition</div>
                         </div>
 
@@ -181,16 +181,7 @@
                                 </div>
                             </div>
                             <!-- Card 3 -->
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card">
-                                    <h4 class="title"> Collaborative Ideation in Figjam</h4>
-                                    <p class="description">
-                                        This collaborative ideation allowed us to merge our expertise with the client's
-                                        insights, ensuring that the final product aligns seamlessly with their
-                                        requirements and user expectations.
-                                    </p>
-                                </div>
-                            </div>
+                        
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
@@ -213,15 +204,7 @@
                                 </div>
                             </div>
                             <!-- Card 6 -->
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card">
-                                    <h4 class="title">Final Prototype Development</h4>
-                                    <p class="description">
-                                        This phase involved converting all research, ideation, and design iterations
-                                        into a tangible product.
-                                    </p>
-                                </div>
-                            </div>
+                         
                         </div>
                     </div>
                 </div>
@@ -254,20 +237,18 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Seamless Idea Integration</h4>
+                                    <h4 class="title">Personalized Care</h4>
                                     <p class="description">
-                                        Our approach involved seamlessly incorporating stakeholder ideas into the
-                                        design, contributing to the product's efficiency.
+                                    Patients benefit from  from tailored treatment plans designed to meet their health needs 
                                     </p>
                                 </div>
                             </div>
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Enhanced Cardiologist Workflow</h4>
+                                    <h4 class="title">Early Detection of Health Issues</h4>
                                     <p class="description">
-                                        The design modifications were specifically aimed at simplifying tasks for
-                                        cardiologists, earning notable praise for their impact on workflow improvement.
+                                    Smart alerts help notify Doctors of potential risks and help patients avoid unnecessary hospitalisations and help in life saving interventions.
                                     </p>
                                 </div>
                             </div>
@@ -283,6 +264,10 @@
                         <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v4.jpeg"
                             alt="ui-update" />
                     </div>
+</div>
+<div class="ui-update project-section-padding">
+                    <p class="project-body-text">The web portal design for the cardiologist and care team to monitor patient vitals
+                    </p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v2.jpeg"
                             alt="ui-update" />

@@ -235,6 +235,10 @@
                         <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-website-ui.jpeg"
                             alt="india-accelerator-website-ui" />
                     </div>
+</div>
+<div class="ui-update project-section-padding">
+<p class="project-body-text">The redesign helped in a refreshing look for communicating IA’s ecosystem and brought in more credibility with a modern website that would also help with their global presence.
+</p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-desktop-ui.jpeg"
                             alt="india-accelerator-website-ui" />

@@ -24,11 +24,15 @@
                       </button>
                   </a>
               </div>
-              <div class="col-md-4 d-none d-md-block"></div>
+              <div class="col-md-4 d-none d-md-flex justify-content-center align-items-end">
+                <a href="<?php echo $path . 'projects.php' ?>">
+                    <img src="<?php echo  $path; ?>assets/images/view-more.svg" alt="">
+                </a>
+              </div>
 
               
 
-              <div class="d-flex slick-navigation justify-content-around d-md-none">
+              <div class="d-flex slick-navigation justify-content-between d-md-none">
                   <a href="<?php echo $path . 'projects' . $previousLink; ?>">
                       <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
                           <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -38,6 +42,9 @@
                           </svg>
                       </button>
                   </a>
+                  <a href="<?php echo $path . 'projects.php' ?>">
+                    <img src="<?php echo  $path; ?>assets/images/view-more.svg" alt="">
+                </a>
                   <a href="<?php echo  $path . 'projects' .$nextLink; ?>">
                       <button class="btn btn-custom btn-custom-secondary slick-btn slick-next-custom">
                           <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">

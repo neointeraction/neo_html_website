@@ -148,16 +148,6 @@
                   </p>
                 </div>
               </div>
-              <!-- Card 5 -->
-              <div class="col-12 col-md-6 col-lg-3">
-                <div class="custom-card">
-                  <h4 class="title">Consistent Visual Design</h4>
-                  <p class="description">
-                  Ensured all modules shared a cohesive design system, enhancing navigation and reducing cognitive load across diverse user roles.
-                  </p>
-                </div>
-              </div>
-              <!-- Card 6 -->
              
             </div>
           </div>
@@ -223,11 +213,14 @@
 
           <p class="project-body-text">Once the structure was validated, we moved to high-fidelity Prototyping to simulate real-time monitoring and task flows, allowing stakeholders to validate functionality early. The User Experience Design focused on clarity, hierarchy, and presenting layered IoT and AI data in an approachable manner.</p>
 
-          <p class="project-body-text">A consistent UI design system was implemented to unify modules and ensure scalability. Throughout the process, we maintained close collaboration with the client, enabling fast iterations and a seamless development handoff with detailed specifications and interactive prototypes.</p>
 
           <div class="bs-img">
           <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-website-ui.jpeg" alt="digital-blanket-website-ui" />
           </div>
+
+</div>
+<div class="ui-update project-section-padding">
+          <p class="project-body-text">A consistent UI design system was implemented to unify modules and ensure scalability. Throughout the process, we maintained close collaboration with the client, enabling fast iterations and a seamless development handoff with detailed specifications and interactive prototypes.</p>
           <div class="bs-img">
           <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-mobile-ui.jpeg" alt="digital-blanket-mobile-ui" />
           </div>

@@ -154,6 +154,10 @@
             </div>
           </div>
         </div>
+        <div class="solutions-offered project-section-padding">
+        <h4 class="project-section-title">Our Approach </h4>
+        <p class="project-body-text">Our process began with User Experience Design through discovery and UX research, where we conducted client workshops, competitor analysis, and UX audits to identify key pain points. We then moved to moodboarding and concept development, iterating on layouts, colors, and design direction to establish a cohesive Visual Design. In the Wireframing phase, we mapped out user flows with low-fidelity designs, refining them into high-fidelity wireframes through testing and feedback. </p>
+</div>
      
         <!-- solutions-help section -->
         <div class="solutions-help project-section-padding">
@@ -210,15 +214,17 @@
         </div>
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
-          <h4 class="project-section-title">Our Approach </h4>
-          <p class="project-body-text">Our process began with User Experience Design through discovery and UX research, where we conducted client workshops, competitor analysis, and UX audits to identify key pain points. We then moved to moodboarding and concept development, iterating on layouts, colors, and design direction to establish a cohesive Visual Design.</p>
-
-          <p class="project-body-text">In the Wireframing phase, we mapped out user flows with low-fidelity designs, refining them into high-fidelity wireframes through testing and feedback. Once finalized, we developed a User Interface Design system, ensuring consistency across all screens. The UI Design process emphasized intuitive navigation and accessibility. Finally, during the development handoff, we provided structured documentation, interactive Prototyping, and regular design reviews to ensure a seamless transition from design to implementation.</p>
+       
 
 
           <div class="bs-img">
           <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-wireframes.jpg" alt="etravelmate-wireframes" />
           </div>
+</div>
+<div class="ui-update project-section-padding">
+<p class="project-body-text">We developed a User Interface Design system, ensuring consistency across all screens. The UI Design process emphasized intuitive navigation and accessibility. Finally, during the development handoff, we provided structured documentation, interactive Prototyping, and regular design reviews to ensure a seamless transition from design to implementation.
+</p>
+
           <div class="bs-img">
           <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-mobile-ui.jpg" alt="etravelmate-mobile-ui" />
           </div>

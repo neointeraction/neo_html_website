@@ -106,8 +106,8 @@
                     <div class="row ">
                         <!-- 81% New User Engagement -->
                         <div class="col-4 col-md-3 count-up-item">
-                            <div class="count-number" data-target="81">0</div>
-                            <div class="count-label" data-type="percent">New User Engagement</div>
+                            <div class="count-number" data-target="81" data-type="percent">0</div>
+                            <div class="count-label" >New User Engagement</div>
                         </div>
                         <!-- 40+ Profits -->
                         <div class="col-4 col-md-3 count-up-item">
@@ -223,7 +223,7 @@
                         <div class="row ">
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card-white case-study-card">
+                                <div class="custom-card">
                                     <h4 class="title">Streamlined Workflows</h4>
                                     <p class="description">
                                         Simplified processes enabled users to complete tasks faster and more successfully, enhancing overall workflow efficiency.
@@ -234,7 +234,7 @@
 
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card-white case-study-card">
+                                <div class="custom-card">
                                     <h4 class="title">Focused User Concentration</h4>
                                     <p class="description">
                                         Removal of unnecessary data reduced distractions, allowing users to maintain focus on critical and significant activities.
@@ -245,7 +245,7 @@
 
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card-white case-study-card">
+                                <div class="custom-card">
                                     <h4 class="title">Intuitive Data Interpretation</h4>
                                     <p class="description">
                                         Utilization of colors, typefaces, tooltips, and UI features improved data interpretation, making it easier for users to distinguish and
@@ -257,7 +257,7 @@
 
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card-white case-study-card">
+                                <div class="custom-card">
                                     <h4 class="title">Step-by-Step Methodology</h4>
                                     <p class="description">
                                         The majority of workflows were broken down into a step-by-step method that allowed users to feel confident in completing a difficult

@@ -268,11 +268,16 @@
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-website-ui.jpg" alt="noctil website ui" />
           </div>
-
+          </div>
+        <div class="brainstorming-session project-section-padding">
+          <h4 class="project-section-title">New logo design for rebranding Noctil</h4>
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-logo-style-guide.jpg" alt="noctil logo style guide" />
           </div>
-
+          </div>
+          <div class="brainstorming-session project-section-padding">
+          <h4 class="project-section-title">Website redesigned for Noctils Rebranding
+          </h4>
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-music-management-solution.jpg" alt="noctil project banner" />
           </div>

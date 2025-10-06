@@ -169,6 +169,19 @@
                 </div>
 
     
+                <div class="solutions-help project-section-padding">
+                    <div class="title-flex">
+                        <h2 class="project-section-title">
+                        Our Approach
+                        </h2>
+                    </div>
+                    <p class="project-body-text">
+                    Our approach ensured a seamless experience for both employees and managers while optimizing construction management.
+                    </p>
+                    <p class="project-body-text">Our process began with User Experience Design, conducting UX research through industry expert interviews, competitor analysis, and usability testing. We identified pain points in existing project management tools and optimized Information Architecture for construction workflows.</p>
+                    <p class="project-body-text">We then moved to moodboarding and Visual Design, iterating on layouts, color schemes, and dashboard aesthetics to create a cohesive UI system.</p>
+                    <p class="project-body-text">In the Wireframing phase, we mapped out user flows with low-fidelity wireframes, refining them into high-fidelity UI designs through multiple iterations.</p>
+                </div>
 
                 <!-- solutions-help section -->
                 <div class="solutions-help project-section-padding">
@@ -225,13 +238,15 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-
-                    <h4 class="project-section-title">Our Approach </h4>
-                    <p class="project-body-text">Our process began with User Experience Design, conducting UX research through industry expert interviews, competitor analysis, and usability testing. We identified pain points in existing project management tools and optimized Information Architecture for construction workflows.</p>
-                    <p class="project-body-text">We then moved to moodboarding and Visual Design, iterating on layouts, color schemes, and dashboard aesthetics to create a cohesive UI system.</p>
-                    <p class="project-body-text">In the Wireframing phase, we mapped out user flows with low-fidelity wireframes, refining them into high-fidelity UI designs through multiple iterations. Finally, during the Prototyping and development handoff, we provided structured documentation, interactive prototypes, and regular design reviews to ensure seamless implementation.</p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui.jpg"
+                            alt="construction-management-website-ui" />
+                    </div>
+                </div>
+                <div class="ui-update project-section-padding">
+                    <p class="project-body-text">during the Prototyping and development handoff, we provided structured documentation, interactive prototypes, and regular design reviews to ensure seamless implementation.</p>
+                    <div class="bs-img">
+                        <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui-2.jpg"
                             alt="construction-management-website-ui" />
                     </div>
                 </div>

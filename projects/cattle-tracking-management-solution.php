@@ -275,10 +275,10 @@
                         <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-website-ui.jpg"
                             alt="ui-update" />
                     </div>
-                    <div class="bs-img">
+                    <!-- <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-mobile-ui.jpg"
                             alt="ui-update" />
-                    </div>
+                    </div> -->
                 </div>
                 <!-- <div class="view-all-blogs-btn">
                     <button class="btn btn-custom btn-custom-secondary">
