@@ -39,7 +39,23 @@ include_once 'includes/tracking-functions.php';
 
 <body>
     <?php $page='blog';
- 
+
+  $events = [
+    [
+        'title' => 'Redesigning Tricogs AI Driven Healthcare Platform',
+        'description' => 'AI-driven predictive healthcare platform that improves heart failure patient care',
+        'image' => 'projects/ai-driven-healthcare/tricog-homepage-banner-listing.jpg',
+        'alt' => 'Redesigning Tricogs AI Driven Healthcare Platform',
+        'link' => 'ai-driven-healthcare-consultation-platform.php'
+    ],
+    [
+        'title' => 'Mobility Paltform for Crew Ship workforce management',
+        'description' => 'Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information',
+        'image' => 'projects/crew-mobility-management-in-a-cruise/crew-mobility-management-listing.jpg',
+        'alt' => 'Mobility Paltform for Crew Ship workforce management',
+        'link' => 'crew-mobility-management-in-a-cruise.php'
+    ]]
+
     ?>
     <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
@@ -57,13 +73,11 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left">
                             <h1 class="banner-title">
-                                Product <span class="highlight"> Design Service</span>
+                                End-to-End Product <span class="highlight">Design Solutions</span>
                             </h1>
 
                             <div class="contact-info">
-                                <p class="banner-subtext">need content hereneed content hereneed content hereneed
-                                    content hereneed content hereneed content hereneed content hereneed content hereneed
-                                    content hereneed content hereneed content hereneed content here</p>
+                                <p class="banner-subtext">Bring your product vision to life with user-focused design. Our product design services create engaging, intuitive experiences that drive results.</p>
 
                             </div>
                         </div>
@@ -125,64 +139,6 @@ include_once 'includes/tracking-functions.php';
     <!-- banner -- end  -->
 
 
-    <section class="section-padding">
-        <div class="container">
-            <div class="contact-info">
-            <p class="banner-subtext">With over 15 years of experience, Neointeraction Design has consistently delivered top-tier UX design solutions across diverse domains for different companies and startups. From concept to product, we focus on creating engaging designs that align with business goals, ensuring measurable ROI. Our commitment to end-to-end design services means we're with you every step of the way, meticulously crafting every aspect of your project to perfection. Whether you're in need of UX/UI design, frontend development, or a combination of both for your website or SaaS product our team has the expertise and experience to bring your vision to life. Experience the best UX/UI design service tailored to your brand's needs and unlock your business potential today.
-            </p>
-    </div>
-        </div>
-    </section>
-
-    <section class="banner section-padding">
-        <div>
-            <div class="container">
-                    <div class="row w-100">
-                        <!-- 15+ years expertise -->
-                        <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="15">0</div>
-                            <div class="count-label">years expertise</div>
-                        </div>
-                        <!-- 150+ trusted clients -->
-                        <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="150">0</div>
-                            <div class="count-label">trusted clients</div>
-                        </div>
-                        <!-- 1b+ lives impacted -->
-                        <div class="col-6 col-md-3 count-up-item  mt-md-0">
-                            <div class="count-number" data-target="1">0</div>
-                            <div class="count-label">lives impacted</div>
-                        </div>
-                        <!-- 10+ countries impacted -->
-                        <div class="col-6 col-md-3 count-up-item mt-md-0">
-                            <div class="count-number" data-target="10">0</div>
-                            <div class="count-label">countries impacted</div>
-                        </div>
-                    </div>
-                </div>
-        </div>
-    </section>
-
-
-    <section class="engagement-modal section-padding">
-        <div class="container">
-            <div class="project__header">
-                <h2 class="section-title">
-                    Product Design Portfolio
-                </h2>
-                <a href="<?php echo $path; ?>projects.php">
-                    View All
-                </a>
-            </div>
-            <div class="engagement-modal-block section-margin">
-                <?php 
-                $limit = 2;
-                include $path . include 'projects/project-listing.php'; ?>
-            </div>
-        </div>
-    </section>
-
-
     <!-- clients  -->
     <section class="clients section-padding">
         <div class="container">
@@ -197,60 +153,6 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
     <!-- clients -- end  -->
-
-        <!-- testimonials  -->
-        <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
-
-    <section class="industry-experience section-padding">
-        <div class="container">
-            <h2 class="section-title">SaaS Design Service</h2>
-            <p class="section-desc">Elevate your SaaS product with Neointeraction Design's specialized service. Our tailored approach ensures your digital product stands out in the market and also delivers an exceptional user experience for your end users. From concept to execution, we're your partner for the success of your SaaS UX design.</p>
-            <div class="what-we-do-block section-margin">
-                <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/star.svg" alt="qa" />
-                            <p class="wwd-text">Tailored design solutions for your product to stand out.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/check.svg" alt="value" />
-                            <p class="wwd-text">Expertise in UX/UI design for impactful product experiences.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/document.svg" alt="optimise" />
-                            <p class="wwd-text">Optimized usability, functionality, and scalability to drive growth and user satisfaction</p>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/thumbs-up.svg" alt="data" />
-                            <p class="wwd-text">Collaborative approach to meet your target audience's needs effectively.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/coin.svg" alt="plane" />
-                            <p class="wwd-text">Customized solutions for building or refining the best SaaS apps and digital products.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-pointer.svg" alt="team" />
-                            <p class="wwd-text">Data-driven approach to UX design, ensuring decisions are backed by insights and analytics.</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="industry-experience section-padding">
         <div class="container">
@@ -302,105 +204,65 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
-
-
-
     <section class="business-success section-padding">
         <div class="container">
-            <h2 class="section-title">
-                Our Services
-            </h2>
-            <div class="bs-card-section section-margin our-services">
+            <div class="d-flex justify-content-between align-items-end mb-4">
+                <h2 class="section-title">
+                    Our Services
+                </h2>
+                <button class="btn btn-custom " data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    Start your project
+                </button>
+            </div>
+            <div class="bs-card-section section-margin">
                 <div class="row justify-content-center">
                     <!-- Card 1 -->
-                    <div class="col-12 col-md-6 col-lg-6 pb-4">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/ux-design.svg" alt="ux" />
+                                <img src="assets/images/ux.svg" alt="ux" />
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
                             Shape tomorrow's digital experiences with our UX design services, crafting seamless interactions that align with your brand and business goals.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">User Journey Mapping</span>
-                                <span class="badge">Persona Development</span>
-                                <span class="badge">IA Validation</span>
-                                <span class="badge">Heuristic Evaluation</span>
-                                <span class="badge">User Research</span>
-                                <span class="badge">Wireframing</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
 
                     <!-- Card 2 -->
-                    <div class="col-12 col-md-6 col-lg-6 pb-4">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/product-design.svg" alt="ux" />
+                                <img src="assets/images/pd.svg" alt="pd" />
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
                             Revamp your product with our concise Product Design services, seamlessly blending innovative aesthetics and functionality for standout, user-centric solutions.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">Product Vision</span>
-                                <span class="badge">Product Research</span>
-                                <span class="badge">Structure Ideas</span>
-                                <span class="badge">Agile Design Sprints</span>
-                                <span class="badge">Rapid Prototyping</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Product Design" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
                     <!-- Card 3 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/ux-audit.svg" alt="ux" />
+                                <img src="assets/images/dt.svg" alt="dt" />
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
                             Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">Achieving Human-Centric UX Heuristic Evaluation</span>
-                                <span class="badge">Setting a Design Foundation </span>
-                                <span class="badge">Design Strategy Building</span>
-                                <span class="badge">Design Documentation</span>
-                                <span class="badge">UX and UI Mastery</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Digital Transformation" data-bs-toggle="modal"
-                                data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
                     <!-- Card 4 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/ui-engineering.svg" alt="ux" />
+                                <img src="assets/images/fd.svg" alt="fd" />
                             </div>
-                            <h4 class="title">UI Engineering</h4>
+                            <h4 class="title">Frontend Development</h4>
                             <p class="description">
                             Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">Dev-Ready UI Transition</span>
-                                <span class="badge">Business Flow Validation</span>
-                                <span class="badge">Dynamic React Component Construction</span>
-                                <span class="badge">Crafting Interactive User Journeys</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Frontend Development" data-bs-toggle="modal"
-                                data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
                 </div>
@@ -408,13 +270,113 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
+ 
+    <section class="engagement-modal section-padding">
+        <div class="container">
+            <h2 class="section-title">
+                Recent Ux Project
+            </h2>
+            <div class="engagement-modal-block section-margin">
+                <?php foreach ($events as $event) { ?>
+                <div class="project-block-item">
+                    <div class="row justify-content-center">
+                        <div class="col-12">
+                            <div class="project-card d-lg-flex">
+                                <div class="col-lg-6 p-0 project-image-container">
+                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
+                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
+                                        height="auto" />
+                                </div>
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <h2 class="project-title">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
+                                    <p class="project-description">
+                                        <?php echo $event['description']; ?>
+                                    </p>
+
+                                    <div class="pb-action-btn">
+                                        <button class="btn btn-custom">
+                                            Download Case Study
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <?php } ?>
+            </div>
+        </div>
+    </section>
+
+
+
+        <!-- testimonials  -->
+        <?php include 'components/testimonial.php'; ?>
+    <!-- testimonials -- end  -->
+
+    <!-- <section class="industry-experience section-padding">
+        <div class="container">
+            <h2 class="section-title">SaaS Design Service</h2>
+            <p class="section-desc">Elevate your SaaS product with Neointeraction Design's specialized service. Our tailored approach ensures your digital product stands out in the market and also delivers an exceptional user experience for your end users. From concept to execution, we're your partner for the success of your SaaS UX design.</p>
+            <div class="what-we-do-block section-margin">
+                <div class="row">
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/star.svg" alt="qa" />
+                            <p class="wwd-text">Tailored design solutions for your product to stand out.</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/check.svg" alt="value" />
+                            <p class="wwd-text">Expertise in UX/UI design for impactful product experiences.</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/document.svg" alt="optimise" />
+                            <p class="wwd-text">Optimized usability, functionality, and scalability to drive growth and user satisfaction</p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/thumbs-up.svg" alt="data" />
+                            <p class="wwd-text">Collaborative approach to meet your target audience's needs effectively.</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/coin.svg" alt="plane" />
+                            <p class="wwd-text">Customized solutions for building or refining the best SaaS apps and digital products.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-3 col-lg-3">
+                        <div class="wwd-item">
+                            <img src="<?php echo $path; ?>assets/images/icons/hand-pointer.svg" alt="team" />
+                            <p class="wwd-text">Data-driven approach to UX design, ensuring decisions are backed by insights and analytics.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+
+
+
+
       <!-- demo-video  -->
       <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Showcase Reel</h2>
+            <h2 class="section-title">Our Process</h2>
             <div class="video-container section-margin">
                 
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/d_rEmpCVHAI?si=ZPQ5SxsTSvOkJsIW" title="YouTube video player" frameborder="0"
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
                     allowfullscreen style="border-radius: 0;"></iframe>
             </div>
