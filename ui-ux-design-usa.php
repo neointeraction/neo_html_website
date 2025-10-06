@@ -289,7 +289,7 @@ include_once 'includes/tracking-functions.php';
     <section class="engagement-modal section-padding">
         <div class="container">
             <h2 class="section-title">
-                Recent Ux Project
+            Recent Projects
             </h2>
             <div class="engagement-modal-block section-margin">
                 <?php foreach ($events as $event) { ?>

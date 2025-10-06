@@ -35,6 +35,22 @@ include_once 'includes/tracking-functions.php';
 
 <body>
     <?php $page='landing';
+    
+    $events = [
+    [
+        'title' => 'Redesign Digital banking platform for Commercial Bank of Dubai',
+        'description' => 'Creating a user friendly modern banking platform for young professionals, expats, and native youth',
+        'image' => 'projects/dubai-banking/dubai-bank-homepage-banner-listing.jpg',
+        'alt' => 'Redesign Digital banking platform for Commercial Bank of Dubai',
+        'link' => 'revolutionizing-banking-experiences.php'
+    ],
+    [
+        'title' => 'Share Trading platform redesign',
+        'description' => 'Trading platform revamped to offer users a unified experience accessible across devices',
+        'image' => 'projects/share-trading-platform/geogit-homepage-banner-listing.jpg',
+        'alt' => 'Share Trading platform redesign',
+        'link' => 'share-trading-platform.php'
+    ],]
  
     ?>
     <?php include $path.'includes/body-additional-scripts.php'; ?>
@@ -57,7 +73,7 @@ include_once 'includes/tracking-functions.php';
                             </h1>
 
                             <div class="contact-info">
-                                <p class="banner-subtext">need content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content here</p>
+                                <p class="banner-subtext">Transforming banking and fintech with user-friendly digital solutions that drive engagement, simplify transactions, and deliver measurable results</p>
 
                             </div>
                         </div>
@@ -118,68 +134,7 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- banner -- end  -->
 
-    <section class="section-padding">
-        <div class="container">
-            <div class="contact-info">
-            <p class="banner-subtext">At Neointeraction Design, we're committed to reshaping the landscape of fintech and banking sector in India through cutting-edge UX/UI design. With a relentless focus on user-centricity and a deep understanding of the complexities within the financial sector, we craft seamless digital experiences that drive engagement and foster trust. Our adaptive approach ensures that your brand remains at the forefront of innovation, ready to meet the evolving needs of your customers and the industry.
-            </p>
-    </div>
-        </div>
-    </section>
 
-
-
-    <section class=" section-padding">
-        <div>
-            <div class="container">
-        
-                    <div class="row w-100">
-                        <!-- 15+ years expertise -->
-                        <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="15">0</div>
-                            <div class="count-label">years expertise</div>
-                        </div>
-                        <!-- 150+ trusted clients -->
-                        <div class="col-6 col-md-3 count-up-item">
-                            <div class="count-number" data-target="150">0</div>
-                            <div class="count-label">trusted clients</div>
-                        </div>
-                        <!-- 1b+ lives impacted -->
-                        <div class="col-6 col-md-3 count-up-item  mt-md-0">
-                            <div class="count-number" data-target="1">0</div>
-                            <div class="count-label">lives impacted</div>
-                        </div>
-                        <!-- 10+ countries impacted -->
-                        <div class="col-6 col-md-3 count-up-item mt-md-0">
-                            <div class="count-number" data-target="10">0</div>
-                            <div class="count-label">countries impacted</div>
-                        </div>
-                    </div>
-                </div>
-        </div>
-    </section>
-
-
-    <section class="engagement-modal section-padding">
-        <div class="container">
-            <div class="project__header">
-                <h2 class="section-title">
-                Fintech products we have worked on
-                </h2>
-                <a href="<?php echo $path; ?>projects.php">
-                    View All
-                </a>
-            </div>
-            <div class="engagement-modal-block section-margin">
-                <?php 
-                $limit = 2;
-
-                $selectedTag = 'Fintech';
-
-                include $path . include 'projects/project-listing.php'; ?>
-            </div>
-        </div>
-    </section>
 
     
 
@@ -197,11 +152,6 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
     <!-- clients -- end  -->
-
-        <!-- testimonials  -->
-        <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
-
 
     <section class="industry-experience section-padding">
         <div class="container">
@@ -259,6 +209,131 @@ include_once 'includes/tracking-functions.php';
             </div>
         </div>
     </section>
+
+    <section class="business-success section-padding">
+        <div class="container">
+            <div class="d-flex justify-content-between align-items-end mb-4">
+                <h2 class="section-title">
+                    Our Services
+                </h2>
+                <button class="btn btn-custom " data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    Start your project
+                </button>
+            </div>
+            <div class="bs-card-section section-margin">
+                <div class="row justify-content-center">
+                    <!-- Card 1 -->
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="custom-card">
+                            <div class="icon-container">
+                                <img src="assets/images/ux.svg" alt="ux" />
+                            </div>
+                            <h4 class="title">UX Design</h4>
+                            <p class="description">
+                            Shape tomorrow's digital experiences with our UX design services, crafting seamless interactions that align with your brand and business goals.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Card 2 -->
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="custom-card">
+                            <div class="icon-container">
+                                <img src="assets/images/pd.svg" alt="pd" />
+                            </div>
+                            <h4 class="title">Product Design</h4>
+                            <p class="description">
+                            Revamp your product with our concise Product Design services, seamlessly blending innovative aesthetics and functionality for standout, user-centric solutions.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Card 3 -->
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="custom-card">
+                            <div class="icon-container">
+                                <img src="assets/images/dt.svg" alt="dt" />
+                            </div>
+                            <h4 class="title">UX Audit</h4>
+                            <p class="description">
+                            Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Card 4 -->
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="custom-card">
+                            <div class="icon-container">
+                                <img src="assets/images/fd.svg" alt="fd" />
+                            </div>
+                            <h4 class="title">Frontend Development</h4>
+                            <p class="description">
+                            Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="engagement-modal section-padding">
+        <div class="container">
+            <h2 class="section-title">
+                Recent Fintech Design Projects
+            </h2>
+            <div class="engagement-modal-block section-margin">
+                <?php foreach ($events as $event) { ?>
+                <div class="project-block-item">
+                    <div class="row justify-content-center">
+                        <div class="col-12">
+                            <div class="project-card d-lg-flex">
+                                <div class="col-lg-6 p-0 project-image-container">
+                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
+                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
+                                        height="auto" />
+                                </div>
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <h2 class="project-title">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
+                                    <p class="project-description">
+                                        <?php echo $event['description']; ?>
+                                    </p>
+
+                                    <div class="pb-action-btn">
+                                        <button class="btn btn-custom">
+                                            Download Case Study
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <?php } ?>
+            </div>
+        </div>
+    </section>
+
+
+        <!-- testimonials  -->
+        <?php include 'components/testimonial.php'; ?>
+    <!-- testimonials -- end  -->
+
+       <!-- demo-video  -->
+       <section class="demo-video section-padding">
+        <div class="container">
+            <h2 class="section-title">Our Process</h2>
+            <div class="video-container section-margin">
+                
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen style="border-radius: 0;"></iframe>
+            </div>
+        </div>
+    </section>
+
 
 
 
