@@ -35,7 +35,16 @@ include_once 'includes/tracking-functions.php';
 
 <body>
     <?php $page='landing';
- 
+ $events = [
+    [
+        'title' => '90+ Tuition App - Online Tutoring Platform',
+        'description' => 'Enhancing the usability of a platform that delivers tuition to your doorstep for easy learning',
+        'image' => 'projects/online-tutoring-app/tutoring-platform-homepage-banner-listing.jpg',
+        'alt' => '90+ Tuition App - Online Tutoring Platform',
+        'link' => 'online-tutoring-platform.php'
+    ]]
+
+
     ?>
     <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
@@ -58,7 +67,7 @@ include_once 'includes/tracking-functions.php';
                             </h1>
 
                             <div class="contact-info">
-                                <p class="banner-subtext">need content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content here</p>
+                                <p class="banner-subtext">We craft user-centric Edtech design solutions that make learning engaging and intuitive. From UX/UI design to product strategy, we help educational platforms deliver impactful digital experiences</p>
 
                             </div>
                         </div>
@@ -119,63 +128,6 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- banner -- end  -->
 
-    <section class="section-padding">
-        <div class="container">
-            <div class="contact-info">
-            <p class="banner-subtext">Neointeraction Design is a leading Edtech design company in India, revolutionizing education technology sector through cutting-edge UX/UI design. Our tailored solutions empower educators and learners alike, fostering engagement and driving results. With a focus on simplicity and innovation, we're shaping the future of education, one digital experience at a time.
-            </p>
-    </div>
-        </div>
-    </section>
-
-
-    <section class="contact-section section-padding">
-        <div class="container">
-            <div class="row w-100">
-                <div class="col-6 col-md-3 count-up-item">
-                    <h3 class="percent__total">82%</h3> 
-                    <p class="count-label">years expertise</p>
-                </div>
-                <div class="col-6 col-md-3 count-up-item">
-                    <h3 class="percent__total">90+</h3>
-                    <p class="count-label">Profits</p>
-                </div>
-                <div class="col-6 col-md-3 count-up-item">
-                    <h3 class="percent__total">96%</h3>
-                    <p class="count-label">New Customer Acquisition
-                    </p>
-                </div>
-                <div class="col-6 col-md-3 count-up-item">
-                    <h3 class="percent__total">4.2</h3>
-                    <p class="count-label">Rated on playstore
-                    </p>
-                </div>
-            </div>
-        </div>
-        </div>
-    </section>  
-
-
-    <section class="engagement-modal section-padding">
-        <div class="container">
-            <div class="project__header">
-                <h2 class="section-title">
-                Ed tech products we have worked on
-                </h2>
-                <a href="<?php echo $path; ?>projects.php">
-                    View All
-                </a>
-            </div>
-            <div class="engagement-modal-block section-margin">
-                <?php 
-                $limit = 2;
-
-                $selectedTag = 'Ed Tech';
-
-                include $path . include 'projects/project-listing.php'; ?>
-            </div>
-        </div>
-    </section>
 
     
 
@@ -194,10 +146,7 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- clients -- end  -->
 
-        <!-- testimonials  -->
-        <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
-
+    
 
     <section class="industry-experience section-padding">
         <div class="container">
@@ -259,100 +208,63 @@ include_once 'includes/tracking-functions.php';
 
     <section class="business-success section-padding">
         <div class="container">
-            <h2 class="section-title">
-                Our Services
-            </h2>
-            <div class="bs-card-section section-margin our-services">
+            <div class="d-flex justify-content-between align-items-end mb-4">
+                <h2 class="section-title">
+                    Our Services
+                </h2>
+                <button class="btn btn-custom " data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    Start your project
+                </button>
+            </div>
+            <div class="bs-card-section section-margin">
                 <div class="row justify-content-center">
                     <!-- Card 1 -->
-                    <div class="col-12 col-md-6 col-lg-6 pb-4">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/ux-design.svg" alt="ux" />
+                                <img src="assets/images/ux.svg" alt="ux" />
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
                             Shape tomorrow's digital experiences with our UX design services, crafting seamless interactions that align with your brand and business goals.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">User Journey Mapping</span>
-                                <span class="badge">Persona Development</span>
-                                <span class="badge">IA Validation</span>
-                                <span class="badge">Heuristic Evaluation</span>
-                                <span class="badge">User Research</span>
-                                <span class="badge">Wireframing</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
 
                     <!-- Card 2 -->
-                    <div class="col-12 col-md-6 col-lg-6 pb-4">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/product-design.svg" alt="ux" />
+                                <img src="assets/images/pd.svg" alt="pd" />
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
                             Revamp your product with our concise Product Design services, seamlessly blending innovative aesthetics and functionality for standout, user-centric solutions.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">Product Vision</span>
-                                <span class="badge">Product Research</span>
-                                <span class="badge">Structure Ideas</span>
-                                <span class="badge">Agile Design Sprints</span>
-                                <span class="badge">Rapid Prototyping</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Product Design" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
                     <!-- Card 3 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/ux-audit.svg" alt="ux" />
+                                <img src="assets/images/dt.svg" alt="dt" />
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
                             Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">Achieving Human-Centric UX Heuristic Evaluation</span>
-                                <span class="badge">Setting a Design Foundation </span>
-                                <span class="badge">Design Strategy Building</span>
-                                <span class="badge">Design Documentation</span>
-                                <span class="badge">UX and UI Mastery</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Digital Transformation" data-bs-toggle="modal"
-                                data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
                     <!-- Card 4 -->
-                    <div class="col-12 col-md-6 col-lg-6">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/services/ui-engineering.svg" alt="ux" />
+                                <img src="assets/images/fd.svg" alt="fd" />
                             </div>
                             <h4 class="title">UI Engineering</h4>
                             <p class="description">
                             Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
                             </p>
-                            <div class="project-tags mb-2">
-                                <span class="badge">Dev-Ready UI Transition</span>
-                                <span class="badge">Business Flow Validation</span>
-                                <span class="badge">Dynamic React Component Construction</span>
-                                <span class="badge">Crafting Interactive User Journeys</span>
-                            </div>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Frontend Development" data-bs-toggle="modal"
-                                data-bs-target="#registerModal">
-                                Hire Us
-                            </button>
                         </div>
                     </div>
                 </div>
@@ -360,6 +272,75 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
+    <section class="engagement-modal section-padding">
+        <div class="container">
+            <h2 class="section-title">
+            Recent Edtech Design Project
+            </h2>
+            <div class="engagement-modal-block section-margin">
+                <?php foreach ($events as $event) { ?>
+                <div class="project-block-item">
+                    <div class="row justify-content-center">
+                        <div class="col-12">
+                            <div class="project-card d-lg-flex">
+                                <div class="col-lg-6 p-0 project-image-container">
+                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
+                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
+                                        height="auto" />
+                                </div>
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <h2 class="project-title">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
+                                    <p class="project-description">
+                                        <?php echo $event['description']; ?>
+                                    </p>
+
+                                    <div class="pb-action-btn">
+                                        <button class="btn btn-custom">
+                                            Download Case Study
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <?php } ?>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-padding">
+        <div class="container">
+            <div class="blog-quote-block project-quote-block">
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-md-3">
+                        <div class="p-logo">
+                            <img src="<?php echo $path; ?>assets/images/clients/90plus-logo.svg" alt="mega" />
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="quote-icon"></div>
+                        <p class="blog-quote-text">The visual appeal and the new tutoring experience led us to overcome the usability issues and we’re very happy with the result the design team delivered.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+      <!-- demo-video  -->
+      <section class="demo-video section-padding">
+        <div class="container">
+            <h2 class="section-title">Our Process</h2>
+            <div class="video-container section-margin">
+                
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen style="border-radius: 0;"></iframe>
+            </div>
+        </div>
+    </section>
 
 
     <?php include $path.'components/hire-designers-engineers.php'; ?>

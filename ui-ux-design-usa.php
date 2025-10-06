@@ -274,7 +274,7 @@ include_once 'includes/tracking-functions.php';
                             <div class="icon-container">
                                 <img src="assets/images/fd.svg" alt="fd" />
                             </div>
-                            <h4 class="title">Frontend Development</h4>
+                            <h4 class="title">UI Engineering</h4>
                             <p class="description">
                             Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
                             </p>

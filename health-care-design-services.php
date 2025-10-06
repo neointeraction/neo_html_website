@@ -35,7 +35,38 @@ include_once 'includes/tracking-functions.php';
 
 <body>
     <?php $page='landing';
- 
+
+ $events = [
+    [
+        'title' => 'UX Design for Biomedical Reserach Platform',
+        'description' => 'A platform that focuses on managing biomedical data complexities amid advancements in technology',
+        'image' => 'projects/euclid/euclid-homepage-banner-listing.jpg',
+        'alt' => 'UX Design for Biomedical Reserach Platform',
+        'link' => 'euclid-biomedical-research-platform.php'
+    ],
+    [
+        'title' => 'Redesigning Tricogs AI Driven Healthcare Platform',
+        'description' => 'AI-driven predictive healthcare platform that improves heart failure patient care',
+        'image' => 'projects/ai-driven-healthcare/tricog-homepage-banner-listing.jpg',
+        'alt' => 'Redesigning Tricogs AI Driven Healthcare Platform',
+        'link' => 'ai-driven-healthcare-consultation-platform.php'
+    ]
+    ];
+
+   $clients = [
+    [
+        'name'=> 'Vidal',
+        'image'=> 'assets/images/clients/vidal-logo.png'
+    ],
+    [
+        'name'=> 'Lifesignals',
+        'image'=> 'assets/images/clients/lifesignals-logo.png'
+    ],
+    [
+        'name'=> 'Tricog',
+        'image'=> 'assets/images/clients/tricog-logo.png'
+    ]
+   ]
     ?>
     <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
@@ -57,7 +88,7 @@ include_once 'includes/tracking-functions.php';
                             </h1>
 
                             <div class="contact-info">
-                                <p class="banner-subtext">need content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content hereneed content here</p>
+                                <p class="banner-subtext">We create user-focused healthcare UX solutions that improve patient experiences and streamline digital interactions. Our UX/UI design and strategy deliver intuitive, effective, and impactful digital platforms.</p>
 
                             </div>
                         </div>
@@ -118,67 +149,7 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- banner -- end  -->
 
-    <section class="section-padding">
-        <div class="container">
-            <div class="contact-info">
-            <p class="banner-subtext">We are a top UX/UI design agency, collaborating with healthcare professionals to enhance user experiences in the healthcare industry. With a dedicated team of UX designers and frontend developers, we're passionate about improving healthcare industry by making data accessible to doctors and patients for life-saving interventions. Our mission is to empower Clinicians and stakeholders to elevate the holistic patient experience.
-            </p>
-    </div>
-        </div>
-    </section>
-
-
-
-
-    <section class="contact-section section-padding">
-        <div class="container">
-        <h4 class="project-section-title">Our Design Impact </h4>
-        <p class="body-text">Maximizing the Impact of Healthcare through UI/UX Best Practices, We Strive for Bringing Meaningful Change</p>
-            <div class="row w-100">
-                <div class="col-6 col-md-3 count-up-item">
-                    <h3 class="percent__total">10M</h3> 
-                    <p class="count-label">global lives impacted</p>
-                </div>
-                <div class="col-6 col-md-3 count-up-item">
-                    <h3 class="percent__total">550K+</h3>
-                    <p class="count-label">lives saved</p>
-                </div>
-                <div class="col-6 col-md-3 count-up-item">
-                    <h3 class="percent__total">5K+</h3>
-                    <p class="count-label">Implementation at hospitals and clinics
-                    </p>
-                </div>
-                <div class="col-6 col-md-3 count-up-item">
-                    <h3 class="percent__total">70Cr</h3>
-                    <p class="count-label">Funds raised from Omron and Sony
-                    </p>
-                </div>
-            </div>
-        </div>
-        </div>
-    </section>  
-
-
-    <section class="engagement-modal section-padding">
-        <div class="container">
-            <div class="project__header">
-                <h2 class="section-title">
-                Heathcare products we have worked on
-                </h2>
-                <a href="<?php echo $path; ?>projects.php">
-                    View All
-                </a>
-            </div>
-            <div class="engagement-modal-block section-margin">
-                <?php 
-                $limit = 2;
-
-                $selectedTag = 'Healthcare';
-
-                include $path . include 'projects/project-listing.php'; ?>
-            </div>
-        </div>
-    </section>
+ 
 
     
 
@@ -190,74 +161,24 @@ include_once 'includes/tracking-functions.php';
             </h2>
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
-                    <?php include 'components/clients.php'; ?>
+                <div class="client-logo-flex" aria-hidden="true">
+                    <?php foreach ($clients as $client) { ?>
+                        <div class="clf-item">
+                            <img src="<?php echo $path . $client['image']; ?>" alt="<?php echo $client['name']; ?>" width="auto" height="auto" />
+                        </div>
+                    <?php } ?>
+                </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- clients -- end  -->
 
-        <!-- testimonials  -->
-        <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
 
 
     <section class="industry-experience section-padding">
         <div class="container">
             <h2 class="section-title">Why Choose Us to Design Your Healthcare Product?</h2>
-            <p class="body-text">At Neointeraction Design, we understand that your healthcare product is the cornerstone of your business. That's why we're committed to delivering design solutions that not only meet but exceed your expectations. Here's why you should choose us to design your product:</p>
-            <div class="what-we-do-block section-margin">
-                <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/building.svg" alt="qa" />
-                            <h4 class="wwd-title">Quality Design</h4>
-                            <p class="wwd-text">With over 15 years of experience, we've established ourselves as a leader in the industry, delivering top-notch UX design solutions that drive success.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/chart.svg" alt="value" />
-                            <h4 class="wwd-title">Data-Driven Solutions</h4>
-                            <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we make is backed by research and analysis.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="optimise" />
-                            <h4 class="wwd-title">Your reliable UX/UI design partner</h4>
-                            <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to make sure we accelerate your product journey.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="data" />
-                            <h4 class="wwd-title">Exceptional Team</h4>
-                            <p class="wwd-text">Our team of designers and developers is among the best in the industry, with the skills and expertise to bring your vision to life.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="plane" />
-                            <h4 class="wwd-title">Proven Track Record</h4>
-                            <p class="wwd-text">We have a proven track record of success, with numerous satisfied clients across diverse domains.</p>
-                        </div>
-                    </div>
-
-                 
-
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-    <section class="industry-experience section-padding">
-        <div class="container">
-            <h2 class="section-title">Why Choose Us for Your Product?</h2>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
@@ -305,10 +226,132 @@ include_once 'includes/tracking-functions.php';
                         </div>
                     </div>
 
-                 
-
-
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="business-success section-padding">
+        <div class="container">
+            <div class="d-flex justify-content-between align-items-end mb-4">
+                <h2 class="section-title">
+                    Our Services
+                </h2>
+                <button class="btn btn-custom " data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    Start your project
+                </button>
+            </div>
+            <div class="bs-card-section section-margin">
+                <div class="row justify-content-center">
+                    <!-- Card 1 -->
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="custom-card">
+                            <div class="icon-container">
+                                <img src="assets/images/ux.svg" alt="ux" />
+                            </div>
+                            <h4 class="title">UX Design</h4>
+                            <p class="description">
+                            Shape tomorrow's digital experiences with our UX design services, crafting seamless interactions that align with your brand and business goals.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Card 2 -->
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="custom-card">
+                            <div class="icon-container">
+                                <img src="assets/images/pd.svg" alt="pd" />
+                            </div>
+                            <h4 class="title">Product Design</h4>
+                            <p class="description">
+                            Revamp your product with our concise Product Design services, seamlessly blending innovative aesthetics and functionality for standout, user-centric solutions.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Card 3 -->
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="custom-card">
+                            <div class="icon-container">
+                                <img src="assets/images/dt.svg" alt="dt" />
+                            </div>
+                            <h4 class="title">UX Audit</h4>
+                            <p class="description">
+                            Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Card 4 -->
+                    <div class="col-12 col-md-6 col-lg-3">
+                        <div class="custom-card">
+                            <div class="icon-container">
+                                <img src="assets/images/fd.svg" alt="fd" />
+                            </div>
+                            <h4 class="title">UI Engineering</h4>
+                            <p class="description">
+                            Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+        </div>
+    </section>
+
+
+    <section class="engagement-modal section-padding">
+        <div class="container"> 
+            <h2 class="section-title">
+            Recent Healthcare Design Projects
+            </h2>
+            <div class="engagement-modal-block section-margin">
+                <?php foreach ($events as $event) { ?>
+                <div class="project-block-item">
+                    <div class="row justify-content-center">
+                        <div class="col-12">
+                            <div class="project-card d-lg-flex">
+                                <div class="col-lg-6 p-0 project-image-container">
+                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
+                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
+                                        height="auto" />
+                                </div>
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <h2 class="project-title">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
+                                    <p class="project-description">
+                                        <?php echo $event['description']; ?>
+                                    </p>
+
+                                    <div class="pb-action-btn">
+                                        <button class="btn btn-custom">
+                                            Download Case Study
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <?php } ?>
+            </div>
+        </div>
+    </section>
+
+
+            <!-- testimonials  -->
+            <?php include 'components/testimonial.php'; ?>
+    <!-- testimonials -- end  -->
+
+
+      <!-- demo-video  -->
+      <section class="demo-video section-padding">
+        <div class="container">
+            <h2 class="section-title">Our Process</h2>
+            <div class="video-container section-margin">
+                
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen style="border-radius: 0;"></iframe>
             </div>
         </div>
     </section>
