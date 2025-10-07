@@ -152,28 +152,25 @@ include_once 'includes/tracking-functions.php';
 
  
 
-    
-
-    <!-- clients  -->
-    <section class="clients section-padding">
+     <!-- clients  -->
+     <section class="clients section-padding">
         <div class="container">
             <h2 class="section-title">
             Our Healthcare Clients
             </h2>
-            <div class="scroll-container section-margin">
-                <div class="scrolling-logos">
-                <div class="client-logo-flex" aria-hidden="true">
-                    <?php foreach ($clients as $client) { ?>
-                        <div class="clf-item">
-                            <img src="<?php echo $path . $client['image']; ?>" alt="<?php echo $client['name']; ?>" width="auto" height="auto" />
-                        </div>
-                    <?php } ?>
-                </div>
+            <div class="scroll-client-container section-margin">
+                <div class="d-flex flex-column flex-md-row scrolling-client-logos">
+                    <?php 
+                        $client_tag = 'healthcare';
+                    include 'components/clients.php'; ?>
                 </div>
             </div>
         </div>
     </section>
     <!-- clients -- end  -->
+    
+
+
 
 
 

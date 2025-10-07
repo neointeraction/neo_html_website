@@ -1783,4 +1783,7 @@ testimonial-card-detailed {
   background-image: url(../images/fd-lg-hover.svg);
 }
 
+.bs-button:hover .svg-arrow {
+  fill: #2B2828;
+}
 

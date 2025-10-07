@@ -443,6 +443,22 @@
   .navigation-footer > div > h4 {
     width: 200px;
   }
+
+  .scroll-client-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .scrolling-client-logos {
+    display: flex;
+    width: max-content; /* Ensure the flex container is wide enough */
+    animation: scroll-left 30s linear infinite; /* Adjust duration as needed */
+  }
+  
+  .scrolling-client-logos:hover {
+    animation-play-state: paused;
+  }
   
   
 }

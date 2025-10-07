@@ -132,15 +132,18 @@ include_once 'includes/tracking-functions.php';
 
     
 
-    <!-- clients  -->
-    <section class="clients section-padding">
+
+       <!-- clients  -->
+       <section class="clients section-padding">
         <div class="container">
             <h2 class="section-title">
             Clients we collaborated with
             </h2>
-            <div class="scroll-container section-margin">
-                <div class="scrolling-logos">
-                    <?php include 'components/clients.php'; ?>
+            <div class="scroll-client-container section-margin">
+                <div class="d-flex flex-column flex-md-row scrolling-client-logos">
+                    <?php 
+                        $client_tag = 'edtech';
+                    include 'components/clients.php'; ?>
                 </div>
             </div>
         </div>

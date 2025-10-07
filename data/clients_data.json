@@ -1,28 +1,33 @@
 [
     {
+        "name": "Mega we care",
+        "image": "assets/images/clients/mega-wecare.png",
+        "tags": ["all", "home"]
+    },
+    {
         "name": "ICICI",
         "image": "assets/images/clients/icici-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "fintech"]
     },
     {
         "name": "Geojit",
         "image": "assets/images/clients/geojit-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "fintech"]
     },
     {
         "name": "BNP Paribas",
         "image": "assets/images/clients/bnp-paribas-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "fintech"]
     },
     {
         "name": "Commercial Bank of Dubai",
         "image": "assets/images/clients/commercial-bank-of-dubai-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "fintech"]
     },
     {
         "name": "Clayfin",
         "image": "assets/images/clients/clayfin-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "fintech"]
     },
     {
         "name": "CBFS",
@@ -32,17 +37,17 @@
     {
         "name": "Brac Bank",
         "image": "assets/images/clients/brac-bank-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "fintech"]
     },
     {
         "name": "Qudos Bank",
         "image": "assets/images/clients/qudos-bank-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "fintech"]
     },
     {
         "name": "Funding Societies",
         "image": "assets/images/clients/funding-societies-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "fintech"]
     },
     {
         "name": "Bosch",
@@ -52,7 +57,7 @@
     {
         "name": "Inatech",
         "image": "assets/images/clients/inatech-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "fintech"]
     },
     {
         "name": "Vconstruct",
@@ -62,12 +67,12 @@
     {
         "name": "Vidal",
         "image": "assets/images/clients/vidal-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "healthcare"]
     },
     {
         "name": "Lifesignals",
         "image": "assets/images/clients/lifesignals-logo.png",
-        "tags": ["all", "home"]
+        "tags": ["all", "home", "healthcare"]
     },
     {
         "name": "Intertrust",
@@ -92,7 +97,7 @@
     {
         "name": "Tricog",
         "image": "assets/images/clients/tricog-logo.png",
-        "tags": ["all", "home","events"]
+        "tags": ["all", "home","events", "healthcare" ]
     },
     {
         "name": "Yokogawa",
@@ -158,5 +163,65 @@
         "name": "Zopsmart",
         "image": "assets/images/clients/zopsmart-logo.jpg",
         "tags": ["all", "events"]
+    },
+    {
+        "name": "Commercial Bank Financial Services",
+        "image": "assets/images/clients/uae/cbfs-logo.svg",
+        "tags": ["uae", "fintech"]
+    },
+    {
+        "name": "Commercial Bank of Dubai",
+        "image": "assets/images/clients/uae/commercial-bank-of-dubai-logo.svg",
+        "tags": ["uae"]
+    },
+    {
+        "name": "AlphaTech",
+        "image": "assets/images/clients/uae/alphatech-logo.svg",
+        "tags": ["uae"]
+    },
+    {
+        "name": "Hassan",
+        "image": "assets/images/clients/uae/hassan-logo.svg",
+        "tags": ["uae"]
+    },
+    {
+        "name": "Alpha Capital",
+        "image": "assets/images/clients/uae/alpha-capital-logo.svg",
+        "tags": ["uae"]
+    },
+    {
+        "name": "Avimall",
+        "image": "assets/images/clients/uae/avimall-logo.svg",
+        "tags": ["uae"]
+    },
+    {
+        "name": "CS Computer",
+        "image": "assets/images/clients/uae/cse-logo.svg",
+        "tags": ["uae"]
+    },
+    {
+        "name": "90 plus",
+        "image": "assets/images/projects/client-logos/90-logo.svg",
+        "tags": ["edtech"]
+    },
+    {
+        "name": "IIHT",
+        "image": "assets/images/clients/iiht-logo.svg",
+        "tags": ["edtech"]
+    },
+    {
+        "name": "90 plus",
+        "image": "assets/images/clients/evo11ve-logo.svg",
+        "tags": ["edtech"]
+    },
+    {
+        "name": "Medugo",
+        "image": "assets/images/clients/medugo-logo.svg",
+        "tags": ["healthcare"]
+    },
+    {
+        "name": "Dr Queues",
+        "image": "assets/images/clients/drq-logo.svg",
+        "tags": ["healthcare"]
     }
 ]

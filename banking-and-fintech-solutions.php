@@ -147,7 +147,9 @@ include_once 'includes/tracking-functions.php';
             </h2>
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
-                    <?php include 'components/clients.php'; ?>
+                    <?php 
+                      $client_tag = 'fintech';
+                    include 'components/clients.php'; ?>
                 </div>
             </div>
         </div>
