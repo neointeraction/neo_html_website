@@ -15,11 +15,12 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
     <?php include $path.'includes/head-additional-scripts.php'; ?>
-    <title>Healthcare Design India | Health care design services | Neointeraction Design </title>
-  <meta name="description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design  solutions."/>
+    <title>Healthcare Design India | Health care design services | Neointeraction Design</title>
+  <meta name="description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions."/>
+  <meta name="keywords" content="Healthcare Design India, Health care design services" />
   <link rel="canonical" href="https://www.neointeraction.com/health-care-design-services"/>
   <meta property="og:title" content="Best Healthcare Design India | Neointeraction Design | Contact Us"/>
-  <meta property="og:description" content="Expert Healthcare UX Design in India: Pioneering solutions for modern medical facilities. Get in touch for optimal solutions."/>
+  <meta property="og:description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions."/>
   <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
@@ -28,8 +29,8 @@ include_once 'includes/tracking-functions.php';
   <meta property="og:type" content="website"/>
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Best Healthcare Design India | Neointeraction Design | Contact Us"/>
-  <meta name="twitter:description" content="Expert Healthcare UX Design in India: Pioneering solutions for modern medical facilities. Get in touch for optimal solutions."/>
+  <meta name="twitter:title" content="Healthcare Design India | Health care design services | Neointeraction Design"/>
+  <meta name="twitter:description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions."/>
   <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
 </head>
 

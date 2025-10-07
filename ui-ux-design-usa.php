@@ -16,7 +16,8 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/css.php'; ?>
     <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Best UI UX agency in USA | UI UX Services | Neointeraction Design</title>
-  <meta name="description" content="Leading UI UX agency in USA offering top UI UX services. Boost user experiences with our innovative design solutions. Contact us for expert  services."/>
+  <meta name="description" content="Leading UI UX agency in USA offering top UI UX services. Boost user experiences with our innovative design solutions. Contact us for expert services."/>
+  <meta name="keywords" content="UI UX agency in USA, UI UX Services"/>
   <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-usa"/>
   <meta property="og:title" content="Contact Neointeraction Design | Top UI/UX Agency in the USA | Expert UI/UX Services"/>
   <meta property="og:description" content="Transforming digital landscapes, our UI UX agency in USA delivers best design solutions for you. Contact us today!"/>

@@ -15,11 +15,12 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
     <?php include $path.'includes/head-additional-scripts.php'; ?>
-    <title>Edtech Design services in India | Edtech company | Neointeraction Design </title>
+    <title>Edtech Design services in India | Edtech company | Neointeraction Design</title>
   <meta name="description" content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions."/>
+  <meta name="keywords" content="best Edtech UX/UI design services in India, Edtech design company" />
   <link rel="canonical" href="https://www.neointeraction.com/edtech-design-services"/>
-  <meta property="og:title" content="Best Edtech design services in India |  Neointeraction Design | Contact now"/>
-  <meta property="og:description" content="Looking for top Edtech design services in India? Neointeraction Design stands out as one of the best Edtech companies in the country, providing expert solutions tailored to your needs."/>
+  <meta property="og:title" content="Edtech Design services in India | Edtech company | Neointeraction Design"/>
+  <meta property="og:description" content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions."/>
   <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
@@ -28,8 +29,8 @@ include_once 'includes/tracking-functions.php';
   <meta property="og:type" content="website"/>
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Best Edtech design services in India |  Neointeraction Design | Contact now"/>
-  <meta name="twitter:description" content="Looking for top Edtech design services in India? Neointeraction Design stands out as one of the best Edtech companies in the country, providing expert solutions tailored to your needs."/>
+  <meta name="twitter:title" content="Edtech Design services in India | Edtech company | Neointeraction Design"/>
+  <meta name="twitter:description" content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions."/>
   <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
 </head>
 

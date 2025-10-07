@@ -15,10 +15,9 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
     <?php include $path.'includes/head-additional-scripts.php'; ?>
-    <title>Best UI UX agency in UAE | Neointeraction Design | Contact Us</title>
-    <meta name="description"
-        content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
-    <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
+    <title>Best UI UX agency in UAE | UI UX Services | Neointeraction Design</title>
+    <meta name="description" content="Neointeraction, a leading UI UX agency in the UAE, delivers expert UI UX services to improve user experiences and drive engagement with our expert design solutions." />
+    <meta name="keywords" content="UI UX agency in UAE, UI UX Services" />
     <link rel="canonical" href="https://www.neointeraction.com/blog" />
     <meta property="og:title" content="Expert UX Design Audit in UAE | Neointeraction Design | Contact Us" />
     <meta property="og:description"

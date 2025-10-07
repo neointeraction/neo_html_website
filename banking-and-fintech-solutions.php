@@ -17,9 +17,10 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design</title>
   <meta name="description" content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design."/>
+  <meta name="keywords" content="UX/UI design, Banking and Fintech Solutions India" />
   <link rel="canonical" href="https://www.neointeraction.com/banking-and-fintech-solutions"/>
-  <meta property="og:title" content="Contact Neointeraction Design | Banking and Fintech Solutions India | Fintech banking solutions "/>
-  <meta property="og:description" content="Discover innovative Banking and Fintech Solutions in India with NeoInteraction Design. Reshaping the landscape with cutting-edge UX/UI design expertise."/>
+  <meta property="og:title" content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design"/>
+  <meta property="og:description" content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design."/>
   <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
@@ -28,8 +29,8 @@ include_once 'includes/tracking-functions.php';
   <meta property="og:type" content="website"/>
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Contact Neointeraction Design | Banking and Fintech Solutions India | Fintech banking solutions "/>
-  <meta name="twitter:description" content="Discover innovative Banking and Fintech Solutions in India with NeoInteraction Design. Reshaping the landscape with cutting-edge UX/UI design expertise."/>
+  <meta name="twitter:title" content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design"/>
+  <meta name="twitter:description" content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design."/>
   <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
 </head>
 
