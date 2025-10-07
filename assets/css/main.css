@@ -1726,12 +1726,12 @@ testimonial-card-detailed {
 }
 
 .quote-icon-right {
-  height: 40px;
+  height: 80px;
   background-image: url(../images/quote.svg);
   background-position: 0;
   background-repeat: no-repeat;
   transform: scaleX(-1);
-  width: 100px;
+  width: 100%;
 }
 
 .ux-design-img {

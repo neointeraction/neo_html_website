@@ -2,7 +2,8 @@
   {
     "title": "Mobility Paltform for Crew Ship workforce management",
     "description": "Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information",
-    "image": "crew-mobility-management-in-a-cruise/crew-mobility-management-listing.jpg",
+    "image": "crew-mobility-management-in-a-cruise/crew-mobility-management.jpg",
+    "mobileImage": "crew-mobility-management-in-a-cruise/crew-mobility-management-listing.jpg",
     "alt": "Crew Mobility Management in a Cruise",
     "tags": ["Mobile Design", "Travel & Hospitality"],
     "link": "crew-mobility-management-in-a-cruise.php",
@@ -11,7 +12,8 @@
   {
     "title": "Redesigning Noctils Music Rights Management solution",
     "description": "An advanced tech solution optimizes collection, distribution for Rights Management Organizations, minimizing costs.",
-    "image": "music-rights-management-solution/noctil-homepage-banner-listing.jpg",
+    "image": "music-rights-management-solution/noctil-homepage-banner.jpg",
+    "mobileImage": "music-rights-management-solution/noctil-homepage-banner-listing.jpg",
     "alt": "Music Rights Management Solution",
     "tags": ["Enterprise Apps"],
     "link": "music-rights-management-solution.php",
@@ -20,7 +22,8 @@
   {
     "title": "Intertrust - A BPM Application",
     "description": "A BPM application/product revamped for enhanced user-friendliness & its vital role in improving organizational processes.",
-    "image": "intertrust-bpm/intertrust-bpm-homepage-banner-listing.jpg",
+    "image": "intertrust-bpm/intertrust-bpm-tool.jpg",
+    "mobileImage": "intertrust-bpm/intertrust-bpm-homepage-banner-listing.jpg",
     "alt": "Intertrust BPM Tool",
     "tags": ["Enterprise Apps", "BPM"],
     "link": "intertrust-bpm-tool.php",
@@ -29,7 +32,8 @@
   {
     "title": "Inkmagik - A Graphic Design Software",
     "description": "An all in one easy to use graphics design tool for individuals and businesses",
-    "image": "inkmagik/inkmagik-project-banner-listing.jpg",
+    "image": "inkmagik/inkmagik-graphic-design-tool.jpeg",
+    "mobileImage": "inkmagik/inkmagik-project-banner-listing.jpg",
     "alt": "Inkmagik - A Graphic Design Tool",
     "tags": ["Start-up Projects", "B2C"],
     "link": "inkmagik-graphic-design-tool.php",
@@ -38,7 +42,8 @@
   {
     "title": "Redesigning Cattle Tracking & Management solution",
     "description": "Revolutionizing cattle farm management by streamlining tasks, promoting healthier livestock, and increasing profitability.",
-    "image": "cattle-tracking/herdx-project-homepage-banner-listing.jpg",
+    "image": "cattle-tracking/herdx-project-homepage-banner.jpg",
+    "mobileImage": "cattle-tracking/herdx-project-homepage-banner-listing.jpg",
     "alt": "Cattle Tracking & Management solution",
     "tags": ["IOT", "B2B"],
     "link": "cattle-tracking-management-solution.php",
@@ -47,7 +52,8 @@
   {
     "title": "UX Design for Biomedical Reserach Platform",
     "description": "A platform that focuses on managing biomedical data complexities amid advancements in technology",
-    "image": "euclid/euclid-homepage-banner-listing.jpg",
+    "image": "euclid/euclid-biomedical-research-platform.jpeg",
+    "mobileImage": "euclid/euclid-homepage-banner-listing.jpg",
     "alt": "Euclid - A biomedical Research platform",
     "tags": ["Start-up Projects", "Healthcare"],
     "link": "euclid-biomedical-research-platform.php",
@@ -56,7 +62,8 @@
   {
     "title": "Healtcare ERP System Boost for Cashless TPA",
     "description": "Revamping UX for TPA claims across 600 teams, prioritizing cashless simplicity and efficiency via TIPS.",
-    "image": "vidal-cashless-tpa/vidal-homepage-banner-listing.jpg",
+    "image": "vidal-cashless-tpa/vidal-homepage-banner.jpeg",
+    "mobileImage": "vidal-cashless-tpa/vidal-homepage-banner-listing.jpg",
     "alt": "Claiming Efficiency - UX Boost for Cashless TPA",
     "tags": ["Healthcare", "B2B"],
     "link": "vidal-cashless-tpa.php",
@@ -65,7 +72,8 @@
   {
     "title": "90+ Tuition App - Online Tutoring Platform",
     "description": "Enhancing the usability of a platform that delivers tuition to your doorstep for easy learning",
-    "image": "online-tutoring-app/tutoring-platform-homepage-banner-listing.jpg",
+    "image": "online-tutoring-app/tutoring-platform-homepage-banner.jpeg",
+    "mobileImage": "online-tutoring-app/tutoring-platform-homepage-banner-listing.jpg",
     "alt": "Online Tutoring Platform",
     "tags": ["Mobile Design", "Start-up Projects", "Ed Tech"],
     "link": "online-tutoring-platform.php",
@@ -74,7 +82,8 @@
   {
     "title": "Share Trading platform redesign",
     "description": "Trading platform revamped to offer users a unified experience accessible across devices",
-    "image": "share-trading-platform/geogit-homepage-banner-listing.jpg",
+    "image": "share-trading-platform/geogit-homepage-banner.jpeg",
+    "mobileImage": "share-trading-platform/geogit-homepage-banner-listing.jpg",
     "alt": "Share Trading Platform",
     "tags": ["Fintech", "Capital Market"],
     "link": "share-trading-platform.php",
@@ -84,7 +93,8 @@
   {
     "title": "Intertrust Navigate- Fund operations platform",
     "description": "A platform enabling employees to monitor and track the company's fund-related operations",
-    "image": "intertrust-navigate/intertrust-navigate-homepage-banner-listing.jpg",
+    "image": "intertrust-navigate/intertrust-navigate-homepage-banner.jpeg",
+    "mobileImage": "intertrust-navigate/intertrust-navigate-homepage-banner-listing.jpg",
     "alt": "Intertrust Navigate",
     "tags": ["Enterprise Apps", "Fintech"],
     "link": "intertrust-navigate.php",
@@ -93,7 +103,8 @@
   {
     "title": "Redesign Digital banking platform for Commercial Bank of Dubai",
     "description": "Creating a user friendly modern banking platform for young professionals, expats, and native youth",
-    "image": "dubai-banking/dubai-bank-homepage-banner-listing.jpg",
+    "image": "dubai-banking/dubai-bank-homepage-banner.jpeg",
+    "mobileImage": "dubai-banking/dubai-bank-homepage-banner-listing.jpg",
     "alt": "Revolutionizing Banking Experiences",
     "tags": ["Fintech", "B2C"],
     "link": "revolutionizing-banking-experiences.php",
@@ -102,7 +113,8 @@
   {
     "title": "Redesigning Tricogs AI Driven Healthcare Platform",
     "description": "AI-driven predictive healthcare platform that improves heart failure patient care",
-    "image": "ai-driven-healthcare/tricog-homepage-banner-listing.jpg",
+    "image": "ai-driven-healthcare/tricog-homepage-banner.jpeg",
+    "mobileImage": "ai-driven-healthcare/tricog-homepage-banner-listing.jpg",
     "alt": "AI Driven Healthcare Consultation Platform",
     "tags": ["Healthcare"],
     "link": "ai-driven-healthcare-consultation-platform.php",
@@ -111,7 +123,8 @@
   {
     "title": "Redesign for Player transfer System",
     "description": "The Player Transfer System redesign that streamlines player movements between FIFA accredited clubs",
-    "image": "player-transfer/player-transfer-system-homepage-banner-listing.jpg",
+    "image": "player-transfer/player-transfer-system-homepage-banner.jpeg",
+    "mobileImage": "player-transfer/player-transfer-system-homepage-banner-listing.jpg",
     "alt": "Player Transfer System",
     "tags": ["Enterprise Apps", "B2B"],
     "link": "player-transfer-system.php",
@@ -120,7 +133,8 @@
   {
     "title": "ESG Management Platform",
     "description": "A platform to manage Environmental, Social, and Governance (ESG) initiatives and reporting.",
-    "image": "esg-management/digital-blanket-homepage-banner-listing.jpg",
+    "image": "esg-management/digital-blanket-homepage-banner.jpeg",
+    "mobileImage": "esg-management/digital-blanket-homepage-banner-listing.jpg",
     "alt": "ESG Management Platform",
     "tags": ["Enterprise Apps", "B2B"],
     "link": "esg-management-platform.php",
@@ -129,7 +143,8 @@
   {
     "title": "Digital Experience in Health & Wellness",
     "description": "Enhancing user experience for digital health and wellness platforms.",
-    "image": "digital-experience/mega-we-care-homepage-banner-listing.jpg",
+    "image": "digital-experience/mega-we-care-homepage-banner.jpeg",
+    "mobileImage": "digital-experience/mega-we-care-homepage-banner-listing.jpg",
     "alt": "Digital Experience in Health & Wellness",
     "tags": ["Healthcare", "B2C"],
     "link": "digital-health-wellness.php",
@@ -138,7 +153,8 @@
   {
     "title": "Employee Transportation Platform",
     "description": "A platform to manage and optimize employee transportation services.",
-    "image": "etravelmate-travel/etravelmate-homepage-banner-listing.jpg",
+    "image": "etravelmate-travel/etravelmate-homepage-banner.jpg",
+    "mobileImage": "etravelmate-travel/etravelmate-homepage-banner-listing.jpg",
     "alt": "Employee Transportation Platform",
     "tags": ["Enterprise Apps", "B2B"],
     "link": "employee-transportation-platform.php",
@@ -147,7 +163,8 @@
   {
     "title": "Startup Accelerator Website",
     "description": "A website for a startup accelerator program, showcasing startups and program details.",
-    "image": "startup-accelerator/india-accelerator-homepage-banner-listing.jpg",
+    "image": "startup-accelerator/india-accelerator-homepage-banner.jpeg",
+    "mobileImage": "startup-accelerator/india-accelerator-homepage-banner-listing.jpg",
     "alt": "Startup Accelerator Website",
     "tags": ["Start-up Projects", "B2C"],
     "link": "startup-accelerator-website.php",
@@ -156,7 +173,8 @@
   {
     "title": "Construction Management Platform",
     "description": "A platform for managing construction projects, from planning to execution.",
-    "image": "construction-management/construction-management-listing.jpg",
+    "image": "construction-management/construction-management-main.jpeg",
+    "mobileImage": "construction-management/construction-management-listing.jpg",
     "alt": "Construction Management Platform",
     "tags": ["Enterprise Apps", "B2B"],
     "link": "construction-management-platform.php",

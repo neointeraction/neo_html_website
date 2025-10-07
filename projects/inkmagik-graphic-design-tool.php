@@ -73,8 +73,8 @@
                 <div class="blog-quote-block project-quote-block">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
-                            <div class="p-logo d-flex align-items-center justify-content-between">
-                                <img src="<?php echo $path; ?>assets/images/clients/inkmagic-logo.png" alt="tricog" />
+                            <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/inkmagik-logo.svg" alt="tricog" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>

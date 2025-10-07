@@ -71,8 +71,8 @@
                 <div class="blog-quote-block project-quote-block">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
-                            <div class="p-logo d-flex align-items-center justify-content-between">
-                                <img src="<?php echo $path; ?>assets/images/clients/carnival-logo.png" alt="carnival" />
+                            <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/carnival-logo.svg" alt="carnival" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>

@@ -35,7 +35,13 @@
                   <img
                     src="<?php echo $path; ?>assets/images/projects/<?php echo $project['image']; ?>"
                     alt="<?php echo $project['alt']; ?>"
-                    class="img-fluid project-image" 
+                    class="img-fluid project-image d-none d-md-block" 
+                     width="584px"
+                    height="280px"/>
+                  <img
+                    src="<?php echo $path; ?>assets/images/projects/<?php echo $project['mobileImage']; ?>"
+                    alt="<?php echo $project['alt']; ?>"
+                    class="img-fluid project-image d-flex d-md-none" 
                      width="584px"
                     height="280px"/>
                 </div>
@@ -63,15 +69,52 @@
         </div>
       
 <?php
-  }
+  
     $projectCount++;
     if ($projectCount % 3 === 0) { // Insert after every 4 projects
       // include $path . 'components/submit-enquiry.php';
         $title = "Start Your Consultation";
         $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
-       include $path.'components/hire-designers-engineers.php';
+        $buttonName = "Request a Quote";
+  ?>
+
+
+<section class="section-padding ">
+    <div class="container">
+      <div class="row ui-card hire-engineers">
+        <!-- Image Column -->
+        <div class="col-md-6  img-container d-none d-md-block">
+
+          <img src="<?php echo $path; ?>assets/images/bs-img.webp" alt="Hire Designers/Front-end Engineers" class="img-fluid">
+          
+        </div>
+
+        <!-- Text and Button Column -->
+        <div class="col-md-6 ">
+          <h2 class="bs-title"><?php echo $title; ?></h2>
+          <p class="bs-text">
+          <?php echo $desc; ?>
+          </p>
+  
+          <button class="btn btn-custom btn-custom-secondary bs-button request-quote-btn" data-bs-toggle="modal" data-bs-target="#registerModal" data-service="<?php echo $buttonName; ?>" onclick="setEnquiryType(<?php echo $buttonName; ?>)">
+            <?php echo $buttonName; ?>
+          </button>
+
+          <script>
+            function setEnquiryType(enquiryType) {
+              localStorage.setItem('enquiryType', enquiryType);
+            }
+          </script>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<?php
     }
 
                     
-  
+  }
 ?>
+
+<?php include $path . 'components/registration-modal.php'; ?>
