@@ -187,3 +187,24 @@
         </div>
     </div>
 </div>
+<div class="project-block-item">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="project-card d-lg-flex">
+                <div class="col-lg-6 p-0 project-image-container">
+                    <img
+                        src="assets/images/life-at-neo/team-trip.jpg"
+                        alt="Team Trip"
+                        class="img-fluid project-image" />
+                </div>
+                <div
+                    class="col-lg-6 d-flex flex-column  project-content">
+                    <h2 class="project-title">Team Trip</h2>
+                    <p class="project-description">
+                        Stepping outside the office to recharge, bond, and create lasting memories that inspire stronger teamwork and fresh perspectives.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
