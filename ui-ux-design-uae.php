@@ -42,7 +42,8 @@ include_once 'includes/tracking-functions.php';
     [
         'title' => 'Commercial Bank of Dubai',
         'description' => 'Redesign for Commercial and Retail Bank in the Middle East to reach new customers with improved experience design.',
-        'image' => 'projects/dubai-banking/dubai-bank-homepage-banner-listing.jpg',
+        'mobileImage' => 'projects/dubai-banking/dubai-bank-homepage-banner-listing.jpg',
+        'image' => 'projects/dubai-banking/dubai-bank-homepage-banner.jpeg',
         'alt' => 'Commercial Bank of Dubai',
         'link' => 'revolutionizing-banking-experiences.php'
     ]]
@@ -135,7 +136,7 @@ include_once 'includes/tracking-functions.php';
             Middle east Clients we’ve partnered with
             </h2>
             <div class="scroll-client-container section-margin">
-                <div class="d-flex flex-column flex-md-row scrolling-client-logos">
+                <div class="d-flex flex-column  scrolling-client-logos justify-content-between">
                     <?php 
                         $client_tag = 'uae';
                     include 'components/clients.php'; ?>
@@ -293,7 +294,10 @@ include_once 'includes/tracking-functions.php';
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
-                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
+                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image d-none d-md-block" width="100%"
+                                        height="auto" />
+                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['mobileImage']; ?>"
+                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image d-flex d-md-none" width="100%"
                                         height="auto" />
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
@@ -304,7 +308,7 @@ include_once 'includes/tracking-functions.php';
                                         <?php echo $event['description']; ?>
                                     </p>
 
-                                    <div class="pb-action-btn">
+                                    <div class="pb-action-btn mt-2">
                                         <button class="btn btn-custom">
                                             Download Case Study
                                         </button>

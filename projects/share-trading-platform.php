@@ -228,6 +228,16 @@
               </div>
 
               <!-- Card 4 -->
+              <div
+                class="col-12 col-md-6 col-lg-3">
+                <div class="custom-card case-study-card">
+                  <h4 class="title">Consistent Multi-Device Experience</h4>
+                  <p class="description">
+                  The unified design allowed users to have a smooth and reliable trading experience across web and mobile platforms, making it easier to manage portfolios and place trades from any device.
+                  </p>
+
+                </div>
+              </div>
              
             </div>
           </div>

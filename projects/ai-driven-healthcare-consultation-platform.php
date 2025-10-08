@@ -252,6 +252,24 @@
                                     </p>
                                 </div>
                             </div>
+
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card case-study-card">
+                                    <h4 class="title">Improved Patient Monitoring</h4>
+                                    <p class="description">
+                                    The design allowed cardiologists to quickly access and interpret patient data, enabling timely interventions and better management of heart failure cases.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card case-study-card">
+                                    <h4 class="title">Intuitive Data Visualization</h4>
+                                    <p class="description">
+                                    Complex medical data was presented in a clear, visual format, helping doctors make informed decisions faster and reducing cognitive load during patient care.
+                                    </p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

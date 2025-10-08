@@ -184,6 +184,15 @@
                             </div>
                             <!-- Card 4 -->
 
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <h4 class="title">Interactive Data Visualization</h4>
+                                    <p class="description">
+                                    We introduced interactive dashboards and visual elements that allowed users to explore biomedical data intuitively, making complex relationships easier to comprehend.
+                                    </p>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>

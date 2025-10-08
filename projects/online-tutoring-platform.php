@@ -169,6 +169,14 @@
                                 </div>
                             </div>
                             <!-- Card 4 -->
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <h4 class="title">Prototype Testing and Feedback Loop</h4>
+                                    <p class="description">
+                                    We created interactive prototypes and conducted usability testing sessions with real users, gathering feedback to refine design elements and ensure the final solution met user expectations.
+                                    </p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -244,7 +244,7 @@
                     </div>
                 </div>
                 <div class="ui-update project-section-padding">
-                    <p class="project-body-text">during the Prototyping and development handoff, we provided structured documentation, interactive prototypes, and regular design reviews to ensure seamless implementation.</p>
+                    <p class="project-body-text">During the Prototyping and development handoff, we provided structured documentation, interactive prototypes, and regular design reviews to ensure seamless implementation.</p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui-2.jpg"
                             alt="construction-management-website-ui" />

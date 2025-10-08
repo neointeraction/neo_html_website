@@ -71,7 +71,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left">
                             <h1 class="banner-title">
-                            Transform Your <br> Product with Expert<br/> <span class="highlight">Front End Development Services in India</span>
+                            Transform Your <br> Product with Expert<br/> <span class="highlight">Front End <br/> Development Services in India</span>
                             </h1>
 
                             <div class="contact-info">
@@ -358,7 +358,7 @@ include_once 'includes/tracking-functions.php';
                                         <?php echo $event['description']; ?>
                                     </p>
 
-                                    <div class="pb-action-btn">
+                                    <div class="pb-action-btn mt-2">
                                         <button class="btn btn-custom">
                                             Download Case Study
                                         </button>
@@ -387,10 +387,10 @@ include_once 'includes/tracking-functions.php';
       <!-- demo-video  -->
       <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Showcase Reel</h2>
+            <h2 class="section-title">Our Process</h2>
             <div class="video-container section-margin">
                 
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/d_rEmpCVHAI?si=ZPQ5SxsTSvOkJsIW" title="YouTube video player" frameborder="0"
+                <iframe width="100%" height="650" src="" title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
                     allowfullscreen style="border-radius: 0;"></iframe>
             </div>

@@ -253,6 +253,18 @@
                                 </div>
                             </div>
 
+                               <!-- Card 3 -->
+                               <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card case-study-card">
+                                    <h4 class="title">Better Engagement and Efficiency</h4>
+                                    <p class="description">
+                                    By simplifying key interactions and making navigation intuitive, the redesigned app encouraged active participation among crew members and improved overall efficiency in completing their daily tasks.
+
+                                    </p>
+
+                                </div>
+                            </div>
+
                         </div>
                     </div>
 

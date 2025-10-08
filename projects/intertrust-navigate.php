@@ -178,6 +178,14 @@
                                 </div>
                             </div>
                             <!-- Card 4 -->
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <h4 class="title">User Testing and Iterative Feedback</h4>
+                                    <p class="description">
+                                    We conducted multiple rounds of testing with users, gathering feedback to refine UI elements and workflows, ensuring the platform met real-world user needs efficiently.
+                                    </p>
+                                </div>
+                            </div>
 
                         </div>
                     </div>

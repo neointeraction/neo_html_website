@@ -152,6 +152,18 @@
             </div>
           </div>
         </div>
+
+        <div class="solutions-help project-section-padding">
+          <div class="title-flex">
+            <h2 class="project-section-title">
+            Our Approach
+            </h2>
+          </div>
+          <p class="project-body-text">
+          We began with UX research, platform audits, and stakeholder walkthroughs to understand user roles, workflows, and existing pain points across the current system. Based on these insights, we defined functionality aligned with each user role, mapped user journeys, and moved into the Wireframing phase—exploring layout options and key flows for modules like Incident Management, Tenant Management, and Scheduler.
+          </p>
+          <p class="project-body-text">Once the structure was validated, we moved to high-fidelity Prototyping to simulate real-time monitoring and task flows, allowing stakeholders to validate functionality early. The User Experience Design focused on clarity, hierarchy, and presenting layered IoT and AI data in an approachable manner.</p>
+</div>
      
         <!-- solutions-help section -->
         <div class="solutions-help project-section-padding">
@@ -208,10 +220,7 @@
         </div>
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
-          <h4 class="project-section-title">Our Approach </h4>
-          <p class="project-body-text">We began with UX research, platform audits, and stakeholder walkthroughs to understand user roles, workflows, and existing pain points across the current system. Based on these insights, we defined functionality aligned with each user role, mapped user journeys, and moved into the Wireframing phase—exploring layout options and key flows for modules like Incident Management, Tenant Management, and Scheduler.</p>
-
-          <p class="project-body-text">Once the structure was validated, we moved to high-fidelity Prototyping to simulate real-time monitoring and task flows, allowing stakeholders to validate functionality early. The User Experience Design focused on clarity, hierarchy, and presenting layered IoT and AI data in an approachable manner.</p>
+        
 
 
           <div class="bs-img">

@@ -223,6 +223,24 @@
                                 </div>
                             </div>
 
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card case-study-card">
+                                    <h4 class="title">Improved Stakeholder Engagement</h4>
+                                    <p class="description">
+                                    The platform addressed the specific needs of founders, investors, and mentors, encouraging active participation and interactions across all user groups.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card case-study-card">
+                                    <h4 class="title">Clear Conversion Paths</h4>
+                                    <p class="description">
+                                    Well-placed CTAs and simplified user flows made it easier for startups to apply for programs and for investors to explore opportunities, increasing successful conversions.
+                                    </p>
+                                </div>
+                            </div>
+
                            
                         </div>
                     </div>

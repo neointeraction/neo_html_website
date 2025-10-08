@@ -295,7 +295,7 @@ include_once 'includes/tracking-functions.php';
                                         <?php echo $event['description']; ?>
                                     </p>
 
-                                    <div class="pb-action-btn">
+                                    <div class="pb-action-btn mt-2">
                                         <button class="btn btn-custom">
                                             Download Case Study
                                         </button>

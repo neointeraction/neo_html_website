@@ -51,7 +51,7 @@ include_once 'includes/tracking-functions.php';
     [
         'title' => 'Mobility Paltform for Crew Ship workforce management',
         'description' => 'Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information',
-        'image' => 'projects/dubai-banking/dubai-bank-homepage-banner-listing.jpg',
+        'image' => 'projects/crew-mobility-management-in-a-cruise/crew-mobility-management-listing.jpg',
         'alt' => 'Mobility Paltform for Crew Ship workforce management',
         'link' => 'crew-mobility-management-in-a-cruise.php'
     ]
@@ -357,7 +357,7 @@ include_once 'includes/tracking-functions.php';
                                         <?php echo $event['description']; ?>
                                     </p>
 
-                                    <div class="pb-action-btn">
+                                    <div class="pb-action-btn mt-2">
                                         <button class="btn btn-custom">
                                             Download Case Study
                                         </button>

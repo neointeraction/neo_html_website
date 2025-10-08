@@ -151,6 +151,24 @@
                                 </div>
                             </div>
 
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <h4 class="title">Data-Driven Insights</h4>
+                                    <p class="description">
+                                    We implemented analytics tools to monitor user behavior, providing actionable insights that guided further UX improvements and informed future design decisions.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <h4 class="title">Interactive Prototyping</h4>
+                                    <p class="description">
+                                    We created interactive prototypes to test new layouts, navigation flows, and content strategies before implementation, ensuring changes effectively meet user needs.
+                                    </p>
+                                </div>
+                            </div>
+
 
                         </div>
                     </div>
