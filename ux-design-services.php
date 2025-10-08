@@ -86,7 +86,7 @@ include_once 'includes/tracking-functions.php';
                     <!-- Right Side -->
                     <div class="col-lg-6">
                         <div class="contact-right">
-                            <h2 class="form-title">Connect with our Experts</h2>
+                            <h2 class="form-title">UX Design Enquiry</h2>
 
 
                             <form id="contactForm">
