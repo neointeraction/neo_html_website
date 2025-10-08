@@ -1,6 +1,13 @@
 {
   "featured_blog_slug": "effective-communication-with-clients-and-5-ways-to-improve-it",
   "blog_metadata": {
+
+   
+
+
+
+
+
     "effective-communication-with-clients-and-5-ways-to-improve-it": {
       "title": "Effective Communication with clients and 5 ways to improve it", 
       "author": "Sahla Feroc",
@@ -274,6 +281,30 @@
       "image": "assets/images/blog/netflix-s-data-driven/image1.jpg",
       "alt": "Netflix's Data-Driven UI UX: A Catalyst for Business Growth"
     },
+    "takeaways-from-our-1-day-workshop-on-micro-frontend-architecture": {
+      "title": "Takeaways from our 1 Day Workshop on Micro Frontend Architecture", 
+      "author": "Liya Theresa Siby",
+      "date": "15 July, 2024",
+      "image": "assets/images/blog/takeaways-from-our-1-day/image1.jpg",
+      "alt": "Takeaways from our 1 Day Workshop on Micro Frontend Architecture"
+    },
+
+    "how-to-make-guaranteed-success-with-design-as-a-service": {
+      "title": "How To Make Guaranteed Success With Design As A Service", 
+      "author": "Sahla Feroc",
+      "date": "13 Nov, 2024",
+      "image": "assets/images/blog/how-to-make-guaranteed/image1.jpg",
+      "alt": "How To Make Guaranteed Success With Design As A Service"
+    },
+
+    "crafting-originality-a-dive-into-design-templates-across-businesses": {
+      "title": "Crafting Originality: A Dive into Design Templates Across Businesses", 
+      "author": "Sakshi Patil",
+      "date": "27 Feb, 2024",
+      "image": "assets/images/blog/crafting-originality-a-dive/image1.jpg",
+      "alt": "Crafting Originality: A Dive into Design Templates Across Businesses"
+    },
+
 
    
     "what-you-need-to-know-about-vr-interaction-design": {
