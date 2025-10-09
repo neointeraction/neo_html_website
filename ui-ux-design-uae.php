@@ -328,12 +328,13 @@ include_once 'includes/tracking-functions.php';
             <div class="blog-quote-block project-quote-block">
                 <div class="row justify-content-center align-items-center">
                     <div class="col-md-3">
-                        <div class="p-logo">
-                            <img src="<?php echo $path; ?>assets/images/clients/commercial-bank-of-dubai-logo.png" alt="mega" />
+                        <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
+                            <img src="<?php echo $path; ?>assets/images/projects/client-logos/commercial-bank-of-dubai-logo.svg" alt="commercial-bank-of-dubai-logo" />
+                            <div class="quote-icon-right d-block d-md-none"></div>
                         </div>
                     </div>
                     <div class="col-md-9">
-                        <div class="quote-icon"></div>
+                    <div class="quote-icon d-none d-md-block"></div>
                         <p class="blog-quote-text">The visual appeal and the new banking experience led us to overcome the competition and we’re very happy with the result the design team delivered.</p>
                     </div>
                 </div>
