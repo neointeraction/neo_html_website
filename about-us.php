@@ -60,7 +60,7 @@
                         </div>
                         <!-- 1b+ lives impacted -->
                         <div class="col-6 col-md-3 count-up-item  mt-md-0">
-                            <div class="count-number" data-target="1">0</div>
+                            <div class="count-number" data-target="1" data-type="b">0</div>
                             <div class="count-label">lives impacted</div>
                         </div>
                         <!-- 10+ countries impacted -->

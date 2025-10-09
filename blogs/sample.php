@@ -62,16 +62,7 @@
                 </h4>
 
                 <p class="blog-body-text">
-                    <b>Problems related to the UX:</b>
-                    <ul>
-                        <li>The placement of the banner was unclear.</li>
-                        <li>There are too many undesired options on the navigation bar.</li>
-                        <li>Although paying premiums is the most common option for policyholders on the LIC website, it was not prominently shown on the landing page.</li>
-                        <li>Some key items, such as Buy Insurance, Renew Policy, Claim Policy, Claim status, and Premium Calculator, are not highlighted and are difficult to locate.</li>
-                        <li>Users' download links for mobile apps were misplaced.</li>
-                        <li>The landing page is clogged with unnecessary information and content.</li>
-                        <li>The footer options are cluttered and unorganized.</li>
-                    </ul>
+                  
                 </p>
 
                 <div class="blog-quote-block">
@@ -80,9 +71,7 @@
                 </div>
 
                
-                <p class="blog-body-text">
-                    <a href="" target="_blank">here</a>.
-                </p>
+                <a href="" target="_blank">here</a>
 
                
 

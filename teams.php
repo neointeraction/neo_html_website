@@ -47,7 +47,7 @@
 
 
     <!-- our-team  -->
-    <section class="our-team our-team-blocks">
+    <section class="our-team our-team-blocks mb-5">
         <div class="container">
             <div class="blog-container-block">
                 <div class="row justify-content-center">
@@ -59,16 +59,13 @@
     </section>
 
     <!-- banner -- end  -->
-    <!-- our-team  -->
-    <section class="our-team section-padding">
-        <div class="container">
-            <?php
-            $team_tag = 'all';
-            include 'components/teams-listing.php';
-            ?>
-        </div>
-    </section>
+   
     <?php include $path . 'components/join-our-team.php'; ?>
+
+    <section class="our-team our-team-blocks mb-2">
+     
+    </section>
+
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>
