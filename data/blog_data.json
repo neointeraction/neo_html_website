@@ -3,28 +3,7 @@
   "blog_metadata": {
 
  
-    "advantages-and-disadvantages-of-website-templates": {
-      "title": "Advantages and disadvantages of Website Templates", 
-      "author": "Rahul Kale",
-      "date": "5 Jan, 2022",
-      "image": "assets/images/blog/advantages-and-disadvantages/image1.jpg",
-      "alt": "Advantages and disadvantages of Website Templates"
-    },
-    "how-to-boost-ux-security-and-see-better-results": {
-      "title": "How To Boost UX Security And See Better Results", 
-      "author": "Sahla Feroc",
-      "date": "13 Dec, 2024",
-      "image": "assets/images/blog/how-to-boost-ux/image1.jpg",
-      "alt": "How To Boost UX Security And See Better Results"
-    },
-    "role-of-responsive-design-in-the-mobile-first-era-for-business-success": {
-      "title": "Role of Responsive Design in the Mobile-First Era for Business Success", 
-      "author": "Veena Varghese",
-      "date": "23 Jan, 2024",
-      "image": "assets/images/blog/role-of-responsive-design/image1.jpg",
-      "alt": "Role of Responsive Design in the Mobile-First Era for Business Success"
-    },
-   
+  
 
     "effective-communication-with-clients-and-5-ways-to-improve-it": {
       "title": "Effective Communication with clients and 5 ways to improve it", 
@@ -393,6 +372,28 @@
       "image": "assets/images/blog/profitable-design-how/image1.jpg",
       "alt": "Profitable Design: How UX UI Boosts App Monetization"
     },
+    "advantages-and-disadvantages-of-website-templates": {
+      "title": "Advantages and disadvantages of Website Templates", 
+      "author": "Rahul Kale",
+      "date": "5 Jan, 2022",
+      "image": "assets/images/blog/advantages-and-disadvantages/image1.jpg",
+      "alt": "Advantages and disadvantages of Website Templates"
+    },
+    "how-to-boost-ux-security-and-see-better-results": {
+      "title": "How To Boost UX Security And See Better Results", 
+      "author": "Sahla Feroc",
+      "date": "13 Dec, 2024",
+      "image": "assets/images/blog/how-to-boost-ux/image1.jpg",
+      "alt": "How To Boost UX Security And See Better Results"
+    },
+    "role-of-responsive-design-in-the-mobile-first-era-for-business-success": {
+      "title": "Role of Responsive Design in the Mobile-First Era for Business Success", 
+      "author": "Veena Varghese",
+      "date": "23 Jan, 2024",
+      "image": "assets/images/blog/role-of-responsive-design/image1.jpg",
+      "alt": "Role of Responsive Design in the Mobile-First Era for Business Success"
+    },
+   
 
 
 
