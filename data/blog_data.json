@@ -2,7 +2,24 @@
   "featured_blog_slug": "effective-communication-with-clients-and-5-ways-to-improve-it",
   "blog_metadata": {
 
+    
+  "master-ui-ux-design-with-empathetic-user-personas": {
+    "title": "Master UI UX Design with Empathetic User Personas",
+    "author": "Veena Varghese",
+    "date": "6 Sep, 2024",
+    "image": "assets/images/blog/master-ui-ux-design/master-ui-ux-design-image1.jpg",
+    "alt": "Master UI UX Design with Empathetic User Personas"
+  },
+  "what-are-wireframes-and-why-are-they-important-in-ux-design": {
+    "title": "What are wireframes and why are they important in UX design?",
+    "author": "Rakshanda Naik",
+    "date": "25 Jan, 2024",
+    "image": "assets/images/blog/what-are-wireframes-and-why/what-are-wireframes-and-why-image1.jpg",
+    "alt": "What are wireframes and why are they important in UX design?"
+  },
 
+
+  
     "effective-communication-with-clients-and-5-ways-to-improve-it": {
       "title": "Effective Communication with clients and 5 ways to improve it", 
       "author": "Sahla Feroc",
@@ -406,7 +423,30 @@
       "image": "assets/images/blog/innovative-ux-design-in-edtech/innovative-ux-design-in-edtech-image1.jpg",
       "alt": "The Future Of UX UI: Navigating 2024's Breakthrough Trends"
     },
-  
+    "know-how-to-design-for-mixed-reality-in-ux-now": {
+      "title": "Know How To Design For Mixed Reality In UX now",
+      "author": "Sakshi Patil",
+      "date": "25 Oct, 2024",
+      "image": "assets/images/blog/know-how-to-design/know-how-to-design-image1.jpg",
+      "alt": "Know How To Design For Mixed Reality In UX now"
+    },
+    "what-is-ux-prototyping-here-s-the-ultimate-guide-on-how-to-get-started": {
+      "title": "What is UX prototyping? Here's the ultimate guide on how to get started",
+      "author": "Sebin George",
+      "date": "25 Jan, 2024",
+      "image": "assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image1.jpg",
+      "alt": "What is UX prototyping? Here's the ultimate guide on how to get started"
+    },
+"supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities": {
+      "title": "Supercharge Your E-commerce Search with the Power of Chatbot Capabilities",
+      "author": "Veena Varghese",
+      "date": "6 Sep, 2024",
+      "image": "assets/images/blog/supercharge-your-e-commerce-search/supercharge-your-e-commerce-search-image1.jpg",
+      "alt": "Supercharge Your E-commerce Search with the Power of Chatbot Capabilities"
+    },
+
+
+   
     "what-you-need-to-know-about-vr-interaction-design": {
       "title": "What You Need To Know About VR Interaction Design",
       "author": "UX Research Team",
