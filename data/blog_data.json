@@ -2,22 +2,7 @@
   "featured_blog_slug": "effective-communication-with-clients-and-5-ways-to-improve-it",
   "blog_metadata": {
 
-    
-  "master-ui-ux-design-with-empathetic-user-personas": {
-    "title": "Master UI UX Design with Empathetic User Personas",
-    "author": "Veena Varghese",
-    "date": "6 Sep, 2024",
-    "image": "assets/images/blog/master-ui-ux-design/master-ui-ux-design-image1.jpg",
-    "alt": "Master UI UX Design with Empathetic User Personas"
-  },
-  "what-are-wireframes-and-why-are-they-important-in-ux-design": {
-    "title": "What are wireframes and why are they important in UX design?",
-    "author": "Rakshanda Naik",
-    "date": "25 Jan, 2024",
-    "image": "assets/images/blog/what-are-wireframes-and-why/what-are-wireframes-and-why-image1.jpg",
-    "alt": "What are wireframes and why are they important in UX design?"
-  },
-
+ 
 
   
     "effective-communication-with-clients-and-5-ways-to-improve-it": {
@@ -437,15 +422,84 @@
       "image": "assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image1.jpg",
       "alt": "What is UX prototyping? Here's the ultimate guide on how to get started"
     },
-"supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities": {
+  "supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities": {
       "title": "Supercharge Your E-commerce Search with the Power of Chatbot Capabilities",
       "author": "Veena Varghese",
       "date": "6 Sep, 2024",
       "image": "assets/images/blog/supercharge-your-e-commerce-search/supercharge-your-e-commerce-search-image1.jpg",
       "alt": "Supercharge Your E-commerce Search with the Power of Chatbot Capabilities"
     },
+    "master-ui-ux-design-with-empathetic-user-personas": {
+      "title": "Master UI UX Design with Empathetic User Personas",
+      "author": "Sahla Feroc",
+      "date": "23 Jan, 2024",
+      "image": "assets/images/blog/master-ui-ux-design/empathetic-user-personas-for-mastering-ux-ui-design-thumbnail.jpg",
+      "alt": "Master UI UX Design with Empathetic User Personas"
+    },
 
-
+    "what-are-wireframes-and-why-are-they-important-in-ux-design": {
+      "title": "What are wireframes and why are they important in UX design?",
+      "author": "Rakshanda Naik",
+      "date": "25 Jan, 2024",
+      "image": "assets/images/blog/what-are-wireframes-and-why/importance-of-wireframes-in-ux-ui-design-thumbnail.jpg",
+      "alt": "What are wireframes and why are they important in UX design?"
+    },
+    "what-is-proximity-principle-and-how-does-it-affect-visual-design": {
+      "title": "What Is Proximity Principle and How Does It Affect Visual Design",
+      "author": "Sebin George",
+      "date": "Jan 30, 2024",
+      "image": "assets/images/blog/proximity-principle-visual-design/proximity-principle-impact-on-visual-design-ux-ui-thumbnail.jpg",
+      "alt": "What Is Proximity Principle and How Does It Affect Visual Design"
+    },
+    "ai-for-everyday-users-designing-for-seamless-ai-integration": {
+      "title": "AI for Everyday Users: Designing for Seamless AI Integration",
+      "author": "Veena Varghese",
+      "date": "Dec 11, 2024",
+      "image": "assets/images/blog/ai-seamless-integration/ai-user-interface-design-for-seamless-ux-integration-thumbnail.jpg",
+      "alt": "AI for Everyday Users: Designing for Seamless AI Integration"
+    },
+    "how-to-run-design-timelines-and-execute-them-effectively": {
+      "title": "How to Run Design Timelines and Execute Them Effectively",
+      "author": "Rakshanda Naik",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/design-timelines-execution/effective-design-timelines-project-management-and-execution -thumbnail.jpg",
+      "alt": "How to Run Design Timelines and Execute Them Effectively"
+    },
+    "what-are-the-innovative-use-cases-of-ai-in-financial-institutions": {
+      "title": "What Are the Innovative Use Cases of AI in Financial Institutions",
+      "author": "Ashutosh Shakya",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/ai-use-cases-fintech/innovative-ai-use-cases-fintech-future-thumbnail.jpg",
+      "alt": "What Are the Innovative Use Cases of AI in Financial Institutions"
+    },
+    "mastering-ui-ux-portfolios-key-takeaways-from-our-webinar": {
+      "title": "Mastering UI/UX Portfolios: Key Takeaways from Our Webinar",
+      "author": "Bharath A Manoj",
+      "date": "Jan 23, 2024",
+      "image": "assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolio-webinar-key-learnings-thumbnail.jpg",
+      "alt": "Mastering UI/UX Portfolios: Key Takeaways from Our Webinar"
+    },
+    "how-to-build-customer-loyalty-in-the-subscription-economy": {
+      "title": "How to Build Customer Loyalty in the Subscription Economy",
+      "author": "Sebin George",
+      "date": "Jan 18, 2024",
+      "image": "assets/images/blog/customer-loyalty-subscription-economy/building-customer-loyalty-in-subscription-economy-ux-ui-neointeraction-design-thumbnail.jpg",
+      "alt": "How to Build Customer Loyalty in the Subscription Economy"
+    },
+    "how-fintech-apps-depend-on-ui-ux-design-for-its-success": {
+      "title": "How Fintech Apps Depend on UI/UX Design for Its Success",
+      "author": "Rahul Kale",
+      "date": "Mar 10, 2022",
+      "image": "assets/images/blog/fintech-apps-ui-ux-design/fintech-app-success-dependence-on-ux-ui-design-thumbnail.jpg",
+      "alt": "How Fintech Apps Depend on UI/UX Design for Its Success"
+    },
+    "design-thinking-and-its-role-in-accelerating-business-growth": {
+      "title": "Design Thinking and Its Role in Accelerating Business Growth",
+      "author": "Content Team",
+      "date": "Recently published",
+      "image": "assets/images/blog/design-thinking-business-growth/design-thinking-for-business-growth-ux-ui-thumbnail.jpg",
+      "alt": "Design Thinking and Its Role in Accelerating Business Growth"
+    },
    
     "what-you-need-to-know-about-vr-interaction-design": {
       "title": "What You Need To Know About VR Interaction Design",
@@ -616,62 +670,7 @@
       "alt": "E-commerce UX Design"
     },
     
-    "what-is-proximity-principle-and-how-does-it-affect-visual-design": {
-      "title": "What Is Proximity Principle and How Does It Affect Visual Design",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/proximity-principle-visual-design/proximity-principle-visual-design.jpg",
-      "alt": "proximity-principle-visual-design"
-    },
-    "ai-for-everyday-users-designing-for-seamless-ai-integration": {
-      "title": "AI for Everyday Users: Designing for Seamless AI Integration",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/ai-seamless-integration/ai-seamless-integration.jpg",
-      "alt": "ai-seamless-integration"
-    },
-    "how-to-run-design-timelines-and-execute-them-effectively": {
-      "title": "How to Run Design Timelines and Execute Them Effectively",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/design-timelines-execution/design-timelines-execution.jpg",
-      "alt": "design-timelines-execution"
-    },
-    "what-are-the-innovative-use-cases-of-ai-in-financial-institutions": {
-      "title": "What Are the Innovative Use Cases of AI in Financial Institutions",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/ai-use-cases-fintech/ai-use-cases-fintech.jpg",
-      "alt": "ai-use-cases-fintech"
-    },
-    "mastering-ui-ux-portfolios-key-takeaways-from-our-webinar": {
-      "title": "Mastering UI/UX Portfolios: Key Takeaways from Our Webinar",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolios-webinar.jpg",
-      "alt": "ui-ux-portfolios-webinar"
-    },
-    "how-to-build-customer-loyalty-in-the-subscription-economy": {
-      "title": "How to Build Customer Loyalty in the Subscription Economy",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/customer-loyalty-subscription-economy/customer-loyalty-subscription-economy.jpg",
-      "alt": "customer-loyalty-subscription-economy"
-    },
-    "how-fintech-apps-depend-on-ui-ux-design-for-its-success": {
-      "title": "How Fintech Apps Depend on UI/UX Design for Its Success",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/fintech-apps-ui-ux-design/fintech-apps-ui-ux-design.jpg",
-      "alt": "fintech-apps-ui-ux-design"
-    },
-    "design-thinking-and-its-role-in-accelerating-business-growth": {
-      "title": "Design Thinking and Its Role in Accelerating Business Growth",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/design-thinking-business-growth/design-thinking-business-growth.jpg",
-      "alt": "design-thinking-business-growth"
-    },
+    
     "modernizing-india-s-payment-landscape-with-neobanks-e-payments": {
       "title": "Modernizing India’s Payment Landscape with Neobanks & E-Payments",
       "author": "Content Team",

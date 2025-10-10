@@ -6,26 +6,25 @@
   <?php include $path.'includes/favicon.php'; ?>
   <?php include $path.'includes/css.php'; ?>
   <?php include $path.'includes/head-additional-scripts.php'; ?>
-  <title>Effective UX Audit and Website Redesign to boost UX for LIC</title>
-  <meta name="description" content="Design case study on Effective UX Audit and Redesigning LIC Website to boos user experience"/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
-  <meta property="og:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta property="og:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
+  <title>Mastering UI/UX Portfolios: Key Takeaways from Our Webinar </title>
+  <meta name="description" content="Explore the essential insights and expert tips gathered from our recent webinar on mastering ui ux portfolios"/>
+  <link rel="canonical" href="https://www.neointeraction.com/post/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar"/>
+  <meta property="og:title" content="Mastering UI/UX Portfolios: Key Takeaways from Our Webinar "/>
+  <meta property="og:description" content="A strong portfolio is like a key for designers in the competitive design world, unlocking opportunities for success. More than just a collection of work, it tells a visual story that showcases a designer's skills and creativity. This first impression can make a designer stand out and leave a lasting impact on clients and employers. Recently, we took a deep dive into the art of portfolio building in our first live webinar, &quot;How to Make Your UI/UX Portfolio Stand Out.&quot; Vanessa Lobo, our UX/UI desi"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolio-webinar-key-learnings-thumbnail-mobile.jpg"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
+  <meta property="og:url" content="https://www.neointeraction.com/post/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta property="article:author" content="Thirunavukkarasu Lakshumanan"/>
-  <meta property="article:published_time" content="2024-01-25T10:58:02.450Z"/>
-  <meta property="article:modified_time" content="2024-08-23T04:54:56.696Z"/>
+  <meta property="article:author" content="Bharath A Manoj"/>
+  <meta property="article:published_time" content="2024-01-23T06:20:59.754Z"/>
+  <meta property="article:modified_time" content="2024-03-21T09:17:23.994Z"/>
   <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" title="Neointeraction - RSS" type="application/rss+xml"/>
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta name="twitter:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
+  <meta name="twitter:title" content="Mastering UI/UX Portfolios: Key Takeaways from Our Webinar "/>
+  <meta name="twitter:description" content="A strong portfolio is like a key for designers in the competitive design world, unlocking opportunities for success. More than just a collection of work, it tells a visual story that showcases a designer's skills and creativity. This first impression can make a designer stand out and leave a lasting impact on clients and employers. Recently, we took a deep dive into the art of portfolio building in our first live webinar, &quot;How to Make Your UI/UX Portfolio Stand Out.&quot; Vanessa Lobo, our UX/UI desi"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolio-webinar-key-learnings-thumbnail-mobile.jpg"/>
    
 </head>
 
@@ -44,52 +43,61 @@
             <div class="blog-body-padding">
                 <p class="blog-author-text">
                     <div class="avatar-img-block">
-                        <img src="<?php echo $path; ?>assets/images/blog/author/.png" alt="avatar" class="avatar-img" />
+                        <img src="<?php echo $path; ?>assets/images/blog/author/bharat-a-manoj.avif" alt="avatar" class="avatar-img" />
                     </div>
-                    <span> • 25 Jan, 2024</span>
+                    <span> Bharath A Manoj • 23 Jan, 2024</span>
                 </p>
                 <h1 class="banner-title">
-                Effective UX Audit and Website Redesign to boost UX for LIC
+                Mastering UI/UX Portfolios: Key Takeaways from Our Webinar
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/effective-ux-audit/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolio-webinar-key-learnings.jpg" alt="ui-ux-portfolio-webinar-key-learnings" />
                 </div>
                 <p class="blog-body-text">
-                    Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack of a good user experience. As one of the top ui ux design companies we truly enjoyed redesigning the ux audit for LIC.
+                A strong portfolio is like a key for designers in the competitive design world, unlocking opportunities for success. More than just a collection of work, it tells a visual story that showcases a designer's skills and creativity. This first impression can make a designer stand out and leave a lasting impact on clients and employers. Recently, we took a deep dive into the art of portfolio building in our first live webinar, "How to Make Your UI/UX Portfolio Stand Out." Vanessa Lobo, our UX/UI designer, led the session and shared her valuable experience and knowledge.
+
+As the webinar unfolded, it transformed into a treasure trove of insights, giving practical tips and strategies to make UI/UX portfolios better that went beyond the basics.
                 </p>
                 <h4 class="blog-body-title">
-                    Identified Problems
+                Now, let's talk about the important things we learned from this helpful session:
                 </h4>
-
+                <div class="blog-banner-img">
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/design-portfolio-ux-ui-explained.jpg" alt="design-portfolio-ux-ui-explained" />
+                </div>
                 <p class="blog-body-text">
-                    <b>Problems related to the UX:</b>
-                    <ul>
-                        <li>The placement of the banner was unclear.</li>
-                        <li>There are too many undesired options on the navigation bar.</li>
-                        <li>Although paying premiums is the most common option for policyholders on the LIC website, it was not prominently shown on the landing page.</li>
-                        <li>Some key items, such as Buy Insurance, Renew Policy, Claim Policy, Claim status, and Premium Calculator, are not highlighted and are difficult to locate.</li>
-                        <li>Users' download links for mobile apps were misplaced.</li>
-                        <li>The landing page is clogged with unnecessary information and content.</li>
-                        <li>The footer options are cluttered and unorganized.</li>
-                    </ul>
+                    <b>Crafting a Captivating Story:</b><br/>
+                    The webinar emphasized the idea of transforming a portfolio into a captivating story rather than just showcasing projects. This involves taking the audience on a journey and unveiling the thought processes, challenges, and solutions behind each design. By telling a well-crafted story, designers can engage their audience and leave a lasting impression in their minds.
                 </p>
-
+                <div class="blog-banner-img">
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/how-to-showcase-projects-in-ux-ui-portfolio.jpg" alt="how-to-showcase-projects-in-ux-ui-portfolio" />
+                </div> <p class="blog-body-text">
+                    <b>Creating a Positive First Impression:</b><br/>
+                    In the crucial initial moments when a visitor lands on a portfolio, the focus is on designing it to be visually striking and user-friendly. Every detail, from the layout to the colors chosen, plays a role in crafting a memorable experience for the viewer. This ensures that visitors are drawn in and stay engaged with the content.
+                </p> <div class="blog-banner-img">
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/creating-a-standout-ux-ui-portfolio.jpg" alt="creating-a-standout-ux-ui-portfolio" />
+                </div> <p class="blog-body-text">
+                    <b>Building a Personal Brand:</b><br/>
+                    An essential takeaway from the webinar was that designers were encouraged to infuse their work with a unique style, values, and personality. A strong design persona not only sets a designer apart but also forges a deeper connection with the audience. This connection makes the portfolio more memorable and relatable, allowing viewers to connect on a personal level.
+                </p><div class="blog-banner-img">
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/personal-branding-ux-ui-portfolio.jpg" alt="personal-branding-ux-ui-portfolio" />
+                </div> <p class="blog-body-text">
+                    <b>Adding Value with Pet Projects:</b><br/>
+                    Side projects go beyond the usual work, show a designer's inner motivation, and add a personal touch that can make a portfolio stand out in the competitive field. By showcasing versatility and passion through side projects, designers can demonstrate their commitment to continuous growth and innovation.
+                </p><div class="blog-banner-img">
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/pet-project-ux-ui-portfolio-showcase.jpg" alt="pet-project-ux-ui-portfolio-showcase" />
+                </div>
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>
-                    <p class="blog-quote-text">The only constant in the world is “CHANGE". Though this line has become a cliche, it is very important to implement the same in our operation. And of course, the change needs to be planned well considering all the right and critical factors.</p>
+                    <p class="blog-quote-text">Designing a portfolio is not just about presenting work; it's about creating an immersive experience. Let your portfolio be the embodiment of your design philosophy. - Inspired by Steve Jobs</p>
                 </div>
 
-               
-                <p class="blog-body-text">
-                    <a href="" target="_blank">here</a>.
-                </p>
-
+           
                
 
                 <h4 class="blog-body-title">Conclusion</h4>
 
                 <p class="blog-body-text">
-                    UX Audit is a necessary aspect of the design process in order to create a solution that meets both business and user requirements. If we focus on the details of the product and services, we tend to overlook the users and their perspectives. UX strategy and research play an important role in the process of product design. The most important factor of this project was that users might easily be lost due to a bad online presence experience.
+                In conclusion, our exploration into the world of portfolio building revealed that a strong portfolio acts as a key to success in the competitive design field. It goes beyond being a simple showcase of projects; it is a visual story that speaks volumes about a designer's skills and creativity. Building on this, we've also crafted a useful <a href="https://www.neointeraction.com/downloads" target="_blank">UX UI portfolio resources</a> sheet to support designers in showcasing their talents.
                 </p>
 
 
