@@ -667,8 +667,22 @@
     "question": "How can Neointeraction assist in migrating existing applications to a unified design system with Micro Frontend Architecture (MFA)?",
     "answer": "Neointeraction offers comprehensive assistance for migrating existing applications to a unified design system with MFA. Our frontend development consultants work closely with your team to ensure a seamless transition and optimization of your application architecture. For more information, please contact us.",
     "tags": ["design-systems-mfa-micro-front-end-architecture-a-quick-fact-check"]
+  },
+ {
+    "question": "What services does your agency offer?",
+    "answer": "Our expertise is in UI/UX design and Front-end development. You can visit our website to learn more about what we offer.",
+    "tags": ["top-5-reasons-to-use-react-over-other-frontends"]
+  },
+ {
+    "question": "Is React only used for front-end development?",
+    "answer": "React is a front-end framework used only for front-end development. But some frameworks like Next.JS which is built on top of React offer serverless functions that you can use as a backend. Next.Js is not a traditional backend that runs on a server.",
+    "tags": ["top-5-reasons-to-use-react-over-other-frontends"]
+  },
+ {
+    "question": "Do you provide mobile development services as well in React Native?",
+    "answer": "We provide frontend development services including mobile, web, and desktop application development. Frontend development should have the best user experience, so we provide UX/UI designing services, where we prepare the wireframes and mockups in Figma, test them among different users, and approve them for further development.",
+    "tags": ["top-5-reasons-to-use-react-over-other-frontends"]
   }
-
   
 
 ]
