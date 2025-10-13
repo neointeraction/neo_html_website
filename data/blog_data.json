@@ -2,11 +2,9 @@
   "featured_blog_slug": "effective-communication-with-clients-and-5-ways-to-improve-it",
   "blog_metadata": {
 
- 
-
-  
+    
     "effective-communication-with-clients-and-5-ways-to-improve-it": {
-      "title": "Effective Communication with clients and 5 ways to improve it", 
+      "title": "Effective Communication with clients and 5 ways to improve it",
       "author": "Sahla Feroc",
       "date": "2 Jan, 2021",
       "image": "assets/images/blog/effective-communication/image1.jpg",
@@ -75,49 +73,49 @@
       "image": "assets/images/blog/top-frontend-trends/image1.jpg",
       "alt": "Top 5 frontend development trends of 2024"
     },
-    "voice-interface-design-enhancing-user-interaction-in-a-voice-first-world":{
+    "voice-interface-design-enhancing-user-interaction-in-a-voice-first-world": {
       "title": "Voice Interface Design: Enhancing User Interaction in a Voice-First World",
       "author": "Vanessa Lobo",
       "date": "Jul 19, 2024",
       "image": "assets/images/blog/voice-interface-design/image1.jpg",
       "alt": "Voice Interface Design: Enhancing User Interaction in a Voice-First World"
     },
-    "the-impact-of-color-in-branding":{
+    "the-impact-of-color-in-branding": {
       "title": "The Impact of Color in Branding",
       "author": "Sahla Feroc",
       "date": "Jan 24, 2024",
       "image": "assets/images/blog/impact-of-color/image1.jpg",
       "alt": "The Impact of Color in Branding"
     },
-    "adobe-buys-figma-is-this-a-positive-or-negative-development":{
+    "adobe-buys-figma-is-this-a-positive-or-negative-development": {
       "title": "Adobe Buys Figma: Is this a positive or negative development?",
       "author": "Ashutosh Shakya",
       "date": "Jan 24, 2024",
       "image": "assets/images/blog/adobe-buys-figma/image1.jpg",
       "alt": "Adobe Buys Figma: Is this a positive or negative development?"
     },
-    "how-bumble-s-diverse-connection-modes-boost-user-engagement-and-retention":{
+    "how-bumble-s-diverse-connection-modes-boost-user-engagement-and-retention": {
       "title": "How Bumble's Diverse Connection Modes Boost User Engagement and Retention",
       "author": "Sakshi Patil",
       "date": "Sept 11, 2024",
       "image": "assets/images/blog/how-bumble-diverse/image1.jpg",
       "alt": "How Bumble's Diverse Connection Modes Boost User Engagement and Retention"
     },
-    "interaction-design-what-is-it-and-why-is-it-important":{
+    "interaction-design-what-is-it-and-why-is-it-important": {
       "title": "Interaction design: what is it and why is it important?",
       "author": "Sebin George",
       "date": "May 8, 2024",
       "image": "assets/images/blog/interaction-design/image1.jpg",
       "alt": "Interaction design: what is it and why is it important?"
     },
-    "composable-business-how-ux-design-secure-better-user-experiences":{
+    "composable-business-how-ux-design-secure-better-user-experiences": {
       "title": "Composable Business : How UX Design Secure Better User Experiences",
       "author": "Sahla Feroc",
       "date": "Dec 27, 2024",
       "image": "assets/images/blog/composible-business/image1.jpg",
       "alt": "Composable Business : How UX Design Secure Better User Experiences"
     },
-    "how-to-align-good-ux-ui-concepts-with-customer-requirements":{
+    "how-to-align-good-ux-ui-concepts-with-customer-requirements": {
       "title": "How to align good UX UI concepts with customer requirements?",
       "author": "Wenkit",
       "date": "Jan 24, 2024",
@@ -272,130 +270,126 @@
       "alt": "Remembering Virgil Abloh, a brilliant fashion designer and artist"
     },
     "netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth": {
-      "title": "Netflix's Data-Driven UI UX: A Catalyst for Business Growth", 
+      "title": "Netflix's Data-Driven UI UX: A Catalyst for Business Growth",
       "author": "Veena Varghese",
       "date": "12 May, 2024",
       "image": "assets/images/blog/netflix-s-data-driven/image1.jpg",
       "alt": "Netflix's Data-Driven UI UX: A Catalyst for Business Growth"
     },
     "takeaways-from-our-1-day-workshop-on-micro-frontend-architecture": {
-      "title": "Takeaways from our 1 Day Workshop on Micro Frontend Architecture", 
+      "title": "Takeaways from our 1 Day Workshop on Micro Frontend Architecture",
       "author": "Liya Theresa Siby",
       "date": "15 July, 2024",
       "image": "assets/images/blog/takeaways-from-our-1-day/image1.jpg",
       "alt": "Takeaways from our 1 Day Workshop on Micro Frontend Architecture"
     },
-
     "how-to-make-guaranteed-success-with-design-as-a-service": {
-      "title": "How To Make Guaranteed Success With Design As A Service", 
+      "title": "How To Make Guaranteed Success With Design As A Service",
       "author": "Sahla Feroc",
       "date": "13 Nov, 2024",
       "image": "assets/images/blog/how-to-make-guaranteed/image1.jpg",
       "alt": "How To Make Guaranteed Success With Design As A Service"
     },
-
     "crafting-originality-a-dive-into-design-templates-across-businesses": {
-      "title": "Crafting Originality: A Dive into Design Templates Across Businesses", 
+      "title": "Crafting Originality: A Dive into Design Templates Across Businesses",
       "author": "Sakshi Patil",
       "date": "27 Feb, 2024",
       "image": "assets/images/blog/crafting-originality-a-dive/image1.jpg",
       "alt": "Crafting Originality: A Dive into Design Templates Across Businesses"
     },
-
     "design-systems-mfa-micro-front-end-architecture-a-quick-fact-check": {
-      "title": "Design systems & MFA (Micro front end architecture) - a quick fact check!", 
+      "title": "Design systems & MFA (Micro front end architecture) - a quick fact check!",
       "author": "Liya Theresa Siby",
       "date": "9 Jul, 2024",
       "image": "assets/images/blog/design-systems-mfa-micro-front-end/image1.jpg",
       "alt": "Design systems & MFA (Micro front end architecture) - a quick fact check!"
     },
     "the-future-of-digital-banking-and-the-perks-of-improving-user-experience": {
-      "title": "The future of digital banking and the perks of improving user experience", 
+      "title": "The future of digital banking and the perks of improving user experience",
       "author": "Sahla Feroc",
       "date": "24 Jan, 2024",
       "image": "assets/images/blog/the-future-of-digital-banking/image1.jpg",
       "alt": "The future of digital banking and the perks of improving user experience"
     },
     "driving-sales-and-revenue-with-slack-s-ux-ui-a-real-life-success-story": {
-      "title": "Driving Sales and Revenue with Slack's UX/UI: A Real-Life Success Story", 
+      "title": "Driving Sales and Revenue with Slack's UX/UI: A Real-Life Success Story",
       "author": "Sahla Feroc",
       "date": "18 Jan, 2024",
       "image": "assets/images/blog/driving-sales-and-revenue/image1.jpg",
       "alt": "Driving Sales and Revenue with Slack's UX/UI: A Real-Life Success Story"
     },
     "how-ui-ux-design-contributes-to-the-success-of-open-banking": {
-      "title": "How UI UX Design Contributes to the Success of Open Banking", 
+      "title": "How UI UX Design Contributes to the Success of Open Banking",
       "author": "Sahla Feroc",
       "date": "24 Jan, 2024",
       "image": "assets/images/blog/how-ui-ux-design-contributes/image1.jpg",
       "alt": "How UI UX Design Contributes to the Success of Open Banking"
     },
     "how-mood-boards-will-enhance-your-design": {
-      "title": "How mood boards will enhance your design?", 
+      "title": "How mood boards will enhance your design?",
       "author": "Ashutosh Shakya",
       "date": "24 Jan, 2024",
       "image": "assets/images/blog/how-mood-boards/image1.jpg",
       "alt": "How mood boards will enhance your design?"
     },
     "how-to-drive-success-through-inclusive-ux-design": {
-      "title": "How to drive success through Inclusive UX design?", 
+      "title": "How to drive success through Inclusive UX design?",
       "author": "Sakshi Patil",
       "date": "21 Aug, 2024",
       "image": "assets/images/blog/how-to-drive-success/image1.jpg",
       "alt": "How to drive success through Inclusive UX design?"
     },
     "what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences": {
-      "title": "What You Need To Know About VR Interaction Design For Immersive Experiences", 
+      "title": "What You Need To Know About VR Interaction Design For Immersive Experiences",
       "author": "Sakshi Patil",
       "date": "20 Dec, 2024",
       "image": "assets/images/blog/what-you-need-to-know-about-vr/image1.jpg",
       "alt": "What You Need To Know About VR Interaction Design For Immersive Experiences"
     },
     "learn-how-to-create-a-wondrous-saas-onboarding-process-now": {
-      "title": "Learn How To Create A Wondrous SaaS Onboarding Process Now", 
+      "title": "Learn How To Create A Wondrous SaaS Onboarding Process Now",
       "author": "Sakshi Patil",
       "date": "21 Aug, 2024",
       "image": "assets/images/blog/learn-how-to-create-a-wondrous-saas/image1.jpg",
       "alt": "Learn How To Create A Wondrous SaaS Onboarding Process Now"
     },
     "why-do-corporate-banks-invest-in-good-ux-for-longevity": {
-      "title": "Why do corporate banks invest in good UX for longevity?", 
+      "title": "Why do corporate banks invest in good UX for longevity?",
       "author": "Sahla Feroc",
       "date": "24 Jan, 2024",
       "image": "assets/images/blog/why-do-corporate-banks-invest/image1.jpg",
       "alt": "Why do corporate banks invest in good UX for longevity?"
     },
     "profitable-design-how-ux-ui-boosts-app-monetization": {
-      "title": "Profitable Design: How UX UI Boosts App Monetization", 
+      "title": "Profitable Design: How UX UI Boosts App Monetization",
       "author": "Sakshi Patil",
       "date": "13 Sep, 2021",
       "image": "assets/images/blog/profitable-design-how/image1.jpg",
       "alt": "Profitable Design: How UX UI Boosts App Monetization"
     },
     "advantages-and-disadvantages-of-website-templates": {
-      "title": "Advantages and disadvantages of Website Templates", 
+      "title": "Advantages and disadvantages of Website Templates",
       "author": "Rahul Kale",
       "date": "5 Jan, 2022",
       "image": "assets/images/blog/advantages-and-disadvantages/image1.jpg",
       "alt": "Advantages and disadvantages of Website Templates"
     },
     "how-to-boost-ux-security-and-see-better-results": {
-      "title": "How To Boost UX Security And See Better Results", 
+      "title": "How To Boost UX Security And See Better Results",
       "author": "Sahla Feroc",
       "date": "13 Dec, 2024",
       "image": "assets/images/blog/how-to-boost-ux/image1.jpg",
       "alt": "How To Boost UX Security And See Better Results"
     },
     "role-of-responsive-design-in-the-mobile-first-era-for-business-success": {
-      "title": "Role of Responsive Design in the Mobile-First Era for Business Success", 
+      "title": "Role of Responsive Design in the Mobile-First Era for Business Success",
       "author": "Veena Varghese",
       "date": "23 Jan, 2024",
       "image": "assets/images/blog/role-of-responsive-design/image1.jpg",
       "alt": "Role of Responsive Design in the Mobile-First Era for Business Success"
     },
-
     "why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue": {
-      "title": "Why should businesses invest in good UI UX design to boost revenue?", 
+      "title": "Why should businesses invest in good UI UX design to boost revenue?",
       "author": "Sahla Feroc",
       "date": "24 Jan, 2024",
       "image": "assets/images/blog/why-should-businesses-invest/why-should-businesses-invest-image1.jpg",
@@ -422,7 +416,7 @@
       "image": "assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image1.jpg",
       "alt": "What is UX prototyping? Here's the ultimate guide on how to get started"
     },
-  "supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities": {
+    "supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities": {
       "title": "Supercharge Your E-commerce Search with the Power of Chatbot Capabilities",
       "author": "Veena Varghese",
       "date": "6 Sep, 2024",
@@ -436,7 +430,6 @@
       "image": "assets/images/blog/master-ui-ux-design/empathetic-user-personas-for-mastering-ux-ui-design-thumbnail.jpg",
       "alt": "Master UI UX Design with Empathetic User Personas"
     },
-
     "what-are-wireframes-and-why-are-they-important-in-ux-design": {
       "title": "What are wireframes and why are they important in UX design?",
       "author": "Rakshanda Naik",
@@ -500,7 +493,6 @@
       "image": "assets/images/blog/design-thinking-business-growth/design-thinking-for-business-growth-ux-ui-thumbnail.jpg",
       "alt": "Design Thinking and Its Role in Accelerating Business Growth"
     },
-   
     "what-you-need-to-know-about-vr-interaction-design": {
       "title": "What You Need To Know About VR Interaction Design",
       "author": "UX Research Team",
@@ -669,22 +661,26 @@
       "image": "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
       "alt": "E-commerce UX Design"
     },
-    
-    
     "modernizing-india-s-payment-landscape-with-neobanks-e-payments": {
       "title": "Modernizing India’s Payment Landscape with Neobanks & E-Payments",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/india-neobanks-e-payments/india-neobanks-e-payments.jpg",
-      "alt": "india-neobanks-e-payments"
+      "author": "Liya Theresa Siby",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/india-neobanks-e-payments/neobanking-mobile-app-design-india-payment-ux-ui-thumbnail.jpeg",
+      "alt": "Neobanks & E-Payments"
     },
     "the-power-of-journey-maps-transforming-ui-ux-design-for-business-success": {
       "title": "The Power of Journey Maps: Transforming UI/UX Design for Business Success",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/journey-maps-ui-ux-business/journey-maps-ui-ux-business.jpg",
+      "author": "Veena Varghese",
+      "date": "Feb 29, 2024",
+      "image": "assets/images/blog/journey-maps-ui-ux-business/journey-maps-transforming-ui-ux-design-business-success-bangalore-thumbnail.jpeg",
       "alt": "journey-maps-ui-ux-business"
     },
+
+
+    
+ 
+
+
     "how-a-ux-design-partner-can-benefit-your-company": {
       "title": "How a UX Design Partner Can Benefit Your Company",
       "author": "Content Team",
