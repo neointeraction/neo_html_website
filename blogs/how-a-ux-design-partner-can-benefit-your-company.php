@@ -2,31 +2,32 @@
 <html class="no-js" lang="en">
 
 <head>
-  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-  <?php include $path.'includes/favicon.php'; ?>
-  <?php include $path.'includes/css.php'; ?>
-  <?php include $path.'includes/head-additional-scripts.php'; ?>
-  <title>Effective UX Audit and Website Redesign to boost UX for LIC</title>
-  <meta name="description" content="Design case study on Effective UX Audit and Redesigning LIC Website to boos user experience"/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
-  <meta property="og:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta property="og:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
-  <meta property="og:image:width" content="941"/>
-  <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
-  <meta property="og:site_name" content="Neointeraction"/>
-  <meta property="og:type" content="article"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta property="article:author" content="Thirunavukkarasu Lakshumanan"/>
-  <meta property="article:published_time" content="2024-01-25T10:58:02.450Z"/>
-  <meta property="article:modified_time" content="2024-08-23T04:54:56.696Z"/>
-  <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" title="Neointeraction - RSS" type="application/rss+xml"/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta name="twitter:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
-   
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/favicon.php'; ?>
+    <?php include $path.'includes/css.php'; ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
+    <title>How a UX design partner can benefit your company?</title>
+    <meta name="description" content="A UX design partner will help boost business and fine tune your marketing presence in this digital transformation age." />
+    <link rel="canonical" href="https://www.neointeraction.com/post/how-a-ux-design-partner-can-benefit-your-company" />
+    <meta property="og:title" content="How a UX design partner can benefit your company?" />
+    <meta property="og:description"
+        content="With digitization on the rise all across the globe, it’s no doubt that all types of businesses nowadays need a digital presence. Due to this, digital products will be an important element for running the show for these businesses. And without the success of these products, it would be a big problem for businesses to stay in the game. The solution to this problem is a term you would have heard a lot in recent times, i.e; UX Design (User Experience Design).What is a UX Design?Before jumping in, le" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/benefits-of-ux-design-partner-for-your-company-thumbnail.jpeg" />
+    <meta property="og:image:width" content="941" />
+    <meta property="og:image:height" content="727" />
+    <meta property="og:url" content="https://www.neointeraction.com/post/how-a-ux-design-partner-can-benefit-your-company" />
+    <meta property="og:site_name" content="Neointeraction" />
+    <meta property="og:type" content="article" />
+    <meta property="article:author" content="Rahul Kale" />
+    <meta property="article:published_time" content="2024-01-25T11:13:00.057Z" />
+    <meta property="article:modified_time" content="2024-04-30T09:55:23.979Z" />
+    <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" title="Neointeraction - RSS" type="application/rss+xml" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="How a UX design partner can benefit your company?" />
+    <meta name="twitter:description"
+        content="With digitization on the rise all across the globe, it’s no doubt that all types of businesses nowadays need a digital presence. Due to this, digital products will be an important element for running the show for these businesses. And without the success of these products, it would be a big problem for businesses to stay in the game. The solution to this problem is a term you would have heard a lot in recent times, i.e; UX Design (User Experience Design).What is a UX Design?Before jumping in, le" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/benefits-of-ux-design-partner-for-your-company-thumbnail.jpeg" />
+
 </head>
 
 <body>
@@ -43,56 +44,102 @@
         <div class="container">
             <div class="blog-body-padding">
                 <p class="blog-author-text">
-                    <div class="avatar-img-block">
-                        <img src="<?php echo $path; ?>assets/images/blog/author/.png" alt="avatar" class="avatar-img" />
-                    </div>
-                    <span> • 25 Jan, 2024</span>
+                <div class="avatar-img-block">
+                    <img src="<?php echo $path; ?>assets/images/blog/author/rahul-kale.avif" alt="avatar" class="avatar-img" />
+                </div>
+                <span>Rahul Kale • 25 Jan, 2024</span>
                 </p>
-                <h1 class="banner-title">
-                Effective UX Audit and Website Redesign to boost UX for LIC
-                </h1>
+                <h1 class="blog-title">How a UX design partner can benefit your company?</h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/effective-ux-audit/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/benefits-of-ux-design-partner-for-your-company.jpeg" alt="UX design partner" />
                 </div>
                 <p class="blog-body-text">
-                    Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack of a good user experience. As one of the top ui ux design companies we truly enjoyed redesigning the ux audit for LIC.
+                    With digitization on the rise all across the globe, it’s no doubt that all types of businesses nowadays need a digital presence. Due to this, digital products
+                    will be an important element for running the show for these businesses. And without the success of these products, it would be a big problem for businesses to
+                    stay in the game. The solution to this problem is a term you would have heard a lot in recent times, i.e; UX Design (User Experience Design).
                 </p>
-                <h4 class="blog-body-title">
-                    Identified Problems
-                </h4>
-
+                <h4 class="blog-body-title">What is a UX Design?</h4>
                 <p class="blog-body-text">
-                    <b>Problems related to the UX:</b>
-                    <ul>
-                        <li>The placement of the banner was unclear.</li>
-                        <li>There are too many undesired options on the navigation bar.</li>
-                        <li>Although paying premiums is the most common option for policyholders on the LIC website, it was not prominently shown on the landing page.</li>
-                        <li>Some key items, such as Buy Insurance, Renew Policy, Claim Policy, Claim status, and Premium Calculator, are not highlighted and are difficult to locate.</li>
-                        <li>Users' download links for mobile apps were misplaced.</li>
-                        <li>The landing page is clogged with unnecessary information and content.</li>
-                        <li>The footer options are cluttered and unorganized.</li>
-                    </ul>
+                    Before jumping in, let’s see what UX Design means.
                 </p>
+                <p class="blog-body-text">
+                    “User Experience Design (UX) is a design process whose ultimate goal is to create a solution that provides a positive user experience.”</p>
+                </p>
+                <p class="blog-body-text">
+                    Now that you’re aware of the term UX, explaining it on a deeper level is a topic on its own. But we can briefly show you what goes into building a great user
+                    experience.
+                </p>
+                <ul>
+                    <li><strong>Capture Requirements:</strong> Business needs, user expectations, and product capabilities.</li>
+                    <li><strong>Identify Key Scenarios:</strong> Creating user personas in different settings and identify the tasks the users will be performing.</li>
+                    <li><strong>Create Design Alternatives:</strong> Evaluating multiple design options based on the scenarios.</li>
+                    <li><strong>Evaluate Design:</strong> Review with stakeholders about the cost, feasibility, and scalability of the design.</li>
+                    <li><strong>Refine Design:</strong> Get feedback on the design flow and perform iterative improvements on the design.</li>
+                    <li><strong>Detail Design Specifications:</strong> Developing UI screens based on the company’s branding and vibe.</li>
+                    <li><strong>Build UI Solution:</strong> Developing the best UI design and implementing the design using the latest technologies.</li>
+                </ul>
 
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>
-                    <p class="blog-quote-text">The only constant in the world is “CHANGE". Though this line has become a cliche, it is very important to implement the same in our operation. And of course, the change needs to be planned well considering all the right and critical factors.</p>
+                    <p class="blog-quote-text">User Experience Design (UX) is a design process whose ultimate goal is to create a solution that provides a positive user experience.
+                    </p>
                 </div>
-
-               
+                <h4 class="blog-body-title">Why your business will need UX design?</h4>
                 <p class="blog-body-text">
-                    <a href="" target="_blank">here</a>.
+                    Now that you’re aware of the meaning of UX design, let’s see what it brings to the table. Be it your website, mobile app, or any other digital platform that
+                    your business depends on, UX design can be applied everywhere and at times, even to physical products as well.
                 </p>
-
-               
-
+                <p class="blog-body-text">
+                    The need to have a good user experience for your products will be the number one priority for all businesses in the coming years. Also, some of the most
+                    successful companies that we know understand the value of UI UX design and have been investing in UX design consistently. Below are some examples of how UX is
+                    directly involved in a company’s success.
+                </p>
+                <ul>
+                    <li>On average, for every $1 spent in website UX, the company can expect a return of investment up to $100. (UX Planet, 2020)</li>
+                    <li>80% of consumers are willing to pay extra for a better user experience. (UX Planet, 2020)</li>
+                    <li>A good UX design increases a website’s conversion rate up to 200%. (Forbes)</li>
+                    <li>70% of business leaders view UX and CX as competitive differentiators. (UserZoom, 2019)</li>
+                    <li>Intentional and strategic user experience has the potential to raise conversion rates by as much as 400%. (Forbes)</li>
+                    <li>Airbnb attributes UX for taking them from being a near-failure to being valued at $10 million. (First Round Review)</li>
+                </ul>
+                <div class="blog-banner-img">
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/ux-design-process-for-business-success.jpg"
+                        alt="ux deisgn process for businesses" />
+                </div>
+                <h4 class="blog-body-title">How does a UX Design Partner help your business?</h4>
+                <p class="blog-body-text">
+                    There are plenty of UI UX Design Companies out there and selecting the right one could make a massive difference for your business. One of the top UI UX design
+                    firms, Neointeraction Design, can help your company grow by using a thorough design process and client communication. Investing in UI UX design from the start
+                    can ensure that your product is delivering customer expectations on point! And if you’re not able to meet their needs, well no one’s going to use your product.
+                    It’s as simple as that. With such tough competition going around these days, even being the best is sometimes not enough. You need to build trust with your
+                    consumers and continue giving them the best experience. With that being said, you may still be wondering about what exactly will a design product company do to
+                    help my business succeed. So let’s see that next, shall we?
+                </p>
+                <ul>
+                    <li><strong>Conduct User Research:</strong> Every design process starts with collecting data. While developing a product, it is very important to understand
+                        what problem we are trying to solve and for who. Based on this knowledge, designers can create flows and designs that feel familiar to that particular user
+                        base. And when done right, it can deliver the needs of users giving them a satisfying user experience.</li>
+                    <li><strong>Build Quick Wireframes and Prototypes:</strong> Whenever your business is planning on releasing a new product, it is very important to check it’s
+                        feasibility and usability. And the fastest way to ensure this is by building wireframes or prototypes. This process will show if your product has any
+                        underlying issues that you may have not thought of before. And a streamlined process of product design will take care of that for you.</li>
+                    <li><strong>Get Early Feedback:</strong> Building up from the previous point, the wireframes or prototypes that get developed can be shared with a select number
+                        of your users. And with their feedback, whether good or bad, you will now know what is working well and what’s not. With these inputs, the design can be
+                        modified and made better before you launch the new product.</li>
+                    <li><strong>Helps Reduce Costs:</strong> Now imagine a scenario where you launch a product without a design process. You have no data about the users or what
+                        they want. And eventually down the road, your users will have a bad user experience and turn their backs on the product. What do you do, restart the whole
+                        process? And what would it cost to start it all again? That’s one big reason to invest in UX design. Starting the process with a planned approach will
+                        always help your business stay on a safer side whenever you’re planning to launch a new product or service.</li>
+                    <li><strong>Positive word of mouth and brand loyalty:</strong> With good customer service, you’re not only making your customers happy but also bringing in new
+                        ones. Positive word of mouth can help boost your business to the next level and if you can use Social Media here the right way, your business will get
+                        strong validation from a lot of potential customers. And continuing to deliver this positive user experience will eventually result in a loyal user base who
+                        will always have your back.</li>
+                </ul>
                 <h4 class="blog-body-title">Conclusion</h4>
-
                 <p class="blog-body-text">
-                    UX Audit is a necessary aspect of the design process in order to create a solution that meets both business and user requirements. If we focus on the details of the product and services, we tend to overlook the users and their perspectives. UX strategy and research play an important role in the process of product design. The most important factor of this project was that users might easily be lost due to a bad online presence experience.
+                    Well, there's no doubt that UX design is one of the key factors in determining the success of a company. As Steve Jobs perfectly stated, “Design is not just
+                    what it looks like and feels like. Design is how it works”. Implementing a process of product design while developing a new product will help you gain valuable
+                    insights which will help you shape its success.
                 </p>
-
-
                 <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
                     <button class="btn btn-custom btn-custom-secondary">
                         View All Blogs

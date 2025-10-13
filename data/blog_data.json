@@ -2,7 +2,6 @@
   "featured_blog_slug": "effective-communication-with-clients-and-5-ways-to-improve-it",
   "blog_metadata": {
 
-    
     "effective-communication-with-clients-and-5-ways-to-improve-it": {
       "title": "Effective Communication with clients and 5 ways to improve it",
       "author": "Sahla Feroc",
@@ -675,68 +674,69 @@
       "image": "assets/images/blog/journey-maps-ui-ux-business/journey-maps-transforming-ui-ux-design-business-success-bangalore-thumbnail.jpeg",
       "alt": "journey-maps-ui-ux-business"
     },
-
-
-    
- 
-
-
     "how-a-ux-design-partner-can-benefit-your-company": {
       "title": "How a UX Design Partner Can Benefit Your Company",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/ux-design-partner-benefits/ux-design-partner-benefits.jpg",
+      "author": "Rahul Kale",
+      "date": "Jan 25, 2024",
+      "image": "assets/images/blog/ux-design-partner-benefits/benefits-of-ux-design-partner-for-your-company-thumbnail.jpeg",
       "alt": "ux-design-partner-benefits"
     },
     "what-is-ux-design-process-a-complete-actionable-guide": {
       "title": "What Is UX Design Process? A Complete Actionable Guide",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/ux-design-process-guide/ux-design-process-guide.jpg",
+      "author": "Rahul Kale",
+      "date": "Jan 25, 2024",
+      "image": "assets/images/blog/ux-design-process-guide/ux-ui-design-process-neointeraction-design-thumbnail.jpeg",
       "alt": "ux-design-process-guide"
     },
     "6-big-reasons-to-apply-illustrations-in-ui-ux-design": {
       "title": "6 Big Reasons to Apply Illustrations in UI/UX Design",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/illustrations-ui-ux-design/illustrations-ui-ux-design.jpg",
+      "author": "Sebin George",
+      "date": "Jan 25, 2024",
+      "image": "assets/images/blog/illustrations-ui-ux-design/ui-design-illustrations-thumbnail.jpeg",
       "alt": "illustrations-ui-ux-design"
     },
     "why-business-objectives-are-central-to-good-design": {
       "title": "Why Business Objectives Are Central to Good Design",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/business-objectives-good-design/business-objectives-good-design.jpg",
+      "author": "Wenkit",
+      "date": "Jan 25, 2024",
+      "image": "assets/images/blog/business-objectives-good-design/business-objectives-for-good-ux-ui-design-thumbnail.jpeg",
       "alt": "business-objectives-good-design"
     },
     "top-5-reasons-to-use-react-over-other-frontends": {
       "title": "Top 5 Reasons to Use React Over Other Frontends",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/react-frontend-reasons/react-frontend-reasons.jpg",
+      "author": "Aditya Sharma",
+      "date": "Jun 25, 2024",
+      "image": "assets/images/blog/react-frontend-reasons/react-js-for-frontend-ux-ui-development-thumbnail.jpeg",
       "alt": "react-frontend-reasons"
     },
     "how-zomato-s-gamification-took-the-2023-world-cup-with-a-cricket-twist": {
       "title": "How Zomato’s Gamification Took the 2023 World Cup with a Cricket Twist",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/zomato-gamification-cricket/zomato-gamification-cricket.jpg",
+      "author": "Veena Varghese",
+      "date": "Apr 22, 2024",
+      "image": "assets/images/blog/zomato-gamification-cricket/zomato-gamification-cricket-world-cup-2023-ux-ui-thumbnail.jpeg",
       "alt": "zomato-gamification-cricket"
     },
     "how-data-driven-ux-design-transforms-construction-industry": {
       "title": "How Data-Driven UX Design Transforms the Construction Industry",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/data-driven-ux-construction/data-driven-ux-construction.jpg",
+      "author": "Veena Varghese",
+      "date": "Jul 29, 2024",
+      "image": "assets/images/blog/data-driven-ux-construction/construction-ux-ui-thumbnail.jpeg",
       "alt": "data-driven-ux-construction"
     },
     "exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study": {
       "title": "Exploring HubSpot’s Remarkable UI/UX Transformation: A Comprehensive Case Study",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-transformation.jpg",
-      "alt": "hubspot-ui-ux-transformation"
+      "author": "Bharath A Manoj",
+      "date": "May 10, 2024",
+      "image": "assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-transformation-case-study-ux-ui-thumbnail.jpeg",
+      "alt": "Exploring HubSpot’s Remarkable UI/UX Transformation"
     },
+
+
+
+ 
+
+
+    
     "top-5-strategies-for-frontend-performance-optimization": {
       "title": "Top 5 Strategies for Frontend Performance Optimization",
       "author": "Content Team",
