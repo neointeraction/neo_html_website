@@ -6,26 +6,21 @@
   <?php include $path.'includes/favicon.php'; ?>
   <?php include $path.'includes/css.php'; ?>
   <?php include $path.'includes/head-additional-scripts.php'; ?>
-  <title>Effective UX Audit and Website Redesign to boost UX for LIC</title>
-  <meta name="description" content="Design case study on Effective UX Audit and Redesigning LIC Website to boos user experience"/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
-  <meta property="og:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta property="og:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
-  <meta property="og:image:width" content="941"/>
-  <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
+  <title>Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product</title>
+  <meta name="description" content="In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients."/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/enhancing-user-experience-applying-cognitive-biases-and-principles-in-a-healthcare-product.php"/>
+  <meta property="og:title" content="Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product"/>
+  <meta property="og:description" content="In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients."/>
+  <meta property="og:image" content="https://www.neointeraction.com/assets/images/blog/cognitive-biases-healthcare-ux/banner.jpeg"/>
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/enhancing-user-experience-applying-cognitive-biases-and-principles-in-a-healthcare-product.php"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta property="article:author" content="Thirunavukkarasu Lakshumanan"/>
-  <meta property="article:published_time" content="2024-01-25T10:58:02.450Z"/>
-  <meta property="article:modified_time" content="2024-08-23T04:54:56.696Z"/>
-  <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" title="Neointeraction - RSS" type="application/rss+xml"/>
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta name="twitter:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
+  <meta name="twitter:title" content="Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product"/>
+  <meta name="twitter:description" content="In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients."/>
+  <meta name="twitter:image" content="https://www.neointeraction.com/assets/images/blog/cognitive-biases-healthcare-ux/banner.jpeg"/>
    
 </head>
 
@@ -42,64 +37,64 @@
     <section class="banner section-padding">
         <div class="container">
             <div class="blog-body-padding">
-                <p class="blog-author-text">
+     <p class="blog-author-text">
                     <div class="avatar-img-block">
-                        <img src="<?php echo $path; ?>assets/images/blog/author/.png" alt="avatar" class="avatar-img" />
+                        <img src="<?php echo $path; ?>assets/images/blog/author/veena-varghese.avif" alt="avatar" class="avatar-img" />
                     </div>
-                    <span> • 25 Jan, 2024</span>
+                    <span>Nivedha Raju • Jan 23, 2024</span>
                 </p>
-                <h1 class="banner-title">
-                Effective UX Audit and Website Redesign to boost UX for LIC
-                </h1>
-                <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/effective-ux-audit/image1.jpg" alt="blog1" />
-                </div>
-                <p class="blog-body-text">
-                    Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack of a good user experience. As one of the top ui ux design companies we truly enjoyed redesigning the ux audit for LIC.
-                </p>
-                <h4 class="blog-body-title">
-                    Identified Problems
-                </h4>
+    <h1 class="blog-title">Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product</h1>
+    
+    <div class="blog-banner-img">
+        <img src="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/banner.jpeg" alt="User Experience applying cognitive biases" />
+    </div>
+    <p class="blog-body-text">In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients. However, ignoring or performing poorly on the UX can result in issues including inefficiency, low user engagement, and patient discontent. A user-friendly telemedicine platform, for instance, makes it simpler for patients to book appointments, view records, and connect with clinicians, improving experiences and health results. However, people may struggle to use medical equipment appropriately if it has a challenging user interface or confusing instructions, which could be harmful to their health.</p>
+    <h4 class="blog-body-title">What are Cognitive biases and principles in UX?</h4>
+    <p class="blog-body-text"><a href="https://positivepsychology.com/cognitive-biases/" target="_blank">Cognitive biases</a> and principles are how our minds naturally work when using a product or service. These biases and principles affect how we think, make decisions, and perceive things. For instance, we tend to prefer things that are familiar to us (mere exposure effect) and often seek information that confirms what we already believe (confirmation bias). When designing user experiences, it's important to be aware of these biases and principles so that we can create designs that are user-friendly, intuitive, and serve users' needs and preferences. By correctly understanding and applying these biases and principles, we can create products with better user experience.</p>
+    <div class="blog-quote-block">
+        <p class="blog-quote-text">We must design for the way people behave, not for how we would wish them to behave. ―Donald A. Norman, Living with Complexity</p>
+    </div>
+    <h4 class="blog-body-title">Applying Cognitive biases and principles in Healthcare products</h4>
+    <p class="blog-body-text">When it comes to designing healthcare products, using Cognitive biases and principles can make a huge difference in how users interact with them and their user experiences. By understanding how our minds work and applying this knowledge to design, we can create products that are easy to use and help people make better decisions about their health.</p>
+    <p class="blog-body-text">Here are some common Cognitive biases and principles used in healthcare products:</p>
+    <p class="blog-body-text"><strong>1. Hick’s Law: </strong>Have you ever noticed that it takes longer to make a decision when you have a lot of options to choose from? Well, that's what Hick's Law is all about. While designing healthcare products, this principle can be really useful. By keeping the number of choices to a minimum, especially when it comes to making important decisions, we as a designer can make it easier for users to navigate and find what they need.</p>
+    <div class="blog-banner-img">
+        <img src="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/hicks-law.gif" alt="Hick’s Law" />
+    </div>
+    <p class="blog-body-text"><i>Example of Hick’s law with endless options while booking an appointment. Source: <a href="https://giphy.com/" target="_blank">Giphy</a></i></p>
+    <p class="blog-body-text">For instance, when booking an appointment, a simplified process with fewer steps and options can make the experience smoother and less overwhelming for users.</p>
+    <p class="blog-body-text"><strong>2. Anchoring Bias:</strong> Did you know that the first piece of information we come across can heavily influence our decision-making? It's called anchoring bias. Healthcare products can use this bias to their advantage. They can strategically place important information right at the beginning to make a strong impact on users.</p>
+    <div class="blog-banner-img">
+        <img src="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/anchoring-bias.gif" alt="Anchoring Bias" />
+    </div>
+    <p class="blog-body-text"><i>Initial information's influence emphasizes the Anchoring Bias principle. Source: <a href="https://giphy.com/" target="_blank">Giphy</a></i></p>
+    <p class="blog-body-text">For instance, When users are evaluating various healthcare plans, if the product prominently displays the main benefits and costs of a specific plan right away, it may influence their choice.</p>
+    <p class="blog-body-text"><strong>3. Framing effect:</strong> Did you know that how information is presented can affect our decisions? It's called the framing effect. Healthcare products can make use of this bias by being thoughtful about the language they use. By carefully choosing the words and tone in their content, they can impact users' choices.</p>
+    <div class="blog-banner-img">
+        <img src="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/framing-effect.gif" alt="Framing effect" />
+    </div>
+    <p class="blog-body-text"><i>The Framing animation emphasizes the importance of framing effect in design. Source: <a href="https://giphy.com/" target="_blank">Giphy</a></i></p>
+    <p class="blog-body-text">For instance, using positive and motivating language when talking about healthy lifestyle options or highlighting the potential advantages of a specific treatment can shape how users perceive those options and even inspire them to take action.</p>
+    <p class="blog-body-text"><strong>4. Loss aversion:</strong> Did you know that we often feel the fear of losing something more intensely than the joy of gaining something? It's called loss aversion. In healthcare products, this bias can encourage users to prioritize their health. By highlighting the negative outcomes that can result from not taking preventive measures or seeking timely treatment, the products can create a sense of urgency.</p>
+    <div class="blog-banner-img">
+        <img src="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/loss-aversion.gif" alt="Loss aversion" />
+    </div>
+    <p class="blog-body-text"><i>Fear of losing is outweighed more than gain. Source: <a href="https://giphy.com/" target="_blank">Giphy</a></i></p>
+    <p class="blog-body-text">For instance, by emphasizing the risks of not getting vaccinated or skipping regular check-ups, users may be motivated to take action and protect their well-being.</p>
+    <h4 class="blog-body-title">Salient points</h4>
+    <ul>
+        <li>User experience (UX) is critical for their success and impact on healthcare products.</li>
+        <li>To design interfaces that work well and are easy for people to use, it's important to understand how the human brain tends to behave.</li>
+        <li>By using cognitive biases and principles when designing healthcare products, we can make them more user-friendly and easy to understand. This, in turn, increases user satisfaction and keeps people engaged with the products.</li>
+    </ul>
+    <p class="blog-body-text">Effective planning and design are crucial for Healthcare UX UI. This is precisely where the expertise of <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a> comes into play. Our team ensures the provision of top-notch <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore" target="_blank">UI/UX design services</a> that seamlessly integrate throughout the entire product design process.</p>
 
-                <p class="blog-body-text">
-                    <b>Problems related to the UX:</b>
-                    <ul>
-                        <li>The placement of the banner was unclear.</li>
-                        <li>There are too many undesired options on the navigation bar.</li>
-                        <li>Although paying premiums is the most common option for policyholders on the LIC website, it was not prominently shown on the landing page.</li>
-                        <li>Some key items, such as Buy Insurance, Renew Policy, Claim Policy, Claim status, and Premium Calculator, are not highlighted and are difficult to locate.</li>
-                        <li>Users' download links for mobile apps were misplaced.</li>
-                        <li>The landing page is clogged with unnecessary information and content.</li>
-                        <li>The footer options are cluttered and unorganized.</li>
-                    </ul>
-                </p>
-
-                <div class="blog-quote-block">
-                    <div class="quote-icon"></div>
-                    <p class="blog-quote-text">The only constant in the world is “CHANGE". Though this line has become a cliche, it is very important to implement the same in our operation. And of course, the change needs to be planned well considering all the right and critical factors.</p>
-                </div>
-
-               
-                <p class="blog-body-text">
-                    <a href="" target="_blank">here</a>.
-                </p>
-
-               
-
-                <h4 class="blog-body-title">Conclusion</h4>
-
-                <p class="blog-body-text">
-                    UX Audit is a necessary aspect of the design process in order to create a solution that meets both business and user requirements. If we focus on the details of the product and services, we tend to overlook the users and their perspectives. UX strategy and research play an important role in the process of product design. The most important factor of this project was that users might easily be lost due to a bad online presence experience.
-                </p>
-
-
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
-
-            </div>
+    <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
+        <button class="btn btn-custom btn-custom-secondary">
+            View All Blogs
+        </button>
+    </a>
+</div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>
 
