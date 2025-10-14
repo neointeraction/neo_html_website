@@ -22,39 +22,6 @@
         content="https://www.neointeraction.com/post/how-ui-ux-design-contributes-to-the-success-of-open-banking" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "author": {
-            "@type": "Person",
-            "name": "Sahla  Feroc",
-            "url": "https://www.neointeraction.com/members-area/sahla/profile"
-        },
-        "dateModified": "2024-02-02T13:04:57.723Z",
-        "datePublished": "2024-01-24T06:27:25.747Z",
-        "headline": "How UI UX Design Contributes to the Success of Open Banking",
-        "mainEntityOfPage": {
-            "@id": "https://www.neointeraction.com/post/how-ui-ux-design-contributes-to-the-success-of-open-banking",
-            "@type": "itemPage",
-            "url": "https://www.neointeraction.com/post/how-ui-ux-design-contributes-to-the-success-of-open-banking"
-        },
-        "description": "Learn how to create a strong user experience with our expert-led guide on UI UX design in open banking.",
-        "url": "https://www.neointeraction.com/post/how-ui-ux-design-contributes-to-the-success-of-open-banking",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.wixstatic.com/media/c380a9_3773cfe913754feb969810fcb1d9ac7b~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_3773cfe913754feb969810fcb1d9ac7b~mv2.webp",
-            "width": "941",
-            "height": "727"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "url": "https://www.neointeraction.com"
-        }
-    }
-    </script>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Sahla  Feroc" />
     <meta property="article:published_time" content="2024-01-24T06:27:25.747Z" />
     <meta property="article:modified_time" content="2024-02-02T13:04:57.723Z" />
