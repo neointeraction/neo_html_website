@@ -1,726 +1,852 @@
 {
-  "featured_blog_slug": "tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization",
+  "featured_blog_slug": "effective-communication-with-clients-and-5-ways-to-improve-it",
   "blog_metadata": {
-    "tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization": {
-      "title": "Tailoring AI-Powered DTx: The Importance of Healthcare Personalization",
-      "author": "Vanessa Lobo",
-      "date": "Jun 26, 2024",
-      "image": "assets/images/blog/tailoring-ai-powered-dtx/image1.jpg",
-      "alt": "Tailoring Ai Powered Dtx"
-    },
-  "composable-business-how-ux-design-secure-better-user-experiences": {
-      "title": "Composable Business : How UX Design Secure Better User Experiences",
+    "effective-communication-with-clients-and-5-ways-to-improve-it": {
+      "title": "Effective Communication with clients and 5 ways to improve it",
       "author": "Sahla Feroc",
-      "date": "Dec 27, 2024",
-      "image": "assets/images/blog/composible-business/image1.jpg",
-      "alt": "Composable Business "
-    },
-    "what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences": {
-      "title": "What You Need To Know About VR Interaction Design For Immersive Experiences",
-      "author": "Sakshi Patil",
-      "date": "20 Dec, 2024",
-      "image": "assets/images/blog/what-you-need-to-know-about-vr/image1.jpg",
-      "alt": "What You Need To Know About VR"
-    },
-    "how-to-boost-ux-security-and-see-better-results": {
-      "title": "How To Boost UX Security And See Better Results",
-      "author": "Sahla Feroc",
-      "date": "13 Dec, 2024",
-      "image": "assets/images/blog/how-to-boost-ux/image1.jpg",
-      "alt": "How To Boost Ux"
-    },
-   "ai-for-everyday-users-designing-for-seamless-ai-integration": {
-      "title": "AI for Everyday Users: Designing for Seamless AI Integration",
-      "author": "Veena Varghese",
-      "date": "Dec 11, 2024",
-      "image": "assets/images/blog/ai-seamless-integration/ai-user-interface-design-for-seamless-ux-integration-thumbnail.jpg",
-      "alt": "Ai Seamless Integration"
-    },
-    "learn-how-to-design-for-hybrid-workforce-model-now": {
-      "title": "Learn How to Design for Hybrid Workforce Model Now",
-      "author": "Sahla Feroc",
-      "date": "Dec 4, 2024",
-      "image": "assets/images/blog/design-hybrid-workforce/ux-hybrid-workforce-thumbnail.jpeg",
-      "alt": "Design Hybrid Workforce"
-    },
-    "voice-user-interface-design-audits-how-to-make-user-engagement": {
-      "title": "Voice User Interface Design Audits: How To Make User Engagement",
-      "author": "Sahla Feroc",
-      "date": "27 Nov, 2024",
-      "image": "assets/images/blog/voice-user-interface/image1.jpg",
-      "alt": "Voice User Interface"
-    },
-    "everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know": {
-      "title": "Everything As A Service (XaaS) & The Surging UI UX Landscape: What You Need To Know",
-      "author": "Sahla Feroc",
-      "date": "Nov 22, 2024",
-      "image": "assets/images/blog/everything-as-a-service/image1.jpg",
-      "alt": "Everything As A Service"
-    },
-        "learn-how-to-create-a-wondrous-saas-onboarding-process-now": {
-      "title": "Learn How To Create A Wondrous SaaS Onboarding Process Now",
-      "author": "Sakshi Patil",
-      "date": "21 Aug, 2024",
-      "image": "assets/images/blog/learn-how-to-create-a-wondrous-saas/image1.jpg",
-      "alt": "Learn How To Create A Wondrous Saas"
-    },
-      "empower-saas-with-ai-a-better-powerful-user-experience": {
-      "title": "Empower SaaS With AI: A Better & Powerful User Experience",
-      "author": "Sahla Feroc",
-      "date": "Nov 15, 2024",
-      "image": "assets/images/blog/empower-saas-with-ai/image1.jpg",
-      "alt": "Empower Saas With Ai"
-    },
-    "how-to-make-guaranteed-success-with-design-as-a-service": {
-      "title": "How To Make Guaranteed Success With Design As A Service",
-      "author": "Sahla Feroc",
-      "date": "13 Nov, 2024",
-      "image": "assets/images/blog/how-to-make-guaranteed/image1.jpg",
-      "alt": "How To Make Guaranteed"
-    },
-    "what-are-the-top-saas-trends-for-2024-a-look-at-emerging-design-innovations": {
-      "title": "What Are the Top SaaS Trends for 2024? A Look at Emerging Design Innovations",
-      "author": "Sebin George",
-      "date": "Jan 25, 2024",
-      "image": "assets/images/blog/what-are-the-top-saas-trends/image1.jpg",
-      "alt": "What Are The Top Saas Trends"
-    },
-    "how-gmail-s-ux-design-makes-email-management-better": {
-      "title": "How Gmail's UX Design makes email management better",
-      "author": "Vanessa Lobo",
-      "date": "Nov 6, 2024",
-      "image": "assets/images/blog/how-gmail-ui/image1.jpg",
-      "alt": "How Gmail Ui"
-    },
-    "unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization": {
-      "title": "Unlock Future Of UX Design: Epic Guide To AI-Powered Personalization",
-      "author": "Sebin George",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/unlock-future-of-ux/image1.jpg",
-      "alt": "Unlock Future Of Ux"
-    },
-    "how-to-make-strategic-business-growth-through-ux-design": {
-      "title": "How to make Strategic Business Growth Through UX Design",
-      "author": "Sahla Feroc",
-      "date": "30 Oct, 2024",
-      "image": "assets/images/blog/how-to-make-strategic/image1.jpg",
-      "alt": "How To Make Strategic"
-    },
-    "know-how-to-design-for-mixed-reality-in-ux-now": {
-      "title": "Know How To Design For Mixed Reality In UX now",
-      "author": "Sakshi Patil",
-      "date": "25 Oct, 2024",
-      "image": "assets/images/blog/know-how-to-design/know-how-to-design-image1.jpg",
-      "alt": "Know How To Design"
-    },
-  "designing-for-metaverse-introducing-the-mind-blowing-future-of-ux": {
-      "title": "Designing For Metaverse: Introducing The Mind-blowing Future Of UX",
-      "author": "Sakshi Patil",
-      "date": "Oct 23, 2024",
-      "image": "assets/images/blog/designing-for-the-metaverse/image1.jpg",
-      "alt": "Designing For The Metaverse"
-    },
-    "maximizing-efficiency-with-ai-powered-ux-audits-the-future-of-saas-product-optimization": {
-      "title": "The Ultimate Guide To AI UX Audits: Empower SaaS Product",
-      "author": "Sahla Feroc",
-      "date": "Oct 17, 2024",
-      "image": "assets/images/blog/maximizing-efficiency/image1.jpg",
-      "alt": "Maximizing Efficiency"
-    },
-    "unlock-wix-editorx-eye-opening-insights-on-its-strengths-and-drawbacks": {
-      "title": "Unlock Wix EditorX: Eye-Opening Insights on Its Strengths and Drawbacks",
-      "author": "Sahla Feroc",
-      "date": "Sep 25, 2024",
-      "image": "assets/images/blog/wix-editorx-strengths-drawbacks/wix-editorx-insights-thumbnail.jpeg",
-      "alt": "Wix Editorx Strengths Drawbacks"
-    },
-  "profitable-design-how-ux-ui-boosts-app-monetization": {
-      "title": "Profitable Design: How UX UI Boosts App Monetization",
-      "author": "Sakshi Patil",
-      "date": "13 Sep, 2021",
-      "image": "assets/images/blog/profitable-design-how/image1.jpg",
-      "alt": "Profitable Design How"
-    },
-    "how-bumble-s-diverse-connection-modes-boost-user-engagement-and-retention": {
-      "title": "How Bumble's Diverse Connection Modes Boost User Engagement and Retention",
-      "author": "Sakshi Patil",
-      "date": "Sept 11, 2024",
-      "image": "assets/images/blog/how-bumble-diverse/image1.jpg",
-      "alt": "How Bumble Diverse"
-    },
- "supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities": {
-      "title": "Supercharge Your E-commerce Search with the Power of Chatbot Capabilities",
-      "author": "Veena Varghese",
-      "date": "6 Sep, 2024",
-      "image": "assets/images/blog/supercharge-your-e-commerce-search/supercharge-your-e-commerce-search-image1.jpg",
-      "alt": "Supercharge Your E Commerce Search"
+      "date": "2 Jan, 2021",
+      "image": "assets/images/blog/effective-communication/image1.jpg",
+      "alt": "E-commerce UX Design"
     },
     "the-future-of-ux-ui-navigating-2024-s-breakthrough-trends": {
       "title": "The Future Of UX UI: Navigating 2024's Breakthrough Trends",
       "author": "Sahla Feroc",
       "date": "2 Jan, 2021",
       "image": "assets/images/blog/future-of-ux/image1.jpg",
-      "alt": "Future Of Ux"
+      "alt": "UX Design"
     },
-    "how-to-drive-success-through-inclusive-ux-design": {
-      "title": "How to drive success through Inclusive UX design?",
-      "author": "Sakshi Patil",
-      "date": "21 Aug, 2024",
-      "image": "assets/images/blog/how-to-drive-success/image1.jpg",
-      "alt": "How To Drive Success"
-    },
-    "tap-into-the-revolutionary-potential-of-ai-for-ux-research": {
-      "title": "Tap into the Revolutionary Potential of AI for UX Research",
-      "author": "Veena Varghese",
-      "date": "Aug 9, 2024",
-      "image": "assets/images/blog/tap-into-revolutionary/image1.jpg",
-      "alt": "Tap Into Revolutionary"
-    },
-   "emotional-design-in-ux-what-you-need-to-know-for-great-ux": {
-      "title": "Emotional Design in UX: What You Need to Know for Great UX",
+    "voice-user-interface-design-audits-how-to-make-user-engagement": {
+      "title": "Voice User Interface Design Audits: How To Make User Engagement",
       "author": "Sahla Feroc",
-      "date": "Aug 2, 2024",
-      "image": "assets/images/blog/emotional-design-great-ux/emotional-design-for-great-ux-thumbnail.jpeg",
-      "alt": "Emotional Design Great Ux"
+      "date": "27 Nov, 2024",
+      "image": "assets/images/blog/voice-user-interface/image1.jpg",
+      "alt": "UX Design"
     },
-    "how-data-driven-ux-design-transforms-construction-industry": {
-      "title": "How Data-Driven UX Design Transforms the Construction Industry",
-      "author": "Veena Varghese",
-      "date": "Jul 29, 2024",
-      "image": "assets/images/blog/data-driven-ux-construction/construction-ux-ui-thumbnail.jpeg",
-      "alt": "Data Driven Ux Construction"
+    "how-to-make-strategic-business-growth-through-ux-design": {
+      "title": "How to make Strategic Business Growth Through UX Design",
+      "author": "Sahla Feroc",
+      "date": "30 Oct, 2024",
+      "image": "assets/images/blog/how-to-make-strategic/image1.jpg",
+      "alt": "UX Design"
     },
-    "innovative-ux-design-in-edtech-enhancing-learning-experiences-for-students": {
-      "title": "Innovative UX Design In EdTech: Enhancing Learning Experiences For Students",
-      "author": "Sakshi Patil",
-      "date": "24 Jul, 2024",
-      "image": "assets/images/blog/innovative-ux-design-in-edtech/innovative-ux-design-in-edtech-image1.jpg",
-      "alt": "Innovative Ux Design In Edtech"
+    "what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design": {
+      "title": "What is Design Thinking and How to Implement it in UI UX Design",
+      "author": "Sebin George",
+      "date": "25 Jan, 2024",
+      "image": "assets/images/blog/what-is-design-thinking/image1.jpg",
+      "alt": "UX Design"
+    },
+    "effective-ux-audit-and-website-redesign-to-boost-ux-for-lic": {
+      "title": "Effective UX Audit and Website Redesign to boost UX for LIC",
+      "author": "Thirunavukkarasu Lakshumanan",
+      "date": "10 months ago",
+      "image": "assets/images/blog/effective-ux-audit/image1.jpg",
+      "alt": "Effective UX Audit and Website Redesign to boost UX for LIC"
+    },
+    "maximizing-efficiency-with-ai-powered-ux-audits-the-future-of-saas-product-optimization": {
+      "title": "The Ultimate Guide To AI UX Audits: Empower SaaS Product",
+      "author": "Sahla Feroc",
+      "date": "Oct 17, 2024",
+      "image": "assets/images/blog/maximizing-efficiency/image1.jpg",
+      "alt": "Maximizing Effiency with AI UX Audits"
+    },
+    "how-gmail-s-ux-design-makes-email-management-better": {
+      "title": "How Gmail's UX Design makes email management better",
+      "author": "Vanessa Lobo",
+      "date": "Nov 6, 2024",
+      "image": "assets/images/blog/how-gmail-ui/image1.jpg",
+      "alt": "How Gmail's UX Design makes email management better"
+    },
+    "how-to-bring-a-unified-frontend-experience-for-all-our-products": {
+      "title": "How to bring a unified frontend experience for all our products",
+      "author": "Aditya Sharma",
+      "date": "Jul 17, 2024",
+      "image": "assets/images/blog/how-to-bring-unified/image1.jpg",
+      "alt": "How to bring a unified frontend experience for all our products"
+    },
+    "top-5-frontend-development-trends-of-2024": {
+      "title": "Top 5 frontend development trends of 2024",
+      "author": "Aditya Sharma",
+      "date": "Jul 12, 2024",
+      "image": "assets/images/blog/top-frontend-trends/image1.jpg",
+      "alt": "Top 5 frontend development trends of 2024"
     },
     "voice-interface-design-enhancing-user-interaction-in-a-voice-first-world": {
       "title": "Voice Interface Design: Enhancing User Interaction in a Voice-First World",
       "author": "Vanessa Lobo",
       "date": "Jul 19, 2024",
       "image": "assets/images/blog/voice-interface-design/image1.jpg",
-      "alt": "Voice Interface Design"
+      "alt": "Voice Interface Design: Enhancing User Interaction in a Voice-First World"
     },
- "how-to-bring-a-unified-frontend-experience-for-all-our-products": {
-      "title": "How to bring a unified frontend experience for all our products",
-      "author": "Aditya Sharma",
-      "date": "Jul 17, 2024",
-      "image": "assets/images/blog/how-to-bring-unified/image1.jpg",
-      "alt": "How To Bring Unified"
+    "the-impact-of-color-in-branding": {
+      "title": "The Impact of Color in Branding",
+      "author": "Sahla Feroc",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/impact-of-color/image1.jpg",
+      "alt": "The Impact of Color in Branding"
     },
-"top-5-frontend-development-trends-of-2024": {
-      "title": "Top 5 frontend development trends of 2024",
-      "author": "Aditya Sharma",
-      "date": "Jul 12, 2024",
-      "image": "assets/images/blog/top-frontend-trends/image1.jpg",
-      "alt": "Top Frontend Trends"
+    "adobe-buys-figma-is-this-a-positive-or-negative-development": {
+      "title": "Adobe Buys Figma: Is this a positive or negative development?",
+      "author": "Ashutosh Shakya",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/adobe-buys-figma/image1.jpg",
+      "alt": "Adobe Buys Figma: Is this a positive or negative development?"
     },
-  "design-systems-mfa-micro-front-end-architecture-a-quick-fact-check": {
-      "title": "Design systems & MFA (Micro front end architecture) - a quick fact check!",
-      "author": "Liya Theresa Siby",
-      "date": "9 Jul, 2024",
-      "image": "assets/images/blog/design-systems-mfa-micro-front-end/image1.jpg",
-      "alt": "Design Systems Mfa Micro Front End"
+    "how-bumble-s-diverse-connection-modes-boost-user-engagement-and-retention": {
+      "title": "How Bumble's Diverse Connection Modes Boost User Engagement and Retention",
+      "author": "Sakshi Patil",
+      "date": "Sept 11, 2024",
+      "image": "assets/images/blog/how-bumble-diverse/image1.jpg",
+      "alt": "How Bumble's Diverse Connection Modes Boost User Engagement and Retention"
     },
- "top-5-strategies-for-frontend-performance-optimization": {
-      "title": "Top 5 Strategies for Frontend Performance Optimization",
-      "author": "Aditya Sharma",
-      "date": "05 Jul, 2024",
-      "image": "assets/images/blog/frontend-performance-optimization/frontend-performance-importance-thumbnail.jpeg",
-      "alt": "Frontend Performance Optimization"
-    },
- "why-hiring-a-contract-front-end-developer-is-more-economical-than-hiring-a-permanent-employee": {
-      "title": "Why Hiring a Contract Front-End Developer Is More Economical Than Hiring a Permanent Employee",
-      "author": "Liya Theresa Siby",
-      "date": "Jul 3, 2024",
-      "image": "assets/images/blog/contract-frontend-developer-economical/contract-vs-permanent-frontend-thumbnail.jpeg",
-      "alt": "Contract Frontend Developer Economical"
-    },
-    "top-5-reasons-to-use-react-over-other-frontends": {
-      "title": "Top 5 Reasons to Use React Over Other Frontends",
-      "author": "Aditya Sharma",
-      "date": "Jun 25, 2024",
-      "image": "assets/images/blog/react-frontend-reasons/react-js-for-frontend-ux-ui-development-thumbnail.jpeg",
-      "alt": "React Frontend Reasons"
-    },
-  "netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth": {
-      "title": "Netflix's Data-Driven UI UX: A Catalyst for Business Growth",
-      "author": "Veena Varghese",
-      "date": "12 May, 2024",
-      "image": "assets/images/blog/netflix-s-data-driven/image1.jpg",
-      "alt": "Netflix S Data Driven"
-    },
- "exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study": {
-      "title": "Exploring HubSpot’s Remarkable UI/UX Transformation: A Comprehensive Case Study",
-      "author": "Bharath A Manoj",
-      "date": "May 10, 2024",
-      "image": "assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-transformation-case-study-ux-ui-thumbnail.jpeg",
-      "alt": "Hubspot Ui Ux Transformation"
-    },
-  "interaction-design-what-is-it-and-why-is-it-important": {
+    "interaction-design-what-is-it-and-why-is-it-important": {
       "title": "Interaction design: what is it and why is it important?",
       "author": "Sebin George",
       "date": "May 8, 2024",
       "image": "assets/images/blog/interaction-design/image1.jpg",
-      "alt": "Interaction Design"
+      "alt": "Interaction design: what is it and why is it important?"
     },
-   "nfts-and-loyalty-programs-a-new-frontier-in-customer-engagement": {
-      "title": "NFTs and Loyalty Programs: A New Frontier in Customer Engagement",
+    "composable-business-how-ux-design-secure-better-user-experiences": {
+      "title": "Composable Business : How UX Design Secure Better User Experiences",
       "author": "Sahla Feroc",
-      "date": "May 6, 2024",
-      "image": "assets/images/blog/nfts-loyalty-programs-engagement/nft-loyalty-customer-engagement-thumbnail.jpeg",
-      "alt": "Nfts Loyalty Programs Engagement"
+      "date": "Dec 27, 2024",
+      "image": "assets/images/blog/composible-business/image1.jpg",
+      "alt": "Composable Business : How UX Design Secure Better User Experiences"
     },
-    "pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design": {
-      "title": "Pioneering AR & VR Revolution: Supercharging E-Commerce UX Design",
+    "how-to-align-good-ux-ui-concepts-with-customer-requirements": {
+      "title": "How to align good UX UI concepts with customer requirements?",
+      "author": "Wenkit",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/how-to-align/image1.jpg",
+      "alt": "How to align good UX UI concepts with customer requirements?"
+    },
+    "takeaways-from-our-1-day-ux-design-workshop": {
+      "title": "Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta",
+      "author": "Vanessa Lobo",
+      "date": "Nov 15, 2023",
+      "image": "assets/images/blog/takeaway-from-workshop/image1.jpg",
+      "alt": "Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta"
+    },
+    "how-to-promote-positive-emotions-in-the-user-experience-of-your-product": {
+      "title": "How to Promote Positive emotions in the User Experience of Your Product",
+      "author": "Vanessa Lobo",
+      "date": "Nov 15, 2023",
+      "image": "assets/images/blog/how-to-promote-positive/image1.jpg",
+      "alt": "How to Promote Positive emotions in the User Experience of Your Product"
+    },
+    "boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash": {
+      "title": "Boost fintech UX noesis : A UI UX design Case study on bKash",
+      "author": "Sahla Feroc",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/boost-fintech-ux/image1.jpg",
+      "alt": "Boost fintech UX noesis : A UI UX design Case study on bKash"
+    },
+    "everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know": {
+      "title": "Everything As A Service (XaaS) & The Surging UI UX Landscape: What You Need To Know",
+      "author": "Sahla Feroc",
+      "date": "Nov 22, 2024",
+      "image": "assets/images/blog/everything-as-a-service/image1.jpg",
+      "alt": "Everything As A Service (XaaS) & The Surging UI UX Landscape: What You Need To Know"
+    },
+    "how-to-practice-good-ux-to-boost-your-product-roi": {
+      "title": "How to practice good UX to boost your product ROI",
+      "author": "Rakshanda Naik",
+      "date": "Jan 25, 2024",
+      "image": "assets/images/blog/how-to-practice-good-ux/image1.jpg",
+      "alt": "How to practice good UX to boost your product ROI"
+    },
+    "ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how": {
+      "title": "UI UX Design can be enhanced using micro interactions and this is how",
+      "author": "Sebin George",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/ui-ux-design-microinteractions/image1.jpg",
+      "alt": "UI UX Design can be enhanced using micro interactions and this is how"
+    },
+    "tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization": {
+      "title": "Tailoring AI-Powered DTx: The Importance of Healthcare Personalization",
+      "author": "Vanessa Lobo",
+      "date": "Jun 26, 2024",
+      "image": "assets/images/blog/tailoring-ai-powered-dtx/image1.jpg",
+      "alt": "Tailoring AI-Powered DTx: The Importance of Healthcare Personalization"
+    },
+    "fostering-user-confidence-in-your-brand-through-designing-for-trust": {
+      "title": "Fostering User Confidence in Your Brand through Designing for Trust",
       "author": "Veena Varghese",
-      "date": "May 3, 2024",
-      "image": "assets/images/blog/ar-vr-ecommerce-ux/ar-vr-ecommerce-ux-thumbnail.jpeg",
-      "alt": "Ar Vr Ecommerce Ux"
+      "date": "Jan 17, 2024",
+      "image": "assets/images/blog/fostering-user-confidence/image1.jpg",
+      "alt": "Fostering User Confidence in Your Brand through Designing for Trust"
     },
-  "how-zomato-s-gamification-took-the-2023-world-cup-with-a-cricket-twist": {
-        "title": "How Zomato's Gamification Took the 2023 World Cup with a Cricket Twist",
-        "author": "Veena Varghese",
-        "date": "Apr 22, 2024",
-        "image": "assets/images/blog/zomato-gamification-cricket/zomato-gamification-cricket-world-cup-2023-ux-ui-thumbnail.jpeg",
-        "alt": "Zomato Gamification Cricket"
-      },
- "the-rise-of-twitter-blue-a-new-era-in-social-media": {
+    "tap-into-the-revolutionary-potential-of-ai-for-ux-research": {
+      "title": "Tap into the Revolutionary Potential of AI for UX Research",
+      "author": "Veena Varghese",
+      "date": "Aug 9, 2024",
+      "image": "assets/images/blog/tap-into-revolutionary/image1.jpg",
+      "alt": "Tap into the Revolutionary Potential of AI for UX Research"
+    },
+    "neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy": {
+      "title": "Neobanking and the need to redefine banking solutions in the Indian Economy",
+      "author": "Sahla Feroc",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/neobanking-and-the-need/image1.jpg",
+      "alt": "Neobanking and the need to redefine banking solutions in the Indian Economy"
+    },
+    "unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization": {
+      "title": "Unlock Future Of UX Design: Epic Guide To AI-Powered Personalization",
+      "author": "Sebin George",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/unlock-future-of-ux/image1.jpg",
+      "alt": "Unlock Future Of UX Design: Epic Guide To AI-Powered Personalization"
+    },
+    "user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized": {
+      "title": "User Interface (UI) design patterns: What are they and how are they categorized?",
+      "author": "Sebin George",
+      "date": "Jan 25, 2024",
+      "image": "assets/images/blog/user-interface-design-patterns/image1.jpg",
+      "alt": "User Interface (UI) design patterns: What are they and how are they categorized?"
+    },
+    "what-are-the-top-saas-trends-for-2024-a-look-at-emerging-design-innovations": {
+      "title": "What Are the Top SaaS Trends for 2024? A Look at Emerging Design Innovations",
+      "author": "Sebin George",
+      "date": "Jan 25, 2024",
+      "image": "assets/images/blog/what-are-the-top-saas-trends/image1.jpg",
+      "alt": "What Are the Top SaaS Trends for 2024? A Look at Emerging Design Innovations"
+    },
+    "empower-saas-with-ai-a-better-powerful-user-experience": {
+      "title": "Empower SaaS With AI: A Better & Powerful User Experience",
+      "author": "Sahla Feroc",
+      "date": "Nov 15, 2024",
+      "image": "assets/images/blog/empower-saas-with-ai/image1.jpg",
+      "alt": "Empower SaaS With AI: A Better & Powerful User Experience"
+    },
+    "turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline": {
+      "title": "Turning Saving into a Game: Gamified design approaches to Encourage Financial Discipline",
+      "author": "Nivedha Raju",
+      "date": "Jan 23, 2024",
+      "image": "assets/images/blog/turning-saving-into-a-game/image1.jpg",
+      "alt": "Turning Saving into a Game: Gamified design approaches to Encourage Financial Discipline"
+    },
+    "designing-for-metaverse-introducing-the-mind-blowing-future-of-ux": {
+      "title": "Designing For Metaverse: Introducing The Mind-blowing Future Of UX",
+      "author": "Sakshi Patil",
+      "date": "Oct 23, 2024",
+      "image": "assets/images/blog/designing-for-the-metaverse/image1.jpg",
+      "alt": "Designing For Metaverse: Introducing The Mind-blowing Future Of UX"
+    },
+    "how-to-boost-your-agency-website-using-strapi-next-js": {
+      "title": "How to boost your agency website using Strapi & Next.js",
+      "author": "Shameer M",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/how-to-boost-your-agency/image1.jpg",
+      "alt": "How to boost your agency website using Strapi & Next.js"
+    },
+    "the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology": {
+      "title": "The Power of AI in Design: Transforming Creativity with Intelligent Technology",
+      "author": "Liya Theresa Siby",
+      "date": "Jan 23, 2024",
+      "image": "assets/images/blog/the-power-of-ai-in-design/image1.jpg",
+      "alt": "The Power of AI in Design: Transforming Creativity with Intelligent Technology"
+    },
+    "how-to-conduct-user-research-that-drives-ux-success": {
+      "title": "How To Conduct User Research That Drives UX Success",
+      "author": "Sebin George",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/how-to-conduct-user/image1.jpg",
+      "alt": "How To Conduct User Research That Drives UX Success"
+    },
+    "the-rise-of-twitter-blue-a-new-era-in-social-media": {
       "title": "The Rise Of Twitter Blue: A New Era In Social Media",
       "author": "Sahla Feroc",
       "date": "Apr 15, 2024",
       "image": "assets/images/blog/the-rise-of-twitter/image1.jpg",
-      "alt": "The Rise Of Twitter"
+      "alt": "The Rise Of Twitter Blue: A New Era In Social Media"
     },
-"headspace-a-case-study-on-successful-emotion-driven-ui-ux-design": {
-      "title": "Headspace: A Case Study On Successful Emotion-Driven UI UX Design",
-      "author": "Sakshi Patil",
-      "date": "14 Oct, 2025",
-      "image": "assets/images/blog/headspace-emotion-driven-ui-ux/headspace-ux-case-study-thumbnail.jpeg",
-      "alt": "Headspace Emotion Driven Ui Ux"
+    "remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist": {
+      "title": "Remembering Virgil Abloh, a brilliant fashion designer and artist",
+      "author": "Sam Thomas",
+      "date": "Jan 25, 2024",
+      "image": "assets/images/blog/remembering-virgil-abloh/image1.jpg",
+      "alt": "Remembering Virgil Abloh, a brilliant fashion designer and artist"
     },
-   "takeaways-from-our-1-day-workshop-on-micro-frontend-architecture": {
+    "netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth": {
+      "title": "Netflix's Data-Driven UI UX: A Catalyst for Business Growth",
+      "author": "Veena Varghese",
+      "date": "12 May, 2024",
+      "image": "assets/images/blog/netflix-s-data-driven/image1.jpg",
+      "alt": "Netflix's Data-Driven UI UX: A Catalyst for Business Growth"
+    },
+    "takeaways-from-our-1-day-workshop-on-micro-frontend-architecture": {
       "title": "Takeaways from our 1 Day Workshop on Micro Frontend Architecture",
       "author": "Liya Theresa Siby",
       "date": "15 July, 2024",
       "image": "assets/images/blog/takeaways-from-our-1-day/image1.jpg",
-      "alt": "Takeaways From Our 1 Day"
+      "alt": "Takeaways from our 1 Day Workshop on Micro Frontend Architecture"
     },
-  "the-power-of-journey-maps-transforming-ui-ux-design-for-business-success": {
-      "title": "The Power of Journey Maps: Transforming UI UX Design for Business Success",
-      "author": "Veena Varghese",
-      "date": "Feb 29, 2024",
-      "image": "assets/images/blog/journey-maps-ui-ux-business/journey-maps-transforming-ui-ux-design-business-success-bangalore-thumbnail.jpeg",
-      "alt": "Journey Maps Ui Ux Business"
+    "how-to-make-guaranteed-success-with-design-as-a-service": {
+      "title": "How To Make Guaranteed Success With Design As A Service",
+      "author": "Sahla Feroc",
+      "date": "13 Nov, 2024",
+      "image": "assets/images/blog/how-to-make-guaranteed/image1.jpg",
+      "alt": "How To Make Guaranteed Success With Design As A Service"
     },
-  "crafting-originality-a-dive-into-design-templates-across-businesses": {
+    "crafting-originality-a-dive-into-design-templates-across-businesses": {
       "title": "Crafting Originality: A Dive into Design Templates Across Businesses",
       "author": "Sakshi Patil",
       "date": "27 Feb, 2024",
       "image": "assets/images/blog/crafting-originality-a-dive/image1.jpg",
-      "alt": "Crafting Originality A Dive"
+      "alt": "Crafting Originality: A Dive into Design Templates Across Businesses"
     },
-    "ux-challenges-in-healthcare": {
-      "title": "UX Challenges in Healthcare",
-      "author": "Sebin George ",
+    "design-systems-mfa-micro-front-end-architecture-a-quick-fact-check": {
+      "title": "Design systems & MFA (Micro front end architecture) - a quick fact check!",
+      "author": "Liya Theresa Siby",
+      "date": "9 Jul, 2024",
+      "image": "assets/images/blog/design-systems-mfa-micro-front-end/image1.jpg",
+      "alt": "Design systems & MFA (Micro front end architecture) - a quick fact check!"
+    },
+    "the-future-of-digital-banking-and-the-perks-of-improving-user-experience": {
+      "title": "The future of digital banking and the perks of improving user experience",
+      "author": "Sahla Feroc",
+      "date": "24 Jan, 2024",
+      "image": "assets/images/blog/the-future-of-digital-banking/image1.jpg",
+      "alt": "The future of digital banking and the perks of improving user experience"
+    },
+    "driving-sales-and-revenue-with-slack-s-ux-ui-a-real-life-success-story": {
+      "title": "Driving Sales and Revenue with Slack's UX/UI: A Real-Life Success Story",
+      "author": "Sahla Feroc",
+      "date": "18 Jan, 2024",
+      "image": "assets/images/blog/driving-sales-and-revenue/image1.jpg",
+      "alt": "Driving Sales and Revenue with Slack's UX/UI: A Real-Life Success Story"
+    },
+    "how-ui-ux-design-contributes-to-the-success-of-open-banking": {
+      "title": "How UI UX Design Contributes to the Success of Open Banking",
+      "author": "Sahla Feroc",
+      "date": "24 Jan, 2024",
+      "image": "assets/images/blog/how-ui-ux-design-contributes/image1.jpg",
+      "alt": "How UI UX Design Contributes to the Success of Open Banking"
+    },
+    "how-mood-boards-will-enhance-your-design": {
+      "title": "How mood boards will enhance your design?",
+      "author": "Ashutosh Shakya",
+      "date": "24 Jan, 2024",
+      "image": "assets/images/blog/how-mood-boards/image1.jpg",
+      "alt": "How mood boards will enhance your design?"
+    },
+    "how-to-drive-success-through-inclusive-ux-design": {
+      "title": "How to drive success through Inclusive UX design?",
+      "author": "Sakshi Patil",
+      "date": "21 Aug, 2024",
+      "image": "assets/images/blog/how-to-drive-success/image1.jpg",
+      "alt": "How to drive success through Inclusive UX design?"
+    },
+    "what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences": {
+      "title": "What You Need To Know About VR Interaction Design For Immersive Experiences",
+      "author": "Sakshi Patil",
+      "date": "20 Dec, 2024",
+      "image": "assets/images/blog/what-you-need-to-know-about-vr/image1.jpg",
+      "alt": "What You Need To Know About VR Interaction Design For Immersive Experiences"
+    },
+    "learn-how-to-create-a-wondrous-saas-onboarding-process-now": {
+      "title": "Learn How To Create A Wondrous SaaS Onboarding Process Now",
+      "author": "Sakshi Patil",
+      "date": "21 Aug, 2024",
+      "image": "assets/images/blog/learn-how-to-create-a-wondrous-saas/image1.jpg",
+      "alt": "Learn How To Create A Wondrous SaaS Onboarding Process Now"
+    },
+    "why-do-corporate-banks-invest-in-good-ux-for-longevity": {
+      "title": "Why do corporate banks invest in good UX for longevity?",
+      "author": "Sahla Feroc",
+      "date": "24 Jan, 2024",
+      "image": "assets/images/blog/why-do-corporate-banks-invest/image1.jpg",
+      "alt": "Why do corporate banks invest in good UX for longevity?"
+    },
+    "profitable-design-how-ux-ui-boosts-app-monetization": {
+      "title": "Profitable Design: How UX UI Boosts App Monetization",
+      "author": "Sakshi Patil",
+      "date": "13 Sep, 2021",
+      "image": "assets/images/blog/profitable-design-how/image1.jpg",
+      "alt": "Profitable Design: How UX UI Boosts App Monetization"
+    },
+    "advantages-and-disadvantages-of-website-templates": {
+      "title": "Advantages and disadvantages of Website Templates",
+      "author": "Rahul Kale",
+      "date": "5 Jan, 2022",
+      "image": "assets/images/blog/advantages-and-disadvantages/image1.jpg",
+      "alt": "Advantages and disadvantages of Website Templates"
+    },
+    "how-to-boost-ux-security-and-see-better-results": {
+      "title": "How To Boost UX Security And See Better Results",
+      "author": "Sahla Feroc",
+      "date": "13 Dec, 2024",
+      "image": "assets/images/blog/how-to-boost-ux/image1.jpg",
+      "alt": "How To Boost UX Security And See Better Results"
+    },
+    "role-of-responsive-design-in-the-mobile-first-era-for-business-success": {
+      "title": "Role of Responsive Design in the Mobile-First Era for Business Success",
+      "author": "Veena Varghese",
+      "date": "23 Jan, 2024",
+      "image": "assets/images/blog/role-of-responsive-design/image1.jpg",
+      "alt": "Role of Responsive Design in the Mobile-First Era for Business Success"
+    },
+    "why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue": {
+      "title": "Why should businesses invest in good UI UX design to boost revenue?",
+      "author": "Sahla Feroc",
+      "date": "24 Jan, 2024",
+      "image": "assets/images/blog/why-should-businesses-invest/why-should-businesses-invest-image1.jpg",
+      "alt": "Why should businesses invest in good UI UX design to boost revenue?"
+    },
+    "innovative-ux-design-in-edtech-enhancing-learning-experiences-for-students": {
+      "title": "The Future Of UX UI: Navigating 2024's Breakthrough Trends",
+      "author": "Sakshi Patil",
+      "date": "24 Jul, 2024",
+      "image": "assets/images/blog/innovative-ux-design-in-edtech/innovative-ux-design-in-edtech-image1.jpg",
+      "alt": "The Future Of UX UI: Navigating 2024's Breakthrough Trends"
+    },
+    "know-how-to-design-for-mixed-reality-in-ux-now": {
+      "title": "Know How To Design For Mixed Reality In UX now",
+      "author": "Sakshi Patil",
+      "date": "25 Oct, 2024",
+      "image": "assets/images/blog/know-how-to-design/know-how-to-design-image1.jpg",
+      "alt": "Know How To Design For Mixed Reality In UX now"
+    },
+    "what-is-ux-prototyping-here-s-the-ultimate-guide-on-how-to-get-started": {
+      "title": "What is UX prototyping? Here's the ultimate guide on how to get started",
+      "author": "Sebin George",
       "date": "25 Jan, 2024",
-      "image": "assets/images/blog/ux-challenges-healthcare/healthcare-ux-challenges-thumbnail.jpeg",
-      "alt": "Ux Challenges Healthcare"
+      "image": "assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image1.jpg",
+      "alt": "What is UX prototyping? Here's the ultimate guide on how to get started"
+    },
+    "supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities": {
+      "title": "Supercharge Your E-commerce Search with the Power of Chatbot Capabilities",
+      "author": "Veena Varghese",
+      "date": "6 Sep, 2024",
+      "image": "assets/images/blog/supercharge-your-e-commerce-search/supercharge-your-e-commerce-search-image1.jpg",
+      "alt": "Supercharge Your E-commerce Search with the Power of Chatbot Capabilities"
+    },
+    "master-ui-ux-design-with-empathetic-user-personas": {
+      "title": "Master UI UX Design with Empathetic User Personas",
+      "author": "Sahla Feroc",
+      "date": "23 Jan, 2024",
+      "image": "assets/images/blog/master-ui-ux-design/empathetic-user-personas-for-mastering-ux-ui-design-thumbnail.jpg",
+      "alt": "Master UI UX Design with Empathetic User Personas"
+    },
+    "what-are-wireframes-and-why-are-they-important-in-ux-design": {
+      "title": "What are wireframes and why are they important in UX design?",
+      "author": "Rakshanda Naik",
+      "date": "25 Jan, 2024",
+      "image": "assets/images/blog/what-are-wireframes-and-why/importance-of-wireframes-in-ux-ui-design-thumbnail.jpg",
+      "alt": "What are wireframes and why are they important in UX design?"
+    },
+    "what-is-proximity-principle-and-how-does-it-affect-visual-design": {
+      "title": "What Is Proximity Principle and How Does It Affect Visual Design",
+      "author": "Sebin George",
+      "date": "Jan 30, 2024",
+      "image": "assets/images/blog/proximity-principle-visual-design/proximity-principle-impact-on-visual-design-ux-ui-thumbnail.jpg",
+      "alt": "What Is Proximity Principle and How Does It Affect Visual Design"
+    },
+    "ai-for-everyday-users-designing-for-seamless-ai-integration": {
+      "title": "AI for Everyday Users: Designing for Seamless AI Integration",
+      "author": "Veena Varghese",
+      "date": "Dec 11, 2024",
+      "image": "assets/images/blog/ai-seamless-integration/ai-user-interface-design-for-seamless-ux-integration-thumbnail.jpg",
+      "alt": "AI for Everyday Users: Designing for Seamless AI Integration"
+    },
+    "how-to-run-design-timelines-and-execute-them-effectively": {
+      "title": "How to Run Design Timelines and Execute Them Effectively",
+      "author": "Rakshanda Naik",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/design-timelines-execution/effective-design-timelines-project-management-and-execution -thumbnail.jpg",
+      "alt": "How to Run Design Timelines and Execute Them Effectively"
+    },
+    "what-are-the-innovative-use-cases-of-ai-in-financial-institutions": {
+      "title": "What Are the Innovative Use Cases of AI in Financial Institutions",
+      "author": "Ashutosh Shakya",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/ai-use-cases-fintech/innovative-ai-use-cases-fintech-future-thumbnail.jpg",
+      "alt": "What Are the Innovative Use Cases of AI in Financial Institutions"
+    },
+    "mastering-ui-ux-portfolios-key-takeaways-from-our-webinar": {
+      "title": "Mastering UI/UX Portfolios: Key Takeaways from Our Webinar",
+      "author": "Bharath A Manoj",
+      "date": "Jan 23, 2024",
+      "image": "assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolio-webinar-key-learnings-thumbnail.jpg",
+      "alt": "Mastering UI/UX Portfolios: Key Takeaways from Our Webinar"
+    },
+    "how-to-build-customer-loyalty-in-the-subscription-economy": {
+      "title": "How to Build Customer Loyalty in the Subscription Economy",
+      "author": "Sebin George",
+      "date": "Jan 18, 2024",
+      "image": "assets/images/blog/customer-loyalty-subscription-economy/building-customer-loyalty-in-subscription-economy-ux-ui-neointeraction-design-thumbnail.jpg",
+      "alt": "How to Build Customer Loyalty in the Subscription Economy"
+    },
+    "how-fintech-apps-depend-on-ui-ux-design-for-its-success": {
+      "title": "How Fintech Apps Depend on UI/UX Design for Its Success",
+      "author": "Rahul Kale",
+      "date": "Mar 10, 2022",
+      "image": "assets/images/blog/fintech-apps-ui-ux-design/fintech-app-success-dependence-on-ux-ui-design-thumbnail.jpg",
+      "alt": "How Fintech Apps Depend on UI/UX Design for Its Success"
+    },
+    "design-thinking-and-its-role-in-accelerating-business-growth": {
+      "title": "Design Thinking and Its Role in Accelerating Business Growth",
+      "author": "Content Team",
+      "date": "Recently published",
+      "image": "assets/images/blog/design-thinking-business-growth/design-thinking-for-business-growth-ux-ui-thumbnail.jpg",
+      "alt": "Design Thinking and Its Role in Accelerating Business Growth"
+    },
+    "what-you-need-to-know-about-vr-interaction-design": {
+      "title": "What You Need To Know About VR Interaction Design",
+      "author": "UX Research Team",
+      "date": "3 weeks ago",
+      "image": "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+      "alt": "VR Interaction Design"
+    },
+    "composable-business-ux-design-secure-better-user-experiences": {
+      "title": "Composable Business: How UX Design Secure Better User Experiences",
+      "author": "Neointeraction Design Team",
+      "date": "2 weeks ago",
+      "image": "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+      "alt": "Composable Business UX Design"
+    },
+    "vr-interaction-design-immersive-experiences": {
+      "title": "What You Need To Know About VR Interaction Design For Immersive Experiences",
+      "author": "UX Research Team",
+      "date": "3 weeks ago",
+      "image": "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+      "alt": "VR Interaction Design"
+    },
+    "boost-ux-security-better-results": {
+      "title": "How To Boost UX Security And See Better Results",
+      "author": "Security UX Team",
+      "date": "1 month ago",
+      "image": "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+      "alt": "UX Security Design"
+    },
+    "ai-everyday-users-designing-seamless-integration": {
+      "title": "AI for Everyday Users: Designing for Seamless AI Integration",
+      "author": "AI UX Specialists",
+      "date": "1 month ago",
+      "image": "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+      "alt": "AI UX Integration"
+    },
+    "design-hybrid-workforce-model": {
+      "title": "Learn How to Design for Hybrid Workforce Model",
+      "author": "Workplace UX Team",
+      "date": "5 weeks ago",
+      "image": "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+      "alt": "Hybrid Workforce UX Design"
+    },
+    "design-systems-scalable-digital-products": {
+      "title": "Building Design Systems for Scalable Digital Products",
+      "author": "Design Systems Team",
+      "date": "6 weeks ago",
+      "image": "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+      "alt": "Design Systems for Digital Products"
+    },
+    "mobile-first-design-responsive-web-development": {
+      "title": "Mobile-First Design: The Future of Responsive Web Development",
+      "author": "Mobile UX Team",
+      "date": "2 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+      "alt": "Mobile First Design Approach"
+    },
+    "user-research-methods-better-ux-insights": {
+      "title": "Essential User Research Methods for Better UX Insights",
+      "author": "UX Research Team",
+      "date": "2 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+      "alt": "User Research Methods"
+    },
+    "accessibility-inclusive-design-principles": {
+      "title": "Accessibility and Inclusive Design: Principles for Everyone",
+      "author": "Accessibility Team",
+      "date": "3 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+      "alt": "Accessible Design Principles"
+    },
+    "microinteractions-enhance-user-engagement": {
+      "title": "Microinteractions: Small Details That Enhance User Engagement",
+      "author": "Interaction Design Team",
+      "date": "3 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+      "alt": "Microinteractions in UX Design"
+    },
+    "design-thinking-process-innovation": {
+      "title": "The Design Thinking Process: A Guide to Innovation",
+      "author": "Innovation Team",
+      "date": "4 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+      "alt": "Design Thinking Process"
+    },
+    "color-psychology-ui-design": {
+      "title": "Color Psychology in UI Design: Creating Emotional Connections",
+      "author": "Visual Design Team",
+      "date": "4 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+      "alt": "Color Psychology in Design"
+    },
+    "typography-web-design-best-practices": {
+      "title": "Typography in Web Design: Best Practices for Better Readability",
+      "author": "Typography Specialists",
+      "date": "5 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+      "alt": "Typography Best Practices"
+    },
+    "ux-writing-conversational-interfaces": {
+      "title": "UX Writing: Crafting Conversational Interfaces That Connect",
+      "author": "UX Writing Team",
+      "date": "5 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+      "alt": "UX Writing and Content Design"
+    },
+    "design-trends-2025-digital-experiences": {
+      "title": "Design Trends 2025: Shaping the Future of Digital Experiences",
+      "author": "Trend Analysis Team",
+      "date": "6 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+      "alt": "Design Trends 2025"
+    },
+    "prototyping-tools-ux-designers": {
+      "title": "Best Prototyping Tools for UX Designers in 2025",
+      "author": "Design Tools Team",
+      "date": "6 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+      "alt": "UX Prototyping Tools"
+    },
+    "user-testing-validation-methods": {
+      "title": "User Testing and Validation: Methods That Actually Work",
+      "author": "User Testing Team",
+      "date": "7 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+      "alt": "User Testing Methods"
+    },
+    "information-architecture-website-design": {
+      "title": "Information Architecture: The Foundation of Great Website Design",
+      "author": "IA Specialists",
+      "date": "7 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+      "alt": "Information Architecture Design"
+    },
+    "visual-hierarchy-effective-layouts": {
+      "title": "Visual Hierarchy: Creating Effective Layouts That Guide Users",
+      "author": "Visual Design Team",
+      "date": "8 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_48f1a076de3141fc99509e32c9f897ff~mv2.webp",
+      "alt": "Visual Hierarchy in Design"
+    },
+    "cross-platform-design-consistency": {
+      "title": "Cross-Platform Design: Maintaining Consistency Across Devices",
+      "author": "Platform Design Team",
+      "date": "8 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_2b0578d9291848a98234f669c76444f9~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_2b0578d9291848a98234f669c76444f9~mv2.webp",
+      "alt": "Cross Platform Design"
+    },
+    "animation-micro-interactions-web": {
+      "title": "Web Animation and Micro-Interactions: Bringing Interfaces to Life",
+      "author": "Animation Team",
+      "date": "9 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.webp",
+      "alt": "Web Animation Design"
+    },
+    "dashboard-design-data-visualization": {
+      "title": "Dashboard Design and Data Visualization: Making Numbers Beautiful",
+      "author": "Data Visualization Team",
+      "date": "9 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.webp",
+      "alt": "Dashboard and Data Visualization"
+    },
+    "ecommerce-ux-conversion-optimization": {
+      "title": "E-commerce UX: Conversion Optimization Through Better Design",
+      "author": "E-commerce UX Team",
+      "date": "10 months ago",
+      "image": "https://static.wixstatic.com/media/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.jpg/v1/fill/w_305,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/c16c07_8e7866b3a96a47b4beb65cd38979f32b~mv2.webp",
+      "alt": "E-commerce UX Design"
+    },
+    "modernizing-india-s-payment-landscape-with-neobanks-e-payments": {
+      "title": "Modernizing India’s Payment Landscape with Neobanks & E-Payments",
+      "author": "Liya Theresa Siby",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/india-neobanks-e-payments/neobanking-mobile-app-design-india-payment-ux-ui-thumbnail.jpeg",
+      "alt": "Neobanks & E-Payments"
+    },
+    "the-power-of-journey-maps-transforming-ui-ux-design-for-business-success": {
+      "title": "The Power of Journey Maps: Transforming UI/UX Design for Business Success",
+      "author": "Veena Varghese",
+      "date": "Feb 29, 2024",
+      "image": "assets/images/blog/journey-maps-ui-ux-business/journey-maps-transforming-ui-ux-design-business-success-bangalore-thumbnail.jpeg",
+      "alt": "journey-maps-ui-ux-business"
     },
     "how-a-ux-design-partner-can-benefit-your-company": {
       "title": "How a UX Design Partner Can Benefit Your Company",
       "author": "Rahul Kale",
       "date": "Jan 25, 2024",
       "image": "assets/images/blog/ux-design-partner-benefits/benefits-of-ux-design-partner-for-your-company-thumbnail.jpeg",
-      "alt": "Ux Design Partner Benefits"
+      "alt": "ux-design-partner-benefits"
     },
- "what-is-ux-design-process-a-complete-actionable-guide": {
+    "what-is-ux-design-process-a-complete-actionable-guide": {
       "title": "What Is UX Design Process? A Complete Actionable Guide",
       "author": "Rahul Kale",
       "date": "Jan 25, 2024",
       "image": "assets/images/blog/ux-design-process-guide/ux-ui-design-process-neointeraction-design-thumbnail.jpeg",
-      "alt": "Ux Design Process Guide"
+      "alt": "ux-design-process-guide"
     },
- "effective-ux-audit-and-website-redesign-to-boost-ux-for-lic": {
-      "title": "Effective UX Audit and Website Redesign to boost UX for LIC",
-      "author": "Thirunavukkarasu Lakshumanan",
-      "date": "10 months ago",
-      "image": "assets/images/blog/effective-ux-audit/image1.jpg",
-      "alt": "Effective Ux Audit"
-    },
-  "remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist": {
-      "title": "Remembering Virgil Abloh, a brilliant fashion designer and artist",
-      "author": "Sam Thomas",
-      "date": "Jan 25, 2024",
-      "image": "assets/images/blog/remembering-virgil-abloh/image1.jpg",
-      "alt": "Remembering Virgil Abloh"
-    },
-  "what-is-ux-prototyping-here-s-the-ultimate-guide-on-how-to-get-started": {
-      "title": "What is UX prototyping? Here's the ultimate guide on how to get started",
-      "author": "Sebin George",
-      "date": "25 Jan, 2024",
-      "image": "assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image1.jpg",
-      "alt": "What Is Ux Prototyping Here"
-    },
-  "6-big-reasons-to-apply-illustrations-in-ui-ux-design": {
+    "6-big-reasons-to-apply-illustrations-in-ui-ux-design": {
       "title": "6 Big Reasons to Apply Illustrations in UI/UX Design",
       "author": "Sebin George",
       "date": "Jan 25, 2024",
       "image": "assets/images/blog/illustrations-ui-ux-design/ui-design-illustrations-thumbnail.jpeg",
-      "alt": "Illustrations Ui Ux Design"
+      "alt": "illustrations-ui-ux-design"
     },
-  "why-business-objectives-are-central-to-good-design": {
+    "why-business-objectives-are-central-to-good-design": {
       "title": "Why Business Objectives Are Central to Good Design",
       "author": "Wenkit",
       "date": "Jan 25, 2024",
       "image": "assets/images/blog/business-objectives-good-design/business-objectives-for-good-ux-ui-design-thumbnail.jpeg",
-      "alt": "Business Objectives Good Design"
+      "alt": "business-objectives-good-design"
     },
- "what-are-wireframes-and-why-are-they-important-in-ux-design": {
-      "title": "What are wireframes and why are they important in UX design?",
-      "author": "Rakshanda Naik",
-      "date": "25 Jan, 2024",
-      "image": "assets/images/blog/what-are-wireframes-and-why/importance-of-wireframes-in-ux-ui-design-thumbnail.jpg",
-      "alt": "What Are Wireframes And Why"
+    "top-5-reasons-to-use-react-over-other-frontends": {
+      "title": "Top 5 Reasons to Use React Over Other Frontends",
+      "author": "Aditya Sharma",
+      "date": "Jun 25, 2024",
+      "image": "assets/images/blog/react-frontend-reasons/react-js-for-frontend-ux-ui-development-thumbnail.jpeg",
+      "alt": "react-frontend-reasons"
     },
-   "what-is-digital-transformation-and-why-is-ux-design-important-in-it": {
-      "title": "What is digital transformation, and why is UX design important in it?",
+    "how-zomato-s-gamification-took-the-2023-world-cup-with-a-cricket-twist": {
+      "title": "How Zomato’s Gamification Took the 2023 World Cup with a Cricket Twist",
+      "author": "Veena Varghese",
+      "date": "Apr 22, 2024",
+      "image": "assets/images/blog/zomato-gamification-cricket/zomato-gamification-cricket-world-cup-2023-ux-ui-thumbnail.jpeg",
+      "alt": "zomato-gamification-cricket"
+    },
+    "how-data-driven-ux-design-transforms-construction-industry": {
+      "title": "How Data-Driven UX Design Transforms the Construction Industry",
+      "author": "Veena Varghese",
+      "date": "Jul 29, 2024",
+      "image": "assets/images/blog/data-driven-ux-construction/construction-ux-ui-thumbnail.jpeg",
+      "alt": "data-driven-ux-construction"
+    },
+    "exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study": {
+      "title": "Exploring HubSpot’s Remarkable UI/UX Transformation: A Comprehensive Case Study",
+      "author": "Bharath A Manoj",
+      "date": "May 10, 2024",
+      "image": "assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-transformation-case-study-ux-ui-thumbnail.jpeg",
+      "alt": "Exploring HubSpot’s Remarkable UI/UX Transformation"
+    },
+    "top-5-strategies-for-frontend-performance-optimization": {
+      "title": "Top 5 Strategies for Frontend Performance Optimization",
+      "author": "Aditya Sharma",
+      "date": "05 Jul, 2024",
+      "image": "assets/images/blog/frontend-performance-optimization/frontend-performance-importance-thumbnail.jpeg",
+      "alt": "Frontend Performance Optimization"
+    },
+    "how-to-improve-your-digital-content-using-appropriate-typography": {
+      "title": "How to Improve Your Digital Content Using Appropriate Typography",
+      "author": "Ashutosh Shakya",
+      "date": "24 Jan, 2024",
+      "image": "assets/images/blog/digital-content-typography/digital-typography-tips-thumbnail.jpeg",
+      "alt": "digital-content-typography"
+    },
+    "why-hiring-a-contract-front-end-developer-is-more-economical-than-hiring-a-permanent-employee": {
+      "title": "Why Hiring a Contract Front-End Developer Is More Economical Than Hiring a Permanent Employee",
+      "author": "Liya Theresa Siby",
+      "date": "Jul 3, 2024",
+      "image": "assets/images/blog/contract-frontend-developer-economical/contract-vs-permanent-frontend-thumbnail.jpeg",
+      "alt": "contract-frontend-developer-economical"
+    },
+    "pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design": {
+      "title": "Pioneering AR/VR Revolution: Supercharging E-Commerce UX Design",
+      "author": "Veena Varghese",
+      "date": "May 3, 2024",
+      "image": "assets/images/blog/ar-vr-ecommerce-ux/ar-vr-ecommerce-ux-thumbnail.jpeg",
+      "alt": "ar-vr-ecommerce-ux"
+    },
+    "enhancing-user-experience-applying-cognitive-biases-and-principles-in-a-healthcare-product": {
+      "title": "Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product",
+      "author": "Nivedha Raju",
+      "date": "Jan 23, 2024",
+      "image": "assets/images/blog/cognitive-biases-healthcare-ux/healthcare-ux-principles-thumbnail.jpeg",
+      "alt": "cognitive-biases-healthcare-ux"
+    },
+    "unlock-wix-editorx-eye-opening-insights-on-its-strengths-and-drawbacks": {
+      "title": "Unlock Wix EditorX: Eye-Opening Insights on Its Strengths and Drawbacks",
+      "author": "Sahla Feroc",
+      "date": "Sep 25, 2024",
+      "image": "assets/images/blog/wix-editorx-strengths-drawbacks/wix-editorx-insights-thumbnail.jpeg",
+      "alt": "wix-editorx-strengths-drawbacks"
+    },
+    "headspace-a-case-study-on-successful-emotion-driven-ui-ux-design": {
+      "title": "Headspace: A Case Study on Successful Emotion-Driven UI/UX Design",
+      "author": "Sakshi Patil",
+      "date": "14 Oct, 2025",
+      "image": "assets/images/blog/headspace-emotion-driven-ui-ux/headspace-ux-case-study-thumbnail.jpeg",
+      "alt": "headspace-emotion-driven-ui-ux"
+    },
+    "how-design-accessibility-is-important-to-boost-your-business": {
+      "title": "How Design Accessibility Is Important to Boost Your Business",
+      "author": "Sahla Feroc",
+      "date": "22 Dec, 2023",
+      "image": "assets/images/blog/design-accessibility-business-boost/design-accessibility-thumbnail.jpeg",
+      "alt": "design-accessibility-business-boost"
+    },
+    "what-is-digital-transformation-and-why-is-ux-design-important-in-it": {
+      "title": "What Is Digital Transformation and Why Is UX Design Important in It",
       "author": "Rakshanda Naik",
       "date": "25 Jan, 2024",
       "image": "assets/images/blog/digital-transformation-ux-important/ux-in-digital-transformation-thumbnail.jpeg",
-      "alt": "Digital Transformation Ux Important"
-    }, 
-    "how-to-practice-good-ux-to-boost-your-product-roi": {
-      "title": "How to practice good UX to boost your product ROI",
-      "author": "Rakshanda Naik",
-      "date": "Jan 25, 2024",
-      "image": "assets/images/blog/how-to-practice-good-ux/image1.jpg",
-      "alt": "How To Practice Good Ux"
+      "alt": "digital-transformation-ux-important"
     },
-     "user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized": {
-      "title": "User Interface (UI) design patterns: What are they and how are they categorized?",
-      "author": "Sebin George",
-      "date": "Jan 25, 2024",
-      "image": "assets/images/blog/user-interface-design-patterns/image1.jpg",
-      "alt": "User Interface Design Patterns"
+    "ux-challenges-in-healthcare": {
+      "title": "UX Challenges in Healthcare",
+      "author": "Sebin George ",
+      "date": "25 Jan, 2024",
+      "image": "assets/images/blog/ux-challenges-healthcare/healthcare-ux-challenges-thumbnail.jpeg",
+      "alt": "ux-challenges-healthcare"
+    },
+    "the-comprehensive-guide-for-all-designers-terminologies-in-ui-ux-design-explained": {
+      "title": "The Comprehensive Guide for All Designers: Terminologies in UI/UX Design Explained",
+      "author": "Sebin George ",
+      "date": "24 Jan, 2024",
+      "image": "assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-guide-thumbnail.jpeg",
+      "alt": "ui-ux-design-terminologies"
+    },
+    "nfts-and-loyalty-programs-a-new-frontier-in-customer-engagement": {
+      "title": "NFTs and Loyalty Programs: A New Frontier in Customer Engagement",
+      "author": "Sahla Feroc",
+      "date": "May 6, 2024",
+      "image": "assets/images/blog/nfts-loyalty-programs-engagement/nft-loyalty-customer-engagement-thumbnail.jpeg",
+      "alt": "nfts-loyalty-programs-engagement"
+    },
+    "learn-how-to-design-for-hybrid-workforce-model-now": {
+      "title": "Learn How to Design for Hybrid Workforce Model Now",
+      "author": "Sahla Feroc",
+      "date": "Dec 4, 2024",
+      "image": "assets/images/blog/design-hybrid-workforce/ux-hybrid-workforce-thumbnail.jpeg",
+      "alt": "design-hybrid-workforce"
+    },
+    "revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning": {
+      "title": "Revolutionizing UI/UX Design Through the Empowerment of Machine Learning",
+      "author": "Sahla Feroc",
+      "date": "17 Jan, 2024",
+      "image": "assets/images/blog/ui-ux-machine-learning/ux-ui-with-machine-learning-thumbnail.jpeg",
+      "alt": "ui-ux-machine-learning"
+    },
+    "contactless-payments-what-is-it-and-why-good-ux-is-essential-for-its-success": {
+      "title": "Contactless Payments: What Is It and Why Good UX Is Essential for Its Success",
+      "author": "Sahla Feroc",
+      "date": "Jan 24, 2024",
+      "image": "assets/images/blog/contactless-payments-good-ux/contactless-payments-thumbnail.jpeg",
+      "alt": "contactless-payments-good-ux"
+    },
+    "emotional-design-in-ux-what-you-need-to-know-for-great-ux": {
+      "title": "Emotional Design in UX: What You Need to Know for Great UX",
+      "author": "Sahla Feroc",
+      "date": "Aug 2, 2024",
+      "image": "assets/images/blog/emotional-design-great-ux/emotional-design-for-great-ux-thumbnail.jpeg",
+      "alt": "emotional-design-great-ux"
     },
     "ux-design-guidelines-that-must-be-followed-while-designing-a-mobile-app": {
       "title": "UX Design Guidelines That Must Be Followed While Designing a Mobile App",
       "author": " Rakshanda Naik",
       "date": "25 Jan, 2024",
       "image": "assets/images/blog/ux-design-guidelines-mobile-app/mobile-ux-guidelines-thumbnail.jpeg",
-      "alt": "Ux Design Guidelines Mobile App"
-    },    
-    "what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design": {
-      "title": "What is Design Thinking and How to Implement it in UI UX Design",
-      "author": "Sebin George",
-      "date": "25 Jan, 2024",
-      "image": "assets/images/blog/what-is-design-thinking/image1.jpg",
-      "alt": "What Is Design Thinking"
-    },
- "the-comprehensive-guide-for-all-designers-terminologies-in-ui-ux-design-explained": {
-      "title": "The comprehensive guide for all designers: Terminologies in UI UX design explained",
-      "author": "Sebin George ",
-      "date": "24 Jan, 2024",
-      "image": "assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-guide-thumbnail.jpeg",
-      "alt": "Ui Ux Design Terminologies"
-    },
- "what-is-proximity-principle-and-how-does-it-affect-visual-design": {
-      "title": "What Is Proximity Principle and How Does It Affect Visual Design",
-      "author": "Sebin George",
-      "date": "Jan 30, 2024",
-      "image": "assets/images/blog/proximity-principle-visual-design/proximity-principle-impact-on-visual-design-ux-ui-thumbnail.jpg",
-      "alt": "Proximity Principle Visual Design"
-    },
-"ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how": {
-      "title": "UI UX Design can be enhanced using micro interactions and this is how",
-      "author": "Sebin George",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/ui-ux-design-microinteractions/image1.jpg",
-      "alt": "Ui Ux Design Microinteractions"
-    },
-"how-to-conduct-user-research-that-drives-ux-success": {
-      "title": "How To Conduct User Research That Drives UX Success",
-      "author": "Sebin George",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/how-to-conduct-user/image1.jpg",
-      "alt": "How To Conduct User"
-    },
-"effective-communication-with-clients-and-5-ways-to-improve-it": {
-      "title": "Effective Communication with clients and 5 ways to improve it",
-      "author": "Sahla Feroc",
-      "date": "2 Jan, 2021",
-      "image": "assets/images/blog/effective-communication/image1.jpg",
-      "alt": "Effective Communication"
-    },
- "how-mood-boards-will-enhance-your-design": {
-      "title": "How mood boards will enhance your design?",
-      "author": "Ashutosh Shakya",
-      "date": "24 Jan, 2024",
-      "image": "assets/images/blog/how-mood-boards/image1.jpg",
-      "alt": "How Mood Boards"
-    },
-   "how-to-promote-positive-emotions-in-the-user-experience-of-your-product": {
-      "title": "How to Promote Positive emotions in the User Experience of Your Product",
-      "author": "Rakshanda Naik",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/how-to-promote-positive/image1.jpg",
-      "alt": "How To Promote Positive"
-    },
-"how-to-align-good-ux-ui-concepts-with-customer-requirements": {
-      "title": "How to align good UX UI concepts with customer requirements?",
-      "author": "Wenkit",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/how-to-align/image1.jpg",
-      "alt": "How To Align"
-    },
-   "adobe-buys-figma-is-this-a-positive-or-negative-development": {
-      "title": "Adobe Buys Figma: Is this a positive or negative development?",
-      "author": "Ashutosh Shakya",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/adobe-buys-figma/image1.jpg",
-      "alt": "Adobe Buys Figma"
-    },
-  "why-do-corporate-banks-invest-in-good-ux-for-longevity": {
-      "title": "Why do corporate banks invest in good UX for longevity?",
-      "author": "Sahla Feroc",
-      "date": "24 Jan, 2024",
-      "image": "assets/images/blog/why-do-corporate-banks-invest/image1.jpg",
-      "alt": "Why Do Corporate Banks Invest"
-    },
- "how-to-boost-your-agency-website-using-strapi-next-js": {
-      "title": "How to boost your agency website using Strapi & Next.js",
-      "author": "Shameer M",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/how-to-boost-your-agency/image1.jpg",
-      "alt": "How To Boost Your Agency"
-    },
- "the-impact-of-color-in-branding": {
-      "title": "The Impact of Color in Branding",
-      "author": "Sahla Feroc",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/impact-of-color/image1.jpg",
-      "alt": "Impact Of Color"
-    },
- "how-to-run-design-timelines-and-execute-them-effectively": {
-      "title": "How to Run Design Timelines and Execute Them Effectively",
-      "author": "Rakshanda Naik",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/design-timelines-execution/effective-design-timelines-project-management-and-execution -thumbnail.jpg",
-      "alt": "Design Timelines Execution"
-    },
-"why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue": {
-      "title": "Why should businesses invest in good UI UX design to boost revenue?",
-      "author": "Sahla Feroc",
-      "date": "24 Jan, 2024",
-      "image": "assets/images/blog/why-should-businesses-invest/why-should-businesses-invest-image1.jpg",
-      "alt": "Why Should Businesses Invest"
-    },
-"contactless-payments-what-is-it-and-why-good-ux-is-essential-for-its-success": {
-      "title": "Contactless Payments: What Is It and Why Good UX Is Essential for Its Success",
-      "author": "Sahla Feroc",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/contactless-payments-good-ux/contactless-payments-thumbnail.jpeg",
-      "alt": "Contactless Payments Good Ux"
-    },
-"how-to-improve-your-digital-content-using-appropriate-typography": {
-      "title": "How to Improve Your Digital Content Using Appropriate Typography",
-      "author": "Ashutosh Shakya",
-      "date": "24 Jan, 2024",
-      "image": "assets/images/blog/digital-content-typography/digital-typography-tips-thumbnail.jpeg",
-      "alt": "Digital Content Typography"
-    },
-"what-are-the-innovative-use-cases-of-ai-in-financial-institutions": {
-      "title": "What Are the Innovative Use Cases of AI in Financial Institutions",
-      "author": "Ashutosh Shakya",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/ai-use-cases-fintech/innovative-ai-use-cases-fintech-future-thumbnail.jpg",
-      "alt": "Ai Use Cases Fintech"
-    },
-   "the-future-of-digital-banking-and-the-perks-of-improving-user-experience": {
-      "title": "The future of digital banking and the perks of improving user experience",
-      "author": "Sahla Feroc",
-      "date": "24 Jan, 2024",
-      "image": "assets/images/blog/the-future-of-digital-banking/image1.jpg",
-      "alt": "The Future Of Digital Banking"
-    }, 
-  "modernizing-india-s-payment-landscape-with-neobanks-e-payments": {
-      "title": "Modernizing India's Payment Landscape with Neobanks & E-Payments",
-      "author": "Liya Theresa Siby",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/india-neobanks-e-payments/neobanking-mobile-app-design-india-payment-ux-ui-thumbnail.jpeg",
-      "alt": "India Neobanks E Payments"
-    },
-     "boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash": {
-      "title": "Boost fintech UX noesis : A UI UX design Case study on bKash",
-      "author": "Sahla Feroc",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/boost-fintech-ux/image1.jpg",
-      "alt": "Boost Fintech Ux"
-    },  
- "how-ui-ux-design-contributes-to-the-success-of-open-banking": {
-      "title": "How UI UX Design Contributes to the Success of Open Banking",
-      "author": "Sahla Feroc",
-      "date": "24 Jan, 2024",
-      "image": "assets/images/blog/how-ui-ux-design-contributes/image1.jpg",
-      "alt": "How Ui Ux Design Contributes"
-    },
- "neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy": {
-      "title": "Neobanking and the need to redefine banking solutions in the Indian Economy",
-      "author": "Sahla Feroc",
-      "date": "Jan 24, 2024",
-      "image": "assets/images/blog/neobanking-and-the-need/image1.jpg",
-      "alt": "Neobanking And The Need"
-    },
-"enhancing-user-experience-applying-cognitive-biases-and-principles-in-a-healthcare-product": {
-      "title": "Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product",
-      "author": "Nivedha Raju",
-      "date": "Jan 23, 2024",
-      "image": "assets/images/blog/cognitive-biases-healthcare-ux/healthcare-ux-principles-thumbnail.jpeg",
-      "alt": "Cognitive Biases Healthcare Ux"
-    },
- "the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology": {
-      "title": "The Power of AI in Design: Transforming Creativity with Intelligent Technology",
-      "author": "Liya Theresa Siby",
-      "date": "Jan 23, 2024",
-      "image": "assets/images/blog/the-power-of-ai-in-design/image1.jpg",
-      "alt": "The Power Of Ai In Design"
-    },
-"turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline": {
-      "title": "Turning Saving into a Game: Gamified design approaches to Encourage Financial Discipline",
-      "author": "Nivedha Raju",
-      "date": "Jan 23, 2024",
-      "image": "assets/images/blog/turning-saving-into-a-game/image1.jpg",
-      "alt": "Turning Saving Into A Game"
-    },
-"master-ui-ux-design-with-empathetic-user-personas": {
-      "title": "Master UI UX Design with Empathetic User Personas",
-      "author": "Sahla Feroc",
-      "date": "23 Jan, 2024",
-      "image": "assets/images/blog/master-ui-ux-design/empathetic-user-personas-for-mastering-ux-ui-design-thumbnail.jpg",
-      "alt": "Master Ui Ux Design"
-    },
-"mastering-ui-ux-portfolios-key-takeaways-from-our-webinar": {
-      "title": "Mastering UI/UX Portfolios: Key Takeaways from Our Webinar",
-      "author": "Bharath A Manoj",
-      "date": "Jan 23, 2024",
-      "image": "assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolio-webinar-key-learnings-thumbnail.jpg",
-      "alt": "Ui Ux Portfolios Webinar"
-    },
- "role-of-responsive-design-in-the-mobile-first-era-for-business-success": {
-      "title": "Role of Responsive Design in the Mobile-First Era for Business Success",
-      "author": "Veena Varghese",
-      "date": "23 Jan, 2024",
-      "image": "assets/images/blog/role-of-responsive-design/image1.jpg",
-      "alt": "Role Of Responsive Design"
-    },
-"driving-sales-and-revenue-with-slack-s-ux-ui-a-real-life-success-story": {
-      "title": "Driving Sales and Revenue with Slack's UX/UI: A Real-Life Success Story",
-      "author": "Sahla Feroc",
-      "date": "18 Jan, 2024",
-      "image": "assets/images/blog/driving-sales-and-revenue/image1.jpg",
-      "alt": "Driving Sales And Revenue"
-    },
-"how-to-build-customer-loyalty-in-the-subscription-economy": {
-      "title": "How to Build Customer Loyalty in the Subscription Economy",
-      "author": "Sebin George",
-      "date": "Jan 18, 2024",
-      "image": "assets/images/blog/customer-loyalty-subscription-economy/building-customer-loyalty-in-subscription-economy-ux-ui-neointeraction-design-thumbnail.jpg",
-      "alt": "Customer Loyalty Subscription Economy"
-    },
-"revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning": {
-      "title": "Revolutionizing UI UX Design through the Empowerment of Machine Learning",
-      "author": "Sahla Feroc",
-      "date": "17 Jan, 2024",
-      "image": "assets/images/blog/ui-ux-machine-learning/ux-ui-with-machine-learning-thumbnail.jpeg",
-      "alt": "Ui Ux Machine Learning"
-    },
- "fostering-user-confidence-in-your-brand-through-designing-for-trust": {
-      "title": "Fostering User Confidence in Your Brand through Designing for Trust",
-      "author": "Veena Varghese",
-      "date": "Jan 17, 2024",
-      "image": "assets/images/blog/fostering-user-confidence/image1.jpg",
-      "alt": "Fostering User Confidence"
-    },
-"how-design-accessibility-is-important-to-boost-your-business": {
-      "title": "How Design Accessibility Is Important to Boost Your Business",
-      "author": "Sahla Feroc",
-      "date": "22 Dec, 2023",
-      "image": "assets/images/blog/design-accessibility-business-boost/design-accessibility-thumbnail.jpeg",
-      "alt": "Design Accessibility Business Boost"
-    },
- "design-thinking-and-its-role-in-accelerating-business-growth": {
-      "title": "Design Thinking and Its Role in Accelerating Business Growth",
-      "author": "Content Team",
-      "date": "Recently published",
-      "image": "assets/images/blog/design-thinking-business-growth/design-thinking-for-business-growth-ux-ui-thumbnail.jpg",
-      "alt": "Design Thinking Business Growth"
-    },
-  "takeaways-from-our-1-day-ux-design-workshop": {
-      "title": "Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta",
-      "author": "Vanessa Lobo",
-      "date": "Nov 15, 2023",
-      "image": "assets/images/blog/takeaway-from-workshop/image1.jpg",
-      "alt": "Takeaway From Workshop"
-    },
- "how-fintech-apps-depend-on-ui-ux-design-for-its-success": {
-      "title": "How Fintech Apps Depend on UI/UX Design for Its Success",
-      "author": "Rahul Kale",
-      "date": "Mar 10, 2022",
-      "image": "assets/images/blog/fintech-apps-ui-ux-design/fintech-app-success-dependence-on-ux-ui-design-thumbnail.jpg",
-      "alt": "Fintech Apps Ui Ux Design"
-    },   
- "advantages-and-disadvantages-of-website-templates": {
-      "title": "Advantages and disadvantages of Website Templates",
-      "author": "Rahul Kale",
-      "date": "5 Jan, 2022",
-      "image": "assets/images/blog/advantages-and-disadvantages/image1.jpg",
-      "alt": "Advantages And Disadvantages"
+      "alt": "ux-design-guidelines-mobile-app"
     }
-   
-    
-  
-
-  
-    
-  
-   
-   
-    
-   
-  
-  
- 
-
-  
-  
-    
-    
-    
-   
-  
-  
-   
-
-   
-    
-
-
-  
-   
-    
-   
-   
- 
-   
-    
-    
-    
-   
-   
-
   }
 }
