@@ -16,7 +16,7 @@
     <meta property="og:description"
         content="Terminologies are important to understand the technical and scientific contexts. It also helps specialists and students of the respective fields to communicate effectively." />
     <meta property="og:image"
-        content="https://www.neointeraction.com/assets/images/blog/ui-ux-design-terminologies/terminologies-in-ui-ux-design-explained-banner.jpeg" />
+        content="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-guide-thumbnail-mobile.jpeg" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -35,7 +35,7 @@
     <meta name="twitter:description"
         content="Terminologies are important to understand the technical and scientific contexts. It also helps specialists and students of the respective fields to communicate effectively." />
     <meta name="twitter:image"
-        content="https://www.neointeraction.com/assets/images/blog/ui-ux-design-terminologies/terminologies-in-ui-ux-design-explained-banner.jpeg" />
+        content="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-guide-thumbnail-mobile.jpeg" />
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -81,7 +81,7 @@
             <div class="blog-body-padding">
                 <p class="blog-author-text">
                     <div class="avatar-img-block">
-                        <img src="<?php echo $path; ?>assets/images/blog/author/veena-varghese.avif" alt="avatar"
+                        <img src="<?php echo $path; ?>assets/images/blog/author/sebin-george.avif" alt="avatar"
                             class="avatar-img" />
                     </div>
                     <span>Sebin George • 24 Jan, 2024</span>
@@ -89,7 +89,7 @@
                 <h1 class="blog-title">The comprehensive guide for all designers: Terminologies in UI UX design
                     explained</h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/terminologies-in-ui-ux-design-explained-banner.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-guide.jpeg"
                         alt="ux ui terminologies" />
                 </div>
                 <p class="blog-body-text">
@@ -109,7 +109,7 @@
                     meetups.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ux-design_terminologies.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ux-design-terminologies.jpeg"
                         alt="ux design_terminologies" />
                 </div>
                 <p class="blog-body-text">
@@ -139,7 +139,7 @@
                     <b>User Experience Design (UXD)</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/User-Experience-Design.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/user-experience-design.jpeg"
                         alt="User Experience Design" />
                 </div>
                 <p class="blog-body-text">
@@ -162,7 +162,7 @@
                     <b>User Interface (UI), or Graphical User Interface (GUI)</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/User-Interface-meaning.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/user-interface.jpeg"
                         alt="User Interface meaning" />
                 </div>
                 <p class="blog-body-text">

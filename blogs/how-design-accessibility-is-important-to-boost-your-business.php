@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/how-design-accessibility-is-important-to-boost-your-business.php"/>
   <meta property="og:title" content="How Design Accessibility is Important to Boost Your Business"/>
   <meta property="og:description" content="Discover how accessible design can broaden your audience, enhance user experience, and boost your business. Learn key strategies and see real-world examples."/>
-  <meta property="og:image" content="https://www.neointeraction.com/assets/images/blog/design-accessibility-business-boost/accessibility-design-for-business.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/design-accessibility-business-boost/design-accessibility-thumbnail-mobile.jpeg"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/how-design-accessibility-is-important-to-boost-your-business.php"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How Design Accessibility is Important to Boost Your Business"/>
   <meta name="twitter:description" content="Discover how accessible design can broaden your audience, enhance user experience, and boost your business. Learn key strategies and see real-world examples."/>
-  <meta name="twitter:image" content="https://www.neointeraction.com/assets/images/blog/design-accessibility-business-boost/accessibility-design-for-business.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/design-accessibility-business-boost/design-accessibility-thumbnail-mobile.jpeg"/>
    
 </head>
 
@@ -44,14 +44,14 @@
             <div class="blog-body-padding">
      <p class="blog-author-text">
                     <div class="avatar-img-block">
-                        <img src="<?php echo $path; ?>assets/images/blog/author/sahla-feroc.avif" alt="avatar" class="avatar-img" />
+                        <img src="<?php echo $path; ?>assets/images/blog/author/sahla-feroc.png" alt="avatar" class="avatar-img" />
                     </div>
                     <span>Sahla Feroc • 22 Dec, 2023</span>
                 </p>
     <h1 class="blog-title">How design accessibility is important to boost your business</h1>
     
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/design-accessibility-business-boost/accessibility-design-for-business.jpeg" alt="accessibility design for business" />
+        <img src="<?php echo $path; ?>assets/images/blog/design-accessibility-business-boost/design-accessibility.jpeg" alt="accessibility design for business" />
     </div>
     <p class="blog-body-text">In today's diverse world, businesses know it's important to make their products and services accessible to everyone. Accessible design is the key to crafting digital experiences that cater to all, regardless of ability. Now, let's look at the numerous benefits that accessible design can provide to businesses.</p>
     <h4 class="blog-body-title">Reaching a Broader Audience</h4>
@@ -82,7 +82,7 @@
     <h4 class="blog-body-title">Case Study: Netflix's Accessibility Success</h4>
     <p class="blog-body-text">In 2019, Netflix made its platform more accessible to people with different abilities by adding features such as audio descriptions, subtitles, and keyboard navigation. The impact? A 50% increase in subscribers with disabilities, highlighting the tangible benefits of accessible design. This case showcases how prioritizing accessibility goes beyond compliance – a strategic move that enhances brand reputation and taps into a substantial market segment.</p>
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/design-accessibility-business-boost/netflix-accessibility-design.jpeg" alt="Netflix accessibility design" />
+        <img src="<?php echo $path; ?>assets/images/blog/design-accessibility-business-boost/netflix-accessibility-case-study.jpeg" alt="Netflix accessibility design" />
     </div>
     <h4 class="blog-body-title">Conclusion</h4>
     <p class="blog-body-text">Accessible design is more than just following rules; it's about making digital spaces welcoming for everyone. Businesses that prioritize accessible design are not only keeping up with evolving technology standards, but also building a digital world that is equitable, inclusive, and prepared for the future.</p>

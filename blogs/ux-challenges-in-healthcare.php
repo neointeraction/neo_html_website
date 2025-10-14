@@ -11,7 +11,7 @@
     <link rel="canonical" href="https://www.neointeraction.com/blogs/ux-challenges-in-healthcare.php" />
     <meta property="og:title" content="UX Challenges in Healthcare" />
     <meta property="og:description" content="Many businesses, particularly IT corporations, have had a significant impact on their success due to design. However, the design does not yet have a seat at the table in several industries. One of them is healthcare design." />
-    <meta property="og:image" content="https://www.neointeraction.com/assets/images/blog/ux-challenges-healthcare/banner.jpeg" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ux-challenges-healthcare/hubspot-ui-ux-transformation-case-study-ux-ui-thumbnail-mobile.jpeg" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/blogs/ux-challenges-in-healthcare.php" />
@@ -25,7 +25,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="UX Challenges in Healthcare" />
     <meta name="twitter:description" content="Many businesses, particularly IT corporations, have had a significant impact on their success due to design. However, the design does not yet have a seat at the table in several industries. One of them is healthcare design." />
-    <meta name="twitter:image" content="https://www.neointeraction.com/assets/images/blog/ux-challenges-healthcare/banner.jpeg" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ux-challenges-healthcare/hubspot-ui-ux-transformation-case-study-ux-ui-thumbnail-mobile.jpeg" />
     
 </head>
 
