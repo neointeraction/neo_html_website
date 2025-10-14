@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/nfts-and-loyalty-programs-a-new-frontier-in-customer-engagement.php"/>
   <meta property="og:title" content="NFTs And Loyalty Programs: A New Frontier In Customer Engagement"/>
   <meta property="og:description" content="Join us as we explore the fascinating landscape of loyalty programs. This blog will cover the basics of traditional loyalty setups and dive into the emerging realm of NFTs as the next evolution in rewards and customer loyalty."/>
-  <meta property="og:image" content="https://www.neointeraction.com/assets/images/blog/nfts-loyalty-programs-engagement/image1.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/hubspot-ui-ux-transformation-case-study-ux-ui-thumbnail-mobile.jpeg"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/nfts-and-loyalty-programs-a-new-frontier-in-customer-engagement.php"/>
