@@ -45,7 +45,7 @@
                     <div class="avatar-img-block">
                         <img src="<?php echo $path; ?>assets/images/blog/author/veena-varghese.avif" alt="avatar" class="avatar-img" />
                     </div>
-                    <span>Veena Varghese • 11 Dec, 2024</span>
+                    <span>Veena Varghese • 21 Dec, 2023</span>
                 </p>
                 <h1 class="blog-title">How Zomato's Gamification Took the 2023 World Cup with a Cricket Twist</h1>
                 
@@ -65,7 +65,7 @@
                 </div>
 
                 <h4 class="blog-body-title">What is Gamification?</h4>
-                <p class="blog-body-text"><a href="https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline" target="_blank">Gamification</a> has become a popular strategy for businesses to increase user engagement and loyalty. By incorporating game-like elements such as challenges, rewards, and competitions into their platform, companies can make mundane tasks more enjoyable and rewarding. Zomato took this concept and applied it to their food delivery platform, turning ordering meals into a fun and interactive experience.</p>
+                <p class="blog-body-text"><a href="<?php echo $path; ?>blogs/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline" target="_blank">Gamification</a> has become a popular strategy for businesses to increase user engagement and loyalty. By incorporating game-like elements such as challenges, rewards, and competitions into their platform, companies can make mundane tasks more enjoyable and rewarding. Zomato took this concept and applied it to their food delivery platform, turning ordering meals into a fun and interactive experience.</p>
 
                 <h4 class="blog-body-title">Execution and Role of Roanuz Sports Data</h4>
                 <p class="blog-body-text">Zomato showcased its innovative approach to engaging users by adding cricket-themed gamification into its platform:</p>
@@ -92,9 +92,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/zomato-gamification-world-cup-mobile-ux-ui.jpeg" alt="Zomato Gamification Results" />
                 </div>
 
-                <h4 class="blog-body-title">Conclusion</h4>
-                <p class="blog-body-text">Retaining users is one of the greatest challenges faced by businesses but Zomato's gamification efforts during the Cricket World Cup 2023 showcased the potential of merging sports, technology, and food delivery. As businesses increasingly realize the crucial role of user experience in driving success, collaborating with UX design agencies like <a href="https://www.neointeraction.com/" target="_blank"> Neointeraction Design</a> become indispensable in shaping the future of customer engagement and loyalty in online commerce. Neointeraction Design brings a creative touch to digital platforms, seamlessly integrating top-notch <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore" target="_blank">UI UX design services</a> that will help market your product better, thereby contributing significantly to business growth.</p>
+                <h4 class="blog-body-title">Conclusion</h4>" target="_blank">UI UX design services</a> that will help market your product better, thereby contributing significantly to business growth.</p>
 
+                <p class="blog-body-text">Retaining users is one of the greatest challenges faced by businesses but Zomato's gamification efforts during the Cricket World Cup 2023 showcased the potential of merging sports, technology, and food delivery. As businesses increasingly realize the crucial role of user experience in driving success, collaborating with UX design agencies like <a href="https://www.neointeraction.com/" target="_blank"> Neointeraction Design</a> become indispensable in shaping the future of customer engagement and loyalty in online commerce. Neointeraction Design brings a creative touch to digital platforms, seamlessly integrating top-notch <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore
                 <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
                     <button class="btn btn-custom btn-custom-secondary">
                         View All Blogs

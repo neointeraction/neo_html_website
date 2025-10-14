@@ -6,26 +6,25 @@
   <?php include $path.'includes/favicon.php'; ?>
   <?php include $path.'includes/css.php'; ?>
   <?php include $path.'includes/head-additional-scripts.php'; ?>
-  <title>Effective UX Audit and Website Redesign to boost UX for LIC</title>
-  <meta name="description" content="Design case study on Effective UX Audit and Redesigning LIC Website to boos user experience"/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
-  <meta property="og:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta property="og:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
-  <meta property="og:image:width" content="941"/>
-  <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
+  <title>How Data-Driven UX Design Transforms Construction Industry</title>
+  <meta name="description" content="As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation."/>
+  <link rel="canonical" href="https://www.neointeraction.com/post/how-data-driven-ux-design-transforms-construction-industry"/>
+  <meta property="og:title" content="How Data-Driven UX Design Transforms Construction Industry"/>
+  <meta property="og:description" content="As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation."/>
+  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg/v1/fill/w_1098,h_1098,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg"/>
+  <meta property="og:image:width" content="1098"/>
+  <meta property="og:image:height" content="1098"/>
+  <meta property="og:url" content="https://www.neointeraction.com/post/how-data-driven-ux-design-transforms-construction-industry"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta property="article:author" content="Thirunavukkarasu Lakshumanan"/>
-  <meta property="article:published_time" content="2024-01-25T10:58:02.450Z"/>
-  <meta property="article:modified_time" content="2024-08-23T04:54:56.696Z"/>
+  <meta property="article:author" content="veena varghese"/>
+  <meta property="article:published_time" content="2024-07-29T10:58:02.450Z"/>
+  <meta property="article:modified_time" content="2024-08-26T04:54:56.696Z"/>
   <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" title="Neointeraction - RSS" type="application/rss+xml"/>
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta name="twitter:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
+  <meta name="twitter:title" content="How Data-Driven UX Design Transforms Construction Industry"/>
+  <meta name="twitter:description" content="As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation."/>
+  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg/v1/fill/w_1098,h_1098,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg"/>
    
 </head>
 
@@ -42,63 +41,130 @@
     <section class="banner section-padding">
         <div class="container">
             <div class="blog-body-padding">
-                <p class="blog-author-text">
+                 <p class="blog-author-text">
                     <div class="avatar-img-block">
-                        <img src="<?php echo $path; ?>assets/images/blog/author/.png" alt="avatar" class="avatar-img" />
+                        <img src="<?php echo $path; ?>assets/images/blog/author/veena-varghese.avif" alt="avatar" class="avatar-img" />
                     </div>
-                    <span> • 25 Jan, 2024</span>
+                    <span>Veena Varghese • 29 July, 2024</span>
                 </p>
                 <h1 class="banner-title">
-                Effective UX Audit and Website Redesign to boost UX for LIC
+                How Data-Driven UX Design Transforms Construction Industry
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/effective-ux-audit/image1.jpg" alt="blog1" />
+                    <img src="https://static.wixstatic.com/media/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg/v1/fill/w_1098,h_1098,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg" alt="Data-Driven UX Design" />
                 </div>
                 <p class="blog-body-text">
-                    Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack of a good user experience. As one of the top ui ux design companies we truly enjoyed redesigning the ux audit for LIC.
+                    As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation.
                 </p>
                 <h4 class="blog-body-title">
-                    Identified Problems
+                    Data driven UX Design Explained
                 </h4>
-
                 <p class="blog-body-text">
-                    <b>Problems related to the UX:</b>
-                    <ul>
-                        <li>The placement of the banner was unclear.</li>
-                        <li>There are too many undesired options on the navigation bar.</li>
-                        <li>Although paying premiums is the most common option for policyholders on the LIC website, it was not prominently shown on the landing page.</li>
-                        <li>Some key items, such as Buy Insurance, Renew Policy, Claim Policy, Claim status, and Premium Calculator, are not highlighted and are difficult to locate.</li>
-                        <li>Users' download links for mobile apps were misplaced.</li>
-                        <li>The landing page is clogged with unnecessary information and content.</li>
-                        <li>The footer options are cluttered and unorganized.</li>
-                    </ul>
+                    <a href="https://www.neointeraction.com/post/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" target="_blank">Data driven UX design</a> involves enhancing user interfaces and experiences, catering to the needs of different user groups through the use of advanced analytics tools to communicate critical information within a company. This involves gathering and examining both quantitative and qualitative data from research on individual choices, interactions, and behaviors. This will ensure design decisions are based on data rather than assumptions.
                 </p>
-
+                <div class="blog-banner-img">
+                    <img src="https://static.wixstatic.com/media/c380a9_be4b91a547064cc0a43a0b8177cedbd5~mv2.jpg/v1/fill/w_1098,h_848,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c380a9_be4b91a547064cc0a43a0b8177cedbd5~mv2.jpg" alt="Data driven user experience" />
+                </div>
+                <h4 class="blog-body-title">
+                    Present state of the construction industry
+                </h4>
+                <p class="blog-body-text">
+                    Fragmented procedures, reliance on paper, and reactive problem-solving in the construction industry result in delays, increased costs, and safety concerns.According to a study by McKinsey, large construction projects typically take 20% longer to finish than scheduled and are up to 80% over budget. Conventional techniques are not effective, as they depend on manpower and continuous monitoring. On the other hand, for example, Turner Construction reduced safety incidents by 30% through real-time data monitoring and predictive analytics. Data-driven methodologies utilize technology and statistics to streamline operations, enhance communication, and safety through innovation. 
+                </p>
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>
-                    <p class="blog-quote-text">The only constant in the world is “CHANGE". Though this line has become a cliche, it is very important to implement the same in our operation. And of course, the change needs to be planned well considering all the right and critical factors.</p>
+                    <p class="blog-quote-text">The goal is to turn data into information, and information into insight.<br><em>Carly Fiorina, Former CEO of Hewlett-Packard</em></p>
                 </div>
-
-               
+                <h4 class="blog-body-title">
+                    What is the effect of data driven UX Design on Construction?
+                </h4>
                 <p class="blog-body-text">
-                    <a href="" target="_blank">here</a>.
+                    <b>a. Project Management Reimagined</b><br>
+                    Digital approach of UX enables the real-time analysis of project data and offers well-developed interfaces. Giving project managers control over this capability improves their ability to manage timelines and resources, and helps identify constraints that can enhance decision-making and project outcomes.
                 </p>
-
-               
-
-                <h4 class="blog-body-title">Conclusion</h4>
-
                 <p class="blog-body-text">
-                    UX Audit is a necessary aspect of the design process in order to create a solution that meets both business and user requirements. If we focus on the details of the product and services, we tend to overlook the users and their perspectives. UX strategy and research play an important role in the process of product design. The most important factor of this project was that users might easily be lost due to a bad online presence experience.
+                    <b>b. Enhanced Collaboration and Communication</b><br>
+                    Tools facilitate the simple dissemination of information among stakeholders by including analytical features. For example, when team members have access to shared dashboards that provide real-time updates, communication becomes more efficient by ensuring all are informed of changes and milestones, thereby reducing confusion.
                 </p>
-
-
+                <p class="blog-body-text">
+                    <b>c. Increased Efficiency and Productivity</b><br>
+                    Data driven user experience has reduced repetitive tasks, allowing individuals to focus on analyzing data and increasing productivity. Machines can handle data gathering and analysis, allowing skilled professionals to focus on providing expert care and creative tasks.
+                </p>
+                <div class="blog-banner-img">
+                    <img src="https://static.wixstatic.com/media/c380a9_b6a43d00bd4249f8a57024ab6a11f3e3~mv2.jpg/v1/fill/w_147,h_114,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c380a9_b6a43d00bd4249f8a57024ab6a11f3e3~mv2.jpg" alt="benefit of data driven ux design" />
+                </div>
+                <h4 class="blog-body-title">
+                    Building with Data: Main Action Items
+                </h4>
+                <p class="blog-body-text">
+                    Construction companies can enhance their operations by using advanced data analytics and <a href="https://www.neointeraction.com/post/what-is-ux-design-process-a-complete-actionable-guide" target="_blank">user experience strategies</a>, leading to notable enhancements in project management and safety measures. This method emphasizes the changing power of using data to guide and improve construction procedures.
+                </p>
+                <p class="blog-body-text">
+                    <b>a. User Research and Feedback</b><br>
+                    User research and feedback collection are essential in recognizing the needs and obstacles of construction professionals. This data assists in creating tools and systems that actually add value for users.
+                </p>
+                <p class="blog-body-text">
+                    <b>b. Data Integration and Analysis</b><br>
+                    A new study emphasized the advantages of integrating IoT sensors with BIM, revealing how real-time data on energy usage and indoor surroundings can lead to dynamic and automated data exchange. By offering a holistic perspective on building performance and facilitating predictive maintenance, this integration aids in better decision-making and efficient project management. <em>( Source:<a href="https://www.agilevision.io/blog/applying-iot-in-the-construction-industry-top-7-use-cases/" target="_blank">AgileVision</a>, <a href="https://www.mdpi.com/2071-1050/13/8/4496" target="_blank">MDPI</a> ).</em> As per reports from <a href="https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/real-estate/deloitte-nl-fsi-real-estate-smart-buildings-how-iot-technology-aims-to-add-value-for-real-estate-companies.pdf" target="_blank">Deloitte</a>, this integration can result in energy savings of up to 30% and improve overall building performance by 20% through predictive maintenance and better decision-making
+                </p>
+                <p class="blog-body-text">
+                    <b>c. Personalization and Customization</b><br>
+                    Customizing application tools and interfaces to suit the specific needs of users such as schedulers, estimators, site supervisors etc leads to increased usage and satisfaction. Analytics translates to personalized usages and custom-designed operations that address users’ specific needs.
+                </p>
+                <h4 class="blog-body-title">
+                    Successful Implementations in the Construction Industry
+                </h4>
+                <p class="blog-body-text">
+                    Skanska, a multinational construction and development company based in Sweden, effectively utilized a project management tool driven by data, resulting in a 15% increase in project productivity and a decrease in necessary resources. By implementing advanced safety measures with data from workplace incidents and compliance, Bechtel's BLMS achieved a 25% reduction in workplace incidents, ultimately improving the safety of the work environment.
+                </p>
+                <div class="blog-banner-img">
+                    <img src="https://static.wixstatic.com/media/c380a9_09d7638d7d234ac085d4158d31579e87~mv2.jpg/v1/fill/w_147,h_114,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c380a9_09d7638d7d234ac085d4158d31579e87~mv2.jpg" alt="implementation of data driven ux design" />
+                </div>
+                <h4 class="blog-body-title">
+                    Challenges and Considerations
+                </h4>
+                <p class="blog-body-text">
+                    <b>a. Data Quality and Accuracy</b><br>
+                    Giving proper focus to accurate and trustworthy data is crucial. Therefore, utilizing low-quality data will lead to low-quality conclusions and less than optimal design choices.
+                </p>
+                <p class="blog-body-text">
+                    <b>b. User Adoption and Training</b><br>
+                    The introduction of new technologies to construction professionals does not guarantee their immediate acceptance due to resistance to change. Users must fulfill three important requirements: understanding the advantages, being receptive to the new tools, and actually using them.
+                </p>
+                <p class="blog-body-text">
+                    <b>c. Privacy and Security</b><br>
+                    Ensuring the safety and reliability of data is extremely important in order to prevent potential breaches and uphold privacy regulations. One of the most crucial rules when dealing with data is that their security should be top priority.
+                </p>
+                <h4 class="blog-body-title">
+                    The Future of Construction: Looking ahead with data driven UX
+                </h4>
+                <p class="blog-body-text">
+                    By integrating AI and Machine learning, data driven design in UX design will reach a new level of insights and predictions.
+                </p>
+                <div class="blog-banner-img">
+                    <img src="https://static.wixstatic.com/media/c380a9_3a054361417c435a97d234801bbda43c~mv2.jpg/v1/fill/w_147,h_114,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c380a9_3a054361417c435a97d234801bbda43c~mv2.jpg" alt="Future of data driven ux design" />
+                </div>
+                <p class="blog-body-text">
+                    <b>a. Integration with Emerging Technologies</b><br>
+                    Technologies such as augmented reality<a href="https://www.neointeraction.com/post/pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design" target="_blank"> (AR) and virtual reality (VR)</a> will be utilized to introduce new means to perceive construction data.
+                </p>
+                <p class="blog-body-text">
+                    <b>b. Sustainable and Green Construction</b><br>
+                    Utilizing data in UX design can help improve sustainability in construction by optimizing resource allocation, minimizing waste, and increasing energy efficiency.
+                </p>
+                <h4 class="blog-body-title">
+                    Conclusion
+                </h4>
+                <p class="blog-body-text">
+                    The combination of digital design and data analysis is transforming the construction sector, improving efficiency, safety, and user orientation. Through the use of data and UX design, businesses have the ability to enhance efficiency, safety, and customer satisfaction. Collaborating with a <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX design company in India</a> such as Neointeraction Design is essential for the upcoming expansion, as they effectively incorporate high-quality <a href="https://www.neointeraction.com/ux-design-services" target="_blank"> UX design services in India</a> to enhance marketing and business growth.
+                </p>
+                
+                <?php $faq_tag = 'how-data-driven-ux-design-transforms-construction-industry'; include $path.'components/faq.php'; ?>
                 <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
                     <button class="btn btn-custom btn-custom-secondary">
                         View All Blogs
                     </button>
                 </a>
-
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>
