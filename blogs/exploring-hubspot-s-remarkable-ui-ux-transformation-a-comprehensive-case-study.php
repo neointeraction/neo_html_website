@@ -6,26 +6,23 @@
   <?php include $path.'includes/favicon.php'; ?>
   <?php include $path.'includes/css.php'; ?>
   <?php include $path.'includes/head-additional-scripts.php'; ?>
-  <title>Effective UX Audit and Website Redesign to boost UX for LIC</title>
-  <meta name="description" content="Design case study on Effective UX Audit and Redesigning LIC Website to boos user experience"/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
-  <meta property="og:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta property="og:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
-  <meta property="og:image:width" content="941"/>
-  <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"/>
+  <title>Exploring HubSpot's Remarkable UI UX Transformation: A Comprehensive Case Study</title>
+  <meta name="description" content="This case study examines how UI UX design was pivotal in transforming HubSpot, leading to substantial growth over the years."/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study.php"/>
+  <meta property="og:title" content="Exploring HubSpot's Remarkable UI UX Transformation: A Comprehensive Case Study"/>
+  <meta property="og:description" content="This case study examines how UI UX design was pivotal in transforming HubSpot, leading to substantial growth over the years."/>
+  <meta property="og:image" content="https://www.neointeraction.com/assets/images/blog/exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study/hubspot-case-study.webp"/>
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study.php"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta property="article:author" content="Thirunavukkarasu Lakshumanan"/>
-  <meta property="article:published_time" content="2024-01-25T10:58:02.450Z"/>
-  <meta property="article:modified_time" content="2024-08-23T04:54:56.696Z"/>
-  <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" title="Neointeraction - RSS" type="application/rss+xml"/>
+  <meta property="article:author" content="Bharath A Manoj"/>
+  <meta property="article:published_time" content="2024-05-10T10:00:00.000Z"/>
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Effective UX Audit and Website Redesign to boost UX for LIC"/>
-  <meta name="twitter:description" content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp"/>
+  <meta name="twitter:title" content="Exploring HubSpot's Remarkable UI UX Transformation: A Comprehensive Case Study"/>
+  <meta name="twitter:description" content="This case study examines how UI UX design was pivotal in transforming HubSpot, leading to substantial growth over the years."/>
+  <meta name="twitter:image" content="https://www.neointeraction.com/assets/images/blog/exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study/hubspot-case-study.webp"/>
    
 </head>
 
@@ -44,61 +41,93 @@
             <div class="blog-body-padding">
                 <p class="blog-author-text">
                     <div class="avatar-img-block">
-                        <img src="<?php echo $path; ?>assets/images/blog/author/.png" alt="avatar" class="avatar-img" />
+                        <img src="<?php echo $path; ?>assets/images/blog/author/bharat-a-manoj.avif" alt="avatar" class="avatar-img" />
                     </div>
-                    <span> • 25 Jan, 2024</span>
+                    <span>Bharath A Manoj • 10 May, 2024</span>
                 </p>
                 <h1 class="banner-title">
-                Effective UX Audit and Website Redesign to boost UX for LIC
+                Exploring HubSpot's Remarkable UI UX Transformation: A Comprehensive Case Study
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/effective-ux-audit/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study/hubspot-case-study.webp" alt="HubSpot Case Study" />
                 </div>
                 <p class="blog-body-text">
-                    Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack of a good user experience. As one of the top ui ux design companies we truly enjoyed redesigning the ux audit for LIC.
+                The role of UI UX design in transforming businesses is crucial, as it directly influences how customers interact with digital products and services. When businesses prioritize good UI UX design, it enhances the user experience, fostering customer satisfaction, loyalty, and potential referrals. This helps businesses grow by attracting more customers and keeping them happy. In simple terms, good UI UX design serves as a powerful tool for businesses to succeed and keep customers satisfied.
                 </p>
-                <h4 class="blog-body-title">
-                    Identified Problems
-                </h4>
-
-                <p class="blog-body-text">
-                    <b>Problems related to the UX:</b>
-                    <ul>
-                        <li>The placement of the banner was unclear.</li>
-                        <li>There are too many undesired options on the navigation bar.</li>
-                        <li>Although paying premiums is the most common option for policyholders on the LIC website, it was not prominently shown on the landing page.</li>
-                        <li>Some key items, such as Buy Insurance, Renew Policy, Claim Policy, Claim status, and Premium Calculator, are not highlighted and are difficult to locate.</li>
-                        <li>Users' download links for mobile apps were misplaced.</li>
-                        <li>The landing page is clogged with unnecessary information and content.</li>
-                        <li>The footer options are cluttered and unorganized.</li>
-                    </ul>
-                </p>
-
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>
-                    <p class="blog-quote-text">The only constant in the world is “CHANGE". Though this line has become a cliche, it is very important to implement the same in our operation. And of course, the change needs to be planned well considering all the right and critical factors.</p>
+                    <p class="blog-quote-text">Every business should be obsessed with delivering a fantastic user experience because the customer always finds the path of least resistance. - <b>Brad Rencher</b></p>
                 </div>
-
-               
+                <h4 class="blog-body-title">
+                Case Study on Hubspot’s Digital Transformation
+                </h4>
                 <p class="blog-body-text">
-                    <a href="" target="_blank">here</a>.
+                HubSpot has been a go-to solution for businesses looking to grow online offering a bunch of helpful tools all in one place. It helps businesses attract, engage, and satisfy customers by aligning various aspects of their operations, from CRM to marketing automation and analytics. In this case study we will examine how UI UX design was pivotal in transforming a business, leading to substantial growth over the years. Given HubSpot's vast user base, nearly 10 million monthly visitors, and annual revenue exceeding $270 million, the primary challenge was enhancing the website's global user-friendliness by incorporating user feedback worldwide.
                 </p>
-
-               
-
+                <h4 class="blog-body-title">
+                Hubspot’s Goals and Expectations
+                </h4>
+                <p class="blog-body-text">
+                <b>Improving User Experience</b><br>
+                Enhance consistency and optimizing navigation to achieve a seamless user experience.
+                </p>
+                <p class="blog-body-text">
+                <b>Increasing Conversion</b><br>
+                Apply lessons from past experiments to boost website-wide conversions and lay the foundation for ongoing optimization efforts.
+                </p>
+                <p class="blog-body-text">
+                <b>Multi-Product Introduction</b><br>
+                HubSpot recognized the need to revisit how they introduced new products and free versions, adapting their approach to accommodate a diverse user base.
+                </p>
+                <p class="blog-body-text">
+                <b>Validate with MVP</b><br>
+                Prioritize a minimum viable product (MVP) to gather feedback and confirm the effectiveness of proposed changes.
+                </p>
+                <h4 class="blog-body-title">
+                What are the UI UX Changes HubSpot implemented?
+                </h4>
+                <p class="blog-body-text">
+                <b>User Feedback</b><br>
+                HubSpot welcomed user feedback with a positive attitude, acknowledging existing confusion in user flows. Despite the critique being direct, the company actively sought ways to improve the user experience, setting the stage for positive changes.
+                </p>
+                <p class="blog-body-text">
+                <b>Improving User Experience</b><br>
+                HubSpot took steps to enhance user interaction by introducing a user-friendly "get-started" flow with free demos and streamlining critical pages from 70 to 39. Initial attempts to incorporate illustrations were dropped after testing indicated a lack of resonance with the brand.
+                </p>
+                <p class="blog-body-text">
+                <b>Design Experimentation</b><br>
+                In their quest for an optimal design, HubSpot experimented with over 12 illustration styles, eventually realizing that clear and straightforward designs outperformed fancier options. This iterative design process involved extensive testing, including over 100 wireframe iterations and 60 visual designs.
+                </p>
+                <p class="blog-body-text">
+                <b>User-Centric Approach</b><br>
+                HubSpot consistently emphasized a user-centric approach, actively incorporating user perspectives throughout the design journey. This ensured that feedback and testing outcomes guided design refinements before moving on to the development phase.
+                </p>
+                <p class="blog-body-text">
+                <b>Video Preference</b><br>
+                HubSpot's research highlighted that over 50% of users prefer learning through videos. This insight led to strategically placing video calls-to-action after the Minimum Viable Product (MVP) launch, resulting in a notable 300% increase in conversions. Aligning design with user preferences played a pivotal role in this success.
+                </p>
+                <h4 class="blog-body-title">
+                Outcomes
+                </h4>
+                <p class="blog-body-text">
+                Once all changes were agreed upon, development commenced, incorporating updated conversion flows, new flows, content improvements, and adherence to a global style guide. The result was an optimal live website that significantly outperformed the previous user experience. Hubspot’s post-launch data showcased impressive outcomes:
+                </p>
+                <ul>
+                    <li>The new "Get Started free" flow doubled the conversion rate.</li>
+                    <li>The redesigned demo landing page exhibited a 57% improvement in conversion.</li>
+                    <li>Demo requests saw a 35% increase in total volume, indicating higher-quality leads.</li>
+                    <li>Sales chat volume and inbound call volume experienced substantial increases, pointing to heightened user engagement.</li>
+                    <li>A notable 27% rise in product signups contributed to increased revenue and improved user retention.</li>
+                </ul>
                 <h4 class="blog-body-title">Conclusion</h4>
-
                 <p class="blog-body-text">
-                    UX Audit is a necessary aspect of the design process in order to create a solution that meets both business and user requirements. If we focus on the details of the product and services, we tend to overlook the users and their perspectives. UX strategy and research play an important role in the process of product design. The most important factor of this project was that users might easily be lost due to a bad online presence experience.
+                HubSpot's UI UX transformation illustrates the positive outcomes of prioritizing user experience through clear goals, iterative improvements, and data-driven insights, resulting in improved engagement, conversions, and overall business success. This case study underscores the value of a strategic and user-centric approach in UI UX design. In the dynamic field of digital product design, UI UX designers play a vital role in driving business success. Neointeraction Design, with nearly 15 years of experience, is a leading UI UX design company in Bangalore, partnering with various B2B enterprises, B2C companies, and startups. Their focus on UI UX fundamentals consistently guides businesses toward success by enhancing applications, engaging users, and ensuring lasting satisfaction and loyalty.
                 </p>
-
-
                 <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
                     <button class="btn btn-custom btn-custom-secondary">
                         View All Blogs
                     </button>
                 </a>
-
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>
