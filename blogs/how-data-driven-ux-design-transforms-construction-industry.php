@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>How Data-Driven UX Design Transforms Construction Industry</title>
   <meta name="description" content="As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/how-data-driven-ux-design-transforms-construction-industry"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/how-data-driven-ux-design-transforms-construction-industry"/>
   <meta property="og:title" content="How Data-Driven UX Design Transforms Construction Industry"/>
   <meta property="og:description" content="As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation."/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg/v1/fill/w_1098,h_1098,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/construction-ux-ui-thumbnail-mobile.jpeg"/>
   <meta property="og:image:width" content="1098"/>
   <meta property="og:image:height" content="1098"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/how-data-driven-ux-design-transforms-construction-industry"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/how-data-driven-ux-design-transforms-construction-industry"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="veena varghese"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How Data-Driven UX Design Transforms Construction Industry"/>
   <meta name="twitter:description" content="As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation."/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg/v1/fill/w_1098,h_1098,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/construction-ux-ui-thumbnail-mobile.jpeg"/>
    
 </head>
 
@@ -51,7 +51,7 @@
                 How Data-Driven UX Design Transforms Construction Industry
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="https://static.wixstatic.com/media/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg/v1/fill/w_1098,h_1098,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c380a9_a4d135ab70d84e1181ac6dbe7e8bb1fa~mv2.jpg" alt="Data-Driven UX Design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-ux-design-construction-industry-ux-ui.jpeg" alt="Data-Driven UX Design" />
                 </div>
                 <p class="blog-body-text">
                     As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation.
@@ -63,7 +63,7 @@
                     <a href="https://www.neointeraction.com/post/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" target="_blank">Data driven UX design</a> involves enhancing user interfaces and experiences, catering to the needs of different user groups through the use of advanced analytics tools to communicate critical information within a company. This involves gathering and examining both quantitative and qualitative data from research on individual choices, interactions, and behaviors. This will ensure design decisions are based on data rather than assumptions.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="https://static.wixstatic.com/media/c380a9_be4b91a547064cc0a43a0b8177cedbd5~mv2.jpg/v1/fill/w_1098,h_848,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c380a9_be4b91a547064cc0a43a0b8177cedbd5~mv2.jpg" alt="Data driven user experience" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-user-experiance-ux-design-explained.jpeg" alt="Data driven user experience" />
                 </div>
                 <h4 class="blog-body-title">
                     Present state of the construction industry
@@ -91,13 +91,13 @@
                     Data driven user experience has reduced repetitive tasks, allowing individuals to focus on analyzing data and increasing productivity. Machines can handle data gathering and analysis, allowing skilled professionals to focus on providing expert care and creative tasks.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="https://static.wixstatic.com/media/c380a9_b6a43d00bd4249f8a57024ab6a11f3e3~mv2.jpg/v1/fill/w_147,h_114,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c380a9_b6a43d00bd4249f8a57024ab6a11f3e3~mv2.jpg" alt="benefit of data driven ux design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/benefits-of-data-driven-ux-ui-design.jpeg" alt="benefit of data driven ux design" />
                 </div>
                 <h4 class="blog-body-title">
                     Building with Data: Main Action Items
                 </h4>
                 <p class="blog-body-text">
-                    Construction companies can enhance their operations by using advanced data analytics and <a href="https://www.neointeraction.com/post/what-is-ux-design-process-a-complete-actionable-guide" target="_blank">user experience strategies</a>, leading to notable enhancements in project management and safety measures. This method emphasizes the changing power of using data to guide and improve construction procedures.
+                    Construction companies can enhance their operations by using advanced data analytics and <a href="https://www.neointeraction.com/blogs/what-is-ux-design-process-a-complete-actionable-guide" target="_blank">user experience strategies</a>, leading to notable enhancements in project management and safety measures. This method emphasizes the changing power of using data to guide and improve construction procedures.
                 </p>
                 <p class="blog-body-text">
                     <b>a. User Research and Feedback</b><br>
@@ -118,7 +118,7 @@
                     Skanska, a multinational construction and development company based in Sweden, effectively utilized a project management tool driven by data, resulting in a 15% increase in project productivity and a decrease in necessary resources. By implementing advanced safety measures with data from workplace incidents and compliance, Bechtel's BLMS achieved a 25% reduction in workplace incidents, ultimately improving the safety of the work environment.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="https://static.wixstatic.com/media/c380a9_09d7638d7d234ac085d4158d31579e87~mv2.jpg/v1/fill/w_147,h_114,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c380a9_09d7638d7d234ac085d4158d31579e87~mv2.jpg" alt="implementation of data driven ux design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-ux-design-implementation-success-construction-industry.jpeg" alt="implementation of data driven ux design" />
                 </div>
                 <h4 class="blog-body-title">
                     Challenges and Considerations
@@ -142,11 +142,11 @@
                     By integrating AI and Machine learning, data driven design in UX design will reach a new level of insights and predictions.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="https://static.wixstatic.com/media/c380a9_3a054361417c435a97d234801bbda43c~mv2.jpg/v1/fill/w_147,h_114,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c380a9_3a054361417c435a97d234801bbda43c~mv2.jpg" alt="Future of data driven ux design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/future-of-data-driven-ux-design-in-construction.jpeg" alt="Future of data driven ux design" />
                 </div>
                 <p class="blog-body-text">
                     <b>a. Integration with Emerging Technologies</b><br>
-                    Technologies such as augmented reality<a href="https://www.neointeraction.com/post/pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design" target="_blank"> (AR) and virtual reality (VR)</a> will be utilized to introduce new means to perceive construction data.
+                    Technologies such as augmented reality<a href="https://www.neointeraction.com/blogs/pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design" target="_blank"> (AR) and virtual reality (VR)</a> will be utilized to introduce new means to perceive construction data.
                 </p>
                 <p class="blog-body-text">
                     <b>b. Sustainable and Green Construction</b><br>
