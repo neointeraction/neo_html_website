@@ -8,7 +8,7 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product</title>
   <meta name="description" content="In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients."/>
-  <link rel="canonical" href="https://www.neointeraction.com/blogs/enhancing-user-experience-applying-cognitive-biases-and-principles-in-a-healthcare-product.php"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs"/>
   <meta property="og:title" content="Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product"/>
   <meta property="og:description" content="In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients."/>
   <meta property="og:image" content="https://www.neointeraction.com/assets/images/blog/cognitive-biases-healthcare-ux/banner.jpeg"/>
@@ -20,7 +20,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product"/>
   <meta name="twitter:description" content="In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients."/>
-  <meta name="twitter:image" content="https://www.neointeraction.com/assets/images/blog/cognitive-biases-healthcare-ux/banner.jpeg"/>
+  <meta name="twitter:image" content="https://www.neointeraction.com/assets/images/blog/cognitive-biases-healthcare-ux/healthcare-ux-principles-thumbnail.jpeg"/>
    
 </head>
 
@@ -46,12 +46,13 @@
     <h1 class="blog-title">Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product</h1>
     
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/banner.jpeg" alt="User Experience applying cognitive biases" />
+        <img src="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/healthcare-ux-principles-thumbnail-mobile.jpeg" srcset="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/healthcare-ux-principles-thumbnail.jpeg" alt="User Experience applying cognitive biases" />
     </div>
     <p class="blog-body-text">In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients. However, ignoring or performing poorly on the UX can result in issues including inefficiency, low user engagement, and patient discontent. A user-friendly telemedicine platform, for instance, makes it simpler for patients to book appointments, view records, and connect with clinicians, improving experiences and health results. However, people may struggle to use medical equipment appropriately if it has a challenging user interface or confusing instructions, which could be harmful to their health.</p>
     <h4 class="blog-body-title">What are Cognitive biases and principles in UX?</h4>
     <p class="blog-body-text"><a href="https://positivepsychology.com/cognitive-biases/" target="_blank">Cognitive biases</a> and principles are how our minds naturally work when using a product or service. These biases and principles affect how we think, make decisions, and perceive things. For instance, we tend to prefer things that are familiar to us (mere exposure effect) and often seek information that confirms what we already believe (confirmation bias). When designing user experiences, it's important to be aware of these biases and principles so that we can create designs that are user-friendly, intuitive, and serve users' needs and preferences. By correctly understanding and applying these biases and principles, we can create products with better user experience.</p>
     <div class="blog-quote-block">
+         <div class="quote-icon"></div>
         <p class="blog-quote-text">We must design for the way people behave, not for how we would wish them to behave. ―Donald A. Norman, Living with Complexity</p>
     </div>
     <h4 class="blog-body-title">Applying Cognitive biases and principles in Healthcare products</h4>
