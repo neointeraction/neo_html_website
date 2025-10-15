@@ -9,25 +9,22 @@
   <title>Composable Business : How UX Design Secure Better User Experiences</title>
   <meta name="description" content="Discover how composable business strategies are transforming user experiences through innovative UX designs. 
 "/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/composable-business-how-ux-design-secure-better-user-experiences"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs"/>
   <meta property="og:title" content="Composable Business : How UX Design Secure Better User Experiences"/>
   <meta property="og:description" content="Table of Contents1. Understanding Composable Enterprise2. The Role of UI UX Design3. Composable UX Design Explained4. Challenges and Considerations5. Future Trends6. ConclusionComposable business models are emerging as a transformative force, reshaping the way organizations interact with customers and deliver value. By allowing businesses to assemble and disassemble services and applications like building blocks, composable strategies enhance operational agility and responsiveness, making a mark"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/composable-business-how-ux-design-secure-better-user-experiences"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sahla  Feroc","url":"https://www.neointeraction.com/members-area/sahla/profile"},"dateModified":"2024-12-27T04:58:51.551Z","datePublished":"2024-12-27T04:58:51.551Z","headline":"Composable Business : How UX Design Secure Better User Experiences","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/composable-business-how-ux-design-secure-better-user-experiences","@type":"itemPage","url":"https://www.neointeraction.com/post/composable-business-how-ux-design-secure-better-user-experiences"},"description":"Discover how composable business strategies are transforming user experiences through innovative UX designs. &#010;","url":"https://www.neointeraction.com/post/composable-business-how-ux-design-secure-better-user-experiences","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sahla  Feroc"/>
   <meta property="article:published_time" content="2024-12-27T04:58:51.551Z"/>
   <meta property="article:modified_time" content="2024-12-27T04:58:51.551Z"/>
-  <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" title="Neointeraction - RSS" type="application/rss+xml"/>
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Composable Business : How UX Design Secure Better User Experiences"/>
   <meta name="twitter:description" content="Table of Contents1. Understanding Composable Enterprise2. The Role of UI UX Design3. Composable UX Design Explained4. Challenges and Considerations5. Future Trends6. ConclusionComposable business models are emerging as a transformative force, reshaping the way organizations interact with customers and deliver value. By allowing businesses to assemble and disassemble services and applications like building blocks, composable strategies enhance operational agility and responsiveness, making a mark"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_7c0d7d7eca6949f9ad4d73356ea352d8~mv2.jpg"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

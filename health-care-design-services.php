@@ -21,7 +21,7 @@ include_once 'includes/tracking-functions.php';
   <link rel="canonical" href="https://www.neointeraction.com/health-care-design-services"/>
   <meta property="og:title" content="Best Healthcare Design India | Neointeraction Design | Contact Us"/>
   <meta property="og:description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions."/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
   <meta property="og:url" content="https://www.neointeraction.com/health-care-design-services"/>
@@ -31,7 +31,7 @@ include_once 'includes/tracking-functions.php';
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Healthcare Design India | Health care design services | Neointeraction Design"/>
   <meta name="twitter:description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions."/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta name="twitter:image" content=""/>
 </head>
 
 <body>

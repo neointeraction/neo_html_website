@@ -21,7 +21,7 @@ include_once 'includes/tracking-functions.php';
   <link rel="canonical" href="https://www.neointeraction.com/banking-and-fintech-solutions"/>
   <meta property="og:title" content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design"/>
   <meta property="og:description" content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design."/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
   <meta property="og:url" content="https://www.neointeraction.com/banking-and-fintech-solutions"/>
@@ -31,7 +31,7 @@ include_once 'includes/tracking-functions.php';
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design"/>
   <meta name="twitter:description" content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design."/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+  <meta name="twitter:image" content=""/>
 </head>
 
 <body>

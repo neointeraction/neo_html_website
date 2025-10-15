@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/adobe-buys-figma-is-this-a-positive-or-negative-development"/>
   <meta property="og:title" content="Adobe Buys Figma: Is this a positive or negative development?"/>
   <meta property="og:description" content="On Thursday, 15th Sep 2022, An ivy league college dropout suddenly became the most-talked-about person in the technology world. His design product company, small-but-fast growing Figma, agreed to be sold to rival Adobe Inc. for $20 Billion in cash and stocks.--Figma is cloud-based collaboration software that eventually got popular among Designers, Software developers, and Product Managers who design and develop apps and other technology products.--Figma was founded by Dylan Field and Evan Wallac"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_ce3dee11ec3c4a5294ce687e4046c220~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ce3dee11ec3c4a5294ce687e4046c220~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/adobe-buys-figma-is-this-a-positive-or-negative-development"/>
@@ -23,7 +23,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Adobe Buys Figma: Is this a positive or negative development?"/>
   <meta name="twitter:description" content="On Thursday, 15th Sep 2022, An ivy league college dropout suddenly became the most-talked-about person in the technology world. His design product company, small-but-fast growing Figma, agreed to be sold to rival Adobe Inc. for $20 Billion in cash and stocks.--Figma is cloud-based collaboration software that eventually got popular among Designers, Software developers, and Product Managers who design and develop apps and other technology products.--Figma was founded by Dylan Field and Evan Wallac"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_ce3dee11ec3c4a5294ce687e4046c220~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ce3dee11ec3c4a5294ce687e4046c220~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

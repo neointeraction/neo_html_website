@@ -16,22 +16,21 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/css.php'; ?>
     <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Best UI UX agency in USA | UI UX Services | Neointeraction Design</title>
-  <meta name="description" content="Leading UI UX agency in USA offering top UI UX services. Boost user experiences with our innovative design solutions. Contact us for expert services."/>
-  <meta name="keywords" content="UI UX agency in USA, UI UX Services"/>
-  <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-usa"/>
-  <meta property="og:title" content="Contact Neointeraction Design | Top UI/UX Agency in the USA | Expert UI/UX Services"/>
-  <meta property="og:description" content="Transforming digital landscapes, our UI UX agency in USA delivers best design solutions for you. Contact us today!"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
-  <meta property="og:image:width" content="2500"/>
-  <meta property="og:image:height" content="1330"/>
-  <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-usa"/>
-  <meta property="og:site_name" content="Neointeraction Design"/>
-  <meta property="og:type" content="website"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Contact Neointeraction Design | Top UI/UX Agency in the USA | Expert UI/UX Services"/>
-  <meta name="twitter:description" content="Transforming digital landscapes, our UI UX agency in USA delivers best design solutions for you. Contact us today!"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/380122_fbdf5a539779484da4f06f782e54f0a7%7Emv2.png"/>
+    <meta name="description" content="Leading UI UX agency in USA offering top UI UX services. Boost user experiences with our innovative design solutions. Contact us for expert services."/>
+    <meta name="keywords" content="UI UX agency in USA, UI UX Services"/>
+    <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-usa"/>
+    <meta property="og:title" content="Contact Neointeraction Design | Top UI/UX Agency in the USA | Expert UI/UX Services"/>
+    <meta property="og:description" content="Transforming digital landscapes, our UI UX agency in USA delivers best design solutions for you. Contact us today!"/>
+    <meta property="og:image" content=""/>
+    <meta property="og:image:width" content="2500"/>
+    <meta property="og:image:height" content="1330"/>
+    <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-usa"/>
+    <meta property="og:site_name" content="Neointeraction Design"/>
+    <meta property="og:type" content="website"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title" content="Contact Neointeraction Design | Top UI/UX Agency in the USA | Expert UI/UX Services"/>
+    <meta name="twitter:description" content="Transforming digital landscapes, our UI UX agency in USA delivers best design solutions for you. Contact us today!"/>
+    <meta name="twitter:image" content=""/>
 </head>
 
 <body>
