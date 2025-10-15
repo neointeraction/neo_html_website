@@ -231,7 +231,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'master-ui-ux-design-with-empathetic-user-personas';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

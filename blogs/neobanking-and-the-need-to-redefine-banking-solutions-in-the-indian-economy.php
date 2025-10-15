@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sahla  Feroc","url":"https://www.neointeraction.com/members-area/sahla/profile"},"dateModified":"2024-02-02T13:08:38.100Z","datePublished":"2024-01-24T06:20:26.947Z","headline":"Neobanking and the need to redefine banking solutions in the Indian Economy","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy","@type":"itemPage","url":"https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"},"description":"The rise of neobanking solutions is one of the most significant developments in the rapidly changing Indian banking sector.","url":"https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_03df7d04e84d4b508a9e8f4286720973~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_03df7d04e84d4b508a9e8f4286720973~mv2.webp","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sahla  Feroc"/>
   <meta property="article:published_time" content="2024-01-24T06:20:26.947Z"/>
   <meta property="article:modified_time" content="2024-02-02T13:08:38.100Z"/>
@@ -123,7 +121,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

@@ -209,7 +209,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

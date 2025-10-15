@@ -229,7 +229,7 @@ The rise of subscription-based services has brought forth the importance of user
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-to-build-customer-loyalty-in-the-subscription-economy';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

@@ -103,7 +103,7 @@ As the webinar unfolded, it transformed into a treasure trove of insights, givin
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'mastering-ui-ux-portfolios-key-takeaways-from-our-webinar';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

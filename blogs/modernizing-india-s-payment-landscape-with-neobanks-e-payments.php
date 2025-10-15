@@ -186,7 +186,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'modernizing-india-s-payment-landscape-with-neobanks-e-payments';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

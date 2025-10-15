@@ -74,11 +74,12 @@
     <p class="blog-body-text">Machine learning is a game-changer in UI UX design, revolutionizing interactions with technology. It empowers designers to create intuitive, engaging, and user centric experiences through personalization, predictive analytics, sentiment analysis, and gesture recognition. As this technology advances, more groundbreaking innovations can be expected, blurring the lines between human and machine interaction.</p>
     <p class="blog-body-text">However, it's essential to remember that machine learning complements rather than replaces human designers. It offers valuable insights and automation, but human creativity, empathy, and understanding of user needs remain crucial for creating exceptional designs. By harnessing the power of machine learning algorithms, designers can enhance the overall user experience by gaining insights, automating tasks, and delivering personalized interfaces.</p>
     <p class="blog-body-text">The collaboration between machine learning and UI UX design is reshaping the digital landscape, ensuring highly personalized and data-driven user experiences. Embracing this technology-driven evolution will be a key differentiator for businesses aiming to provide exceptional user experiences in the digital era.</p>
-    <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-        <button class="btn btn-custom btn-custom-secondary">
-            View All Blogs
-        </button>
-    </a>
+    <?php 
+                    $from = "blog";
+                    $currentSlug = 'revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning';
+                    include $path . 'components/navigation-footer.php';
+                ?>
+
 </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

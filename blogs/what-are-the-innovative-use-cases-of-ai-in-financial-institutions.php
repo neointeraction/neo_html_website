@@ -158,7 +158,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'what-are-the-innovative-use-cases-of-ai-in-financial-institutions';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

@@ -158,7 +158,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'advantages-and-disadvantages-of-website-templates';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

@@ -191,7 +191,7 @@ In today's digital age, the mobile-first revolution has become more than just a 
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'role-of-responsive-design-in-the-mobile-first-era-for-business-success';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

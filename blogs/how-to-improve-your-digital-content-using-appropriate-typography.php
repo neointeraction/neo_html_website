@@ -118,11 +118,11 @@
         <li><a href="https://fontjoy.com/" target="_blank">FontJoy</a>: This platform will make your life easier, It will automatically generate combinations of fonts which share a theme but also have contrast.</li>
     </ul>
 
-    <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-        <button class="btn btn-custom btn-custom-secondary">
-            View All Blogs
-        </button>
-    </a>
+    <?php 
+                    $from = "blog";
+                    $currentSlug = 'how-to-improve-your-digital-content-using-appropriate-typography';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Nivedha Raju","url":"https://www.neointeraction.com/members-area/ce06611b-a01a-4481-b0a4-a6afcb0f34ac/profile"},"dateModified":"2024-07-15T04:27:00.625Z","datePublished":"2024-01-23T06:51:50.329Z","headline":"Turning Saving into a Game: Gamified design approaches to Encourage Financial Discipline","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline","@type":"itemPage","url":"https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"},"description":"Learn how gamified design transforms saving with goals, challenges, rewards, and progress tracking for financial success.","url":"https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_04e299535ed042c9b46cdf8648c6861f~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_04e299535ed042c9b46cdf8648c6861f~mv2.webp","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Nivedha Raju"/>
   <meta property="article:published_time" content="2024-01-23T06:51:50.329Z"/>
   <meta property="article:modified_time" content="2024-07-15T04:27:00.625Z"/>
@@ -145,7 +143,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

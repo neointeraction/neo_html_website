@@ -18,8 +18,6 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
   <meta property="og:url" content="https://www.neointeraction.com/post/fostering-user-confidence-in-your-brand-through-designing-for-trust"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Veena Varghese","url":"https://www.neointeraction.com/members-area/eabbebbf-166d-4a6e-817c-1f6fae1f456a/profile"},"dateModified":"2024-03-21T09:38:10.287Z","datePublished":"2024-01-17T06:28:12.826Z","headline":"Fostering User Confidence in Your Brand through Designing for Trust","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/fostering-user-confidence-in-your-brand-through-designing-for-trust","@type":"itemPage","url":"https://www.neointeraction.com/post/fostering-user-confidence-in-your-brand-through-designing-for-trust"},"description":"Exploring the art of building trust through design – a guide to enhancing user confidence in your brand.","url":"https://www.neointeraction.com/post/fostering-user-confidence-in-your-brand-through-designing-for-trust","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_5add4c886eb841cda279d0281dc70a56~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_5add4c886eb841cda279d0281dc70a56~mv2.webp","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Veena Varghese"/>
   <meta property="article:published_time" content="2024-01-17T06:28:12.826Z"/>
   <meta property="article:modified_time" content="2024-03-21T09:38:10.287Z"/>
@@ -171,7 +169,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'fostering-user-confidence-in-your-brand-through-designing-for-trust';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

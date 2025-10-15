@@ -18,8 +18,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Vanessa Lobo","url":"https://www.neointeraction.com/members-area/vanessa/profile"},"dateModified":"2024-06-25T12:27:36.173Z","datePublished":"2023-11-15T04:45:38.889Z","headline":"Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop","@type":"itemPage","url":"https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop"},"description":"Neointeraction's UX Design Workshop: Navigating the Evolving Design Landscape and Developing Essential Skills.&#010;","url":"https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c16c07_15c0d824abb74cf39ca6f89e35f173b3~mv2.webp/v1/fill/w_1000,h_773,al_c,q_85,usm_0.66_1.00_0.01/c16c07_15c0d824abb74cf39ca6f89e35f173b3~mv2.webp","width":"1411","height":"1090"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Vanessa Lobo"/>
   <meta property="article:published_time" content="2023-11-15T04:45:38.889Z"/>
   <meta property="article:modified_time" content="2024-06-25T12:27:36.173Z"/>
@@ -97,7 +95,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'takeaways-from-our-1-day-ux-design-workshop';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

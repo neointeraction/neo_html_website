@@ -132,7 +132,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-ui-ux-design-contributes-to-the-success-of-open-banking';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

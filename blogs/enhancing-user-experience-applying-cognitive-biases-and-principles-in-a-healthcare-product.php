@@ -90,11 +90,12 @@
     </ul>
     <p class="blog-body-text">Effective planning and design are crucial for Healthcare UX UI. This is precisely where the expertise of <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a> comes into play. Our team ensures the provision of top-notch <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore" target="_blank">UI/UX design services</a> that seamlessly integrate throughout the entire product design process.</p>
 
-    <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-        <button class="btn btn-custom btn-custom-secondary">
-            View All Blogs
-        </button>
-    </a>
+        <?php 
+                    $from = "blog";
+                    $currentSlug = 'enhancing-user-experience-applying-cognitive-biases-and-principles-in-a-healthcare-product';
+                    include $path . 'components/navigation-footer.php';
+                ?>
+
 </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

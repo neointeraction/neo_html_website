@@ -22,39 +22,6 @@
         content="https://www.neointeraction.com/post/driving-sales-and-revenue-with-slack-s-ux-ui-a-real-life-success-story" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "author": {
-            "@type": "Person",
-            "name": "Sahla  Feroc",
-            "url": "https://www.neointeraction.com/members-area/sahla/profile"
-        },
-        "dateModified": "2024-07-15T04:24:20.879Z",
-        "datePublished": "2024-01-18T14:37:22.510Z",
-        "headline": "Driving Sales and Revenue with Slack's UX/UI: A Real-Life Success Story",
-        "mainEntityOfPage": {
-            "@id": "https://www.neointeraction.com/post/driving-sales-and-revenue-with-slack-s-ux-ui-a-real-life-success-story",
-            "@type": "itemPage",
-            "url": "https://www.neointeraction.com/post/driving-sales-and-revenue-with-slack-s-ux-ui-a-real-life-success-story"
-        },
-        "description": "See how strategic UX/UI design boosted user engagement and revenue in a real-life case study of Slack's success.",
-        "url": "https://www.neointeraction.com/post/driving-sales-and-revenue-with-slack-s-ux-ui-a-real-life-success-story",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.wixstatic.com/media/c380a9_411fbd45bccf4a7bb064ec848fdbe96b~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_411fbd45bccf4a7bb064ec848fdbe96b~mv2.webp",
-            "width": "941",
-            "height": "727"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "url": "https://www.neointeraction.com"
-        }
-    }
-    </script>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Sahla  Feroc" />
     <meta property="article:published_time" content="2024-01-18T14:37:22.510Z" />
     <meta property="article:modified_time" content="2024-07-15T04:24:20.879Z" />
@@ -263,7 +230,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'driving-sales-and-revenue-with-slack-s-ux-ui-a-real-life-success-story';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

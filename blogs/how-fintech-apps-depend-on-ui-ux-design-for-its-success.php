@@ -271,7 +271,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-fintech-apps-depend-on-ui-ux-design-for-its-success';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

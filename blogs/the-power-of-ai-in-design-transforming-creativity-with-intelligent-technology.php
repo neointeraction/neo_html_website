@@ -23,39 +23,6 @@
         content="https://www.neointeraction.com/post/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "author": {
-            "@type": "Person",
-            "name": "Liya Theresa  Siby",
-            "url": "https://www.neointeraction.com/members-area/liya/profile"
-        },
-        "dateModified": "2024-07-15T04:27:37.511Z",
-        "datePublished": "2024-01-23T07:08:38.915Z",
-        "headline": "The Power of AI in Design: Transforming Creativity with Intelligent Technology",
-        "mainEntityOfPage": {
-            "@id": "https://www.neointeraction.com/post/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology",
-            "@type": "itemPage",
-            "url": "https://www.neointeraction.com/post/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology"
-        },
-        "description": "Explore how AI transforms creativity in design. Discover the power of intelligent technology in shaping innovative solutions.",
-        "url": "https://www.neointeraction.com/post/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.wixstatic.com/media/c380a9_23252fe6921c42628d27a3538cece72a~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_23252fe6921c42628d27a3538cece72a~mv2.webp",
-            "width": "941",
-            "height": "727"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "url": "https://www.neointeraction.com"
-        }
-    }
-    </script>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Liya Theresa  Siby" />
     <meta property="article:published_time" content="2024-01-23T07:08:38.915Z" />
     <meta property="article:modified_time" content="2024-07-15T04:27:37.511Z" />
@@ -283,7 +250,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

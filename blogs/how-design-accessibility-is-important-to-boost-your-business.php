@@ -89,7 +89,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-design-accessibility-is-important-to-boost-your-business';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

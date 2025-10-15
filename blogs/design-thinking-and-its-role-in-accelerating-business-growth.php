@@ -208,7 +208,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'design-thinking-and-its-role-in-accelerating-business-growth';
                     include $path . 'components/navigation-footer.php';
                 ?>
 
