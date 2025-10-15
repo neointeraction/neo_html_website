@@ -258,7 +258,14 @@
     </section>
     <!-- engagement-modal -- end -->
     <!-- hire designer  -->
-    <?php include 'components/hire-designers-engineers.php'; ?>
+    <?php 
+        $title = 'Hire Designers/Front-end Engineers'; 
+        $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. ';
+        $buttonName = 'Request a Quote';
+        $imageLink = "assets/images/about-us-hire.jpg";
+        $imageAlt = "Request a Quote";
+        include $path . 'components/hire-designers-engineers.php'; 
+    ?>
     <!-- hire designer -- end  -->
     <!-- dev-cycle  -->
     <section class="dev-cycle section-padding">

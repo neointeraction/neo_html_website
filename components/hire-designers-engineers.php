@@ -13,6 +13,13 @@
       $buttonName = "Request a Quote";
     }
      
+    if(empty($imageLink)){
+      $imageLink =  "assets/images/bs-img.webp";
+    }
+
+    if(empty($imageAlt)){
+      $imageAlt = "Hire Designers/Front-end Engineers";
+    }
   
     ?>
   <section class="banner-strip section-padding ">
@@ -22,7 +29,7 @@
         <div class="col-md-6  img-container">
           <!-- <img src="<?php echo $path; ?>assets/images/about-us/hire-designers-front-end-engineers.jpeg" alt="Hire Designers/Front-end Engineers" class="img-fluid"> -->
 
-          <img src="<?php echo $path; ?>assets/images/bs-img.webp" alt="Hire Designers/Front-end Engineers" class="img-fluid">
+          <img src="<?php echo $path . $imageLink; ?>" alt="<?php echo $imageAlt; ?>" class="img-fluid">
           
         </div>
 

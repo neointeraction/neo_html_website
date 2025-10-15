@@ -286,6 +286,9 @@
         </div>
     </section>
 
+
+    <?php $faq_tag = 'home'; include $path . 'components/faq.php'; ?>
+
     <!-- design-events  -->
     <section class="design-events section-padding">
         <div class="container">
@@ -347,8 +350,15 @@
     <!-- recent-blogs - end  -->
 
     <?php include $path . 'components/registration-modal.php'; ?>
-    <?php include $path . 'components/submit-enquiry.php'; ?>
-    <?php $faq_tag = 'home'; include $path . 'components/faq.php'; ?>
+
+    <?php 
+        $title = 'Submit Enquiry'; 
+        $desc = 'Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!';
+        $buttonName = 'Contact Us';
+        $imageLink = "assets/images/homepage-contact-us.jpg";
+        $imageAlt = "Contact us";
+        include $path . 'components/hire-designers-engineers.php'; 
+    ?>
     <?php include $path . 'components/join-our-team.php'; ?>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>

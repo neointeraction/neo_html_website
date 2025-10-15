@@ -71,7 +71,7 @@
 <?php
   
     $projectCount++;
-    if ($projectCount % 3 === 0) { // Insert after every 4 projects
+    if ($projectCount % 4 === 0) { // Insert after every 4 projects
       // include $path . 'components/submit-enquiry.php';
         $title = "Start Your Consultation";
         $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
