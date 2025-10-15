@@ -47,9 +47,8 @@
     <!-- banner -- end  -->
     <section class="privacy section-padding">
         <div class="container">
-            <h1 class="section-title">
-                Welcome to Neointeraction Design’s Privacy Policy
-            </h1>
+
+          <h4 class="blog-body-title">Welcome to Neointeraction Design’s Privacy Policy</h4>
 
             <p class="privacy-text">
                 The creator of this Privacy Policy ensures a steady commitment to Your privacy with regard to the protection of your invaluable information that you may share across this Website This privacy policy contains information about the Website<br>

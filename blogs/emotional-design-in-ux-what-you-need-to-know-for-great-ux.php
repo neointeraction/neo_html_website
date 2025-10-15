@@ -44,7 +44,7 @@
             <div class="blog-body-padding">
                 <p class="blog-author-text">
                     <div class="avatar-img-block">
-                             <img src="<?php echo $path; ?>assets/images/blog/author/sahla-feroc.png" alt="avatar" class="avatar-img" />
+                             <img src="<?php echo $path; ?>assets/images/blog/author/sahla-feroc.png" alt="Sahla Feroc" class="avatar-img" />
                     </div>
                     <span>Sahla Feroc • Aug 2, 2024</span>
                 </p>
