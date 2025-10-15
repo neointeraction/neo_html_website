@@ -19,10 +19,7 @@
     <meta property="og:url" content="https://www.neointeraction.com/blogs/ux-design-guidelines-that-must-be-followed-while-designing-a-mobile-app.php" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Rakshanda Naik" />
-    <meta property="article:published_time" content="2024-01-25T10:58:02.450Z" />
-    <meta property="article:modified_time" content="2024-03-21T04:54:56.696Z" />
     <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" title="Neointeraction - RSS" type="application/rss+xml" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="UX Design Guidelines for Mobile App Design" />
