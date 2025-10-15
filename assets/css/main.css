@@ -312,7 +312,9 @@ body {
 .scrolling-logos {
   display: flex;
   width: max-content; /* Ensure the flex container is wide enough */
-  animation: scroll-left 30s linear infinite; /* Adjust duration as needed */
+  animation: scroll-left 30s linear infinite;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
 }
 
 .scrolling-logos:hover {
