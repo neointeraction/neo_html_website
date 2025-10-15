@@ -10,7 +10,7 @@
     <meta name="description"
         content="Terminologies are important to understand the technical and scientific contexts. It also helps specialists and students of the respective fields to communicate effectively." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/blogs/the-comprehensive-guide-for-all-designers-terminologies-in-ui-ux-design-explained.php" />
+        href="https://www.neointeraction.com/blogs" />
     <meta property="og:title"
         content="The comprehensive guide for all designers: Terminologies in UI UX design explained" />
     <meta property="og:description"
@@ -181,7 +181,7 @@
                     <b>Sketching</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/Sketching-meaning.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-sketching.jpeg"
                         alt="Sketching meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -232,7 +232,7 @@
                     <b>Flat Design</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/Flat-Design-meaning.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-flat-design.jpeg"
                         alt="Flat Design meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -263,7 +263,7 @@
                     <b>Responsive design</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/Responsive-design-meaning.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-responsive-design.jpeg"
                         alt="Responsive design meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -275,7 +275,7 @@
                     <b>Wireframe</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/wireframes-meaning.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-wireframe.jpeg"
                         alt="wireframes meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -288,7 +288,7 @@
                     <b>Mockup</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/Mockup-meaning.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-mockup.jpeg"
                         alt="Mockup meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -299,7 +299,7 @@
                     <b>Prototype</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/Prototype-meaning.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-prototype.jpeg"
                         alt="Prototype meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -328,7 +328,7 @@
                     <b>Card Sorting</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/Card-Sorting-meaning.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-card-sorting.jpeg"
                         alt="Card Sorting meaning" />
                 </div>
                 <p class="blog-body-text">

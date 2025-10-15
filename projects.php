@@ -9,13 +9,13 @@
     <title>User Experience Design & User Interface Design in India  | Neointeraction Design</title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
-    <link rel="canonical" href="https://www.neointeraction.com/blog" />
+    <link rel="canonical" href="https://www.neointeraction.com/" />
     <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta property="og:description" content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:url" content="https://www.neointeraction.com/blog" />
+    <meta property="og:url" content="https://www.neointeraction.com/" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />
