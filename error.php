@@ -22,51 +22,6 @@
     <meta name="twitter:title" content="404 Page Not Found | Neointeraction"/>
     <meta name="twitter:description" content="The page you are looking for does not exist. Navigate back to our homepage to explore our UI/UX design and front-end development services."/>
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg"/>
-    <style>
-        .error-page {
-            text-align: center;
-            padding: 80px 0;
-            min-height: 70vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        .error-content h1 {
-            font-size: 50px;
-            font-weight: 700;
-            margin-bottom: 20px;
-            color: #333;
-        }
-        .error-content .red-text {
-            color: #e74c3c;
-        }
-        .error-content img {
-            max-width: 150px;
-            margin: 20px 0;
-        }
-        .error-content p {
-            font-size: 18px;
-            color: #555;
-            margin-bottom: 30px;
-            max-width: 500px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        .btn-back {
-            display: inline-block;
-            padding: 10px 30px;
-            border: 1px solid #333;
-            color: #333;
-            text-decoration: none;
-            border-radius: 4px;
-            font-weight: 600;
-            transition: all 0.3s ease;
-        }
-        .btn-back:hover {
-            background-color: #333;
-            color: #fff;
-        }
-    </style>
 </head>
     <body>
         <?php $page='Error';?>

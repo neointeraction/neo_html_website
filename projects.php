@@ -6,12 +6,14 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
-    <title>User Experience Design & User Interface Design in India  | Neointeraction Design</title>
-    <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
+    <title>User Experience Design & User Interface Design in India | Neointeraction Design</title>
+    <meta name="description"
+        content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="https://www.neointeraction.com/" />
     <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
-    <meta property="og:description" content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
+    <meta property="og:description"
+        content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -21,7 +23,8 @@
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
-    <meta name="twitter:description" content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
+    <meta name="twitter:description"
+        content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
 </head>
 
@@ -51,36 +54,194 @@
             <div class="project-block">
                 <div class="filter-tags-scroll-container">
                     <div class="filter-tag-flex">
+                        <?php
+                        $projectsData = file_get_contents(__DIR__ . '/data/projects_data.json');
+                        $projects = json_decode($projectsData, true);
+                        $tags = [];
+                        foreach ($projects as $project) {
+                            $tags = array_merge($tags, $project['tags']);
+                        }
+                        $uniqueTags = array_unique($tags);
+                        ?>
                         <button class="btn filter-button active">All</button>
-                        <button class="btn filter-button">Mobile Design</button>
-                        <button class="btn filter-button">Enterprise Apps</button>
-                        <button class="btn filter-button">Start-up Projects</button>
-                        <button class="btn filter-button">B2B</button>
-                        <button class="btn filter-button">Fintech</button>
-                        <button class="btn filter-button">Capital Market</button>
-                        <button class="btn filter-button">Healthcare</button>
-                        <button class="btn filter-button">IOT</button>
-                        <button class="btn filter-button">Travel & Hospitality</button>
-                        <button class="btn filter-button">B2C</button>
+                        <?php foreach ($uniqueTags as $tag) : ?>
+                        <button class="btn filter-button"><?php echo $tag; ?></button>
+                        <?php endforeach; ?>
                     </div>
                 </div>
                 <!-- project-listing  -->
-                <?php include $path . include 'projects/project-listing.php'; ?>
+                <?php
+  $rootPath = "projects/";
+  $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2);
+  $allowedTags = [
+    'Mobile Design', 'Enterprise Apps', 'Start-up Projects', 'B2B', 'Fintech',
+    'Capital Market', 'Healthcare', 'IOT', 'Travel & Hospitality', 'B2C'];
+
+  $projectsData = file_get_contents(__DIR__ . '/data/projects_data.json');
+  $projects = json_decode($projectsData, true);
+
+  $initial_projects_to_show = 9;
+  $projects_per_load = 4;
+  $total_projects = count($projects);
+  $projectCount = 0; // Initialize a counter for projects
+
+  foreach ($projects as $index => $project) {
+    $hidden_class = ($index >= $initial_projects_to_show) ? 'hidden-project' : '';
+?>
+                <div class="project-block-item <?php echo $hidden_class; ?>" data-tags="<?php echo implode(',', $project['tags']); ?>" data-project-index="<?php echo $index; ?>"
+                    onclick="location.href='<?php echo $rootPath . $project['link']; ?>';" style="cursor: pointer;">
+                    <div class="row justify-content-center">
+                        <div class="col-12">
+                            <div class="project-card d-lg-flex">
+                                <!-- Image container with fixed height and object-fit for consistent appearance -->
+                                <div class="col-lg-6 p-0 project-image-container">
+                                    <img src="<?php echo $path; ?>assets/images/projects/<?php echo $project['image']; ?>" alt="<?php echo $project['alt']; ?>"
+                                        class="img-fluid project-image d-none d-md-block" width="584px" height="280px" />
+                                    <img src="<?php echo $path; ?>assets/images/projects/<?php echo $project['mobileImage']; ?>" alt="<?php echo $project['alt']; ?>"
+                                        class="img-fluid project-image d-flex d-md-none" width="584px" height="280px" />
+                                </div>
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                    <div class="project-tags">
+                                        <?php foreach ($project['tags'] as $tag) { ?>
+                                        <span class="badge"><?php echo $tag; ?></span>
+                                        <?php } ?>
+                                    </div>
+                                    <h2 class="project-title"><?php echo $project['title']; ?></h2>
+                                    <p class="project-description">
+                                        <?php echo $project['description']; ?></p>
+
+
+                                    <div class="pb-action-btn">
+                                        <button class="btn btn-custom read-more-btn">
+                                            Read More
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <?php
+    $projectCount++;
+  }
+?>
+
+
+
                 <!-- project-listing -- end  -->
             </div>
         </div>
     </section>
     <!-- browse-project -- end -->
+
+    <?php
+        $title = "Submit Enquiry";
+        $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
+        $buttonName = "Request a Quote";
+    ?>
+    <section class="section-padding ">
+        <div class="container">
+            <div class="row ui-card hire-engineers">
+                <!-- Image Column -->
+                <div class="col-md-6  img-container d-none d-md-block">
+                    <img src="<?php echo $path; ?>assets/images/about-us/hire-content.jpeg"" alt=" Hire Designers/Front-end Engineers" class="img-fluid">
+                </div>
+
+                <!-- Text and Button Column -->
+                <div class="col-md-6 ">
+                    <h2 class="bs-title"><?php echo $title; ?></h2>
+                    <p class="bs-text">
+                        <?php echo $desc; ?>
+                    </p>
+
+                    <button class="btn btn-custom btn-custom-secondary bs-button request-quote-btn" data-bs-toggle="modal" data-bs-target="#registerModal"
+                        data-service="<?php echo $buttonName; ?>" onclick="setEnquiryType('<?php echo $buttonName; ?>')">
+                        <?php echo $buttonName; ?>
+                    </button>
+
+                    <script>
+                    function setEnquiryType(enquiryType) {
+                        localStorage.setItem('enquiryType', enquiryType);
+                    }
+                    </script>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <div class="load-more-btn-projects">
-        <button class="btn btn-custom btn-custom-secondary">
+        <button class="btn btn-custom btn-custom-secondary" id="loadMoreProjects">
             Load More
         </button>
     </div>
 
     <!-- project-listing -- end  -->
+    <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const filterButtons = document.querySelectorAll(".filter-button");
+        const projectItems = document.querySelectorAll(".project-block-item");
+        const loadMoreButton = document.getElementById("loadMoreProjects");
+        let projectsToShow = <?php echo $initial_projects_to_show; ?>;
+        const projectsPerLoad = <?php echo $projects_per_load; ?>;
+        const totalProjects = <?php echo $total_projects; ?>;
+
+        function updateProjectVisibility() {
+            projectItems.forEach((item, index) => {
+                if (index < projectsToShow) {
+                    item.style.display = "block";
+                } else {
+                    item.style.display = "none";
+                }
+            });
+
+            if (projectsToShow >= totalProjects) {
+                loadMoreButton.style.display = "none";
+            } else {
+                loadMoreButton.style.display = "block";
+            }
+        }
+
+        filterButtons.forEach(button => {
+            button.addEventListener("click", function() {
+                filterButtons.forEach(btn => btn.classList.remove("active"));
+                this.classList.add("active");
+
+                const selectedTag = this.textContent.trim();
+
+                projectItems.forEach(item => {
+                    const projectTags = item.getAttribute("data-tags");
+                    if (selectedTag === "All" || projectTags.includes(selectedTag)) {
+                        item.style.display = "block";
+                    } else {
+                        item.style.display = "none";
+                    }
+                });
+                // Reset projectsToShow and hide load more button if filtering
+                if (selectedTag !== "All") {
+                    loadMoreButton.style.display = "none";
+                } else {
+                    projectsToShow = <?php echo $initial_projects_to_show; ?>;
+                    updateProjectVisibility();
+                }
+            });
+        });
+
+        loadMoreButton.addEventListener("click", function() {
+            projectsToShow += projectsPerLoad;
+            updateProjectVisibility();
+        });
+
+        updateProjectVisibility(); // Initial call to set visibility
+    });
+    </script>
 </body>
+
+</html>
 
 </html>

@@ -3,20 +3,16 @@ $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2);
 $team_data = json_decode(file_get_contents($path . 'data/team_data.json'), true);
 
 // Default tag if not provided
+
 $tag = isset($team_tag) ? $team_tag : 'all';
-$limit = isset($team_limit) ? $team_limit : null;
 
 $filtered_team = array_filter($team_data, function ($member) use ($tag) {
     return in_array($tag, $member['tags']);
 });
 
-if ($limit !== null) {
-    $filtered_team = array_slice($filtered_team, 0, $limit);
-}
-
 ?>
 <div class="row justify-content-center">
-    <?php foreach ($team_data as $member) { ?>
+    <?php foreach ($filtered_team as $member) { ?>
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
             <a href="<?php echo $member['linkedin']; ?>" class="blog-anchor" target="_blank">
                 <div class="blog-card color-bw h-100">

@@ -51,7 +51,7 @@
         <div class="container">
             <div class="blog-container-block">
                 <div class="row justify-content-center">
-                    <?php $team_tag = 'home';
+                    <?php $team_tag = 'all';
                     include $path . 'components/teams-listing.php'; ?>
                 </div>
             </div>

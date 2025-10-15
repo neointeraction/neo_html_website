@@ -229,54 +229,7 @@
             </div>
             <div class="blog-container-block section-margin">
                 <div class="row g-4 justify-content-center">
-                    <!-- Card 1 -->
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="blog-card color-bw  h-100">
-                                <img src="<?php echo $path; ?>assets/images/team/sam.jpeg" class="team-img-top" alt="sam" />
-                                <div class="card-body">
-                                    <h5 class="team-card-title">Sam Thomas</h5>
-                                    <p class="team-card-text">
-                                        <small class="text-muted">UX Director</small>
-                                    </p>
-                                </div>
-                            </div>
-                    </div>
-                    <!-- item -->
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="blog-card color-bw h-100">
-                                <img src="<?php echo $path; ?>assets/images/team/shameer.jpeg" class="team-img-top" alt="shameer" />
-                                <div class="card-body">
-                                    <h5 class="team-card-title team-title">Shameer M</h5>
-                                    <p class="team-card-text">
-                                        <small class="text-muted">UI Lead</small>
-                                    </p>
-                                </div>
-                            </div>
-                    </div>
-                    <!-- item -->
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="blog-card color-bw h-100">
-                                <img src="<?php echo $path; ?>assets/images/team/vanessa.jpeg" class="team-img-top" alt="vanessa" />
-                                <div class="card-body">
-                                    <h5 class="team-card-title">Vanessa Lobo</h5>
-                                    <p class="team-card-text">
-                                        <small class="text-muted">UX Designer</small>
-                                    </p>
-                                </div>
-                            </div>
-                    </div>
-                    <!-- item -->
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                            <div class="blog-card color-bw h-100">
-                                <img src="<?php echo $path; ?>assets/images/team/midhun.jpeg" class="team-img-top" alt="midhun" />
-                                <div class="card-body">
-                                    <h5 class="team-card-title">Midhun M</h5>
-                                    <p class="team-card-text">
-                                        <small class="text-muted">Project Lead</small>
-                                    </p>
-                                </div>
-                            </div>
-                    </div>
+                   <?php $team_tag = 'home'; include $path . 'components/teams-listing.php'; ?>
                 </div>
             </div>
         </div>
