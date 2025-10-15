@@ -111,7 +111,7 @@
         <div class="container">
             <div class="title-flex">
                 <h2 class="section-title">Browse Projects</h2>
-                <a href="#" class="section-links">View All</a>
+                <a href="<?php echo $path; ?>projects.php" class="section-links">View All</a>
             </div>
             <div class="project-slider-wrapper section-margin">
                 <div class="project-block about-project-block">
@@ -132,15 +132,16 @@
                                             height="280px"/>
                                     </div>
                                     <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                        <h2 class="project-title"><?php echo $project['title']; ?></h2>
-                                        <p class="project-description">
-                                        <?php echo $project['description']; ?>
-                                        </p>
-                                        <div class="project-tags">
+                                    <div class="project-tags">
                                         <?php foreach ($project['tags'] as $tag) { ?>
                       <span class="badge"><?php echo $tag; ?></span>
                       <?php } ?>
                                         </div>
+                                        <h2 class="project-title"><?php echo $project['title']; ?></h2>
+                                        <p class="project-description">
+                                        <?php echo $project['description']; ?>
+                                        </p>
+                                      
 
                                         <div class="pb-action-btn">
                                             <button class="btn btn-custom read-more-btn" onclick="window.location.href='<?php echo $path; ?>projects/intertrust-bpm-tool.php'">
@@ -230,7 +231,6 @@
                 <div class="row g-4 justify-content-center">
                     <!-- Card 1 -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="#" class="blog-anchor">
                             <div class="blog-card color-bw  h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/sam.jpeg" class="team-img-top" alt="sam" />
                                 <div class="card-body">
@@ -240,11 +240,9 @@
                                     </p>
                                 </div>
                             </div>
-                        </a>
                     </div>
                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="#" class="blog-anchor">
                             <div class="blog-card color-bw h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/shameer.jpeg" class="team-img-top" alt="shameer" />
                                 <div class="card-body">
@@ -254,11 +252,9 @@
                                     </p>
                                 </div>
                             </div>
-                        </a>
                     </div>
                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="#" class="blog-anchor">
                             <div class="blog-card color-bw h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/vanessa.jpeg" class="team-img-top" alt="vanessa" />
                                 <div class="card-body">
@@ -268,11 +264,9 @@
                                     </p>
                                 </div>
                             </div>
-                        </a>
                     </div>
                     <!-- item -->
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <a href="#" class="blog-anchor">
                             <div class="blog-card color-bw h-100">
                                 <img src="<?php echo $path; ?>assets/images/team/midhun.jpeg" class="team-img-top" alt="midhun" />
                                 <div class="card-body">
@@ -282,7 +276,6 @@
                                     </p>
                                 </div>
                             </div>
-                        </a>
                     </div>
                 </div>
             </div>
