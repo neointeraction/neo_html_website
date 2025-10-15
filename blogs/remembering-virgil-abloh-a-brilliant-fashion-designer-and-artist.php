@@ -22,39 +22,6 @@
         content="https://www.neointeraction.com/post/remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "author": {
-            "@type": "Person",
-            "name": "Sam Thomas",
-            "url": "https://www.neointeraction.com/members-area/99b708c6-84ef-4819-a8a0-9b080223d7c6/profile"
-        },
-        "dateModified": "2024-04-02T09:58:19.666Z",
-        "datePublished": "2024-01-25T10:37:34.947Z",
-        "headline": "Remembering Virgil Abloh, a brilliant fashion designer and artist",
-        "mainEntityOfPage": {
-            "@id": "https://www.neointeraction.com/post/remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist",
-            "@type": "itemPage",
-            "url": "https://www.neointeraction.com/post/remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist"
-        },
-        "description": "A tribute to Abloh’s creativity! Lets remember his life and celebrate his exuberant designs.",
-        "url": "https://www.neointeraction.com/post/remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.wixstatic.com/media/c380a9_9025ee2e3a8b49f89957626214c14649~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_9025ee2e3a8b49f89957626214c14649~mv2.webp",
-            "width": "941",
-            "height": "727"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "url": "https://www.neointeraction.com"
-        }
-    }
-    </script>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Sam Thomas" />
     <meta property="article:published_time" content="2024-01-25T10:37:34.947Z" />
     <meta property="article:modified_time" content="2024-04-02T09:58:19.666Z" />
@@ -266,7 +233,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

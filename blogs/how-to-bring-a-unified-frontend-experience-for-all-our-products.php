@@ -229,7 +229,7 @@ Identity of the brand
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-to-bring-a-unified-frontend-experience-for-all-our-products';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

@@ -38,7 +38,7 @@
         }
 
         if($prevIndex < 0) {
-            $prevIndex = $count;
+            $prevIndex = $count - 1;
         }
 
         // Get previous and next slugs safely
@@ -58,7 +58,7 @@
     ?>
   <section class="banner-strip section-padding ">
       <div class="container">
-          <div class="row ui-card navigation-footer">
+          <div class="row navigation-footer">
               <!-- Image Column -->
               <div class="col-md-4 d-none d-md-block">
                   <h4 title="<?php echo $previous; ?>"><?php echo $previous; ?></h4>

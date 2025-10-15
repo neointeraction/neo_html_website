@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Rakshanda Naik","url":"https://www.neointeraction.com/members-area/1923f337-922b-4d17-b355-9bf7c9e842bc/profile"},"dateModified":"2024-02-02T07:21:24.031Z","datePublished":"2024-01-24T11:49:36.736Z","headline":"How to Promote Positive emotions in the User Experience of Your Product","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product","@type":"itemPage","url":"https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"},"description":"User Scenarios are essential for preparing for probable future events to promote positive emotions and prevent negative emotions.","url":"https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_7bce6e8a36ef4f229ad29e92c3d17da8~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_7bce6e8a36ef4f229ad29e92c3d17da8~mv2.webp","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Rakshanda Naik"/>
   <meta property="article:published_time" content="2024-01-24T11:49:36.736Z"/>
   <meta property="article:modified_time" content="2024-02-02T07:21:24.031Z"/>
@@ -201,7 +199,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-to-promote-positive-emotions-in-the-user-experience-of-your-product';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Veena Varghese","url":"https://www.neointeraction.com/members-area/eabbebbf-166d-4a6e-817c-1f6fae1f456a/profile"},"dateModified":"2024-08-09T04:19:44.541Z","datePublished":"2024-08-09T04:15:45.795Z","headline":"Tap into the Revolutionary Potential of AI for UX Research","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research","@type":"itemPage","url":"https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research"},"description":"Uncover how AI for UX research can transform, improve effectiveness, inclusivity, and depth in product development.","url":"https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c16c07_1ae0102f8e6f4df284516b1da81dcc1f~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_1ae0102f8e6f4df284516b1da81dcc1f~mv2.jpg","width":"1881","height":"1453"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Veena Varghese"/>
   <meta property="article:published_time" content="2024-08-09T04:15:45.795Z"/>
   <meta property="article:modified_time" content="2024-08-09T04:19:44.541Z"/>
@@ -195,7 +193,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'tap-into-the-revolutionary-potential-of-ai-for-ux-research';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

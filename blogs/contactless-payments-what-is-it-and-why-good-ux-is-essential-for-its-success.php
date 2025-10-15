@@ -131,7 +131,7 @@
                 </p>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'contactless-payments-what-is-it-and-why-good-ux-is-essential-for-its-success';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

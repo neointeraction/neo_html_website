@@ -143,7 +143,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'adobe-buys-figma-is-this-a-positive-or-negative-development';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

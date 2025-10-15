@@ -2,21 +2,21 @@
 <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <section class="banner-strip section-padding">
     <div class="container">
-      <div class="row ui-card ">
+      <div class="row ui-card hire-engineers">
         <!-- Image Column -->
         <div class="col-md-6  img-container">
-          <img src="<?php echo $path; ?>assets/images/about-us/hire-designers-front-end-engineers.jpeg" alt="Stylized illustration" class="img-fluid">
+          <img src="<?php echo $path; ?>assets/images/submit-projects.jpg" alt="Stylized illustration" class="img-fluid">
         </div>
 
         <!-- Text and Button Column -->
         <div class="col-md-6 ">
-          <h2 class="bs-title">Enquiry Form</h2>
+          <h2 class="bs-title">Submit Enquiry</h2>
           <p class="bs-text">
-            Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!
+          Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. 
           </p>
 
 
-          <button class="btn btn-custom bs-button" data-bs-toggle="modal" data-bs-target="#registerModal" data-service="Request a Quote" onclick="setEnquiryType('Request a Quote')">
+          <button class="btn btn-custom btn-custom-secondary bs-button request-quote-btn" data-bs-toggle="modal" data-bs-target="#registerModal" data-service="Request a Quote" onclick="setEnquiryType('Request a Quote')">
             Request a Quote
           </button>
 

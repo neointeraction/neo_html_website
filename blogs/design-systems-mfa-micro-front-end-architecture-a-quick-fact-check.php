@@ -21,8 +21,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Liya Theresa  Siby","url":"https://www.neointeraction.com/members-area/liya/profile"},"dateModified":"2024-07-09T16:38:21.347Z","datePublished":"2024-07-09T16:36:00.554Z","headline":"Design systems &amp; MFA (Micro front end architecture) - a quick fact check!","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check","@type":"itemPage","url":"https://www.neointeraction.com/post/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check"},"description":"Explore how Design Systems and Micro Frontend Architecture (MFA) work together to create a unified frontend experience.","url":"https://www.neointeraction.com/post/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c16c07_e6365acf105e4247a45dd79e5deb0158~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_e6365acf105e4247a45dd79e5deb0158~mv2.jpg","width":"1881","height":"1453"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Liya Theresa  Siby"/>
   <meta property="article:published_time" content="2024-07-09T16:36:00.554Z"/>
   <meta property="article:modified_time" content="2024-07-09T16:38:21.347Z"/>
@@ -203,7 +201,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'design-systems-mfa-micro-front-end-architecture-a-quick-fact-check';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

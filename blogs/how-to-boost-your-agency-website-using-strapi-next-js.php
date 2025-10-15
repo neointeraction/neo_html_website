@@ -22,39 +22,6 @@
         content="https://www.neointeraction.com/post/how-to-boost-your-agency-website-using-strapi-next-js" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "author": {
-            "@type": "Person",
-            "name": "Shameer M",
-            "url": "https://www.neointeraction.com/members-area/a05cfe91-4f4f-4f2a-8d3a-d2a455efe7cf/profile"
-        },
-        "dateModified": "2024-04-30T09:54:53.972Z",
-        "datePublished": "2024-01-24T10:28:38.570Z",
-        "headline": "How to boost your agency website using Strapi &amp; Next.js",
-        "mainEntityOfPage": {
-            "@id": "https://www.neointeraction.com/post/how-to-boost-your-agency-website-using-strapi-next-js",
-            "@type": "itemPage",
-            "url": "https://www.neointeraction.com/post/how-to-boost-your-agency-website-using-strapi-next-js"
-        },
-        "description": "Neointeraction Design, a ui ux design company in Bangalore recently redesigned its website using Strapi &amp;amp; Next.js",
-        "url": "https://www.neointeraction.com/post/how-to-boost-your-agency-website-using-strapi-next-js",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.wixstatic.com/media/c380a9_8421b130a4674c778baef2f553bd8e6f~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_8421b130a4674c778baef2f553bd8e6f~mv2.webp",
-            "width": "941",
-            "height": "727"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "url": "https://www.neointeraction.com"
-        }
-    }
-    </script>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Shameer M" />
     <meta property="article:published_time" content="2024-01-24T10:28:38.570Z" />
     <meta property="article:modified_time" content="2024-04-30T09:54:53.972Z" />
@@ -373,7 +340,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-to-boost-your-agency-website-using-strapi-next-js';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

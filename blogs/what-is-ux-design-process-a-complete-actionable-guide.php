@@ -163,7 +163,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'what-is-ux-design-process-a-complete-actionable-guide';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

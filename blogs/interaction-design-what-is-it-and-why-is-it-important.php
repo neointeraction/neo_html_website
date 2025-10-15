@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sebin George","url":"https://www.neointeraction.com/members-area/4c488cd0-f6ea-4037-9c48-8adb49ebe024/profile"},"dateModified":"2024-05-08T06:12:26.407Z","datePublished":"2024-05-08T06:12:26.407Z","headline":"Interaction design: what is it and why is it important?","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important","@type":"itemPage","url":"https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important"},"description":"Interaction designers focus on how users interact with elements and utilize effective communication principles to produce desired user experiences.","url":"https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_b19cba1eded949a786d4a76de03e3544~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_b19cba1eded949a786d4a76de03e3544~mv2.webp","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sebin George"/>
   <meta property="article:published_time" content="2024-05-08T06:12:26.407Z"/>
   <meta property="article:modified_time" content="2024-05-08T06:12:26.407Z"/>
@@ -207,7 +205,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'interaction-design-what-is-it-and-why-is-it-important';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

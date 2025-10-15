@@ -246,7 +246,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'innovative-ux-design-in-edtech-enhancing-learning-experiences-for-students';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

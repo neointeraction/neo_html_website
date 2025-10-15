@@ -135,7 +135,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'why-hiring-a-contract-front-end-developer-is-more-economical-than-hiring-a-permanent-employee';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

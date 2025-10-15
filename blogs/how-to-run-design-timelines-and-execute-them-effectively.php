@@ -202,7 +202,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-to-run-design-timelines-and-execute-them-effectively';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

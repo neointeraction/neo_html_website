@@ -181,7 +181,7 @@
                 </p>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'top-5-strategies-for-frontend-performance-optimization';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

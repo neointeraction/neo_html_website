@@ -211,7 +211,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'why-business-objectives-are-central-to-good-design';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

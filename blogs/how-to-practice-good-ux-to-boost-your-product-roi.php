@@ -18,8 +18,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Rakshanda Naik","url":"https://www.neointeraction.com/members-area/1923f337-922b-4d17-b355-9bf7c9e842bc/profile"},"dateModified":"2024-01-29T10:11:43.698Z","datePublished":"2024-01-25T07:24:09.205Z","headline":"How to practice good UX to boost your product ROI","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi","@type":"itemPage","url":"https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi"},"description":"Good UX design helps enhance the experience that people have while interacting with your product which in turn helps boost your business.","url":"https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_2afc87203a1b4092b6eb6a85c1ae8ccf~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_2afc87203a1b4092b6eb6a85c1ae8ccf~mv2.webp","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Rakshanda Naik"/>
   <meta property="article:published_time" content="2024-01-25T07:24:09.205Z"/>
   <meta property="article:modified_time" content="2024-01-29T10:11:43.698Z"/>
@@ -159,7 +157,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-to-practice-good-ux-to-boost-your-product-roi';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

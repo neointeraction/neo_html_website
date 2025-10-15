@@ -222,7 +222,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = '6-big-reasons-to-apply-illustrations-in-ui-ux-design';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

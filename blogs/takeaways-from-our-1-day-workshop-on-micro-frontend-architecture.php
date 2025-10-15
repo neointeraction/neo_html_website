@@ -186,7 +186,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'takeaways-from-our-1-day-workshop-on-micro-frontend-architecture';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

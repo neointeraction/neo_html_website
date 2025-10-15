@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sebin George","url":"https://www.neointeraction.com/members-area/4c488cd0-f6ea-4037-9c48-8adb49ebe024/profile"},"dateModified":"2024-01-30T07:16:23.436Z","datePublished":"2024-01-24T13:11:28.411Z","headline":"UI UX Design can be enhanced using micro interactions and this is how","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how","@type":"itemPage","url":"https://www.neointeraction.com/post/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"},"description":"Micro interactions are sole moments in product design that achieve a specific task, while boosting natural product flow.","url":"https://www.neointeraction.com/post/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_c112b0e4668d4522b99d4bc8e3d1fec6~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_c112b0e4668d4522b99d4bc8e3d1fec6~mv2.webp","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sebin George"/>
   <meta property="article:published_time" content="2024-01-24T13:11:28.411Z"/>
   <meta property="article:modified_time" content="2024-01-30T07:16:23.436Z"/>
@@ -158,7 +156,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

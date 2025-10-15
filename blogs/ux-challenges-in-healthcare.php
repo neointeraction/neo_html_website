@@ -144,7 +144,7 @@
                 <p class="blog-body-text">The Healthcare UX UI requires thoughtful planning and design. This is where <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a> expertise comes to play. We make sure to render our <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">ui ux design services</a> throughout the product design process.</p>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'ux-challenges-in-healthcare';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

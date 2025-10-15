@@ -20,39 +20,6 @@
     <meta property="og:url" content="https://www.neointeraction.com/post/how-mood-boards-will-enhance-your-design" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "author": {
-            "@type": "Person",
-            "name": "Ashutosh Shakya",
-            "url": "https://www.neointeraction.com/members-area/2aed3d1b-c779-4e30-9c98-085f044b0e70/profile"
-        },
-        "dateModified": "2024-03-21T06:33:21.990Z",
-        "datePublished": "2024-01-24T12:27:21.060Z",
-        "headline": "How mood boards will enhance your design?",
-        "mainEntityOfPage": {
-            "@id": "https://www.neointeraction.com/post/how-mood-boards-will-enhance-your-design",
-            "@type": "itemPage",
-            "url": "https://www.neointeraction.com/post/how-mood-boards-will-enhance-your-design"
-        },
-        "description": "Moodboard is a collection of visually represented ideas that improve a UI UX designer’s workflow and communication.",
-        "url": "https://www.neointeraction.com/post/how-mood-boards-will-enhance-your-design",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.wixstatic.com/media/c380a9_faab8d5de4434039948f13f727911408~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_faab8d5de4434039948f13f727911408~mv2.webp",
-            "width": "941",
-            "height": "727"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "url": "https://www.neointeraction.com"
-        }
-    }
-    </script>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Ashutosh Shakya" />
     <meta property="article:published_time" content="2024-01-24T12:27:21.060Z" />
     <meta property="article:modified_time" content="2024-03-21T06:33:21.990Z" />
@@ -287,7 +254,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-mood-boards-will-enhance-your-design';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

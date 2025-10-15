@@ -358,7 +358,7 @@
                 </p>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'the-comprehensive-guide-for-all-designers-terminologies-in-ui-ux-design-explained';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

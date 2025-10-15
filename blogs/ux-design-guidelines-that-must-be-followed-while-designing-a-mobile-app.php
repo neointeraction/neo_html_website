@@ -143,7 +143,7 @@
                 </p>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'ux-design-guidelines-that-must-be-followed-while-designing-a-mobile-app';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

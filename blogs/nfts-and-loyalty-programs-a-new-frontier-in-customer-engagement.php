@@ -95,7 +95,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'nfts-and-loyalty-programs-a-new-frontier-in-customer-engagement';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

@@ -22,39 +22,6 @@
         content="https://www.neointeraction.com/post/the-rise-of-twitter-blue-a-new-era-in-social-media" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "author": {
-            "@type": "Person",
-            "name": "Sahla  Feroc",
-            "url": "https://www.neointeraction.com/members-area/sahla/profile"
-        },
-        "dateModified": "2024-04-15T03:30:13.423Z",
-        "datePublished": "2024-04-15T03:30:13.423Z",
-        "headline": "The Rise Of Twitter Blue: A New Era In Social Media",
-        "mainEntityOfPage": {
-            "@id": "https://www.neointeraction.com/post/the-rise-of-twitter-blue-a-new-era-in-social-media",
-            "@type": "itemPage",
-            "url": "https://www.neointeraction.com/post/the-rise-of-twitter-blue-a-new-era-in-social-media"
-        },
-        "description": "Demystifying Twitter Blue: A Deep Dive into the Subscription Model, User Experience, and Future of Social Media monetization&#010;",
-        "url": "https://www.neointeraction.com/post/the-rise-of-twitter-blue-a-new-era-in-social-media",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.wixstatic.com/media/c16c07_eb4a2c47d4ff41d5a739a3ef74258587~mv2.webp/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_eb4a2c47d4ff41d5a739a3ef74258587~mv2.webp",
-            "width": "1881",
-            "height": "1453"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "url": "https://www.neointeraction.com"
-        }
-    }
-    </script>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Sahla  Feroc" />
     <meta property="article:published_time" content="2024-04-15T03:30:13.423Z" />
     <meta property="article:modified_time" content="2024-04-15T03:30:13.423Z" />
@@ -306,7 +273,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'the-rise-of-twitter-blue-a-new-era-in-social-media';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

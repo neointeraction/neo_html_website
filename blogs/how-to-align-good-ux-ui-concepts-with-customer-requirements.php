@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/how-to-align-good-ux-ui-concepts-with-customer-requirements"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Wenkit","url":"https://www.neointeraction.com/members-area/ab722346-2b03-49c8-bd32-f25e71fe2a27/profile"},"dateModified":"2024-03-21T09:04:49.228Z","datePublished":"2024-01-24T11:09:27.191Z","headline":"How to align good UX UI concepts with customer requirements?","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/how-to-align-good-ux-ui-concepts-with-customer-requirements","@type":"itemPage","url":"https://www.neointeraction.com/post/how-to-align-good-ux-ui-concepts-with-customer-requirements"},"description":"User Experience plays a vital role in the success of a product. It is a puzzle that must be solved by UX designers.","url":"https://www.neointeraction.com/post/how-to-align-good-ux-ui-concepts-with-customer-requirements","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_883e72f4481b4824898e68dcbd6e74ae~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_883e72f4481b4824898e68dcbd6e74ae~mv2.webp","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Wenkit"/>
   <meta property="article:published_time" content="2024-01-24T11:09:27.191Z"/>
   <meta property="article:modified_time" content="2024-03-21T09:04:49.228Z"/>
@@ -179,7 +177,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-to-align-good-ux-ui-concepts-with-customer-requirements';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

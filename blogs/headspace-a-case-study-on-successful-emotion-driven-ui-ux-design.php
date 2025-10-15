@@ -136,7 +136,7 @@ In summary, Headspace's success stems from its innovative emotion-driven design,
 </p>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'headspace-a-case-study-on-successful-emotion-driven-ui-ux-design';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

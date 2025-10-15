@@ -222,7 +222,7 @@ The principle of proximity states that we perceive objects which are close to on
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'what-is-proximity-principle-and-how-does-it-affect-visual-design';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

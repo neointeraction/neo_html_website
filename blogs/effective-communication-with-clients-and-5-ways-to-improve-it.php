@@ -90,7 +90,7 @@
                 <p class="blog-body-text">As <a href="https://www.neointeraction.com/ui-ux-design-services">Product Design service</a>, we want to understand our client's goals and plans for achieving them. We also want our clients to feel heard, to be included in the steps in the product design process, and to keep them up to date on every little change made. These are some of the most important factors in developing a long-term working relationship we follow as a creative consulting firm.</p>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'effective-communication-with-clients-and-5-ways-to-improve-it';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

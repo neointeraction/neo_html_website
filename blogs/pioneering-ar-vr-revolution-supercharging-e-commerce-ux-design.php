@@ -116,7 +116,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

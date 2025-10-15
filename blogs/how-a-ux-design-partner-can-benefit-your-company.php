@@ -142,7 +142,7 @@
                 </p>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-a-ux-design-partner-can-benefit-your-company';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

@@ -162,7 +162,7 @@
                 <?php $faq_tag = 'how-data-driven-ux-design-transforms-construction-industry'; include $path.'components/faq.php'; ?>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-data-driven-ux-design-transforms-construction-industry';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

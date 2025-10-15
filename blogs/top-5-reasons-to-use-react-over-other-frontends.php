@@ -244,7 +244,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'top-5-reasons-to-use-react-over-other-frontends';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

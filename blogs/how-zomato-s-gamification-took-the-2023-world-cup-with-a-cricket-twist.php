@@ -97,7 +97,7 @@
                 <p class="blog-body-text">Retaining users is one of the greatest challenges faced by businesses but Zomato's gamification efforts during the Cricket World Cup 2023 showcased the potential of merging sports, technology, and food delivery. As businesses increasingly realize the crucial role of user experience in driving success, collaborating with UX design agencies like <a href="https://www.neointeraction.com/" target="_blank"> Neointeraction Design</a> become indispensable in shaping the future of customer engagement and loyalty in online commerce. Neointeraction Design brings a creative touch to digital platforms, seamlessly integrating top-notch <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'how-zomato-s-gamification-took-the-2023-world-cup-with-a-cricket-twist';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

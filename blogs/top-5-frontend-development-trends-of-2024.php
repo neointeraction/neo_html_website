@@ -21,8 +21,6 @@ Staying up to date with technology in today’s world can make or break your bus
   <meta property="og:url" content="https://www.neointeraction.com/post/top-5-frontend-development-trends-of-2024"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Aditya Sharma","url":"https://www.neointeraction.com/members-area/8799f1c4-3714-4a5a-b61c-2df502413940/profile"},"dateModified":"2024-07-16T02:38:15.526Z","datePublished":"2024-07-12T06:20:41.171Z","headline":"Top 5 frontend development trends of 2024","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/top-5-frontend-development-trends-of-2024","@type":"itemPage","url":"https://www.neointeraction.com/post/top-5-frontend-development-trends-of-2024"},"description":"Discover the top 5 frontend development trends of 2024! Stay ahead with the latest in design, frameworks, AI integration, performance, and user experience.","url":"https://www.neointeraction.com/post/top-5-frontend-development-trends-of-2024","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c16c07_4345c0c77bda46a48d93fa7dd5641de5~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_4345c0c77bda46a48d93fa7dd5641de5~mv2.jpg","width":"1881","height":"1453"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Aditya Sharma"/>
   <meta property="article:published_time" content="2024-07-12T06:20:41.171Z"/>
   <meta property="article:modified_time" content="2024-07-16T02:38:15.526Z"/>
@@ -285,7 +283,7 @@ Staying up to date with technology in today’s world can make or break your bus
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'top-5-frontend-development-trends-of-2024';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

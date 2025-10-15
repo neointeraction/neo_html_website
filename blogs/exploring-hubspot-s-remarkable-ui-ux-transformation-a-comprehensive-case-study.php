@@ -137,7 +137,7 @@
                 </p>
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study';
                     include $path . 'components/navigation-footer.php';
                 ?>
             </div>

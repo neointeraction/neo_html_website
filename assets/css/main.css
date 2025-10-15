@@ -1710,16 +1710,18 @@ testimonial-card-detailed {
 }
 
 .navigation-footer {
-  background-color: white;
+  padding: 35px 0;
+  overflow: hidden;
 }
 
 
 .navigation-footer > div:last-child {
   text-align: right;
+  overflow: hidden;
 }
 
 .navigation-footer > div > h4 {
-  width: 400px;
+  width: 340px;
   white-space: nowrap;       /* keep text on one line */
   overflow: hidden;          /* cut off extra text */
   text-overflow: ellipsis; 

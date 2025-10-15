@@ -197,7 +197,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'effective-ux-audit-and-website-redesign-to-boost-ux-for-lic';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

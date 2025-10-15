@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sebin George","url":"https://www.neointeraction.com/members-area/4c488cd0-f6ea-4037-9c48-8adb49ebe024/profile"},"dateModified":"2024-07-15T04:29:02.796Z","datePublished":"2024-01-25T06:24:42.985Z","headline":"User Interface (UI) design patterns: What are they and how are they categorized?","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized","@type":"itemPage","url":"https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"},"description":"Discover UI design patterns: their types and categorization. Explore how these patterns enhance user interface efficiency and usability","url":"https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_88c957a8f41f4708a4e50c66c9ada927~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_88c957a8f41f4708a4e50c66c9ada927~mv2.webp","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sebin George"/>
   <meta property="article:published_time" content="2024-01-25T06:24:42.985Z"/>
   <meta property="article:modified_time" content="2024-07-15T04:29:02.796Z"/>
@@ -184,7 +182,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized';
                     include $path . 'components/navigation-footer.php';
                 ?>
 

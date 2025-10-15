@@ -239,7 +239,7 @@
 
                 <?php 
                     $from = "blog";
-                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    $currentSlug = 'why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue';
                     include $path . 'components/navigation-footer.php';
                 ?>
 
