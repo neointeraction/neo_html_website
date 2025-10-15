@@ -468,7 +468,14 @@ include_once 'includes/tracking-functions.php';
     </section>
 
 
-    <?php include $path.'components/hire-designers-engineers.php'; ?>
+    <?php 
+        $title = 'Start Your Consultation'; 
+        $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.';
+        $buttonName = 'Get a Free consultation';
+        $imageLink = "assets/images/about-us-hire.jpg";
+        $imageAlt = "Get a Free consultation";
+        include $path . 'components/hire-designers-engineers.php'; 
+    ?>
     <!-- testimonials  -->
     <?php $faq_tag = 'ui-development'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->

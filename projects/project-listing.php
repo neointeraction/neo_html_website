@@ -73,7 +73,7 @@
     $projectCount++;
     if ($projectCount % 4 === 0) { // Insert after every 4 projects
       // include $path . 'components/submit-enquiry.php';
-        $title = "Start Your Consultation";
+        $title = "Submit Enquiry";
         $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
         $buttonName = "Request a Quote";
   ?>
@@ -85,7 +85,7 @@
         <!-- Image Column -->
         <div class="col-md-6  img-container d-none d-md-block">
 
-          <img src="<?php echo $path; ?>assets/images/bs-img.webp" alt="Hire Designers/Front-end Engineers" class="img-fluid">
+          <img src="<?php echo $path; ?>assets/images/submit-projects.jpg" alt="Hire Designers/Front-end Engineers" class="img-fluid">
           
         </div>
 

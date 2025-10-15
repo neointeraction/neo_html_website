@@ -394,11 +394,13 @@ include_once 'includes/tracking-functions.php';
 
 
     <?php 
-        $title = "Start Your Consultation";
-        $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. ";
-        $buttonName = "Get a Free consultation";
-        include $path.'components/enquiry-modal.php';
-     ?>
+        $title = 'Start Your Consultation'; 
+        $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.';
+        $buttonName = 'Get a Free consultation';
+        $imageLink = "assets/images/homepage-contact-us.jpg";
+        $imageAlt = "Get a Free consultation";
+        include $path . 'components/hire-designers-engineers.php'; 
+    ?>
     <!-- testimonials  -->
     <?php $faq_tag = 'ux-audit'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->

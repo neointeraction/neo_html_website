@@ -138,7 +138,14 @@
 
 
 
-
+    <?php 
+        $title = 'Submit Enquiry'; 
+        $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.';
+        $buttonName = 'Request a Quote';
+        $imageLink = "assets/images/homepage-contact-us.jpg";
+        $imageAlt = "Request a Quote";
+        include $path . 'components/hire-designers-engineers.php'; 
+    ?>
 
     <section class="engagement-modal section-padding">
         <div class="container">
