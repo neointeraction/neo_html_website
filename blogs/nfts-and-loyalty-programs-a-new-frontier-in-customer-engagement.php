@@ -93,11 +93,11 @@
                 <h4 class="blog-body-title">Conclusion</h4>
                 <p class="blog-body-text">As businesses embrace NFT-based loyalty programs, they embark on a transformative journey that extends beyond transactions. Unique digital assets, gamification, and blockchain technology redefine customer loyalty. Yet, the success of these programs hinges on the marriage of innovation and user experience through thoughtful <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore" target="_blank">UI UX design services</a>. In this digital era, companies like Gucci, Steam, and Coinbase illuminate the path forward, demonstrating how NFTs, coupled with strategic <a href="https://www.neointeraction.com/blogs/what-is-design-thinking-and-how-to-implement-it-in-uiux-design" target="_blank">design thinking</a>, can truly captivate and enhance the loyalty-building journey for customers. Partnering with a leading UI UX design agency like <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a> can further amplify the impact of these innovative loyalty programs, ensuring they resonate deeply with customers and drive lasting brand loyalty.</p>
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

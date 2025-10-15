@@ -143,11 +143,11 @@
 
                 <h4 class="blog-body-title">Conclusion</h4>
                 <p class="blog-body-text">A pivotal role in strategic business growth lies in UX Design. By focusing on user experience, usability, and collaboration with stakeholders, UI UX Designers bring not only customer satisfaction but increase conversions, and ultimately creates brand loyalty among users. In a competitive market, businesses that prioritize UX design can unlock sustainable growth and long-term success. Partnering with an <a href="https://www.neointeraction.com/ux-design-services">UX Design company in India</a> like Neointeraction Design can give your business the edge to be ahead in this competitive market. .</p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'how-to-make-strategic-business-growth-through-ux-design';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

@@ -129,11 +129,11 @@
                 <p class="blog-body-text">
                 To summarize, contactless payment is the ideal solution for both businesses and customers. It provides a secure, fast, and convenient payment experience, and it is largely dependent on user experience (UX) design. By engaging the design companies with the best UX, businesses can ensure that their contactless payment experience is secure, simple, and quick - leading to increased customer satisfaction and profitability. So why wait? <a target="_blank" href="https://www.neointeraction.com/contact-us" rel="noopener">Get started now</a> and take advantage of the potential benefits of UX design for contactless payments!
                 </p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

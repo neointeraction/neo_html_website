@@ -151,11 +151,11 @@
                 </p>
 
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'how-to-make-guaranteed-success-with-design-as-a-service';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

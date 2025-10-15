@@ -97,11 +97,11 @@
 
                 <p class="blog-body-text">In a world driven by data and rapid change, adopting a composable mindset positions businesses for success while creating more engaging and fulfilling user interactions. As the digital environment continues to evolve, collaborating with a <a href="https://www.neointeraction.com/">UI UX design agency in India</a>, like Neointeraction Design can help prioritize user experience within composable strategies to build lasting customer relationships. </p>
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

@@ -87,11 +87,11 @@
     <h4 class="blog-body-title">Conclusion</h4>
     <p class="blog-body-text">Accessible design is more than just following rules; it's about making digital spaces welcoming for everyone. Businesses that prioritize accessible design are not only keeping up with evolving technology standards, but also building a digital world that is equitable, inclusive, and prepared for the future.</p>
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

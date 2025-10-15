@@ -18,8 +18,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/empower-saas-with-ai-a-better-powerful-user-experience"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sahla  Feroc","url":"https://www.neointeraction.com/members-area/sahla/profile"},"dateModified":"2024-11-14T18:30:00.000Z","datePublished":"2024-11-14T18:30:00.000Z","headline":"Empower SaaS With AI: A Better &amp; Powerful User Experience","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/empower-saas-with-ai-a-better-powerful-user-experience","@type":"itemPage","url":"https://www.neointeraction.com/post/empower-saas-with-ai-a-better-powerful-user-experience"},"description":"Learn how AI integration is transforming SaaS platforms. Learn practical strategies to implement AI in SaaS. &#010;","url":"https://www.neointeraction.com/post/empower-saas-with-ai-a-better-powerful-user-experience","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c16c07_917daf5e9b5d48aaae51f748433a82af~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_917daf5e9b5d48aaae51f748433a82af~mv2.jpg","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sahla  Feroc"/>
   <meta property="article:published_time" content="2024-11-14T18:30:00.000Z"/>
   <meta property="article:modified_time" content="2024-11-14T18:30:00.000Z"/>
@@ -177,11 +175,11 @@
                 </p>
 
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'empower-saas-with-ai-a-better-powerful-user-experience';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

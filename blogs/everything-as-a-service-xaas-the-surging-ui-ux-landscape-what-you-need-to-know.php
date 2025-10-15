@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sahla  Feroc","url":"https://www.neointeraction.com/members-area/sahla/profile"},"dateModified":"2024-12-03T11:33:19.533Z","datePublished":"2024-11-21T18:30:00.000Z","headline":"Everything As A Service (XaaS) &amp; The Surging UI UX Landscape: What You Need To Know","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know","@type":"itemPage","url":"https://www.neointeraction.com/post/everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know"},"description":"Learn how Everything As A Service (XaaS) is an emerging trend in Digital Transformation services in India.","url":"https://www.neointeraction.com/post/everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c380a9_24ceffff8a49431db54b20a4c63a0e97~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c380a9_24ceffff8a49431db54b20a4c63a0e97~mv2.jpg","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sahla  Feroc"/>
   <meta property="article:published_time" content="2024-11-21T18:30:00.000Z"/>
   <meta property="article:modified_time" content="2024-12-03T11:33:19.533Z"/>
@@ -226,11 +224,11 @@
 
               
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

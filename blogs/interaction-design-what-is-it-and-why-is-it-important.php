@@ -205,11 +205,11 @@
                     As a product designing company well versed in user interface and interaction, Neointeraction design offers customers the finest user experience. Work with the Neointeraction Design team's <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">UI designers and UX developers</a> to aid in the development of a more seamless product experience.
                 </p>
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

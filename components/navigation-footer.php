@@ -1,5 +1,12 @@
   <!-- banner-strip  -->
-  <?php $path= $GLOBALS['path'];
+  <?php 
+  
+    $path= $GLOBALS['path'];
+
+    if(empty($from)){
+        $from = "projects";
+        $viewMoreLink = $path . 'projects.php';
+    }
     
     if(empty($previous)) {
       $previous = "";
@@ -10,6 +17,43 @@
       $next = "";
       $nextLink = "";
     }
+
+    if($from == "blog") {
+        $viewMoreLink = $path . 'blogs.php';
+        $blogData = file_get_contents(__DIR__ . '/../data/blog_data.json');
+        $blogsJson = json_decode($blogData, true);
+        $blogs =  $blogsJson['blog_metadata'];   
+        $count = count($blogs);
+        // Get all the slugs (keys)
+        $slugs = array_keys($blogs);
+
+        // Find the position of the current slug in the array
+        $currentIndex = array_search($currentSlug, $slugs);
+
+        $prevIndex = $currentIndex - 1;
+        $nextIndex = $currentIndex + 1;
+
+        if($nextIndex >= $count) {
+            $nextIndex = 0;
+        }
+
+        if($prevIndex < 0) {
+            $prevIndex = $count;
+        }
+
+        // Get previous and next slugs safely
+        $previousSlug = $slugs[$prevIndex] ?? null;
+        $nextSlug = $slugs[$nextIndex] ?? null;
+
+        $previous = $previousSlug ? $blogs[$previousSlug]['title'] : null;
+        $next = $nextSlug ? $blogs[$nextSlug]['title'] : null;
+        $previousLink = $path . 'blogs/' .$previousSlug;
+        $nextLink = $path . 'blogs/' .$nextSlug;
+
+    }else {
+        $previousLink = $path . 'projects' .$previousLink;
+        $nextLink = $path . 'projects' .$nextLink;
+    }
   
     ?>
   <section class="banner-strip section-padding ">
@@ -18,7 +62,7 @@
               <!-- Image Column -->
               <div class="col-md-4 d-none d-md-block">
                   <h4 title="<?php echo $previous; ?>"><?php echo $previous; ?></h4>
-                  <a href="<?php echo  $path . 'projects' .$previousLink; ?>">
+                  <a href="<?php echo  $previousLink; ?>">
                       <button class="btn btn-custom btn-custom bs-button">
                       <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="mb-1">
                               <path class="svg-arrow" fill-rule="evenodd" clip-rule="evenodd"
@@ -29,7 +73,7 @@
                   </a>
               </div>
               <div class="col-md-4 d-none d-md-flex justify-content-center align-items-end">
-                <a href="<?php echo $path . 'projects.php' ?>">
+                <a href="<?php echo $viewMoreLink ?>">
                     <img src="<?php echo  $path; ?>assets/images/view-more.svg" alt="">
                 </a>
               </div>
@@ -37,7 +81,7 @@
               
 
               <div class="d-flex slick-navigation justify-content-between d-md-none">
-                  <a href="<?php echo $path . 'projects' . $previousLink; ?>">
+                  <a href="<?php echo $previousLink; ?>">
                       <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom">
                           <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg" >
                               <path class="svg" fill-rule="evenodd" clip-rule="evenodd"
@@ -46,10 +90,10 @@
                           </svg>
                       </button>
                   </a>
-                  <a href="<?php echo $path . 'projects.php' ?>">
+                  <a href="<?php echo $viewMoreLink; ?>">
                     <img src="<?php echo  $path; ?>assets/images/view-more.svg" alt="">
                 </a>
-                  <a href="<?php echo  $path . 'projects' .$nextLink; ?>">
+                  <a href="<?php echo  $nextLink; ?>">
                       <button class="btn btn-custom btn-custom-secondary slick-btn slick-next-custom">
                           <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                               <path class="svg" fill-rule="evenodd" clip-rule="evenodd"
@@ -64,7 +108,7 @@
 
               <div class="col-md-4 d-none d-md-block">
                   <h4 title="<?php echo $next; ?>"><?php echo $next; ?></h4>
-                  <a href="<?php echo  $path . 'projects' .$nextLink; ?>">
+                  <a href="<?php echo  $nextLink; ?>">
                       <button class="btn btn-custom btn-custom bs-button">
                           Read More &nbsp;&nbsp;
                           <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="mb-1">

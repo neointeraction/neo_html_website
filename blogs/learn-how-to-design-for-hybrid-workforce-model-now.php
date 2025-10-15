@@ -92,11 +92,12 @@
     <p class="blog-body-text">To address these challenges, organizations should emphasize transparent communication, gather continuous feedback from employees for improvement and offer equal opportunities for professional growth. Providing hybrid-specific training can also help employees and managers with the skills needed to navigate this new work model successfully. UI UX designers help in creating user centered designs to bring in usability and functionality.</p>
     <h2 class="blog-body-title">Conclusion</h2>
     <p class="blog-body-text">The hybrid workforce model blends flexibility with productivity. By partnering with a <a href="https://www.neointeraction.com/" target="_blank">UI UX design agency in India</a> like Neointeraction Design, companies can design both physical and digital workspaces that meet the needs of all employees leading to a collaborative, and productive environment. A well-thought-out hybrid design boosts employee satisfaction and positions organizations for long-term success as the workforce continues to develop.</p>
-    <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-        <button class="btn btn-custom btn-custom-secondary">
-            View All Blogs
-        </button>
-    </a>
+        <?php 
+                    $from = "blog";
+                    $currentSlug = 'learn-how-to-design-for-hybrid-workforce-model-now';
+                    include $path . 'components/navigation-footer.php';
+                ?>
+
 </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

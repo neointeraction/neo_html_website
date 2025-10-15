@@ -141,11 +141,11 @@
                     Do you require assistance in developing the ideal app? Recruit <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore"
                         target="_blank">UI designers & UX developers</a> from Neointeraction team to design the ultimate mobile application that your customers would adore.
                 </p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

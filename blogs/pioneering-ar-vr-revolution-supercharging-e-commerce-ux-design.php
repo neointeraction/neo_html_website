@@ -114,11 +114,11 @@
 
                 <p class="blog-body-text">In conclusion, integration of Augmented Reality (AR) and Virtual Reality (VR) with e-commerce is revolutionizing online shopping. By harnessing these technologies and embracing innovative UI UX design, businesses can create immersive experiences that boost conversion rates and customer satisfaction. As technology advances, the future of e-commerce shines bright, offering endless opportunities for both businesses and consumers. Collaborating with UX design agencies like <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a> becomes essential in shaping the future of online commerce. Neointeraction Design incorporates creativity into digital platforms, seamlessly integrating top-notch <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore" target="_blank">UI UX design services</a> to enhance product marketing and drive business growth.</p>
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

@@ -135,11 +135,11 @@
                 <p class="blog-body-text">
                 HubSpot's <a href="<?php echo $path; ?>blogs/what-is-digital-transformation-and-why-is-ux-design-important-in-it" target="_blank">UI UX transformation</a> illustrates the positive outcomes of prioritizing user experience through clear goals, iterative improvements, and data-driven insights, resulting in improved engagement, conversions, and overall business success. This case study underscores the value of a strategic and user-centric approach in UI UX design. In the dynamic field of digital product design, UI UX designers play a vital role in driving business success. <a href="<?php echo $path; ?>" target="_blank">Neointeraction Design</a>, with nearly 15 years of experience, is a leading UI UX design company in Bangalore, partnering with various B2B enterprises, B2C companies, and startups. Their focus on UI UX fundamentals consistently guides businesses toward success by enhancing applications, engaging users, and ensuring lasting satisfaction and loyalty.
                 </p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

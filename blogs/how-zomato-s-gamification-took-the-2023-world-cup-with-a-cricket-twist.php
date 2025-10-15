@@ -95,11 +95,11 @@
                 <h4 class="blog-body-title">Conclusion</h4>" target="_blank">UI UX design services</a> that will help market your product better, thereby contributing significantly to business growth.</p>
 
                 <p class="blog-body-text">Retaining users is one of the greatest challenges faced by businesses but Zomato's gamification efforts during the Cricket World Cup 2023 showcased the potential of merging sports, technology, and food delivery. As businesses increasingly realize the crucial role of user experience in driving success, collaborating with UX design agencies like <a href="https://www.neointeraction.com/" target="_blank"> Neointeraction Design</a> become indispensable in shaping the future of customer engagement and loyalty in online commerce. Neointeraction Design brings a creative touch to digital platforms, seamlessly integrating top-notch <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

@@ -134,11 +134,11 @@ Headspace's emotionally impactful design builds trust and recognition, positioni
 <p class="blog-body-text">
 In summary, Headspace's success stems from its innovative emotion-driven design, prioritizing user needs and emotions. This approach has propelled it to leadership in the mindfulness space.  If you have a project demanding an in-depth understanding of user needs and emotions, we recommend a <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore" target="_blank" rel="noopener">UI UX design service</a> consultation with our experts at <a href="https://www.neointeraction.com/" target="_blank" rel="noopener">Neointeraction Design</a>. With over 15 years of experience, Neointeraction Design can help you create immersive and resonant digital experiences that align with your project goals seamlessly and elevate your brand within the vast landscape of user interaction.
 </p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

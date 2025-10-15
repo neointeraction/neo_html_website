@@ -18,8 +18,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sakshi Patil","url":"https://www.neointeraction.com/members-area/5a142016-294b-4b40-954a-52eaf837b555/profile"},"dateModified":"2024-10-23T07:51:32.497Z","datePublished":"2024-10-23T07:51:32.497Z","headline":"Designing For Metaverse: Introducing The Mind-blowing Future Of UX","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux","@type":"itemPage","url":"https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"},"description":"Discover the power of Metaverse design. Unlock the trends that will shape the digital sphere. &#010;","url":"https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c16c07_aa66dbcb46314a859cc678daf679ea75~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_aa66dbcb46314a859cc678daf679ea75~mv2.jpg","width":"3917","height":"3025"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sakshi Patil"/>
   <meta property="article:published_time" content="2024-10-23T07:51:32.497Z"/>
   <meta property="article:modified_time" content="2024-10-23T07:51:32.497Z"/>
@@ -143,11 +141,11 @@
                 </p>
 
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'designing-for-metaverse-introducing-the-mind-blowing-future-of-ux';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

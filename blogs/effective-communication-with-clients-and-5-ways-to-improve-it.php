@@ -88,11 +88,11 @@
                 <img src="<?php echo $path; ?>assets/images/blog/effective-communication/image3.jpg" alt="blog1" />
                 </div>
                 <p class="blog-body-text">As <a href="https://www.neointeraction.com/ui-ux-design-services">Product Design service</a>, we want to understand our client's goals and plans for achieving them. We also want our clients to feel heard, to be included in the steps in the product design process, and to keep them up to date on every little change made. These are some of the most important factors in developing a long-term working relationship we follow as a creative consulting firm.</p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

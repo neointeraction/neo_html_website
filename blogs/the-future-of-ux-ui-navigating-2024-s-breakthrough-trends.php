@@ -119,11 +119,11 @@
 
                 <h4 class="blog-body-title">Conclusion</h4>
                 <p class="blog-body-text">In summary, UX UI trends in 2024 are changing how users interact with businesses. By embracing these new technologies and design principles, companies are creating engaging experiences that drive loyalty and revenue in their favor. Staying updated on these trends is crucial for success in any industry. Partnering with design agencies like Neointeraction Design for <a href="https://www.neointeraction.com/ui-ux-design-services">UX design services</a> can help businesses navigate this landscape effectively.</p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'the-future-of-ux-ui-navigating-2024-s-breakthrough-trends';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

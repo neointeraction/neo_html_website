@@ -135,11 +135,11 @@
                 <p class="blog-body-text">
                 For small to medium-sized projects, Wix EditorX is an excellent platform, offering pixel-perfect design control without needing to code. For businesses looking to enhance their websites, collaborating with expert <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">UI UX design services</a> like ours can make a significant impact. <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">UI UX design services in India</a>, such as Neointeraction Design, can help elevate your site by optimizing user engagement and satisfaction. Our agency specializes in helping businesses build great.
                 </p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'unlock-wix-editorx-eye-opening-insights-on-its-strengths-and-drawbacks';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

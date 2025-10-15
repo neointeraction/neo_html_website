@@ -17,8 +17,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Vanessa Lobo","url":"https://www.neointeraction.com/members-area/757305f2-02f5-4551-a3c2-5e9e4902a1bd/profile"},"dateModified":"2024-11-18T16:49:45.216Z","datePublished":"2024-11-06T15:01:47.161Z","headline":"How Gmail's UX Design makes email management better","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better","@type":"itemPage","url":"https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better"},"description":"Discover how google email management helps make gmail’s email management more  intuitive by simplifying the interface through its UX Design.","url":"https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c16c07_73b6fb3825464cf699ff32f7c04cb85e~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_73b6fb3825464cf699ff32f7c04cb85e~mv2.jpg","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Vanessa Lobo"/>
   <meta property="article:published_time" content="2024-11-06T15:01:47.161Z"/>
   <meta property="article:modified_time" content="2024-11-18T16:49:45.216Z"/>
@@ -137,11 +135,11 @@
 
               
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'how-gmail-s-ux-design-makes-email-management-better';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

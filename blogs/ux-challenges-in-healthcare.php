@@ -142,11 +142,11 @@
                     <li>Healthcare systems largely depend on legacy applications that are trusted and dependable, hence a new system will take time to earn the trust of users. This leads to slower replacement of old by new technologies.</li>
                 </ul>
                 <p class="blog-body-text">The Healthcare UX UI requires thoughtful planning and design. This is where <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a> expertise comes to play. We make sure to render our <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">ui ux design services</a> throughout the product design process.</p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

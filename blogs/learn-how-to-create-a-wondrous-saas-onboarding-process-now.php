@@ -18,8 +18,6 @@
   <meta property="og:url" content="https://www.neointeraction.com/post/learn-how-to-create-a-wondrous-saas-onboarding-process-now"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sahla  Feroc","url":"https://www.neointeraction.com/members-area/sahla/profile"},"dateModified":"2024-11-19T18:30:00.000Z","datePublished":"2024-11-19T18:30:00.000Z","headline":"Learn How To Create A Wondrous SaaS Onboarding Process Now","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/learn-how-to-create-a-wondrous-saas-onboarding-process-now","@type":"itemPage","url":"https://www.neointeraction.com/post/learn-how-to-create-a-wondrous-saas-onboarding-process-now"},"description":"Learn to create a seamless Onboarding process for SaaS which boosts user experience. Discover how to leverage UI UX Design for SaaS Onboarding. &#010;","url":"https://www.neointeraction.com/post/learn-how-to-create-a-wondrous-saas-onboarding-process-now","image":{"@type":"ImageObject","url":"https://static.wixstatic.com/media/c16c07_f232c747b1e5440687a13fa27c0f28cd~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_f232c747b1e5440687a13fa27c0f28cd~mv2.jpg","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sahla  Feroc"/>
   <meta property="article:published_time" content="2024-11-19T18:30:00.000Z"/>
   <meta property="article:modified_time" content="2024-11-19T18:30:00.000Z"/>
@@ -197,11 +195,11 @@ With the increase in competition of the SaaS (Software-as-a-Service) industry, a
                 </p>
 
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'learn-how-to-create-a-wondrous-saas-onboarding-process-now';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

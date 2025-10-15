@@ -179,11 +179,11 @@
                 <p class="blog-body-text">
                 By integrating these optimization strategies, businesses can create fast, efficient, and user-friendly websites that enhance user satisfaction, improve SEO rankings, and reduce operational costs. If you're looking to optimize your website with the latest frontend technologies, Neointeraction Design offers <a href="https://www.neointeraction.com/front-end-development-services" target="_blank">frontend development services in India</a>, helping you optimize your website so you can focus on your business while we manage your online presence.
                 </p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization';
+                    include $path . 'components/navigation-footer.php';
+                ?>
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
         </div>

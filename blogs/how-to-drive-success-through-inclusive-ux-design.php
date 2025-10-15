@@ -21,39 +21,6 @@
         content="https://www.neointeraction.com/post/how-to-drive-success-through-inclusive-ux-design" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "author": {
-            "@type": "Person",
-            "name": "Sakshi Patil",
-            "url": "https://www.neointeraction.com/members-area/5a142016-294b-4b40-954a-52eaf837b555/profile"
-        },
-        "dateModified": "2024-08-21T14:11:24.979Z",
-        "datePublished": "2024-08-21T14:07:33.111Z",
-        "headline": "How to drive success through Inclusive UX design?",
-        "mainEntityOfPage": {
-            "@id": "https://www.neointeraction.com/post/how-to-drive-success-through-inclusive-ux-design",
-            "@type": "itemPage",
-            "url": "https://www.neointeraction.com/post/how-to-drive-success-through-inclusive-ux-design"
-        },
-        "description": "Explore inclusive UX design for broader market reach, increased user engagement, and diverse innovation.&#010;",
-        "url": "https://www.neointeraction.com/post/how-to-drive-success-through-inclusive-ux-design",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.wixstatic.com/media/c16c07_f9c5c4103433483abd06a9c660184f37~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_f9c5c4103433483abd06a9c660184f37~mv2.jpg",
-            "width": "1881",
-            "height": "1453"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "url": "https://www.neointeraction.com"
-        }
-    }
-    </script>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Sakshi Patil" />
     <meta property="article:published_time" content="2024-08-21T14:07:33.111Z" />
     <meta property="article:modified_time" content="2024-08-21T14:11:24.979Z" />
@@ -250,11 +217,11 @@
                 </p>
 
 
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'how-to-drive-success-through-inclusive-ux-design';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>

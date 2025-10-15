@@ -148,11 +148,11 @@
 
                 <h4 class="blog-body-title">Conclusion</h4>
                 <p class="blog-body-text">VUI audits are vital for startups to enhance user engagement and satisfaction through voice technology. By partnering with a <a href="https://www.neointeraction.com/">UI UX design agency in India</a> like Neointeraction Design, you can conduct regular audits and ensure that the voice interface remains intuitive, accessible, and competitive. As voice technology continues to evolve, embracing VUI audits has become essential in the UI UX design landscape to stay ahead in the market.</p>
-                <a href="<?php echo $path; ?>blogs.php" class="view-all-blogs-btn" style="text-decoration: none;">
-                    <button class="btn btn-custom btn-custom-secondary">
-                        View All Blogs
-                    </button>
-                </a>
+                <?php 
+                    $from = "blog";
+                    $currentSlug = 'voice-user-interface-design-audits-how-to-make-user-engagement';
+                    include $path . 'components/navigation-footer.php';
+                ?>
 
             </div>
             <?php include $path.'components/submit-enquiry.php'; ?>
