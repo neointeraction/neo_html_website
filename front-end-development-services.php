@@ -74,7 +74,7 @@ include_once 'includes/tracking-functions.php';
                             Transform Your <br> Product with Expert<br/> <span class="highlight">Front End <br/> Development Services in India</span>
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <p class="banner-subtext">Bring your digital product to life with fast, engaging, and user-friendly web experiences. Our frontend expertise ensures high-performing interfaces that captivate your users. Turn your ideas into interactive, results-driven digital solutions</p>
 
                             </div>
@@ -129,6 +129,11 @@ include_once 'includes/tracking-functions.php';
 
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-flex d-md-none">
+                        <p class="banner-subtext">Bring your digital product to life with fast, engaging, and user-friendly web experiences. Our frontend expertise ensures high-performing interfaces that captivate your users. Turn your ideas into interactive, results-driven digital solutions</p>
+
                     </div>
                 </div>
             </div>

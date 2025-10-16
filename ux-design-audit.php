@@ -67,7 +67,7 @@ include_once 'includes/tracking-functions.php';
                                 Unlock Full Potential <br>with  <span class="highlight">UX Audit
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <p class="banner-subtext">Unlock your web and mobile apps’ potential with expert UX
                                     design audits. Identify issues, optimize experiences, and drive growth with
                                     data-driven insights.</p>
@@ -123,6 +123,13 @@ include_once 'includes/tracking-functions.php';
 
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-flex d-md-none">
+                        <p class="banner-subtext">Unlock your web and mobile apps’ potential with expert UX
+                            design audits. Identify issues, optimize experiences, and drive growth with
+                            data-driven insights.</p>
+
                     </div>
                 </div>
             </div>

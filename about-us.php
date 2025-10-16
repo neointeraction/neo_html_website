@@ -121,7 +121,7 @@
                                 <div class="project-card d-lg-flex">
                                     <!-- Image container with fixed height and object-fit for consistent appearance -->
                                     <div class="col-lg-6 p-0 project-image-container">
-                                        <img src="<?php echo $path; ?>assets/images/projects/<?php echo $project['image']; ?>" alt="<?php echo $project['alt']; ?>" class="img-fluid project-image"
+                                        <img src="<?php echo $path; ?>assets/images/projects/<?php echo $project['image']; ?>" alt="<?php echo $project['alt']; ?>" class="img-fluid project-image d-none d-md-block"
                                             width="584px" height="280px" />
                                             <img
                                             src="<?php echo $path; ?>assets/images/projects/<?php echo $project['mobileImage']; ?>"

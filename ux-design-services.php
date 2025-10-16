@@ -76,7 +76,7 @@ include_once 'includes/tracking-functions.php';
                             Transform <br> <span class="highlight">Web & Mob App Designs</span>
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <p class="banner-subtext">Craft seamless experiences that delight your users. From research to design, we create intuitive interfaces that drive engagement. Let’s turn your ideas into impactful digital products.</p>
 
                             </div>
@@ -131,6 +131,11 @@ include_once 'includes/tracking-functions.php';
 
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-flex d-md-none">
+                        <p class="banner-subtext">Craft seamless experiences that delight your users. From research to design, we create intuitive interfaces that drive engagement. Let’s turn your ideas into impactful digital products.</p>
+
                     </div>
                 </div>
             </div>

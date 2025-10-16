@@ -67,7 +67,7 @@ include_once 'includes/tracking-functions.php';
                                 Ideas to Impact: <br/><span class="highlight"> UAE's Leading UI/UX Design Agency</span>
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <p class="banner-subtext">NeoInteraction Design delivers user-centric UI/UX solutions in the UAE, creating engaging digital experiences for websites and apps that drive results and growth.</p>
 
                             </div>
@@ -122,6 +122,11 @@ include_once 'includes/tracking-functions.php';
 
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-flex d-md-none">
+                        <p class="banner-subtext">NeoInteraction Design delivers user-centric UI/UX solutions in the UAE, creating engaging digital experiences for websites and apps that drive results and growth.</p>
+
                     </div>
                 </div>
             </div>

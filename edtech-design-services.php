@@ -67,7 +67,7 @@ include_once 'includes/tracking-functions.php';
                             User-centric<br> Edtech Design <span class="highlight">Services in India</span>
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <p class="banner-subtext">We craft user-centric Edtech design solutions that make learning engaging and intuitive. From UX/UI design to product strategy, we help educational platforms deliver impactful digital experiences</p>
 
                             </div>
@@ -122,6 +122,11 @@ include_once 'includes/tracking-functions.php';
 
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-flex d-md-none">
+                        <p class="banner-subtext">We craft user-centric Edtech design solutions that make learning engaging and intuitive. From UX/UI design to product strategy, we help educational platforms deliver impactful digital experiences</p>
+
                     </div>
                 </div>
             </div>

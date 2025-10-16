@@ -44,7 +44,7 @@ include_once 'includes/tracking-functions.php';
                                 Share Your <span class="highlight">Enquiry</span>
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <div class="ci-item">
                                      <p>Submit your inquiry — our team will get in touch with you shortly.</p> 
                                   </div>
@@ -134,6 +134,26 @@ include_once 'includes/tracking-functions.php';
                                 </div>
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-block d-md-none">
+                        <div class="ci-item">
+                                <p>Submit your inquiry — our team will get in touch with you shortly.</p> 
+                            </div>
+                        <div class="ci-item">
+                            <h4>Mail</h4>
+                            <p>info@neointeraction.com</p>
+                        </div>
+                        <div class="ci-item">
+                            <h4>Phone</h4>
+                            <p>+91 95133 38744</p>
+                        </div>
+                        <div class="ci-item">
+                            <h4>Location</h4>
+                            <p>Neointeraction Designs, # M-98, 2nd Floor, LIC housing colony, HAL 3rd stage, Jeevan Bhima Nagar, Bangalore - 560 075</p>
+                        </div>
+
+                        <a href="https://www.google.com/maps/place/Neointeraction+UX+Design+Services/@12.9685287,77.6527232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae16ae4b33f91d:0x16ae479052c160f0!8m2!3d12.9685287!4d77.6527232!16s%2Fg%2F1tscmfns?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D"  target="_blank" class="get-directions">Get Directions</a>
                     </div>
                 </div>
             </div>

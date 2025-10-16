@@ -75,7 +75,7 @@ include_once 'includes/tracking-functions.php';
 
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <p class="banner-subtext">We craft user-focused digital experiences that captivate and convert. From UX/UI design to frontend development, we deliver seamless, intuitive solutions for web and mobile platforms.</p>
 
                             </div>
@@ -130,6 +130,11 @@ include_once 'includes/tracking-functions.php';
 
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-flex d-md-none">
+                        <p class="banner-subtext">We craft user-focused digital experiences that captivate and convert. From UX/UI design to frontend development, we deliver seamless, intuitive solutions for web and mobile platforms.</p>
+
                     </div>
                 </div>
             </div>

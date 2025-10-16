@@ -145,7 +145,7 @@
                 </div>
 
                 <?php if (count($news_list) > $items_per_page): ?>
-                    <div class="text-center mt-4 mb-5">
+                    <div class="text-center mt-4 mb-0 mb-md-5">
                         <button class="btn btn-custom btn-custom-secondary" id="load-more-btn" onclick="loadMoreBlogs()">
                             Load More
                         </button>

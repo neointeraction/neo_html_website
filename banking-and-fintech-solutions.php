@@ -73,7 +73,7 @@ include_once 'includes/tracking-functions.php';
                             Redefining Banking  <br> and <span class="highlight">Fintech Solutions in India </span>
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <p class="banner-subtext">Transforming banking and fintech with user-friendly digital solutions that drive engagement, simplify transactions, and deliver measurable results</p>
 
                             </div>
@@ -128,6 +128,11 @@ include_once 'includes/tracking-functions.php';
 
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-flex d-md-none">
+                        <p class="banner-subtext">Transforming banking and fintech with user-friendly digital solutions that drive engagement, simplify transactions, and deliver measurable results</p>
+
                     </div>
                 </div>
             </div>

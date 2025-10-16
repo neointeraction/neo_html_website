@@ -88,7 +88,7 @@ include_once 'includes/tracking-functions.php';
                             Transforming <br>Healthcare <span class="highlight">UX Design in India</span>
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <p class="banner-subtext">We create user-focused healthcare UX solutions that improve patient experiences and streamline digital interactions. Our UX/UI design and strategy deliver intuitive, effective, and impactful digital platforms.</p>
 
                             </div>
@@ -143,6 +143,11 @@ include_once 'includes/tracking-functions.php';
 
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-flex d-md-none">
+                        <p class="banner-subtext">We create user-focused healthcare UX solutions that improve patient experiences and streamline digital interactions. Our UX/UI design and strategy deliver intuitive, effective, and impactful digital platforms.</p>
+
                     </div>
                 </div>
             </div>

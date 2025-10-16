@@ -76,7 +76,7 @@ include_once 'includes/tracking-functions.php';
                                 End-to-End Product <span class="highlight">Design Solutions</span>
                             </h1>
 
-                            <div class="contact-info">
+                            <div class="contact-info d-none d-md-block">
                                 <p class="banner-subtext">Bring your product vision to life with user-focused design. Our product design services create engaging, intuitive experiences that drive results.</p>
 
                             </div>
@@ -131,6 +131,11 @@ include_once 'includes/tracking-functions.php';
 
                             </form>
                         </div>
+                    </div>
+
+                    <div class="contact-info d-flex d-md-none">
+                        <p class="banner-subtext">Bring your product vision to life with user-focused design. Our product design services create engaging, intuitive experiences that drive results.</p>
+
                     </div>
                 </div>
             </div>
