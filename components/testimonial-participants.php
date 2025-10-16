@@ -1,21 +1,21 @@
   
   <?php $testimonials = [
     [
-        'image' => 'assets/images/testimonials/sameer-mathur.jpeg',
+        'image' => 'assets/images/events/person2.jpg',
         'alt' => 'Abhijit Lade',
         'name' => 'Abhijit Lade',
         'title' => 'Senior Chief UX Designer at Samsung',
         'text' => 'Gained valuable insights on how a Product is born and enjoyed hand on activities.'
     ],
     [
-        'image' => 'assets/images/testimonials/jacob-varghese.jpeg',
+        'image' => 'assets/images/events/person1.jpg',
         'alt' => 'Preethi Ritesh',
         'name' => 'Preethi Ritesh',
         'title' => 'Product Specialist at Rao\'s Infosoft',
         'text' => 'It was wonderful to understand how UX leverages business along with case studies.'
     ],
     [
-        'image' => 'assets/images/testimonials/asha-subramanian.jpeg',
+        'image' => 'assets/images/events/person3.jpg',
         'alt' => 'Upasna Kakkat',
         'name' => 'Upasna Kakkat',
         'title' => 'UX UI Designer at UNext Learning',

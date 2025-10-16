@@ -222,13 +222,11 @@
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
                                 </div>
-                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content" style="margin-bottom:7px">
                                     <h2 class="project-title">
                                         Micro frontend architecture workshop
                                     </h2>
-                                    <p class="project-description">
-                                    <p class="body-text">A hands-on session exploring user-centered design principles, practical tools, and real-world case studies to craft better digital experiences</p>
-                                    </p>
+                                    <p class="body-text m-0">A hands-on session exploring user-centered design principles, practical tools, and real-world case studies to craft better digital experiences</p>
                                     <button class="btn btn-custom btn-custom-secondary em-btn" onclick="location.href='<?php echo $rootPath . $event['link']; ?>';"
                                         style="cursor: pointer;">
                                         View More
@@ -250,19 +248,17 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <iframe class="video-iframe" width="100%" height="280" src="https://www.youtube.com/embed/6Y12RcoHwc4?si=y75cMFm8oaaivTfb"
+                                    <iframe class="video-iframe" width="100%" height="290" src="https://www.youtube.com/embed/6Y12RcoHwc4?si=y75cMFm8oaaivTfb"
                                         title="YouTube video player" frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
                                 </div>
-                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content" style="margin-bottom:7px">
                                     <h2 class="project-title">
                                         UX design Workshop
                                     </h2>
-                                    <p class="project-description">
                                     <p class="body-text">A hands-on session exploring user-centered design principles, practical tools, and real-world case studies to craft better
                                         digital experiences</p>
-                                    </p>
                                     <button class="btn btn-custom btn-custom-secondary em-btn" onclick="location.href='<?php echo $rootPath . $event['link']; ?>';"
                                         style="cursor: pointer;">
                                         View More
