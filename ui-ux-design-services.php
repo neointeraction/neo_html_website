@@ -402,6 +402,7 @@
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php $faq_tag = 'services';
     include 'components/faq.php'; ?>
+    <div class="mb-0 mb-sm-4"></div>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>
     <?php include 'includes/js.php'; ?>
