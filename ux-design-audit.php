@@ -64,7 +64,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left">
                             <h1 class="banner-title">
-                                Unlock Full Potential <br>with Free <span class="highlight">UX Audit
+                                Unlock Full Potential <br>with  <span class="highlight">UX Audit
                             </h1>
 
                             <div class="contact-info">
@@ -79,7 +79,7 @@ include_once 'includes/tracking-functions.php';
                     <!-- Right Side -->
                     <div class="col-lg-6">
                         <div class="contact-right">
-                            <h2 class="form-title">Book your Free UX Audit</h2>
+                            <h2 class="form-title">Book your UX Audit</h2>
 
 
                             <form id="contactForm">
