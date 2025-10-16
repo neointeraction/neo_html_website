@@ -20,7 +20,14 @@
         'name' => 'Upasna Kakkat',
         'title' => 'UX UI Designer at UNext Learning',
         'text' => 'Great Session!The case studies shared were very insightful.'
-    ]
+    ],
+    [
+      'image' => 'assets/images/events/person4.jpg',
+      'alt' => 'Aruna',
+      'name' => 'Aruna',
+      'title' => '',
+      'text' => 'The session was great and the fee is very affordable. Please continue offering sessions like this.'
+  ]
     
 ];
 ?>
