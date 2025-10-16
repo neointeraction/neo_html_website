@@ -14,7 +14,7 @@
     }
      
     if(empty($imageLink)){
-      $imageLink =  "assets/images/bs-img.webp";
+      $imageLink =  "assets/images/homepage-contact-us.jpg";
     }
 
     if(empty($imageAlt)){
