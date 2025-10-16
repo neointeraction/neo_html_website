@@ -50,7 +50,44 @@
     <div class="container">
       <h2 class="section-title">Current Openings</h2>
       <?php
-      $json_data = file_get_contents('data/job_listing_data.json');
+      $api_url = 'https://api.kapiree.com/api/v1/plugin/getJobRolesUnderOrganization&id=02dbfc78-53dd-43f2-985c-726a851a70dd';
+      $payload = json_encode([70]);
+
+      $options = [
+          'http' => [
+              'header'  => "Content-type: application/json\r\n",
+              'method'  => 'POST',
+              'content' => $payload,
+          ],
+      ];
+      $context  = stream_context_create($options);
+      $api_response = file_get_contents($api_url, false, $context);
+      echo "<!-- API Response: " . htmlspecialchars($api_response) . " -->"; // Output API response as HTML comment
+
+      if ($api_response === FALSE) {
+          error_log("Error fetching job roles from API.");
+          echo '<p>Error: Could not fetch job listings from the API. Please check server logs for details.</p>';
+          $json_data = file_get_contents('data/job_listing_data.json');
+      } else {
+          $decoded_response = json_decode($api_response, true);
+          if (json_last_error() === JSON_ERROR_NONE) {
+              echo "<!-- Decoded API Response: " . htmlspecialchars(json_encode($decoded_response)) . " -->"; // Output decoded response
+              if (isset($decoded_response['jobRoles'])) {
+                  $jobs_to_save = $decoded_response['jobRoles'];
+                  file_put_contents('data/job_listing_data.json', json_encode($jobs_to_save, JSON_PRETTY_PRINT));
+                  $json_data = json_encode($jobs_to_save);
+              } else {
+                  error_log("Error: 'jobRoles' key missing in API response.");
+                  echo '<p>Error: API response missing "jobRoles" key. Using existing job listings.</p>';
+                  $json_data = file_get_contents('data/job_listing_data.json');
+              }
+          } else {
+              error_log("Error decoding API response: " . json_last_error_msg());
+              echo '<p>Error: Could not decode API response. Using existing job listings. JSON Error: ' . json_last_error_msg() . '</p>';
+              $json_data = file_get_contents('data/job_listing_data.json');
+          }
+      }
+
       $jobs = json_decode($json_data, true);
 
       if (json_last_error() !== JSON_ERROR_NONE) {
