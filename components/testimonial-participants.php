@@ -25,7 +25,7 @@
       'image' => 'assets/images/events/person4.jpg',
       'alt' => 'Aruna',
       'name' => 'Aruna',
-      'title' => '',
+      'title' => 'Designer',
       'text' => 'The session was great and the fee is very affordable. Please continue offering sessions like this.'
   ]
     
