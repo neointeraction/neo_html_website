@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"/>
   <meta property="og:title" content="How to Promote Positive emotions in the User Experience of Your Product"/>
   <meta property="og:description" content="One common mistake for designers would be to just consider producing designs that depict the ideal state of a user interface. It is easy to design when everything is packed with well-formatted content. However, problems can develop if a design is created without considering the numerous varied scenarios that each user may confront. So, we as designers must pay attention to different user scenarios examples!User Scenario Examples in UXA user scenario is a technique used by designers to comprehend"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_7bce6e8a36ef4f229ad29e92c3d17da8~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_7bce6e8a36ef4f229ad29e92c3d17da8~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How to Promote Positive emotions in the User Experience of Your Product"/>
   <meta name="twitter:description" content="One common mistake for designers would be to just consider producing designs that depict the ideal state of a user interface. It is easy to design when everything is packed with well-formatted content. However, problems can develop if a design is created without considering the numerous varied scenarios that each user may confront. So, we as designers must pay attention to different user scenarios examples!User Scenario Examples in UXA user scenario is a technique used by designers to comprehend"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_7bce6e8a36ef4f229ad29e92c3d17da8~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_7bce6e8a36ef4f229ad29e92c3d17da8~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

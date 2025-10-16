@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop"/>
   <meta property="og:title" content="Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta"/>
   <meta property="og:description" content="Design, they say, is about evolution. In a world where user expectations change like the wind, designers must adapt to the dynamic landscape and keep pace with the evolving trends. That’s what we firmly believe at Neointeraction, where we see design as a catalyst for success, a medium that can transform lives and businesses. This philosophy was the cornerstone of our recent UX Design Workshop, a one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product D"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_15c0d824abb74cf39ca6f89e35f173b3~mv2.webp/v1/fill/w_1000,h_773,al_c,q_85,usm_0.66_1.00_0.01/c16c07_15c0d824abb74cf39ca6f89e35f173b3~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="1411"/>
   <meta property="og:image:height" content="1090"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta"/>
   <meta name="twitter:description" content="Design, they say, is about evolution. In a world where user expectations change like the wind, designers must adapt to the dynamic landscape and keep pace with the evolving trends. That’s what we firmly believe at Neointeraction, where we see design as a catalyst for success, a medium that can transform lives and businesses. This philosophy was the cornerstone of our recent UX Design Workshop, a one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product D"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_15c0d824abb74cf39ca6f89e35f173b3~mv2.webp/v1/fill/w_1000,h_773,al_c,q_85,usm_0.66_1.00_0.01/c16c07_15c0d824abb74cf39ca6f89e35f173b3~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

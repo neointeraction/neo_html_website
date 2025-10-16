@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/how-to-align-good-ux-ui-concepts-with-customer-requirements"/>
   <meta property="og:title" content="How to align good UX UI concepts with customer requirements?"/>
   <meta property="og:description" content="User Experience plays a vital role in the success of a product. It is an important puzzle that should be solved for the users by the UX designer.The objective of UX design should be to minimize complexity and present the product so that consumers can make quick decisions. When developing a product to serve their objectives, users' demands should take precedence over customers' suggestions since poor user experience can undermine clients' ultimate goals.Pitching of UX UI design concepts to the cl"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_883e72f4481b4824898e68dcbd6e74ae~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_883e72f4481b4824898e68dcbd6e74ae~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/how-to-align-good-ux-ui-concepts-with-customer-requirements"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How to align good UX UI concepts with customer requirements?"/>
   <meta name="twitter:description" content="User Experience plays a vital role in the success of a product. It is an important puzzle that should be solved for the users by the UX designer.The objective of UX design should be to minimize complexity and present the product so that consumers can make quick decisions. When developing a product to serve their objectives, users' demands should take precedence over customers' suggestions since poor user experience can undermine clients' ultimate goals.Pitching of UX UI design concepts to the cl"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_883e72f4481b4824898e68dcbd6e74ae~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_883e72f4481b4824898e68dcbd6e74ae~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

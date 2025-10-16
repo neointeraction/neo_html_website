@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better"/>
   <meta property="og:title" content="How Gmail's UX Design makes email management better"/>
   <meta property="og:description" content="Table of Contents1. Introduction2. The Initial State of Gmail3. What are the Effective Email Management Components?   3.1. Organizing: Conquering the Email Chaos   3.2. Prioritization: Knowing What Matters Most   3.3. Automation: Streamlining Repetitive Tasks   3.4. Collaboration: Working Together Seamlessly4. UX Transformation in google email management   4.1. Streamlining the Interface for Effortless Task Completion   4.2. Prioritizing Important Emails: Leveraging AI to highlight crucial messa"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_73b6fb3825464cf699ff32f7c04cb85e~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_73b6fb3825464cf699ff32f7c04cb85e~mv2.jpg"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How Gmail's UX Design makes email management better"/>
   <meta name="twitter:description" content="Table of Contents1. Introduction2. The Initial State of Gmail3. What are the Effective Email Management Components?   3.1. Organizing: Conquering the Email Chaos   3.2. Prioritization: Knowing What Matters Most   3.3. Automation: Streamlining Repetitive Tasks   3.4. Collaboration: Working Together Seamlessly4. UX Transformation in google email management   4.1. Streamlining the Interface for Effortless Task Completion   4.2. Prioritizing Important Emails: Leveraging AI to highlight crucial messa"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_73b6fb3825464cf699ff32f7c04cb85e~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_73b6fb3825464cf699ff32f7c04cb85e~mv2.jpg"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

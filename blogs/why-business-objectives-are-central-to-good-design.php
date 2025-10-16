@@ -13,7 +13,7 @@
     <meta property="og:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" />
@@ -29,7 +29,7 @@
     <meta name="twitter:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ba33f154326d4c51a38b3c71d85f6529~mv2.webp" />
+        content="" />
 
 </head>
 

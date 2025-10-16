@@ -14,7 +14,7 @@
     <meta property="og:description"
         content="Explore inclusive UX design for broader market reach, increased user engagement, and diverse innovation." />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c16c07_f9c5c4103433483abd06a9c660184f37~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_f9c5c4103433483abd06a9c660184f37~mv2.jpg" />
+        content="" />
     <meta property="og:image:width" content="1881" />
     <meta property="og:image:height" content="1453" />
     <meta property="og:url"
@@ -31,7 +31,7 @@
     <meta name="twitter:description"
         content="Explore inclusive UX design for broader market reach, increased user engagement, and diverse innovation." />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c16c07_f9c5c4103433483abd06a9c660184f37~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_f9c5c4103433483abd06a9c660184f37~mv2.jpg" />
+        content="" />
 
 </head>
 

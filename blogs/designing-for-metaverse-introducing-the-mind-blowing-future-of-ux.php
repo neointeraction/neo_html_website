@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"/>
   <meta property="og:title" content="Designing For Metaverse: Introducing The Mind-blowing Future Of UX"/>
   <meta property="og:description" content="Table of Contents1. The Metaverse Explained2. UX in the Metaverse Design3. Building for the Future4. Pioneering Metaverse Design5. Challenges &amp; Opportunities6. The Future of Metaverse design7. ConclusionThe Metaverse can be defined as a new frontier in digital interaction, combining virtual and augmented realities into effective experiences. The relevance of this on user experience (UX) design is massive as it goes beyond the past traditional principles and embraces new avenues for meaningful en"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_aa66dbcb46314a859cc678daf679ea75~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_aa66dbcb46314a859cc678daf679ea75~mv2.jpg"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="3917"/>
   <meta property="og:image:height" content="3025"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Designing For Metaverse: Introducing The Mind-blowing Future Of UX"/>
   <meta name="twitter:description" content="Table of Contents1. The Metaverse Explained2. UX in the Metaverse Design3. Building for the Future4. Pioneering Metaverse Design5. Challenges &amp; Opportunities6. The Future of Metaverse design7. ConclusionThe Metaverse can be defined as a new frontier in digital interaction, combining virtual and augmented realities into effective experiences. The relevance of this on user experience (UX) design is massive as it goes beyond the past traditional principles and embraces new avenues for meaningful en"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_aa66dbcb46314a859cc678daf679ea75~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_aa66dbcb46314a859cc678daf679ea75~mv2.jpg"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

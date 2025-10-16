@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Table of Contents1. What is Data driven ui ux design ?2. Netflix's Data-Driven Movie Magic: Tailored for You3. Business Impact of Data-Driven UI UX Design4. ConclusionIn the ever-evolving landscape of digital entertainment, where user preferences and expectations shape the industry, Netflix has emerged not only as a content powerhouse but also as a pioneer in leveraging data-driven UI UX to enhance the user experience and drive business success.What is Data driven ui ux design ?Data-driven UI UX" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c16c07_1f974859b588460caf72a263c961c189~mv2.webp/v1/fill/w_1000,h_773,al_c,q_85,usm_0.66_1.00_0.01/c16c07_1f974859b588460caf72a263c961c189~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="1411" />
     <meta property="og:image:height" content="1090" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="Table of Contents1. What is Data driven ui ux design ?2. Netflix's Data-Driven Movie Magic: Tailored for You3. Business Impact of Data-Driven UI UX Design4. ConclusionIn the ever-evolving landscape of digital entertainment, where user preferences and expectations shape the industry, Netflix has emerged not only as a content powerhouse but also as a pioneer in leveraging data-driven UI UX to enhance the user experience and drive business success.What is Data driven ui ux design ?Data-driven UI UX" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c16c07_1f974859b588460caf72a263c961c189~mv2.webp/v1/fill/w_1000,h_773,al_c,q_85,usm_0.66_1.00_0.01/c16c07_1f974859b588460caf72a263c961c189~mv2.webp" />
+        content="" />
 </head>
 
 <body>

@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi"/>
   <meta property="og:title" content="How to practice good UX to boost your product ROI"/>
   <meta property="og:description" content="UX design is the process of designing (digital or physical) products that are useful, easy to use, and delightful to interact with. It’s about enhancing the experience that people have while interacting with your product, and making sure they find value in what you’re providing thereby achieving customer satisfaction. After all User Experience plays a vital role in the success of a product.Benefits of UX designa. Conduct User ResearchDesigning a product starts with collecting data. While develop"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_2afc87203a1b4092b6eb6a85c1ae8ccf~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_2afc87203a1b4092b6eb6a85c1ae8ccf~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How to practice good UX to boost your product ROI"/>
   <meta name="twitter:description" content="UX design is the process of designing (digital or physical) products that are useful, easy to use, and delightful to interact with. It’s about enhancing the experience that people have while interacting with your product, and making sure they find value in what you’re providing thereby achieving customer satisfaction. After all User Experience plays a vital role in the success of a product.Benefits of UX designa. Conduct User ResearchDesigning a product starts with collecting data. While develop"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_2afc87203a1b4092b6eb6a85c1ae8ccf~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_2afc87203a1b4092b6eb6a85c1ae8ccf~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

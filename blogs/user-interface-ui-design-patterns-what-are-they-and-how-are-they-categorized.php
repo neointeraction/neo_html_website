@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"/>
   <meta property="og:title" content="User Interface (UI) design patterns: What are they and how are they categorized?"/>
   <meta property="og:description" content="User interface (UI) design is a vital process designers use to build interfaces in software or computerized devices, focusing on looks or style. UI Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. User Interface (UI) refers to concepts from interaction design, visual design, and information architecture.Good layout design is both dynamic and clear, creating visual poin"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_88c957a8f41f4708a4e50c66c9ada927~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_88c957a8f41f4708a4e50c66c9ada927~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="User Interface (UI) design patterns: What are they and how are they categorized?"/>
   <meta name="twitter:description" content="User interface (UI) design is a vital process designers use to build interfaces in software or computerized devices, focusing on looks or style. UI Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. User Interface (UI) refers to concepts from interaction design, visual design, and information architecture.Good layout design is both dynamic and clear, creating visual poin"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_88c957a8f41f4708a4e50c66c9ada927~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_88c957a8f41f4708a4e50c66c9ada927~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
 
 </head>
 

@@ -15,7 +15,7 @@
 	1.2 Progressive Web Apps (PWAs)	1.3 Component driven development	1.4 WebAssembly(WASM)
 	1.5 Rendering methods2. ConclusionWhy is it important to catch up with the latest trends in front end development?
 Staying up to date with technology in today’s world can make or break your business. Technological advancements like AI are increasingly being adopted to gain a competitive edg"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_4345c0c77bda46a48d93fa7dd5641de5~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_4345c0c77bda46a48d93fa7dd5641de5~mv2.jpg"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/top-5-frontend-development-trends-of-2024"/>
@@ -32,7 +32,7 @@ Staying up to date with technology in today’s world can make or break your bus
 	1.2 Progressive Web Apps (PWAs)	1.3 Component driven development	1.4 WebAssembly(WASM)
 	1.5 Rendering methods2. ConclusionWhy is it important to catch up with the latest trends in front end development?
 Staying up to date with technology in today’s world can make or break your business. Technological advancements like AI are increasingly being adopted to gain a competitive edg"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_4345c0c77bda46a48d93fa7dd5641de5~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_4345c0c77bda46a48d93fa7dd5641de5~mv2.jpg"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

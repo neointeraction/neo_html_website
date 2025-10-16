@@ -15,7 +15,7 @@
   2.2 Benefits of Using MFA
   2.3 Limitations of MFA3. Design Systems: Creating Consistent and Efficient Designs
   3.1 Purpose and Benefits of Design Systems4. How MFA and Design Systems Work Well Together5. ConclusionDesign Systems &amp; Micro Frontend Architecture: Transforming Web Developmen"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_e6365acf105e4247a45dd79e5deb0158~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_e6365acf105e4247a45dd79e5deb0158~mv2.jpg"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check"/>
@@ -32,7 +32,7 @@
   2.2 Benefits of Using MFA
   2.3 Limitations of MFA3. Design Systems: Creating Consistent and Efficient Designs
   3.1 Purpose and Benefits of Design Systems4. How MFA and Design Systems Work Well Together5. ConclusionDesign Systems &amp; Micro Frontend Architecture: Transforming Web Developmen"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_e6365acf105e4247a45dd79e5deb0158~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_e6365acf105e4247a45dd79e5deb0158~mv2.jpg"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

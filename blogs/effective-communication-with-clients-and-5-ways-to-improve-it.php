@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/effective-communication-with-clients-and-5-ways-to-improve-it"/>
   <meta property="og:title" content="Effective Communication with clients and 5 ways to improve it"/>
   <meta property="og:description" content="Consider if someone asked you to prepare a meal but didn't specify what type of meal they wanted. They expected you to know what they wanted. This type of scenario occurs frequently with design teams, resulting in a waste of time for both parties.Designers are expected to be multi-disciplinary and result-oriented as technology advances. One of the most important abilities is not only to design but also to communicate design effectively; therefore, it is critical for a designer to possess active "/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_ebe0ed5c17b348feac7da65147526dec~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ebe0ed5c17b348feac7da65147526dec~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/effective-communication-with-clients-and-5-ways-to-improve-it"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Effective Communication with clients and 5 ways to improve it"/>
   <meta name="twitter:description" content="Consider if someone asked you to prepare a meal but didn't specify what type of meal they wanted. They expected you to know what they wanted. This type of scenario occurs frequently with design teams, resulting in a waste of time for both parties.Designers are expected to be multi-disciplinary and result-oriented as technology advances. One of the most important abilities is not only to design but also to communicate design effectively; therefore, it is critical for a designer to possess active "/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_ebe0ed5c17b348feac7da65147526dec~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_ebe0ed5c17b348feac7da65147526dec~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

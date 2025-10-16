@@ -16,7 +16,7 @@
     <meta property="og:description"
         content="AI, which stands for Artificial Intelligence, is all about teaching computers to do things that generally need human thought. It entails developing specific computer programs known as algorithms that can read and analyze data, identify patterns in it, and make intelligent decisions based on that knowledge. AI can assist to automate jobs, speed up processes, and even forecast or recommend outcomes.Virtual assistants such as Siri and Alexa are examples of AI, as are self-driving cars, software tha" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_23252fe6921c42628d27a3538cece72a~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_23252fe6921c42628d27a3538cece72a~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -34,7 +34,7 @@
     <meta name="twitter:description"
         content="AI, which stands for Artificial Intelligence, is all about teaching computers to do things that generally need human thought. It entails developing specific computer programs known as algorithms that can read and analyze data, identify patterns in it, and make intelligent decisions based on that knowledge. AI can assist to automate jobs, speed up processes, and even forecast or recommend outcomes.Virtual assistants such as Siri and Alexa are examples of AI, as are self-driving cars, software tha" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_23252fe6921c42628d27a3538cece72a~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_23252fe6921c42628d27a3538cece72a~mv2.webp" />
+        content="" />
 
 </head>
 

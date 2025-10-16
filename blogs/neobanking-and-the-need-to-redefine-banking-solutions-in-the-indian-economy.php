@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"/>
   <meta property="og:title" content="Neobanking and the need to redefine banking solutions in the Indian Economy"/>
   <meta property="og:description" content="The Indian economy has been going through a rapid transformation in recent years, and the banking sector is at the forefront of this growth. With the increasing demand for digital financial services, the traditional banking system has been challenged to keep up with the pace of technological advancements. This has resulted in the emergence of neobanking solutions, which are digital-first and technology-driven, and offer innovative financial services that cater to the needs of modern customers. H"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_03df7d04e84d4b508a9e8f4286720973~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_03df7d04e84d4b508a9e8f4286720973~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Neobanking and the need to redefine banking solutions in the Indian Economy"/>
   <meta name="twitter:description" content="The Indian economy has been going through a rapid transformation in recent years, and the banking sector is at the forefront of this growth. With the increasing demand for digital financial services, the traditional banking system has been challenged to keep up with the pace of technological advancements. This has resulted in the emergence of neobanking solutions, which are digital-first and technology-driven, and offer innovative financial services that cater to the needs of modern customers. H"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_03df7d04e84d4b508a9e8f4286720973~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_03df7d04e84d4b508a9e8f4286720973~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
 
 </head>
 

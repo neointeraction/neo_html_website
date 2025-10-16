@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"/>
   <meta property="og:title" content="UI UX Design can be enhanced using micro interactions and this is how"/>
   <meta property="og:description" content="In its most basic sense, microinteractions are individual moments in the product design that accomplish a particular task, while enhancing what is intended to be the natural product flow. They are what bridge UI and UX, where functionality meets design – and they are everywhere.We as consumers see and interact with these interactive UI components daily, even without knowing. A ‘Like’ button is one of the simplest examples. A few others are: • A simple scroll bar that appears in the user interfac"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_c112b0e4668d4522b99d4bc8e3d1fec6~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_c112b0e4668d4522b99d4bc8e3d1fec6~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="UI UX Design can be enhanced using micro interactions and this is how"/>
   <meta name="twitter:description" content="In its most basic sense, microinteractions are individual moments in the product design that accomplish a particular task, while enhancing what is intended to be the natural product flow. They are what bridge UI and UX, where functionality meets design – and they are everywhere.We as consumers see and interact with these interactive UI components daily, even without knowing. A ‘Like’ button is one of the simplest examples. A few others are: • A simple scroll bar that appears in the user interfac"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_c112b0e4668d4522b99d4bc8e3d1fec6~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_c112b0e4668d4522b99d4bc8e3d1fec6~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

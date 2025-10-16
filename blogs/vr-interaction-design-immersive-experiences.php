@@ -14,7 +14,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences"/>
   <meta property="og:title" content="What You Need To Know About VR Interaction Design For Immersive Experiences"/>
   <meta property="og:description" content="Table of Contents1. Understanding Presence in VR and AR2. Key Principles of Immersive Design3. Techniques for Enhancing Immersion4. Evaluating User Experience5. Challenges in Designing for Presence6. Future Trends in VR and UX design for augmented reality7. ConclusionVirtual Reality (VR) and Augmented Reality (AR) have changed the way our interaction happens in digital environments by offering experiences that blur the line between the physical and virtual worlds. As Digital Transformation in In"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences"/>
@@ -28,7 +28,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="What You Need To Know About VR Interaction Design For Immersive Experiences"/>
   <meta name="twitter:description" content="Table of Contents1. Understanding Presence in VR and AR2. Key Principles of Immersive Design3. Techniques for Enhancing Immersion4. Evaluating User Experience5. Challenges in Designing for Presence6. Future Trends in VR and UX design for augmented reality7. ConclusionVirtual Reality (VR) and Augmented Reality (AR) have changed the way our interaction happens in digital environments by offering experiences that blur the line between the physical and virtual worlds. As Digital Transformation in In"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

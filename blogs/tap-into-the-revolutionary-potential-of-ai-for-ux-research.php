@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research"/>
   <meta property="og:title" content="Tap into the Revolutionary Potential of AI for UX Research"/>
   <meta property="og:description" content="UX research plays a vital role in creating products that are user-friendly, efficient, and enjoyable. "/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_1ae0102f8e6f4df284516b1da81dcc1f~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_1ae0102f8e6f4df284516b1da81dcc1f~mv2.jpg"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Tap into the Revolutionary Potential of AI for UX Research"/>
   <meta name="twitter:description" content="UX research plays a vital role in creating products that are user-friendly, efficient, and enjoyable. "/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_1ae0102f8e6f4df284516b1da81dcc1f~mv2.jpg/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_1ae0102f8e6f4df284516b1da81dcc1f~mv2.jpg"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

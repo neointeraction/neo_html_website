@@ -12,7 +12,7 @@
   <link rel="canonical" href="<?php echo $path; ?>blogs/how-to-make-strategic-business-growth-through-ux-design"/>
   <meta property="og:title" content="How to make Strategic Business Growth Through UX Design"/>
   <meta property="og:description" content="Table of Contents1. The Power of UX Design in Business Growth   1. Enhance User Experience &amp; Customer Satisfaction   2. Drive Sales &amp; Conversions   3. Boost Brand Reputation &amp; Loyalty   4. Increase Efficiency &amp; Reduce Costs   5. Inform Product Development &amp; Strategy2. The Designer's Strategic Role   1. User Research &amp; Understanding Needs   2. Designing for Usability &amp; User Flow   3. Collaboration &amp; Communication with Stakeholders   4. Data Analysis &amp; User Testing   5. Iterative Design &amp; Continuo"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_899c72d1c70e48a9a7280ec44491f18a~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_899c72d1c70e48a9a7280ec44491f18a~mv2.jpg"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="<?php echo $path; ?>blogs/how-to-make-strategic-business-growth-through-ux-design"/>
@@ -26,7 +26,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How to make Strategic Business Growth Through UX Design"/>
   <meta name="twitter:description" content="Table of Contents1. The Power of UX Design in Business Growth   1. Enhance User Experience &amp; Customer Satisfaction   2. Drive Sales &amp; Conversions   3. Boost Brand Reputation &amp; Loyalty   4. Increase Efficiency &amp; Reduce Costs   5. Inform Product Development &amp; Strategy2. The Designer's Strategic Role   1. User Research &amp; Understanding Needs   2. Designing for Usability &amp; User Flow   3. Collaboration &amp; Communication with Stakeholders   4. Data Analysis &amp; User Testing   5. Iterative Design &amp; Continuo"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_899c72d1c70e48a9a7280ec44491f18a~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_899c72d1c70e48a9a7280ec44491f18a~mv2.jpg"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

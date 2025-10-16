@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/empower-saas-with-ai-a-better-powerful-user-experience"/>
   <meta property="og:title" content="Empower SaaS With AI: A Better &amp; Powerful User Experience"/>
   <meta property="og:description" content="Table of Contents1. Understanding AI in SaaS Design   1.1 Definition and Rise of AI in UX   1.2 Historical Context2. AI's Role in Enhancing UX   2.1 Personalization and Customization   2.2 Predictive Analytics and Insights   2.3 Automation of Design Processes3. AI-Driven UX Innovations   3.1 Voice and Chat Interfaces   3.2 Visual Recognition and Augmented Reality4. Examples of Successful AI powered SaaS Design   4.1 Example 1: Salesforce's Einstein AI   4.2 Example 2: Adobe Sensei   4.3 Example "/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c16c07_917daf5e9b5d48aaae51f748433a82af~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_917daf5e9b5d48aaae51f748433a82af~mv2.jpg"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/empower-saas-with-ai-a-better-powerful-user-experience"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Empower SaaS With AI: A Better &amp; Powerful User Experience"/>
   <meta name="twitter:description" content="Table of Contents1. Understanding AI in SaaS Design   1.1 Definition and Rise of AI in UX   1.2 Historical Context2. AI's Role in Enhancing UX   2.1 Personalization and Customization   2.2 Predictive Analytics and Insights   2.3 Automation of Design Processes3. AI-Driven UX Innovations   3.1 Voice and Chat Interfaces   3.2 Visual Recognition and Augmented Reality4. Examples of Successful AI powered SaaS Design   4.1 Example 1: Salesforce's Einstein AI   4.2 Example 2: Adobe Sensei   4.3 Example "/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c16c07_917daf5e9b5d48aaae51f748433a82af~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_917daf5e9b5d48aaae51f748433a82af~mv2.jpg"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

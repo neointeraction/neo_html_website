@@ -16,7 +16,7 @@
     <meta property="og:description"
         content="User research (UX) is the systematic study of target users and their requirements, to add realistic contexts and insights to design processes. UX researchers adopt various methods to uncover problems and design opportunities. Doing so, they reveal valuable information which can be fed into the design process.User research gives you a better understanding of what will happen when designing a product that's about to be released in public. It helps you learn about the people you’re building a solut" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_72d671199b044a119dc5575102e84633~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_72d671199b044a119dc5575102e84633~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="User research (UX) is the systematic study of target users and their requirements, to add realistic contexts and insights to design processes. UX researchers adopt various methods to uncover problems and design opportunities. Doing so, they reveal valuable information which can be fed into the design process.User research gives you a better understanding of what will happen when designing a product that's about to be released in public. It helps you learn about the people you’re building a solut" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_72d671199b044a119dc5575102e84633~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_72d671199b044a119dc5575102e84633~mv2.webp" />
+        content="" />
 
 </head>
 

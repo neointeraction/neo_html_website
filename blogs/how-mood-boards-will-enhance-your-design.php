@@ -14,7 +14,7 @@
     <meta property="og:description"
         content="Moodboard is a collection of visually represented ideas that improve a designer’s workflow and enhance communication. It also minimizes the risks of the client’s rejection of the concept and saves the designer’s time and nerves.The use of mood boards is not limited to just one particular field. Creative professionals like UI designers, Fashion designers, interior designers, Photographers, and many more use it to build a visual framework to generate better ideas. Mood boards are meant to showcase" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_faab8d5de4434039948f13f727911408~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_faab8d5de4434039948f13f727911408~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/how-mood-boards-will-enhance-your-design" />
@@ -30,7 +30,7 @@
     <meta name="twitter:description"
         content="Moodboard is a collection of visually represented ideas that improve a designer’s workflow and enhance communication. It also minimizes the risks of the client’s rejection of the concept and saves the designer’s time and nerves.The use of mood boards is not limited to just one particular field. Creative professionals like UI designers, Fashion designers, interior designers, Photographers, and many more use it to build a visual framework to generate better ideas. Mood boards are meant to showcase" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_faab8d5de4434039948f13f727911408~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_faab8d5de4434039948f13f727911408~mv2.webp" />
+        content="" />
 
 </head>
 

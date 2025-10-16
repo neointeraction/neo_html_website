@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important"/>
   <meta property="og:title" content="Interaction design: what is it and why is it important?"/>
   <meta property="og:description" content="Table of Contents1. Interaction Design vs User Experience Design2. What are the 5 Dimensions of Interaction Design ?3. Interaction design principles        3.1    Goal Driven        3.2   Readability        3.3   Usability        3.4   Learnability        3.5   Affordances4.   Salient PointsInteraction design is explained by IxDA as: “Interaction Design (IxD) defines the structure and behavior of interactive systems. Interaction Designers strive to create meaningful relationships between people "/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_b19cba1eded949a786d4a76de03e3544~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_b19cba1eded949a786d4a76de03e3544~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Interaction design: what is it and why is it important?"/>
   <meta name="twitter:description" content="Table of Contents1. Interaction Design vs User Experience Design2. What are the 5 Dimensions of Interaction Design ?3. Interaction design principles        3.1    Goal Driven        3.2   Readability        3.3   Usability        3.4   Learnability        3.5   Affordances4.   Salient PointsInteraction design is explained by IxDA as: “Interaction Design (IxD) defines the structure and behavior of interactive systems. Interaction Designers strive to create meaningful relationships between people "/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_b19cba1eded949a786d4a76de03e3544~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_b19cba1eded949a786d4a76de03e3544~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

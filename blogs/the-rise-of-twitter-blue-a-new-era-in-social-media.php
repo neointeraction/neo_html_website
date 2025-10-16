@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="In the ever-evolving realm of social media, Twitter under the leadership of Elon Musk has boldly ventured into uncharted territory with the introduction of Twitter Blue - a subscription service promising exclusive features and a premium user experience. This strategic shift signifies a departure from the traditional advertising-based model, ushering in a new era of social media monetization. Unveiling Twitter Blue: A Strategic ShiftTwitter Blue, priced at $8 per month, provides subscribers with " />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c16c07_eb4a2c47d4ff41d5a739a3ef74258587~mv2.webp/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_eb4a2c47d4ff41d5a739a3ef74258587~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="1881" />
     <meta property="og:image:height" content="1453" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="In the ever-evolving realm of social media, Twitter under the leadership of Elon Musk has boldly ventured into uncharted territory with the introduction of Twitter Blue - a subscription service promising exclusive features and a premium user experience. This strategic shift signifies a departure from the traditional advertising-based model, ushering in a new era of social media monetization. Unveiling Twitter Blue: A Strategic ShiftTwitter Blue, priced at $8 per month, provides subscribers with " />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c16c07_eb4a2c47d4ff41d5a739a3ef74258587~mv2.webp/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_eb4a2c47d4ff41d5a739a3ef74258587~mv2.webp" />
+        content="" />
 
 </head>
 

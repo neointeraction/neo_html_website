@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="In recent years, fintech banks or digital-only banks, have grown in popularity. Digital-only banking is a type of banking without physical branches that only provides banking services such as transactions, financial services, and customer service online or via mobile apps.Numerous factors have contributed to the emergence of digital-only banking. Accessing online banking services has become simpler thanks to the widespread use of phones and digital technologies. The development of new technologi" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_8b55d9815ffe4c6d9d82e779c37795e7~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_8b55d9815ffe4c6d9d82e779c37795e7~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="In recent years, fintech banks or digital-only banks, have grown in popularity. Digital-only banking is a type of banking without physical branches that only provides banking services such as transactions, financial services, and customer service online or via mobile apps.Numerous factors have contributed to the emergence of digital-only banking. Accessing online banking services has become simpler thanks to the widespread use of phones and digital technologies. The development of new technologi" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_8b55d9815ffe4c6d9d82e779c37795e7~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_8b55d9815ffe4c6d9d82e779c37795e7~mv2.webp" />
+        content="" />
 
 </head>
 

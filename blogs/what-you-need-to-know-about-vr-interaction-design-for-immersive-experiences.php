@@ -15,46 +15,13 @@
     <meta property="og:description"
         content="Table of Contents1. Understanding Presence in VR and AR2. Key Principles of Immersive Design3. Techniques for Enhancing Immersion4. Evaluating User Experience5. Challenges in Designing for Presence6. Future Trends in VR and UX design for augmented reality7. ConclusionVirtual Reality (VR) and Augmented Reality (AR) have changed the way our interaction happens in digital environments by offering experiences that blur the line between the physical and virtual worlds. As Digital Transformation in In" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
         content="https://www.neointeraction.com/post/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "author": {
-            "@type": "Person",
-            "name": "Sakshi Patil",
-            "url": "https://www.neointeraction.com/members-area/5a142016-294b-4b40-954a-52eaf837b555/profile"
-        },
-        "dateModified": "2024-12-19T18:30:00.000Z",
-        "datePublished": "2024-12-19T18:30:00.000Z",
-        "headline": "What You Need To Know About VR Interaction Design For Immersive Experiences",
-        "mainEntityOfPage": {
-            "@id": "https://www.neointeraction.com/post/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences",
-            "@type": "itemPage",
-            "url": "https://www.neointeraction.com/post/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences"
-        },
-        "description": "Discover key insights on crafting immersive experiences that bring users into virtual and augmented realities.&#010;&#010;&#010;",
-        "url": "https://www.neointeraction.com/post/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg",
-            "width": "941",
-            "height": "727"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "url": "https://www.neointeraction.com"
-        }
-    }
-    </script>
-    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta property="article:author" content="Sakshi Patil" />
     <meta property="article:published_time" content="2024-12-19T18:30:00.000Z" />
     <meta property="article:modified_time" content="2024-12-19T18:30:00.000Z" />
@@ -65,7 +32,7 @@
     <meta name="twitter:description"
         content="Table of Contents1. Understanding Presence in VR and AR2. Key Principles of Immersive Design3. Techniques for Enhancing Immersion4. Evaluating User Experience5. Challenges in Designing for Presence6. Future Trends in VR and UX design for augmented reality7. ConclusionVirtual Reality (VR) and Augmented Reality (AR) have changed the way our interaction happens in digital environments by offering experiences that blur the line between the physical and virtual worlds. As Digital Transformation in In" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg/v1/fill/w_941,h_727,al_c,q_85/c16c07_4f3e66cd40ee45e0b89d9fe504b8e669~mv2.jpg" />
+        content="" />
 
 </head>
 

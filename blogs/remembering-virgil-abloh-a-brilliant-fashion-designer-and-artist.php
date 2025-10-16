@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="On November 28, 2021, at age 41, the world-renowned American fashion designer and visionary artist Virgil Abloh lost his battle with cancer. This article is a tribute to Abloh’s creativity! And may we not forget the seriousness of cancer as we remember his life and celebrate his exuberant streetwear designs and aesthetic product designing in the form of water bottles and furniture, which helped us visualize the intersections of the digital and physical world and assisted in our development of an" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_9025ee2e3a8b49f89957626214c14649~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_9025ee2e3a8b49f89957626214c14649~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -31,7 +31,7 @@
     <meta name="twitter:description"
         content="On November 28, 2021, at age 41, the world-renowned American fashion designer and visionary artist Virgil Abloh lost his battle with cancer. This article is a tribute to Abloh’s creativity! And may we not forget the seriousness of cancer as we remember his life and celebrate his exuberant streetwear designs and aesthetic product designing in the form of water bottles and furniture, which helped us visualize the intersections of the digital and physical world and assisted in our development of an" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_9025ee2e3a8b49f89957626214c14649~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_9025ee2e3a8b49f89957626214c14649~mv2.webp" />
+        content="" />
     <meta name="twitter:card" content="summary" />
 </head>
 

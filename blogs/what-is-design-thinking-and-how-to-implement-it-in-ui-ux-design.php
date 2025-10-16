@@ -13,7 +13,7 @@
     <meta property="og:description"
         content="Design thinking is a set of processes that UX and UI designers can use in order to tackle big, complicated, or even largely unknown problems in product development.Design thinking principles are based on cognitive and strategic processes in addition to practical processes. This leads to a multi-faceted approach to problem-solving.Design Thinking in UXDesign thinking is almost certainly the best approach for &quot;thinking beyond the box&quot; of any design process. Teams can utilize it to improve the user" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_0ccddbcb779a4cdc837b5e56a09f91e1~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_0ccddbcb779a4cdc837b5e56a09f91e1~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" />
@@ -29,7 +29,7 @@
     <meta name="twitter:description"
         content="Design thinking is a set of processes that UX and UI designers can use in order to tackle big, complicated, or even largely unknown problems in product development.Design thinking principles are based on cognitive and strategic processes in addition to practical processes. This leads to a multi-faceted approach to problem-solving.Design Thinking in UXDesign thinking is almost certainly the best approach for &quot;thinking beyond the box&quot; of any design process. Teams can utilize it to improve the user" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_0ccddbcb779a4cdc837b5e56a09f91e1~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_0ccddbcb779a4cdc837b5e56a09f91e1~mv2.webp" />
+        content="" />
 
 </head>
 

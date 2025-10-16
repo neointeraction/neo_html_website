@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Neointeraction Design is a ui ux design company in Bangalore that is constantly researching and attempting to expand its boundaries, and the redesigned website using Strapi &amp; Next.js is a step in that direction. This blog documents our journey through the design and development phases, as well as the reasons behind our choices.Why a redesign?We decided to redesign our website to make it lighter, and faster and to keep up with current trends. Unlike the previous website's poor content management " />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_8421b130a4674c778baef2f553bd8e6f~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_8421b130a4674c778baef2f553bd8e6f~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="Neointeraction Design is a ui ux design company in Bangalore that is constantly researching and attempting to expand its boundaries, and the redesigned website using Strapi &amp; Next.js is a step in that direction. This blog documents our journey through the design and development phases, as well as the reasons behind our choices.Why a redesign?We decided to redesign our website to make it lighter, and faster and to keep up with current trends. Unlike the previous website's poor content management " />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_8421b130a4674c778baef2f553bd8e6f~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_8421b130a4674c778baef2f553bd8e6f~mv2.webp" />
+        content="" />
 </head>
 
 <body>

@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="In the rapidly changing digital landscape, the user experience (UX) and user interface (UI) design are instrumental in not only attracting users but also driving revenue growth. This article delves into a compelling case study featuring Slack, a leading team collaboration platform. It illustrates how a recent UX/UI redesign has brought about significant improvements in user engagement, ultimately leading to substantial revenue growth.&quot;Loyal customers, they don't just come back, they don't simply" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_411fbd45bccf4a7bb064ec848fdbe96b~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_411fbd45bccf4a7bb064ec848fdbe96b~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="In the rapidly changing digital landscape, the user experience (UX) and user interface (UI) design are instrumental in not only attracting users but also driving revenue growth. This article delves into a compelling case study featuring Slack, a leading team collaboration platform. It illustrates how a recent UX/UI redesign has brought about significant improvements in user engagement, ultimately leading to substantial revenue growth.&quot;Loyal customers, they don't just come back, they don't simply" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_411fbd45bccf4a7bb064ec848fdbe96b~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_411fbd45bccf4a7bb064ec848fdbe96b~mv2.webp" />
+        content="" />
 
 </head>
 

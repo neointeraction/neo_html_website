@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="In the dynamic world of design, templates have become indispensable tools, revolutionizing how businesses and designers approach various creative endeavors. Design templates are pre-made designs and documents that can be customized to meet specific standards or specifications, ensuring consistency between users and mediums. They can be sourced from template libraries and websites, or created as custom templates for future use. Delve into the diverse categories of templates, shedding light on how" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_709a85e4318847fb9d1c802d95e0e473~mv2.jpg/v1/fill/w_2500,h_2500,al_c/c380a9_709a85e4318847fb9d1c802d95e0e473~mv2.jpg" />
+        content="" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="2500" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="In the dynamic world of design, templates have become indispensable tools, revolutionizing how businesses and designers approach various creative endeavors. Design templates are pre-made designs and documents that can be customized to meet specific standards or specifications, ensuring consistency between users and mediums. They can be sourced from template libraries and websites, or created as custom templates for future use. Delve into the diverse categories of templates, shedding light on how" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_709a85e4318847fb9d1c802d95e0e473~mv2.jpg/v1/fill/w_2500,h_2500,al_c/c380a9_709a85e4318847fb9d1c802d95e0e473~mv2.jpg" />
+        content="" />
 
 </head>
 

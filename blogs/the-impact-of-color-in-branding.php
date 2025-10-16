@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/the-impact-of-color-in-branding"/>
   <meta property="og:title" content="The Impact of Color in Branding"/>
   <meta property="og:description" content="Colors can influence how we feel. There are times when we associate a product with a color. A product's perception by humans is significantly influenced by color.An instance of this is the use of the color blue. Blue is the most popular color used in brands. It gives off a calm and comfortable feeling to the users. When IBM redesigned its logo in 1972, the color blue represented power, authority, and professionalism. It exemplifies their sense of professionalism.Color can't be generally associat"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_86b75d5fd30247d482cb23773788c4bc~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_86b75d5fd30247d482cb23773788c4bc~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/the-impact-of-color-in-branding"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="The Impact of Color in Branding"/>
   <meta name="twitter:description" content="Colors can influence how we feel. There are times when we associate a product with a color. A product's perception by humans is significantly influenced by color.An instance of this is the use of the color blue. Blue is the most popular color used in brands. It gives off a calm and comfortable feeling to the users. When IBM redesigned its logo in 1972, the color blue represented power, authority, and professionalism. It exemplifies their sense of professionalism.Color can't be generally associat"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_86b75d5fd30247d482cb23773788c4bc~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_86b75d5fd30247d482cb23773788c4bc~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
 </head>
 
 <body>

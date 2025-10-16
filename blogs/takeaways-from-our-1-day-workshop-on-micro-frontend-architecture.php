@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Table of Contents1. What is Micro Frontend Architecture?2. Benefits Micro Frontend Architecture (MFA)3. Comparing monolithic and MFA architectures 4. Case Study &amp; Live Implementation of MFA5. Key Takeaways6. ConclusionWeb development teams are constantly seeking ways to improve user experience, streamline development processes, and boost overall efficiency. Neointeraction Front end development team has been working extensively on implementing Micro Frontend Architecture (MFA) across various clie" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c16c07_cc6f8eb3698f4f8691d1602f843839c2~mv2.webp/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_cc6f8eb3698f4f8691d1602f843839c2~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="1881" />
     <meta property="og:image:height" content="1453" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="Table of Contents1. What is Micro Frontend Architecture?2. Benefits Micro Frontend Architecture (MFA)3. Comparing monolithic and MFA architectures 4. Case Study &amp; Live Implementation of MFA5. Key Takeaways6. ConclusionWeb development teams are constantly seeking ways to improve user experience, streamline development processes, and boost overall efficiency. Neointeraction Front end development team has been working extensively on implementing Micro Frontend Architecture (MFA) across various clie" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c16c07_cc6f8eb3698f4f8691d1602f843839c2~mv2.webp/v1/fill/w_1000,h_772,al_c,q_85,usm_0.66_1.00_0.01/c16c07_cc6f8eb3698f4f8691d1602f843839c2~mv2.webp" />
+        content="" />
 
 </head>
 

@@ -12,7 +12,7 @@
   <meta property="og:title" content="Fostering User Confidence in Your Brand through Designing for Trust"/>
   <meta property="og:description" content="
 In the ever-evolving digital landscape, where consumers are bombarded with choices, building and maintaining trust is crucial for the success and reputation of any brand. In this era of information overload, where users are becoming increasingly discerning, the role of UI UX design in establishing and nurturing trust cannot be overstated.What is Trust in UX Design &amp; how do users interpret your design?Trust in UX involves reliability, credibility, transparency, security, usability, feedback, acc"/>
-  <meta property="og:image" content="https://static.wixstatic.com/media/c380a9_5add4c886eb841cda279d0281dc70a56~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_5add4c886eb841cda279d0281dc70a56~mv2.webp"/>
+  <meta property="og:image" content=""/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/fostering-user-confidence-in-your-brand-through-designing-for-trust"/>
@@ -26,7 +26,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
   <meta name="twitter:title" content="Fostering User Confidence in Your Brand through Designing for Trust"/>
   <meta name="twitter:description" content="
 In the ever-evolving digital landscape, where consumers are bombarded with choices, building and maintaining trust is crucial for the success and reputation of any brand. In this era of information overload, where users are becoming increasingly discerning, the role of UI UX design in establishing and nurturing trust cannot be overstated.What is Trust in UX Design &amp; how do users interpret your design?Trust in UX involves reliability, credibility, transparency, security, usability, feedback, acc"/>
-  <meta name="twitter:image" content="https://static.wixstatic.com/media/c380a9_5add4c886eb841cda279d0281dc70a56~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_5add4c886eb841cda279d0281dc70a56~mv2.webp"/>
+  <meta name="twitter:image" content=""/>
    
 </head>
 

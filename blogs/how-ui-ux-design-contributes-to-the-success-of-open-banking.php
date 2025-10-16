@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Open banking in fintech is the practice of allowing users to securely share their financial data with third-party applications. This can include things like account information, transaction data, and even the ability to initiate online payments. The goal of open banking is to increase competition and innovation in the finance market, while also giving consumers more control over their financial data.One of the key factors in the success of open banking is the user experience and user interface o" />
     <meta property="og:image"
-        content="https://static.wixstatic.com/media/c380a9_3773cfe913754feb969810fcb1d9ac7b~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_3773cfe913754feb969810fcb1d9ac7b~mv2.webp" />
+        content="" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="Open banking in fintech is the practice of allowing users to securely share their financial data with third-party applications. This can include things like account information, transaction data, and even the ability to initiate online payments. The goal of open banking is to increase competition and innovation in the finance market, while also giving consumers more control over their financial data.One of the key factors in the success of open banking is the user experience and user interface o" />
     <meta name="twitter:image"
-        content="https://static.wixstatic.com/media/c380a9_3773cfe913754feb969810fcb1d9ac7b~mv2.webp/v1/fill/w_941,h_727,al_c,q_85/c380a9_3773cfe913754feb969810fcb1d9ac7b~mv2.webp" />
+        content="" />
 
 </head>
 
