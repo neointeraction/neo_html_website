@@ -1,8 +1,6 @@
-// This will be populated from ux-design-audit.php
-let trackingData = {}; 
 
 let isUxAuditSubmitting = false;
-
+let url = window.location.href.split('/').slice(0, -1).join('/');
 function submitUxAuditForm() {
     // Prevent double submission
     if (isUxAuditSubmitting) {
@@ -125,7 +123,7 @@ function submitUxAuditForm() {
         designationInput.classList.remove("is-invalid");
 
         // Redirect to thank you page
-        window.location.href = '<?php echo $path; ?>components/thank-you.php';
+         window.location.href = url + '/components/thank-you.php';
     })
     .catch((error) => {
         console.log("UX Audit form submission completed (assuming success due to CORS)");
@@ -139,7 +137,7 @@ function submitUxAuditForm() {
         designationInput.classList.remove("is-invalid");
 
         // Redirect to thank you page
-        window.location.href = '<?php echo $path; ?>components/thank-you.php';
+         window.location.href = url + '/components/thank-you.php';
     })
     .finally(() => {
         // Reset button and flag

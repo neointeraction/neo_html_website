@@ -189,27 +189,13 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Handle form submission
-    const downloadCaseStudyForm = document.getElementById("downloadCaseStudyForm");
-    console.log("downloadCaseStudyForm:", downloadCaseStudyForm);
-    if (downloadCaseStudyForm) {
-        console.log("downloadCaseStudyForm found, attaching submit listener.");
-        downloadCaseStudyForm.addEventListener("submit", function(e) {
-            e.preventDefault();
-            console.log("Form submit event triggered, calling submitCaseStudyForm().");
-            submitCaseStudyForm();
-        });
-    } else {
-        console.error("downloadCaseStudyForm not found!");
-    }
-
     // Real-time validation clearing
     const cs_inputs = [
         { element: document.getElementById("cs_name-casestudy"), type: "name" },
         { element: document.getElementById("cs_work_email-casestudy"), type: "email" },
         { element: document.getElementById("cs_mobile_number-casestudy"), type: "mobile" }
     ];
-    console.log("cs_inputs elements:", cs_inputs.map(input => input.element));
+   // console.log("cs_inputs elements:", cs_inputs.map(input => input.element));
 
     cs_inputs.forEach(cs_input => {
         if (cs_input.element) {
@@ -223,10 +209,26 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // Handle modal close
+    // Handle modal close and form submission when modal is shown
     const cs_modal = document.getElementById('downloadCaseStudyModal'); // Corrected ID
-    console.log("cs_modal:", cs_modal);
+   // console.log("cs_modal:", cs_modal);
     if (cs_modal) {
+        cs_modal.addEventListener('shown.bs.modal', function() {
+            console.log("Download Case Study Modal shown event triggered.");
+            const downloadCaseStudyForm = document.getElementById("downloadCaseStudyForm");
+            console.log("downloadCaseStudyForm (inside shown.bs.modal):", downloadCaseStudyForm);
+            if (downloadCaseStudyForm) {
+                console.log("downloadCaseStudyForm found, attaching submit listener.");
+                downloadCaseStudyForm.addEventListener("submit", function(e) {
+                    e.preventDefault();
+                    console.log("Form submit event triggered, calling submitCaseStudyForm().");
+                    submitCaseStudyForm();
+                });
+            } else {
+                console.error("downloadCaseStudyForm not found inside shown.bs.modal!");
+            }
+        });
+
         cs_modal.addEventListener('hidden.bs.modal', function() {
             console.log("Download Case Study Modal hidden event triggered.");
             // Reset form and show it again

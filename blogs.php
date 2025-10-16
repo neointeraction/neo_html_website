@@ -20,7 +20,7 @@
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" type="application/rss+xml" title="Neointeraction - RSS" />
-    <link rel="next" href="https://www.neointeraction.com /blog/page/2" />
+    <link rel="next" href="https://www.neointeraction.com/blogs" />
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" />

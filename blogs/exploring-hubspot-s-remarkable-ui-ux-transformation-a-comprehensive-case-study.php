@@ -8,7 +8,7 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Exploring HubSpot's Remarkable UI UX Transformation: A Comprehensive Case Study</title>
   <meta name="description" content="This case study examines how UI UX design was pivotal in transforming HubSpot, leading to substantial growth over the years."/>
-  <link rel="canonical" href="https://www.neointeraction.com/blogs/exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study.php"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs"/>
   <meta property="og:title" content="Exploring HubSpot's Remarkable UI UX Transformation: A Comprehensive Case Study"/>
   <meta property="og:description" content="This case study examines how UI UX design was pivotal in transforming HubSpot, leading to substantial growth over the years."/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-transformation-case-study-ux-ui-thumbnail-mobile.jpeg"/>

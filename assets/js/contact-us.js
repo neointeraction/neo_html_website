@@ -1,8 +1,8 @@
-// This will be populated from contact-us.php
-let trackingData = {}; 
 
 let isContactSubmitting = false;
 
+let url = window.location.href.split('/').slice(0, -1).join('/');
+console.log(url,"32");
 function submitContactForm() {
     // Prevent double submission
     if (isContactSubmitting) {
@@ -125,7 +125,7 @@ function submitContactForm() {
         requirementInput.classList.remove("is-invalid");
 
         // Redirect to thank you page
-        window.location.href = '<?php echo $path; ?>components/thank-you.php';
+        window.location.href = url + '/components/thank-you.php';
     })
     .catch((error) => {
         console.log("Contact form submission completed (assuming success due to CORS)");
@@ -139,7 +139,7 @@ function submitContactForm() {
         requirementInput.classList.remove("is-invalid");
 
         // Redirect to thank you page
-        window.location.href = '<?php echo $path; ?>components/thank-you.php';
+        window.location.href =  url + '/components/thank-you.php';
     })
     .finally(() => {
         // Reset button and flag

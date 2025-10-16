@@ -37,9 +37,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $mail = new PHPMailer(true);
 
     try {
-       // Enable verbose debug output while testing (level 2)
-         $mail->SMTPDebug = SMTP::DEBUG_SERVER;
-
+        // Disable verbose debug output for production
+        $mail->SMTPDebug = 0; // Set to 0 for no output, or SMTP::DEBUG_SERVER for debugging
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;

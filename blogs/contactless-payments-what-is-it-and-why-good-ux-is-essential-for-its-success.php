@@ -8,7 +8,7 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Contactless Payments: What is it and why good UX is essential for its success?</title>
   <meta name="description" content="Learn about contactless payments, their benefits, and why a great user experience (UX) is crucial for their success. Discover best practices for designing seamless and secure contactless payment systems."/>
-  <link rel="canonical" href="https://www.neointeraction.com/blogs/contactless-payments-what-is-it-and-why-good-ux-is-essential-for-its-success.php"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs"/>
   <meta property="og:title" content="Contactless Payments: What is it and why good UX is essential for its success?"/>
   <meta property="og:description" content="Learn about contactless payments, their benefits, and why a great user experience (UX) is crucial for their success. Discover best practices for designing seamless and secure contactless payment systems."/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/contactless-payments-thumbnail-mobile.jpeg"/>

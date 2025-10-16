@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Emotional Design In UX: What You Need To Know for great UX</title>
   <meta name="description" content="Emotional design goes beyond aesthetics. It involves user experience and comprehending how emotions affect behavior and judgment. This blog explores the science of emotional design, the significance of emotional connections in user experience, and user-resonant experience creation techniques."/>
-  <link rel="canonical" href="https://www.neointeraction.com/blogs/emotional-design-in-ux-what-you-need-to-know-for-great-ux.php"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/"/>
   <meta property="og:title" content="Emotional Design In UX: What You Need To Know for great UX"/>
   <meta property="og:description" content="Emotional design goes beyond aesthetics. It involves user experience and comprehending how emotions affect behavior and judgment. This blog explores the science of emotional design, the significance of emotional connections in user experience, and user-resonant experience creation techniques."/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/emotional-design-for-great-ux-thumbnail-mobile.jpeg"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
-  <meta property="og:url" content="https://www.neointeraction.com/blogs/emotional-design-in-ux-what-you-need-to-know-for-great-ux.php"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/emotional-design-in-ux-what-you-need-to-know-for-great-ux"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>

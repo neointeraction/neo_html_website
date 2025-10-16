@@ -1,3 +1,5 @@
+window.trackingData = {};
+
 // slick
 
 $(".testimonial-slider").slick({
