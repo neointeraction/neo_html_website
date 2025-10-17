@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
     <meta name="description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." />
     <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" />
@@ -30,15 +29,12 @@
     $page = 'Home';
     ?>
     <?php include $path . 'includes/body-additional-scripts.php'; ?>
-    <!-- navbar  -->
     <div class="navbar-container-block">
         <?php include $path . 'components/navigation.php'; ?>
         <?php include $path . 'components/whatsapp.php'; ?>
     </div>
-    <!-- navbar -- end  -->
-    <!-- banner  -->
     <section class="banner section-padding">
-        <div class="banner-slider">
+        <div class="banner-slider pb-5">
             <div>
                 <div class="container">
                     <div class="row">
@@ -61,78 +57,9 @@
                     </div>
                 </div>
             </div>
-            <div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="banner-content">
-                                <h4 class="banner-supertext">business impact and ROI-driven design</h4>
-                                <h1 class="banner-title">
-                                    Make tech products <span class="highlight"><br>more human</span>
-                                </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                    Book A Consultation
-                                </button>
-                            </div>
-
-                        </div>
-                        <div class="col-md-4">
-                            <div class="banner-img-block">
-                                <img src="<?php echo $path; ?>assets/images/banner/oldage.jpeg" alt="Make tech products more human" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="banner-content">
-                                <h4 class="banner-supertext">research-to-design process that differentiates professional UX work</h4>
-                                <h1 class="banner-title">
-                                    AI-Powered Design. <span class="highlight">Human-Centered</span> Results.
-                                </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                    Book A Consultation
-                                </button>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="banner-img-block">
-                                <img src="<?php echo $path; ?>assets/images/banner/lady.jpg" alt="banner" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="banner-content">
-                                <h4 class="banner-supertext">business impact and ROI-driven design</h4>
-                                <h1 class="banner-title">
-                                    Design With Purpose. <span class="highlight">Build With Precision</span>.
-                                </h1>
-                                <button class="btn btn-custom btn-custom-secondary banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
-                                    Book A Consultation
-                                </button>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="banner-img-block">
-                                <img src="<?php echo $path; ?>assets/images/banner/watch.jpeg" alt="banner" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          
         </div>
     </section>
-    <!-- banner -- end  -->
-    <!-- business-success  -->
     <section class="business-success section-padding">
         <div class="container">
             <h2 class="section-title">
@@ -208,8 +135,6 @@
             </div>
         </div>
     </section>
-    <!-- business-success -- end  -->
-    <!-- our-impact  -->
     <section class="our-impact section-padding">
         <div class="container">
             <h2 class="section-title">Our Impact</h2>
@@ -238,9 +163,6 @@
             </div>
         </div>
     </section>
-
-    <!-- our-impact -- end  -->
-    <!-- clients  -->
     <section class="clients section-padding">
         <div class="container">
             <h2 class="section-title">
@@ -254,10 +176,10 @@
             </div>
         </div>
     </section>
-    <!-- clients -- end  -->
+    <!-- clients end  -->
     <!-- testimonials  -->
     <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
+    <!-- testimonials end  -->
     <!-- browse-project  -->
     <section class="browse-project section-padding">
         <div class="container">
@@ -273,14 +195,14 @@
             </div>
         </div>
     </section>
-    <!-- browse-project -- end -->
+    <!-- browse-project end -->
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
             <h2 class="section-title">Get to know us and what we do</h2>
             <div class="video-container section-margin">
-                <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
-                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                <iframe class="video-iframe" height="650" style="width:100%;border:0;" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
+                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
         </div>
@@ -304,7 +226,7 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <img src="assets/images/events/workshop-on-accelerating design-decisions.jpeg" alt="Project Image" class="img-fluid project-image" />
+                                    <img src="assets/images/events/workshop-on-accelerating-design-decisions.jpeg" alt="Project Image" class="img-fluid project-image" />
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <h2 class="project-title">
@@ -328,7 +250,7 @@
             </div>
         </div>
     </section>
-    <!-- design-events -- end -->
+    <!-- design-events end -->
 
 
 
@@ -347,9 +269,8 @@
             </div>
         </div>
     </section>
-    <!-- recent-blogs - end  -->
+    <!-- recent-blogs end  -->
 
-    <?php include $path . 'components/registration-modal.php'; ?>
 
     <?php 
         $title = 'Submit Enquiry'; 

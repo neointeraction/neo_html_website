@@ -20,11 +20,11 @@
                   aria-expanded="false"
                   aria-label="Toggle navigation"
                   id="mobileToggle">
-                  <div class="hamburger navbar-toggler-icon">
+                  <span class="hamburger navbar-toggler-icon">
                     <span></span>
                     <span></span>
                     <span></span>
-                  </div>
+                  </span>
                 </button>
                 <div
                   class="collapse navbar-collapse justify-content-end"
@@ -56,5 +56,3 @@
         </div>
       </div>
     </nav>
-
-    <!-- navbar -- end  -->
