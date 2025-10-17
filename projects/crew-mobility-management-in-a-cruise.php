@@ -3,13 +3,13 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
     <meta name="description"
         content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-    <link rel="canonical" href="" />
+    <link rel="canonical" href="<?php echo $base_url; ?>blogs" />
     <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
     <meta property="og:description"
         content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />

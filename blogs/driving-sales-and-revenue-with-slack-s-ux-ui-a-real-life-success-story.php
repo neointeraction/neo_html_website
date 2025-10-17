@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Driving Sales and Revenue with Slack's UX/UI: A Real-Life Success Story</title>
     <meta name="description"
         content="See how strategic UX/UI design boosted user engagement and revenue in a real-life case study of Slack's success." />

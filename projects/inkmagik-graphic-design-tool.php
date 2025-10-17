@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Inkmagik | Graphic Design Tool | Neointeraction Design</title>
     <meta name="description"
         content="Inkmagik DIY design tool developed by Neointeraction Team. Create marketing designs effortlessly to boost your brand's visual appeal." />

@@ -12,9 +12,9 @@ include_once 'includes/tracking-functions.php';
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Digital Transformation services in india | Neointeraction Design | Contact us</title>
     <meta name="description"
         content="Unlock the full potential of your business with our digital transformation services in India. Contact us today for your digital transformation journey." />

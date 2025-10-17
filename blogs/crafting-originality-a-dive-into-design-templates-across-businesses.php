@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Crafting Originality: A Dive into Design Templates Across Businesses</title>
     <meta name="description"
         content="Design templates have become indispensable tools for businesses and designers. Learn about them and how to bring originality while using them." />

@@ -3,9 +3,9 @@
 
 <head>
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
   <?php include $path . 'includes/favicon.php'; ?>
   <?php include $path . 'includes/css.php'; ?>
-  <?php include $path . 'includes/head-additional-scripts.php'; ?>
 
   <title>Join our Design and Technology team |  Neointeraction Design</title>
   <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
@@ -62,11 +62,11 @@
       ];
       $context  = stream_context_create($options);
       $api_response = file_get_contents($api_url, false, $context);
-      echo "<!-- API Response: " . htmlspecialchars($api_response) . " -->"; // Output API response as HTML comment
+     // echo "<!-- API Response: " . htmlspecialchars($api_response) . " -->"; // Output API response as HTML comment
 
       if ($api_response === FALSE) {
           error_log("Error fetching job roles from API.");
-          echo '<p>Error: Could not fetch job listings from the API. Please check server logs for details.</p>';
+          // echo '<p>Error: Could not fetch job listings from the API. Please check server logs for details.</p>';
           $json_data = file_get_contents('data/job_listing_data.json');
       } else {
           $decoded_response = json_decode($api_response, true);
@@ -78,12 +78,12 @@
                   $json_data = json_encode($jobs_to_save);
               } else {
                   error_log("Error: 'jobRoles' key missing in API response.");
-                  echo '<p>Error: API response missing "jobRoles" key. Using existing job listings.</p>';
+                  // echo '<p>Error: API response missing "jobRoles" key. Using existing job listings.</p>';
                   $json_data = file_get_contents('data/job_listing_data.json');
               }
           } else {
               error_log("Error decoding API response: " . json_last_error_msg());
-              echo '<p>Error: Could not decode API response. Using existing job listings. JSON Error: ' . json_last_error_msg() . '</p>';
+              // echo '<p>Error: Could not decode API response. Using existing job listings. JSON Error: ' . json_last_error_msg() . '</p>';
               $json_data = file_get_contents('data/job_listing_data.json');
           }
       }
@@ -115,7 +115,7 @@
                             </div>
                             </div>
                             <div class="col-md-2">
-                                  <a href="https://app.kapiree.com/info-candidate?id={$job['key']}"  target="_blank" class="btn btn-custom btn-custom-secondary" "target="_blank">Apply Now</a>
+                                  <a href="https://app.kapiree.com/info-candidate?id={$job['key']}"  target="_blank" class="btn btn-custom btn-custom-secondary">Apply Now</a>
                             </div>
                           </div>
                          
@@ -225,12 +225,13 @@ HTML;
       </div>
     </div>
   </section>
-  <!-- business-success -- end  -->
-  <!-- banner -- end  -->
+  <!-- business-success end  -->
+  <!-- banner  end  -->
   <?php $faq_tag = 'career'; include $path . 'components/faq.php'; ?>
   <?php include $path . 'components/footer.php'; ?>
   <?php include $path . 'includes/footer-additional-scripts.php'; ?>
   <?php include $path . 'includes/js.php'; ?>
+  <?php include $path . 'components/registration-modal.php'; ?>
 </body>
 
 </html>

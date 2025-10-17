@@ -3,29 +3,29 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations</title>
-    <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
-    <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
-    <link rel="canonical" href="https://www.neointeraction.com/blog" />
-    <meta property="og:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" />
-    <meta property="og:description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:url" content="https://www.neointeraction.com/blog" />
-    <meta property="og:site_name" content="Neointeraction Design" />
-    <meta property="og:type" content="website" />
-    <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" type="application/rss+xml" title="Neointeraction - RSS" />
-    <link rel="next" href="https://www.neointeraction.com/blogs" />
-    <meta name="google-site-verification" content="" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" />
-    <meta name="twitter:description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
+    <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" >
+    <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" >
+    <link rel="canonical" href="https://www.neointeraction.com/blog" >
+    <meta property="og:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" >
+    <meta property="og:description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" >
+    <meta property="og:image:width" content="1200" >
+    <meta property="og:image:height" content="630" >
+    <meta property="og:url" content="https://www.neointeraction.com/blog" >
+    <meta property="og:site_name" content="Neointeraction Design" >
+    <meta property="og:type" content="website" >
+    <link rel="alternate" href="https://www.neointeraction.com/blog-feed.xml" type="application/rss+xml" title="Neointeraction - RSS" >
+    <link rel="next" href="https://www.neointeraction.com/blogs" >
+    <meta name="google-site-verification" content="" >
+    <meta name="twitter:card" content="summary_large_image" >
+    <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" >
+    <meta name="twitter:description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" >
 </head>
 
 <body>
@@ -67,7 +67,7 @@
             </div>
         </div>
     </section>
-    <!-- banner -- end  -->
+    <!-- banner end  -->
     <!-- browse-project  -->
     <section class="browse-project section-padding">
         <div class="container">
@@ -105,7 +105,7 @@
             </div>
         </div>
     </section>
-    <!-- browse-project -- end -->
+    <!-- browse-project end -->
     <!-- recent-blogs  -->
     <section class="recent-blogs ">
         <div class="container">
@@ -154,7 +154,7 @@
             </div>
         </div>
     </section>
-    <!-- recent-blogs - end  -->
+    <!-- recent-blogs end  -->
 
     <!-- JavaScript for Load More functionality - ONLY CHANGED THE LINKING PART -->
     <script>

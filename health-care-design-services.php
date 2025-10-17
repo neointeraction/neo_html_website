@@ -12,9 +12,9 @@ include_once 'includes/tracking-functions.php';
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Healthcare Design India | Health care design services | Neointeraction Design</title>
   <meta name="description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions."/>
   <meta name="keywords" content="Healthcare Design India, Health care design services" />

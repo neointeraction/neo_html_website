@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>How Fintech apps depend on UI UX Design for its success?</title>
     <meta name="description"
         content="As technology continues to transform the finance sector, observe how they rely on UX design for long-term success." />

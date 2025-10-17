@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>How a UX design partner can benefit your company?</title>
     <meta name="description" content="A UX design partner will help boost business and fine tune your marketing presence in this digital transformation age." />
     <link rel="canonical" href="https://www.neointeraction.com/post/how-a-ux-design-partner-can-benefit-your-company" />

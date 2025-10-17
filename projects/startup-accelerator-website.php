@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Tech Startup Accelerator | Neointeraction Design</title>
     <meta name="description"
         content="We redesigned the website for India Accelerator, a leading tech startup accelerator in India and UAE, improving user experience and showcasing startups effectively." />

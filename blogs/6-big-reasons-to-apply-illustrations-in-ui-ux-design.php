@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>6 Big Reasons to Apply Illustrations in UI/UX design</title>
     <meta name="description" content="Illustration help amplify UI/UX Design through Visual storytelling, Translation And Interpretation." />
     <link rel="canonical" href="<?php echo $path; ?>blogs" />

@@ -12,9 +12,9 @@ include_once 'includes/tracking-functions.php';
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Best UI UX agency in UAE | UI UX Services | Neointeraction Design</title>
     <meta name="description" content="Neointeraction, a leading UI UX agency in the UAE, delivers expert UI UX services to improve user experiences and drive engagement with our expert design solutions." />
     <meta name="keywords" content="UI UX agency in UAE, UI UX Services" />

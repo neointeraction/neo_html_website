@@ -12,9 +12,9 @@ include_once 'includes/tracking-functions.php';
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Edtech Design services in India | Edtech company | Neointeraction Design</title>
   <meta name="description" content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions."/>
   <meta name="keywords" content="best Edtech UX/UI design services in India, Edtech design company" />

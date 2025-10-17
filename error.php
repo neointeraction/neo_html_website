@@ -2,9 +2,9 @@
 <html class="no-js" lang="en">
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>404 Page Not Found | Neointeraction</title>
     <meta name="description" content="The page you are looking for does not exist. Navigate back to our homepage to explore our UI/UX design and front-end development services."/>
     <meta name="keywords" content="404, page not found, UI/UX design, front-end development, neointeraction"/>

@@ -12,9 +12,9 @@ include_once 'includes/tracking-functions.php';
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Top UX Design services in India | UX Design company | Neointeraction Design</title>
     <meta name="description"
         content="Neointeraction Design offers top UX Design services in India, creating visually appealing and user-friendly websites for your business needs. Request a free quote today." />

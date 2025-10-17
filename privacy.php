@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Privacy Policy Protection - Stay Secure Online | Neointeraction </title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
@@ -44,7 +44,7 @@
             </div>
         </div>
     </section>
-    <!-- banner -- end  -->
+    <!-- banner end  -->
     <section class="privacy section-padding">
         <div class="container">
 

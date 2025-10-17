@@ -3,9 +3,10 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?> 
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?> <title>AI Driven Healthcare Consultation Platform |
+    <title>AI Driven Healthcare Consultation Platform |
         Neointeraction Design</title>
     <meta name="description"
         content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients." />

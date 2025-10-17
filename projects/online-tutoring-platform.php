@@ -2,6 +2,8 @@
 <html class="no-js" lang="en">
 
 <head>
+<?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+<?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Mobile App UX design for 90+ Online Tuition App | Neointeraction Design</title>
     <meta name="description"
         content="Explore Mobile App UX design for the 90+ Online Tuition App, an engaging platform for kids to learn and revise school concepts effectively." />
@@ -23,10 +25,9 @@
     <meta name="twitter:image"
         content="<?php echo $base_url; ?>assets/images/og/tutoring-platform-thumbnail.jpeg" />
     <meta name="twitter:card" content="summary" />
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+   
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>

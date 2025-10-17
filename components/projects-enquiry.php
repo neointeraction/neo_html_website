@@ -29,5 +29,4 @@ project to life!
       </div>
     </div>
   </section>
-  <?php include $path . 'components/registration-modal.php'; ?>
   <!--  

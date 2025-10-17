@@ -13,9 +13,9 @@ include_once 'includes/tracking-functions.php';
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Contact Neointeraction Design | Design Systems & Digital Products in India</title>
     <meta name="description" content="Discover the best digital products in India, including software, apps, and online services, designed to enhance your digital lifestyle and business efficiency.">
     <meta name="keywords" content="contact, support, inquiry, neointeraction" />

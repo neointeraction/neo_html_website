@@ -2,9 +2,9 @@
 <html class="no-js" lang="en">
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UX Design Team -Enhance User Experience |  Neointeraction Design</title>
     <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />

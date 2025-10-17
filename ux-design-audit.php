@@ -12,9 +12,9 @@ include_once 'includes/tracking-functions.php';
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Expert UX Design Audit in India | Neointeraction Design | Contact Us</title>
     <meta name="description"
         content="Boost your digital presence with our UX Design Audit services in India. Uncover actionable insights for user experiences and drive business growth." />

@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UX for livestock tracker | Cattle Tracking & Management solution | Neointeraction Design</title>
     <meta name="description"
         content="Livestock Tracker app consolidates inventory, saving ranchers time and ensuring accurate tracking with a seamless web and mobile experience." />

@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UX consultancy for football Player Transfer solution | Neointeraction Design</title>
     <meta name="description"
         content="UI UX redesign of FIFA clearing house International club's player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />

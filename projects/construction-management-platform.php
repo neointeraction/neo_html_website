@@ -2,6 +2,8 @@
 <html class="no-js" lang="en">
 
 <head>
+<?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+<?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Construction Management Platform | Neointeraction Design</title>
     <meta name="description"
         content="UX/UI design for a Construction Management Platform to simplify project scheduling and improving overall user experience." />
@@ -24,10 +26,9 @@
     <meta name="twitter:image"
         content="<?php echo $base_url; ?>assets/images/og/construction-management-thumbnail.jpeg" />
     <meta name="twitter:card" content="summary" />
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+   
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
 </head>
 
 <body>

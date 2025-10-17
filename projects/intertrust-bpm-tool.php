@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Intertrust BPM Tool | Neointeraction design | Contact Now</title>
     <meta name="description"
         content="BPM tools are designed to help organizations manage and improve business processes efficiently. Contact us to design similar projects." />

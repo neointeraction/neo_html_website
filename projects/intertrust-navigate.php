@@ -2,6 +2,8 @@
 <html class="no-js" lang="en">
 
 <head>
+<?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+<?php include $path . 'includes/head-additional-scripts.php'; ?>
 <title>Hedge Fund App UX Design | Neointeraction Design | Contact Now</title>
   <meta name="description" content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture."/>
   <link rel="canonical" href="https://www.neointeraction.com/hedge-fund-processing-experience-design"/>
@@ -18,10 +20,10 @@
   <meta name="twitter:description" content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture."/>
   <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-navigate-thumbnail.jpeg"/>
   <meta name="twitter:card" content="summary"/>
-    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
+  
 </head>
 
 <body>
