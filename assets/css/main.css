@@ -188,7 +188,7 @@ body {
   font-weight: 400;
   font-size: 32px;
   color: #58595a;
-  width: 560px;
+ width: 100%;
   line-height: 42px;
 }
 
@@ -199,7 +199,7 @@ body {
 }
 
 .banner-slider .banner-title {
-  width: 680px;
+  width: 100%
 }
 
 .banner-slider {
@@ -220,6 +220,9 @@ body {
 
 .banner-content {
   padding: 0;
+  text-align: center;
+
+  margin: 0 auto;
 }
 /* business-success  */
 
@@ -1631,9 +1634,9 @@ testimonial-card-detailed {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  a {
-    color: #EC1C24;
-  }
+}
+.project__header a {
+  color: #EC1C24;
 }
 .section-desc {
   font-weight: 400;
@@ -1790,4 +1793,3 @@ testimonial-card-detailed {
 .bs-button:hover .svg-arrow {
   fill: #2B2828;
 }
-
