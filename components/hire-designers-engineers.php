@@ -52,4 +52,4 @@
     </div>
   </section>
   <?php include $path . 'components/registration-modal.php'; ?>
-  <!-- banner-strip --end  -->
+  <!-- banner-strip end  -->

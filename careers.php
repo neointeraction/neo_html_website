@@ -34,7 +34,7 @@
     <?php include $path . 'components/navigation.php'; ?>
     <?php include $path . 'components/whatsapp.php'; ?>
   </div>
-  <!-- navbar -- end  -->
+  <!-- navbar  end  -->
   <!-- banner  -->
   <section class="career-banner section-padding">
     <div>

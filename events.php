@@ -81,7 +81,7 @@
         <?php include $path . 'components/navigation.php'; ?>
         <?php include $path . 'components/whatsapp.php'; ?>
     </div>
-    <!-- navbar -- end  -->
+    <!-- navbar  end  -->
     <!-- banner  -->
     <section class="event-banner section-padding">
         <div>

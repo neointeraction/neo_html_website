@@ -31,7 +31,7 @@
             <?php include $path.'components/navigation.php'; ?>
             <?php include $path.'components/whatsapp.php'; ?>
         </div>
-        <!-- navbar -- end  -->
+        <!-- navbar  end  -->
         
         <!-- Error Section -->
         <section class="error-page">

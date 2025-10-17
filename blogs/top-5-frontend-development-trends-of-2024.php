@@ -44,7 +44,7 @@ Staying up to date with technology in today’s world can make or break your bus
         <?php include $path.'components/navigation.php'; ?>
         <?php include $path.'components/whatsapp.php'; ?>
     </div>
-    <!-- navbar -- end  -->
+    <!-- navbar  end  -->
     <!-- banner  -->
     <section class="banner section-padding">
         <div class="container">

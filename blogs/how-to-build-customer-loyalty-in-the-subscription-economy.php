@@ -46,7 +46,7 @@ The rise of subscription-based services has brought forth the importance of user
         <?php include $path.'components/navigation.php'; ?>
         <?php include $path.'components/whatsapp.php'; ?>
     </div>
-    <!-- navbar -- end  -->
+    <!-- navbar  end  -->
     <!-- banner  -->
     <section class="banner section-padding">
         <div class="container">

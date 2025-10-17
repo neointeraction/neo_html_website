@@ -42,7 +42,7 @@ In today's digital age, the mobile-first revolution has become more than just a 
         <?php include $path.'components/navigation.php'; ?>
         <?php include $path.'components/whatsapp.php'; ?>
     </div>
-    <!-- navbar -- end  -->
+    <!-- navbar  end  -->
     <!-- banner  -->
     <section class="banner section-padding">
         <div class="container">

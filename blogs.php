@@ -56,7 +56,7 @@
         <?php include 'components/navigation.php'; ?>
         <?php include 'components/whatsapp.php'; ?>
     </div>
-    <!-- navbar -- end  -->
+    <!-- navbar  end  -->
     <!-- banner  -->
     <section class="banner heading-padding">
         <div>

@@ -60,7 +60,7 @@ include_once 'includes/tracking-functions.php';
         <?php include $path.'components/navigation.php'; ?>
         <?php include $path.'components/whatsapp.php'; ?>
     </div>
-    <!-- navbar -- end  -->
+    <!-- navbar  end  -->
     <!-- banner  -->
     <section class="contact-section section-padding">
         <div class="container">

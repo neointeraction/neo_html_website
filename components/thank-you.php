@@ -31,7 +31,7 @@
     <div class="navbar-container-block">
         <?php include $path.'components/navigation.php'; ?>
     </div>
-    <!-- navbar -- end  -->
+    <!-- navbar  end  -->
 
     <section class="thank-you-section">
             <div class="thank-you-container">

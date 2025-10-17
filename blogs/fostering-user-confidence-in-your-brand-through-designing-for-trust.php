@@ -38,7 +38,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
         <?php include $path.'components/navigation.php'; ?>
         <?php include $path.'components/whatsapp.php'; ?>
     </div>
-    <!-- navbar -- end  -->
+    <!-- navbar  end  -->
     <!-- banner  -->
     <section class="banner section-padding">
         <div class="container">
