@@ -231,7 +231,7 @@ The principle of proximity states that we perceive objects which are close to on
         </div>
 
     </section>
-    <!-- banner -- end  -->
+     
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>

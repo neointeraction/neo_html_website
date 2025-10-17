@@ -196,7 +196,7 @@
         </div>
     </section>
 
-    <!-- banner -- end  -->
+     
     <?php include $path . 'components/testimonial-participants.php'; ?>
 
     <div class="container">

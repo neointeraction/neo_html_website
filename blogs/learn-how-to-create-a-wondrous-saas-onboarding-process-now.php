@@ -206,7 +206,7 @@ With the increase in competition of the SaaS (Software-as-a-Service) industry, a
         </div>
 
     </section>
-    <!-- banner -- end  -->
+     
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>

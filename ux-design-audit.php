@@ -135,7 +135,7 @@ include_once 'includes/tracking-functions.php';
             </div>
         </div>
     </section>
-    <!-- banner -- end  -->
+     
 
 
 

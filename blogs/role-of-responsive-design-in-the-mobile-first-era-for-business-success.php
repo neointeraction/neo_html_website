@@ -200,7 +200,7 @@ In today's digital age, the mobile-first revolution has become more than just a 
         </div>
 
     </section>
-    <!-- banner -- end  -->
+     
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>

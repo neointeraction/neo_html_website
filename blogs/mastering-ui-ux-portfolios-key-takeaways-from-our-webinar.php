@@ -112,7 +112,7 @@ As the webinar unfolded, it transformed into a treasure trove of insights, givin
         </div>
 
     </section>
-    <!-- banner -- end  -->
+     
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>

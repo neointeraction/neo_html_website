@@ -338,7 +338,7 @@
         include $path . 'components/navigation-footer.php';
     ?>
 
-    <!-- banner -- end  -->
+     
     <?php include $path . 'components/projects-enquiry.php'; ?>
     <div class="mb-0 mb-sm-4"></div>
     <?php include $path . 'components/registration-modal.php'; ?>

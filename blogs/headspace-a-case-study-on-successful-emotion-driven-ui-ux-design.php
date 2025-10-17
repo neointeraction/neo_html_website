@@ -144,7 +144,7 @@ In summary, Headspace's success stems from its innovative emotion-driven design,
         </div>
 
     </section>
-    <!-- banner -- end  -->
+     
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
