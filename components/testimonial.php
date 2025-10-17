@@ -25,7 +25,7 @@ $testimonials = json_decode($json_data, true);
                         class="author-image" 
                         width="60"
                         height="60"
-                      />
+                      >
                       <div class="author-details">
                         <span class="author-name"><?php echo $testimonial['author_name']; ?></span>
                         <span class="author-title"><?php echo $testimonial['author_title']; ?></span>
@@ -51,7 +51,7 @@ $testimonials = json_decode($json_data, true);
                   class="author-image" 
                         width="60"
                         height="60"
-                      />
+                      >
                 <div class="author-details">
                   <span class="author-name"><?php echo $testimonial['author_name']; ?></span>
                   <span class="author-title"><?php echo $testimonial['author_title']; ?></span>

@@ -13,10 +13,10 @@
         </div>
         <div class="col-12 col-md-6 text-md-end footer-social-icons">
           <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/linkedin.svg" alt="linkedin" /></a>
-          <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/ig.svg" alt="ig" /></a>
-          <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/fb.svg" alt="fb" /></a>
-          <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/db.svg" alt="db" /></a>
-          <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/med.svg" alt="medium" /></a>
+          <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/ig.svg" alt="ig" ></a>
+          <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/fb.svg" alt="fb" ></a>
+          <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/db.svg" alt="db" ></a>
+          <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/med.svg" alt="medium" ></a>
         </div>
       </div>
 

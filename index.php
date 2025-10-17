@@ -6,22 +6,22 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
-    <meta name="description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." />
-    <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" />
-    <link rel="canonical" href="<?php echo $base_url; ?>blog" />
-    <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design" />
-    <meta property="og:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:url" content="<?php echo $base_url; ?>blog" />
-    <meta property="og:site_name" content="Neointeraction Design" />
-    <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
-    <meta name="twitter:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta name="description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
+    <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" >
+    <link rel="canonical" href="<?php echo $base_url; ?>blog" >
+    <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design" >
+    <meta property="og:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" >
+    <meta property="og:image:width" content="1200" >
+    <meta property="og:image:height" content="630" >
+    <meta property="og:url" content="<?php echo $base_url; ?>blog" >
+    <meta property="og:site_name" content="Neointeraction Design" >
+    <meta property="og:type" content="website" >
+    <meta name="google-site-verification" content="" >
+    <meta name="twitter:card" content="summary_large_image" >
+    <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" >
+    <meta name="twitter:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" >
 </head>
 
 <body>
@@ -51,7 +51,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="banner-img-block">
-                                <img src="<?php echo $path; ?>assets/images/banner/globe.jpg" alt="banner" />
+                                <img src="<?php echo $path; ?>assets/images/banner/globe.jpg" alt="banner" >
                             </div>
                         </div>
                     </div>
@@ -71,7 +71,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/ux.svg" alt="ux" />
+                                <img src="assets/images/ux.svg" alt="ux" >
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
@@ -87,7 +87,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/pd.svg" alt="pd" />
+                                <img src="assets/images/pd.svg" alt="pd" >
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
@@ -102,7 +102,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/dt.svg" alt="dt" />
+                                <img src="assets/images/dt.svg" alt="dt" >
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
@@ -118,7 +118,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/fd.svg" alt="fd" />
+                                <img src="assets/images/fd.svg" alt="fd" >
                             </div>
                             <h4 class="title">Frontend Development</h4>
                             <p class="description">
@@ -201,9 +201,9 @@
         <div class="container">
             <h2 class="section-title">Get to know us and what we do</h2>
             <div class="video-container section-margin">
-                <iframe class="video-iframe" height="650" style="width:100%;border:0;" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
+                <iframe class="video-iframe" height="650" style="width:100%;border:0;border-radius: 0;" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
             </div>
         </div>
     </section>
@@ -226,7 +226,7 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <img src="assets/images/events/workshop-on-accelerating-design-decisions.jpeg" alt="Project Image" class="img-fluid project-image" />
+                                    <img src="assets/images/events/workshop-on-accelerating-design-decisions.jpeg" alt="Project Image" class="img-fluid project-image" >
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <h2 class="project-title">

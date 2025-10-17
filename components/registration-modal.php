@@ -11,7 +11,7 @@ include_once $path . 'includes/tracking-functions.php';
 ?>
 
 <!-- Registration Modal -->
-<div class="modal fade" id="registerModal" aria-labelledby="registerModalLabel" aria-hidden="true" tabindex="-1">
+<div class="modal fade" id="registerModal" aria-hidden="true" tabindex="-1">
     <div class="modal-dialog modal-dialog-centered ">
         <div class="modal-content">
             <div class="modal-body">
