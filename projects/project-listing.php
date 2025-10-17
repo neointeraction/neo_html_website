@@ -64,7 +64,7 @@
             <!-- Image Column -->
             <div class="col-md-6  img-container d-none d-md-block">
 
-                <img src="<?php echo $path; ?>assets/images/about-us/hire-content.jpeg"" alt=" Hire Designers/Front-end Engineers" class="img-fluid">
+                <img src="<?php echo $path; ?>assets/images/about-us/hire-content.jpeg" alt=" Hire Designers/Front-end Engineers" class="img-fluid">
 
             </div>
 

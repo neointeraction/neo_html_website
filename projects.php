@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>User Experience Design & User Interface Design in India | Neointeraction Design</title>
     <meta name="description"
         content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
@@ -129,11 +129,11 @@
 
 
 
-                <!-- project-listing -- end  -->
+                <!-- project-listing end  -->
             </div>
         </div>
     </section>
-    <!-- browse-project -- end -->
+    <!-- browse-project end -->
 
     <?php
         $title = "Submit Enquiry";
@@ -145,7 +145,7 @@
             <div class="row ui-card hire-engineers">
                 <!-- Image Column -->
                 <div class="col-md-6  img-container d-none d-md-block">
-                    <img src="<?php echo $path; ?>assets/images/about-us/hire-content.jpeg"" alt=" Hire Designers/Front-end Engineers" class="img-fluid">
+                    <img src="<?php echo $path; ?>assets/images/about-us/hire-content.jpeg" alt=" Hire Designers/Front-end Engineers" class="img-fluid">
                 </div>
 
                 <!-- Text and Button Column -->
@@ -176,7 +176,7 @@
         </button>
     </div>
 
-    <!-- project-listing -- end  -->
+    <!-- project-listing end  -->
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
@@ -241,7 +241,5 @@
     });
     </script>
 </body>
-
-</html>
 
 </html>

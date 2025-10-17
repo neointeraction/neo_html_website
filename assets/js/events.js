@@ -1,4 +1,3 @@
-
 let isUxAuditSubmitting = false;
 let current_url = window.location.href.split('/').slice(0, -1).join('/');
 function submitUxAuditForm() {

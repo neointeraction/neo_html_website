@@ -3,26 +3,26 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>About Neointeraction Design | Leading UI UX Design Agency in India</title>
     <meta name="description"
-        content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise." />
-    <link rel="canonical" href="https://www.neointeraction.com/about-us" />
-    <meta property="og:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
-    <meta property="og:description" content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
-    <meta property="og:image:width" content="600" />
-    <meta property="og:image:height" content="315" />
-    <meta property="og:url" content="https://www.neointeraction.com/about-us" />
-    <meta property="og:site_name" content="About Neointeraction Design" />
-    <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" />
-    <meta name="twitter:description" content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+        content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise." >
+    <link rel="canonical" href="https://www.neointeraction.com/about-us" >
+    <meta property="og:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" >
+    <meta property="og:description" content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise." >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" >
+    <meta property="og:image:width" content="600" >
+    <meta property="og:image:height" content="315" >
+    <meta property="og:url" content="https://www.neointeraction.com/about-us" >
+    <meta property="og:site_name" content="About Neointeraction Design" >
+    <meta property="og:type" content="website" >
+    <meta name="google-site-verification" content="" >
+    <meta name="twitter:card" content="summary_large_image" >
+    <meta name="twitter:title" content="Top UI UX Designer Developer in India | Expert UI UX Services" >
+    <meta name="twitter:description" content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise." >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" >
 </head>
 
 <body>
@@ -78,15 +78,15 @@
             </div>
         </div>
     </section>
-    <!-- banner -- end  -->
+    <!-- banner  end  -->
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
             <h2 class="section-title">Demo Video</h2>
             <div class="video-container section-margin">
-                <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share referrerpolicy="strict-origin-when-cross-origin"
-                    allowfullscreen style="border-radius: 0;"></iframe>
+                <iframe class="video-iframe" height="650" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" style="width:100%;border:0;border-radius: 0;" title="YouTube video player" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen ></iframe>
             </div>
         </div>
     </section>
@@ -104,7 +104,7 @@
             </div>
         </div>
     </section>
-    <!-- clients -- end  -->
+    <!-- clients  end  -->
     <!-- browse-project  -->
     <section class="browse-project section-padding">
         <div class="container">
@@ -122,13 +122,13 @@
                                     <!-- Image container with fixed height and object-fit for consistent appearance -->
                                     <div class="col-lg-6 p-0 project-image-container">
                                         <img src="<?php echo $path; ?>assets/images/projects/<?php echo $project['image']; ?>" alt="<?php echo $project['alt']; ?>" class="img-fluid project-image d-none d-md-block"
-                                            width="584" height="280" />
+                                            width="584" height="280" >
                                             <img
                                             src="<?php echo $path; ?>assets/images/projects/<?php echo $project['mobileImage']; ?>"
                                             alt="<?php echo $project['alt']; ?>"
                                             class="img-fluid project-image d-flex d-md-none" 
                                             width="584"
-                                            height="280"/>
+                                            height="280">
                                     </div>
                                     <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <div class="project-tags">
@@ -170,7 +170,7 @@
             </div>
         </div>
     </section>
-    <!-- browse-project -- end -->
+    <!-- browse-project end -->
     <!-- what-we-do  -->
     <section class="what-we-do section-padding">
         <div class="container">
@@ -218,7 +218,7 @@
             </div>
         </div>
     </section>
-    <!-- what-we-do -- end -->
+    <!-- what-we-do end -->
     <!-- our-team  -->
     <section class="our-team section-padding">
         <div class="container">
@@ -233,7 +233,7 @@
             </div>
         </div>
     </section>
-    <!-- our-team - end  -->
+    <!-- our-team end  -->
    
     <!-- life-at-neo  -->
     <section class="life-at-neo section-padding">
@@ -258,8 +258,7 @@
             </div>
         </div>
     </section>
-    <!-- browse-project -- end -->
-    <?php include $path . 'components/registration-modal.php'; ?>
+    <!-- browse-project  end -->
     <?php 
         $title = 'Hire Designers/Front-end Engineers'; 
         $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. ';
@@ -272,6 +271,7 @@
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>
+    <?php include $path . 'components/registration-modal.php'; ?>
 </body>
 
 </html>

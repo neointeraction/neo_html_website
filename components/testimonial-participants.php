@@ -77,8 +77,8 @@
                   src="<?php echo $testimonial['image']; ?>"
                   alt="<?php echo $testimonial['alt']; ?>"
                   class="author-image" 
-                        width="60px"
-                        height="60px"
+                        width="60"
+                        height="60"
                       />
                 <div class="author-details">
                   <span class="author-name"><?php echo $testimonial['name']; ?></span>

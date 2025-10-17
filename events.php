@@ -3,9 +3,9 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>Events on Design & Front End Technologies | Neointeraction Bangalore</title>
     <meta name="description"
         content="Neointeraction hosts events on UX research services in India. Join industry leaders to explore user experience strategies, design innovations, and front-end trends." />
@@ -107,7 +107,7 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <img src="assets/images/UX Audit 101.jpg" alt="Project Image" class="img-fluid project-image" />
+                                    <img src="assets/images/UX-Audit-101.jpg" alt="Project Image" class="img-fluid project-image" />
                                 </div>
                                 <div class="col-lg-6  flex-column justify-content-center project-content">
                                     <h2 class="project-title">
@@ -160,7 +160,7 @@
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img src="<?php echo $path; ?>assets/images/events/<?php echo $event['image']; ?>" alt="<?php echo $event['alt']; ?>"
-                                        class="img-fluid project-image" width="100%" height="auto" />
+                                        class="img-fluid project-image" style="width:100%;height:auto;" />
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <h2 class="project-title">
@@ -217,10 +217,10 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <iframe class="video-iframe" width="100%" height="280" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f"
-                                        title="YouTube video player" frameborder="0"
+                                    <iframe class="video-iframe" height="280" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f"
+                                        title="YouTube video player" 
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
+                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;width:100%;border:0;"></iframe>
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content" style="margin-bottom:7px">
                                     <h2 class="project-title">
@@ -248,10 +248,10 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <iframe class="video-iframe" width="100%" height="290" src="https://www.youtube.com/embed/6Y12RcoHwc4?si=y75cMFm8oaaivTfb"
-                                        title="YouTube video player" frameborder="0"
+                                    <iframe class="video-iframe" height="290" src="https://www.youtube.com/embed/6Y12RcoHwc4?si=y75cMFm8oaaivTfb"
+                                        title="YouTube video player"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
+                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;width:100%;border:0;"></iframe>
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content" style="margin-bottom:7px">
                                     <h2 class="project-title">

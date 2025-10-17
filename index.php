@@ -258,6 +258,7 @@
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>
+    <?php include $path . 'components/registration-modal.php'; ?>
 
 
 </body>

@@ -3,25 +3,25 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UI UX Design Services in India | UI UX Design Studio | Neointeraction Design</title>
-    <meta name="description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." />
-    <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-services" />
-    <meta property="og:title" content="UI UX Design Services in India | UI UX Design Studio | Neointeraction Design" />
-    <meta property="og:description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" />
-    <meta property="og:image:width" content="600" />
-    <meta property="og:image:height" content="315" />
-    <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-services" />
-    <meta property="og:site_name" content="Neointeraction Design" />
-    <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="UI UX Design Services in India | UI UX Design Studio | Neointeraction Design" />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" />
-    <meta name="twitter:description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." />
+    <meta name="description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." >
+    <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-services" >
+    <meta property="og:title" content="UI UX Design Services in India | UI UX Design Studio | Neointeraction Design" >
+    <meta property="og:description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" >
+    <meta property="og:image:width" content="600" >
+    <meta property="og:image:height" content="315" >
+    <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-services" >
+    <meta property="og:site_name" content="Neointeraction Design" >
+    <meta property="og:type" content="website" >
+    <meta name="google-site-verification" content="" >
+    <meta name="twitter:card" content="summary_large_image" >
+    <meta name="twitter:title" content="UI UX Design Services in India | UI UX Design Studio | Neointeraction Design" >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" >
+    <meta name="twitter:description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." >
 
 </head>
 
@@ -75,7 +75,7 @@
             </div>
         </div>
     </section>
-    <!-- banner -- end  -->
+    <!-- banner end  -->
     <!-- business-success  -->
     <section class="business-success section-padding">
         <div class="container">
@@ -178,10 +178,10 @@
             </div>
         </div>
     </section>
-    <!-- business-success -- end  -->
+    <!-- business-success end  -->
     <!-- testimonial  -->
     <?php include 'components/testimonial-detailed.php'; ?>
-    <!-- testimonial -- end -->
+    <!-- testimonial end -->
     <!-- engagement-modal  -->
     <section class="engagement-modal section-padding">
         <div class="container">
@@ -198,8 +198,7 @@
                                         src="<?php echo $path; ?>assets/images/services/resource-augmentation.jpeg"
                                         alt="Resource Augmentation"
                                         class="img-fluid project-image"
-                                        width="100%"
-                                        height="auto" />
+                                        style="width:100%;height:auto;" />
                                 </div>
                                 <div
                                     class="col-lg-6 d-flex flex-column justify-content-center project-content">
@@ -230,8 +229,7 @@
                                         src="<?php echo $path; ?>assets/images/services/team-based-hiring.jpeg"
                                         alt="Team-Based Hiring"
                                         class="img-fluid project-image"
-                                        width="100%"
-                                        height="auto" />
+                                        style="width:100%;height:auto;" />
                                 </div>
                                 <div
                                     class="col-lg-6 d-flex flex-column justify-content-center project-content">
@@ -256,7 +254,7 @@
             </div>
         </div>
     </section>
-    <!-- engagement-modal -- end -->
+    <!-- engagement-modal end -->
     <!-- hire designer  -->
     <?php 
         $title = 'Hire Designers/Front-end Engineers'; 
@@ -266,7 +264,7 @@
         $imageAlt = "Request a Quote";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
-    <!-- hire designer -- end  -->
+    <!-- hire designer  end  -->
     <!-- dev-cycle  -->
     <section class="dev-cycle section-padding">
         <div class="container">
@@ -329,7 +327,7 @@
             </div>
         </div>
     </section>
-    <!-- dev-cycle -- end -->
+    <!-- dev-cycle  end -->
     <!-- industry-experience  -->
     <section class="industry-experience section-padding">
         <div class="container">
@@ -398,7 +396,7 @@
             </div>
         </div>
     </section>
-    <!-- industry-experience -- end -->
+    <!-- industry-experience  end -->
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php $faq_tag = 'services';
     include 'components/faq.php'; ?>

@@ -3,26 +3,26 @@
 
 <head>
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-    <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UX Design Team - Improve User Experience |  Neointeraction Design</title>
-    <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
-    <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
-    <link rel="canonical" href="https://www.neointeraction.com/blog" />
-    <meta property="og:title" content="UX Design Team -Enhance User Experience |  Neointeraction Design" />
-    <meta property="og:description" content="India's leading UI/UX design company reveals their process for creating digital products with delightful CX and measurable business impact." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:url" content="" />
-    <meta property="og:site_name" content="Neointeraction Design" />
-    <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="UX Design Team -Enhance User Experience |  Neointeraction Design" />
-    <meta name="twitter:description" content="India's leading UI/UX design company reveals their process for creating digital products with delightful CX and measurable business impact." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" />
+    <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" >
+    <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" >
+    <link rel="canonical" href="https://www.neointeraction.com/blog" >
+    <meta property="og:title" content="UX Design Team -Enhance User Experience |  Neointeraction Design" >
+    <meta property="og:description" content="India's leading UI/UX design company reveals their process for creating digital products with delightful CX and measurable business impact." >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" >
+    <meta property="og:image:width" content="1200" >
+    <meta property="og:image:height" content="630" >
+    <meta property="og:url" content="" >
+    <meta property="og:site_name" content="Neointeraction Design" >
+    <meta property="og:type" content="website" >
+    <meta name="google-site-verification" content="" >
+    <meta name="twitter:card" content="summary_large_image" >
+    <meta name="twitter:title" content="UX Design Team -Enhance User Experience |  Neointeraction Design" >
+    <meta name="twitter:description" content="India's leading UI/UX design company reveals their process for creating digital products with delightful CX and measurable business impact." >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" >
 </head>
 
 <body>
@@ -58,13 +58,10 @@
         </div>
     </section>
 
-    <!-- banner -- end  -->
+    <!-- banner  end  -->
    
     <?php include $path . 'components/join-our-team.php'; ?>
 
-    <section class="our-team our-team-blocks mb-2">
-     
-    </section>
 
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
