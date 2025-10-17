@@ -78,22 +78,22 @@
                 </div>
 
                 <p class="blog-body-text">
-                    <b>3.1. Organizing: Conquering the Email Chaos</b></br>
+                    <b>3.1. Organizing: Conquering the Email Chaos</b> <br>
                     Conquer email chaos with tools like folders for broad categories ,labels for more specific sorting and filters to automate sorting based on sender or keywords.
                 </p>
 
                 <p class="blog-body-text">
-                    <b>3.2. Prioritization: Knowing What Matters Most</b></br>
+                    <b>3.2. Prioritization: Knowing What Matters Most</b> <br>
                     Don't let important emails get lost in the shuffle. Utilize flags to highlight critical messages, leverage Gmail email management built-in prioritization features to identify crucial emails based on sender or keywords, and create a "To-Do" list outside your inbox for actionable items.
                 </p>
 
                 <p class="blog-body-text">
-                    <b>3.3. Automation: Streamlining Repetitive Tasks</b></br>
+                    <b>3.3. Automation: Streamlining Repetitive Tasks</b> <br>
                     Save time and maintain consistency with pre-written templates for frequently used responses and automatic replies set up for times you're unavailable.
                 </p>
 
                 <p class="blog-body-text">
-                    <b>3.4. Collaboration: Working Together Seamlessly</b></br>
+                    <b>3.4. Collaboration: Working Together Seamlessly</b> <br>
                     For teams, features like shared inboxes for project-based collaboration and internal email forwarding with comments enable a more seamless email management workflow.
                 </p>
 
@@ -112,17 +112,17 @@
                 
 
                 <p class="blog-body-text">
-                    <b>4.1. Streamlining the Interface for Effortless Task Completion</b></br>
+                    <b>4.1. Streamlining the Interface for Effortless Task Completion</b> <br>
                     Gmail email management optimizes clean layout and minimizes visual clutter. A clear visual hierarchy allows for easy email scanning, task prioritization, and quick identification of relevant information within emails.
                 </p>
 
                 <p class="blog-body-text">
-                    <b>4.2. Prioritizing Important Emails: Leveraging AI to highlight crucial messages</b></br>
+                    <b>4.2. Prioritizing Important Emails: Leveraging AI to highlight crucial messages</b> <br>
                     Smart features like Summary Cards condense key information from emails like purchases, events, and bills. This allows you to focus on the most important details without having to open every email that's seen in google email management.
                 </p>
 
                 <p class="blog-body-text">
-                    <b>4.3. Customizing Gmail to Fit Your Workflow: Tailoring the inbox to individual needs</b></br>
+                    <b>4.3. Customizing Gmail to Fit Your Workflow: Tailoring the inbox to individual needs</b> <br>
                     Google email management empowers you to personalize your inbox experience. A wider range of options like labels, filters, and themes allows you to create a setup that aligns perfectly with your workflow. For example, filters can automatically categorize emails from specific senders or move them to designated folders, minimizing time spent sorting.
                 </p>
                 

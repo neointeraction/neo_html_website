@@ -86,7 +86,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    It is good to follow industry standards and best practices from product designing companies as it helps to keep consistency in functionalities, meets user expectations, reduces the learning curve, and also helps in maintaining consistency in the later stages of UI development using various frameworks or libraries such as react js, angular, flutter, vue, bootstrap, etc. Learn more about how the adoption of the React, Nextjs, and Strapi frameworks improved the Neointeraction Design website's page loading time and traffic <a href="">here</a>.</br>
+                    It is good to follow industry standards and best practices from product designing companies as it helps to keep consistency in functionalities, meets user expectations, reduces the learning curve, and also helps in maintaining consistency in the later stages of UI development using various frameworks or libraries such as react js, angular, flutter, vue, bootstrap, etc. Learn more about how the adoption of the React, Nextjs, and Strapi frameworks improved the Neointeraction Design website's page loading time and traffic <a href="">here</a>. <br>
                     This will also prevent confusion about the names and functionalities of elements. It will also help us convince clients of how certain functionalities behave or how users might use their product.
                 </p>
 

@@ -234,7 +234,7 @@
                     After which we started building each page and added interactions and slight animations to make the
                     website feel more alive. We used Bootstrap's grid layout to create a responsive website with ease.
                     In addition, we employed rem units for fonts, which aids in adjusting the font size according to the
-                    viewport.</br>
+                    viewport. <br>
                     To make sure the user will have a great experience on any device, we tested each page's
                     responsiveness after it was completed. We used an open-source Strapi headless cms to distribute
                     content consistently across devices. Make sure to hire the best UI UX developers and designers to

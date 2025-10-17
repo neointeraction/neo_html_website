@@ -137,7 +137,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    Few inspirational websites:</br>
+                    Few inspirational websites: <br>
                 <ul>
                     <li><a href="https://www.pinterest.com/" target="_blank">Pinterest</a></li>
                     <li><a href="https://savee.com/" target="_blank">Savee</a></li>

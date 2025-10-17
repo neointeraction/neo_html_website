@@ -121,7 +121,7 @@
 
 
                 <p class="blog-body-text">
-                    <b>Constraints</b></br>
+                    <b>Constraints</b> <br>
                     Even with their benefits, artificial users cannot substitute authentic user feedback. They work well alongside traditional research methods, offering extra data and insights to improve overall understanding.
                 </p>
 
@@ -137,17 +137,17 @@
                 </h4>
 
                 <p class="blog-body-text">
-                    <b>Early-Stage Concept Validation & Usability Testing</b></br>
+                    <b>Early-Stage Concept Validation & Usability Testing</b> <br>
                     Artificial users are extremely helpful during the initial phases of product creation, validating ideas and identifying usability issues before a large amount of resources are invested into the project.
                 </p>
 
                 <p class="blog-body-text">
-                    <b>Testing for Accessibility & Edge Cases</b></br>
+                    <b>Testing for Accessibility & Edge Cases</b> <br>
                     AI is able to replicate user interactions from different disabilities or unique situations, guaranteeing product accessibility for all individuals.
                 </p>
 
                 <p class="blog-body-text">
-                    <b>Gathering Baseline Data & Identifying Research Areas</b></br>
+                    <b>Gathering Baseline Data & Identifying Research Areas</b> <br>
                     Synthetic users can offer core data and point out areas for deeper exploration, helping to direct more targeted and efficient user research. According to Alves, Synthetic Users is particularly useful in scenarios where swift decision making is crucial and absolute certainty isn't required. (Source: <a href="https://www.nngroup.com/articles/synthetic-users/" target="_blank">Nielsen Norman Group</a>)
                 </p>
 
@@ -160,12 +160,12 @@
                 </h4>
 
                 <p class="blog-body-text">
-                    <b>Example 1: Shopify</b></br>
+                    <b>Example 1: Shopify</b> <br>
                     Shopify employed synthetic users to evaluate their new checkout system. Through simulating different user actions, they discovered multiple issues that were not noticeable during typical user testing. According to Shopify, this resulted in 50% reduction in cart abandonment and a 15% increase in conversion rates.
                 </p>
 
                 <p class="blog-body-text">
-                    <b>Example 2: Netflix</b></br>
+                    <b>Example 2: Netflix</b> <br>
                     Netflix utilized synthetic users to improve their recommendation system. Through simulating various viewing behaviors and preferences, they found patterns that improved the algorithm, making it better at recommending enjoyable content to users. This led to higher levels of user interaction and contentment.
                 </p>
 

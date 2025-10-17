@@ -146,7 +146,7 @@ HTML;
               <p class="description">
                 Real user insights to understand needs and pain points.
               </p>
-              <button class="btn btn-custom btn-custom-secondary">
+              <button class="btn btn-custom btn-custom-secondary" data-service="Mentorship" data-bs-toggle="modal" data-bs-target="#registerModal">
                 Hire Us
               </button>
             </div>
@@ -162,7 +162,7 @@ HTML;
               <p class="description">
                 Analyze interactions for actionable insights.
               </p>
-              <button class="btn btn-custom btn-custom-secondary">
+              <button class="btn btn-custom btn-custom-secondary" data-service="Analyze interactions" data-bs-toggle="modal" data-bs-target="#registerModal">
                 Hire Us
               </button>
             </div>
@@ -177,7 +177,7 @@ HTML;
               <p class="description">
                 Enhancing aesthetics and usability.
               </p>
-              <button class="btn btn-custom btn-custom-secondary">
+              <button class="btn btn-custom btn-custom-secondary" data-service="Functional design" data-bs-toggle="modal" data-bs-target="#registerModal">
                 Hire Us
               </button>
             </div>
@@ -192,7 +192,7 @@ HTML;
               <p class="description">
                 Gain Practical Insights in Transformative Workshops.
               </p>
-              <button class="btn btn-custom btn-custom-secondary">
+              <button class="btn btn-custom btn-custom-secondary" data-service="Gain Practical Insights" data-bs-toggle="modal" data-bs-target="#registerModal">
                 Hire Us
               </button>
             </div>
