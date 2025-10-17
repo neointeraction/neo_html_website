@@ -115,7 +115,7 @@
                             </div>
                             </div>
                             <div class="col-md-2">
-                                  <a href="https://app.kapiree.com/info-candidate?id={$job['key']}" class="btn btn-custom btn-custom-secondary" "target="_blank">Apply Now</a>
+                                  <a href="https://app.kapiree.com/info-candidate?id={$job['key']}"  target="_blank" class="btn btn-custom btn-custom-secondary" "target="_blank">Apply Now</a>
                             </div>
                           </div>
                          
