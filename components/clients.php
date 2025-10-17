@@ -12,12 +12,12 @@ $filtered_clients = array_filter($clients_data, function($client) use ($tag) {
 <div class="client-logo-flex" aria-hidden="true">
     <?php foreach ($filtered_clients as $client) { ?>
         <div class="clf-item">
-            <img src="<?php echo $path . $client['image']; ?>" alt="<?php echo $client['name']; ?>" width="auto" height="auto" />
+            <img src="<?php echo $path . $client['image']; ?>" alt="<?php echo $client['name']; ?>" />
         </div>
     <?php } ?>
     <?php foreach ($filtered_clients as $client) { ?>
         <div class="clf-item">
-            <img src="<?php echo $path . $client['image']; ?>" alt="<?php echo $client['name']; ?>" width="auto" height="auto" />
+            <img src="<?php echo $path . $client['image']; ?>" alt="<?php echo $client['name']; ?>" />
         </div>
     <?php } ?>
 </div>

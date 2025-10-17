@@ -7,7 +7,7 @@
     <?php include $path . 'includes/css.php'; ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
-    <meta name="description"content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." />
+    <meta name="description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." />
     <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="<?php echo $base_url; ?>blog" />
     <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design" />

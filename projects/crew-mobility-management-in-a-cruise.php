@@ -202,8 +202,13 @@
                         <h2 class="project-section-title">
                             How did our solutions help?
                         </h2>
-                        <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn">
-                            Download case study
+                            <button class="btn btn-custom case-study-webview "
+                                 data-service="crew-mobility-management-in-a-cruise"
+                                 data-bs-toggle="modal"
+                                 data-bs-target="#downloadCaseStudyModal"
+                                 data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                                 data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
+                          Download case study
                         </button>
                     </div>
                     <p class="project-body-text">
@@ -211,10 +216,15 @@
                         enhanced productivity. Beyond technical improvements, it transforms daily routines for a more
                         enjoyable and manageable experience.
                     </p>
-                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all"
-                        id="case-study-btn">
-                        Download case study
-                    </button>
+                
+                     <button class="btn btn-custom case-study-mobview ps-responsive-margin"
+                                 data-service="crew-mobility-management-in-a-cruise"
+                                 data-bs-toggle="modal"
+                                 data-bs-target="#downloadCaseStudyModal"
+                                 data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                                 data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
+                          Download case study
+                        </button>
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
                             <!-- Card 1 -->
