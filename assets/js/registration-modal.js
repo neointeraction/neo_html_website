@@ -191,7 +191,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (input.type === "requirement") {
                     const currentLength = this.value.length;
                     const maxLength = 200;
-                    const counter = document.getElementById("charCount");
+                    const counter = document.getElementById("char-counter"); // Corrected ID
                     
                     if (counter) {
                         counter.textContent = `${currentLength}/${maxLength} characters`;
@@ -227,15 +227,17 @@ document.addEventListener('DOMContentLoaded', function() {
             isRegistrationSubmitting = false; // Use new variable name
         });
     }
-});
 
-// Character counter for requirement textarea
-document.addEventListener('DOMContentLoaded', function() {
+    // Character counter for requirement textarea (consolidated)
     const requirementTextarea = document.getElementById('requirement');
-    const charCountDisplay = document.getElementById('charCount');
-    const maxLength = requirementTextarea.getAttribute('maxlength');
+    const charCountDisplay = document.getElementById('char-counter'); // Corrected ID
+    let maxLength = null;
 
-    if (requirementTextarea && charCountDisplay) {
+    if (requirementTextarea) {
+        maxLength = requirementTextarea.getAttribute('maxlength');
+    }
+
+    if (requirementTextarea && charCountDisplay && maxLength !== null) {
         function updateCharCount() {
             const currentLength = requirementTextarea.value.length;
             charCountDisplay.textContent = `${currentLength}/${maxLength} characters`;

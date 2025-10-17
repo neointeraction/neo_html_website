@@ -49,8 +49,8 @@ $testimonials = json_decode($json_data, true);
                   src="<?php echo $testimonial['author_image']; ?>"
                   alt="<?php echo $testimonial['alt']; ?>"
                   class="author-image" 
-                        width="60px"
-                        height="60px"
+                        width="60"
+                        height="60"
                       />
                 <div class="author-details">
                   <span class="author-name"><?php echo $testimonial['author_name']; ?></span>
