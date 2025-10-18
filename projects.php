@@ -131,50 +131,25 @@
 
                 <!-- project-listing end  -->
             </div>
+            <div class="load-more-btn-projects pt-0">
+                <button class="btn btn-custom btn-custom-secondary" id="loadMoreProjects">
+                    Load More
+                </button>
+            </div>
         </div>
     </section>
     <!-- browse-project end -->
+
+  
 
     <?php
         $title = "Submit Enquiry";
         $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
         $buttonName = "Request a Quote";
+        include $path . 'components/hire-designers-engineers.php';
     ?>
-    <section class="section-padding ">
-        <div class="container">
-            <div class="row ui-card hire-engineers">
-                <!-- Image Column -->
-                <div class="col-md-6  img-container d-none d-md-block">
-                    <img src="<?php echo $path; ?>assets/images/about-us/hire-content.jpeg" alt=" Hire Designers/Front-end Engineers" class="img-fluid">
-                </div>
-
-                <!-- Text and Button Column -->
-                <div class="col-md-6 ">
-                    <h2 class="bs-title"><?php echo $title; ?></h2>
-                    <p class="bs-text">
-                        <?php echo $desc; ?>
-                    </p>
-
-                    <button class="btn btn-custom btn-custom-secondary bs-button request-quote-btn" data-bs-toggle="modal" data-bs-target="#registerModal"
-                        data-service="<?php echo $buttonName; ?>" onclick="setEnquiryType('<?php echo $buttonName; ?>')">
-                        <?php echo $buttonName; ?>
-                    </button>
-
-                    <script>
-                    function setEnquiryType(enquiryType) {
-                        localStorage.setItem('enquiryType', enquiryType);
-                    }
-                    </script>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <div class="load-more-btn-projects">
-        <button class="btn btn-custom btn-custom-secondary" id="loadMoreProjects">
-            Load More
-        </button>
-    </div>
+  
+  
 
     <!-- project-listing end  -->
     <?php include $path . 'components/registration-modal.php'; ?>
