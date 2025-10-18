@@ -221,7 +221,7 @@ include_once 'includes/tracking-functions.php';
                 <h2 class="section-title">
                     Our Services
                 </h2>
-                <button class="btn btn-custom mb-2" data-service="Edtech" data-bs-toggle="modal" data-bs-target="#registerModal" style="width:fit-content;">
+                <button class="btn btn-custom mb-4" data-service="Edtech" data-bs-toggle="modal" data-bs-target="#registerModal" style="width:fit-content;">
                     Start your project
                 </button>
             </div>
