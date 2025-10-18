@@ -1,5 +1,5 @@
     <section class="banner section-padding">
-        <div class="banner-slider pb-5">
+        <div class="pb-5">
             <div>
                 <div class="container">
                     <div class="row">
