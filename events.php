@@ -272,7 +272,7 @@
 
     <!-- event-highlights  -->
 
-    <section class="event-highlights section-padding">
+    <section class="event-highlights section-padding mb-4">
         <div class="container">
             <div class="title-flex">
                 <h2 class="section-title">
@@ -300,7 +300,7 @@
                     <div class="project-block-item event-item-block">
                         <img src="assets/images/events/event-highlights_1.webp" alt="Creative Atmosphere" class="img-fluid project-image" />
                     </div>
-                    <div class="project-block-item event-item-block">s
+                    <div class="project-block-item event-item-block">
                         <img src="assets/images/events/event-highlights_2.webp" alt="Design Collaborations" class="img-fluid project-image" />
                     </div>
                 </div>
