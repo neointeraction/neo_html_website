@@ -298,13 +298,10 @@
             <div class="event-slider section-margin">
                 <div class="project-block event-slider-block">
                     <div class="project-block-item event-item-block">
-                        <img src="assets/images/life-at-neo/creative-atmosphere.jpeg" alt="Creative Atmosphere" class="img-fluid project-image" />
+                        <img src="assets/images/events/event-highlights_1.webp" alt="Creative Atmosphere" class="img-fluid project-image" />
                     </div>
-                    <div class="project-block-item event-item-block">
-                        <img src="assets/images/life-at-neo/design-collaborations.jpeg" alt="Design Collaborations" class="img-fluid project-image" />
-                    </div>
-                    <div class="project-block-item event-item-block">
-                        <img src="assets/images/life-at-neo/continuous-learning.jpeg" alt="Continuous Learning" class="img-fluid project-image" />
+                    <div class="project-block-item event-item-block">s
+                        <img src="assets/images/events/event-highlights_2.webp" alt="Design Collaborations" class="img-fluid project-image" />
                     </div>
                 </div>
             </div>
