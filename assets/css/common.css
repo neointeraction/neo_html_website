@@ -92,11 +92,9 @@ textarea.form-control {
 
 /* Thank You Page Styles */
 .thank-you-section {
-  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #f8f9fa;
   padding: 60px 20px;
 }
 
@@ -110,7 +108,6 @@ textarea.form-control {
   font-size: 72px;
   font-weight: 400;
   color: #333;
-  margin-bottom: 40px;
   line-height: 1.1;
 }
 
@@ -121,7 +118,8 @@ textarea.form-control {
 .email-icon {
   width: 240px;
   height: 120px;
-  margin: 100px auto 64px;
+  margin: 20px auto ;
+  margin-bottom: 40px;
   position: relative;
 }
 
@@ -285,12 +283,6 @@ textarea.form-control {
   justify-content: center;
 }
 
-.error-content h1 {
-  font-size: 50px;
-  font-weight: 700;
-  margin-bottom: 20px;
-  color: #333;
-}
 
 .error-content .red-text {
   color: #e74c3c;

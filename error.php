@@ -37,7 +37,7 @@
         <section class="error-page">
             <div class="container">
                 <div class="error-content">
-                    <h1>Whoops <span class="red-text">404 Error :(</span></h1>
+                    <h1 class="thank-you-title">Whoops <span class="red-text">404 Error :(</span></h1>
                     <img src="assets/images/common/404-error.svg" alt="404 Error">
                     <p>Oh no! It looks like a rogue pixel rebelled and disrupted your request, Let's find a better place for you to go</p>
                     <a href="<?php echo $base_url; ?>" class="btn-back">Back to Homepage</a>
