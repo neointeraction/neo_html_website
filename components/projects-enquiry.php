@@ -29,4 +29,3 @@ project to life!
       </div>
     </div>
   </section>
-  <!--  

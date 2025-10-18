@@ -46,7 +46,7 @@
                     Passionately crafting <span class="highlight">digital experiences</span>
                 </h1>
                 <div class="experience-block">
-                    <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-service="about us" data-bs-target="#registerModal">
                         Book A Consultation
                     </button>
                     <p class="banner-subtext">With over 15 years of experience, we've consistently worked with clients from diverse domains and delivered top-tier design solutions

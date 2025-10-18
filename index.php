@@ -51,7 +51,7 @@
                             <p class="description">
                                 Delivering seamless experiences that speak louder than words.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Home page" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -67,7 +67,7 @@
                             <p class="description">
                                 Shaping ideas into tangible user centric design solutions
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Product Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Home page" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -82,7 +82,7 @@
                             <p class="description">
                                 Crafting revolutionary aesthetics that redefine user interaction.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Digital Transformation" data-bs-toggle="modal"
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Home page" data-bs-toggle="modal"
                                 data-bs-target="#registerModal">
                                 Hire Us
                             </button>
@@ -99,7 +99,7 @@
                                 Bridging creativity and code for pixel-perfect user
                                 interfaces.
                             </p>
-                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Frontend Development" data-bs-toggle="modal"
+                            <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Home page" data-bs-toggle="modal"
                                 data-bs-target="#registerModal">
                                 Hire Us
                             </button>

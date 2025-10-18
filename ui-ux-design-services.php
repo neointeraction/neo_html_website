@@ -44,7 +44,7 @@
                     Design shaping <span class="highlight">digital experiences</span>
                 </h1>
                 <div class="experience-block">
-                    <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-service="services" data-bs-target="#registerModal">
                         Book A Consultation
                     </button>
                     <p class="banner-subtext">Neointeraction UX UI design agency with 15 years of expertise, has collaborated with various industry sectors and provided UX design & Frontend development services for business enterprises & startups to achieve their business goals.</p>
@@ -100,7 +100,7 @@
                                 <span class="badge">User Research</span>
                                 <span class="badge">Wireframing</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary" data-service="services" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -124,7 +124,7 @@
                                 <span class="badge">Rapid Prototyping</span>
                                 <span class="badge">Rapid Prototyping</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary" data-service="services" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -147,7 +147,7 @@
                                 <span class="badge">Design Documentation</span>
                                 <span class="badge">UX and UI Mastery</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary" data-service="services"  data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -169,7 +169,7 @@
                                 <span class="badge">Dynamic React Component Construction</span>
                                 <span class="badge">Crafting Interactive User Journeys</span>
                             </div>
-                            <button class="btn btn-custom btn-custom-secondary" data-bs-toggle="modal" data-bs-target="#registerModal">
+                            <button class="btn btn-custom btn-custom-secondary" data-service="services" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
                             </button>
                         </div>
@@ -212,7 +212,7 @@
                                         <li>Dedicated team collaboration fosters creativity</li>
                                         <li>Singular point of contact for streamlined communication</li>
                                     </ul>
-                                    <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                    <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-service="services" data-bs-target="#registerModal">
                                         Submit Enquiry
                                     </button>
                                 </div>
@@ -243,7 +243,7 @@
                                         <li>Dedicated team collaboration fosters creativity</li>
                                         <li>Singular point of contact for streamlined communication</li>
                                     </ul>
-                                    <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                    <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-service="services" data-bs-target="#registerModal">
                                         Submit Enquiry
                                     </button>
                                 </div>
