@@ -71,7 +71,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left">
                             <h1 class="banner-title">
-                            Transform Your <br> Product with Expert<br/> <span class="highlight">Front End <br/> Development Services in India</span>
+                            Transform Your <br> Product with Expert<br/> <span class="highlight">Front End <br/> Development <br/>Services in India</span>
                             </h1>
 
                             <div class="contact-info d-none d-md-block">

@@ -162,7 +162,7 @@ textarea.form-control {
 
   .contact-left,
   .contact-right {
-    padding: 40px 30px;
+    padding: 30px;
   }
 
   .contact-title {
@@ -196,6 +196,7 @@ textarea.form-control {
   .thank-you-message p {
     font-size: 16px;
   }
+  
 }
 
 /* Download Case study ================================================================= */
@@ -326,6 +327,7 @@ textarea.form-control {
   .custom-card {
     margin-bottom: 25px;
   }
+
 }
 
 /* End of Common Styles */

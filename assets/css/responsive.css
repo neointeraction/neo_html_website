@@ -464,6 +464,9 @@
     height: 350px;
   }
 
-
+  .form-title {
+    font-size: 28px;
+    font-weight: 400;
+  }
   
 }
