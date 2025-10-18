@@ -50,48 +50,6 @@
 
 <?php
     $projectCount++;
-    if ($projectCount === 4) { // Insert after every 4 projects
-      // include $path . 'components/submit-enquiry.php';
-        $title = "Submit Enquiry";
-        $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
-        $buttonName = "Request a Quote";
-  ?>
-
-
-<section class="section-padding ">
-    <div class="container">
-        <div class="row ui-card hire-engineers">
-            <!-- Image Column -->
-            <div class="col-md-6  img-container d-none d-md-block">
-
-                <img src="<?php echo $path; ?>assets/images/about-us/hire-content.jpeg" alt=" Hire Designers/Front-end Engineers" class="img-fluid">
-
-            </div>
-
-            <!-- Text and Button Column -->
-            <div class="col-md-6 ">
-                <h2 class="bs-title"><?php echo $title; ?></h2>
-                <p class="bs-text">
-                    <?php echo $desc; ?>
-                </p>
-
-                <button class="btn btn-custom btn-custom-secondary bs-button request-quote-btn" data-bs-toggle-modal" data-bs-target="#registerModal"
-                    data-service="<?php echo $buttonName; ?>" onclick="setEnquiryType(<?php echo $buttonName; ?>)">
-                    <?php echo $buttonName; ?>
-                </button>
-
-                <script>
-                function setEnquiryType(enquiryType) {
-                    localStorage.setItem('enquiryType', enquiryType);
-                }
-                </script>
-            </div>
-        </div>
-    </div>
-</section>
-
-<?php
     }
   }
 ?>
-
