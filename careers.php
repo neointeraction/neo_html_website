@@ -50,8 +50,10 @@
     <div class="container">
       <h2 class="section-title">Current Openings</h2>
       <?php
-      $api_url = 'https://api.kapiree.com/api/v1/plugin/getJobRolesUnderOrganization&id=02dbfc78-53dd-43f2-985c-726a851a70dd';
-      $payload = json_encode([70]);
+      $api_url = 'https://api.kapiree.com/api/v1/plugin/getJobRolesUnderOrganization';
+      $payload = json_encode([
+        "orgId" => 70
+      ]);
 
       $options = [
           'http' => [
@@ -62,45 +64,42 @@
       ];
       $context  = stream_context_create($options);
       $api_response = file_get_contents($api_url, false, $context);
-     // echo "<!-- API Response: " . htmlspecialchars($api_response) . " -->"; // Output API response as HTML comment
 
-      if ($api_response === FALSE) {
+      $response = json_decode($api_response, true);
+      if ($response['status'] != 'success') {
           error_log("Error fetching job roles from API.");
-          // echo '<p>Error: Could not fetch job listings from the API. Please check server logs for details.</p>';
           $json_data = file_get_contents('data/job_listing_data.json');
       } else {
-          $decoded_response = json_decode($api_response, true);
-          if (json_last_error() === JSON_ERROR_NONE) {
-              echo "<!-- Decoded API Response: " . htmlspecialchars(json_encode($decoded_response)) . " -->"; // Output decoded response
-              if (isset($decoded_response['jobRoles'])) {
-                  $jobs_to_save = $decoded_response['jobRoles'];
-                  file_put_contents('data/job_listing_data.json', json_encode($jobs_to_save, JSON_PRETTY_PRINT));
-                  $json_data = json_encode($jobs_to_save);
-              } else {
-                  error_log("Error: 'jobRoles' key missing in API response.");
-                  // echo '<p>Error: API response missing "jobRoles" key. Using existing job listings.</p>';
-                  $json_data = file_get_contents('data/job_listing_data.json');
-              }
+          if ($response['data']) {
+              // $jobs_to_save = $response['data'];
+              // file_put_contents('data/job_listing_data.json', json_encode($jobs_to_save, JSON_PRETTY_PRINT));
+              $json_data = $response['data'];
           } else {
-              error_log("Error decoding API response: " . json_last_error_msg());
-              // echo '<p>Error: Could not decode API response. Using existing job listings. JSON Error: ' . json_last_error_msg() . '</p>';
               $json_data = file_get_contents('data/job_listing_data.json');
           }
       }
 
-      $jobs = json_decode($json_data, true);
+
 
       if (json_last_error() !== JSON_ERROR_NONE) {
         echo '<p>Error reading job listings.</p>';
       } else {
-        $openings = array_filter($jobs, function ($job) {
+        $openings = array_filter($json_data, function ($job) {
           return $job['displayOnWeb'];
         });
+
+        $total = count($openings);
+
+        $showcount = 10;
+        $id = 0;
 
         if (empty($openings)) {
           echo '<p>No open positions at the moment. Please check back later.</p>';
         } else {
           foreach ($openings as $index => $job) {
+            if($id >= $showcount) break;
+            $id++;
+
             $description = nl2br(htmlspecialchars($job['roleDiscription']));
             echo <<<HTML
                         <div class="job-posting">
@@ -127,6 +126,12 @@ HTML;
       ?>
     </div>
   </section>
+
+  <div class="load-more-btn-projects py-4">
+        <button class="btn btn-custom btn-custom-secondary" id="loadMoreProjects">
+            Load More
+        </button>
+    </div>
 
   <!-- business-success  -->
   <section class="business-success section-padding">

@@ -30,4 +30,3 @@
     </div>
   </section>
   <?php include $path . 'components/registration-modal.php'; ?>
-  <!--  

@@ -231,10 +231,11 @@
                 ?>
 
             </div>
-            <?php include $path.'components/submit-enquiry.php'; ?>
         </div>
-
     </section>
+
+
+    <?php include $path.'components/submit-enquiry.php'; ?>
      
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
