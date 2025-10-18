@@ -29,53 +29,8 @@
 <body>
     <?php
     $page = 'Events';
-    $events = [
-        [
-            'title' => 'Micro Frontend Architecture Driving User Experience',
-            'description' => '1-Day workshop on how to implement Micro Frontend Architecture in large-scale applications for streamlined development and to enhance digital interactions curated for Frontend Development Engineers.',
-            'image' => 'micro-frontend-architecture.jpeg',
-            'alt' => 'Micro Frontend Architecture Driving User Experience',
-            // 'link' => 'micro-frontend-architecture-driving-user-experience.php',
-             'link' =>'blogs/takeaways-from-our-1-day-workshop-on-micro-frontend-architecture'
-        ],
-        [
-            'title' => 'Effective Methods to Accelerate Design decisions',
-            'description' => 'A one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product Designers to elevate their product experiences and uplift their design career path.',
-            'image' => 'effective-methods-to-accelerate-design-decisions.jpeg',
-            'alt' => 'Effective Methods to Accelerate Design decisions',
-            // 'link' => 'effective-methods-to-accelerate-design-decisions.php'
-             'link' =>'blogs/takeaways-from-our-1-day-ux-design-workshop'
-        ],
-        [
-            'title' => 'Simplifying Logo Design with Grids',
-            'description' => 'Learn expert techniques and strategies that will help you create simpler, more impactful logos using grid systems',
-            'image' => 'simplifying-logo-design-with-grids.jpeg', // Placeholder, will update with correct image
-            'alt' => 'Simplifying Logo Design with Grids',
-            'link' => ''
-        ],
-        [
-            'title' => 'Introduction to Micro frontend Architecture',
-            'description' => 'Learn key benefits, best practices, and real-world applications for your development process.',
-            'image' => 'introduction-to-micro-frontend-architecture.jpeg', // Placeholder, will update with correct image
-            'alt' => 'Introduction to Micro frontend Architecture',
-            'link' => ''
-        ],
-        [
-            'title' => 'How to make your UX UI Portfolio standout',
-            'description' => 'Mastering UI/UX Portfolios: Key Takeaways from Our Webinar on how to design a standout portfolio and make a lasting a lasting impression.',
-            'image' => 'how-to-make-your-ux-ui-portfolio-standout.jpeg', // Placeholder, will update with correct image
-            'alt' => 'How to make your UX UI Portfolio standout',
-            'link' => 'blogs/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar'
-        ],
-        [
-            'title' => 'Introduction to Micro frontend Architecture',
-            'description' => 'Explored the transformative potential of micro front-end architecture with real-world use cases in our recent workshop.',
-            'image' => 'introduction-to-micro-frontend-architecture-2.jpeg', // Placeholder, will update with correct image
-            'alt' => 'Introduction to Micro frontend Architecture',
-            'link' => ''
-        ]
-
-    ];
+    $events_json = file_get_contents($path . 'data/events_data.json');
+    $events = json_decode($events_json, true);
     ?>
     <?php include $path . 'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
@@ -109,7 +64,7 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <img src="assets/images/UX-Audit-101.jpg" alt="Project Image" class="img-fluid project-image" />
+                                    <img src="assets/images/events/UX-Audit-101.webp" alt="Project Image" class="img-fluid project-image" />
                                 </div>
                                 <div class="col-lg-6  flex-column justify-content-center project-content">
                                     <h2 class="project-title">
@@ -144,7 +99,7 @@
         $title = 'Submit Enquiry'; 
         $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.';
         $buttonName = 'Request a Quote';
-        $imageLink = "assets/images/homepage-contact-us.jpg";
+        $imageLink = "assets/images/about-us/hire-ui.webp";
         $imageAlt = "Request a Quote";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
