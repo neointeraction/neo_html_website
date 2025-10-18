@@ -35,42 +35,44 @@
             'description' => '1-Day workshop on how to implement Micro Frontend Architecture in large-scale applications for streamlined development and to enhance digital interactions curated for Frontend Development Engineers.',
             'image' => 'micro-frontend-architecture.jpeg',
             'alt' => 'Micro Frontend Architecture Driving User Experience',
-            'link' => 'micro-frontend-architecture-driving-user-experience.php'
+            // 'link' => 'micro-frontend-architecture-driving-user-experience.php',
+             'link' =>'blogs/takeaways-from-our-1-day-workshop-on-micro-frontend-architecture'
         ],
         [
             'title' => 'Effective Methods to Accelerate Design decisions',
             'description' => 'A one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product Designers to elevate their product experiences and uplift their design career path.',
             'image' => 'effective-methods-to-accelerate-design-decisions.jpeg',
             'alt' => 'Effective Methods to Accelerate Design decisions',
-            'link' => 'effective-methods-to-accelerate-design-decisions.php'
+            // 'link' => 'effective-methods-to-accelerate-design-decisions.php'
+             'link' =>'blogs/takeaways-from-our-1-day-ux-design-workshop'
         ],
         [
             'title' => 'Simplifying Logo Design with Grids',
             'description' => 'Learn expert techniques and strategies that will help you create simpler, more impactful logos using grid systems',
             'image' => 'simplifying-logo-design-with-grids.jpeg', // Placeholder, will update with correct image
             'alt' => 'Simplifying Logo Design with Grids',
-            'link' => 'simplifying-logo-design-with-grids.php'
+            'link' => ''
         ],
         [
             'title' => 'Introduction to Micro frontend Architecture',
             'description' => 'Learn key benefits, best practices, and real-world applications for your development process.',
             'image' => 'introduction-to-micro-frontend-architecture.jpeg', // Placeholder, will update with correct image
             'alt' => 'Introduction to Micro frontend Architecture',
-            'link' => 'introduction-to-micro-frontend-architecture.php'
+            'link' => ''
         ],
         [
             'title' => 'How to make your UX UI Portfolio standout',
             'description' => 'Mastering UI/UX Portfolios: Key Takeaways from Our Webinar on how to design a standout portfolio and make a lasting a lasting impression.',
             'image' => 'how-to-make-your-ux-ui-portfolio-standout.jpeg', // Placeholder, will update with correct image
             'alt' => 'How to make your UX UI Portfolio standout',
-            'link' => 'how-to-make-your-ux-ui-portfolio-standout.php'
+            'link' => 'blogs/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar'
         ],
         [
             'title' => 'Introduction to Micro frontend Architecture',
             'description' => 'Explored the transformative potential of micro front-end architecture with real-world use cases in our recent workshop.',
             'image' => 'introduction-to-micro-frontend-architecture-2.jpeg', // Placeholder, will update with correct image
             'alt' => 'Introduction to Micro frontend Architecture',
-            'link' => 'introduction-to-micro-frontend-architecture-2.php'
+            'link' => ''
         ]
 
     ];
@@ -169,10 +171,12 @@
                                     <p class="project-description">
                                         <?php echo $event['description']; ?>
                                     </p>
+                                    <?php if($event['link']){ ?>
                                     <button class="btn btn-custom btn-custom-secondary em-btn" onclick="location.href='<?php echo $rootPath . $event['link']; ?>';"
                                         style="cursor: pointer;">
                                         View More
                                     </button>
+                                    <?php } ?>
                                 </div>
                             </div>
                         </div>
@@ -207,7 +211,7 @@
             life.</p>
     </div>
 
- 
+
 
     <section>
         <div class="container">
@@ -217,7 +221,7 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <iframe class="video-iframe" height="280" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=TgzP8kdXa-K0HT4f"
+                                    <iframe class="video-iframe" height="280" src="https://www.youtube.com/embed/ag_Y_vApTp8?si=LDc4iJk334QIn4JA"
                                         title="YouTube video player" 
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;width:100%;border:0;"></iframe>
@@ -227,10 +231,6 @@
                                         Micro frontend architecture workshop
                                     </h2>
                                     <p class="body-text m-0">A hands-on session exploring user-centered design principles, practical tools, and real-world case studies to craft better digital experiences</p>
-                                    <button class="btn btn-custom btn-custom-secondary em-btn" onclick="location.href='<?php echo $rootPath . $event['link']; ?>';"
-                                        style="cursor: pointer;">
-                                        View More
-                                    </button>
                                 </div>
                             </div>
                         </div>
@@ -259,10 +259,6 @@
                                     </h2>
                                     <p class="body-text">A hands-on session exploring user-centered design principles, practical tools, and real-world case studies to craft better
                                         digital experiences</p>
-                                    <button class="btn btn-custom btn-custom-secondary em-btn" onclick="location.href='<?php echo $rootPath . $event['link']; ?>';"
-                                        style="cursor: pointer;">
-                                        View More
-                                    </button>
                                 </div>
                             </div>
                         </div>
@@ -318,6 +314,7 @@
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>
+    <?php include $path . 'components/registration-modal.php'; ?>
 </body>
 
 </html>

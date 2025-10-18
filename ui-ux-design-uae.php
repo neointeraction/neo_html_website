@@ -140,8 +140,8 @@ include_once 'includes/tracking-functions.php';
             <h2 class="section-title">
             Middle east Clients we’ve partnered with
             </h2>
-            <div class="scroll-client-container section-margin">
-                <div class="d-flex flex-column  scrolling-client-logos justify-content-between">
+            <div class="scroll-container section-margin">
+            <div class="scrolling-logos">
                     <?php 
                         $client_tag = 'uae';
                     include 'components/clients.php'; ?>
@@ -504,6 +504,7 @@ include_once 'includes/tracking-functions.php';
     <!-- testimonials  -->
     <?php $faq_tag = 'uae'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->
+    <div class="mb-4 mb-md-0"></div>
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>

@@ -427,6 +427,7 @@ include_once 'includes/tracking-functions.php';
     <!-- testimonials  -->
     <?php $faq_tag = 'usa'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->
+    <div class="mb-4 mb-md-0"></div>
     <?php include $path . 'components/registration-modal.php'; ?>
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
