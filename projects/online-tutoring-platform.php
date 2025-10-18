@@ -203,7 +203,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Enhanced User Engagement</h4>
+                                    <h4 class="title">Improved User Engagement</h4>
                                     <p class="description">
                                     The redesigned UI attracted a significant number of customers
                                     </p>

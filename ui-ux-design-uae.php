@@ -218,11 +218,11 @@ include_once 'includes/tracking-functions.php';
 
     <section class="business-success section-padding">
         <div class="container">
-            <div class="d-flex justify-content-between align-items-end mb-2">
+            <div class="d-flex flex-column flex-md-row justify-content-md-between align-items-md-end mb-2">
                 <h2 class="section-title">
                     Our Services
                 </h2>
-                <button class="btn btn-custom d-none d-md-block" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                <button class="btn btn-custom mb-2" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal" style="width:fit-content;">
                     Start your project
                 </button>
             </div>
@@ -279,9 +279,6 @@ include_once 'includes/tracking-functions.php';
                     </div>
                 </div>
             </div>
-            <button class="btn btn-custom d-flex d-md-none" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
-                Start your project
-            </button>
         </div>
     </section>
 
