@@ -238,39 +238,39 @@ include_once 'includes/tracking-functions.php';
             <h2 class="section-title">Our Development Process</h2>
             <div class="what-we-do-block section-margin">
                 <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/dynamic_feed.svg" alt="qa" />
                             <p class="wwd-text">Dynamic Component Construction</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/flowchart.svg" alt="value" />
                             <p class="wwd-text">Crafting Interactive User Journeys</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/responsive.svg" alt="optimise" />
                             <p class="wwd-text">Responsive Design Implementation</p>
                         </div>
                     </div>
 
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/check-circle.svg" alt="data" />
                             <p class="wwd-text">Business Flow Validation</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="plane" />
                             <p class="wwd-text">Seamless Service Integration</p>
                         </div>
                     </div>
 
-                    <div class="col-12 col-md-3 col-lg-3">
+                    <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/developer-mode.svg" alt="team" />
                             <p class="wwd-text">Dev-Ready UI Transition</p>
@@ -289,7 +289,7 @@ include_once 'includes/tracking-functions.php';
             <h2 class="section-title">
             Frontend Development Services
 </h2>
-<button class="btn btn-custom " data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+<button class="btn btn-custom d-none d-md-block" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
                     Start your project
                 </button>
 </div>
@@ -334,6 +334,9 @@ include_once 'includes/tracking-functions.php';
 
                     </div>
                 </div>
+                <button class="btn btn-custom d-flex d-md-none" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    Start your project
+                </button>
         </div>
     </section>
 

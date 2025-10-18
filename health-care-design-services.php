@@ -16,22 +16,26 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
     <title>Healthcare Design India | Health care design services | Neointeraction Design</title>
-  <meta name="description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions."/>
-  <meta name="keywords" content="Healthcare Design India, Health care design services" />
-  <link rel="canonical" href="https://www.neointeraction.com/health-care-design-services"/>
-  <meta property="og:title" content="Best Healthcare Design India | Neointeraction Design | Contact Us"/>
-  <meta property="og:description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions."/>
-  <meta property="og:image" content=""/>
-  <meta property="og:image:width" content="2500"/>
-  <meta property="og:image:height" content="1330"/>
-  <meta property="og:url" content="https://www.neointeraction.com/health-care-design-services"/>
-  <meta property="og:site_name" content="Neointeraction Design"/>
-  <meta property="og:type" content="website"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Healthcare Design India | Health care design services | Neointeraction Design"/>
-  <meta name="twitter:description" content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions."/>
-  <meta name="twitter:image" content=""/>
+    <meta name="description"
+        content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions." />
+    <meta name="keywords" content="Healthcare Design India, Health care design services" />
+    <link rel="canonical" href="https://www.neointeraction.com/health-care-design-services" />
+    <meta property="og:title" content="Best Healthcare Design India | Neointeraction Design | Contact Us" />
+    <meta property="og:description"
+        content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions." />
+    <meta property="og:image" content="" />
+    <meta property="og:image:width" content="2500" />
+    <meta property="og:image:height" content="1330" />
+    <meta property="og:url" content="https://www.neointeraction.com/health-care-design-services" />
+    <meta property="og:site_name" content="Neointeraction Design" />
+    <meta property="og:type" content="website" />
+    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title"
+        content="Healthcare Design India | Health care design services | Neointeraction Design" />
+    <meta name="twitter:description"
+        content="Expert Healthcare Design India: Innovative solutions for modern medical facilities. Contact us for best UX/UI design solutions." />
+    <meta name="twitter:image" content="" />
 </head>
 
 <body>
@@ -85,11 +89,13 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left">
                             <h1 class="banner-title">
-                            Transforming <br>Healthcare <span class="highlight">UX Design in India</span>
+                                Transforming <br>Healthcare <span class="highlight">UX Design in India</span>
                             </h1>
 
                             <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">We create user-focused healthcare UX solutions that improve patient experiences and streamline digital interactions. Our UX/UI design and strategy deliver intuitive, effective, and impactful digital platforms.</p>
+                                <p class="banner-subtext">We create user-focused healthcare UX solutions that improve
+                                    patient experiences and streamline digital interactions. Our UX/UI design and
+                                    strategy deliver intuitive, effective, and impactful digital platforms.</p>
 
                             </div>
                         </div>
@@ -146,22 +152,24 @@ include_once 'includes/tracking-functions.php';
                     </div>
 
                     <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">We create user-focused healthcare UX solutions that improve patient experiences and streamline digital interactions. Our UX/UI design and strategy deliver intuitive, effective, and impactful digital platforms.</p>
+                        <p class="banner-subtext">We create user-focused healthcare UX solutions that improve patient
+                            experiences and streamline digital interactions. Our UX/UI design and strategy deliver
+                            intuitive, effective, and impactful digital platforms.</p>
 
                     </div>
                 </div>
             </div>
         </div>
     </section>
-     
 
- 
 
-     <!-- clients  -->
-     <section class="clients section-padding">
+
+
+    <!-- clients  -->
+    <section class="clients section-padding">
         <div class="container">
             <h2 class="section-title">
-            Our Healthcare Clients
+                Our Healthcare Clients
             </h2>
             <div class="scroll-client-container section-margin">
                 <div class="d-flex flex-column flex-md-row scrolling-client-logos">
@@ -173,7 +181,7 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
     <!-- clients -- end  -->
-    
+
 
 
 
@@ -188,21 +196,26 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/building.svg" alt="qa" />
                             <h4 class="wwd-title">Expertise in Healthcare UX Design</h4>
-                            <p class="wwd-text">Leading the industry with expertise in healthcare, we collaborate closely with healthcare professionals to create enhanced user-centric experiences.</p>
+                            <p class="wwd-text">Leading the industry with expertise in healthcare, we collaborate
+                                closely with healthcare professionals to create enhanced user-centric experiences.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/chart.svg" alt="value" />
                             <h4 class="wwd-title">Patient and Doctor-Centric Solutions</h4>
-                            <p class="wwd-text">Our UI/UX designs are driven by emerging user needs, leveraging the latest AI/ML technology to deliver efficient clinical healthcare UX solutions that prioritize the needs of both patients and healthcare providers.</p>
+                            <p class="wwd-text">Our UI/UX designs are driven by emerging user needs, leveraging the
+                                latest AI/ML technology to deliver efficient clinical healthcare UX solutions that
+                                prioritize the needs of both patients and healthcare providers.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="optimise" />
                             <h4 class="wwd-title">Research-Driven Insights</h4>
-                            <p class="wwd-text">Conducting UX qualitative research, we identify critical pain points in existing healthcare processes and translate them into innovative digital solutions, ensuring meaningful impact and improved outcomes.</p>
+                            <p class="wwd-text">Conducting UX qualitative research, we identify critical pain points in
+                                existing healthcare processes and translate them into innovative digital solutions,
+                                ensuring meaningful impact and improved outcomes.</p>
                         </div>
                     </div>
 
@@ -210,14 +223,18 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="data" />
                             <h4 class="wwd-title">Domain Expertise and Mentorship</h4>
-                            <p class="wwd-text">With strong domain expertise and multidisciplinary support, we create value-based solutions for medical web/mobile apps that align with industry standards and address the evolving needs of the healthcare sector.</p>
+                            <p class="wwd-text">With strong domain expertise and multidisciplinary support, we create
+                                value-based solutions for medical web/mobile apps that align with industry standards and
+                                address the evolving needs of the healthcare sector.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="plane" />
                             <h4 class="wwd-title">Future-Focused Design Solutions</h4>
-                            <p class="wwd-text">Committed to creating omnipresent healthcare UX design solutions, we bring precision medical practices closer to users through innovative design approaches that anticipate and adapt to future trends.</p>
+                            <p class="wwd-text">Committed to creating omnipresent healthcare UX design solutions, we
+                                bring precision medical practices closer to users through innovative design approaches
+                                that anticipate and adapt to future trends.</p>
                         </div>
                     </div>
 
@@ -225,7 +242,9 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="plane" />
                             <h4 class="wwd-title">Impactful Healthcare Solutions</h4>
-                            <p class="wwd-text">From leveraging medical wearables to telehealth platforms and AI-powered systems, we've optimized healthcare workflows to deliver better results for users, enhancing accessibility, efficiency, and overall holistic patient experience.</p>
+                            <p class="wwd-text">From leveraging medical wearables to telehealth platforms and AI-powered
+                                systems, we've optimized healthcare workflows to deliver better results for users,
+                                enhancing accessibility, efficiency, and overall holistic patient experience.</p>
                         </div>
                     </div>
 
@@ -236,11 +255,12 @@ include_once 'includes/tracking-functions.php';
 
     <section class="business-success section-padding">
         <div class="container">
-            <div class="d-flex justify-content-between align-items-end mb-4">
+            <div class="d-flex justify-content-between align-items-end mb-2">
                 <h2 class="section-title">
                     Our Services
                 </h2>
-                <button class="btn btn-custom " data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                <button class="btn btn-custom d-none d-md-block" data-service="UX Design" data-bs-toggle="modal"
+                    data-bs-target="#registerModal">
                     Start your project
                 </button>
             </div>
@@ -254,7 +274,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
-                            Shape tomorrow's digital experiences with our UX design services, crafting seamless interactions that align with your brand and business goals.
+                                Shape tomorrow's digital experiences with our UX design services, crafting seamless
+                                interactions that align with your brand and business goals.
                             </p>
                         </div>
                     </div>
@@ -267,7 +288,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
-                            Revamp your product with our concise Product Design services, seamlessly blending innovative aesthetics and functionality for standout, user-centric solutions.
+                                Revamp your product with our concise Product Design services, seamlessly blending
+                                innovative aesthetics and functionality for standout, user-centric solutions.
                             </p>
                         </div>
                     </div>
@@ -279,7 +301,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
-                            Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
+                                Revolutionizing design through a seamless blend of creativity and strategic innovation,
+                                enhancing overall aesthetic and functionality.
                             </p>
                         </div>
                     </div>
@@ -291,20 +314,25 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">UI Engineering</h4>
                             <p class="description">
-                            Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
+                                Merging design and technology for dynamic and precise user interfaces, optimizing the
+                                digital experience.
                             </p>
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
+            <button class="btn btn-custom d-flex d-md-none" data-service="UX Design" data-bs-toggle="modal"
+                data-bs-target="#registerModal">
+                Start your project
+            </button>
         </div>
     </section>
 
 
     <section class="engagement-modal section-padding">
-        <div class="container"> 
+        <div class="container">
             <h2 class="section-title">
-            Recent Healthcare Design Projects
+                Recent Healthcare Design Projects
             </h2>
             <div class="engagement-modal-block section-margin">
                 <?php foreach ($events as $event) { ?>
@@ -341,20 +369,19 @@ include_once 'includes/tracking-functions.php';
     </section>
 
 
-            <!-- testimonials  -->
-            <?php include 'components/testimonial.php'; ?>
+    <!-- testimonials  -->
+    <?php include 'components/testimonial.php'; ?>
     <!-- testimonials -- end  -->
 
 
-      <!-- demo-video  -->
-      <section class="demo-video section-padding">
+    <!-- demo-video  -->
+    <section class="demo-video section-padding">
         <div class="container">
             <h2 class="section-title">Our Process</h2>
             <div class="video-container section-margin">
-                
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-                    allowfullscreen style="border-radius: 0;"></iframe>
+                <iframe src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
         </div>
     </section>

@@ -233,6 +233,16 @@
                                 </div>
                             </div>
 
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card case-study-card">
+                                    <h4 class="title">Simplified Learning Experience</h4>
+                                    <p class="description">
+                                    By organizing content and visuals clearly, the new design made digital classes easier to follow, helping students grasp concepts more effectively and stay engaged throughout their lessons.
+                                    </p>
+
+                                </div>
+                            </div>
+
                         </div>
                     </div>
 

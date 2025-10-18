@@ -459,6 +459,11 @@
   .scrolling-client-logos:hover {
     animation-play-state: paused;
   }
-  
+
+  .video-container iframe {
+    height: 350px;
+  }
+
+
   
 }

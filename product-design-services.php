@@ -162,7 +162,7 @@ include_once 'includes/tracking-functions.php';
     <section class="industry-experience section-padding">
         <div class="container">
             <h2 class="section-title">Why Choose Us to Design Your Product?</h2>
-            <p class="section-desc">At Neointeraction Design, we understand that your SaaS app or digital product is the cornerstone of your business. That's why we're committed to delivering the best product design services in India that not only meet but exceed your expectations. Here's why you should choose us to design your product:</p>
+            <p class="body-text">At Neointeraction Design, we understand that your SaaS app or digital product is the cornerstone of your business. That's why we're committed to delivering the best product design services in India that not only meet but exceed your expectations. Here's why you should choose us to design your product:</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
@@ -215,7 +215,7 @@ include_once 'includes/tracking-functions.php';
                 <h2 class="section-title">
                     Our Services
                 </h2>
-                <button class="btn btn-custom " data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                <button class="btn btn-custom d-none d-md-block" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
                     Start your project
                 </button>
             </div>
@@ -272,6 +272,9 @@ include_once 'includes/tracking-functions.php';
                     </div>
                 </div>
             </div>
+            <button class="btn btn-custom d-flex d-md-none" data-service="UX Design" data-bs-toggle="modal" data-bs-target="#registerModal">
+                    Start your project
+                </button>
         </div>
     </section>
 

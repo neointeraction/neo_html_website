@@ -1793,3 +1793,9 @@ testimonial-card-detailed {
 .bs-button:hover .svg-arrow {
   fill: #2B2828;
 }
+
+.video-container iframe {
+  height: 650px;
+  width: 100%;
+  border: 0;
+}
