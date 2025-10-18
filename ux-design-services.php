@@ -471,7 +471,7 @@ include_once 'includes/tracking-functions.php';
         $title = 'Start Your Consultation'; 
         $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.';
         $buttonName = 'Get a Free consultation';
-        $imageLink = "assets/images/about-us/hire-ui.jpeg";
+        $imageLink = "assets/images/about-us/hire-ui.webp";
         $imageAlt = "Get a Free consultation";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>

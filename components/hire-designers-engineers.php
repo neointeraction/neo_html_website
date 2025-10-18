@@ -14,7 +14,7 @@
     }
      
     if(empty($imageLink)){
-      $imageLink =  "assets/images/homepage-contact-us.jpg";
+      $imageLink =  "assets/images/about-us/hire-ui.webp";
     }
 
     if(empty($imageAlt)){

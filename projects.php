@@ -140,7 +140,7 @@
     </section>
     <!-- browse-project end -->
 
-  
+
 
     <?php
         $title = "Submit Enquiry";
@@ -148,8 +148,8 @@
         $buttonName = "Request a Quote";
         include $path . 'components/hire-designers-engineers.php';
     ?>
-  
-  
+
+
 
     <!-- project-listing end  -->
     <?php include $path . 'components/registration-modal.php'; ?>

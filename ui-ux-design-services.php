@@ -260,7 +260,7 @@
         $title = 'Hire Designers/Front-end Engineers'; 
         $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. ';
         $buttonName = 'Request a Quote';
-         $imageLink = "assets/images/about-us/hire-coder.jpeg";
+         $imageLink = "assets/images/about-us/hire-coder.webp";
         $imageAlt = "Request a Quote";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>

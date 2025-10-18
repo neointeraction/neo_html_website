@@ -5,7 +5,7 @@
       <div class="row ui-card-dark ">
         <!-- Image Column -->
         <div class="col-md-6  img-container d-none d-md-block">
-          <img src="<?php echo $path; ?>assets/images/about-us/hire-coder.jpeg" alt="Hire Designers/Front-end Engineers" class="img-fluid">
+          <img src="<?php echo $path; ?>assets/images/about-us/hire-coder.webp" alt="Hire Designers/Front-end Engineers" class="img-fluid">
         </div>
 
         <!-- Text and Button Column -->
