@@ -1414,7 +1414,7 @@ testimonial-card-detailed {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 60px 0 80px 0;
+  padding: 0px 0 60px 0;
 }
 
 .contact-right .form-btn-container {
