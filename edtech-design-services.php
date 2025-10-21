@@ -16,22 +16,25 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
     <title>Edtech Design services in India | Edtech company | Neointeraction Design</title>
-  <meta name="description" content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions."/>
-  <meta name="keywords" content="best Edtech UX/UI design services in India, Edtech design company" />
-  <link rel="canonical" href="https://www.neointeraction.com/edtech-design-services"/>
-  <meta property="og:title" content="Edtech Design services in India | Edtech company | Neointeraction Design"/>
-  <meta property="og:description" content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions."/>
-  <meta property="og:image" content=""/>
-  <meta property="og:image:width" content="2500"/>
-  <meta property="og:image:height" content="1330"/>
-  <meta property="og:url" content="https://www.neointeraction.com/edtech-design-services"/>
-  <meta property="og:site_name" content="Neointeraction Design"/>
-  <meta property="og:type" content="website"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Edtech Design services in India | Edtech company | Neointeraction Design"/>
-  <meta name="twitter:description" content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions."/>
-  <meta name="twitter:image" content=""/>
+    <meta name="description"
+        content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions." />
+    <meta name="keywords" content="best Edtech UX/UI design services in India, Edtech design company" />
+    <link rel="canonical" href="https://www.neointeraction.com/edtech-design-services" />
+    <meta property="og:title" content="Edtech Design services in India | Edtech company | Neointeraction Design" />
+    <meta property="og:description"
+        content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions." />
+    <meta property="og:image" content="" />
+    <meta property="og:image:width" content="2500" />
+    <meta property="og:image:height" content="1330" />
+    <meta property="og:url" content="https://www.neointeraction.com/edtech-design-services" />
+    <meta property="og:site_name" content="Neointeraction Design" />
+    <meta property="og:type" content="website" />
+    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Edtech Design services in India | Edtech company | Neointeraction Design" />
+    <meta name="twitter:description"
+        content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions." />
+    <meta name="twitter:image" content="" />
 </head>
 
 <body>
@@ -64,11 +67,13 @@ include_once 'includes/tracking-functions.php';
                         <div class="contact-left">
                             <h1 class="banner-title">
 
-                            User-centric<br> Edtech Design <span class="highlight">Services in India</span>
+                                User-centric<br> Edtech Design <span class="highlight">Services in India</span>
                             </h1>
 
                             <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">We craft user-centric Edtech design solutions that make learning engaging and intuitive. From UX/UI design to product strategy, we help educational platforms deliver impactful digital experiences</p>
+                                <p class="banner-subtext">We craft user-centric Edtech design solutions that make
+                                    learning engaging and intuitive. From UX/UI design to product strategy, we help
+                                    educational platforms deliver impactful digital experiences</p>
 
                             </div>
                         </div>
@@ -82,40 +87,40 @@ include_once 'includes/tracking-functions.php';
 
                             <form id="contactForm">
                                 <div class="form-group">
-                                    <label for="name" class="form-label">Name</label>
-                                    <input type="text" id="name" name="name" class="form-control custom-input"
+                                    <label for="lp_name" class="form-label">Name</label>
+                                    <input type="text" id="lp_name" name="lp_name" class="form-control custom-input"
                                         placeholder="Enter name" required>
-                                    <div id="name-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_name-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="work_email" class="form-label">Work email</label>
-                                    <input type="email" id="work_email" name="work_email"
+                                    <label for="lp_work_email" class="form-label">Work email</label>
+                                    <input type="email" id="lp_work_email" name="lp_work_email"
                                         class="form-control custom-input" placeholder="Enter work email"
                                         pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
-                                    <div id="email-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_email-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="mobile_number" class="form-label">Mobile Number</label>
-                                    <input type="tel" id="mobile_number" name="mobile_number"
+                                    <label for="lp_mobile_number" class="form-label">Mobile Number</label>
+                                    <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
                                         class="form-control custom-input"
                                         placeholder="Enter mobile number (e.g. +1234567890)" pattern="^\+?[0-9]{10,15}$"
                                         required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
-                                    <div id="mobile-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="designation" class="form-label">Which service would you like to
+                                    <label for="lp_designation" class="form-label">Which service would you like to
                                         request?*</label>
-                                    <input id="designation" name="designation" class="form-control custom-input"
+                                    <input id="lp_designation" name="lp_designation" class="form-control custom-input"
                                         placeholder="Enter your service request here" required>
-                                    <div id="designation-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_designation-error" class="text-danger" aria-live="polite"></div>
                                 </div>
-                                <div id="contact-status"></div>
+                                <div id="lp_contact-status"></div>
                                 <div class="form-btn-container">
-                                    <button type="button" class="btn btn-custom" id="contact-submit-btn"
-                                        onclick="submitUxAuditForm()">
+                                    <button type="button" class="btn btn-custom" id="lp_contact-submit-btn"
+                                        onclick="submitLPForm()">
                                         Submit Enquiry
                                     </button>
                                 </div>
@@ -125,24 +130,26 @@ include_once 'includes/tracking-functions.php';
                     </div>
 
                     <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">We craft user-centric Edtech design solutions that make learning engaging and intuitive. From UX/UI design to product strategy, we help educational platforms deliver impactful digital experiences</p>
+                        <p class="banner-subtext">We craft user-centric Edtech design solutions that make learning
+                            engaging and intuitive. From UX/UI design to product strategy, we help educational platforms
+                            deliver impactful digital experiences</p>
 
                     </div>
                 </div>
             </div>
         </div>
     </section>
-     
 
 
-    
 
 
-       <!-- clients  -->
-       <section class="clients section-padding">
+
+
+    <!-- clients  -->
+    <section class="clients section-padding">
         <div class="container">
             <h2 class="section-title">
-            Clients we collaborated with
+                Clients we collaborated with
             </h2>
             <div class="scroll-client-container section-margin">
                 <div class="d-flex flex-column flex-md-row scrolling-client-logos">
@@ -155,33 +162,42 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- clients -- end  -->
 
-    
+
 
     <section class="industry-experience section-padding">
         <div class="container">
             <h2 class="section-title">Why Choose Us for Your Edtech Product?</h2>
-            <p class="body-text">At Neointeraction Design, we understand that your SaaS app or digital product is the cornerstone of your business. That's why we're committed to delivering the best product design services in India that not only meet but exceed your expectations. Here's why you should choose us to design your product:</p>
+            <p class="body-text">At Neointeraction Design, we understand that your SaaS app or digital product is the
+                cornerstone of your business. That's why we're committed to delivering the best product design services
+                in India that not only meet but exceed your expectations. Here's why you should choose us to design your
+                product:</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/engineering.svg" alt="qa" />
                             <h4 class="wwd-title">Design-based solutions</h4>
-                            <p class="wwd-text">We're reshaping the landscape of education technology by integrating innovative design approaches that enhance user experiences and drive meaningful learning outcomes.</p>
+                            <p class="wwd-text">We're reshaping the landscape of education technology by integrating
+                                innovative design approaches that enhance user experiences and drive meaningful learning
+                                outcomes.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/pointer.svg" alt="value" />
                             <h4 class="wwd-title">Enabling a complete digital immersion</h4>
-                            <p class="wwd-text">Our immersive digital solutions create an engaging learning environment where students can fully immerse themselves in interactive educational experiences, fostering deeper understanding and retention</p>
+                            <p class="wwd-text">Our immersive digital solutions create an engaging learning environment
+                                where students can fully immerse themselves in interactive educational experiences,
+                                fostering deeper understanding and retention</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/a11y.svg" alt="optimise" />
                             <h4 class="wwd-title">Increasing accessibility and usability</h4>
-                            <p class="wwd-text">We prioritize accessibility and usability in our designs to ensure that learners of all abilities can easily navigate and engage with educational content, promoting inclusivity and equal opportunities for learning</p>
+                            <p class="wwd-text">We prioritize accessibility and usability in our designs to ensure that
+                                learners of all abilities can easily navigate and engage with educational content,
+                                promoting inclusivity and equal opportunities for learning</p>
                         </div>
                     </div>
 
@@ -189,14 +205,18 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/graduate.svg" alt="data" />
                             <h4 class="wwd-title">Designing an engaging simulation of a classroom</h4>
-                            <p class="wwd-text">Through captivating design elements and interactive features, we simulate the classroom experience in a digital environment, fostering collaboration, communication, and active learning among students</p>
+                            <p class="wwd-text">Through captivating design elements and interactive features, we
+                                simulate the classroom experience in a digital environment, fostering collaboration,
+                                communication, and active learning among students</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/atom.svg" alt="plane" />
                             <h4 class="wwd-title">Democratizing education</h4>
-                            <p class="wwd-text">Our goal is to make quality education accessible to all, regardless of geographical location or socioeconomic status, by leveraging technology to break down barriers and expand access to learning resources</p>
+                            <p class="wwd-text">Our goal is to make quality education accessible to all, regardless of
+                                geographical location or socioeconomic status, by leveraging technology to break down
+                                barriers and expand access to learning resources</p>
                         </div>
                     </div>
 
@@ -204,10 +224,12 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="team" />
                             <h4 class="wwd-title">Impactful solutions provided to our clients</h4>
-                            <p class="wwd-text">We deliver tangible results by providing our clients with actionable insights and innovative solutions that align with their goals, driving measurable improvements in student engagement, satisfaction, and academic performance.</p>
+                            <p class="wwd-text">We deliver tangible results by providing our clients with actionable
+                                insights and innovative solutions that align with their goals, driving measurable
+                                improvements in student engagement, satisfaction, and academic performance.</p>
                         </div>
                     </div>
-                 
+
 
 
                 </div>
@@ -221,7 +243,8 @@ include_once 'includes/tracking-functions.php';
                 <h2 class="section-title">
                     Our Services
                 </h2>
-                <button class="btn btn-custom mb-4" data-service="Edtech" data-bs-toggle="modal" data-bs-target="#registerModal" style="width:fit-content;">
+                <button class="btn btn-custom mb-4" data-service="Edtech" data-bs-toggle="modal"
+                    data-bs-target="#registerModal" style="width:fit-content;">
                     Start your project
                 </button>
             </div>
@@ -235,7 +258,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
-                            Shape tomorrow's digital experiences with our UX design services, crafting seamless interactions that align with your brand and business goals.
+                                Shape tomorrow's digital experiences with our UX design services, crafting seamless
+                                interactions that align with your brand and business goals.
                             </p>
                         </div>
                     </div>
@@ -248,7 +272,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
-                            Revamp your product with our concise Product Design services, seamlessly blending innovative aesthetics and functionality for standout, user-centric solutions.
+                                Revamp your product with our concise Product Design services, seamlessly blending
+                                innovative aesthetics and functionality for standout, user-centric solutions.
                             </p>
                         </div>
                     </div>
@@ -260,7 +285,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
-                            Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
+                                Revolutionizing design through a seamless blend of creativity and strategic innovation,
+                                enhancing overall aesthetic and functionality.
                             </p>
                         </div>
                     </div>
@@ -272,7 +298,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">UI Engineering</h4>
                             <p class="description">
-                            Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
+                                Merging design and technology for dynamic and precise user interfaces, optimizing the
+                                digital experience.
                             </p>
                         </div>
                     </div>
@@ -284,7 +311,7 @@ include_once 'includes/tracking-functions.php';
     <section class="engagement-modal section-padding">
         <div class="container">
             <h2 class="section-title">
-            Recent Edtech Design Project
+                Recent Edtech Design Project
             </h2>
             <div class="engagement-modal-block section-margin">
                 <?php foreach ($events as $event) { ?>
@@ -332,22 +359,24 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-md-9">
                         <div class="quote-icon d-none d-md-block"></div>
-                        <p class="blog-quote-text">The visual appeal and the new tutoring experience led us to overcome the usability issues and we’re very happy with the result the design team delivered.</p>
+                        <p class="blog-quote-text">The visual appeal and the new tutoring experience led us to overcome
+                            the usability issues and we’re very happy with the result the design team delivered.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-      <!-- demo-video  -->
-      <section class="demo-video section-padding">
+    <!-- demo-video  -->
+    <section class="demo-video section-padding">
         <div class="container">
             <h2 class="section-title">Our Process</h2>
             <div class="video-container section-margin">
-                
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-                    allowfullscreen style="border-radius: 0;"></iframe>
+
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
         </div>
     </section>
@@ -359,6 +388,8 @@ include_once 'includes/tracking-functions.php';
     <!-- testimonials -- end  -->
     <div class="mb-4 mb-md-0"></div>
     <?php include $path . 'components/registration-modal.php'; ?>
+    <script src="<?php echo $path; ?>assets/js/lp-enquiry.js"></script>
+
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>

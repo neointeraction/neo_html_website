@@ -13,7 +13,7 @@
                     echo '<div class="tc-item-flex">';
                     foreach ($chunk as $testimonial) {
                 ?>
-                        <div class="testimonial-card">
+                        <div class="testimonial-card detailed">
                             <div class="testimonial-logo">
                                 <img src="<?php echo $testimonial['logo']; ?>" alt="<?php echo $testimonial['alt']; ?>" />
                             </div>

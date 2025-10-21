@@ -31,7 +31,8 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Digital Transformation services in india | Neointeraction Design | Contact us" />
+    <meta name="twitter:title"
+        content="Digital Transformation services in india | Neointeraction Design | Contact us" />
     <meta name="twitter:description"
         content="Unlock the full potential of your business with our digital transformation services in India. Contact us today for your digital transformation journey." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
@@ -77,7 +78,9 @@ include_once 'includes/tracking-functions.php';
                             </h1>
 
                             <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">Bring your product vision to life with user-focused design. Our product design services create engaging, intuitive experiences that drive results.</p>
+                                <p class="banner-subtext">Bring your product vision to life with user-focused design.
+                                    Our product design services create engaging, intuitive experiences that drive
+                                    results.</p>
 
                             </div>
                         </div>
@@ -91,40 +94,40 @@ include_once 'includes/tracking-functions.php';
 
                             <form id="contactForm">
                                 <div class="form-group">
-                                    <label for="name" class="form-label">Name</label>
-                                    <input type="text" id="name" name="name" class="form-control custom-input"
+                                    <label for="lp_name" class="form-label">Name</label>
+                                    <input type="text" id="lp_name" name="lp_name" class="form-control custom-input"
                                         placeholder="Enter name" required>
-                                    <div id="name-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_name-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="work_email" class="form-label">Work email</label>
-                                    <input type="email" id="work_email" name="work_email"
+                                    <label for="lp_work_email" class="form-label">Work email</label>
+                                    <input type="email" id="lp_work_email" name="lp_work_email"
                                         class="form-control custom-input" placeholder="Enter work email"
                                         pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
-                                    <div id="email-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_email-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="mobile_number" class="form-label">Mobile Number</label>
-                                    <input type="tel" id="mobile_number" name="mobile_number"
+                                    <label for="lp_mobile_number" class="form-label">Mobile Number</label>
+                                    <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
                                         class="form-control custom-input"
                                         placeholder="Enter mobile number (e.g. +1234567890)" pattern="^\+?[0-9]{10,15}$"
                                         required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
-                                    <div id="mobile-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="designation" class="form-label">Which service would you like to
+                                    <label for="lp_designation" class="form-label">Which service would you like to
                                         request?*</label>
-                                    <input id="designation" name="designation" class="form-control custom-input"
+                                    <input id="lp_designation" name="lp_designation" class="form-control custom-input"
                                         placeholder="Enter your service request here" required>
-                                    <div id="designation-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_designation-error" class="text-danger" aria-live="polite"></div>
                                 </div>
-                                <div id="contact-status"></div>
+                                <div id="lp_contact-status"></div>
                                 <div class="form-btn-container">
-                                    <button type="button" class="btn btn-custom" id="contact-submit-btn"
-                                        onclick="submitUxAuditForm()">
+                                    <button type="button" class="btn btn-custom" id="lp_contact-submit-btn"
+                                        onclick="submitLPForm()">
                                         Submit Enquiry
                                     </button>
                                 </div>
@@ -134,21 +137,22 @@ include_once 'includes/tracking-functions.php';
                     </div>
 
                     <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">Bring your product vision to life with user-focused design. Our product design services create engaging, intuitive experiences that drive results.</p>
+                        <p class="banner-subtext">Bring your product vision to life with user-focused design. Our
+                            product design services create engaging, intuitive experiences that drive results.</p>
 
                     </div>
                 </div>
             </div>
         </div>
     </section>
-     
+
 
 
     <!-- clients  -->
     <section class="clients section-padding">
         <div class="container">
             <h2 class="section-title">
-            Clients we collaborated with
+                Clients we collaborated with
             </h2>
             <div class="scroll-container section-margin">
                 <div class="scrolling-logos">
@@ -162,28 +166,34 @@ include_once 'includes/tracking-functions.php';
     <section class="industry-experience section-padding">
         <div class="container">
             <h2 class="section-title">Why Choose Us to Design Your Product?</h2>
-            <p class="body-text">At Neointeraction Design, we understand that your SaaS app or digital product is the cornerstone of your business. That's why we're committed to delivering the best product design services in India that not only meet but exceed your expectations. Here's why you should choose us to design your product:</p>
+            <p class="body-text">At Neointeraction Design, we understand that your SaaS app or digital product is the
+                cornerstone of your business. That's why we're committed to delivering the best product design services
+                in India that not only meet but exceed your expectations. Here's why you should choose us to design your
+                product:</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/award.svg" alt="qa" />
                             <h4 class="wwd-title">Quality Design </h4>
-                            <p class="wwd-text">With over 15 years of experience, we've established ourselves as a leader in the industry, delivering top-notch UX design solutions that drive success.</p>
+                            <p class="wwd-text">With over 15 years of experience, we've established ourselves as a
+                                leader in the industry, delivering top-notch UX design solutions that drive success.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/db.svg" alt="value" />
                             <h4 class="wwd-title">Data-Driven Solutions</h4>
-                            <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we make is backed by research and analysis.</p>
+                            <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we
+                                make is backed by research and analysis.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="optimise" />
                             <h4 class="wwd-title">Your reliable UX/UI design partner</h4>
-                            <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to make sure we accelerate your product journey.</p>
+                            <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to
+                                make sure we accelerate your product journey.</p>
                         </div>
                     </div>
 
@@ -191,18 +201,21 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/bulb-on.svg" alt="data" />
                             <h4 class="wwd-title">Exceptional Team</h4>
-                            <p class="wwd-text">Our team of UX/UI designers, product designers and frontend developers is among the best in the industry, with the skills and expertise to bring your vision to life.</p>
+                            <p class="wwd-text">Our team of UX/UI designers, product designers and frontend developers
+                                is among the best in the industry, with the skills and expertise to bring your vision to
+                                life.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="plane" />
                             <h4 class="wwd-title">Proven Track Record</h4>
-                            <p class="wwd-text">We have a proven track record of success, with numerous satisfied clients across diverse domains</p>
+                            <p class="wwd-text">We have a proven track record of success, with numerous satisfied
+                                clients across diverse domains</p>
                         </div>
                     </div>
 
-                   
+
 
                 </div>
             </div>
@@ -215,7 +228,8 @@ include_once 'includes/tracking-functions.php';
                 <h2 class="section-title">
                     Our Services
                 </h2>
-                <button class="btn btn-custom mb-4" data-service="product design" data-bs-toggle="modal" data-bs-target="#registerModal" style="width:fit-content;">
+                <button class="btn btn-custom mb-4" data-service="product design" data-bs-toggle="modal"
+                    data-bs-target="#registerModal" style="width:fit-content;">
                     Start your project
                 </button>
             </div>
@@ -229,7 +243,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
-                            Shape tomorrow's digital experiences with our UX design services, crafting seamless interactions that align with your brand and business goals.
+                                Shape tomorrow's digital experiences with our UX design services, crafting seamless
+                                interactions that align with your brand and business goals.
                             </p>
                         </div>
                     </div>
@@ -242,7 +257,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
-                            Revamp your product with our concise Product Design services, seamlessly blending innovative aesthetics and functionality for standout, user-centric solutions.
+                                Revamp your product with our concise Product Design services, seamlessly blending
+                                innovative aesthetics and functionality for standout, user-centric solutions.
                             </p>
                         </div>
                     </div>
@@ -254,7 +270,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
-                            Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
+                                Revolutionizing design through a seamless blend of creativity and strategic innovation,
+                                enhancing overall aesthetic and functionality.
                             </p>
                         </div>
                     </div>
@@ -266,7 +283,8 @@ include_once 'includes/tracking-functions.php';
                             </div>
                             <h4 class="title">UI Engineering</h4>
                             <p class="description">
-                            Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
+                                Merging design and technology for dynamic and precise user interfaces, optimizing the
+                                digital experience.
                             </p>
                         </div>
                     </div>
@@ -275,11 +293,11 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
- 
+
     <section class="engagement-modal section-padding">
         <div class="container">
             <h2 class="section-title">
-            Recent Product Design Projects
+                Recent Product Design Projects
             </h2>
             <div class="engagement-modal-block section-margin">
                 <?php foreach ($events as $event) { ?>
@@ -317,8 +335,8 @@ include_once 'includes/tracking-functions.php';
 
 
 
-        <!-- testimonials  -->
-        <?php include 'components/testimonial.php'; ?>
+    <!-- testimonials  -->
+    <?php include 'components/testimonial.php'; ?>
     <!-- testimonials -- end  -->
 
     <!-- <section class="industry-experience section-padding">
@@ -375,15 +393,16 @@ include_once 'includes/tracking-functions.php';
 
 
 
-      <!-- demo-video  -->
-      <section class="demo-video section-padding">
+    <!-- demo-video  -->
+    <section class="demo-video section-padding">
         <div class="container">
             <h2 class="section-title">Our Process</h2>
             <div class="video-container section-margin">
-                
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-                    allowfullscreen style="border-radius: 0;"></iframe>
+
+                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
             </div>
         </div>
     </section>
@@ -393,64 +412,76 @@ include_once 'includes/tracking-functions.php';
     <section class="industry-experience section-padding mb-5">
         <div class="container">
             <h2 class="section-title">Industry Experience</h2>
-            <p class="body-text">Neointeraction Design is an expert frontend development company in India that specialize in implementing pixel-perfect UI designs across diverse industries, driving successful outcomes for enterprise solutions, startup ventures, and B2C products enhancing user experiences and boosts business performance.</p>
+            <p class="body-text">Neointeraction Design is an expert frontend development company in India that
+                specialize in implementing pixel-perfect UI designs across diverse industries, driving successful
+                outcomes for enterprise solutions, startup ventures, and B2C products enhancing user experiences and
+                boosts business performance.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
                             <h4 class="wwd-title">Online Banking</h4>
-                            <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and secure transactions.</p>
+                            <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and
+                                secure transactions.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="cm" />
                             <h4 class="wwd-title">Capital Market</h4>
-                            <p class="wwd-text">Empowering investors with data-driven insights and intuitive trading platforms.</p>
+                            <p class="wwd-text">Empowering investors with data-driven insights and intuitive trading
+                                platforms.</p>
                         </div>
 
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="healthcare" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg"
+                                alt="healthcare" />
                             <h4 class="wwd-title">Healthcare</h4>
-                            <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
+                            <p class="wwd-text">Redefining patient care through user-centric healthcare platforms,
+                                enhancing wellness journeys. </p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="iot" />
                             <h4 class="wwd-title">IoT</h4>
-                            <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
+                            <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering
+                                smarter user experiences.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="th" />
                             <h4 class="wwd-title">Travel and Hospitality</h4>
-                            <p class="wwd-text">Crafting memorable customer digital journeys, from booking to exploration, for unforgettable experiences.</p>
+                            <p class="wwd-text">Crafting memorable customer digital journeys, from booking to
+                                exploration, for unforgettable experiences.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
                             <h4 class="wwd-title">Enterprise Solutions</h4>
-                            <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
+                            <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable
+                                growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
                             <h4 class="wwd-title">Startup Ventures</h4>
-                            <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
+                            <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and
+                                fuel rapid growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
                             <h4 class="wwd-title">B2C</h4>
-                            <p class="wwd-text">Enhancing consumer experiences with engaging and intuitive digital platforms</p>
+                            <p class="wwd-text">Enhancing consumer experiences with engaging and intuitive digital
+                                platforms</p>
                         </div>
                     </div>
                 </div>
@@ -472,6 +503,8 @@ include_once 'includes/tracking-functions.php';
     <!-- testimonials -- end  -->
     <div class="mb-4 mb-md-0"></div>
     <?php include $path . 'components/registration-modal.php'; ?>
+    <script src="<?php echo $path; ?>assets/js/lp-enquiry.js"></script>
+
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>

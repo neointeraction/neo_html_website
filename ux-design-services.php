@@ -91,40 +91,40 @@ include_once 'includes/tracking-functions.php';
 
                             <form id="contactForm">
                                 <div class="form-group">
-                                    <label for="name" class="form-label">Name</label>
-                                    <input type="text" id="name" name="name" class="form-control custom-input"
+                                    <label for="lp_name" class="form-label">Name</label>
+                                    <input type="text" id="lp_name" name="lp_name" class="form-control custom-input"
                                         placeholder="Enter name" required>
-                                    <div id="name-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_name-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="work_email" class="form-label">Work email</label>
-                                    <input type="email" id="work_email" name="work_email"
+                                    <label for="lp_work_email" class="form-label">Work email</label>
+                                    <input type="email" id="lp_work_email" name="lp_work_email"
                                         class="form-control custom-input" placeholder="Enter work email"
                                         pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
-                                    <div id="email-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_email-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="mobile_number" class="form-label">Mobile Number</label>
-                                    <input type="tel" id="mobile_number" name="mobile_number"
+                                    <label for="lp_mobile_number" class="form-label">Mobile Number</label>
+                                    <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
                                         class="form-control custom-input"
                                         placeholder="Enter mobile number (e.g. +1234567890)" pattern="^\+?[0-9]{10,15}$"
                                         required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
-                                    <div id="mobile-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="designation" class="form-label">Which service would you like to
+                                    <label for="lp_designation" class="form-label">Which service would you like to
                                         request?*</label>
-                                    <input id="designation" name="designation" class="form-control custom-input"
+                                    <input id="lp_designation" name="lp_designation" class="form-control custom-input"
                                         placeholder="Enter your service request here" required>
-                                    <div id="designation-error" class="text-danger" aria-live="polite"></div>
+                                    <div id="lp_designation-error" class="text-danger" aria-live="polite"></div>
                                 </div>
-                                <div id="contact-status"></div>
+                                <div id="lp_contact-status"></div>
                                 <div class="form-btn-container">
-                                    <button type="button" class="btn btn-custom" id="contact-submit-btn"
-                                        onclick="submitUxAuditForm()">
+                                    <button type="button" class="btn btn-custom" id="lp_contact-submit-btn"
+                                        onclick="submitLPForm()">
                                         Submit Enquiry
                                     </button>
                                 </div>
@@ -479,6 +479,7 @@ include_once 'includes/tracking-functions.php';
     <?php $faq_tag = 'ux-design'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->
     <?php include $path . 'components/registration-modal.php'; ?>
+    <script src="<?php echo $path; ?>assets/js/lp-enquiry.js"></script>
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
