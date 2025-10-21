@@ -2,226 +2,452 @@
     {
         "name": "Mega we care",
         "image": "assets/images/clients/mega-wecare.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 108,
+        "height": 28
     },
     {
         "name": "ICICI",
         "image": "assets/images/clients/icici-logo.png",
-        "tags": ["all", "home", "fintech"]
+        "tags": [
+            "all",
+            "home",
+            "fintech"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Geojit",
         "image": "assets/images/clients/geojit-logo.png",
-        "tags": ["all", "home", "fintech"]
+        "tags": [
+            "all",
+            "home",
+            "fintech"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "BNP Paribas",
         "image": "assets/images/clients/bnp-paribas-logo.png",
-        "tags": ["all", "home", "fintech"]
+        "tags": [
+            "all",
+            "home",
+            "fintech"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Commercial Bank of Dubai",
         "image": "assets/images/clients/commercial-bank-of-dubai-logo.png",
-        "tags": ["all", "home", "fintech"]
+        "tags": [
+            "all",
+            "home",
+            "fintech"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Clayfin",
         "image": "assets/images/clients/clayfin-logo.png",
-        "tags": ["all", "home", "fintech"]
+        "tags": [
+            "all",
+            "home",
+            "fintech"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "CBFS",
         "image": "assets/images/clients/cbfs-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Brac Bank",
         "image": "assets/images/clients/brac-bank-logo.png",
-        "tags": ["all", "home", "fintech"]
+        "tags": [
+            "all",
+            "home",
+            "fintech"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Qudos Bank",
         "image": "assets/images/clients/qudos-bank-logo.png",
-        "tags": ["all", "home", "fintech"]
+        "tags": [
+            "all",
+            "home",
+            "fintech"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Funding Societies",
         "image": "assets/images/clients/funding-societies-logo.png",
-        "tags": ["all", "home", "fintech"]
+        "tags": [
+            "all",
+            "home",
+            "fintech"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Bosch",
         "image": "assets/images/clients/bosch-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Inatech",
         "image": "assets/images/clients/inatech-logo.png",
-        "tags": ["all", "home", "fintech"]
+        "tags": [
+            "all",
+            "home",
+            "fintech"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Vconstruct",
         "image": "assets/images/clients/vconstruct-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Vidal",
         "image": "assets/images/clients/vidal-logo.png",
-        "tags": ["all", "home", "healthcare"]
+        "tags": [
+            "all",
+            "home",
+            "healthcare"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Lifesignals",
         "image": "assets/images/clients/lifesignals-logo.png",
-        "tags": ["all", "home", "healthcare"]
+        "tags": [
+            "all",
+            "home",
+            "healthcare"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Intertrust",
         "image": "assets/images/clients/intertrust-logo.png",
-        "tags": ["all", "home", "events"]
+        "tags": [
+            "all",
+            "home",
+            "events"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Traveloka",
         "image": "assets/images/clients/traveloka-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Drumbuffer",
         "image": "assets/images/clients/drumbuffer-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Inkmagic",
         "image": "assets/images/clients/inkmagic-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Tricog",
         "image": "assets/images/clients/tricog-logo.png",
-        "tags": ["all", "home","events", "healthcare" ]
+        "tags": [
+            "all",
+            "home",
+            "events",
+            "healthcare"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Yokogawa",
         "image": "assets/images/clients/yokogawa-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Wipro",
         "image": "assets/images/clients/wipro-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Quest",
         "image": "assets/images/clients/quest-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Intellithink",
         "image": "assets/images/clients/intellithink-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Carnival",
         "image": "assets/images/clients/carnival-logo.png",
-        "tags": ["all", "home"]
+        "tags": [
+            "all",
+            "home"
+        ],
+        "width": 129,
+        "height": 60
     },
     {
         "name": "Samsung",
         "image": "assets/images/clients/samsung-logo.jpg",
-        "tags": ["all", "events"]
+        "tags": [
+            "all",
+            "events"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Tyson",
         "image": "assets/images/clients/tyson-logo.jpg",
-        "tags": ["all", "events"]
+        "tags": [
+            "all",
+            "events"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Unext",
         "image": "assets/images/clients/unext-logo.jpg",
-        "tags": ["all", "events"]
+        "tags": [
+            "all",
+            "events"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Schneider Electric",
         "image": "assets/images/clients/schneider-electric-logo.jpg",
-        "tags": ["all", "events"]
+        "tags": [
+            "all",
+            "events"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Payglocal",
         "image": "assets/images/clients/payglocal-logo.jpg",
-        "tags": ["all", "events"]
+        "tags": [
+            "all",
+            "events"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Cateina",
         "image": "assets/images/clients/cateina-logo.jpg",
-        "tags": ["all", "events"]
+        "tags": [
+            "all",
+            "events"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "JD",
         "image": "assets/images/clients/jd-logo.jpg",
-        "tags": ["all", "events"]
+        "tags": [
+            "all",
+            "events"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Zopsmart",
         "image": "assets/images/clients/zopsmart-logo.jpg",
-        "tags": ["all", "events"]
+        "tags": [
+            "all",
+            "events"
+        ],
+        "width": 128,
+        "height": 60
     },
     {
         "name": "Commercial Bank Financial Services",
         "image": "assets/images/clients/uae/cbfs-logo.svg",
-        "tags": ["uae", "fintech"]
+        "tags": [
+            "uae",
+            "fintech"
+        ],
+        "width": 123,
+        "height": 41
     },
     {
         "name": "Commercial Bank of Dubai",
         "image": "assets/images/clients/uae/commercial-bank-of-dubai-logo.svg",
-        "tags": ["uae"]
+        "tags": [
+            "uae"
+        ],
+        "width": 149,
+        "height": 33
     },
     {
         "name": "AlphaTech",
         "image": "assets/images/clients/uae/alphatech-logo.svg",
-        "tags": ["uae"]
+        "tags": [
+            "uae"
+        ],
+        "width": 131,
+        "height": 33
     },
     {
         "name": "Hassan",
         "image": "assets/images/clients/uae/hassan-logo.svg",
-        "tags": ["uae"]
+        "tags": [
+            "uae"
+        ],
+        "width": 124,
+        "height": 29
     },
     {
         "name": "Alpha Capital",
         "image": "assets/images/clients/uae/alpha-capital-logo.svg",
-        "tags": ["uae"]
+        "tags": [
+            "uae"
+        ],
+        "width": 153,
+        "height": 29
     },
     {
         "name": "Avimall",
         "image": "assets/images/clients/uae/avimall-logo.svg",
-        "tags": ["uae"]
+        "tags": [
+            "uae"
+        ],
+        "width": 66,
+        "height": 41
     },
     {
         "name": "CS Computer",
         "image": "assets/images/clients/uae/cse-logo.svg",
-        "tags": ["uae"]
+        "tags": [
+            "uae"
+        ],
+        "width": 32,
+        "height": 29
     },
     {
         "name": "90 plus",
         "image": "assets/images/projects/client-logos/90-logo.svg",
-        "tags": ["edtech"]
+        "tags": [
+            "edtech"
+        ]
     },
     {
         "name": "IIHT",
         "image": "assets/images/clients/iiht-logo.svg",
-        "tags": ["edtech"]
+        "tags": [
+            "edtech"
+        ],
+        "width": 142,
+        "height": 45
     },
     {
         "name": "90 plus",
         "image": "assets/images/clients/evo11ve-logo.svg",
-        "tags": ["edtech"]
+        "tags": [
+            "edtech"
+        ],
+        "width": 121,
+        "height": 34
     },
     {
         "name": "Medugo",
         "image": "assets/images/clients/medugo-logo.svg",
-        "tags": ["healthcare"]
+        "tags": [
+            "healthcare"
+        ],
+        "width": 131,
+        "height": 31
     },
     {
         "name": "Dr Queues",
         "image": "assets/images/clients/drq-logo.svg",
-        "tags": ["healthcare"]
+        "tags": [
+            "healthcare"
+        ],
+        "width": 121,
+        "height": 56
     }
 ]
