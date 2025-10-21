@@ -1,21 +1,21 @@
 [
     {
-        "logo": "assets/images/clients/tricog-logo.png",
+        "logo": "assets/images/projects/client-logos/tricog-logo.svg",
         "alt": "Sameer Mathur",
         "quote": "They had the expertise to provide out-of-the-box ideas throughout the project.",
         "author_image": "assets/images/testimonials/sameer-mathur.jpeg",
         "author_name": "Sameer Mathur",
         "author_title": "Senior VP at Tricog Health",
-        "project_link": ""
+        "project_link": "projects/ai-driven-healthcare-consultation-platform.php"
     },
     {
-        "logo": "assets/images/clients/noctil.svg",
+        "logo": "assets/images/projects/client-logos/noctil-logo.svg",
         "alt": "Jacob Varghese",
         "quote": "We were most impressed with their commitment to the project.",
         "author_image": "assets/images/testimonials/jacob-varghese.jpeg",
         "author_name": "Jacob Varghese",
         "author_title": "Director at Noctil",
-        "project_link": ""
+        "project_link": "projects/music-rights-management-solution.php"
     },
     {
         "logo": "assets/images/clients/semantic-web.svg",
@@ -51,7 +51,7 @@
         "author_image": "assets/images/testimonials/jude-patrick.jpeg",
         "author_name": "Jude Patrick",
         "author_title": "CEO at Venusgeo Solutions Inc",
-        "project_link": ""
+        "project_link": "projects/cattle-tracking-management-solution.php"
     },
     {
         "logo": "assets/images/clients/evo11ve.svg",
@@ -64,7 +64,7 @@
     },
     {
         "logo": "assets/images/clients/geojit-logo.png",
-        "alt": "Geojit",
+        "alt": "Sajan Jose",
         "quote": "Their collaborative approach and clarity in communication made them feel like an extension of our internal team.",
         "author_image": "assets/images/testimonials/sajan-jose.png",
         "author_name": "Sajan Jose",
@@ -78,7 +78,7 @@
         "author_image": "assets/images/testimonials/shrikant-raipure.png",
         "author_name": "Shrikant Raipure",
         "author_title": "Senior Manager at Megawecare",
-        "project_link": ""
+        "project_link": "projects/digital-health-wellness.php"
     },
     {
         "logo": "assets/images/clients/clayfin-logo.png",
