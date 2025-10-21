@@ -4,7 +4,7 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/creative-atmosphere.jpeg"
+                        src="assets/images/life-at-neo/creative-atmosphere.webp"
                         alt="Creative Atmosphere"
                         class="img-fluid project-image" />
                 </div>
@@ -25,7 +25,7 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/design-collaborations.jpeg"
+                        src="assets/images/life-at-neo/design-collaborations.webp"
                         alt="Design Collaborations"
                         class="img-fluid project-image" />
                 </div>
@@ -46,7 +46,7 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/continuous-learning.jpeg"
+                        src="assets/images/life-at-neo/continuous-learning.webp"
                         alt="Continuous Learning"
                         class="img-fluid project-image" />
                 </div>
@@ -67,7 +67,7 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/design-leadership-development.jpeg"
+                        src="assets/images/life-at-neo/design-leadership-development.webp"
                         alt="Design Leadership Development"
                         class="img-fluid project-image" />
                 </div>
@@ -88,7 +88,7 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/team-gatherings.jpeg"
+                        src="assets/images/life-at-neo/team-gatherings.webp"
                         alt="Team Gatherings"
                         class="img-fluid project-image" />
                 </div>
@@ -109,7 +109,7 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/recognition-and-celebrations.jpeg"
+                        src="assets/images/life-at-neo/recognition-and-celebrations.webp"
                         alt="Recognition and Celebrations"
                         class="img-fluid project-image" />
                 </div>
@@ -130,7 +130,7 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/workshop-sessions.jpeg"
+                        src="assets/images/life-at-neo/workshop-sessions.webp"
                         alt="Workshop Sessions"
                         class="img-fluid project-image" />
                 </div>
@@ -151,7 +151,7 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/hybrid-collaboration.jpeg"
+                        src="assets/images/life-at-neo/hybrid-collaboration.webp"
                         alt="Hybrid Collaboration"
                         class="img-fluid project-image" />
                 </div>
@@ -172,7 +172,7 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/fun-friday.jpeg"
+                        src="assets/images/life-at-neo/fun-friday.webp"
                         alt="Fun Friday"
                         class="img-fluid project-image" />
                 </div>
@@ -193,8 +193,8 @@
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
-                        src="assets/images/life-at-neo/team-trip.jpg"
-                        alt="Team Trip"
+                        src="assets/images/life-at-neo/team-trip.webp"
+                        alt="Team Trip group Picture"
                         class="img-fluid project-image" />
                 </div>
                 <div

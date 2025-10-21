@@ -175,7 +175,7 @@
         <div class="container">
             <h2 class="section-title">Get to know us and what we do</h2>
             <div class="video-container section-margin">
-                <iframe class="video-iframe" height="650" style="width:100%;border:0;border-radius: 0;" src="https://www.youtube.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
+                <iframe class="video-iframe" height="650" style="width:100%;border:0;border-radius: 0;" src="https://www.youtube-nocookie.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
             </div>
