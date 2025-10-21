@@ -11,7 +11,7 @@
         content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="https://www.neointeraction.com/" />
-    <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
+    <meta property="og:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" />
     <meta property="og:description"
         content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
@@ -22,7 +22,7 @@
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
+    <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" />
     <meta name="twitter:description"
         content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
@@ -80,7 +80,7 @@
   $projectsData = file_get_contents(__DIR__ . '/data/projects_data.json');
   $projects = json_decode($projectsData, true);
 
-  $initial_projects_to_show = 9;
+  $initial_projects_to_show = 4;
   $projects_per_load = 4;
   $total_projects = count($projects);
   $projectCount = 0; // Initialize a counter for projects
@@ -140,14 +140,17 @@
     </section>
     <!-- browse-project end -->
 
-
-
-    <?php
-        $title = "Submit Enquiry";
-        $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
-        $buttonName = "Request a Quote";
-        include $path . 'components/hire-designers-engineers.php';
+    <!-- hire designer  -->
+    <?php 
+        $title = 'Submit Enquiry'; 
+        $desc = 'Ready to start something new? Reach out and let’s bring your project to life!';
+        $buttonName = 'Request a Quote';
+         $imageLink = "assets/images/about-us/hire-coder.webp";
+        $imageAlt = "Submit Enquiry";
+        include $path . 'components/hire-designers-engineers.php'; 
     ?>
+    <!-- hire designer  end  -->
+
 
 
 
