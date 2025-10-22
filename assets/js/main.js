@@ -64,6 +64,7 @@ $(document).ready(function () {
     fade: true,
     cssEase: "linear",
     autoplay: true,
+    accessibility: true, // Add this line for improved accessibility
     responsive: [
       {
         breakpoint: 1024,
@@ -110,6 +111,7 @@ $(document).ready(function () {
     cssEase: "linear",
     autoplay: true,
     adaptiveHeight: true,
+    accessibility: true, // Add this line for improved accessibility
     responsive: [
       {
         breakpoint: 1024,
