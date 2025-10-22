@@ -154,7 +154,7 @@
     "title": "Employee Transportation Platform",
     "description": "A platform to manage and optimize employee transportation services.",
     "image": "thumb/desk/etravelmate-homepage-banner.webp",
-    "mobileImage": "thumb/mobile/etravelmate-banner.webp",
+    "mobileImage": "thumb/mobile/etravelmate-homepage-banner.webp",
     "alt": "Employee Transportation Platform",
     "tags": ["Enterprise Apps", "B2B"],
     "link": "employee-transportation-platform.php",

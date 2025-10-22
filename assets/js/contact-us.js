@@ -154,7 +154,14 @@ document.addEventListener('DOMContentLoaded', function() {
     // Character counter for requirement textarea
     const requirementTextarea = document.getElementById('requirement');
     const charCountDisplay = document.getElementById('charCount');
-    const maxLength = requirementTextarea.getAttribute('maxlength');
+    let maxLength = 200; // Default max length
+
+    if (requirementTextarea) {
+        const attributeMaxLength = requirementTextarea.getAttribute('maxlength');
+        if (attributeMaxLength) {
+            maxLength = parseInt(attributeMaxLength);
+        }
+    }
 
     if (requirementTextarea && charCountDisplay) {
         function updateCharCount() {

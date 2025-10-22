@@ -6,7 +6,6 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <link rel="preload" href="<?php echo $path; ?>assets/css/fonts.css" as="style">
     <link href="<?php echo $path; ?>assets/css/fonts.css" rel="stylesheet">
-    <link href="<?php echo $path; ?>assets/css/combined.min.css" rel="stylesheet">
     <?php include $path . 'includes/css.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
     <meta name="description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
@@ -36,6 +35,7 @@
         <?php include $path . 'components/navigation.php'; ?>
         <?php include $path . 'components/whatsapp.php'; ?>
     </div>
+    <main role="main">
  <?php include $path . 'components/banner.php'; ?>
     <section class="business-success section-padding">
         <div class="container">
@@ -257,7 +257,7 @@
         $imageAlt = "Contact us";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
-
+    </main>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>

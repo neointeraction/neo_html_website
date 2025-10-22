@@ -98,7 +98,7 @@
                                     <img src="<?php echo $path; ?>assets/images/projects/<?php echo $project['image']; ?>" alt="<?php echo $project['alt']; ?>"
                                         class="img-fluid project-image d-none d-md-block" width="584" height="280" />
                                     <img src="<?php echo $path; ?>assets/images/projects/<?php echo $project['mobileImage']; ?>" alt="<?php echo $project['alt']; ?>"
-                                        class="img-fluid project-image d-flex d-md-none" width="584" height="280" />
+                                        class="img-fluid project-image d-flex d-md-none" width="438" height="126" />
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <div class="project-tags">

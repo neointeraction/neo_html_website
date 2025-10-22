@@ -55,364 +55,365 @@ include_once 'includes/tracking-functions.php';
         <?php include $path.'components/whatsapp.php'; ?>
     </div>
     <!-- navbar  end  -->
-    <!-- banner  -->
-    <section class="contact-section section-padding">
-        <div class="container">
-            <div class="contact-container">
-                <div class="row g-0">
-                    <!-- Left Side -->
-                    <div class="col-lg-6">
-                        <div class="contact-left">
-                            <h1 class="banner-title">
-                                Unlock Full Potential <br>with  <span class="highlight">UX Audit
-                            </h1>
+    <main>
+        <!-- banner  -->
+        <section class="contact-section section-padding">
+            <div class="container">
+                <div class="contact-container">
+                    <div class="row g-0">
+                        <!-- Left Side -->
+                        <div class="col-lg-6">
+                            <div class="contact-left">
+                                <h1 class="banner-title">
+                                    Unlock Full Potential <br>with  <span class="highlight">UX Audit
+                                </h1>
 
-                            <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">Unlock your web and mobile apps’ potential with expert UX
-                                    design audits. Identify issues, optimize experiences, and drive growth with
-                                    data-driven insights.</p>
+                                <div class="contact-info d-none d-md-block">
+                                    <p class="banner-subtext">Unlock your web and mobile apps’ potential with expert UX
+                                        design audits. Identify issues, optimize experiences, and drive growth with
+                                        data-driven insights.</p>
 
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <!-- Right Side -->
-                    <div class="col-lg-6">
-                        <div class="contact-right">
-                            <h2 class="form-title">Book your UX Audit</h2>
+                        <!-- Right Side -->
+                        <div class="col-lg-6">
+                            <div class="contact-right">
+                                <h2 class="form-title">Book your UX Audit</h2>
 
 
-                            <form id="contactForm">
-    <div class="form-group">
-        <label for="lp_name" class="form-label">Name</label>
-        <input type="text" id="lp_name" name="lp_name" class="form-control custom-input"
-            placeholder="Enter name" required>
-        <div id="lp_name-error" class="text-danger" aria-live="polite"></div>
-    </div>
+                                <form id="contactForm">
+        <div class="form-group">
+            <label for="lp_name" class="form-label">Name</label>
+            <input type="text" id="lp_name" name="lp_name" class="form-control custom-input"
+                placeholder="Enter name" required>
+            <div id="lp_name-error" class="text-danger" aria-live="polite"></div>
+        </div>
 
-    <div class="form-group">
-        <label for="lp_work_email" class="form-label">Work email</label>
-        <input type="email" id="lp_work_email" name="lp_work_email"
-            class="form-control custom-input" placeholder="Enter work email"
-            pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
-        <div id="lp_email-error" class="text-danger" aria-live="polite"></div>
-    </div>
+        <div class="form-group">
+            <label for="lp_work_email" class="form-label">Work email</label>
+            <input type="email" id="lp_work_email" name="lp_work_email"
+                class="form-control custom-input" placeholder="Enter work email"
+                pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
+            <div id="lp_email-error" class="text-danger" aria-live="polite"></div>
+        </div>
 
-    <div class="form-group">
-        <label for="lp_mobile_number" class="form-label">Mobile Number</label>
-        <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
-            class="form-control custom-input"
-            placeholder="Enter mobile number (e.g. +1234567890)" pattern="^\+?[0-9]{10,15}$"
-            required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
-        <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
-    </div>
+        <div class="form-group">
+            <label for="lp_mobile_number" class="form-label">Mobile Number</label>
+            <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
+                class="form-control custom-input"
+                placeholder="Enter mobile number (e.g. +1234567890)" pattern="^\+?[0-9]{10,15}$"
+                required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
+            <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
+        </div>
 
-    <div class="form-group">
-        <label for="lp_designation" class="form-label">Which service would you like to
-            request?*</label>
-        <input id="lp_designation" name="lp_designation" class="form-control custom-input"
-            placeholder="Enter your service request here" required>
-        <div id="lp_designation-error" class="text-danger" aria-live="polite"></div>
-    </div>
-    <div id="lp_contact-status"></div>
-    <div class="form-btn-container">
-        <button type="button" class="btn btn-custom" id="lp_contact-submit-btn"
-            onclick="submitLPForm()">
-            Submit Enquiry
-        </button>
-    </div>
+        <div class="form-group">
+            <label for="lp_designation" class="form-label">Which service would you like to
+                request?*</label>
+            <input id="lp_designation" name="lp_designation" class="form-control custom-input"
+                placeholder="Enter your service request here" required>
+            <div id="lp_designation-error" class="text-danger" aria-live="polite"></div>
+        </div>
+        <div id="lp_contact-status"></div>
+        <div class="form-btn-container">
+            <button type="button" class="btn btn-custom" id="lp_contact-submit-btn"
+                onclick="submitLPForm()">
+                Submit Enquiry
+            </button>
+        </div>
 
-</form>
+    </form>
+                            </div>
+                        </div>
+
+                        <div class="contact-info d-flex d-md-none">
+                            <p class="banner-subtext">Unlock your web and mobile apps’ potential with expert UX
+                                design audits. Identify issues, optimize experiences, and drive growth with
+                                data-driven insights.</p>
+
                         </div>
                     </div>
+                </div>
+            </div>
+        </section>
+        
 
-                    <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">Unlock your web and mobile apps’ potential with expert UX
-                            design audits. Identify issues, optimize experiences, and drive growth with
-                            data-driven insights.</p>
+
+
+
+        <!-- clients  -->
+        <section class="clients section-padding">
+            <div class="container">
+                <h2 class="section-title">
+                    Clients we’ve partnered with
+                </h2>
+                <div class="scroll-container section-margin">
+                    <div class="scrolling-logos">
+                        <?php include 'components/clients.php'; ?>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- clients -- end  -->
+
+        <section class="industry-experience section-padding">
+            <div class="container">
+                <h2 class="section-title">Why Companies chose us for their UX Design Audit ?</h2>
+                <div class="what-we-do-block section-margin">
+                    <div class="row">
+                        <div class="col-12 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/icons/target.svg" alt="ob" />
+                                <h4 class="wwd-title">Understand Business </h4>
+                                <p class="wwd-text">Neointeraction’s UX/UI experts engage with stakeholders in 1-on-1
+                                    sessions to align on business goals.</p>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/icons/search.svg" alt="cm" />
+                                <h4 class="wwd-title">Hueristic Evaluation</h4>
+                                <p class="wwd-text">We assess your website/app using design principles by tracing the user
+                                    journey.</p>
+                            </div>
+
+                        </div>
+                        <div class="col-12 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/icons/new.svg" alt="healthcare" />
+                                <h4 class="wwd-title">Audit reports</h4>
+                                <p class="wwd-text">We create a report highlighting hidden UX/UI gaps affecting user
+                                    engagement.</p>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="iot" />
+                                <h4 class="wwd-title">Suggest Solutions</h4>
+                                <p class="wwd-text">We provide actionable design recommendations, quick fixes, and strategic
+                                    insights in a detailed report.</p>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-     
+        </section>
 
-
-
-
-    <!-- clients  -->
-    <section class="clients section-padding">
-        <div class="container">
-            <h2 class="section-title">
-                Clients we’ve partnered with
-            </h2>
-            <div class="scroll-container section-margin">
-                <div class="scrolling-logos">
-                    <?php include 'components/clients.php'; ?>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- clients -- end  -->
-
-    <section class="industry-experience section-padding">
-        <div class="container">
-            <h2 class="section-title">Why Companies chose us for their UX Design Audit ?</h2>
-            <div class="what-we-do-block section-margin">
-                <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/target.svg" alt="ob" />
-                            <h4 class="wwd-title">Understand Business </h4>
-                            <p class="wwd-text">Neointeraction’s UX/UI experts engage with stakeholders in 1-on-1
-                                sessions to align on business goals.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/search.svg" alt="cm" />
-                            <h4 class="wwd-title">Hueristic Evaluation</h4>
-                            <p class="wwd-text">We assess your website/app using design principles by tracing the user
-                                journey.</p>
-                        </div>
-
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/new.svg" alt="healthcare" />
-                            <h4 class="wwd-title">Audit reports</h4>
-                            <p class="wwd-text">We create a report highlighting hidden UX/UI gaps affecting user
-                                engagement.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="iot" />
-                            <h4 class="wwd-title">Suggest Solutions</h4>
-                            <p class="wwd-text">We provide actionable design recommendations, quick fixes, and strategic
-                                insights in a detailed report.</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="business-success section-padding">
-        <div class="container">
-            <h2 class="section-title">
-                Why conduct a UX Audit ?
-                <div class="bs-card-section section-margin">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-6 col-lg-3">
-                            <div class="custom-card">
-                                <div class="icon-container">
-                                    <img src="<?php echo $path; ?>assets/images/funnel.svg" alt="Low conversion" />
-                                </div>
-                                <h4 class="title">Low conversion rates</h4>
-                                <p class="description">
-                                    Enhance user journey to boost conversion rates effectively.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="col-12 col-md-6 col-lg-3">
-                            <div class="custom-card">
-                                <div class="icon-container">
-                                    <img src="<?php echo $path; ?>assets/images/hand-pointer.svg"
-                                        alt="Uncover Usability" />
-                                </div>
-                                <h4 class="title">Uncover Usability Issues</h4>
-                                <p class="description">
-                                    Identify design flaws to improve usability and user satisfaction.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col-12 col-md-6 col-lg-3">
-                            <div class="custom-card">
-                                <div class="icon-container">
-                                    <img src="<?php echo $path; ?>assets/images/a11y.svg" alt="Accessibility" />
-                                </div>
-                                <h4 class="title">Ensure Accessibility</h4>
-                                <p class="description">
-                                    Design inclusively to provide equal access for every user.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col-12 col-md-6 col-lg-3">
-                            <div class="custom-card">
-                                <div class="icon-container">
-                                    <img src="<?php echo $path; ?>assets/images/file.svg" alt="Data-Driven" />
-                                </div>
-                                <h4 class="title">Data-Driven Decisions</h4>
-                                <p class="description">
-                                    Leverage insights to optimize strategies and outcomes.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-        </div>
-    </section>
-
-
-    <section class="engagement-modal section-padding">
-        <div class="container">
-            <h2 class="section-title">
-                Recent Ux Project
-            </h2>
-            <div class="engagement-modal-block section-margin">
-                <?php foreach ($events as $event) { ?>
-                <div class="project-block-item">
-                    <div class="row justify-content-center">
-                        <div class="col-12">
-                            <div class="project-card d-lg-flex">
-                                <div class="col-lg-6 p-0 project-image-container">
-                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
-                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
-                                        height="auto" />
-                                </div>
-                                <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                    <h2 class="project-title">
-                                        <?php echo $event['title']; ?>
-                                    </h2>
-                                    <p class="project-description">
-                                        <?php echo $event['description']; ?>
+        <section class="business-success section-padding">
+            <div class="container">
+                <h2 class="section-title">
+                    Why conduct a UX Audit ?
+                    <div class="bs-card-section section-margin">
+                        <div class="row justify-content-center">
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <div class="icon-container">
+                                        <img src="<?php echo $path; ?>assets/images/funnel.svg" alt="Low conversion" />
+                                    </div>
+                                    <h4 class="title">Low conversion rates</h4>
+                                    <p class="description">
+                                        Enhance user journey to boost conversion rates effectively.
                                     </p>
+                                </div>
+                            </div>
 
-                                    <div class="pb-action-btn mt-2">
-                                        <button class="btn btn-custom">
-                                            Download Case Study
-                                        </button>
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <div class="icon-container">
+                                        <img src="<?php echo $path; ?>assets/images/hand-pointer.svg"
+                                            alt="Uncover Usability" />
+                                    </div>
+                                    <h4 class="title">Uncover Usability Issues</h4>
+                                    <p class="description">
+                                        Identify design flaws to improve usability and user satisfaction.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <div class="icon-container">
+                                        <img src="<?php echo $path; ?>assets/images/a11y.svg" alt="Accessibility" />
+                                    </div>
+                                    <h4 class="title">Ensure Accessibility</h4>
+                                    <p class="description">
+                                        Design inclusively to provide equal access for every user.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <div class="icon-container">
+                                        <img src="<?php echo $path; ?>assets/images/file.svg" alt="Data-Driven" />
+                                    </div>
+                                    <h4 class="title">Data-Driven Decisions</h4>
+                                    <p class="description">
+                                        Leverage insights to optimize strategies and outcomes.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </section>
+
+
+        <section class="engagement-modal section-padding">
+            <div class="container">
+                <h2 class="section-title">
+                    Recent Ux Project
+                </h2>
+                <div class="engagement-modal-block section-margin">
+                    <?php foreach ($events as $event) { ?>
+                    <div class="project-block-item">
+                        <div class="row justify-content-center">
+                            <div class="col-12">
+                                <div class="project-card d-lg-flex">
+                                    <div class="col-lg-6 p-0 project-image-container">
+                                        <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
+                                            alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
+                                            height="auto" />
+                                    </div>
+                                    <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
+                                        <h2 class="project-title">
+                                            <?php echo $event['title']; ?>
+                                        </h2>
+                                        <p class="project-description">
+                                            <?php echo $event['description']; ?>
+                                        </p>
+
+                                        <div class="pb-action-btn mt-2">
+                                            <button class="btn btn-custom">
+                                                Download Case Study
+                                            </button>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <?php } ?>
-            </div>
-        </div>
-    </section>
-
-    <section class="section-padding">
-        <div class="container">
-            <div class="blog-quote-block project-quote-block">
-                <div class="row justify-content-center align-items-center">
-                    <div class="col-md-3">
-                        <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                            <img src="<?php echo $path; ?>assets/images/projects/client-logos/megawecare-logo.svg" alt="mega" />
-                            <div class="quote-icon-right d-block d-md-none"></div>
-                        </div>
-                    </div>
-                    <div class="col-md-9">
-                    <div class="quote-icon d-none d-md-block"></div>
-                        <p class="blog-quote-text">Everything related to project management was good.</p>
-                    </div>
+                    <?php } ?>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-
-    <section class="demo-video section-padding">
-        <div class="container">
-            <h2 class="section-title">Our Process</h2>
-            <div class="video-container section-margin">
-                <iframe class="video-iframe" width="100%" height="650"
-                    src="https://www.youtube.com/embed/AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh" title="YouTube video player"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
-            </div>
-        </div>
-    </section>
-
-    <section class="industry-experience section-padding mb-5">
-        <div class="container">
-            <h2 class="section-title">Industry Experience</h2>
-            <p class="body-text">Neointeraction Design is an expert frontend development company in India that specialize in implementing pixel-perfect UI designs across diverse industries, driving successful outcomes for enterprise solutions, startup ventures, and B2C products enhancing user experiences and boosts business performance.</p>
-            <div class="what-we-do-block section-margin">
-                <div class="row">
-                    <div class="col-6 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
-                            <h4 class="wwd-title">Online Banking</h4>
-                            <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and secure transactions.</p>
+        <section class="section-padding">
+            <div class="container">
+                <div class="blog-quote-block project-quote-block">
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-md-3">
+                            <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/megawecare-logo.svg" alt="mega" />
+                                <div class="quote-icon-right d-block d-md-none"></div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-6 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="cm" />
-                            <h4 class="wwd-title">Capital Market</h4>
-                            <p class="wwd-text">Empowering investors with data-driven insights and intuitive trading platforms.</p>
-                        </div>
-
-                    </div>
-                    <div class="col-6 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="healthcare" />
-                            <h4 class="wwd-title">Healthcare</h4>
-                            <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="iot" />
-                            <h4 class="wwd-title">IoT</h4>
-                            <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="th" />
-                            <h4 class="wwd-title">Travel and Hospitality</h4>
-                            <p class="wwd-text">Crafting memorable customer digital journeys, from booking to exploration, for unforgettable experiences.</p>
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
-                            <h4 class="wwd-title">Enterprise Solutions</h4>
-                            <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
-                            <h4 class="wwd-title">Startup Ventures</h4>
-                            <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
-                            <h4 class="wwd-title">B2C</h4>
-                            <p class="wwd-text">Enhancing consumer experiences with engaging and intuitive digital platforms</p>
+                        <div class="col-md-9">
+                        <div class="quote-icon d-none d-md-block"></div>
+                            <p class="blog-quote-text">Everything related to project management was good.</p>
                         </div>
                     </div>
                 </div>
-            </div> 
-        </div>
-    </section>
+            </div>
+        </section>
+
+
+        <section class="demo-video section-padding">
+            <div class="container">
+                <h2 class="section-title">Our Process</h2>
+                <div class="video-container section-margin">
+                    <iframe class="video-iframe" width="100%" height="650"
+                        src="https://www.youtube.com/embed/AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
+                </div>
+            </div>
+        </section>
+
+        <section class="industry-experience section-padding mb-5">
+            <div class="container">
+                <h2 class="section-title">Industry Experience</h2>
+                <p class="body-text">Neointeraction Design is an expert frontend development company in India that specialize in implementing pixel-perfect UI designs across diverse industries, driving successful outcomes for enterprise solutions, startup ventures, and B2C products enhancing user experiences and boosts business performance.</p>
+                <div class="what-we-do-block section-margin">
+                    <div class="row">
+                        <div class="col-6 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
+                                <h4 class="wwd-title">Online Banking</h4>
+                                <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and secure transactions.</p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="cm" />
+                                <h4 class="wwd-title">Capital Market</h4>
+                                <p class="wwd-text">Empowering investors with data-driven insights and intuitive trading platforms.</p>
+                            </div>
+
+                        </div>
+                        <div class="col-6 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="healthcare" />
+                                <h4 class="wwd-title">Healthcare</h4>
+                                <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="iot" />
+                                <h4 class="wwd-title">IoT</h4>
+                                <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="th" />
+                                <h4 class="wwd-title">Travel and Hospitality</h4>
+                                <p class="wwd-text">Crafting memorable customer digital journeys, from booking to exploration, for unforgettable experiences.</p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
+                                <h4 class="wwd-title">Enterprise Solutions</h4>
+                                <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
+                                <h4 class="wwd-title">Startup Ventures</h4>
+                                <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3 col-lg-3">
+                            <div class="wwd-item">
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
+                                <h4 class="wwd-title">B2C</h4>
+                                <p class="wwd-text">Enhancing consumer experiences with engaging and intuitive digital platforms</p>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+            </div>
+        </section>
 
 
 
 
-    <?php 
-        $title = 'Start Your Consultation'; 
-        $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.';
-        $buttonName = 'Get a Free consultation';
-        $imageLink = "assets/images/homepage-contact-us.jpg";
-        $imageAlt = "Get a Free consultation";
-        include $path . 'components/hire-designers-engineers.php'; 
-    ?>
-    <!-- testimonials  -->
-    <?php $faq_tag = 'ux-audit'; include 'components/faq.php'; ?>
-    <!-- testimonials -- end  -->
-
+        <?php 
+            $title = 'Start Your Consultation'; 
+            $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.';
+            $buttonName = 'Get a Free consultation';
+            $imageLink = "assets/images/homepage-contact-us.jpg";
+            $imageAlt = "Get a Free consultation";
+            include $path . 'components/hire-designers-engineers.php'; 
+        ?>
+        <!-- testimonials  -->
+        <?php $faq_tag = 'ux-audit'; include 'components/faq.php'; ?>
+        <!-- testimonials -- end  -->
+    </main>
     <div class="mb-4 mb-md-0"></div>
     <?php include $path . 'components/registration-modal.php'; ?>
     <script src="<?php echo $path; ?>assets/js/lp-enquiry.js"></script>

@@ -18,10 +18,10 @@ $filtered_team = array_filter($team_data, function ($member) use ($tag) {
                 <div class="blog-card color-bw h-100">
                     <img src="<?php echo $path . $member['image']; ?>" class="team-img-top" alt="<?php echo $member['name']; ?>" />
                     <div class="card-body">
-                        <h5 class="team-card-title d-flex justify-content-between align-items-center">
+                        <div class="team-card-title d-flex justify-content-between align-items-center">
                             <span><?php echo $member['name']; ?></span>
                             <img src="<?php echo $path; ?>assets/images/icons/linkedin.svg" alt="LinkedIn" class="team-linkedin-logo">
-                        </h5>
+    </div>
                         <p class="team-card-text">
                             <small class="text-muted"><?php echo $member['role']; ?></small>
                         </p>

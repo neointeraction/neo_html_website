@@ -127,8 +127,8 @@
                                             src="<?php echo $path; ?>assets/images/projects/<?php echo $project['mobileImage']; ?>"
                                             alt="<?php echo $project['alt']; ?>"
                                             class="img-fluid project-image d-flex d-md-none" 
-                                            width="584"
-                                            height="280">
+                                            width="438"
+                                            height="126">
                                     </div>
                                     <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <div class="project-tags">
@@ -179,38 +179,38 @@
                 <div class="row">
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/star.svg" alt="star" />
+                            <img src="<?php echo $path; ?>assets/images/star.svg" alt="Star" height="40px" width="40px"/>
                             <p class="wwd-text">Design Thinking is our Gene factor</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/check.svg" alt="check" />
+                            <img src="<?php echo $path; ?>assets/images/check.svg" alt="check"  height="40px" width="40px"/>
                             <p class="wwd-text">Design for meaningful impact in lives</p>
                         </div>
 
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/doc.svg" alt="star" />
+                            <img src="<?php echo $path; ?>assets/images/doc.svg" alt="Star"  height="40px" width="40px"/>
                             <p class="wwd-text">Business friendly engaging models </p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/like.svg" alt="like" />
+                            <img src="<?php echo $path; ?>assets/images/like.svg" alt="like"  height="40px" width="40px"/>
                             <p class="wwd-text">Focused on functional designs</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/money.svg" alt="money" />
+                            <img src="<?php echo $path; ?>assets/images/money.svg" alt="money"  height="40px" width="40px"/>
                             <p class="wwd-text">Designs with measurable ROI</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/click.svg" alt="click" />
+                            <img src="<?php echo $path; ?>assets/images/click.svg" alt="click"  height="40px" width="40px"/>
                             <p class="wwd-text">Provides end to end design services</p>
                         </div>
                     </div>

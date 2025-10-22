@@ -51,6 +51,7 @@ body {
 }
 
 .navbar-brand img {
+  height: 52px;
   margin-right: 10px;
 }
 

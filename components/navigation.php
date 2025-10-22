@@ -1,6 +1,5 @@
     <!-- navbar  -->
-    
-    <nav class="navbar-container">
+    <nav class="navbar-container"  role="navigation">
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -58,3 +57,4 @@
         </div>
       </div>
     </nav>
+  
