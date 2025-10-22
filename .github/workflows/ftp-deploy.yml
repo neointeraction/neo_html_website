@@ -1,0 +1,31 @@
+name: FTP Deploy
+
+on:
+  push:
+    branches:
+      - main # or your primary branch like 'master' or 'development'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 2
+
+    - name: FTP Deploy
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      with:
+        server: 'ftp.oranjdot.net'
+        username: 'neo@oranjdot.net'
+        password: 'Pwd@110925'
+        port: '21'
+        protocol: ftps # or 'ftp' or 'sftp' depending on your server
+        local-dir: ./ # The directory to upload from (current directory)
+        server-dir: /public_html/ # The directory on the FTP server to upload to
+        state-name: .ftp-deploy-sync-state.json
+        exclude: |
+          **/.git*
+          **/.ftp-deploy-sync-state.json
+          **/node_modules/**
+          **/.github/**
