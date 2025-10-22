@@ -4,6 +4,9 @@
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
+    <link rel="preload" href="<?php echo $path; ?>assets/css/fonts.css" as="style">
+    <link href="<?php echo $path; ?>assets/css/fonts.css" rel="stylesheet">
+    <link href="<?php echo $path; ?>assets/css/combined.min.css" rel="stylesheet">
     <?php include $path . 'includes/css.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
     <meta name="description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
@@ -45,7 +48,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/ux.svg" alt="ux" >
+                                <img src="assets/images/ux.svg" alt="ux" width="64" height="64">
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
@@ -61,7 +64,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/pd.svg" alt="pd" >
+                                <img src="assets/images/pd.svg" alt="pd" width="64" height="64">
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
@@ -76,7 +79,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/dt.svg" alt="dt" >
+                                <img src="assets/images/dt.svg" alt="dt" width="64" height="64">
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
@@ -92,7 +95,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/fd.svg" alt="fd" >
+                                <img src="assets/images/fd.svg" alt="fd" width="64" height="64">
                             </div>
                             <h4 class="title">Frontend Development</h4>
                             <p class="description">
@@ -200,7 +203,7 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <img src="assets/images/events/workshop-on-accelerating-design-decisions.jpeg" alt="Project Image" class="img-fluid project-image" >
+                                    <img src="assets/images/events/workshop-on-accelerating-design-decisions.webp" alt="Project Image" class="img-fluid project-image" width="580" height="284">
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <h2 class="project-title">

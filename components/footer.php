@@ -8,7 +8,7 @@
       <div class="row align-items-start pb-4 footer-logo-social">
         <div class="col-12 col-md-6 mb-3 mb-md-0">
           <div class="d-flex align-items-center mb-3 footer-logo-container">
-            <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="footer" class="footer-neo-logo" />
+            <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="footer" class="footer-neo-logo"  width="238px" height="52px" />
           </div>
         </div>
         <div class="col-12 col-md-6 text-md-end footer-social-icons">
