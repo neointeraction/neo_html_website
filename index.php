@@ -216,7 +216,7 @@
                                         career path.
                                     </p>
 
-                                    <button class="btn btn-custom read-more-btn" onclick="window.location.href='ux-design-audit.php'">
+                                    <button class="btn btn-custom read-more-btn" onclick="window.location.href='blogs/takeaways-from-our-1-day-ux-design-workshop'">
                                         Read More
                                     </button>
                                 </div>
