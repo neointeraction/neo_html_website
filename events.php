@@ -40,7 +40,7 @@
     </div>
     <!-- navbar  end  -->
     <!-- banner  -->
-    <section class="event-banner section-padding">
+    <section class="banner heading-padding">
         <div>
             <div class="container">
                 <h1 class="banner-title">
