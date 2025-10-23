@@ -1,46 +1,42 @@
 <?php
 header('Content-Type: application/json');
 
-// Include PHPMailer classes
+require __DIR__ . '/../vendor/autoload.php'; // Adjust path to autoload.php
+// Temporarily add a die statement to check if autoload.php is reached
+// die('Autoload.php included successfully!');
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\OAuth;
+use League\OAuth2\Client\Provider\Google;
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Use safer sanitization for PHP 8+
-$name = htmlspecialchars(trim($_POST['cs_name'] ?? ''));
-$email = filter_input(INPUT_POST, 'cs_work_email', FILTER_SANITIZE_EMAIL);
-$mobile = htmlspecialchars(trim($_POST['cs_mobile_number'] ?? ''));
-$enquiryType = htmlspecialchars(trim($_POST['cs_enquiryType'] ?? ''));
-$caseStudyUrl = filter_input(INPUT_POST, 'caseStudyUrl', FILTER_SANITIZE_URL);
+    $name = htmlspecialchars(trim($_POST['cs_name'] ?? ''));
+    $email = filter_input(INPUT_POST, 'cs_work_email', FILTER_SANITIZE_EMAIL);
+    $mobile = htmlspecialchars(trim($_POST['cs_mobile_number'] ?? ''));
+    $enquiryType = htmlspecialchars(trim($_POST['cs_enquiryType'] ?? ''));
+    $caseStudyUrl = filter_input(INPUT_POST, 'caseStudyUrl', FILTER_SANITIZE_URL);
 
-// Basic validation
-if (empty($name) || empty($email) || empty($mobile) || empty($caseStudyUrl)) {
-echo json_encode(['status' => 'error', 'message' => 'Missing required fields.']);
-exit;
-}
-
-if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-echo json_encode(['status' => 'error', 'message' => 'Invalid email format.']);
-exit;
-}
-
-if (!preg_match('/^\+?[0-9]{10,15}$/', $mobile)) {
-echo json_encode(['status' => 'error', 'message' => 'Invalid mobile number format.']);
-exit;
-}
-
-try {
-// Function to create email headers
-function createHeaders($sender, $mimeType = 'text/html', $replyTo = null) {
-    $headers = "MIME-Version: 1.0\r\n";
-    $headers .= "Content-type: {$mimeType}; charset=utf-8\r\n";
-    $headers .= "From: {$sender}\r\n";
-    if ($replyTo) {
-        $headers .= "Reply-To: {$replyTo}\r\n";
+    // Basic validation
+    if (empty($name) || empty($email) || empty($mobile) || empty($caseStudyUrl)) {
+        echo json_encode(['status' => 'error', 'message' => 'Missing required fields.']);
+        exit;
     }
-    $headers .= "X-Mailer: PHP/" . phpversion();
-    return $headers;
-}
 
-// User Email (HTML)
-$userEmailBody = '
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        echo json_encode(['status' => 'error', 'message' => 'Invalid email format.']);
+        exit;
+    }
+
+    if (!preg_match('/^\+?[0-9]{10,15}$/', $mobile)) {
+        echo json_encode(['status' => 'error', 'message' => 'Invalid mobile number format.']);
+        exit;
+    }
+
+    // User Email (HTML)
+    $userEmailBody = '
 <!DOCTYPE html>
 <html lang="en">
 
@@ -100,20 +96,21 @@ $userEmailBody = '
     }
 
     .button {
-        display: inline-block;
-        padding: 12px 25px;
-        background-color: #ff0000;
-        color: #ffffff;
-        text-decoration: none;
-        border-radius: 25px;
-        font-size: 16px;
-        border: 2px solid #ff0000;
-        transition: background-color 0.3s ease;
+  background-color: #2b2828;
+  font-size: 16px;
+  color: #fff;
+  border: 1px solid #2b2828;
+  padding: 11px 24px;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+  border-radius: 0px;
+  width: auto;
     }
 
     .button:hover {
-        background-color: #cc0000;
-        border-color: #cc0000;
+          background-color: #555;
+  color: #2b2828;
+  transition: 0.3s all ease-in-out;
     }
 
     .footer {
@@ -176,7 +173,7 @@ $userEmailBody = '
 <body>
     <div class="email-container">
         <div class="header">
-            <img src="https://oranjdot.net/neo/assets/images/header_logo.png" alt="Neointeraction Design Logo">
+            <img src="https://oranjdot.net/neo/assets/images/header_logo.png" alt="Neointeraction Design Logo"  width="239px" height="52px">
         </div>
         <div class="content">
             <h1>Thank You for Form Submission</h1>
@@ -193,13 +190,13 @@ $userEmailBody = '
                     <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank" rel="noopener noreferrer">
                     <img src="https://oranjdot.net/neo/assets/images/social/linkedin.svg" alt="linkedin" /></a>
                     <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img 
-                     src="https://oranjdot.net/neo/assets/images/social/ig.svg" alt="ig" /></a>
+                     src="https://www.instagram.com/neointeraction/" alt="ig" /></a>
                     <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img 
-                     src="https://oranjdot.net/neo/assets/images/social/fb.svg" alt="fb" /></a>
+                     src="https://www.facebook.com/Neointeraction/" alt="fb" /></a>
                     <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img 
-                     src="https://oranjdot.net/neo/assets/images/social/db.svg" alt="db" /></a>
+                     src="https://dribbble.com/neointeraction" alt="db" /></a>
                     <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img 
-                     src="https://oranjdot.net/neo/assets/images/social/med.svg" alt="medium" /></a>
+                     src="https://neointeraction-design.medium.com/" alt="medium" /></a>
                 </div>
                 <div class="divider"></div>
                 <div class="footer-section website-link">
@@ -214,38 +211,90 @@ $userEmailBody = '
 </html>
 ';
 
-$userHeaders = createHeaders('info@neointeraction.com', 'text/html', 'info@neointeraction.com');
-$userSubject = "Your Case Study Download Link from Neointeraction";
+    // Create a new PHPMailer instance
+    $mail = new PHPMailer(true); // Passing `true` enables exceptions
 
-if (!mail($email, $userSubject, $userEmailBody, $userHeaders)) {
-    throw new Exception('Failed to send user email.');
-}
+    try {
+        // Load client secrets from client_secret.json
+        $clientSecretPath = __DIR__ . '/../assets/js/client_secret.json'; // Adjust path
+        $tokenPath = __DIR__ . '/../token.json'; // Adjust path
 
-// Send admin notification
-$adminEmailBody = "A new case study download request has been submitted.\n\n";
-$adminEmailBody .= "Name: " . $name . "\n";
-$adminEmailBody .= "Email: " . $email . "\n";
-$adminEmailBody .= "Mobile: " . $mobile . "\n";
-$adminEmailBody .= "Case Study: " . $enquiryType . "\n";
-$adminEmailBody .= "Download Link: " . $caseStudyUrl . "\n";
-$adminEmailBody .= "Timestamp: " . date('Y-m-d H:i:s') . "\n";
+        if (!file_exists($clientSecretPath)) {
+            throw new Exception('client_secret.json not found at ' . $clientSecretPath);
+        }
+        if (!file_exists($tokenPath)) {
+            throw new Exception('token.json not found at ' . $tokenPath . '. Please run generate_token.php first.');
+        }
 
-$adminHeaders = createHeaders($email, 'text/plain', $email);
-$adminSubject = "New Case Study Download Request: " . $enquiryType;
+        $clientSecrets = json_decode(file_get_contents($clientSecretPath), true);
+        $accessToken = json_decode(file_get_contents($tokenPath), true);
 
-if (!mail('info@neointeraction.com', $adminSubject, $adminEmailBody, $adminHeaders)) {
-    throw new Exception('Failed to send admin email.');
-}
+        $provider = new Google(
+            [
+                'clientId' => $clientSecrets['web']['client_id'],
+                'clientSecret' => $clientSecrets['web']['client_secret'],
+                'redirectUri' => 'http://localhost/neo_html_website/', // This should match the one in generate_token.php and Google Cloud Console
+            ]
+        );
 
-echo json_encode(['status' => 'success', 'message' => 'Emails sent successfully.']);
-} catch (Exception $e) {
-error_log("Message could not be sent. Mail function Error: {$e->getMessage()}");
-echo json_encode([
-'status' => 'error',
-'message' => 'Mail function Error: ' . $e->getMessage()
-]);
-}
+        $mail->isSMTP();
+        $mail->SMTPAuth = true;
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->Host = 'smtp.gmail.com';
+        $mail->Port = 465;
+        $mail->AuthType = 'XOAUTH2';
+        $mail->setOAuth(
+            new OAuth(
+                [
+                    'provider' => $provider,
+                    'clientId' => $clientSecrets['web']['client_id'],
+                    'clientSecret' => $clientSecrets['web']['client_secret'],
+                    'refreshToken' => $accessToken['refresh_token'],
+                    'userName' => 'midhun@neointeraction.com', // The email address you are sending from
+                ]
+            )
+        );
+
+        $mail->setFrom('midhun@neointeraction.com', 'Neointeraction Design');
+        $mail->addReplyTo('midhun@neointeraction.com', 'Neointeraction Design');
+
+        //Recipients
+        $mail->addAddress($email, $name); // Add a recipient
+        $mail->Subject = "Your Case Study Download Link from Neointeraction";
+        $mail->isHTML(true);
+        $mail->Body = $userEmailBody;
+
+        $mail->send();
+
+        // Clear all addresses and attachments for the next email
+        $mail->clearAddresses();
+        $mail->clearAttachments();
+
+        // Admin notification email
+        $adminEmailBody = "A new case study download request has been submitted.\n\n";
+        $adminEmailBody .= "Name: " . $name . "\n";
+        $adminEmailBody .= "Email: " . $email . "\n";
+        $adminEmailBody .= "Mobile: " . $mobile . "\n";
+        $adminEmailBody .= "Case Study: " . $enquiryType . "\n";
+        $adminEmailBody .= "Download Link: " . $caseStudyUrl . "\n";
+        $adminEmailBody .= "Timestamp: " . date('Y-m-d H:i:s') . "\n";
+
+        $mail->addAddress('midhun@neointeraction.com'); // Admin email
+        $mail->Subject = "New Case Study Download Request: " . $enquiryType;
+        $mail->isHTML(false); // Admin email can be plain text
+        $mail->Body = $adminEmailBody;
+
+        $mail->send();
+        echo json_encode(['status' => 'success', 'message' => 'Emails sent successfully.']);
+
+    } catch (Exception $e) {
+        error_log("Message could not be sent. Mailer Error: {$mail->ErrorInfo}");
+        echo json_encode([
+            'status' => 'error',
+            'message' => 'Message could not be sent. Mailer Error: ' . $mail->ErrorInfo
+        ]);
+    }
 
 } else {
-echo json_encode(['status' => 'error', 'message' => 'Invalid request method.']);
+    echo json_encode(['status' => 'error', 'message' => 'Invalid request method.']);
 }

@@ -390,9 +390,9 @@ include_once 'includes/tracking-functions.php';
             <h2 class="section-title">Our Process</h2>
             <div class="video-container section-margin">
                 
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=B8pq4kK3-ExetQKL" title="YouTube video player" frameborder="0"
+                <iframe width="100%" height="650" src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=B8pq4kK3-ExetQKL" title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-                    allowfullscreen style="border-radius: 0;"></iframe>
+                    allowfullscreen  loading="lazy" style="border-radius: 0;"></iframe>
             </div>
         </div>
     </section>

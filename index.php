@@ -4,8 +4,9 @@
     <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
     <?php include $path . 'includes/head-additional-scripts.php'; ?>
     <?php include $path . 'includes/favicon.php'; ?>
-    <link rel="preload" href="<?php echo $path; ?>assets/css/fonts.css" as="style">
-    <link href="<?php echo $path; ?>assets/css/fonts.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
     <?php include $path . 'includes/css.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
     <meta name="description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
@@ -21,7 +22,8 @@
     <meta property="og:type" content="website" >
     <meta name="google-site-verification" content="" >
     <meta name="twitter:card" content="summary_large_image" >
-    <meta name="twitter:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" >
+    <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" >
     <meta name="twitter:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" >
 </head>
@@ -180,7 +182,7 @@
             <div class="video-container section-margin">
                 <iframe class="video-iframe" height="650" style="width:100%;border:0;border-radius: 0;" src="https://www.youtube-nocookie.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" title="YouTube video player"
                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
             </div>
         </div>
     </section>
@@ -253,7 +255,7 @@
         $title = 'Submit Enquiry'; 
         $desc = 'Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!';
         $buttonName = 'Contact Us';
-        $imageLink = "assets/images/homepage-contact-us.jpg";
+        $imageLink = "assets/images/about-us/hire-ui.webp";
         $imageAlt = "Contact us";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>

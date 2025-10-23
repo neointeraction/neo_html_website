@@ -177,7 +177,7 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/building.svg" alt="qa" />
+                            <img src="<?php echo $path; ?>assets/images/icons/building.svg" alt="qa" width="40px" height="40px" />
                             <h4 class="wwd-title">Expertise in Fintech and Banking UX Design</h4>
                             <p class="wwd-text">Leading the industry with our deep understanding of fintech and banking
                                 dynamics, we collaborate closely with financial professionals to craft user-centric
@@ -186,7 +186,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/chart.svg" alt="value" />
+                            <img src="<?php echo $path; ?>assets/images/icons/chart.svg" alt="value" width="40px" height="40px" />
                             <h4 class="wwd-title">Customer-Centric Solutions</h4>
                             <p class="wwd-text">Our UX/UI designs are tailored to meet the evolving needs of both
                                 customers and financial institutions. Leveraging cutting-edge technologies such as AI
@@ -196,7 +196,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="optimise" />
+                            <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="optimise" width="40px" height="40px" />
                             <h4 class="wwd-title">Research-Driven Approach</h4>
                             <p class="wwd-text">Through rigorous qualitative research, we identify pain points in
                                 existing financial processes and translate them into innovative digital solutions. Our
@@ -207,7 +207,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="data" />
+                            <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="data" width="40px" height="40px" />
                             <h4 class="wwd-title">Domain Expertise and Guidance</h4>
                             <p class="wwd-text">With a team of experts in fintech and banking, we provide valuable
                                 mentorship and guidance throughout the design process. Our solutions align with industry
@@ -217,7 +217,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="plane" />
+                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="plane" width="40px" height="40px" />
                             <h4 class="wwd-title">Future-Focused Design Solutions</h4>
                             <p class="wwd-text">Committed to staying ahead of the curve, we anticipate future trends and
                                 design solutions that are scalable and adaptable. Our forward-thinking approach ensures
@@ -228,7 +228,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="team" />
+                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="team" width="40px" height="40px" />
                             <h4 class="wwd-title">Impactful Banking and Fintech Solutions</h4>
                             <p class="wwd-text">From optimizing digital banking platforms to revolutionizing payment
                                 systems and implementing AI-driven solutions, we've helped financial institutions
@@ -366,10 +366,10 @@ include_once 'includes/tracking-functions.php';
             <h2 class="section-title">Our Process</h2>
             <div class="video-container section-margin">
 
-                <iframe width="100%" height="650" src="https://www.youtube.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR"
+                <iframe width="100%" height="650" src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR"
                     title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;"></iframe>
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy" style="border-radius: 0;"></iframe>
             </div>
         </div>
     </section>
