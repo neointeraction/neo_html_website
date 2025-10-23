@@ -409,7 +409,7 @@ body {
 }
 
 
-.testimonial-card .detailed{
+.testimonial-card.detailed{
   min-height: 450px;
 }
 

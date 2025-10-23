@@ -28,11 +28,16 @@
                                     <span class="author-title"><?php echo $testimonial['author_title']; ?></span>
                                 </div>
                             </div>
+                            <?php if($testimonial['project_link']) {?>
                             <div class="testimonial-action">
                                 <a href="<?php echo $path . $testimonial['project_link']; ?>" class="btn btn-custom btn-custom-secondary">
                                 Take me to project details
                                 </a>
                             </div>
+                            <?php }else{ ?>
+                                <div class="testimonial-action" style="height:48px">
+                                </div>
+                            <?php } ?>
                         </div>
                 <?php
                     }
