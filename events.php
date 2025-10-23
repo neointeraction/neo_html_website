@@ -126,8 +126,9 @@
                                     <p class="project-description">
                                         <?php echo $event['description']; ?>
                                     </p>
+                                    
                                     <?php if($event['link']){ ?>
-                                    <button class="btn btn-custom btn-custom-secondary em-btn" onclick="location.href='<?php echo $rootPath . $event['link']; ?>';"
+                                    <button class="btn btn-custom btn-custom-secondary em-btn" onclick="location.href='<?php if($event['isVideo']){ echo $event['link'];} else{ ?> <?php echo $rootPath . 'blogs/'.$event['link']; }?>';"
                                         style="cursor: pointer;">
                                         View More
                                     </button>

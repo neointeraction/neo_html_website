@@ -4,41 +4,46 @@
         "description": "1-Day workshop on how to implement Micro Frontend Architecture in large-scale applications for streamlined development and to enhance digital interactions curated for Frontend Development Engineers.",
         "image": "micro-frontend-architecture.jpeg",
         "alt": "Micro Frontend Architecture Driving User Experience",
-        "link": "micro-frontend-architecture-driving-user-experience.php"
+        "link": "takeaways-from-our-1-day-workshop-on-micro-frontend-architecture"
     },
     {
         "title": "Effective Methods to Accelerate Design decisions",
         "description": "A one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product Designers to elevate their product experiences and uplift their design career path.",
         "image": "effective-methods-to-accelerate-design-decisions.jpeg",
         "alt": "Effective Methods to Accelerate Design decisions",
-        "link": "effective-methods-to-accelerate-design-decisions.php"
+        "link": "takeaways-from-our-1-day-ux-design-workshop",
+        "isVideo": false
     },
     {
         "title": "Simplifying Logo Design with Grids",
         "description": "Learn expert techniques and strategies that will help you create simpler, more impactful logos using grid systems",
         "image": "simplifying-logo-design-with-grids.jpeg",
         "alt": "Simplifying Logo Design with Grids",
-        "link": "simplifying-logo-design-with-grids.php"
+        "link": "",
+        "isVideo": false
     },
     {
         "title": "Introduction to Micro frontend Architecture",
         "description": "Learn key benefits, best practices, and real-world applications for your development process.",
         "image": "introduction-to-micro-frontend-architecture.jpeg",
         "alt": "Introduction to Micro frontend Architecture",
-        "link": "introduction-to-micro-frontend-architecture.php"
+        "link": "https://www.youtube.com/watch?v=ag_Y_vApTp8",
+        "isVideo": true
     },
     {
         "title": "How to make your UX UI Portfolio standout",
         "description": "Mastering UI/UX Portfolios: Key Takeaways from Our Webinar on how to design a standout portfolio and make a lasting a lasting impression.",
         "image": "how-to-make-your-ux-ui-portfolio-standout.jpeg",
         "alt": "How to make your UX UI Portfolio standout",
-        "link": "how-to-make-your-ux-ui-portfolio-standout.php"
+        "link": "mastering-ui-ux-portfolios-key-takeaways-from-our-webinar",
+        "isVideo": false
     },
     {
         "title": "Introduction to Micro frontend Architecture",
         "description": "Explored the transformative potential of micro front-end architecture with real-world use cases in our recent workshop.",
         "image": "introduction-to-micro-frontend-architecture-2.jpeg",
         "alt": "Introduction to Micro frontend Architecture",
-        "link": "introduction-to-micro-frontend-architecture-2.php"
+        "link": "",
+        "isVideo": false
     }
 ]
