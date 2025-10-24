@@ -51,7 +51,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/ux.svg" alt="ux" width="64" height="64">
+                                <img src="assets/images/ux.svg" alt="UX design icon" width="64" height="64">
                             </div>
                             <h3 class="title">UX Design</h3>
                             <p class="description">
@@ -67,7 +67,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/pd.svg" alt="pd" width="64" height="64">
+                                <img src="assets/images/pd.svg" alt="Product design icon" width="64" height="64">
                             </div>
                             <h3 class="title">Product Design</h3>
                             <p class="description">
@@ -82,7 +82,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/dt.svg" alt="dt" width="64" height="64">
+                                <img src="assets/images/dt.svg" alt="UX audit icon" width="64" height="64">
                             </div>
                             <h3 class="title">UX Audit</h3>
                             <p class="description">
@@ -98,7 +98,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/fd.svg" alt="fd" width="64" height="64">
+                                <img src="assets/images/fd.svg" alt="Frontend development icon" width="64" height="64">
                             </div>
                             <h3 class="title">Frontend Development</h3>
                             <p class="description">
@@ -206,7 +206,7 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <img src="assets/images/events/workshop-on-accelerating-design-decisions.webp" alt="Project Image" class="img-fluid project-image" width="580" height="284">
+                                    <img src="assets/images/events/workshop-on-accelerating-design-decisions.webp" alt="UX design workshop by Neointeraction Design" class="img-fluid project-image" width="580" height="284">
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <h2 class="project-title">
