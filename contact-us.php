@@ -166,15 +166,7 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
 
-    <script>
-        // Get tracking data from PHP and pass to contact-us.js
-        const trackingData = <?php echo getTrackingDataJson(); ?>;
-        document.addEventListener('DOMContentLoaded', function() {
-            if (typeof window.trackingData !== 'undefined') {
-                window.trackingData = trackingData;
-            }
-        });
-    </script>
+    <?php include 'includes/tracking-script.php'; ?>
    
 </body>
 </html>

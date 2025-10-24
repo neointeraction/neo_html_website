@@ -41,10 +41,11 @@ include_once 'includes/tracking-functions.php';
     <?php $page='blog';
     $events = [
         [
-            'title' => 'UX Audit for a Health and Wellness Brand',
-            'description' => 'Health and wellness site redesigned through UX audit to enhance user engagement, accessibility, and brand reach.',
-            'image' => 'projects/digital-experience/mega-we-care-homepage-banner-listing.jpg',
-            'alt' => 'UX Audit for a Health and Wellness Brand',
+            'title' => 'Digital Experience in Health & Wellness',
+            'description' => 'Enhancing user experience for digital health and wellness platforms.',
+             'image'=> 'thumb/desk/mega-we-care-homepage-banner.webp',
+        'mobileImage'=> 'thumb/mobile/mega-we-care-homepage-banner.webp',
+        'alt' => 'UX Audit for a Health and Wellness Brand',
             'link' => 'digital-health-wellness.php'
         ]]
     ?>
@@ -65,7 +66,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="col-lg-6">
                             <div class="contact-left">
                                 <h1 class="banner-title">
-                                    Unlock Full Potential <br>with  <span class="highlight">UX Audit
+                                    Unlock Full Potential <br>with <span class="highlight">UX Audit
                                 </h1>
 
                                 <div class="contact-info d-none d-md-block">
@@ -84,46 +85,41 @@ include_once 'includes/tracking-functions.php';
 
 
                                 <form id="contactForm">
-        <div class="form-group">
-            <label for="lp_name" class="form-label">Name</label>
-            <input type="text" id="lp_name" name="lp_name" class="form-control custom-input"
-                placeholder="Enter name" required>
-            <div id="lp_name-error" class="text-danger" aria-live="polite"></div>
-        </div>
+                                    <div class="form-group">
+                                        <label for="lp_name" class="form-label">Name</label>
+                                        <input type="text" id="lp_name" name="lp_name" class="form-control custom-input" placeholder="Enter name" required>
+                                        <div id="lp_name-error" class="text-danger" aria-live="polite"></div>
+                                    </div>
 
-        <div class="form-group">
-            <label for="lp_work_email" class="form-label">Work email</label>
-            <input type="email" id="lp_work_email" name="lp_work_email"
-                class="form-control custom-input" placeholder="Enter work email"
-                pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
-            <div id="lp_email-error" class="text-danger" aria-live="polite"></div>
-        </div>
+                                    <div class="form-group">
+                                        <label for="lp_work_email" class="form-label">Work email</label>
+                                        <input type="email" id="lp_work_email" name="lp_work_email" class="form-control custom-input" placeholder="Enter work email"
+                                            pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
+                                        <div id="lp_email-error" class="text-danger" aria-live="polite"></div>
+                                    </div>
 
-        <div class="form-group">
-            <label for="lp_mobile_number" class="form-label">Mobile Number</label>
-            <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
-                class="form-control custom-input"
-                placeholder="Enter mobile number (e.g. +1234567890)" pattern="^\+?[0-9]{10,15}$"
-                required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
-            <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
-        </div>
+                                    <div class="form-group">
+                                        <label for="lp_mobile_number" class="form-label">Mobile Number</label>
+                                        <input type="tel" id="lp_mobile_number" name="lp_mobile_number" class="form-control custom-input"
+                                            placeholder="Enter mobile number (e.g. +1234567890)" pattern="^\+?[0-9]{10,15}$" required
+                                            oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
+                                        <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
+                                    </div>
 
-        <div class="form-group">
-            <label for="lp_designation" class="form-label">Which service would you like to
-                request?*</label>
-            <input id="lp_designation" name="lp_designation" class="form-control custom-input"
-                placeholder="Enter your service request here" required>
-            <div id="lp_designation-error" class="text-danger" aria-live="polite"></div>
-        </div>
-        <div id="lp_contact-status"></div>
-        <div class="form-btn-container">
-            <button type="button" class="btn btn-custom" id="lp_contact-submit-btn"
-                onclick="submitLPForm()">
-                Submit Enquiry
-            </button>
-        </div>
+                                    <div class="form-group">
+                                        <label for="lp_designation" class="form-label">Which service would you like to
+                                            request?*</label>
+                                        <input id="lp_designation" name="lp_designation" class="form-control custom-input" placeholder="Enter your service request here" required>
+                                        <div id="lp_designation-error" class="text-danger" aria-live="polite"></div>
+                                    </div>
+                                    <div id="lp_contact-status"></div>
+                                    <div class="form-btn-container">
+                                        <button type="button" class="btn btn-custom" id="lp_contact-submit-btn" onclick="submitLPForm()">
+                                            Submit Enquiry
+                                        </button>
+                                    </div>
 
-    </form>
+                                </form>
                             </div>
                         </div>
 
@@ -137,7 +133,7 @@ include_once 'includes/tracking-functions.php';
                 </div>
             </div>
         </section>
-        
+
 
 
 
@@ -222,8 +218,7 @@ include_once 'includes/tracking-functions.php';
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
                                     <div class="icon-container">
-                                        <img src="<?php echo $path; ?>assets/images/hand-pointer.svg"
-                                            alt="Uncover Usability" />
+                                        <img src="<?php echo $path; ?>assets/images/hand-pointer.svg" alt="Uncover Usability" />
                                     </div>
                                     <h4 class="title">Uncover Usability Issues</h4>
                                     <p class="description">
@@ -271,10 +266,11 @@ include_once 'includes/tracking-functions.php';
                             <div class="col-12">
                                 <div class="project-card d-lg-flex">
                                     <div class="col-lg-6 p-0 project-image-container">
-                                        <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
-                                            alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
-                                            height="auto" />
-                                    </div>
+                                          <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['image']; ?>" alt="<?php echo $event['alt']; ?>"
+                                        class="img-fluid project-image d-none d-md-block" width="584" height="280" />
+                                    <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['mobileImage']; ?>" alt="<?php echo $event['alt']; ?>"
+                                        class="img-fluid project-image d-flex d-md-none" width="438" height="126" />
+                                </div>
                                     <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                         <h2 class="project-title">
                                             <?php echo $event['title']; ?>
@@ -309,7 +305,7 @@ include_once 'includes/tracking-functions.php';
                             </div>
                         </div>
                         <div class="col-md-9">
-                        <div class="quote-icon d-none d-md-block"></div>
+                            <div class="quote-icon d-none d-md-block"></div>
                             <p class="blog-quote-text">Everything related to project management was good.</p>
                         </div>
                     </div>
@@ -322,11 +318,9 @@ include_once 'includes/tracking-functions.php';
             <div class="container">
                 <h2 class="section-title">Our Process</h2>
                 <div class="video-container section-margin">
-                    <iframe class="video-iframe" width="100%" height="650"
-                        src="https://www.youtube-nocookie.com/embed/AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh" title="YouTube video player"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy" style="border-radius: 0;"></iframe>
+                    <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube-nocookie.com/embed/AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh" title="YouTube video player"
+                        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" style="border-radius: 0;"></iframe>
                 </div>
             </div>
         </section>
@@ -334,7 +328,9 @@ include_once 'includes/tracking-functions.php';
         <section class="industry-experience section-padding mb-5">
             <div class="container">
                 <h2 class="section-title">Industry Experience</h2>
-                <p class="body-text">Neointeraction Design is an expert frontend development company in India that specialize in implementing pixel-perfect UI designs across diverse industries, driving successful outcomes for enterprise solutions, startup ventures, and B2C products enhancing user experiences and boosts business performance.</p>
+                <p class="body-text">Neointeraction Design is an expert frontend development company in India that specialize in implementing pixel-perfect UI designs across
+                    diverse industries, driving successful outcomes for enterprise solutions, startup ventures, and B2C products enhancing user experiences and boosts business
+                    performance.</p>
                 <div class="what-we-do-block section-margin">
                     <div class="row">
                         <div class="col-6 col-md-3 col-lg-3">
@@ -395,7 +391,7 @@ include_once 'includes/tracking-functions.php';
                             </div>
                         </div>
                     </div>
-                </div> 
+                </div>
             </div>
         </section>
 
@@ -421,15 +417,8 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
     <script src="<?php echo $path; ?>assets/js/events.js"></script>
-
     <script>
-    // Get tracking data from PHP and pass to events.js
-    const trackingData = <?php echo getTrackingDataJson(); ?>;
-    document.addEventListener('DOMContentLoaded', function() {
-        if (typeof window.trackingData !== 'undefined') {
-            window.trackingData = trackingData;
-        }
-    });
+    <?php include 'includes/tracking-script.php'; ?>
     </script>
 </body>
 

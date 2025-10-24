@@ -550,16 +550,7 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
     <script src="<?php echo $path; ?>assets/js/events.js"></script>
-
-    <script>
-    // Get tracking data from PHP and pass to events.js
-    const trackingData = <?php echo getTrackingDataJson(); ?>;
-    document.addEventListener('DOMContentLoaded', function() {
-        if (typeof window.trackingData !== 'undefined') {
-            window.trackingData = trackingData;
-        }
-    });
-    </script>
+    <script><?php include 'includes/tracking-script.php'; ?></script>  
 </body>
 
 </html>
