@@ -29,7 +29,6 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:url" content="" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
-    <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Expert UX Design Audit in India | Neointeraction Design | Contact Us" />
     <meta name="twitter:description"
@@ -44,8 +43,8 @@ include_once 'includes/tracking-functions.php';
             'title' => 'Digital Experience in Health & Wellness',
             'description' => 'Enhancing user experience for digital health and wellness platforms.',
              'image'=> 'thumb/desk/mega-we-care-homepage-banner.webp',
-        'mobileImage'=> 'thumb/mobile/mega-we-care-homepage-banner.webp',
-        'alt' => 'UX Audit for a Health and Wellness Brand',
+            'mobileImage'=> 'thumb/mobile/mega-we-care-homepage-banner.webp',
+            'alt' => 'UX Audit for a Health and Wellness Brand',
             'link' => 'digital-health-wellness.php'
         ]]
     ?>
@@ -66,7 +65,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="col-lg-6">
                             <div class="contact-left">
                                 <h1 class="banner-title">
-                                    Unlock Full Potential <br>with <span class="highlight">UX Audit
+                                    Unlock Full Potential <br>with <span class="highlight">UX Audit</span>
                                 </h1>
 
                                 <div class="contact-info d-none d-md-block">
@@ -160,7 +159,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="row">
                         <div class="col-12 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/icons/target.svg" alt="ob" />
+                                <img src="<?php echo $path; ?>assets/images/icons/target.svg" alt="Understand Business" width="40" height="40" />
                                 <h4 class="wwd-title">Understand Business </h4>
                                 <p class="wwd-text">Neointeraction’s UX/UI experts engage with stakeholders in 1-on-1
                                     sessions to align on business goals.</p>
@@ -168,7 +167,7 @@ include_once 'includes/tracking-functions.php';
                         </div>
                         <div class="col-12 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/icons/search.svg" alt="cm" />
+                                <img src="<?php echo $path; ?>assets/images/icons/search.svg" alt="Hueristic Evaluation" width="40" height="40" />
                                 <h4 class="wwd-title">Hueristic Evaluation</h4>
                                 <p class="wwd-text">We assess your website/app using design principles by tracing the user
                                     journey.</p>
@@ -177,7 +176,7 @@ include_once 'includes/tracking-functions.php';
                         </div>
                         <div class="col-12 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/icons/new.svg" alt="healthcare" />
+                                <img src="<?php echo $path; ?>assets/images/icons/new.svg" alt="Audit reports" width="40" height="40" />
                                 <h4 class="wwd-title">Audit reports</h4>
                                 <p class="wwd-text">We create a report highlighting hidden UX/UI gaps affecting user
                                     engagement.</p>
@@ -185,7 +184,7 @@ include_once 'includes/tracking-functions.php';
                         </div>
                         <div class="col-12 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="iot" />
+                                <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Suggest Solutions" width="40" height="40" />
                                 <h4 class="wwd-title">Suggest Solutions</h4>
                                 <p class="wwd-text">We provide actionable design recommendations, quick fixes, and strategic
                                     insights in a detailed report.</p>
@@ -201,55 +200,56 @@ include_once 'includes/tracking-functions.php';
             <div class="container">
                 <h2 class="section-title">
                     Why conduct a UX Audit ?
-                    <div class="bs-card-section section-margin">
-                        <div class="row justify-content-center">
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card">
-                                    <div class="icon-container">
-                                        <img src="<?php echo $path; ?>assets/images/funnel.svg" alt="Low conversion" />
-                                    </div>
-                                    <h4 class="title">Low conversion rates</h4>
-                                    <p class="description">
-                                        Enhance user journey to boost conversion rates effectively.
-                                    </p>
+                </h2>
+                <div class="bs-card-section section-margin">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-6 col-lg-3">
+                            <div class="custom-card">
+                                <div class="icon-container">
+                                    <img src="<?php echo $path; ?>assets/images/funnel.svg" alt="Low conversion" width="40" height="40"  />
                                 </div>
+                                <h4 class="title">Low conversion rates</h4>
+                                <p class="description">
+                                    Enhance user journey to boost conversion rates effectively.
+                                </p>
                             </div>
+                        </div>
 
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card">
-                                    <div class="icon-container">
-                                        <img src="<?php echo $path; ?>assets/images/hand-pointer.svg" alt="Uncover Usability" />
-                                    </div>
-                                    <h4 class="title">Uncover Usability Issues</h4>
-                                    <p class="description">
-                                        Identify design flaws to improve usability and user satisfaction.
-                                    </p>
+                        <div class="col-12 col-md-6 col-lg-3">
+                            <div class="custom-card">
+                                <div class="icon-container">
+                                    <img src="<?php echo $path; ?>assets/images/hand-pointer.svg" alt="Uncover Usability" width="40" height="40"  />
                                 </div>
+                                <h4 class="title">Uncover Usability Issues</h4>
+                                <p class="description">
+                                    Identify design flaws to improve usability and user satisfaction.
+                                </p>
                             </div>
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card">
-                                    <div class="icon-container">
-                                        <img src="<?php echo $path; ?>assets/images/a11y.svg" alt="Accessibility" />
-                                    </div>
-                                    <h4 class="title">Ensure Accessibility</h4>
-                                    <p class="description">
-                                        Design inclusively to provide equal access for every user.
-                                    </p>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3">
+                            <div class="custom-card">
+                                <div class="icon-container">
+                                    <img src="<?php echo $path; ?>assets/images/a11y.svg" alt="Accessibility" width="40" height="40" />
                                 </div>
+                                <h4 class="title">Ensure Accessibility</h4>
+                                <p class="description">
+                                    Design inclusively to provide equal access for every user.
+                                </p>
                             </div>
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card">
-                                    <div class="icon-container">
-                                        <img src="<?php echo $path; ?>assets/images/file.svg" alt="Data-Driven" />
-                                    </div>
-                                    <h4 class="title">Data-Driven Decisions</h4>
-                                    <p class="description">
-                                        Leverage insights to optimize strategies and outcomes.
-                                    </p>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3">
+                            <div class="custom-card">
+                                <div class="icon-container">
+                                    <img src="<?php echo $path; ?>assets/images/file.svg" alt="Data-Driven" width="40" height="40" />
                                 </div>
+                                <h4 class="title">Data-Driven Decisions</h4>
+                                <p class="description">
+                                    Leverage insights to optimize strategies and outcomes.
+                                </p>
                             </div>
                         </div>
                     </div>
+                </div>
             </div>
         </section>
 
@@ -300,7 +300,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
                             <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/megawecare-logo.svg" alt="mega" />
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/megawecare-logo.svg" alt="mega" width="123" height="32" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
@@ -318,9 +318,9 @@ include_once 'includes/tracking-functions.php';
             <div class="container">
                 <h2 class="section-title">Our Process</h2>
                 <div class="video-container section-margin">
-                    <iframe class="video-iframe" width="100%" height="650" src="https://www.youtube-nocookie.com/embed/AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh" title="YouTube video player"
-                        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" style="border-radius: 0;"></iframe>
+                    <iframe class="video-iframe" height="650"  src="https://www.youtube-nocookie.com/embed/AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh" title="YouTube video player"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" style="width:100%;border-radius: 0; border: none;"></iframe>
                 </div>
             </div>
         </section>
@@ -335,14 +335,14 @@ include_once 'includes/tracking-functions.php';
                     <div class="row">
                         <div class="col-6 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="Online Banking" width="40" height="40" />
                                 <h4 class="wwd-title">Online Banking</h4>
                                 <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and secure transactions.</p>
                             </div>
                         </div>
                         <div class="col-6 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="cm" />
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="Capital Market" width="40" height="40" />
                                 <h4 class="wwd-title">Capital Market</h4>
                                 <p class="wwd-text">Empowering investors with data-driven insights and intuitive trading platforms.</p>
                             </div>
@@ -350,42 +350,42 @@ include_once 'includes/tracking-functions.php';
                         </div>
                         <div class="col-6 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="healthcare" />
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="Healthcare" width="40" height="40" />
                                 <h4 class="wwd-title">Healthcare</h4>
                                 <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
                             </div>
                         </div>
                         <div class="col-6 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="iot" />
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="IoT" width="40" height="40" />
                                 <h4 class="wwd-title">IoT</h4>
                                 <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
                             </div>
                         </div>
                         <div class="col-6 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="th" />
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="Travel and Hospitality" width="40" height="40" />
                                 <h4 class="wwd-title">Travel and Hospitality</h4>
                                 <p class="wwd-text">Crafting memorable customer digital journeys, from booking to exploration, for unforgettable experiences.</p>
                             </div>
                         </div>
                         <div class="col-6 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="Enterprise Solutions" width="40" height="40" >
                                 <h4 class="wwd-title">Enterprise Solutions</h4>
                                 <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
                             </div>
                         </div>
                         <div class="col-6 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="Startup Ventures" width="40" height="40" />
                                 <h4 class="wwd-title">Startup Ventures</h4>
                                 <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
                             </div>
                         </div>
                         <div class="col-6 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
+                                <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="B2C" width="40" height="40" />
                                 <h4 class="wwd-title">B2C</h4>
                                 <p class="wwd-text">Enhancing consumer experiences with engaging and intuitive digital platforms</p>
                             </div>

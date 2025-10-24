@@ -68,11 +68,11 @@ body {
 }
 
 .nav-link.active {
-  color: #ec1c24;
+  color: #A71116;
 }
 
 .nav-link:hover {
-  color: #ec1c24;
+  color: #A71116;
   transition: color 0.3s ease;
 }
 
@@ -637,7 +637,7 @@ body {
 .section-links {
   font-weight: 600;
   font-size: 16px;
-  color: #ec1c24;
+  color: #A71116;
   transition: 0.3s all ease-in-out;
 }
 
@@ -1071,7 +1071,7 @@ body {
 
 /* .pbi-layer2 img {
   /* width: 21vw; */
-} */
+ */
 
 .p-logo {
   text-align: center;
@@ -1522,7 +1522,7 @@ body {
 .time-list li {
   font-weight: 400;
   font-size: 20px;
-  color: #ec1c24;
+  color: #A71116;
 }
 
 .time-list li:first-child {
@@ -1642,7 +1642,7 @@ body {
   align-items: flex-end;
 }
 .project__header a {
-  color: #EC1C24;
+  color: #A71116;
 }
 .section-desc {
   font-weight: 400;
