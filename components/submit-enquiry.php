@@ -12,7 +12,7 @@
         <div class="col-md-6 ">
           <h2 class="bs-title">Submit Enquiry</h2>
           <p class="bs-text">
-          Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. 
+          Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers. 
           </p>
 
 

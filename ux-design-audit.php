@@ -400,7 +400,7 @@ include_once 'includes/tracking-functions.php';
 
         <?php 
             $title = 'Start Your Consultation'; 
-            $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.';
+            $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers.';
             $buttonName = 'Get a Free consultation';
             $imageLink = "assets/images/homepage-contact-us.jpg";
             $imageAlt = "Get a Free consultation";

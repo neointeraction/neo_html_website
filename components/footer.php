@@ -10,7 +10,7 @@
                   <div class="d-flex align-items-center mb-3 footer-logo-container">
                       <a href="<?php echo $path; ?>" target="_blank"
                           rel="noopener noreferrer">
-                          <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="footer"
+                          <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="Neointeraction Design Logo"
                               class="footer-neo-logo" width="238" height="52" />
                       </a>
                   </div>

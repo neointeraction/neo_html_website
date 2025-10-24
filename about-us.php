@@ -261,7 +261,7 @@
     <!-- browse-project  end -->
     <?php 
         $title = 'Hire Designers/Front-end Engineers'; 
-        $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. ';
+        $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers. ';
         $buttonName = 'Request a Quote';
         $imageLink = "assets/images/about-us/hire-coder.webp";
         $imageAlt = "Request a Quote";
