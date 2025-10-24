@@ -54,7 +54,7 @@ include_once $path . 'includes/tracking-functions.php';
                                         <textarea id="requirement" name="requirement" class="form-control custom-input"
                                             placeholder="Describe project needs (eg, mobile app, website design, website development, UX audit..etc)"
                                             rows="6" maxlength="200" required></textarea>
-                                        <div id="charCount" class="form-text text-muted text-end">0/200 characters</div>
+                                        <div id="char-counter" class="form-text text-muted text-end">0/200 characters</div>
                                         <div id="requirement-error-modal" class="text-danger"></div>
                                     </div>
 
@@ -93,8 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (enquiryForm) {
         enquiryForm.addEventListener("submit", function(e) {
             e.preventDefault();
-            const trackingData = <?php echo getTrackingDataJson(); ?>;
-            submitEnquiry(trackingData);
+            submitEnquiry(window.trackingData);
         });
     }
 });

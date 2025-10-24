@@ -86,7 +86,7 @@
             <div class="video-container section-margin">
                 <iframe class="video-iframe" height="650" data-src="https://www.youtube-nocookie.com/embed/S-gxMxp6tDU?si=3JEtJ7rMe15mKX8f" style="width:100%;border:0;border-radius: 0;" title="YouTube video player" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-                    allowfullscreen loading="lazy"></iframe>
+                    allowfullscreen ></iframe>
             </div>
         </div>
     </section>
@@ -261,7 +261,7 @@
     <!-- browse-project  end -->
     <?php 
         $title = 'Hire Designers/Front-end Engineers'; 
-        $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration. ';
+        $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers. ';
         $buttonName = 'Request a Quote';
         $imageLink = "assets/images/about-us/hire-coder.webp";
         $imageAlt = "Request a Quote";

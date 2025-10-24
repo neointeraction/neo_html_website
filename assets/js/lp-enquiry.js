@@ -1,7 +1,7 @@
 
 let isLPContactSubmitting = false;
 
-let url = window.location.href.split('/').slice(0, -1).join('/');
+let lp_current_url = window.location.href.split('/').slice(0, -1).join('/');
 function submitLPForm() {
     // Prevent double submission
     if (isLPContactSubmitting) {
@@ -124,7 +124,7 @@ function submitLPForm() {
         requirementInput.classList.remove("is-invalid");
 
         // Redirect to thank you page
-        window.location.href = url + '/components/thank-you.php';
+        window.location.href = lp_current_url + '/components/thank-you.php';
     })
     .catch((error) => {
         console.log("Contact form submission completed (assuming success due to CORS)");
@@ -138,7 +138,7 @@ function submitLPForm() {
         requirementInput.classList.remove("is-invalid");
 
         // Redirect to thank you page
-        window.location.href =  url + '/components/thank-you.php';
+        window.location.href =  lp_current_url + '/components/thank-you.php';
     })
     .finally(() => {
         // Reset button and flag

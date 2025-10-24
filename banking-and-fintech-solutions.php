@@ -46,14 +46,16 @@ include_once 'includes/tracking-functions.php';
     [
         'title' => 'Redesign Digital banking platform for Commercial Bank of Dubai',
         'description' => 'Creating a user friendly modern banking platform for young professionals, expats, and native youth',
-        'image' => 'projects/dubai-banking/dubai-bank-homepage-banner-listing.jpg',
+        'image' => 'thumb/desk/dubai-bank-homepage-banner.webp',
+        'mobileImage'=> 'thumb/mobile/dubai-bank-homepage-banner.webp',
         'alt' => 'Redesign Digital banking platform for Commercial Bank of Dubai',
         'link' => 'revolutionizing-banking-experiences.php'
     ],
     [
         'title' => 'Share Trading platform redesign',
         'description' => 'Trading platform revamped to offer users a unified experience accessible across devices',
-        'image' => 'projects/share-trading-platform/geogit-homepage-banner-listing.jpg',
+        'image' => 'thumb/desk/geogit-homepage-banner.webp',
+        'mobileImage'=> 'thumb/mobile/geogit-homepage-banner.webp',
         'alt' => 'Share Trading platform redesign',
         'link' => 'share-trading-platform.php'
     ],]
@@ -328,9 +330,11 @@ include_once 'includes/tracking-functions.php';
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
-                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
-                                        height="auto" />
+                                    <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['image']; ?>" alt="<?php echo $event['alt']; ?>"
+                                        class="img-fluid project-image d-none d-md-block" width="584" height="280" />
+                                    <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['mobileImage']; ?>" alt="<?php echo $event['alt']; ?>"
+                                        class="img-fluid project-image d-flex d-md-none" width="438" height="126" />
+                           
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <h2 class="project-title">
@@ -388,16 +392,7 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
     <script src="<?php echo $path; ?>assets/js/events.js"></script>
-
-    <script>
-    // Get tracking data from PHP and pass to events.js
-    const trackingData = <?php echo getTrackingDataJson(); ?>;
-    document.addEventListener('DOMContentLoaded', function() {
-        if (typeof window.trackingData !== 'undefined') {
-            window.trackingData = trackingData;
-        }
-    });
-    </script>
+    <script><?php include 'includes/tracking-script.php'; ?></script>   
 </body>
 
 </html>

@@ -6,7 +6,7 @@
     // }
 
     // if(empty($desc)) {
-    //   $desc = "Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.";
+    //   $desc = "Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers.";
     // }
 
     // if(empty($buttonName)){

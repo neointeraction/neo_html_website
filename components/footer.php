@@ -10,23 +10,23 @@
                   <div class="d-flex align-items-center mb-3 footer-logo-container">
                       <a href="<?php echo $path; ?>" target="_blank"
                           rel="noopener noreferrer">
-                          <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="footer"
-                              class="footer-neo-logo" width="238px" height="52px" />
+                          <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="Neointeraction Design Logo"
+                              class="footer-neo-logo" width="238" height="52" />
                       </a>
                   </div>
               </div>
               <div class="col-12 col-md-6 text-md-end footer-social-icons">
                   <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank"
                       rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/linkedin.svg"
-                          alt="linkedin" /></a>
+                          alt="Linkedin" height="21" width="21" /></a>
                   <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img
-                          src="<?php echo $path; ?>assets/images/social/ig.svg" alt="ig"></a>
+                          src="<?php echo $path; ?>assets/images/social/ig.svg" alt="Instagram" height="21" width="21" ></a>
                   <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img
-                          src="<?php echo $path; ?>assets/images/social/fb.svg" alt="fb"></a>
+                          src="<?php echo $path; ?>assets/images/social/fb.svg" alt="Facebook" height="21" width="21" ></a>
                   <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img
-                          src="<?php echo $path; ?>assets/images/social/db.svg" alt="db"></a>
+                          src="<?php echo $path; ?>assets/images/social/db.svg" alt="Dribble" height="21" width="21" ></a>
                   <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img
-                          src="<?php echo $path; ?>assets/images/social/med.svg" alt="medium"></a>
+                          src="<?php echo $path; ?>assets/images/social/med.svg" alt=Medium" height="21" width="21" ></a>
               </div>
           </div>
 
@@ -79,9 +79,9 @@
           <div class="row">
               <div class="col-md-9 col-12">
                   <div class="footer-form-flex newsletter-form flex-wrap">
-                      <h5 class="footer-heading mb-0">Subscribe to our Newsletters</h5>
+                      <p class="footer-heading mb-0">Subscribe to our Newsletters</p>
                       <form id="newsletterForm" class="d-flex flex-wrap">
-                          <input type="email" id="newsletter-email"
+                          <input type="email" id="newsletter-email" aria-label="Enter your work email"
                               class="newsletter-email form-control me-md-4 mb-2 mb-md-0"
                               placeholder="Enter your work email" required />
 

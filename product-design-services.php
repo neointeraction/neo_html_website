@@ -45,14 +45,16 @@ include_once 'includes/tracking-functions.php';
     [
         'title' => 'Redesigning Tricogs AI Driven Healthcare Platform',
         'description' => 'AI-driven predictive healthcare platform that improves heart failure patient care',
-        'image' => 'projects/ai-driven-healthcare/tricog-homepage-banner-listing.jpg',
+         'image'=> 'thumb/desk/tricog-homepage-banner.webp',
+        'mobileImage'=> 'thumb/mobile/tricog-homepage-banner.webp',
         'alt' => 'Redesigning Tricogs AI Driven Healthcare Platform',
         'link' => 'ai-driven-healthcare-consultation-platform.php'
     ],
     [
         'title' => 'Mobility Paltform for Crew Ship workforce management',
         'description' => 'Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information',
-        'image' => 'projects/crew-mobility-management-in-a-cruise/crew-mobility-management-listing.jpg',
+        'image' => 'thumb/desk/crew-mobility-management.webp',
+        'mobileImage' => 'thumb/mobile/crew-mobility-management.webp',
         'alt' => 'Mobility Paltform for Crew Ship workforce management',
         'link' => 'crew-mobility-management-in-a-cruise.php'
     ]]
@@ -306,9 +308,10 @@ include_once 'includes/tracking-functions.php';
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
-                                        alt="<?php echo $event['alt']; ?>" class="img-fluid project-image" width="100%"
-                                        height="auto" />
+                                     <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['image']; ?>" alt="<?php echo $event['alt']; ?>"
+                                        class="img-fluid project-image d-none d-md-block" width="584" height="280" />
+                                    <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['mobileImage']; ?>" alt="<?php echo $event['alt']; ?>"
+                                        class="img-fluid project-image d-flex d-md-none" width="438" height="126" />
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <h2 class="project-title">
@@ -492,7 +495,7 @@ include_once 'includes/tracking-functions.php';
 
     <?php 
         $title = 'Start Your Consultation'; 
-        $desc = 'Igniting success through passion-fueled collaboration.Igniting success through passion-fueled collaboration.';
+        $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers.';
         $buttonName = 'Get a Free consultation';
         $imageLink = "assets/images/about-us/hire-content.webp";
         $imageAlt = "Get a Free consultation";
@@ -509,16 +512,7 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
     <script src="<?php echo $path; ?>assets/js/events.js"></script>
-
-    <script>
-    // Get tracking data from PHP and pass to events.js
-    const trackingData = <?php echo getTrackingDataJson(); ?>;
-    document.addEventListener('DOMContentLoaded', function() {
-        if (typeof window.trackingData !== 'undefined') {
-            window.trackingData = trackingData;
-        }
-    });
-    </script>
+    <script><?php include 'includes/tracking-script.php'; ?></script>
 </body>
 
 </html>
