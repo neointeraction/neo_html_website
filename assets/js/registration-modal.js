@@ -12,7 +12,7 @@ function submitEnquiry(trackingData) {
     const mobileInput = document.getElementById("mobile_number");
     const requirementInput = document.getElementById("requirement");
     const submitBtn = document.getElementById("enquiry-submit-btn");
-    const status = document.getElementById("enquiry-status");
+    const statusElement = document.getElementById("enquiry-status");
 
     const nameError = document.getElementById("name-error-modal");
     const emailError = document.getElementById("email-error-modal");
@@ -79,7 +79,9 @@ function submitEnquiry(trackingData) {
     // Update button state
     submitBtn.disabled = true;
     submitBtn.textContent = "Submitting...";
-    status.innerHTML = '<small class="text-info">Submitting your enquiry...</small>';
+    if (statusElement) {
+        statusElement.innerHTML = '<small class="text-info">Submitting your enquiry...</small>';
+    }
 
     // Google Form submission
     const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdt4pIKzDRK50yFGFvanxa3P3RBsSqlwuP06HlgWtopQ-PAOA/formResponse";
@@ -155,15 +157,6 @@ function submitEnquiry(trackingData) {
 
 // Clear form when modal is closed and handle form submission
 document.addEventListener('DOMContentLoaded', function() {
-    // Initialize character counter
-    const requirementField = document.getElementById("requirement");
-    const charCounter = document.getElementById("char-counter");
-    
-    if (requirementField && charCounter) {
-        // Set initial counter value
-        charCounter.textContent = `0/200`;
-    }
-    
     // Handle form submission
     const enquiryForm = document.getElementById("enquiryForm");
     if (enquiryForm) {
@@ -173,7 +166,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Real-time validation clearing and character counter
+    // Real-time validation clearing
     const inputs = [
         { element: document.getElementById("name"), type: "name" },
         { element: document.getElementById("work_email"), type: "email" },
@@ -185,21 +178,31 @@ document.addEventListener('DOMContentLoaded', function() {
         if (input.element) {
             input.element.addEventListener("input", function() {
                 this.classList.remove("is-invalid");
-                document.getElementById("enquiry-status").innerHTML = "";
-                
-                // Handle character counter for requirement field
-                if (input.type === "requirement") {
-                    const currentLength = this.value.length;
-                    const maxLength = 200;
-                    const counter = document.getElementById("char-counter"); // Corrected ID
-                    
-                    if (counter) {
-                        counter.textContent = `${currentLength}/${maxLength} characters`;
-                    }
+                const currentStatusElement = document.getElementById("enquiry-status");
+                if (currentStatusElement) {
+                    currentStatusElement.innerHTML = "";
                 }
             });
         }
     });
+
+    // Consolidated Character counter for requirement textarea
+    const requirementTextarea = document.getElementById('requirement');
+    const charCountDisplay = document.getElementById('char-counter');
+
+    if (requirementTextarea && charCountDisplay) {
+        const maxLength = parseInt(requirementTextarea.getAttribute('maxlength'), 10);
+
+        function updateCharCount() {
+            const currentLength = requirementTextarea.value.length;
+            charCountDisplay.textContent = `${currentLength}/${maxLength} characters`;
+        }
+
+        requirementTextarea.addEventListener('input', updateCharCount);
+
+        // Initialize count on page load
+        updateCharCount();
+    }
 
     // Handle modal close
     const modal = document.getElementById('registerModal');
@@ -211,7 +214,10 @@ document.addEventListener('DOMContentLoaded', function() {
             document.getElementById("successMessage").style.display = "none";
             document.querySelector(".modal-contact .form-title").style.display = "block";
             
-            document.getElementById("enquiry-status").innerHTML = "";
+            const currentStatusElement = document.getElementById("enquiry-status");
+            if (currentStatusElement) {
+                currentStatusElement.innerHTML = "";
+            }
             document.getElementById("enquiry-submit-btn").disabled = false;
             document.getElementById("enquiry-submit-btn").textContent = "Submit";
             
@@ -225,27 +231,11 @@ document.addEventListener('DOMContentLoaded', function() {
             
             localStorage.removeItem('enquiryType');
             isRegistrationSubmitting = false; // Use new variable name
+            
+            // Re-initialize character count on modal close
+            if (requirementTextarea && charCountDisplay) {
+                updateCharCount();
+            }
         });
-    }
-
-    // Character counter for requirement textarea (consolidated)
-    const requirementTextarea = document.getElementById('requirement');
-    const charCountDisplay = document.getElementById('char-counter'); // Corrected ID
-    let maxLength = null;
-
-    if (requirementTextarea) {
-        maxLength = requirementTextarea.getAttribute('maxlength');
-    }
-
-    if (requirementTextarea && charCountDisplay && maxLength !== null) {
-        function updateCharCount() {
-            const currentLength = requirementTextarea.value.length;
-            charCountDisplay.textContent = `${currentLength}/${maxLength} characters`;
-        }
-
-        requirementTextarea.addEventListener('input', updateCharCount);
-
-        // Initialize count on page load
-        updateCharCount();
     }
 });
