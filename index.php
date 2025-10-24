@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+    <link href="<?php echo $path; ?>assets/css/fonts.css" rel="stylesheet">
     <?php include $path . 'includes/css.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
     <meta name="description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
@@ -52,7 +53,7 @@
                             <div class="icon-container">
                                 <img src="assets/images/ux.svg" alt="ux" width="64" height="64">
                             </div>
-                            <h4 class="title">UX Design</h4>
+                            <h3 class="title">UX Design</h3>
                             <p class="description">
                                 Delivering seamless experiences that speak louder than words.
                             </p>
@@ -68,7 +69,7 @@
                             <div class="icon-container">
                                 <img src="assets/images/pd.svg" alt="pd" width="64" height="64">
                             </div>
-                            <h4 class="title">Product Design</h4>
+                            <h3 class="title">Product Design</h3>
                             <p class="description">
                                 Shaping ideas into tangible user centric design solutions
                             </p>
@@ -83,7 +84,7 @@
                             <div class="icon-container">
                                 <img src="assets/images/dt.svg" alt="dt" width="64" height="64">
                             </div>
-                            <h4 class="title">UX Audit</h4>
+                            <h3 class="title">UX Audit</h3>
                             <p class="description">
                                 Crafting revolutionary aesthetics that redefine user interaction.
                             </p>
@@ -99,7 +100,7 @@
                             <div class="icon-container">
                                 <img src="assets/images/fd.svg" alt="fd" width="64" height="64">
                             </div>
-                            <h4 class="title">Frontend Development</h4>
+                            <h3 class="title">Frontend Development</h3>
                             <p class="description">
                                 Bridging creativity and code for pixel-perfect user
                                 interfaces.
@@ -255,7 +256,7 @@
         $title = 'Submit Enquiry'; 
         $desc = 'Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!';
         $buttonName = 'Contact Us';
-        $imageLink = "assets/images/about-us/hire-ui.webp";
+        $imageLink = "assets/images/homepage-contact-us.jpg";
         $imageAlt = "Contact us";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>

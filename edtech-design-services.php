@@ -223,7 +223,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="Impactful solutions" />
+                            <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="Impactful Solutions"  width="40px" height="40px"/>
                             <h4 class="wwd-title">Impactful solutions provided to our clients</h4>
                             <p class="wwd-text">We deliver tangible results by providing our clients with actionable
                                 insights and innovative solutions that align with their goals, driving measurable
@@ -255,7 +255,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/ux.svg" alt="ux" />
+                                <img src="assets/images/ux.svg" alt="UX Design"  width="40px" height="40px"  />
                             </div>
                             <h4 class="title">UX Design</h4>
                             <p class="description">
@@ -269,7 +269,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/pd.svg" alt="pd" />
+                                <img src="assets/images/pd.svg" alt="Product Design"  width="40px" height="40px" />
                             </div>
                             <h4 class="title">Product Design</h4>
                             <p class="description">
@@ -282,7 +282,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/dt.svg" alt="dt" />
+                                <img src="assets/images/dt.svg" alt="UX Audit"  width="40px" height="40px" />
                             </div>
                             <h4 class="title">UX Audit</h4>
                             <p class="description">
@@ -295,7 +295,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="assets/images/fd.svg" alt="fd" />
+                                <img src="assets/images/fd.svg" alt="UI Engineering"  width="40px" height="40px" />
                             </div>
                             <h4 class="title">UI Engineering</h4>
                             <p class="description">
