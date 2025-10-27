@@ -9,7 +9,7 @@
     <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
     <meta name="description"
         content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
-    <link rel="canonical" href="<?php echo $base_url; ?>blogs" />
+    <link rel="canonical" href="<?php echo $base_url; ?>projects/crew-mobility-management-in-a-cruise.php" />
     <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
     <meta property="og:description"
         content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
@@ -17,7 +17,7 @@
         content="<?php echo $base_url; ?>assets/images/og/crew-mobility-management-thumbnail.jpeg" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
-    <meta property="og:url" content="" />
+    <meta property="og:url" content="<?php echo $base_url; ?>projects/crew-mobility-management-in-a-cruise.php" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />
@@ -87,9 +87,9 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                        <a href="#" class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
-                        </button>
+                        </a>
                     </div>
                     <p class="p-main-text">TM hub is an application used by the staff members aboard the Carnival ship
                         to organize their daily activities, tasks, and information about their journey</p>
@@ -202,14 +202,14 @@
                         <h2 class="project-section-title">
                             How did our solutions help?
                         </h2>
-                            <button class="btn btn-custom case-study-webview "
+                            <a href="#" class="btn btn-custom case-study-webview "
                                  data-service="crew-mobility-management-in-a-cruise"
                                  data-bs-toggle="modal"
                                  data-bs-target="#downloadCaseStudyModal"
                                  data-project-title="<?php echo htmlspecialchars($project_title); ?>"
                                  data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                           Download case study
-                        </button>
+                        </a>
                     </div>
                     <p class="project-body-text">
                         Our user task-focused design empowers crew members, ensuring seamless goal achievement and
@@ -217,14 +217,14 @@
                         enjoyable and manageable experience.
                     </p>
                 
-                     <button class="btn btn-custom case-study-mobview ps-responsive-margin"
+                     <a href="#" class="btn btn-custom case-study-mobview ps-responsive-margin"
                                  data-service="crew-mobility-management-in-a-cruise"
                                  data-bs-toggle="modal"
                                  data-bs-target="#downloadCaseStudyModal"
                                  data-project-title="<?php echo htmlspecialchars($project_title); ?>"
                                  data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                           Download case study
-                        </button>
+                        </a>
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
                             <!-- Card 1 -->

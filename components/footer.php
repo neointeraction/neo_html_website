@@ -8,25 +8,22 @@
           <div class="row align-items-start pb-4 footer-logo-social">
               <div class="col-12 col-md-6 mb-3 mb-md-0">
                   <div class="d-flex align-items-center mb-3 footer-logo-container">
-                      <a href="<?php echo $path; ?>" target="_blank"
-                          rel="noopener noreferrer">
-                          <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="Neointeraction Design Logo"
-                              class="footer-neo-logo" width="238" height="52" />
+                      <a class="navbar-brand d-flex align-items-center" href="<?php echo $path; ?>index.php">
+                          <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="Neointeraction Design Logo" class="footer-neo-logo" width="238" height="52" />
                       </a>
                   </div>
               </div>
               <div class="col-12 col-md-6 text-md-end footer-social-icons">
-                  <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank"
-                      rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/linkedin.svg"
-                          alt="Linkedin" height="21" width="21" /></a>
-                  <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img
-                          src="<?php echo $path; ?>assets/images/social/ig.svg" alt="Instagram" height="21" width="21" ></a>
-                  <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img
-                          src="<?php echo $path; ?>assets/images/social/fb.svg" alt="Facebook" height="21" width="21" ></a>
-                  <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img
-                          src="<?php echo $path; ?>assets/images/social/db.svg" alt="Dribble" height="21" width="21" ></a>
-                  <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img
-                          src="<?php echo $path; ?>assets/images/social/med.svg" alt=Medium" height="21" width="21" ></a>
+                  <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank" rel="noopener noreferrer"><img
+                          src="<?php echo $path; ?>assets/images/social/linkedin.svg" alt="Linkedin" height="21" width="21" /></a>
+                  <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/ig.svg"
+                          alt="Instagram" height="21" width="21"></a>
+                  <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/fb.svg"
+                          alt="Facebook" height="21" width="21"></a>
+                  <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/db.svg" alt="Dribble"
+                          height="21" width="21"></a>
+                  <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/med.svg"
+                          alt=Medium" height="21" width="21"></a>
               </div>
           </div>
 
@@ -81,8 +78,7 @@
                   <div class="footer-form-flex newsletter-form flex-wrap">
                       <p class="footer-heading mb-0">Subscribe to our Newsletters</p>
                       <form id="newsletterForm" class="d-flex flex-wrap">
-                          <input type="email" id="newsletter-email" aria-label="Enter your work email"
-                              class="newsletter-email form-control me-md-4 mb-2 mb-md-0"
+                          <input type="email" id="newsletter-email" aria-label="Enter your work email" class="newsletter-email form-control me-md-4 mb-2 mb-md-0"
                               placeholder="Enter your work email" required />
 
                           <button type="submit" class="btn btn-custom-secondary white ml-2" id="newsletter-btn">

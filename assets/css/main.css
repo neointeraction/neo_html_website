@@ -68,11 +68,11 @@ body {
 }
 
 .nav-link.active {
-  color: #A71116;
+  color: #EC1C24;
 }
 
 .nav-link:hover {
-  color: #A71116;
+  color: #EC1C24;
   transition: color 0.3s ease;
 }
 
@@ -637,7 +637,7 @@ body {
 .section-links {
   font-weight: 600;
   font-size: 16px;
-  color: #A71116;
+  color: #EC1C24;
   transition: 0.3s all ease-in-out;
 }
 
@@ -1522,7 +1522,7 @@ body {
 .time-list li {
   font-weight: 400;
   font-size: 20px;
-  color: #A71116;
+  color: #EC1C24;
 }
 
 .time-list li:first-child {
@@ -1642,7 +1642,7 @@ body {
   align-items: flex-end;
 }
 .project__header a {
-  color: #A71116;
+  color: #EC1C24;
 }
 .section-desc {
   font-weight: 400;
