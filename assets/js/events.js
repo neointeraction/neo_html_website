@@ -1,5 +1,5 @@
-let isUxAuditSubmitting = false;
-let event_current_url = window.location.href.split('/').slice(0, -1).join('/');
+var isUxAuditSubmitting = false;
+var event_current_url = window.location.href.split('/').slice(0, -1).join('/');
 function submitUxAuditForm() {
     // Prevent double submission
     if (isUxAuditSubmitting) {
