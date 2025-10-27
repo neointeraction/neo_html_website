@@ -62,7 +62,7 @@
                 <div class="project-block-item">
                     <div class="row justify-content-center">
                         <div class="col-12">
-                            <div class="project-card d-lg-flex">
+                            <!-- <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img src="assets/images/events/UX-Audit-101.webp" alt="Project Image" class="img-fluid project-image" />
                                 </div>
@@ -81,11 +81,11 @@
                                     <div class="project-tags upcoming-events-tags">
                                         <span class="badge">Online Workshop</span>
                                     </div>
-                                    <!-- <button class="btn btn-custom" data-bs-toggle="modal" data-bs-target="#registerModal">
+                                     <button class="btn btn-custom" data-bs-toggle="modal" data-bs-target="#registerModal">
                                         Register Now
-                                    </button> -->
+                                    </button> 
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -96,11 +96,11 @@
 
 
     <?php 
-        $title = 'Submit Enquiry'; 
-        $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers.';
-        $buttonName = 'Request a Quote';
-        $imageLink = "assets/images/about-us/hire-ui.webp";
-        $imageAlt = "Request a Quote";
+        $title = 'Register for future events'; 
+        $desc = 'Don’t miss out—register now before seats fill up. Early registrants get priority access and event updates.';
+        $buttonName = 'Register for future events';
+        $imageLink = "assets/images/events-register.webp";
+        $imageAlt = "Register for future events";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
 
@@ -267,7 +267,7 @@
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>
-    <?php include $path . 'components/registration-modal.php'; ?>
+    <?php include $path . 'components/event-registration-modal.php'; ?>
 </body>
 
 </html>
