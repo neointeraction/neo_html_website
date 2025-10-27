@@ -104,7 +104,7 @@ include_once 'includes/tracking-functions.php';
                                         id="mobile_number"
                                         name="mobile_number"
                                         class="form-control custom-input"
-                                        placeholder="Enter mobile number (e.g. +1234567890)"
+                                        placeholder="Enter mobile number (e.g. +91 98765 43210)"
                                         pattern="^\+?[0-9]{10,15}$"
                                         required
                                         oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
@@ -117,10 +117,10 @@ include_once 'includes/tracking-functions.php';
                                         id="requirement"
                                         name="requirement"
                                         class="form-control custom-input"
-                                        placeholder="Describe project needs (eg, mobile app, website design, website development, UX audit..etc)"
-                                        rows="6"
+                                        placeholder="I am looking to design a mobile app/web app, Web site, Ux Audit.."
+                                        rows="4"
                                         maxlength="200"
-                                        required></textarea>
+                                        ></textarea>
                                     <div id="charCount" class="form-text text-muted text-end">0/200 characters</div>
                                     <div id="requirement-error" class="text-danger"></div>
                                 </div>
@@ -167,6 +167,44 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/js.php'; ?>
 
     <?php include 'includes/tracking-script.php'; ?>
-   
+   <script>
+
+    const nameInput = document.getElementById('name');
+
+    nameInput.addEventListener("keypress", e => {
+    const char = String.fromCharCode(e.which);
+    if (!/[a-zA-Z ]/.test(char)) e.preventDefault();
+    });
+
+    document.getElementById("name").addEventListener("input", function() {
+        if (this.value.trim().length > 0 && /^\S+$/.test(this.value)) {
+            document.getElementById("name").classList.remove("is-invalid");
+            document.getElementById("name-error").innerHTML = "";
+        } else {
+            document.getElementById("name").classList.add("is-invalid");
+            document.getElementById("name-error").innerHTML = "Enter a valid name";
+        }
+    });
+
+    document.getElementById("work_email").addEventListener("input", function() {
+        if (this.value.trim().length > 0 && /^\S+@\S+\.\S+$/.test(this.value)) {
+            document.getElementById("work_email").classList.remove("is-invalid");
+            document.getElementById("email-error").innerHTML = "";
+        } else {
+            document.getElementById("work_email").classList.add("is-invalid");
+            document.getElementById("email-error").innerHTML = "Enter a valid email address";
+        }
+    });
+
+    document.getElementById("mobile_number").addEventListener("input", function() {
+        if (this.value.trim().length > 0 && /^\+?[0-9]{10,15}$/.test(this.value)) {
+            document.getElementById("mobile_number").classList.remove("is-invalid");
+            document.getElementById("mobile-error").innerHTML = "";
+        } else {
+            document.getElementById("mobile_number").classList.add("is-invalid");
+            document.getElementById("mobile-error").innerHTML = "Enter a valid mobile number";
+        }
+    });
+   </script>
 </body>
 </html>
