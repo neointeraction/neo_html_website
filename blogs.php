@@ -92,7 +92,7 @@
                                         <!-- Add relevant tags if available in metadata -->
                                     </div>
 
-                                    <div class="pb-action-btn">
+                                    <div class="pb-action-btn d-none d-md-block">
                                         <button class="btn btn-custom read-more-btn" onclick="window.location.href='blogs/<?php echo urlencode($featured_blog_slug); ?>.php'">
                                             Read More
                                         </button>
