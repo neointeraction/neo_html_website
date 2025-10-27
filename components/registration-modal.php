@@ -27,7 +27,7 @@ include_once $path . 'includes/tracking-functions.php';
                                     <div class="form-group">
                                         <label for="name" class="form-label">Name</label>
                                         <input type="text" id="name" name="name" class="form-control custom-input"
-                                            placeholder="Enter name" required>
+                                            placeholder="Enter name" maxlength="20" required>
                                         <div id="name-error-modal" class="text-danger"></div>
                                     </div>
 
@@ -43,8 +43,8 @@ include_once $path . 'includes/tracking-functions.php';
                                         <label for="mobile_number" class="form-label">Mobile Number</label>
                                         <input type="tel" id="mobile_number" name="mobile_number"
                                             class="form-control custom-input"
-                                            placeholder="Enter mobile number (e.g. +1234567890)"
-                                            pattern="^\+?[0-9]{10,15}$" required
+                                            placeholder="Enter mobile number (e.g. 9123456789)"
+                                            pattern="^\+?[0-9]{10,15}$" maxlength="15" required
                                             oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                         <div id="mobile-error-modal" class="text-danger"></div>
                                     </div>
@@ -97,4 +97,60 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
+document.getElementById('name').addEventListener('input', function() {        
+    const name = document.getElementById('name').value;
+
+    if (name.trim().length > 0 && /^[a-zA-Z\s]+$/.test(name)) {
+        document.getElementById('name').classList.remove("is-invalid");
+        document.getElementById('name-error-modal').innerHTML = '';
+        document.getElementById('name-error-modal').classList.add('d-none');
+    } else {
+        document.getElementById('name').classList.add("is-invalid");
+        document.getElementById('name-error-modal').innerHTML = 'Enter a valid name';
+        document.getElementById('name-error-modal').classList.remove('d-none');
+    }
+}); 
+
+document.getElementById('work_email').addEventListener('input', function() {        
+    const email = document.getElementById('work_email').value.trim();
+
+    if (email.length > 0 && /^\S+@\S+\.\S+$/.test(email)) {
+        document.getElementById('work_email').classList.remove("is-invalid");
+        document.getElementById('email-error-modal').innerHTML = '';
+        document.getElementById('email-error-modal').classList.add('d-none');
+    } else {
+        document.getElementById('work_email').classList.add("is-invalid");
+        document.getElementById('email-error-modal').innerHTML = 'Enter a valid email address';
+        document.getElementById('email-error-modal').classList.remove('d-none');
+    }
+}); 
+
+document.getElementById('mobile_number').addEventListener('input', function() {        
+    const mobile = document.getElementById('mobile_number').value.trim();
+
+    if (mobile.length > 0 && /^\+?[0-9]{10,15}$/.test(mobile)) {
+        document.getElementById('mobile_number').classList.remove("is-invalid");
+        document.getElementById('mobile-error-modal').innerHTML = '';
+        document.getElementById('mobile-error-modal').classList.add('d-none');
+    } else {
+        document.getElementById('mobile_number').classList.add("is-invalid");   
+        document.getElementById('mobile-error-modal').innerHTML = 'Enter a valid mobile number';
+        document.getElementById('mobile-error-modal').classList.remove('d-none');
+    }
+}); 
+
+document.getElementById('requirement').addEventListener('input', function() {        
+    const requirement = document.getElementById('requirement').value.trim();
+
+    if (requirement.length > 0 && /^\S+$/.test(requirement)) {
+        document.getElementById('requirement').classList.remove("is-invalid");
+        document.getElementById('requirement-error-modal').innerHTML = '';
+        document.getElementById('requirement-error-modal').classList.add('d-none');
+    } else {
+        document.getElementById('requirement').classList.add("is-invalid"); 
+        document.getElementById('requirement-error-modal').innerHTML = 'Please describe your project needs';
+        document.getElementById('requirement-error-modal').classList.remove('d-none');
+    }
+}); 
 </script>

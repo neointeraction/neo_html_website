@@ -37,9 +37,9 @@ function submitEnquiry(trackingData) {
     let hasErrors = false;
 
     // Name validation - only letters and spaces, minimum 2 characters
-    if (!name || name.length < 2 || !/^[a-zA-Z\s]+$/.test(name)) {
+    if (!name ||  !/^[a-zA-Z\s]+$/.test(name)) {
         nameInput.classList.add("is-invalid");
-        nameError.textContent = "Enter a valid name (letters only, minimum 2 characters)";
+        nameError.textContent = "Enter a valid name";
         hasErrors = true;
     }
 
@@ -55,7 +55,7 @@ function submitEnquiry(trackingData) {
     const phoneRegex = /^\+?[0-9]{10,15}$/;
     if (!mobile || !phoneRegex.test(mobile)) {
         mobileInput.classList.add("is-invalid");
-        mobileError.textContent = "Enter a valid mobile number (e.g., +1234567890)";
+        mobileError.textContent = "Enter a valid mobile number";
         hasErrors = true;
     }
 
@@ -174,6 +174,16 @@ document.addEventListener('DOMContentLoaded', function() {
         { element: document.getElementById("requirement"), type: "requirement" }
     ];
 
+    const nameError = document.getElementById("name-error-modal");
+    const emailError = document.getElementById("email-error-modal");
+    const mobileError = document.getElementById("mobile-error-modal");
+    const requirementError = document.getElementById("requirement-error-modal");
+
+    // nameError.textContent = "";
+    // emailError.textContent = "";
+    // mobileError.textContent = "";
+    // requirementError.textContent = "";
+
     inputs.forEach(input => {
         if (input.element) {
             input.element.addEventListener("input", function() {
@@ -207,6 +217,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Handle modal close
     const modal = document.getElementById('registerModal');
     if (modal) {
+
         modal.addEventListener('hidden.bs.modal', function() {
             // Reset form and show it again
             document.getElementById("enquiryForm").reset();
@@ -220,6 +231,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             document.getElementById("enquiry-submit-btn").disabled = false;
             document.getElementById("enquiry-submit-btn").textContent = "Submit";
+
+         
             
             // Clear validation styles
             inputs.forEach(input => {
@@ -228,6 +241,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     input.element.style.borderColor = ""; // Also clear manual styles
                 }
             });
+
+            nameError.textContent = "";
+            emailError.textContent = "";
+            mobileError.textContent = "";
+            requirementError.textContent = "";
             
             localStorage.removeItem('enquiryType');
             isRegistrationSubmitting = false; // Use new variable name
