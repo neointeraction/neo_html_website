@@ -100,7 +100,7 @@ include_once 'includes/tracking-functions.php';
                                     <div class="form-group">
                                         <label for="lp_mobile_number" class="form-label">Mobile Number</label>
                                         <input type="tel" id="lp_mobile_number" name="lp_mobile_number" class="form-control custom-input"
-                                            placeholder="Enter mobile number (e.g. +1234567890)" pattern="^\+?[0-9]{10,15}$" required
+                                            placeholder="Enter mobile number" pattern="^\+?[0-9]{10,15}$" required
                                             oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                         <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
                                     </div>
@@ -420,6 +420,49 @@ include_once 'includes/tracking-functions.php';
     <script>
     <?php include 'includes/tracking-script.php'; ?>
     </script>
+        <script>
+        document.getElementById("lp_designation").addEventListener("input", function() {
+            if (this.value.trim().length > 0 && /^\S+$/.test(this.value)) {
+                document.getElementById("lp_designation").classList.remove("is-invalid");
+                document.getElementById("lp_designation-error").innerHTML = "";
+            } else {
+                document.getElementById("lp_designation").classList.add("is-invalid");
+                document.getElementById("lp_designation-error").innerHTML = "Please describe your project needs";
+            }
+        }); 
+        
+
+        document.getElementById("lp_name").addEventListener("input", function() {
+            if (this.value.trim().length > 0 && /^\S+$/.test(this.value)) {
+                document.getElementById("lp_name").classList.remove("is-invalid");
+                document.getElementById("lp_name-error").innerHTML = "";
+            } else {
+                document.getElementById("lp_name").classList.add("is-invalid");
+                document.getElementById("lp_name-error").innerHTML = "Enter a valid name";
+            }
+        });
+
+        document.getElementById("lp_work_email").addEventListener("input", function() {
+            if (this.value.trim().length > 0 && /^\S+@\S+\.\S+$/.test(this.value)) {
+                document.getElementById("lp_work_email").classList.remove("is-invalid");
+                document.getElementById("lp_email-error").innerHTML = "";
+            } else {
+                document.getElementById("lp_work_email").classList.add("is-invalid");
+                document.getElementById("lp_email-error").innerHTML = "Enter a valid email address";
+            }
+        });
+
+        document.getElementById("lp_mobile_number").addEventListener("input", function() {
+            if (this.value.trim().length > 0 && /^\+?[0-9]{10,15}$/.test(this.value)) {
+                document.getElementById("lp_mobile_number").classList.remove("is-invalid");
+                document.getElementById("lp_mobile-error").innerHTML = "";
+            } else {
+                document.getElementById("lp_mobile_number").classList.add("is-invalid");
+                document.getElementById("lp_mobile-error").innerHTML = "Enter a valid mobile number";
+            }
+        });
+
+    </script> 
 </body>
 
 </html>
