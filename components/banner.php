@@ -1,4 +1,4 @@
-    <section class="banner section-padding">
+    <section class="banner heading-padding">
         <div class="pb-5">
             <div>
                 <div class="container">
