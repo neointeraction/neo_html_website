@@ -149,7 +149,7 @@ HTML;
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <img src="<?php echo $path; ?>assets/images/get-mentorship.svg" alt="get-mentorship" />
+                                <img src="<?php echo $path; ?>assets/images/get-mentorship.svg" alt="UX mentorship icon" />
                             </div>
                             <h4 class="title">Get mentorship</h4>
                             <p class="description">
@@ -167,7 +167,7 @@ HTML;
                         <div class="custom-card">
                             <div class="icon-container">
                                 <img src="<?php echo $path; ?>assets/images/cross-functional.svg"
-                                    alt="cross-functional" />
+                                    alt="Cross functional team icon" />
                             </div>
                             <h4 class="title">Cross functional team</h4>
                             <p class="description">
@@ -184,7 +184,7 @@ HTML;
                         <div class="custom-card">
                             <div class="icon-container">
                                 <img src="<?php echo $path; ?>assets/images/functional-design.svg"
-                                    alt="functional-team" />
+                                    alt="Functional UX design icon" />
                             </div>
                             <h4 class="title">Functional design </h4>
                             <p class="description">
@@ -201,7 +201,7 @@ HTML;
                         <div class="custom-card">
                             <div class="icon-container">
                                 <img src="<?php echo $path; ?>assets/images/ignite-potential.svg"
-                                    alt="ignite-potential" />
+                                    alt="Design workshop icon" />
                             </div>
                             <h4 class="title">Ignite your Potential</h4>
                             <p class="description">
