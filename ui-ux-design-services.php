@@ -97,7 +97,7 @@
                                 <!-- <img src="<?php echo $path; ?>assets/images/ux-lg.svg" alt="ux" /> -->
                                  <div class="ux-design-img"></div>
                             </div>
-                            <h4 class="title">UX Design</h4>
+                            <h2 class="title">UX Design</h2>
                             <p class="description">
                                 Shape tomorrow's digital experiences with our UX design services, crafting seamless interactions that align with your brand and business goals..
                             </p>
@@ -121,7 +121,7 @@
                                 <!-- <img src="<?php echo $path; ?>assets/images/pd-lg.svg" alt="pd" /> -->
                                 <div class="pd-design-img"></div>
                             </div>
-                            <h4 class="title">Product Design</h4>
+                            <h2 class="title">Product Design</h2>
                             <p class="description">
                                 Revamp your product with our concise Product Design services, seamlessly blending innovative aesthetics and functionality for standout, user-centric solutions.
                             </p>
@@ -145,7 +145,7 @@
                                 <!-- <img src="<?php echo $path; ?>assets/images/dt-lg.svg" alt="dt" /> -->
                                 <div class="ux-audit-img"></div>
                             </div>
-                            <h4 class="title">UX Audit</h4>
+                            <h2 class="title">UX Audit</h2>
                             <p class="description">
                                 Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
                             </p>
@@ -168,7 +168,7 @@
                                 <!-- <img src="<?php echo $path; ?>assets/images/fd-lg.svg" alt="fd" /> -->
                                 <div class="ui-engg-img"></div>
                             </div>
-                            <h4 class="title">UI Engineering</h4>
+                            <h2 class="title">UI Engineering</h2>
                             <p class="description">
                                 Merging design and technology for dynamic and precise user interfaces, optimizing the digital experience.
                             </p>
@@ -286,7 +286,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="dev-cycle-block">
                             <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
-                            <h4 class="dcb-title">UX Design</h4>
+                            <h3 class="dcb-title">UX Design</h3>
                             <ul class="dcb-list">
                                 <li>User Research</li>
                                 <li>UX Audit</li>
@@ -300,7 +300,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="dev-cycle-block">
                             <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
-                            <h4 class="dcb-title">UI Design</h4>
+                            <h3 class="dcb-title">UI Design</h3>
                             <ul class="dcb-list">
                                 <li>Design Systems</li>
                                 <li>Brand Elements</li>
@@ -312,7 +312,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="dev-cycle-block">
                             <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
-                            <h4 class="dcb-title">UI Development</h4>
+                            <h3 class="dcb-title">UI Development</h3>
                             <ul class="dcb-list">
                                 <li>Micro Frontend Architecture</li>
                                 <li>Modular Component Building</li>
@@ -324,7 +324,7 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="dev-cycle-block disabled">
                             <img src="<?php echo $path; ?>assets/images/close-circle.svg" alt="close-circle" class="dcb-icon" />
-                            <h4 class="dcb-title">Backend & Integration</h4>
+                            <h3 class="dcb-title">Backend & Integration</h3>
                             <ul class="dcb-list">
                                 <li>DB Design</li>
                                 <li>API Development</li>
@@ -347,14 +347,14 @@
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
-                            <h4 class="wwd-title">Online Banking</h4>
+                            <h3 class="wwd-title">Online Banking</h3>
                             <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and secure transactions.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="cm" />
-                            <h4 class="wwd-title">Capital Market</h4>
+                            <h3 class="wwd-title">Capital Market</h3>
                             <p class="wwd-text">Empowering investors with data-driven insights and intuitive trading platforms.</p>
                         </div>
 
@@ -362,42 +362,42 @@
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="healthcare" />
-                            <h4 class="wwd-title">Healthcare</h4>
+                            <h3 class="wwd-title">Healthcare</h3>
                             <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="iot" />
-                            <h4 class="wwd-title">IoT</h4>
+                            <h3 class="wwd-title">IoT</h3>
                             <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="th" />
-                            <h4 class="wwd-title">Travel and Hospitality</h4>
+                            <h3 class="wwd-title">Travel and Hospitality</h3>
                             <p class="wwd-text">Crafting memorable customer digital journeys, from booking to exploration, for unforgettable experiences.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
-                            <h4 class="wwd-title">Enterprise Solutions</h4>
+                            <h3 class="wwd-title">Enterprise Solutions</h3>
                             <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
-                            <h4 class="wwd-title">Startup Ventures</h4>
+                            <h3 class="wwd-title">Startup Ventures</h3>
                             <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
-                            <h4 class="wwd-title">B2C</h4>
+                            <h3 class="wwd-title">B2C</h3>
                             <p class="wwd-text">Enhancing consumer experiences with engaging and intuitive digital platforms</p>
                         </div>
                     </div>
