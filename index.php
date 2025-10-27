@@ -40,9 +40,9 @@
     </div>
     <main role="main">
  <?php include $path . 'components/banner.php'; ?>
-    <section class="business-success section-padding">
+    <section class="business-success">
         <div class="container">
-            <h2 class="section-title">
+            <h2 class="section-title pt-0">
                 Our Services
             </h2>
             <div class="bs-card-section section-margin">
