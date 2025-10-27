@@ -27,8 +27,7 @@
     <meta name="twitter:title" content="Biomedical Research platform | Euclid | Neointeraction design" />
     <meta name="twitter:description"
         content="Keyword extraction in medical research using UX design and React.js. Discover AI-driven text mining solutions and contact Neointeraction for innovative projects." />
-    <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/og/euclid-homepage-thumbnail.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/euclid-homepage-thumbnail.jpeg" />
 </head>
 
 <body>
@@ -53,8 +52,7 @@
         <!-- project-banner-img -->
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner.jpg"
-                    alt="pbanner1" />
+                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner.jpg" alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner-float.svg"
@@ -75,7 +73,8 @@
                         <div class="col-md-3">
                             <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center
 ">
-                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/euclid.svg" alt="euclid" />
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/euclid.svg"
+                                    alt="euclid" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
@@ -91,7 +90,8 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal"
+                            data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
 
@@ -188,7 +188,9 @@
                                 <div class="custom-card">
                                     <h4 class="title">Interactive Data Visualization</h4>
                                     <p class="description">
-                                    We introduced interactive dashboards and visual elements that allowed users to explore biomedical data intuitively, making complex relationships easier to comprehend.
+                                        We introduced interactive dashboards and visual elements that allowed users to
+                                        explore biomedical data intuitively, making complex relationships easier to
+                                        comprehend.
                                     </p>
                                 </div>
                             </div>
@@ -199,18 +201,22 @@
 
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Our Approach</h4>
-                    <p class="project-body-text"> We started by understanding the challenge and conducting research. Our strategy involved creating a detailed list of requirements and exploring potential solutions. Moving forward, we carefully selected the most effective solution from the list and proceeded to build a prototype, laying the foundation for the development phase.</p>
+                    <p class="project-body-text"> We started by understanding the challenge and conducting research. Our
+                        strategy involved creating a detailed list of requirements and exploring potential solutions.
+                        Moving forward, we carefully selected the most effective solution from the list and proceeded to
+                        build a prototype, laying the foundation for the development phase.</p>
                 </div>
                 <!-- brainstorming-session  -->
-           
+
                 <!-- solutions-help section -->
                 <div class="solutions-help project-section-padding">
                     <div class="title-flex">
                         <h2 class="project-section-title">
                             How did our solutions help?
                         </h2>
-                        <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn"
-                            data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
+                        <button class="btn btn-custom case-study-webview"
+                            data-service="euclid-biomedical-research-platform" data-bs-toggle="modal"
+                            data-bs-target="#downloadCaseStudyModal"
                             data-project-title="<?php echo htmlspecialchars($project_title); ?>"
                             data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                             Download case study
@@ -221,8 +227,9 @@
                         aspects of usability, accessibility, and engagement. Here's
                         how our efforts positively impacted the user interface,
                     </p>
-                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all"
-                        id="case-study-btn" data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
+                    <button class="btn btn-custom case-study-mobview ps-responsive-margin"
+                        data-service="euclid-biomedical-research-platform" data-bs-toggle="modal"
+                        data-bs-target="#downloadCaseStudyModal"
                         data-project-title="<?php echo htmlspecialchars($project_title); ?>"
                         data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                         Download case study
@@ -286,7 +293,8 @@
                 <div class="ui-update project-section-padding">
                     <h4 class="project-section-title">Final UI </h4>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-website-ui.jpg" alt="ui-update" />
+                        <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-website-ui.jpg"
+                            alt="ui-update" />
                     </div>
                 </div>
                 <!-- <div class="view-all-blogs-btn">

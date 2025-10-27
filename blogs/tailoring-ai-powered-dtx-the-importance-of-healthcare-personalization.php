@@ -178,7 +178,7 @@
                 <h4 class="blog-body-title">Conclusion</h4>
 
                 <p class="blog-body-text">
-                    With the combination of AI with effective UX UI design and customization, DTx solutions can be transformed for the improvement of patient outcomes and overall healthcare experience. Neointeraction Design is a leading <a href="https://www.neointeraction.com/" target="_blank">UI UX design company in India </a>that contributes to the creation of innovative and user-centred healthcare solutions. Our team of experts can help you develop DTx applications which deliver exceptional patient experiences and improve health outcomes. 
+                    With the combination of AI with effective UX UI design and customization, DTx solutions can be transformed for the improvement of patient outcomes and overall healthcare experience. Neointeraction Design is a leading <a href="<?php echo $path; ?>" target="_blank">UI UX design company in India </a>that contributes to the creation of innovative and user-centred healthcare solutions. Our team of experts can help you develop DTx applications which deliver exceptional patient experiences and improve health outcomes. 
                 </p>
 
               

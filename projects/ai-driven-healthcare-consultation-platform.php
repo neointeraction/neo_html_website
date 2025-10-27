@@ -229,7 +229,7 @@
                             How did our solutions help?
                         </h2>
                         <button class="btn btn-custom case-study-webview "
-                                 data-service="crew-mobility-management-in-a-cruise"
+                                 data-service="ai-driven-healthcare-consultation-platform"
                                  data-bs-toggle="modal"
                                  data-bs-target="#downloadCaseStudyModal"
                                  data-project-title="<?php echo htmlspecialchars($project_title); ?>"
@@ -242,7 +242,7 @@
                         cardiologists.
                     </p>
                      <button class="btn btn-custom case-study-mobview ps-responsive-margin"
-                                 data-service="crew-mobility-management-in-a-cruise"
+                                 data-service="ai-driven-healthcare-consultation-platform"
                                  data-bs-toggle="modal"
                                  data-bs-target="#downloadCaseStudyModal"
                                  data-project-title="<?php echo htmlspecialchars($project_title); ?>"

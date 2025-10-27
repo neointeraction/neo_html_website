@@ -196,15 +196,22 @@ include $path . 'includes/case_study_helper.php';
                         <h2 class="project-section-title">
                             How did our solutions help?
                         </h2>
-                        <button class="btn btn-custom case-study-webview" data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal" data-case="all" id="case-study-btn">
+                        <button class="btn btn-custom case-study-webview" data-service="vidal-cashless-tpa"
+                                 data-bs-toggle="modal"
+                                 data-bs-target="#downloadCaseStudyModal"
+                                 data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                                 data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                             Download case study
                         </button>
                     </div>
                     <p class="project-body-text">
                         Our UX solutions made things better by reducing Turnaround Times (TATs), simplifying cashless claims, and providing a holistic redesign.
                     </p>
-                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal" data-case="all"
-                        id="case-study-btn">
+                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-service="vidal-cashless-tpa"
+                                 data-bs-toggle="modal"
+                                 data-bs-target="#downloadCaseStudyModal"
+                                 data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                                 data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                         Download case study
                     </button>
                     <div class="bs-card-section project-bs-cards">

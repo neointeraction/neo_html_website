@@ -51,7 +51,7 @@
                     Composable Business : How UX Design Secure Better User Experiences
                 </h1>
                 <p class="blog-body-text">
-                    Composable business models are emerging as a transformative force, reshaping the way organizations interact with customers and deliver value. By allowing businesses to assemble and disassemble services and applications like building blocks, composable strategies enhance operational agility and responsiveness, making a mark in <a href="https://www.neointeraction.com/digital-transformation-services" target="_blank">Digital Transformation services in India</a>. As these models gain traction, the importance of UI UX design in delivering cohesive and intuitive user experiences becomes increasingly critical. This blog explores the impact of composable design on user experience and highlights the significance of UI UX in this evolving context.
+                    Composable business models are emerging as a transformative force, reshaping the way organizations interact with customers and deliver value. By allowing businesses to assemble and disassemble services and applications like building blocks, composable strategies enhance operational agility and responsiveness, making a mark in Digital Transformation services in India. As these models gain traction, the importance of UI UX design in delivering cohesive and intuitive user experiences becomes increasingly critical. This blog explores the impact of composable design on user experience and highlights the significance of UI UX in this evolving context.
                 </p>
 
                 <div class="blog-banner-img">
@@ -115,7 +115,7 @@
                 </h4>
 
                 <p class="blog-body-text">
-                    Rising technologies, such as <a href="<?php echo $path; ?>blogs/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" target="_blank">artificial intelligence</a> (AI) and <a href="<?php echo $path; ?>blogs/revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning" target="_blank">machine learning</a>, are shaping the future of composable design.  These technologies are making it possible for businesses to create <a href="<?php echo $path; ?>blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization" target="_blank">hyper-personalized experiences</a> by adapting composable elements based on real-time user interactions, making the user experience more engaging thus creating a significant change in the future of <a href="<?php echo $path; ?>digital-transformation-services" target="_blank">Digital Transformation in India</a>. 
+                    Rising technologies, such as <a href="<?php echo $path; ?>blogs/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" target="_blank">artificial intelligence</a> (AI) and <a href="<?php echo $path; ?>blogs/revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning" target="_blank">machine learning</a>, are shaping the future of composable design.  These technologies are making it possible for businesses to create <a href="<?php echo $path; ?>blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization" target="_blank">hyper-personalized experiences</a> by adapting composable elements based on real-time user interactions, making the user experience more engaging thus creating a significant change in the future of Digital Transformation in India. 
                 </p>
 
                 <p class="blog-body-text">

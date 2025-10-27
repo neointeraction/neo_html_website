@@ -48,7 +48,7 @@
                 Redesigning <span class="highlight">Cattle Tracking & Management solution</span>
             </h1>
         </div>
-   
+
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-banner.jpg"
@@ -73,8 +73,10 @@
                 <div class="blog-quote-block project-quote-block">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
-                            <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/herdx-logo.svg" alt="herdx" />
+                            <div
+                                class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/herdx-logo.svg"
+                                    alt="herdx" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
@@ -91,7 +93,8 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal"
+                            data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
                     </div>
@@ -199,7 +202,11 @@
                         <h2 class="project-section-title">
                             How did our solutions help?
                         </h2>
-                        <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn">
+                        <button class="btn btn-custom case-study-webview"
+                            data-service="cattle-tracking-management-solution" data-bs-toggle="modal"
+                            data-bs-target="#downloadCaseStudyModal"
+                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                            data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                             Download case study
                         </button>
                     </div>
@@ -208,8 +215,12 @@
                         for them, making their work more efficient. By keeping a constant eye on things, we also helped
                         reduce health problems with the animals on the farm.
                     </p>
-                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all"
-                        id="case-study-btn">
+                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" 
+                    data-service="cattle-tracking-management-solution" data-bs-toggle="modal"
+                            data-bs-target="#downloadCaseStudyModal"
+                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                            data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>"
+                    >
                         Download case study
                     </button>
                     <div class="bs-card-section project-bs-cards">
@@ -291,36 +302,6 @@
 
 
 
-
-    <!-- Case Study Download Modal -->
-    <div class="modal fade" id="caseStudyModal" tabindex="-1" role="dialog" aria-labelledby="caseStudyModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="caseStudyModalLabel">Download Case Study</h5>
-                    <!-- Change this line in your modal -->
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <p class="mb-3 mt-3">Enter your email to download the case study and stay updated with our latest
-                        insights.</p>
-                    <form id="caseStudyForm">
-                        <div class="mb-3">
-                            <input type="email" id="case-study-email" class="form-control"
-                                placeholder="Enter your work email" required>
-                        </div>
-                        <div id="case-study-status" class="mb-3 text-center"></div>
-                        <div class="d-flex justify-content-center">
-                            <button type="submit" class="btn btn-custom" id="case-study-submit">
-                                Download Case Study
-                            </button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <?php 
         $previous = "Inkmagik - A Graphic Design Software";

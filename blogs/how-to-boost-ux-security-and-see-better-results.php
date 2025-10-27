@@ -60,7 +60,7 @@
                     applications. The rise of data collection has increased the concerns of users over privacy and
                     security about how their personal information is used and protected. UI UX designers need to
                     prioritise <a
-                        href="https://www.neointeraction.com/blogs/fostering-user-confidence-in-your-brand-through-designing-for-trust"
+                        href="<?php echo $path; ?>/blogs/fostering-user-confidence-in-your-brand-through-designing-for-trust"
                         target="_blank">building trust</a> by addressing privacy and security concerns thereby making
                     users feel safe
                     while they are engaging with digital products.
@@ -122,10 +122,9 @@
                     outset which includes encryption, secure login processes, and two-factor authentication (2FA).
                     Dropbox, for instance, utilizes 2FA, which requires users to verify their identity through an
                     additional code sent to their phone, adding a layer of protection. These proactive design measures
-                    ensure user safety bringing in a new wave in the <a
-                        href="https://www.neointeraction.com/digital-transformation-services" target="_blank">Digital
+                    ensure user safety bringing in a new wave in the Digital
                         Transformation
-                        services in India</a>.
+                        services in India.
                 </p>
 
                 <div class="blog-banner-img">
@@ -141,9 +140,8 @@
                     customized experiences but are hesitant to share too much personal information. Ethical <a
                         href="https://www.neointeraction.com/blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization"
                         target="_blank">AI-driven personalization</a> allows platforms to deliver relevant content while
-                    respecting user privacy accelerating <a
-                        href="https://www.neointeraction.com/digital-transformation-services" target="_blank">Digital
-                        Transformation in India</a>.
+                    respecting user privacy accelerating Digital
+                        Transformation in India.
                     For example, recommendation engines can personalize experiences based on anonymous or minimal data,
                     ensuring privacy without sacrificing the quality of the user experience.
                 </p>

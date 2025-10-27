@@ -201,15 +201,24 @@
                         <h2 class="project-section-title">
                             How did our solutions help?
                         </h2>
-                        <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn">
+                        <button class="btn btn-custom case-study-webview" 
+                        data-service="inkmagik-graphic-design-tool" data-bs-toggle="modal"
+                            data-bs-target="#downloadCaseStudyModal"
+                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                            data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>"
+                        >
                             Download case study
                         </button>
                     </div>
                     <p class="project-body-text">
                     As Inkmagik is an all-in-one graphic design tool, its applications differ based on the business or use-cases. Some of the people who have benefited the most from Inkmagik are listed below:
                     </p>
-                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all"
-                        id="case-study-btn">
+                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" 
+                    data-service="inkmagik-graphic-design-tool" data-bs-toggle="modal"
+                            data-bs-target="#downloadCaseStudyModal"
+                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                            data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>"
+                    >
                         Download case study
                     </button>
                     <div class="bs-card-section project-bs-cards">
@@ -285,33 +294,7 @@
 
 
 
-    <!-- Case Study Download Modal -->
-    <div class="modal fade" id="caseStudyModal" tabindex="-1" role="dialog" aria-labelledby="caseStudyModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="caseStudyModalLabel">Download Case Study</h5>
-                    <!-- Change this line in your modal -->
-                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <p class="mb-3">Enter your email to download the case study and stay updated with our latest
-                        insights.</p>
-                    <form id="caseStudyForm">
-                        <div class="mb-3">
-                            <input type="email" id="case-study-email" class="form-control"
-                                placeholder="Enter your work email" required>
-                        </div>
-                        <div id="case-study-status" class="mb-3"></div>
-                        <button type="submit" class="btn btn-custom-secondary w-100" id="case-study-submit">
-                            Download Case Study
-                        </button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
+
 
     <?php 
         $previous = "Intertrust - A BPM Application";

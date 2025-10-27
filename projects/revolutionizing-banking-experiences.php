@@ -186,14 +186,22 @@
             <h2 class="project-section-title">
               How did our solutions help?
             </h2>
-            <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn">
+            <button class="btn btn-custom case-study-webview" data-service="revolutionizing-banking-experiences"
+                                 data-bs-toggle="modal"
+                                 data-bs-target="#downloadCaseStudyModal"
+                                 data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                                 data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
               Download case study
             </button>
           </div>
           <p class="project-body-text">
           Our solutions amplified accessibility, based on user needs, leveraged competitive insights
           </p>
-          <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all" id="case-study-btn">
+          <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-service="revolutionizing-banking-experiences"
+                                 data-bs-toggle="modal"
+                                 data-bs-target="#downloadCaseStudyModal"
+                                 data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                                 data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
             Download case study
           </button>
           <div class="bs-card-section project-bs-cards">

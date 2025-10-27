@@ -63,7 +63,7 @@
                 <p class="blog-body-text">
                     Virtual Reality (VR) and Augmented Reality (AR) have changed the way our interaction happens in
                     digital environments by offering experiences that blur the line between the physical and virtual
-                    worlds. As <a href="https://www.neointeraction.com/digital-transformation-services" target="_blank">Digital Transformation in India</a> progresses, the ability to attract users in fully
+                    worlds. As Digital Transformation in India progresses, the ability to attract users in fully
                     interactive environments, through VR's completely simulated spaces and AR's digital overlays in the
                     real world, has made these technologies popular. According to <a href="https://www.statista.com/outlook/amo/ar-vr/worldwide" target="_blank">Statista</a>, the AR & VR market is
                     predicted to generate a revenue of US$40.4bn in 2024, portraying rapid growth and investment in
@@ -91,8 +91,8 @@
                     In VR, the concept of “presence” is mainly psychological, involving the brain’s ability to accept
                     the virtual world as real. In contrast, UX design for augmented reality blends the virtual with the
                     real which strikes a balance to avoid overwhelming users with excessive sensory input. VR and AR
-                    development teams, particularly those leveraging <a href="https://www.neointeraction.com/digital-transformation-services" target="_blank">Digital Transformation
-                        in India</a>, must understand these distinctions to craft engaging experiences, as the nature of
+                    development teams, particularly those leveraging Digital Transformation
+                        in India, must understand these distinctions to craft engaging experiences, as the nature of
                     presence varies between the two platforms.
                 </p>
 
@@ -167,7 +167,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    <b>Emotional Feedback: </b> Monitoring how <a href="https://www.neointeraction.com/blogs/emotional-design-in-ux-what-you-need-to-know-for-great-ux" target="_blank">users emotionally respond</a> to VR and AR environments is
+                    <b>Emotional Feedback: </b> Monitoring how <a href="<?php echo $path; ?>/blogs/emotional-design-in-ux-what-you-need-to-know-for-great-ux" target="_blank">users emotionally respond</a> to VR and AR environments is
                     necessary for understanding the experience of presence.
                 </p>
 

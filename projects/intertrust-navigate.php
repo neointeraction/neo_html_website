@@ -2,28 +2,31 @@
 <html class="no-js" lang="en">
 
 <head>
-<?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-<?php include $path . 'includes/head-additional-scripts.php'; ?>
-<title>Hedge Fund App UX Design | Neointeraction Design | Contact Now</title>
-  <meta name="description" content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture."/>
-  <link rel="canonical" href="https://www.neointeraction.com/hedge-fund-processing-experience-design"/>
-  <meta property="og:title" content="Hedge Fund App UX Design | Neointeraction Design | Contact Now"/>
-  <meta property="og:description" content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture."/>
-  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-navigate-thumbnail.jpeg"/>
-  <meta property="og:image:width" content="2500"/>
-  <meta property="og:image:height" content="1330"/>
-  <meta property="og:url" content="https://www.neointeraction.com/hedge-fund-processing-experience-design"/>
-  <meta property="og:site_name" content="Neointeraction Design"/>
-  <meta property="og:type" content="website"/>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
-  <meta name="twitter:title" content="Hedge Fund App UX Design | Neointeraction Design | Contact Now"/>
-  <meta name="twitter:description" content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture."/>
-  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-navigate-thumbnail.jpeg"/>
-  <meta name="twitter:card" content="summary"/>
-  
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+    <?php include $path . 'includes/head-additional-scripts.php'; ?>
+    <title>Hedge Fund App UX Design | Neointeraction Design | Contact Now</title>
+    <meta name="description"
+        content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture." />
+    <link rel="canonical" href="https://www.neointeraction.com/hedge-fund-processing-experience-design" />
+    <meta property="og:title" content="Hedge Fund App UX Design | Neointeraction Design | Contact Now" />
+    <meta property="og:description"
+        content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture." />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-navigate-thumbnail.jpeg" />
+    <meta property="og:image:width" content="2500" />
+    <meta property="og:image:height" content="1330" />
+    <meta property="og:url" content="https://www.neointeraction.com/hedge-fund-processing-experience-design" />
+    <meta property="og:site_name" content="Neointeraction Design" />
+    <meta property="og:type" content="website" />
+    <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
+    <meta name="twitter:title" content="Hedge Fund App UX Design | Neointeraction Design | Contact Now" />
+    <meta name="twitter:description"
+        content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture." />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-navigate-thumbnail.jpeg" />
+    <meta name="twitter:card" content="summary" />
+
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
-  
+
 </head>
 
 <body>
@@ -46,7 +49,7 @@
             </h1>
         </div>
         <!-- project-banner-img -->
-      
+
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-banner.jpg"
@@ -59,8 +62,7 @@
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate.jpeg"
-                    alt="pbanner1" />
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate.jpeg" alt="pbanner1" />
             </div>
         </div>
         <div class="project-content-block">
@@ -69,7 +71,8 @@
                 <div class="blog-quote-block project-quote-block">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
-                            <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
+                            <div
+                                class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
                                 <img src="<?php echo $path; ?>assets/images/projects/client-logos/intertrust-logo.svg"
                                     alt="itg" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
@@ -87,7 +90,8 @@
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
                         <h4 class="project-section-title">Overview </h4>
-                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
+                        <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal"
+                            data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
                     </div>
@@ -184,7 +188,9 @@
                                 <div class="custom-card">
                                     <h4 class="title">User Testing and Iterative Feedback</h4>
                                     <p class="description">
-                                    We conducted multiple rounds of testing with users, gathering feedback to refine UI elements and workflows, ensuring the platform met real-world user needs efficiently.
+                                        We conducted multiple rounds of testing with users, gathering feedback to refine
+                                        UI elements and workflows, ensuring the platform met real-world user needs
+                                        efficiently.
                                     </p>
                                 </div>
                             </div>
@@ -195,8 +201,10 @@
 
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">
-                    Our Approach</h4>
-                    <p class="project-body-text">Facing the challenge of understanding the business and product needs quickly, our strategy was to learn about the industry concepts for planning the design. We solved problems by using the right UI development technologies.</p>
+                        Our Approach</h4>
+                    <p class="project-body-text">Facing the challenge of understanding the business and product needs
+                        quickly, our strategy was to learn about the industry concepts for planning the design. We
+                        solved problems by using the right UI development technologies.</p>
                 </div>
 
 
@@ -206,15 +214,23 @@
                         <h2 class="project-section-title">
                             How did our solutions help?
                         </h2>
-                        <button class="btn btn-custom case-study-webview" data-case="all" id="case-study-btn">
+                        <button class="btn btn-custom case-study-webview" data-service="intertrust-navigate"
+                            data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
+                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                            data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                             Download case study
                         </button>
                     </div>
                     <p class="project-body-text">
-                    We were able to offer Navigate a full digital transformation by implementing the design on cutting-edge technology and incorporating our UX strategies. Many Intertrust personnel were satisfied with the software for its consistency in UI components and simplicity of navigation.
+                        We were able to offer Navigate a full digital transformation by implementing the design on
+                        cutting-edge technology and incorporating our UX strategies. Many Intertrust personnel were
+                        satisfied with the software for its consistency in UI components and simplicity of navigation.
                     </p>
-                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-case="all"
-                        id="case-study-btn">
+                    <button class="btn btn-custom case-study-mobview ps-responsive-margin"
+                        data-service="intertrust-navigate" data-bs-toggle="modal"
+                        data-bs-target="#downloadCaseStudyModal"
+                        data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                        data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
                         Download case study
                     </button>
                     <div class="bs-card-section project-bs-cards">
@@ -224,7 +240,8 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Scalable Design for Future Expansion</h4>
                                     <p class="description">
-                                    The design and UI elements were created in such a manner that Navigate could be scaled in the future when new features and capabilities were added.
+                                        The design and UI elements were created in such a manner that Navigate could be
+                                        scaled in the future when new features and capabilities were added.
                                     </p>
 
                                 </div>
@@ -235,7 +252,8 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Efficient Navigation System Based on UX Principles</h4>
                                     <p class="description">
-                                    With a clean-looking UI, Navigate offered users a true distraction-free environment to perform their daily tasks.
+                                        With a clean-looking UI, Navigate offered users a true distraction-free
+                                        environment to perform their daily tasks.
                                     </p>
 
                                 </div>
@@ -246,7 +264,8 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Navigating Complex Challenges with Cutting-Edge Tech</h4>
                                     <p class="description">
-                                    The UI development team was able to overcome complex difficulties by using the benefits of cutting-edge technologies.
+                                        The UI development team was able to overcome complex difficulties by using the
+                                        benefits of cutting-edge technologies.
                                     </p>
 
                                 </div>
@@ -271,7 +290,8 @@
                 <div class="ui-update project-section-padding">
                     <h4 class="project-section-title">Final UI </h4>
                     <div class="bs-img">
-                    <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-website-ui.jpeg" alt="intertrust-navigate-website-ui" />
+                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-website-ui.jpeg"
+                            alt="intertrust-navigate-website-ui" />
                     </div>
                 </div>
                 <!-- <div class="view-all-blogs-btn">

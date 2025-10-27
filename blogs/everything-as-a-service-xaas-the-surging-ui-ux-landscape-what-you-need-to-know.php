@@ -62,7 +62,7 @@
                     The Shift Towards XaaS
                 </h4>
                 <p class="blog-body-text">
-                    Businesses are moving towards cloud-based solutions supported by XaaS—a term used for services delivered over the internet—which has become a key component in this digital evolution. From Software as a Service (SaaS) to Platform as a Service (PaaS) and beyond, XaaS provides organizations access to a variety of digital services without large investment. Apart from changing the technological scenario, this highlights the importance of UI UX in <a href="https://www.neointeraction.com/digital-transformation-services" target="_blank">Digital Transformation Services in India</a>. 
+                    Businesses are moving towards cloud-based solutions supported by XaaS—a term used for services delivered over the internet—which has become a key component in this digital evolution. From Software as a Service (SaaS) to Platform as a Service (PaaS) and beyond, XaaS provides organizations access to a variety of digital services without large investment. Apart from changing the technological scenario, this highlights the importance of UI UX in Digital Transformation Services in India. 
                 </p>
 
                 <h4 class="blog-body-title">
@@ -154,7 +154,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    XaaS services must prioritize accessibility and inclusivity in their design to achieve <a href="https://www.neointeraction.com/digital-transformation-services" target="_blank">Digital Transformation in India</a> at its very best. <a href="https://www.neointeraction.com/blogs/how-design-accessibility-is-important-to-boost-your-business" target="_blank">Catering to users with disabilities</a> by giving accessible features makes the platform trustworthy. This includes incorporating features like screen reader compatibility, keyboard navigation, and visual contrast options.
+                    XaaS services must prioritize accessibility and inclusivity in their design to achieve Digital Transformation in India at its very best. <a href="https://www.neointeraction.com/blogs/how-design-accessibility-is-important-to-boost-your-business" target="_blank">Catering to users with disabilities</a> by giving accessible features makes the platform trustworthy. This includes incorporating features like screen reader compatibility, keyboard navigation, and visual contrast options.
                 </p>
 
 

@@ -198,10 +198,25 @@
                         <h2 class="project-section-title">
                             How did our solutions help?
                         </h2>
+                        <button class="btn btn-custom case-study-webview"
+                            data-service="startup-accelerator-website" data-bs-toggle="modal"
+                            data-bs-target="#downloadCaseStudyModal"
+                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                            data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>">
+                            Download case study
+                        </button>
                     </div>
                     <p class="project-body-text">
                     Our solutions significantly improved platform engagement and streamlined IA’s core service offerings for different user groups.
                     </p>
+                    <button class="btn btn-custom case-study-mobview ps-responsive-margin" 
+                    data-service="startup-accelerator-website" data-bs-toggle="modal"
+                            data-bs-target="#downloadCaseStudyModal"
+                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                            data-case-study-url="<?php echo htmlspecialchars($case_study_download_url); ?>"
+                    >
+                        Download case study
+                    </button>
                     <div class="bs-card-section project-bs-cards">
                         <div class="row ">
                             <!-- Card 1 -->
