@@ -169,7 +169,7 @@ include_once 'includes/tracking-functions.php';
     <?php include 'includes/tracking-script.php'; ?>
    <script>
 
-    const nameInput = document.getElementById('name');
+    let nameInput = document.getElementById('name');
 
     nameInput.addEventListener("keypress", e => {
     const char = String.fromCharCode(e.which);

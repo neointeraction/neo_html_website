@@ -57,7 +57,7 @@ function submitCaseStudyForm() {
     const phoneRegex = /^\+?[0-9]{10,15}$/;
     if (!cs_mobile || !phoneRegex.test(cs_mobile)) {
         cs_mobileInput.classList.add("is-invalid");
-        cs_mobileError.textContent = "Enter a valid mobile number (e.g., +1234567890)";
+        cs_mobileError.textContent = "Enter a valid mobile number (e.g., 9123456789)";
         cs_hasErrors = true;
     }
 
