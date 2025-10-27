@@ -28,7 +28,7 @@ function submitEnquiry(trackingData) {
     nameInput.classList.remove("is-invalid");
     emailInput.classList.remove("is-invalid");
     mobileInput.classList.remove("is-invalid");
-    requirementInput.classList.remove("is-invalid");
+
     nameError.textContent = "";
     emailError.textContent = "";
     mobileError.textContent = "";
@@ -60,11 +60,11 @@ function submitEnquiry(trackingData) {
     }
 
     // Requirement validation - check if empty
-    if (!requirement) {
-        requirementInput.classList.add("is-invalid");
-        requirementError.textContent = "Please describe your project needs";
-        hasErrors = true;
-    }
+    // if (!requirement) {
+    //     requirementInput.classList.add("is-invalid");
+    //     requirementError.textContent = "Please describe your project details";
+    //     hasErrors = true;
+    // }
 
     if (hasErrors) {
         return;

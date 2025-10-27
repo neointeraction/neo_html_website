@@ -27,7 +27,7 @@ include_once $path . 'includes/tracking-functions.php';
                                     <div class="form-group">
                                         <label for="name" class="form-label">Name</label>
                                         <input type="text" id="name" name="name" class="form-control custom-input"
-                                            placeholder="Enter name" maxlength="20" required>
+                                            placeholder="Enter name" maxlength="20" pattern="[A-Za-z ]+" required>
                                         <div id="name-error-modal" class="text-danger"></div>
                                     </div>
 
@@ -43,17 +43,18 @@ include_once $path . 'includes/tracking-functions.php';
                                         <label for="mobile_number" class="form-label">Mobile Number</label>
                                         <input type="tel" id="mobile_number" name="mobile_number"
                                             class="form-control custom-input"
-                                            placeholder="Enter mobile number (e.g. 9123456789)"
+                                            placeholder="Enter mobile number (e.g. +91 98765 43210)"
                                             pattern="^\+?[0-9]{10,15}$" maxlength="15" required
                                             oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                         <div id="mobile-error-modal" class="text-danger"></div>
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="requirement" class="form-label">Type your requirement</label>
+                                        <label for="requirement" class="form-label">Type project details
+                                        </label>
                                         <textarea id="requirement" name="requirement" class="form-control custom-input"
-                                            placeholder="Describe project needs (eg, mobile app, website design, website development, UX audit..etc)"
-                                            rows="6" maxlength="200" required></textarea>
+                                            placeholder="I am looking to design a mobile app/web app, Web site, Ux Audit.."
+                                            rows="4" maxlength="200" ></textarea>
                                         <div id="char-counter" class="form-text text-muted text-end">0/200 characters</div>
                                         <div id="requirement-error-modal" class="text-danger"></div>
                                     </div>
@@ -98,6 +99,14 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
+const nameInput = document.getElementById('name');
+
+nameInput.addEventListener("keypress", e => {
+  const char = String.fromCharCode(e.which);
+  if (!/[a-zA-Z ]/.test(char)) e.preventDefault();
+});
+
+
 document.getElementById('name').addEventListener('input', function() {        
     const name = document.getElementById('name').value;
 
@@ -135,22 +144,9 @@ document.getElementById('mobile_number').addEventListener('input', function() {
         document.getElementById('mobile-error-modal').classList.add('d-none');
     } else {
         document.getElementById('mobile_number').classList.add("is-invalid");   
-        document.getElementById('mobile-error-modal').innerHTML = 'Enter a valid mobile number';
+        document.getElementById('mobile-error-modal').innerHTML = 'Enter a valid mobile number (e.g. +91 98765 43210)';
         document.getElementById('mobile-error-modal').classList.remove('d-none');
     }
 }); 
 
-document.getElementById('requirement').addEventListener('input', function() {        
-    const requirement = document.getElementById('requirement').value.trim();
-
-    if (requirement.length > 0 && /^\S+$/.test(requirement)) {
-        document.getElementById('requirement').classList.remove("is-invalid");
-        document.getElementById('requirement-error-modal').innerHTML = '';
-        document.getElementById('requirement-error-modal').classList.add('d-none');
-    } else {
-        document.getElementById('requirement').classList.add("is-invalid"); 
-        document.getElementById('requirement-error-modal').innerHTML = 'Please describe your project needs';
-        document.getElementById('requirement-error-modal').classList.remove('d-none');
-    }
-}); 
 </script>
