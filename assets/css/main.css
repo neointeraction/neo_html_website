@@ -670,7 +670,7 @@ body {
 .footer-text {
   font-weight: 400;
   font-size: 16px;
-  color: #fdfdfd;
+  color: #B5B5B5;
   font-family: "DM Sans", sans-serif; /* Ensure DM Sans is applied */
   font-variation-settings: "opsz" 9, "wght" 400;
 }
@@ -711,7 +711,7 @@ body {
 .footer-link-list a {
   font-weight: 400;
   font-size: 16px;
-  color: #fdfdfd;
+  color: #B5B5B5;
   text-decoration: none;
   margin-bottom: 16px;
   display: block;
@@ -726,7 +726,7 @@ body {
 
 .footer-link-list a:hover {
   color: #fdfdfd;
-  font-weight: 600;
+  /* font-weight: 600; */
   transition: 0.3s all ease-in-out;
 }
 
@@ -741,6 +741,7 @@ body {
   font-weight: 500;
   font-family: "DM Sans", sans-serif; /* Ensure DM Sans is applied */
   font-variation-settings: "opsz" 9, "wght" 500;
+  color: #B5B5B5;
 }
 
 .newsletter-form .form-control {

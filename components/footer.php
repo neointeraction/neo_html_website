@@ -27,7 +27,7 @@
               </div>
           </div>
 
-          <p class="footer-text text-white-50 small pe-lg-5">
+          <p class="footer-text small pe-lg-5">
               Neointeraction is a UX/UI design company that specializes in creating
               user-centered digital experiences. We offer a wide range of services,
               including user research, interface design, usability testing, and
