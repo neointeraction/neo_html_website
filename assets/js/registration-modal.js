@@ -55,7 +55,7 @@ function submitEnquiry(trackingData) {
     const phoneRegex = /^\+?[0-9]{10,15}$/;
     if (!mobile || !phoneRegex.test(mobile)) {
         mobileInput.classList.add("is-invalid");
-        mobileError.textContent = "Enter a valid mobile number";
+        mobileError.textContent = "Enter a valid mobile number (e.g. +91 98765 43210)";
         hasErrors = true;
     }
 
