@@ -73,7 +73,7 @@
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
                             <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/90-logo.svg"
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/90-logo.webp"
                                     alt="90plus" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>

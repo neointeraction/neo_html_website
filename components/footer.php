@@ -23,7 +23,7 @@
                   <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/db.svg" alt="Dribble"
                           height="21" width="21"></a>
                   <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/med.svg"
-                          alt=Medium" height="21" width="21"></a>
+                          alt="Medium" height="21" width="21"></a>
               </div>
           </div>
 
