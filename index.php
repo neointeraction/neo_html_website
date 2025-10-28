@@ -6,7 +6,7 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+  
     <link href="<?php echo $path; ?>assets/css/fonts.css" rel="stylesheet">
     <?php include $path . 'includes/css.php'; ?>
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
