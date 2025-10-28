@@ -363,15 +363,6 @@
         "height": 33
     },
     {
-        "name": "AlphaTech",
-        "image": "assets/images/clients/uae/alphatech-logo.svg",
-        "tags": [
-            "uae"
-        ],
-        "width": 131,
-        "height": 33
-    },
-    {
         "name": "Hassan",
         "image": "assets/images/clients/uae/hassan-logo.svg",
         "tags": [
