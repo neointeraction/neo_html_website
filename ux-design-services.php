@@ -168,14 +168,14 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/user-chat.svg" alt="User-focused design icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/user-chat.svg" alt="User-focused design icon" width="40" height="40"  />
                             <h4 class="wwd-title">User-Centered Approach</h4>
                             <p class="wwd-text">Every design decision focuses on your users, creating clear and easy-to-use interactions. We prioritize simplicity and usability in every step of the design process.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/flag-post.svg" alt="Business strategy alignment icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/flag-post.svg" alt="Business strategy alignment icon" width="40" height="40" />
                             <h4 class="wwd-title">Strategic Alignment</h4>
                             <p class="wwd-text">Designs are created to reflect your business goals and vision. Each solution supports measurable growth and aligns with your long-term strategy.</p>
                         </div>
@@ -183,28 +183,28 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="Experience and expertise icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="Experience and expertise icon" width="40" height="40" />
                             <h4 class="wwd-title">Proven Expertise</h4>
                             <p class="wwd-text">With years of experience across industries, we deliver seamless and intuitive digital experiences. Our track record shows consistent results for businesses of all sizes.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/team-building.svg" alt="Team collaboration icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/team-building.svg" alt="Team collaboration icon" width="40" height="40" />
                             <h4 class="wwd-title">Collaborative Process</h4>
                             <p class="wwd-text">Open communication and teamwork guide every stage of the project. Your input is incorporated at every step to ensure alignment with your expectations.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Innovation and future-ready design icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Innovation and future-ready design icon" width="40" height="40" />
                             <h4 class="wwd-title">Future-Ready Solutions</h4>
                             <p class="wwd-text">Our designs are scalable and adaptable to changing business needs. They are built to grow with your brand and respond to evolving digital trends.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/target.svg" alt="Growth and performance icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/target.svg" alt="Growth and performance icon" width="40" height="40" />
                             <h4 class="wwd-title">Measurable Impact</h4>
                             <p class="wwd-text">Every design is focused on delivering results you can track. We aim to improve user engagement, satisfaction, and conversion through thoughtful UX solutions.</p>
                         </div>
@@ -224,21 +224,21 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/token_cweb.svg" alt="User research icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/token_cweb.svg" alt="User research icon" width="40" height="40" />
                             <h4 class="wwd-title">UX Research </h4>
                             <p class="wwd-text">Gain valuable insights into user behaviors and preferences to inform your product strategy and design decisions.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/arcticons_journey.svg" alt="Information architecture and content icone" />
+                            <img src="<?php echo $path; ?>assets/images/icons/arcticons_journey.svg" alt="Information architecture and content icone" width="40" height="40" />
                             <h4 class="wwd-title">IA and Content</h4>
                             <p class="wwd-text">Develop a clear information architecture and compelling content strategy to ensure that users can easily find what they need and engage with your brand</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/ph_strategy-light.svg" alt="UX optimization icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/ph_strategy-light.svg" alt="UX optimization icon" width="40" height="40" />
                             <h4 class="wwd-title">UX Optimization</h4>
                             <p class="wwd-text">Continuously improve your digital product based on user feedback and analytics, optimizing the user experience to drive engagement and conversions.</p>
                         </div>
@@ -246,14 +246,14 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-pointer.svg" alt="Interactive prototyping icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/hand-pointer.svg" alt="Interactive prototyping icon" width="40" height="40" />
                             <h4 class="wwd-title">Interactive Prototyping and Usability</h4>
                             <p class="wwd-text">Test early prototypes with real users to identify usability issues and refine the user experience before development begins.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="UI design icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="UI design icon" width="40" height="40" />
                             <h4 class="wwd-title">UI Design</h4>
                             <p class="wwd-text">From wireframes to high-fidelity mockups, our UI designers will create visually stunning user interfaces that align with your brand and delight your users</p>
                         </div>
@@ -261,7 +261,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="Front-end development icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="Front-end development icon" width="40" height="40" />
                             <h4 class="wwd-title">Front End Development</h4>
                             <p class="wwd-text">Bring your designs to life with our front-end development services, ensuring pixel-perfect execution and seamless integration with your backend systems.</p>
                         </div>
