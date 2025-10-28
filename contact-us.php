@@ -31,7 +31,6 @@ include_once 'includes/tracking-functions.php';
     <meta name="google-site-verification" content="" >
     <meta name="twitter:card" content="summary_large_image" >
     <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" >
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-contact-us-og.webp" >
     <meta name="twitter:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-contact-us-og.webp" >
    
