@@ -159,7 +159,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="row">
                         <div class="col-12 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/icons/target.svg" alt="Understand Business" width="40" height="40" />
+                                <img src="<?php echo $path; ?>assets/images/icons/target.svg" alt="Business understanding icon" width="40" height="40" />
                                 <h3 class="wwd-title">Understand Business </h3>
                                 <p class="wwd-text">Neointeraction’s UX/UI experts engage with stakeholders in 1-on-1
                                     sessions to align on business goals.</p>
@@ -167,7 +167,7 @@ include_once 'includes/tracking-functions.php';
                         </div>
                         <div class="col-12 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/icons/search.svg" alt="Hueristic Evaluation" width="40" height="40" />
+                                <img src="<?php echo $path; ?>assets/images/icons/search.svg" alt="Heuristic evaluation icon" width="40" height="40" />
                                 <h3 class="wwd-title">Hueristic Evaluation</h3>
                                 <p class="wwd-text">We assess your website/app using design principles by tracing the user
                                     journey.</p>
@@ -176,7 +176,7 @@ include_once 'includes/tracking-functions.php';
                         </div>
                         <div class="col-12 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/icons/new.svg" alt="Audit reports" width="40" height="40" />
+                                <img src="<?php echo $path; ?>assets/images/icons/new.svg" alt="UX audit report icon" width="40" height="40" />
                                 <h3 class="wwd-title">Audit reports</h3>
                                 <p class="wwd-text">We create a report highlighting hidden UX/UI gaps affecting user
                                     engagement.</p>
@@ -184,7 +184,7 @@ include_once 'includes/tracking-functions.php';
                         </div>
                         <div class="col-12 col-md-3 col-lg-3">
                             <div class="wwd-item">
-                                <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Suggest Solutions" width="40" height="40" />
+                                <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Design solutions icon" width="40" height="40" />
                                 <h3 class="wwd-title">Suggest Solutions</h3>
                                 <p class="wwd-text">We provide actionable design recommendations, quick fixes, and strategic
                                     insights in a detailed report.</p>
@@ -206,7 +206,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="col-12 col-md-6 col-lg-3">
                             <div class="custom-card">
                                 <div class="icon-container">
-                                    <img src="<?php echo $path; ?>assets/images/funnel.svg" alt="Low conversion" width="40" height="40"  />
+                                    <img src="<?php echo $path; ?>assets/images/funnel.svg" alt="Conversion funnel icon" width="40" height="40"  />
                                 </div>
                                 <h3 class="title">Low conversion rates</h3>
                                 <p class="description">
@@ -218,7 +218,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="col-12 col-md-6 col-lg-3">
                             <div class="custom-card">
                                 <div class="icon-container">
-                                    <img src="<?php echo $path; ?>assets/images/hand-pointer.svg" alt="Uncover Usability" width="40" height="40"  />
+                                    <img src="<?php echo $path; ?>assets/images/hand-pointer.svg" alt="Usability testing icon" width="40" height="40"  />
                                 </div>
                                 <h3 class="title">Uncover Usability Issues</h3>
                                 <p class="description">
@@ -229,7 +229,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="col-12 col-md-6 col-lg-3">
                             <div class="custom-card">
                                 <div class="icon-container">
-                                    <img src="<?php echo $path; ?>assets/images/a11y.svg" alt="Accessibility" width="40" height="40" />
+                                    <img src="<?php echo $path; ?>assets/images/a11y.svg" alt="Accessibility icon" width="40" height="40" />
                                 </div>
                                 <h3 class="title">Ensure Accessibility</h3>
                                 <p class="description">
@@ -240,7 +240,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="col-12 col-md-6 col-lg-3">
                             <div class="custom-card">
                                 <div class="icon-container">
-                                    <img src="<?php echo $path; ?>assets/images/file.svg" alt="Data-Driven" width="40" height="40" />
+                                    <img src="<?php echo $path; ?>assets/images/file.svg" alt="Data analytics icon" width="40" height="40" />
                                 </div>
                                 <h3 class="title">Data-Driven Decisions</h3>
                                 <p class="description">
