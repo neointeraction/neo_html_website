@@ -23,7 +23,7 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:title" content="Top UX Design services in India | UX Design company | Neointeraction Design" />
     <meta property="og:description"
         content="Neointeraction Design offers top UX Design services in India, creating visually appealing and user-friendly websites for your business needs. Request a free quote today." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/ux-design-thumbnail.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="" />
@@ -34,7 +34,7 @@ include_once 'includes/tracking-functions.php';
     <meta name="twitter:title" content="Top UX Design services in India | UX Design company | Neointeraction Design" />
     <meta name="twitter:description"
         content="Neointeraction Design offers top UX Design services in India, creating visually appealing and user-friendly websites for your business needs. Request a free quote today." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/ux-design-thumbnail.webp" />
 </head>
 
 <body>

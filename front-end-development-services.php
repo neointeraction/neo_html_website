@@ -23,7 +23,7 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:title" content="Front End Development Services in India | Front End Development Company | Neointeraction Design" />
     <meta property="og:description"
         content="Neointeraction Design provides best Front end development services in India. Hire talented Front-End developers for your upcoming web projects." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/ui-development-thumbnail.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="" />
@@ -34,7 +34,7 @@ include_once 'includes/tracking-functions.php';
     <meta name="twitter:title" content="Front End Development Services in India | Front End Development Company | Neointeraction Design" />
     <meta name="twitter:description"
         content="Neointeraction Design provides best Front end development services in India. Hire talented Front-End developers for your upcoming web projects." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/ui-development-thumbnail.webp" />
 </head>
 
 <body>

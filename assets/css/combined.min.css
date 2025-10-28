@@ -382,7 +382,6 @@ body {
 }
 
 .navbar-brand img {
-  height: 40px;
   margin-right: 10px;
 }
 
@@ -395,11 +394,11 @@ body {
 }
 
 .nav-link.active {
-  color: #ec1c24;
+  color: #B30F14;
 }
 
 .nav-link:hover {
-  color: #ec1c24;
+  color: #B30F14;
   transition: color 0.3s ease;
 }
 

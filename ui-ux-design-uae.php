@@ -23,7 +23,7 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:title" content="Expert UX Design Audit in UAE | Neointeraction Design | Contact Us" />
     <meta property="og:description"
         content="Boost your digital presence with our  UX Design Audit services in UAE. Uncover actionable insights for user experiences and drive business growth" />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/uae-thumbnail.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="" />
@@ -34,7 +34,7 @@ include_once 'includes/tracking-functions.php';
     <meta name="twitter:title" content="Expert UX Design Audit in India | Neointeraction Design | Contact Us" />
     <meta name="twitter:description"
         content="Boost your digital presence with our  UX Design Audit services in India. Uncover actionable insights for user experiences and drive business growth" />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/uae-thumbnail.webp" />
 </head>
 
 <body>

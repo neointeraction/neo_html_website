@@ -23,7 +23,7 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:title" content="Digital Transformation services in india | Neointeraction Design | Contact us" />
     <meta property="og:description"
         content="Unlock the full potential of your business with our digital transformation services in India. Contact us today for your digital transformation journey." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/product-design-thumbnail.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="" />
@@ -35,7 +35,7 @@ include_once 'includes/tracking-functions.php';
         content="Digital Transformation services in india | Neointeraction Design | Contact us" />
     <meta name="twitter:description"
         content="Unlock the full potential of your business with our digital transformation services in India. Contact us today for your digital transformation journey." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/product-design-thumbnail.webp" />
 </head>
 
 <body>

@@ -23,7 +23,7 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:title" content="Edtech Design services in India | Edtech company | Neointeraction Design" />
     <meta property="og:description"
         content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions." />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/edtech-design-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/edtech-design-services" />
@@ -34,7 +34,7 @@ include_once 'includes/tracking-functions.php';
     <meta name="twitter:title" content="Edtech Design services in India | Edtech company | Neointeraction Design" />
     <meta name="twitter:description"
         content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions." />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/edtech-design-thumbnail.webp" />
 </head>
 
 <body>

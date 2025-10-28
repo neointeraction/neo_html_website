@@ -24,9 +24,7 @@ include_once 'includes/tracking-functions.php';
         content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design" />
     <meta property="og:description"
         content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design." />
-    <meta property="og:image" content="" />
-    <meta property="og:image:width" content="2500" />
-    <meta property="og:image:height" content="1330" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/fintech-design-thumbnail.webp" />
     <meta property="og:url" content="https://www.neointeraction.com/banking-and-fintech-solutions" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
@@ -36,7 +34,7 @@ include_once 'includes/tracking-functions.php';
         content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design" />
     <meta name="twitter:description"
         content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design." />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/fintech-design-thumbnail.webp" />
 </head>
 
 <body>
