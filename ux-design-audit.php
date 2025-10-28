@@ -329,7 +329,7 @@ include_once 'includes/tracking-functions.php';
             $title = 'Start Your Consultation'; 
             $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers.';
             $buttonName = 'Get a Free consultation';
-            $imageLink = "assets/images/homepage-contact-us.jpg";
+            $imageLink = "assets/images/about-us/hire-ui.webp
             $imageAlt = "Get a Free consultation";
             include $path . 'components/hire-designers-engineers.php'; 
         ?>

@@ -183,7 +183,7 @@
         $title = 'Submit Enquiry'; 
         $desc = 'Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!';
         $buttonName = 'Contact Us';
-        $imageLink = "assets/images/homepage-contact-us.jpg";
+        $imageLink = "assets/images/about-us/hire-ui.webp
         $imageAlt = "Contact us";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
