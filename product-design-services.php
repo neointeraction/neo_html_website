@@ -48,15 +48,19 @@ include_once 'includes/tracking-functions.php';
          'image'=> 'thumb/desk/tricog-homepage-banner.webp',
         'mobileImage'=> 'thumb/mobile/tricog-homepage-banner.webp',
         'alt' => 'Redesigning Tricogs AI Driven Healthcare Platform',
-        'link' => 'ai-driven-healthcare-consultation-platform.php'
+        'link' => 'ai-driven-healthcare-consultation-platform.php',
+        'case_study_service' => 'ai-driven-healthcare-consultation-platform',
+        'case_study_url' => 'case-study/casestudy-ai-driven-healthcare-consultation-platform.pdf'
     ],
     [
-        'title' => 'Mobility Paltform for Crew Ship workforce management',
+        'title' => 'Mobility Platform for Crew Ship workforce management',
         'description' => 'Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information',
         'image' => 'thumb/desk/crew-mobility-management.webp',
         'mobileImage' => 'thumb/mobile/crew-mobility-management.webp',
-        'alt' => 'Mobility Paltform for Crew Ship workforce management',
-        'link' => 'crew-mobility-management-in-a-cruise.php'
+        'alt' => 'Mobility Platform for Crew Ship workforce management',
+        'link' => 'crew-mobility-management-in-a-cruise.php',
+        'case_study_service' => 'digital-health-wellness',
+        'case_study_url' => 'case-study/casestudy-crew-mobility-management-in-a-cruise.pdf'
     ]]
 
     ?>
@@ -253,7 +257,12 @@ include_once 'includes/tracking-functions.php';
                                     </p>
 
                                     <div class="pb-action-btn mt-2">
-                                        <button class="btn btn-custom">
+                                        <button class="btn btn-custom"
+                                        data-service="<?php echo htmlspecialchars($event['case_study_service']); ?>"
+                                            data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
+                                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                                            data-case-study-url="<?php echo htmlspecialchars($event['case_study_url']); ?>"
+                                        >
                                             Download Case Study
                                         </button>
                                     </div>
@@ -273,55 +282,6 @@ include_once 'includes/tracking-functions.php';
     <?php include 'components/testimonial.php'; ?>
     <!-- testimonials -- end  -->
 
-    <!-- <section class="industry-experience section-padding">
-        <div class="container">
-            <h2 class="section-title">SaaS Design Service</h2>
-            <p class="section-desc">Elevate your SaaS product with Neointeraction Design's specialized service. Our tailored approach ensures your digital product stands out in the market and also delivers an exceptional user experience for your end users. From concept to execution, we're your partner for the success of your SaaS UX design.</p>
-            <div class="what-we-do-block section-margin">
-                <div class="row">
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/star.svg" alt="qa" />
-                            <p class="wwd-text">Tailored design solutions for your product to stand out.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/check.svg" alt="value" />
-                            <p class="wwd-text">Expertise in UX/UI design for impactful product experiences.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/document.svg" alt="optimise" />
-                            <p class="wwd-text">Optimized usability, functionality, and scalability to drive growth and user satisfaction</p>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/thumbs-up.svg" alt="data" />
-                            <p class="wwd-text">Collaborative approach to meet your target audience's needs effectively.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/coin.svg" alt="plane" />
-                            <p class="wwd-text">Customized solutions for building or refining the best SaaS apps and digital products.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-3 col-lg-3">
-                        <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-pointer.svg" alt="team" />
-                            <p class="wwd-text">Data-driven approach to UX design, ensuring decisions are backed by insights and analytics.</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section> -->
 
 
 
@@ -355,7 +315,7 @@ include_once 'includes/tracking-functions.php';
     <div class="mb-4 mb-md-0"></div>
     <?php include $path . 'components/registration-modal.php'; ?>
     <script src="<?php echo $path; ?>assets/js/lp-enquiry.js"></script>
-
+    <?php include $path . 'components/download-casestudy-modal.php'; ?>
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>

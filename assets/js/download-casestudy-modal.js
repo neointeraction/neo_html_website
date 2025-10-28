@@ -41,7 +41,7 @@ function submitCaseStudyForm() {
     // Name validation - only letters and spaces, minimum 2 characters
     if (!cs_name || cs_name.length < 2 || !/^[a-zA-Z\s]+$/.test(cs_name)) {
         cs_nameInput.classList.add("is-invalid");
-        cs_nameError.textContent = "Enter a valid name (letters only, minimum 2 characters)";
+        cs_nameError.textContent = "Enter a valid name";
         cs_hasErrors = true;
     }
 
@@ -57,7 +57,7 @@ function submitCaseStudyForm() {
     const phoneRegex = /^\+?[0-9]{10,15}$/;
     if (!cs_mobile || !phoneRegex.test(cs_mobile)) {
         cs_mobileInput.classList.add("is-invalid");
-        cs_mobileError.textContent = "Enter a valid mobile number (e.g., 9123456789)";
+        cs_mobileError.textContent = "Enter a valid mobile number (e.g., +91 98765 43210)";
         cs_hasErrors = true;
     }
 

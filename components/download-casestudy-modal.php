@@ -37,7 +37,7 @@ include_once $path . 'includes/tracking-functions.php';
                                         <label for="cs_mobile_number-casestudy" class="form-label">Mobile Number</label>
                                         <input type="tel" id="cs_mobile_number-casestudy" name="cs_mobile_number"
                                             class="form-control custom-input"
-                                            placeholder="Enter mobile number (e.g. +1234567890)"
+                                            placeholder="Enter mobile number (e.g. +91 98765 43210)"
                                             pattern="^\+?[0-9]{10,15}$" required>
                                         <div id="cs_mobile-error-casestudy" class="text-danger"></div>
                                     </div>
