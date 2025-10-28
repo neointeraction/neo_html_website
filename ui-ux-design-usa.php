@@ -42,7 +42,9 @@ include_once 'includes/tracking-functions.php';
         'image'=> 'thumb/desk/geogit-homepage-banner.webp',
         'mobileImage'=> 'thumb/mobile/geogit-homepage-banner.webp',
         'alt' => 'Share Trading platform redesign',
-        'link' => 'share-trading-platform.php'
+        'link' => 'share-trading-platform.php',
+          'case_study_service' => 'share-trading-platform',
+        'case_study_url' => 'case-study/case-study-share-trading-platform-redesign.pdf'
     ],
     [
         'title' => 'Redesigning Tricogs AI Driven Healthcare Platform',
@@ -50,7 +52,9 @@ include_once 'includes/tracking-functions.php';
         'image'=> 'thumb/desk/tricog-homepage-banner.webp',
         'mobileImage'=> 'thumb/mobile/tricog-homepage-banner.webp',
         'alt' => 'Redesigning Tricogs AI Driven Healthcare Platform',
-        'link' => 'ai-driven-healthcare-consultation-platform.php'
+        'link' => 'ai-driven-healthcare-consultation-platform.php',
+          'case_study_service' => 'ai-driven-healthcare-consultation-platform',
+        'case_study_url' => 'case-study/casestudy-ai-driven-healthcare-consultation-platform.pdf'
     ]
    ]
     ?>
@@ -254,7 +258,12 @@ include_once 'includes/tracking-functions.php';
                                     </p>
 
                                     <div class="pb-action-btn mt-2">
-                                        <button class="btn btn-custom">
+                                        <button class="btn btn-custom"
+                                        data-service="<?php echo htmlspecialchars($event['case_study_service']); ?>"
+                                            data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
+                                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                                            data-case-study-url="<?php echo htmlspecialchars($event['case_study_url']); ?>"
+                                        >
                                             Download Case Study
                                         </button>
                                     </div>
@@ -297,6 +306,7 @@ include_once 'includes/tracking-functions.php';
     <?php $faq_tag = 'usa'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->
     <div class="mb-4 mb-md-0"></div>
+    <?php include $path . 'components/download-casestudy-modal.php'; ?>
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>

@@ -45,7 +45,9 @@ include_once 'includes/tracking-functions.php';
         'image' => 'thumb/desk/tutoring-platform-homepage-banner.webp',
         'mobileImage'=> 'thumb/mobile/tutoring-platform-homepage-banner.webp',
         'alt' => '90+ Tuition App - Online Tutoring Platform',
-        'link' => 'online-tutoring-platform.php'
+        'link' => 'online-tutoring-platform.php',
+        'case_study_service' => 'online-tutoring-platform',
+        'case_study_url' => 'case-study/casestudy-online-tutoring-platform-90-tuition-app.pdf'
     ]]
 
 
@@ -265,7 +267,12 @@ include_once 'includes/tracking-functions.php';
                                     </p>
 
                                     <div class="pb-action-btn mt-2">
-                                        <button class="btn btn-custom">
+                                        <button class="btn btn-custom"
+                                        data-service="<?php echo htmlspecialchars($event['case_study_service']); ?>"
+                                            data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
+                                            data-project-title="<?php echo htmlspecialchars($project_title); ?>"
+                                            data-case-study-url="<?php echo htmlspecialchars($event['case_study_url']); ?>"
+                                        >
                                             Download Case Study
                                         </button>
                                     </div>
@@ -321,7 +328,7 @@ include_once 'includes/tracking-functions.php';
     <div class="mb-4 mb-md-0"></div>
     <?php include $path . 'components/registration-modal.php'; ?>
     <script src="<?php echo $path; ?>assets/js/lp-enquiry.js"></script>
-
+    <?php include $path . 'components/download-casestudy-modal.php'; ?>
     <?php include $path.'components/footer.php'; ?>
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
