@@ -54,7 +54,7 @@
     <!-- upcoming-events  -->
     <section class="upcoming-events section-padding">
         <div class="container">
-            <h2 class="section-title">
+            <h2 class="section-title padding-top-20">
                 Upcoming Events
             </h2>
             <div class="project-block section-margin">
@@ -89,12 +89,7 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-
-
-    <?php 
+            <?php 
         $title = 'Register for future events'; 
         $desc = 'Don’t miss out—register now before seats fill up. Early registrants get priority access and event updates.';
         $buttonName = 'Register for future events';
@@ -102,6 +97,12 @@
         $imageAlt = "Register for future events";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
+        </div>
+    </section>
+
+
+
+ 
 
     <section class="engagement-modal section-padding">
         <div class="container">
@@ -168,7 +169,7 @@
 
 
 
-    <section>
+    <section class="section-padding">
         <div class="container">
             <div class="engagement-modal-block section-margin">
                 <div class="project-block-item">
@@ -195,7 +196,7 @@
         </div>
     </section>
 
-    <section>
+    <section class="section-padding">
         <div class="container">
             <div class="engagement-modal-block section-margin">
                 <div class="project-block-item">

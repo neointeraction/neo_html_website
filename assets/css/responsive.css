@@ -468,5 +468,66 @@
     font-size: 28px;
     font-weight: 400;
   }
+
+  .project-content {
+    padding-top: 5px;
+  }
+
+  .footer-link-block div:nth-child(3), .footer-link-block div:nth-child(4){
+    margin-top: 24px;
+  }
   
+}
+
+
+@media screen and (max-width: 480px) {
+  .navbar-brand img{
+    height: 32px;
+    width: fit-content;
+  }
+  .ux-design-img {
+    height: 64px;
+    width: 64px;
+    background-image: url(../images/services/ux-sm.svg);
+  }
+  .custom-card:hover .ux-design-img {
+    background-image: url(../images/services/ux-sm-hover.svg);
+  }
+  .pd-design-img {
+    height: 64px;
+    width: 64px;
+    background-image: url(../images/services/pd-sm.svg);
+  }
+  
+  .custom-card:hover .pd-design-img {
+    background-image: url(../images/services/pd-sm-hover.svg);
+  }
+  .ux-audit-img {
+    height: 64px;
+    width: 64px;
+    background-image: url(../images/services/dt-sm.svg);
+  }
+  
+  .custom-card:hover .ux-audit-img {
+    background-image: url(../images/services/dt-sm-hover.svg);
+  }
+  .ui-engg-img {
+    height: 64px;
+    width: 64px;
+    background-image: url(../images/services/fd-sm.svg);
+  }
+  
+  .custom-card:hover .ui-engg-img {
+    background-image: url(../images/services/fd-sm-hover.svg);
+  }
+
+  .project-tags .badge {
+    font-size: 12px;
+  }
+
+  .padding-top-20 {
+    padding-top: 20px;
+  }
+
+ 
 }

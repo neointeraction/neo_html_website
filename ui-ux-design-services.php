@@ -44,14 +44,6 @@
                 <h1 class="banner-title">
                     Design shaping <span class="highlight">digital experiences</span>
                 </h1>
-            </div>
-        </div>
-    </section>
-
-
-    <section class=" section-padding">
-        <div>
-            <div class="container">
                 <div class="experience-block">
                     <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-service="services" data-bs-target="#registerModal">
                         Book A Consultation
