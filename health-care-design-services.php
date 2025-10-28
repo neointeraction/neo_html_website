@@ -125,7 +125,7 @@ include_once 'includes/tracking-functions.php';
                                 <div class="form-group">
                                     <label for="lp_mobile_number" class="form-label">Mobile Number</label>
                                     <input type="tel" id="lp_mobile_number" name="lp_mobile_number" class="form-control custom-input"
-                                        placeholder="Enter mobile number" pattern="^\+?[0-9]{10,15}$" required
+                                        placeholder="Enter mobile number (e.g. +91 98765 43210)" pattern="^\+?[0-9]{10,15}$" required
                                         oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                     <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
                                 </div>
@@ -178,11 +178,6 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- clients -- end  -->
 
-
-
-
-
-
     <section class="industry-experience section-padding">
         <div class="container">
             <h2 class="section-title">Why Choose Us to Design Your Healthcare Product?</h2>
@@ -191,7 +186,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/health.svg" alt="qa" />
-                            <h4 class="wwd-title">Expertise in Healthcare UX Design</h4>
+                            <h3 class="wwd-title">Expertise in Healthcare UX Design</h3>
                             <p class="wwd-text">Leading the industry with expertise in healthcare, we collaborate
                                 closely with healthcare professionals to create enhanced user-centric experiences.</p>
                         </div>
@@ -199,7 +194,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="value" />
-                            <h4 class="wwd-title">Patient and Doctor-Centric Solutions</h4>
+                            <h3 class="wwd-title">Patient and Doctor-Centric Solutions</h3>
                             <p class="wwd-text">Our UI/UX designs are driven by emerging user needs, leveraging the
                                 latest AI/ML technology to deliver efficient clinical healthcare UX solutions that
                                 prioritize the needs of both patients and healthcare providers.</p>
@@ -208,7 +203,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/research-driven.svg" alt="optimise" />
-                            <h4 class="wwd-title">Research-Driven Insights</h4>
+                            <h3 class="wwd-title">Research-Driven Insights</h3>
                             <p class="wwd-text">Conducting UX qualitative research, we identify critical pain points in
                                 existing healthcare processes and translate them into innovative digital solutions,
                                 ensuring meaningful impact and improved outcomes.</p>
@@ -218,7 +213,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/calendar-driven.svg" alt="data" />
-                            <h4 class="wwd-title">Domain Expertise and Mentorship</h4>
+                            <h3 class="wwd-title">Domain Expertise and Mentorship</h3>
                             <p class="wwd-text">With strong domain expertise and multidisciplinary support, we create
                                 value-based solutions for medical web/mobile apps that align with industry standards and
                                 address the evolving needs of the healthcare sector.</p>
@@ -227,7 +222,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/ui-design.svg" alt="plane" />
-                            <h4 class="wwd-title">Future-Focused Design Solutions</h4>
+                            <h3 class="wwd-title">Future-Focused Design Solutions</h3>
                             <p class="wwd-text">Committed to creating omnipresent healthcare UX design solutions, we
                                 bring precision medical practices closer to users through innovative design approaches
                                 that anticipate and adapt to future trends.</p>
@@ -237,7 +232,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="plane" />
-                            <h4 class="wwd-title">Impactful Healthcare Solutions</h4>
+                            <h3 class="wwd-title">Impactful Healthcare Solutions</h3>
                             <p class="wwd-text">From leveraging medical wearables to telehealth platforms and AI-powered
                                 systems, we've optimized healthcare workflows to deliver better results for users,
                                 enhancing accessibility, efficiency, and overall holistic patient experience.</p>
@@ -263,6 +258,9 @@ include_once 'includes/tracking-functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
+                                <h2 class="project-title d-block d-md-none">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['image']; ?>" alt="<?php echo $event['alt']; ?>"
                                         class="img-fluid project-image d-none d-md-block" width="584" height="280" />
@@ -271,7 +269,7 @@ include_once 'includes/tracking-functions.php';
 
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                    <h2 class="project-title">
+                                    <h2 class="project-title d-none d-md-block">
                                         <?php echo $event['title']; ?>
                                     </h2>
                                     <p class="project-description">
@@ -340,7 +338,7 @@ include_once 'includes/tracking-functions.php';
                 document.getElementById("lp_designation-error").innerHTML = "";
             } else {
                 document.getElementById("lp_designation").classList.add("is-invalid");
-                document.getElementById("lp_designation-error").innerHTML = "Please describe your project needs";
+                document.getElementById("lp_designation-error").innerHTML = "Please describe your project details";
             }
         }); 
         

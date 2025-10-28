@@ -113,7 +113,7 @@ include_once 'includes/tracking-functions.php';
 
                                 <div class="form-group">
                                     <label for="lp_mobile_number" class="form-label">Mobile Number</label>
-                                    <input type="tel" id="lp_mobile_number" name="lp_mobile_number" class="form-control custom-input" placeholder="Enter mobile number"
+                                    <input type="tel" id="lp_mobile_number" name="lp_mobile_number" class="form-control custom-input" placeholder="Enter mobile number (e.g. +91 98765 43210)"
                                         pattern="^\+?[0-9]{10,15}$" required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                     <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
                                 </div>
@@ -175,7 +175,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/coin.svg" alt="qa" width="40px" height="40px" />
-                            <h4 class="wwd-title">Expertise in Fintech and Banking UX Design</h4>
+                            <h3 class="wwd-title">Expertise in Fintech and Banking UX Design</h3>
                             <p class="wwd-text">Leading the industry with our deep understanding of fintech and banking
                                 dynamics, we collaborate closely with financial professionals to craft user-centric
                                 experiences that drive engagement and trust.</p>
@@ -184,7 +184,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/customer-centric.svg" alt="value" width="40px" height="40px" />
-                            <h4 class="wwd-title">Customer-Centric Solutions</h4>
+                            <h3 class="wwd-title">Customer-Centric Solutions</h3>
                             <p class="wwd-text">Our UX/UI designs are tailored to meet the evolving needs of both
                                 customers and financial institutions. Leveraging cutting-edge technologies such as AI
                                 and machine learning, we deliver intuitive solutions that enhance the user experience
@@ -194,7 +194,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/research-driven.svg" alt="optimise" width="40px" height="40px" />
-                            <h4 class="wwd-title">Research-Driven Approach</h4>
+                            <h3 class="wwd-title">Research-Driven Approach</h3>
                             <p class="wwd-text">Through rigorous qualitative research, we identify pain points in
                                 existing financial processes and translate them into innovative digital solutions. Our
                                 insights-driven approach ensures that our designs have a meaningful impact and deliver
@@ -205,7 +205,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/calendar-driven.svg" alt="data" width="40px" height="40px" />
-                            <h4 class="wwd-title">Domain Expertise and Guidance</h4>
+                            <h3 class="wwd-title">Domain Expertise and Guidance</h3>
                             <p class="wwd-text">With a team of experts in fintech and banking, we provide valuable
                                 mentorship and guidance throughout the design process. Our solutions align with industry
                                 standards and address the dynamic needs of the financial sector, ensuring long-term
@@ -215,7 +215,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/ui-design.svg" alt="plane" width="40px" height="40px" />
-                            <h4 class="wwd-title">Future-Focused Design Solutions</h4>
+                            <h3 class="wwd-title">Future-Focused Design Solutions</h3>
                             <p class="wwd-text">Committed to staying ahead of the curve, we anticipate future trends and
                                 design solutions that are scalable and adaptable. Our forward-thinking approach ensures
                                 that our clients are well-prepared to meet the challenges of tomorrow's financial
@@ -226,7 +226,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="team" width="40px" height="40px" />
-                            <h4 class="wwd-title">Impactful Banking and Fintech Solutions</h4>
+                            <h3 class="wwd-title">Impactful Banking and Fintech Solutions</h3>
                             <p class="wwd-text">From optimizing digital banking platforms to revolutionizing payment
                                 systems and implementing AI-driven solutions, we've helped financial institutions
                                 enhance efficiency, accessibility, and overall user experience, driving growth and
@@ -252,6 +252,9 @@ include_once 'includes/tracking-functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
+                                <h2 class="project-title d-block d-md-none">
+                                        <?php echo $event['title']; ?>
+                                </h2>
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['image']; ?>" alt="<?php echo $event['alt']; ?>"
                                         class="img-fluid project-image d-none d-md-block" width="584" height="280" />
@@ -260,7 +263,7 @@ include_once 'includes/tracking-functions.php';
 
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                    <h2 class="project-title">
+                                    <h2 class="project-title d-none d-md-block">
                                         <?php echo $event['title']; ?>
                                     </h2>
                                     <p class="project-description">
@@ -330,7 +333,7 @@ include_once 'includes/tracking-functions.php';
             document.getElementById("lp_designation-error").innerHTML = "";
         } else {
             document.getElementById("lp_designation").classList.add("is-invalid");
-            document.getElementById("lp_designation-error").innerHTML = "Please describe your project needs";
+            document.getElementById("lp_designation-error").innerHTML = "Please describe your project details";
         }
     });
 

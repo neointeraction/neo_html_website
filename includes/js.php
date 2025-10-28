@@ -6,5 +6,3 @@
 <script src="<?php echo $path; ?>assets/js/main.js" defer></script>
 <script src="<?php echo $path; ?>assets/js/registration-modal.js" defer></script>
 <script src="<?php echo $path; ?>assets/js/download-casestudy-modal.js" defer></script>
-<script src="<?php echo $path; ?>assets/js/contact-us.js" defer></script>
-<script src="<?php echo $path; ?>assets/js/events.js" defer></script>

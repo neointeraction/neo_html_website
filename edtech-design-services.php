@@ -107,7 +107,7 @@ include_once 'includes/tracking-functions.php';
                                     <label for="lp_mobile_number" class="form-label">Mobile Number</label>
                                     <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
                                         class="form-control custom-input"
-                                        placeholder="Enter mobile number" pattern="^\+?[0-9]{10,15}$"
+                                        placeholder="Enter mobile number (e.g. +91 98765 43210)" pattern="^\+?[0-9]{10,15}$"
                                         required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                     <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
                                 </div>
@@ -178,7 +178,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/engineering.svg" alt="Design-based solutions" width="40px" height="40px" />
-                            <h4 class="wwd-title">Design-based solutions</h4>
+                            <h3 class="wwd-title">Design-based solutions</h3>
                             <p class="wwd-text">We're reshaping the landscape of education technology by integrating
                                 innovative design approaches that enhance user experiences and drive meaningful learning
                                 outcomes.</p>
@@ -187,7 +187,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/pointer.svg" alt="complete digital immersion" width="40px" height="40px" />
-                            <h4 class="wwd-title">Enabling a complete digital immersion</h4>
+                            <h3 class="wwd-title">Enabling a complete digital immersion</h3>
                             <p class="wwd-text">Our immersive digital solutions create an engaging learning environment
                                 where students can fully immerse themselves in interactive educational experiences,
                                 fostering deeper understanding and retention</p>
@@ -196,7 +196,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/a11y.svg" alt="Increasing accessibility and usability" width="40px" height="40px" />
-                            <h4 class="wwd-title">Increasing accessibility and usability</h4>
+                            <h3 class="wwd-title">Increasing accessibility and usability</h3>
                             <p class="wwd-text">We prioritize accessibility and usability in our designs to ensure that
                                 learners of all abilities can easily navigate and engage with educational content,
                                 promoting inclusivity and equal opportunities for learning</p>
@@ -206,7 +206,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/graduate.svg" alt="Designing an engaging simulation" width="40px" height="40px" />
-                            <h4 class="wwd-title">Designing an engaging simulation of a classroom</h4>
+                            <h3 class="wwd-title">Designing an engaging simulation of a classroom</h3>
                             <p class="wwd-text">Through captivating design elements and interactive features, we
                                 simulate the classroom experience in a digital environment, fostering collaboration,
                                 communication, and active learning among students</p>
@@ -215,7 +215,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/atom.svg" alt="Democratizing education" width="40px" height="40px" />
-                            <h4 class="wwd-title">Democratizing education</h4>
+                            <h3 class="wwd-title">Democratizing education</h3>
                             <p class="wwd-text">Our goal is to make quality education accessible to all, regardless of
                                 geographical location or socioeconomic status, by leveraging technology to break down
                                 barriers and expand access to learning resources</p>
@@ -225,7 +225,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Impactful Solutions"  width="40px" height="40px"/>
-                            <h4 class="wwd-title">Impactful solutions provided to our clients</h4>
+                            <h3 class="wwd-title">Impactful solutions provided to our clients</h3>
                             <p class="wwd-text">We deliver tangible results by providing our clients with actionable
                                 insights and innovative solutions that align with their goals, driving measurable
                                 improvements in student engagement, satisfaction, and academic performance.</p>
@@ -252,6 +252,9 @@ include_once 'includes/tracking-functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
+                                <h2 class="project-title d-block d-md-none">
+                                        <?php echo $event['title']; ?>
+                                </h2>
                                 <div class="col-lg-6 p-0 project-image-container">
                                  <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['image']; ?>" alt="<?php echo $event['alt']; ?>"
                                         class="img-fluid project-image d-none d-md-block" width="584" height="280" />
@@ -259,7 +262,7 @@ include_once 'includes/tracking-functions.php';
                                         class="img-fluid project-image d-flex d-md-none" width="438" height="126" />
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                    <h2 class="project-title">
+                                    <h2 class="project-title d-none d-md-block">
                                         <?php echo $event['title']; ?>
                                     </h2>
                                     <p class="project-description">
@@ -341,7 +344,7 @@ include_once 'includes/tracking-functions.php';
                 document.getElementById("lp_designation-error").innerHTML = "";
             } else {
                 document.getElementById("lp_designation").classList.add("is-invalid");
-                document.getElementById("lp_designation-error").innerHTML = "Please describe your project needs";
+                document.getElementById("lp_designation-error").innerHTML = "Please describe your project details";
             }
         }); 
         

@@ -104,7 +104,7 @@ include_once 'includes/tracking-functions.php';
                                     <label for="lp_mobile_number" class="form-label">Mobile Number</label>
                                     <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
                                         class="form-control custom-input"
-                                        placeholder="Enter mobile number" pattern="^\+?[0-9]{10,15}$"
+                                        placeholder="Enter mobile number (e.g. +91 98765 43210)" pattern="^\+?[0-9]{10,15}$"
                                         required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                     <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
                                 </div>
@@ -169,7 +169,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/diamond.svg" alt="Quality assurance diamond icon" />
-                            <h4 class="wwd-title">Quality Assurance </h4>
+                            <h3 class="wwd-title">Quality Assurance </h3>
                             <p class="wwd-text">While our rates may be competitive, our commitment to quality remains
                                 unwavering. With over 15 years of industry experience, our team of experts is dedicated
                                 to delivering superior design solutions that not only meet but exceed your expectations,
@@ -179,7 +179,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/book.svg" alt="Value packages icon" />
-                            <h4 class="wwd-title">Value-Packed Packages</h4>
+                            <h3 class="wwd-title">Value-Packed Packages</h3>
                             <p class="wwd-text">Our service packages are designed to offer maximum value for your
                                 investment. Enjoy a comprehensive range of services, including UX/UI design, product
                                 design, and frontend development, all bundled together to streamline your project
@@ -189,7 +189,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/optimise.svg" alt="Cost efficiency team icon" />
-                            <h4 class="wwd-title">Cost-Optimized Outsourcing</h4>
+                            <h3 class="wwd-title">Cost-Optimized Outsourcing</h3>
                             <p class="wwd-text">Outsource to maximize cost efficiency and optimize your project expenses
                                 while still receiving top-notch design services</p>
                         </div>
@@ -198,7 +198,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/data.svg" alt="Data analytics process icon" />
-                            <h4 class="wwd-title">Data-Driven Solutions</h4>
+                            <h3 class="wwd-title">Data-Driven Solutions</h3>
                             <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we
                                 make is backed by research and analysis.</p>
                         </div>
@@ -206,7 +206,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="Handshake partnership icon" />
-                            <h4 class="wwd-title">Your reliable UX/UI design partner</h4>
+                            <h3 class="wwd-title">Your reliable UX/UI design partner</h3>
                             <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to
                                 make sure we accelerate your product journey.</p>
                         </div>
@@ -215,7 +215,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/team.svg" alt="Professional team icon" />
-                            <h4 class="wwd-title">Exceptional Team</h4>
+                            <h3 class="wwd-title">Exceptional Team</h3>
                             <p class="wwd-text">Our team of ux/ui designers, product designers and frontend developers
                                 is among the best in the industry, with the skills and expertise to bring your vision to
                                 life.</p>
@@ -225,7 +225,7 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Success growth icon" />
-                            <h4 class="wwd-title">Proven Track Record</h4>
+                            <h3 class="wwd-title">Proven Track Record</h3>
                             <p class="wwd-text">We have a proven track record of success, with numerous satisfied
                                 clients across diverse domains.</p>
                         </div>
@@ -253,6 +253,9 @@ include_once 'includes/tracking-functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
+                                <h2 class="project-title d-block d-md-none">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img src="<?php echo $path; ?>assets/images/<?php echo $event['image']; ?>"
                                         alt="<?php echo $event['alt']; ?>"
@@ -262,7 +265,7 @@ include_once 'includes/tracking-functions.php';
                                         class="img-fluid project-image d-flex d-md-none" width="100%" height="auto" />
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                    <h2 class="project-title">
+                                    <h2 class="project-title d-none d-md-block">
                                         <?php echo $event['title']; ?>
                                     </h2>
                                     <p class="project-description">

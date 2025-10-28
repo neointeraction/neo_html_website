@@ -179,7 +179,7 @@ include_once 'includes/tracking-functions.php';
     
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
-
+    <script src="<?php echo $path; ?>assets/js/contact-us.js" defer></script>
     <?php include 'includes/tracking-script.php'; ?>
    <script>
 

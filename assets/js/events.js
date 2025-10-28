@@ -39,7 +39,7 @@ function submitUxAuditForm() {
     // Name validation - only letters and spaces, minimum 2 characters
     if (!name || name.length < 2 || !/^[a-zA-Z\s]+$/.test(name)) {
         nameInput.classList.add("is-invalid");
-        nameError.textContent = "Enter a valid name (letters only, minimum 2 characters)";
+        nameError.textContent = "Enter a valid name";
         hasErrors = true;
     }
 
@@ -55,7 +55,7 @@ function submitUxAuditForm() {
     const phoneRegex = /^\+?[0-9]{10,15}$/;
     if (!mobile || !phoneRegex.test(mobile)) {
         mobileInput.classList.add("is-invalid");
-        mobileError.textContent = "Enter a valid mobile number (e.g., +1234567890)";
+        mobileError.textContent = "Enter a valid mobile number (e.g., +91 98765 43210)";
         hasErrors = true;
     }
 
