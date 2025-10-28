@@ -168,7 +168,8 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/diamond.svg" alt="Quality assurance diamond icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/diamond.svg" alt="Quality assurance diamond icon"  width="40" height="40" />
+                            <h3 class="wwd-title">Data-Driven Solutions</h3>
                             <h3 class="wwd-title">Quality Assurance </h3>
                             <p class="wwd-text">While our rates may be competitive, our commitment to quality remains
                                 unwavering. With over 15 years of industry experience, our team of experts is dedicated
@@ -178,7 +179,8 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/book.svg" alt="Value packages icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/book.svg" alt="Value packages icon"  width="40" height="40" />
+                            <h3 class="wwd-title">Data-Driven Solutions</h3>
                             <h3 class="wwd-title">Value-Packed Packages</h3>
                             <p class="wwd-text">Our service packages are designed to offer maximum value for your
                                 investment. Enjoy a comprehensive range of services, including UX/UI design, product
@@ -188,7 +190,8 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/optimise.svg" alt="Cost efficiency team icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/optimise.svg" alt="Cost efficiency team icon"  width="40" height="40" />
+                            <h3 class="wwd-title">Data-Driven Solutions</h3>
                             <h3 class="wwd-title">Cost-Optimized Outsourcing</h3>
                             <p class="wwd-text">Outsource to maximize cost efficiency and optimize your project expenses
                                 while still receiving top-notch design services</p>
@@ -197,7 +200,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/data.svg" alt="Data analytics process icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/data.svg" alt="Data analytics process icon"  width="40" height="40" />
                             <h3 class="wwd-title">Data-Driven Solutions</h3>
                             <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we
                                 make is backed by research and analysis.</p>
@@ -205,7 +208,8 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="Handshake partnership icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="Handshake partnership icon"  width="40" height="40" />
+                            <h3 class="wwd-title">Data-Driven Solutions</h3>
                             <h3 class="wwd-title">Your reliable UX/UI design partner</h3>
                             <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to
                                 make sure we accelerate your product journey.</p>
@@ -214,7 +218,8 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/team.svg" alt="Professional team icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/team.svg" alt="Professional team icon"  width="40" height="40" />
+                            <h3 class="wwd-title">Data-Driven Solutions</h3>
                             <h3 class="wwd-title">Exceptional Team</h3>
                             <p class="wwd-text">Our team of ux/ui designers, product designers and frontend developers
                                 is among the best in the industry, with the skills and expertise to bring your vision to
@@ -224,7 +229,8 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Success growth icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Success growth icon"  width="40" height="40" />
+                            <h3 class="wwd-title">Data-Driven Solutions</h3>
                             <h3 class="wwd-title">Proven Track Record</h3>
                             <p class="wwd-text">We have a proven track record of success, with numerous satisfied
                                 clients across diverse domains.</p>
