@@ -42,8 +42,8 @@ include_once 'includes/tracking-functions.php';
     [
         'title' => 'Commercial Bank of Dubai',
         'description' => 'Redesign for Commercial and Retail Bank in the Middle East to reach new customers with improved experience design.',
-        'mobileImage' => 'projects/dubai-banking/dubai-bank-homepage-banner-listing.jpg',
-        'image' => 'projects/dubai-banking/dubai-bank-homepage-banner.jpeg',
+        'mobileImage' => 'projects/thumb/mobile/dubai-bank-homepage-banner.webp',
+        'image' => 'projects/thumb/desk/dubai-bank-homepage-banner.webp',
         'alt' => 'Commercial Bank of Dubai',
         'link' => 'revolutionizing-banking-experiences.php',
          'case_study_service' => 'revolutionizing-banking-experiences',
