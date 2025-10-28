@@ -1,5 +1,12 @@
 [
     {
+        "title": "UX Audit 101",
+        "description": "Learn how UX Audits help uncover usability issues, improve accessibility, and create seamless user experiences. Perfect for beginners and professionals alike, you’ll gain practical skills to make products more intuitive and user-friendly.",
+        "image": "ux-audit-workshop.webp",
+        "alt": "UX Audit 101",
+        "link": ""
+    },
+    {
         "title": "Micro Frontend Architecture Driving User Experience",
         "description": "1-Day workshop on how to implement Micro Frontend Architecture in large-scale applications for streamlined development and to enhance digital interactions curated for Frontend Development Engineers.",
         "image": "micro-frontend-architecture.jpeg",
