@@ -302,7 +302,7 @@ include_once 'includes/tracking-functions.php';
 
         <section class="section-padding">
             <div class="container">
-                <div class="blog-quote-block project-quote-block">
+                <div class="blog-quote-block project-quote-block mt-0">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
                             <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
