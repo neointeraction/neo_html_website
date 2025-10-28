@@ -15,7 +15,7 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <title>Digital Transformation services in india | Neointeraction Design | Contact us</title>
+    <title>Product Design Services in india | Neointeraction Design | Contact us</title>
     <meta name="description"
         content="Unlock the full potential of your business with our digital transformation services in India. Contact us today for your digital transformation journey." />
     <meta name="keywords" content="Digital Transformation services in india" />
@@ -210,7 +210,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="Track record success icon" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Track record success icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Proven Track Record</h4>
                             <p class="wwd-text">We have a proven track record of success, with numerous satisfied
                                 clients across diverse domains</p>

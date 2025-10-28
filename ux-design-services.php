@@ -175,7 +175,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/flag-post.svg" alt="Business strategy alignment icon" width="40" height="40" />
+                            <img src="<?php echo $path; ?>assets/images/icons/strategic-alignment.svg" alt="Business strategy alignment icon" width="40" height="40" />
                             <h4 class="wwd-title">Strategic Alignment</h4>
                             <p class="wwd-text">Designs are created to reflect your business goals and vision. Each solution supports measurable growth and aligns with your long-term strategy.</p>
                         </div>
@@ -183,7 +183,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="Experience and expertise icon" width="40" height="40" />
+                            <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Experience and expertise icon" width="40" height="40" />
                             <h4 class="wwd-title">Proven Expertise</h4>
                             <p class="wwd-text">With years of experience across industries, we deliver seamless and intuitive digital experiences. Our track record shows consistent results for businesses of all sizes.</p>
                         </div>
@@ -253,7 +253,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="UI design icon" width="40" height="40" />
+                            <img src="<?php echo $path; ?>assets/images/icons/ui-design.svg" alt="UI design icon" width="40" height="40" />
                             <h4 class="wwd-title">UI Design</h4>
                             <p class="wwd-text">From wireframes to high-fidelity mockups, our UI designers will create visually stunning user interfaces that align with your brand and delight your users</p>
                         </div>
@@ -261,7 +261,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="Front-end development icon" width="40" height="40" />
+                            <img src="<?php echo $path; ?>assets/images/icons/technology.svg" alt="Front-end development icon" width="40" height="40" />
                             <h4 class="wwd-title">Front End Development</h4>
                             <p class="wwd-text">Bring your designs to life with our front-end development services, ensuring pixel-perfect execution and seamless integration with your backend systems.</p>
                         </div>

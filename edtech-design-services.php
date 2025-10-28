@@ -223,7 +223,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="Impactful Solutions"  width="40px" height="40px"/>
+                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Impactful Solutions"  width="40px" height="40px"/>
                             <h4 class="wwd-title">Impactful solutions provided to our clients</h4>
                             <p class="wwd-text">We deliver tangible results by providing our clients with actionable
                                 insights and innovative solutions that align with their goals, driving measurable

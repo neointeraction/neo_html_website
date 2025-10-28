@@ -204,7 +204,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="Handshake partnership icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="Handshake partnership icon" />
                             <h4 class="wwd-title">Your reliable UX/UI design partner</h4>
                             <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to
                                 make sure we accelerate your product journey.</p>
@@ -223,7 +223,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/record.svg" alt="Success growth icon" />
+                            <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Success growth icon" />
                             <h4 class="wwd-title">Proven Track Record</h4>
                             <p class="wwd-text">We have a proven track record of success, with numerous satisfied
                                 clients across diverse domains.</p>
@@ -317,70 +317,6 @@ include_once 'includes/tracking-functions.php';
             </div>
         </div>
     </section>
-
-    <!-- dev-cycle  -->
-    <!-- <section class="dev-cycle section-padding">
-        <div class="container">
-            <h2 class="section-title">
-                Supporting 70% of Product Development cycle
-            </h2>
-            <p class="body-text">Neointeraction UX UI design agency with 15 years of expertise, has collaborated with various industry sectors and provided UX design & Frontend development services for business enterprises & startups to achieve their business goals.</p>
-            <div class="dev-cycle-blocks section-margin">
-                <div class="row justify-content-center">
-                    <div class="col-12 col-md-6 col-lg-3">
-                        <div class="dev-cycle-block">
-                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
-                            <h4 class="dcb-title">UX Design</h4>
-                            <ul class="dcb-list">
-                                <li>User Research</li>
-                                <li>UX Audit</li>
-                                <li>Customer Journey Mapping</li>
-                                <li>Persona Development</li>
-                                <li>IA Validation</li>
-                                <li>UX Strategy & Prototyping</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-3">
-                        <div class="dev-cycle-block">
-                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
-                            <h4 class="dcb-title">UI Design</h4>
-                            <ul class="dcb-list">
-                                <li>Design Systems</li>
-                                <li>Brand Elements</li>
-                                <li>Custom Graphics</li>
-                                <li>UI Handoff</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-3">
-                        <div class="dev-cycle-block">
-                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
-                            <h4 class="dcb-title">UI Development</h4>
-                            <ul class="dcb-list">
-                                <li>Micro Frontend Architecture</li>
-                                <li>Modular Component Building</li>
-                                <li>Story Books</li>
-                                <li>API Integration</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-3">
-                        <div class="dev-cycle-block disabled">
-                            <img src="<?php echo $path; ?>assets/images/close-circle.svg" alt="close-circle" class="dcb-icon" />
-                            <h4 class="dcb-title">Backend & Integration</h4>
-                            <ul class="dcb-list">
-                                <li>DB Design</li>
-                                <li>API Development</li>
-                                <li>QA</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!-- dev-cycle -- end -->
 
     <?php include $path . 'components/industry-experience.php'; ?>
 

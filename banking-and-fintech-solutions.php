@@ -179,7 +179,7 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/building.svg" alt="qa" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/coin.svg" alt="qa" width="40px" height="40px" />
                             <h4 class="wwd-title">Expertise in Fintech and Banking UX Design</h4>
                             <p class="wwd-text">Leading the industry with our deep understanding of fintech and banking
                                 dynamics, we collaborate closely with financial professionals to craft user-centric
@@ -188,7 +188,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/chart.svg" alt="value" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/customer-centric.svg" alt="value" width="40px" height="40px" />
                             <h4 class="wwd-title">Customer-Centric Solutions</h4>
                             <p class="wwd-text">Our UX/UI designs are tailored to meet the evolving needs of both
                                 customers and financial institutions. Leveraging cutting-edge technologies such as AI
@@ -198,7 +198,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="optimise" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/research-driven.svg" alt="optimise" width="40px" height="40px" />
                             <h4 class="wwd-title">Research-Driven Approach</h4>
                             <p class="wwd-text">Through rigorous qualitative research, we identify pain points in
                                 existing financial processes and translate them into innovative digital solutions. Our
@@ -209,7 +209,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="data" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/calendar-driven.svg" alt="data" width="40px" height="40px" />
                             <h4 class="wwd-title">Domain Expertise and Guidance</h4>
                             <p class="wwd-text">With a team of experts in fintech and banking, we provide valuable
                                 mentorship and guidance throughout the design process. Our solutions align with industry
@@ -219,7 +219,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="plane" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/ui-design.svg" alt="plane" width="40px" height="40px" />
                             <h4 class="wwd-title">Future-Focused Design Solutions</h4>
                             <p class="wwd-text">Committed to staying ahead of the curve, we anticipate future trends and
                                 design solutions that are scalable and adaptable. Our forward-thinking approach ensures

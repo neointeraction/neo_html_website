@@ -198,7 +198,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/plane.svg" alt="UX/UI design partner" width="40px" height="40px"  />
+                            <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="UX/UI design partner" width="40px" height="40px"  />
                             <h4 class="wwd-title">Your reliable UX/UI design partner</h4>
                             <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to make sure we accelerate your product journey.</p>
                         </div>
@@ -214,7 +214,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/record.svg" alt="Proven Track Record" width="40px" height="40px"   />
+                            <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Proven Track Record" width="40px" height="40px"   />
                             <h4 class="wwd-title">Proven Track Record</h4>
                             <p class="wwd-text">We have a proven track record of success, with numerous satisfied clients across diverse domains.</p>
                         </div>

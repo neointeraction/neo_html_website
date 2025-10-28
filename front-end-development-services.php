@@ -206,7 +206,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="Track record icon" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Track record icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Proven Track Record</h4>
                             <p class="wwd-text">With a proven track record of delivering high-quality frontend solutions for diverse industries and clients, you can trust us to bring your digital vision to life. Our portfolio speaks for itself, showcasing our expertise and commitment to excellence.</p>
                         </div>

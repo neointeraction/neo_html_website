@@ -187,7 +187,7 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/building.svg" alt="qa" />
+                            <img src="<?php echo $path; ?>assets/images/icons/health.svg" alt="qa" />
                             <h4 class="wwd-title">Expertise in Healthcare UX Design</h4>
                             <p class="wwd-text">Leading the industry with expertise in healthcare, we collaborate
                                 closely with healthcare professionals to create enhanced user-centric experiences.</p>
@@ -195,7 +195,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/chart.svg" alt="value" />
+                            <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="value" />
                             <h4 class="wwd-title">Patient and Doctor-Centric Solutions</h4>
                             <p class="wwd-text">Our UI/UX designs are driven by emerging user needs, leveraging the
                                 latest AI/ML technology to deliver efficient clinical healthcare UX solutions that
@@ -204,7 +204,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="optimise" />
+                            <img src="<?php echo $path; ?>assets/images/icons/research-driven.svg" alt="optimise" />
                             <h4 class="wwd-title">Research-Driven Insights</h4>
                             <p class="wwd-text">Conducting UX qualitative research, we identify critical pain points in
                                 existing healthcare processes and translate them into innovative digital solutions,
@@ -214,7 +214,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="data" />
+                            <img src="<?php echo $path; ?>assets/images/icons/calendar-driven.svg" alt="data" />
                             <h4 class="wwd-title">Domain Expertise and Mentorship</h4>
                             <p class="wwd-text">With strong domain expertise and multidisciplinary support, we create
                                 value-based solutions for medical web/mobile apps that align with industry standards and
@@ -223,7 +223,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="plane" />
+                            <img src="<?php echo $path; ?>assets/images/icons/ui-design.svg" alt="plane" />
                             <h4 class="wwd-title">Future-Focused Design Solutions</h4>
                             <p class="wwd-text">Committed to creating omnipresent healthcare UX design solutions, we
                                 bring precision medical practices closer to users through innovative design approaches
@@ -233,7 +233,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="plane" />
+                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="plane" />
                             <h4 class="wwd-title">Impactful Healthcare Solutions</h4>
                             <p class="wwd-text">From leveraging medical wearables to telehealth platforms and AI-powered
                                 systems, we've optimized healthcare workflows to deliver better results for users,

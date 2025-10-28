@@ -49,14 +49,14 @@
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="Startup digital solutions"  width="40px" height="40px"/>
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/rocket.svg" alt="Startup digital solutions"  width="40px" height="40px"/>
                             <h3 class="wwd-title">Startup Ventures</h3>
                             <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="B2C digital platforms"  width="40px" height="40px"/>
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/b2c.svg" alt="B2C digital platforms"  width="40px" height="40px"/>
                             <h3 class="wwd-title">B2C</h3>
                             <p class="wwd-text">Improving consumer experiences with engaging and intuitive digital platforms.</p>
                         </div>
