@@ -13,7 +13,7 @@
     <link rel="canonical" href="https://www.neointeraction.com/blog" >
     <meta property="og:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" >
     <meta property="og:description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" >
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-projects-og.webp" >
     <meta property="og:image:width" content="1200" >
     <meta property="og:image:height" content="630" >
     <meta property="og:url" content="https://www.neointeraction.com/blog" >
@@ -25,7 +25,7 @@
     <meta name="twitter:card" content="summary_large_image" >
     <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" >
     <meta name="twitter:description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" >
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-projects-og.webp" >
 </head>
 
 <body>

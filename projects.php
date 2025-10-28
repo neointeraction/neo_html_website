@@ -23,9 +23,11 @@
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" />
-    <meta name="twitter:description"
-        content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
+    <meta name="twitter:description" content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-projects-og.webp" />
+
+    	<title>Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations</title>
+<meta name="description" content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project.">
 </head>
 
 <body>
