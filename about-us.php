@@ -86,7 +86,7 @@
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Get to know us and what we do /Showcase Reel</h2>
+            <h2 class="section-title">Get to know us and what we do</h2>
             <div class="video-container section-margin">
 
                     <iframe height="650" src="https://www.youtube-nocookie.com/embed/S-gxMxp6tDU?si=ttdaZa1uTlcsq5z_"
