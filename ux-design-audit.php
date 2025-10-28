@@ -47,7 +47,16 @@ include_once 'includes/tracking-functions.php';
             'link' => 'digital-health-wellness.php',
              'case_study_service' => 'digital-health-wellness',
             'case_study_url' => 'case-study/casestudy-ux-audit-website-redesign-for-a-health-and-wellness-brand.pdf'
-        ]]
+        ],
+        [
+            'title' => 'Trade Platform UX Audit',
+            'description' => 'A comprehensive UX audit to simplify user journeys and improve the overall experience',
+             'image'=> 'trade-platform-audit-banner.webp',
+            'mobileImage'=> 'trade-platform-audit-mobile.webp',
+            'alt' => 'Trade Platform UX Audit',
+            'link' => '',
+        ]
+        ]
     ?>
     <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
@@ -282,7 +291,7 @@ include_once 'includes/tracking-functions.php';
                                         <p class="project-description">
                                             <?php echo $event['description']; ?>
                                         </p>
-
+                                        <?php if($event['case_study_service']){ ?>
                                         <div class="pb-action-btn mt-2">
                                             <button class="btn btn-custom"
                                             data-service="<?php echo htmlspecialchars($event['case_study_service']); ?>"
@@ -293,6 +302,7 @@ include_once 'includes/tracking-functions.php';
                                                 Download Case Study
                                             </button>
                                         </div>
+                                        <?php } ?>
                                     </div>
                                 </div>
                             </div>
