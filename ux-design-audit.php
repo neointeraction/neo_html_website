@@ -313,24 +313,7 @@ include_once 'includes/tracking-functions.php';
             </div>
         </section>
 
-        <section class="section-padding">
-            <div class="container">
-                <div class="blog-quote-block project-quote-block mt-0">
-                    <div class="row justify-content-center align-items-center">
-                        <div class="col-md-3">
-                            <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/megawecare-logo.svg" alt="Megawecare logo" width="123" height="32" />
-                                <div class="quote-icon-right d-block d-md-none"></div>
-                            </div>
-                        </div>
-                        <div class="col-md-9">
-                            <div class="quote-icon d-none d-md-block"></div>
-                            <p class="blog-quote-text">Everything related to project management was good.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
 
 
         <section class="demo-video section-padding">
