@@ -9,25 +9,31 @@
               <div class="col-12 col-md-6 mb-3 mb-md-0">
                   <div class="d-flex align-items-center mb-3 footer-logo-container">
                       <a class="navbar-brand d-flex align-items-center" href="<?php echo $path; ?>index.php">
-                          <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="Neointeraction Design Logo" class="footer-neo-logo" width="238" height="52" />
+                          <img src="<?php echo $path; ?>assets/images/footer-logo.svg" alt="Neointeraction Design Logo"
+                              class="footer-neo-logo" width="238" height="52" />
                       </a>
                   </div>
               </div>
               <div class="col-12 col-md-6 text-md-end footer-social-icons">
-                  <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank" rel="noopener noreferrer"><img
-                          src="<?php echo $path; ?>assets/images/social/linkedin.svg" alt="Linkedin" height="21" width="21" /></a>
-                  <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/ig.svg"
-                          alt="Instagram" height="21" width="21"></a>
-                  <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/fb.svg"
-                          alt="Facebook" height="21" width="21"></a>
-                  <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/db.svg" alt="Dribble"
-                          height="21" width="21"></a>
-                  <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/med.svg"
-                          alt="Medium" height="21" width="21"></a>
+                  <a href="https://www.linkedin.com/company/neointeraction-designs/" target="_blank"
+                      rel="noopener noreferrer"><img src="<?php echo $path; ?>assets/images/social/linkedin.svg"
+                          alt="Linkedin" height="21" width="21" /></a>
+                  <a href="https://www.instagram.com/neointeraction/" target="_blank" rel="noopener noreferrer"><img
+                          src="<?php echo $path; ?>assets/images/social/ig.svg" alt="Instagram" height="21"
+                          width="21"></a>
+                  <a href="https://www.facebook.com/Neointeraction/" target="_blank" rel="noopener noreferrer"><img
+                          src="<?php echo $path; ?>assets/images/social/fb.svg" alt="Facebook" height="21"
+                          width="21"></a>
+                  <a href="https://dribbble.com/neointeraction" target="_blank" rel="noopener noreferrer"><img
+                          src="<?php echo $path; ?>assets/images/social/db.svg" alt="Dribble" height="21"
+                          width="21"></a>
+                  <a href="https://neointeraction-design.medium.com/" target="_blank" rel="noopener noreferrer"><img
+                          src="<?php echo $path; ?>assets/images/social/med.svg" alt="Medium" height="21"
+                          width="21"></a>
               </div>
           </div>
 
-          <p class="footer-text small pe-lg-5">
+          <p class="footer-text small pe-lg-5 mb-5">
               Neointeraction is a UX/UI design company that specializes in creating
               user-centered digital experiences. We offer a wide range of services,
               including user research, interface design, usability testing, and
@@ -37,6 +43,7 @@
           <!-- Middle Section - Link Columns -->
           <div class="row footer-link-block border-secondary border-opacity-25">
               <div class="col-6 col-md-3 footer-col">
+                  <h4 class="footer-links-header">Agency</h4>
                   <ul class="p-0 footer-link-list">
                       <li><a href="<?php echo $path; ?>index.php">Home</a></li>
                       <li><a href="<?php echo $path; ?>about-us.php">About Us</a></li>
@@ -47,23 +54,26 @@
                   </ul>
               </div>
               <div class="col-6 col-md-3 footer-col">
+                  <h4 class="footer-links-header">Specialization</h4>
+                  <ul class="p-0 footer-link-list">
+                      <li><a href="<?php echo $path; ?>banking-and-fintech-solutions.php">Fintech UX Design</a></li>
+                      <li><a href="<?php echo $path; ?>edtech-design-services.php">Edtech UX Design</a></li>
+                      <li><a href="<?php echo $path; ?>health-care-design-services.php">Healthcare UX Design</a></li>
+                      <li><a href="<?php echo $path; ?>ui-ux-design-usa.php">UX Design Service - USA</a></li>
+                      <li><a href="<?php echo $path; ?>ui-ux-design-uae.php">UX Design Service - UAE</a></li>
+                  </ul>
+              </div>
+              <div class="col-6 col-md-3 footer-col">
+                  <h4 class="footer-links-header">Capabilities</h4>
                   <ul class="p-0 footer-link-list">
                       <li><a href="<?php echo $path; ?>ux-design-services.php">UX Design</a></li>
                       <li><a href="<?php echo $path; ?>front-end-development-services.php">UI Development</a></li>
                       <li><a href="<?php echo $path; ?>ux-design-audit.php">UX Audit</a></li>
                       <li><a href="<?php echo $path; ?>product-design-services.php">Product Design</a></li>
-                      <li><a href="<?php echo $path; ?>ui-ux-design-usa.php">USA</a></li>
-                      <li><a href="<?php echo $path; ?>ui-ux-design-uae.php">UAE</a></li>
                   </ul>
               </div>
               <div class="col-6 col-md-3 footer-col">
-                  <ul class="p-0 footer-link-list">
-                      <li><a href="<?php echo $path; ?>banking-and-fintech-solutions.php">Fintech UX Design</a></li>
-                      <li><a href="<?php echo $path; ?>edtech-design-services.php">Edtech UX Design</a></li>
-                      <li><a href="<?php echo $path; ?>health-care-design-services.php">Healthcare UX Design</a></li>
-                  </ul>
-              </div>
-              <div class="col-6 col-md-3 footer-col">
+                  <h4 class="footer-links-header">Others</h4>
                   <ul class="p-0 footer-link-list">
                       <li><a href="<?php echo $path; ?>events.php">Events</a></li>
                       <li><a href="<?php echo $path; ?>blogs.php">Blogs</a></li>
@@ -78,7 +88,8 @@
                   <div class="footer-form-flex newsletter-form flex-wrap">
                       <p class="footer-heading mb-0">Subscribe to our Newsletters</p>
                       <form id="newsletterForm" class="d-flex flex-wrap">
-                          <input type="email" id="newsletter-email" aria-label="Enter your work email" class="newsletter-email form-control me-md-4 mb-2 mb-md-0"
+                          <input type="email" id="newsletter-email" aria-label="Enter your work email"
+                              class="newsletter-email form-control me-md-4 mb-2 mb-md-0"
                               placeholder="Enter your work email" required />
 
                           <button type="submit" class="btn btn-custom-secondary white ml-2" id="newsletter-btn">

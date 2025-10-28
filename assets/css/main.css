@@ -1808,3 +1808,8 @@ body {
   width: 100%;
   border: 0;
 }
+
+.footer-links-header {
+  font-size: 1rem;
+  font-weight: medium;
+}
