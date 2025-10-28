@@ -17,7 +17,7 @@
                             <div class="icon-container">
                                 <img src="assets/images/ux.svg" alt="UX design icon" width="64" height="64" />
                             </div>
-                            <h4 class="title">UX Design</h4>
+                            <h3 class="title">UX Design</h3>
                             <p class="description">
                                 Shape tomorrow's digital experiences with our UX design services, crafting seamless
                                 interactions that align with your brand and business goals.
@@ -31,7 +31,7 @@
                             <div class="icon-container">
                                 <img src="assets/images/pd.svg" alt="Product design icon" width="64" height="64">
                             </div>
-                            <h4 class="title">Product Design</h4>
+                            <h3 class="title">Product Design</h3>
                             <p class="description">
                                 Revamp your product with our concise Product Design services, seamlessly blending
                                 innovative aesthetics and functionality for standout, user-centric solutions.
@@ -44,7 +44,7 @@
                             <div class="icon-container">
                                 <img src="assets/images/dt.svg" alt="UX Audit icon" width="64" height="64">
                             </div>
-                            <h4 class="title">UX Audit</h4>
+                            <h3 class="title">UX Audit</h3>
                             <p class="description">
                                 Revolutionizing design through a seamless blend of creativity and strategic innovation,
                                 enhancing overall aesthetic and functionality.
@@ -57,7 +57,7 @@
                             <div class="icon-container">
                                 <img src="assets/images/fd.svg" alt="Frontend development icon" width="64" height="64">
                             </div>
-                            <h4 class="title">UI Engineering</h4>
+                            <h3 class="title">UI Engineering</h3>
                             <p class="description">
                                 Merging design and technology for dynamic and precise user interfaces, optimizing the
                                 digital experience.
