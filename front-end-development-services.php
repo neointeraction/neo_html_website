@@ -169,21 +169,21 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/code-browser.svg" alt="qa" />
+                            <img src="<?php echo $path; ?>assets/images/icons/code-browser.svg" alt="Frontend development icon" width="40px" height="40px"/>
                             <h4 class="wwd-title">Expert Frontend Development</h4>
                             <p class="wwd-text">Our team comprises seasoned frontend developers with extensive experience in crafting intuitive and visually appealing user interfaces. With a keen eye for detail and a passion for innovation, we ensure that your digital product stands out.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/technology.svg" alt="value" />
+                            <img src="<?php echo $path; ?>assets/images/icons/technology.svg" alt="Technology innovation icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Cutting-Edge Technologies</h4>
                             <p class="wwd-text">We stay ahead of the curve by leveraging the latest technologies and frameworks in frontend development. Whether it's React, Angular, Vue.js, or HTML/CSS (SASS), we have the expertise to build dynamic and responsive interfaces that elevate user experiences.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="optimise" />
+                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Custom solution icon" width="40px" height="40px"/>
                             <h4 class="wwd-title">Customized Solutions</h4>
                             <p class="wwd-text">We understand that every project is unique, which is why we offer tailored solutions to meet your specific needs and objectives. From concept to execution, we collaborate closely with you to ensure that the end product aligns perfectly with your vision.</p>
                         </div>
@@ -191,14 +191,14 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/api.svg" alt="data" />
+                            <img src="<?php echo $path; ?>assets/images/icons/api.svg" alt="Integration icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Seamless Integration</h4>
                             <p class="wwd-text">Our frontend development services seamlessly integrate with your existing systems and technologies, ensuring smooth operation and compatibility across platforms. Whether you're building from scratch or enhancing an existing product, we've got you covered.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/team-building.svg" alt="plane" />
+                            <img src="<?php echo $path; ?>assets/images/icons/team-building.svg" alt="Collaboration icon" width="40px" height="40px"/>
                             <h4 class="wwd-title">Collaborative Partnership</h4>
                             <p class="wwd-text">We view our clients as partners and believe in building long-term relationships based on trust, transparency, and mutual success. When you choose us for your frontend development needs, you're not just getting a service provider – you're gaining a strategic ally dedicated to your success.</p>
                         </div>
@@ -206,7 +206,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="team" />
+                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="Track record icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Proven Track Record</h4>
                             <p class="wwd-text">With a proven track record of delivering high-quality frontend solutions for diverse industries and clients, you can trust us to bring your digital vision to life. Our portfolio speaks for itself, showcasing our expertise and commitment to excellence.</p>
                         </div>
@@ -214,7 +214,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/arrow-flow.svg" alt="team" />
+                            <img src="<?php echo $path; ?>assets/images/icons/arrow-flow.svg" alt="Agile development icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Agile Development Approach</h4>
                             <p class="wwd-text">We follow an agile development approach, allowing for flexibility, transparency, and quick iterations throughout the project lifecycle. This ensures that we adapt to changing requirements and deliver results efficiently and effectively. </p>
                         </div>
@@ -222,7 +222,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/support.svg" alt="team" />
+                            <img src="<?php echo $path; ?>assets/images/icons/support.svg" alt="Customer support icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Dedicated Support</h4>
                             <p class="wwd-text">Our commitment to customer satisfaction doesn't end with the project delivery. We provide ongoing support and maintenance to ensure that your product continues to perform optimally and evolves with your business needs.</p>
                         </div>
@@ -242,39 +242,39 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/dynamic_feed.svg" alt="qa" />
+                            <img src="<?php echo $path; ?>assets/images/icons/dynamic_feed.svg" alt="UI component construction icon" width="40px" height="40px" />
                             <p class="wwd-text">Dynamic Component Construction</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/flowchart.svg" alt="value" />
+                            <img src="<?php echo $path; ?>assets/images/icons/flowchart.svg" alt="Interactive user journey icon" width="40px" height="40px" />
                             <p class="wwd-text">Crafting Interactive User Journeys</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/responsive.svg" alt="optimise" />
+                            <img src="<?php echo $path; ?>assets/images/icons/responsive.svg" alt="Responsive design icon"  width="40px" height="40px"/>
                             <p class="wwd-text">Responsive Design Implementation</p>
                         </div>
                     </div>
 
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/check-circle.svg" alt="data" />
+                            <img src="<?php echo $path; ?>assets/images/icons/check-circle.svg" alt="Business validation icon" width="40px" height="40px" />
                             <p class="wwd-text">Business Flow Validation</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="plane" />
+                            <img src="<?php echo $path; ?>assets/images/icons/balancer.svg" alt="Service integration icon" width="40px" height="40px" />
                             <p class="wwd-text">Seamless Service Integration</p>
                         </div>
                     </div>
 
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/developer-mode.svg" alt="team" />
+                            <img src="<?php echo $path; ?>assets/images/icons/developer-mode.svg" alt="UI development transition icon" width="40px" height="40px" />
                             <p class="wwd-text">Dev-Ready UI Transition</p>
                         </div>
                     </div>
