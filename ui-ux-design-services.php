@@ -94,7 +94,7 @@
                     <div class="col-12 col-md-6 col-lg-6 mb-4">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <!-- <img src="<?php echo $path; ?>assets/images/ux-lg.svg" alt="ux" /> -->
+                                <!-- <img src="<?php echo $path; ?>assets/images/ux-lg.svg" alt="UX design icon" /> -->
                                  <div class="ux-design-img"></div>
                             </div>
                             <h2 class="title">UX Design</h2>
@@ -118,7 +118,7 @@
                     <div class="col-12 col-md-6 col-lg-6 mb-4">
                         <div class="custom-card">
                             <div class="icon-container">
-                                <!-- <img src="<?php echo $path; ?>assets/images/pd-lg.svg" alt="pd" /> -->
+                                <!-- <img src="<?php echo $path; ?>assets/images/pd-lg.svg" alt="Product design icon" /> -->
                                 <div class="pd-design-img"></div>
                             </div>
                             <h2 class="title">Product Design</h2>
@@ -142,7 +142,7 @@
                     <div class="col-12 col-md-6 col-lg-6">
                         <div class="custom-card mb-0">
                             <div class="icon-container">
-                                <!-- <img src="<?php echo $path; ?>assets/images/dt-lg.svg" alt="dt" /> -->
+                                <!-- <img src="<?php echo $path; ?>assets/images/dt-lg.svg" alt="UX audit icon" /> -->
                                 <div class="ux-audit-img"></div>
                             </div>
                             <h2 class="title">UX Audit</h2>
@@ -165,7 +165,7 @@
                     <div class="col-12 col-md-6 col-lg-6">
                         <div class="custom-card mb-0">
                             <div class="icon-container">
-                                <!-- <img src="<?php echo $path; ?>assets/images/fd-lg.svg" alt="fd" /> -->
+                                <!-- <img src="<?php echo $path; ?>assets/images/fd-lg.svg" alt="UI engineering icon" /> -->
                                 <div class="ui-engg-img"></div>
                             </div>
                             <h2 class="title">UI Engineering</h2>
@@ -205,7 +205,7 @@
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img
                                         src="<?php echo $path; ?>assets/images/services/resource-augmentation.jpeg"
-                                        alt="Team of designers and developers working together, representing resource augmentation services"
+                                        alt="UI design team collaboration for resource augmentation"
                                         class="img-fluid project-image"
                                         style="width:100%;height:auto;" />
                                 </div>
@@ -236,7 +236,7 @@
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img
                                         src="<?php echo $path; ?>assets/images/services/team-based-hiring.jpeg"
-                                        alt="Diverse team collaborating on a project, illustrating team-based hiring model"
+                                        alt="UX design team working under team-based hiring model"
                                         class="img-fluid project-image"
                                         style="width:100%;height:auto;" />
                                 </div>
@@ -346,14 +346,14 @@
                 <div class="row">
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="Online Banking icon" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="Online banking solutions" />
                             <h3 class="wwd-title">Online Banking</h3>
                             <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and secure transactions.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="Capital Market icon" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="Capital market platforms" />
                             <h3 class="wwd-title">Capital Market</h3>
                             <p class="wwd-text">Empowering investors with data-driven insights and intuitive trading platforms.</p>
                         </div>
@@ -361,42 +361,42 @@
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="Healthcare icon" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="Healthcare digital solutions" />
                             <h3 class="wwd-title">Healthcare</h3>
                             <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="IoT icon" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="IoT ecosystem solutions" />
                             <h3 class="wwd-title">IoT</h3>
                             <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="Travel and Hospitality icon" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="Travel and hospitality platforms" />
                             <h3 class="wwd-title">Travel and Hospitality</h3>
                             <p class="wwd-text">Crafting memorable customer digital journeys, from booking to exploration, for unforgettable experiences.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="Enterprise Solutions icon" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="Enterprise digital solutions" />
                             <h3 class="wwd-title">Enterprise Solutions</h3>
                             <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="Startup Ventures icon" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="Startup digital solutions" />
                             <h3 class="wwd-title">Startup Ventures</h3>
                             <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="B2C icon" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="B2C digital platforms" />
                             <h3 class="wwd-title">B2C</h3>
                             <p class="wwd-text">Enhancing consumer experiences with engaging and intuitive digital platforms</p>
                         </div>
