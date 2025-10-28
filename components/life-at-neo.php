@@ -138,7 +138,7 @@
                     class="col-lg-6 d-flex flex-column  project-content">
                     <h2 class="project-title">Workshop Sessions</h2>
                     <p class="project-description">
-                        Enhancing our skills through UX and frontend workshops, fostering collaboration to bridge design and business goals
+                    Building our skills through UX and front-end workshops, fostering collaboration to bridge design and business goals.
                     </p>
                 </div>
             </div>

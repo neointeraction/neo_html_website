@@ -46,8 +46,7 @@
                 <h1 class="banner-title">
                     Journey to <span class="highlight">crafting success</span>
                 </h1>
-                <p class="banner-subtext mt-0">Embark on a transformative journey where creativity meets expertise. Connect with industry leaders, explore innovative ideas, and
-                    leave inspired to reshape your path to success</p>
+                <p class="banner-subtext mt-0">Embark on a transformative journey where creativity meets expertise. Connect with industry leaders, explore innovative ideas, and leave inspired to reshape your path to success.</p>
             </div>
         </div>
     </section>

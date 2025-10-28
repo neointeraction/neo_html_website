@@ -56,7 +56,7 @@
                     <button class="btn btn-custom btn-custom-secondary banner-btn" data-bs-toggle="modal" data-service="services" data-bs-target="#registerModal">
                         Book A Consultation
                     </button>
-                    <p class="banner-subtext">Neointeraction UX UI design agency with 15 years of expertise, has collaborated with various industry sectors and provided UX design & Frontend development services for business enterprises & startups to achieve their business goals.</p>
+                    <p class="banner-subtext">Neointeraction UX UI design agency, with 15 years of expertise has collaborated with various industry sectors and provided UX design & Frontend development services for business enterprises & startups to achieve their business goals.</p>
                     <div class="row w-100">
                         <!-- 15+ years expertise -->
                         <div class="col-6 col-md-3 count-up-item">
@@ -128,9 +128,8 @@
                             <div class="project-tags service-tags">
                                 <span class="badge">Product Vision</span>
                                 <span class="badge">Product Research</span>
-                                <span class="badge">Structure Ideas</span>
+                                <span class="badge">Structuring Ideas</span>
                                 <span class="badge">Agile Design Sprints</span>
-                                <span class="badge">Rapid Prototyping</span>
                                 <span class="badge">Rapid Prototyping</span>
                             </div>
                             <button class="btn btn-custom btn-custom-secondary" data-service="services" data-bs-toggle="modal" data-bs-target="#registerModal">
@@ -147,14 +146,14 @@
                             </div>
                             <h2 class="title">UX Audit</h2>
                             <p class="description">
-                                Revolutionizing design through a seamless blend of creativity and strategic innovation, enhancing overall aesthetic and functionality.
+                                Revolutionizing design through a blend of creativity and strategic innovation, improving overall aesthetics and functionality.
                             </p>
                             <div class="project-tags service-tags">
                                 <span class="badge">Achieving Human-Centric UX Heuristic Evaluation</span>
-                                <span class="badge">Setting a Design Foundation</span>
-                                <span class="badge">Design Strategy Building</span>
+                                <span class="badge">Design Foundation Setup</span>
+                                <span class="badge">Design Strategy Development</span>
                                 <span class="badge">Design Documentation</span>
-                                <span class="badge">UX and UI Mastery</span>
+                                <span class="badge">UX/UI Mastery</span>
                             </div>
                             <button class="btn btn-custom btn-custom-secondary" data-service="services"  data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
@@ -215,11 +214,13 @@
                                         Resource Augmentation
                                     </h2>
                                     <p class="project-description">
-                                        Boost your interaction design with on-site team augmentation. Benefit from dedicated collaboration, streamlined communication, and expertise without recruitment hassles.
+                                    Scale your design capabilities with our on-site resource augmentation model. Gain access to skilled professionals who work closely with your team, ensuring productivity without the hassle of recruitment.
+
                                     </p>
                                     <ul class="em-list">
-                                        <li>Dedicated team collaboration fosters creativity</li>
-                                        <li>Singular point of contact for streamlined communication</li>
+                                        <li>Dedicated designers collaborating with your in-house team
+                                        </li>
+                                        <li>Single point of contact for smooth coordination and communication</li>
                                     </ul>
                                     <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-service="services" data-bs-target="#registerModal">
                                         Submit Enquiry
@@ -246,11 +247,11 @@
                                         Team-Based Hiring
                                     </h2>
                                     <p class="project-description">
-                                        Boost your interaction design with on-site team augmentation. Benefit from dedicated collaboration, streamlined communication, and expertise without recruitment hassles.
+                                    Build a complete design team that fits your project needs. Our team-based hiring model gives you access to experienced professionals focused on delivering strong results through collaboration and efficiency.
                                     </p>
                                     <ul class="em-list">
-                                        <li>Dedicated team collaboration fosters creativity</li>
-                                        <li>Singular point of contact for streamlined communication</li>
+                                        <li>End-to-end design team working on your projects</li>
+                                        <li>Consistent communication and aligned goals for effective outcomes</li>
                                     </ul>
                                     <button class="btn btn-custom btn-custom-secondary em-btn" data-bs-toggle="modal" data-service="services" data-bs-target="#registerModal">
                                         Submit Enquiry
@@ -280,7 +281,7 @@
             <h2 class="section-title">
                 Supporting 70% of Product Development cycle
             </h2>
-            <p class="body-text">Neointeraction UX UI design agency with 15 years of expertise, has collaborated with various industry sectors and provided UX design & Frontend development services for business enterprises & startups to achieve their business goals.</p>
+            <p class="body-text">In our comprehensive product development journey, we cover every aspect with precision, ensuring a cohesive and impactful end result. Here's how we approach our process.</p>
             <div class="dev-cycle-blocks section-margin">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-6 col-lg-3">
@@ -398,7 +399,7 @@
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="B2C digital platforms" />
                             <h3 class="wwd-title">B2C</h3>
-                            <p class="wwd-text">Enhancing consumer experiences with engaging and intuitive digital platforms</p>
+                            <p class="wwd-text">Improving consumer experiences with engaging and intuitive digital platforms.</p>
                         </div>
                     </div>
                 </div>

@@ -62,7 +62,7 @@
         <div>
             <div class="container">
                 <h1 class="banner-title">
-                    A collection of our <span class="highlight">insights</span>.
+                    A collection of our <span class="highlight">insights</span>
                 </h1>
             </div>
         </div>

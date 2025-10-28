@@ -52,15 +52,15 @@
             <h2 class="section-title pt-0">Welcome to Neointeraction Design’s Privacy Policy</h2>
 
             <div class="privacy-text">
-                <p>The creator of this Privacy Policy ensures a steady commitment to Your privacy with regard to the protection of your invaluable information that you may share
-                    across this Website This privacy policy contains information about the Website</p>
+                <p>The creator of this privacy policy ensures a steady commitment to your privacy with regard to the protection of your invaluable information that you may share
+                    across this website This privacy policy contains information about the website</p>
                 <p> Neointeraction Design engages with clients to design creative and unique digital experiences. We bring on board 15 years of domain-agnostic design experience
                     that brings great value to your business. With a steadfast mind to solving problems and finding innovative design solutions that are focused primarily on
                     end-to-end user experience as well as responsive user interfaces that assist a smooth workflow.</p>
-                <p> It's not just about the look and feels we support. Our team emphasizes goal-oriented functional design that brings a seamless experience to the end-users. In
-                    this digital age, we believe user experience design can play a pivotal role in business transformation as well as engaging with your audience and we want to
-                    showcase this on a global scale
-                    To provide You with Our uninterrupted use of the Website, We may collect and, in some circumstances, disclose information about you with your permission. To
+                <p> It's not just about the looks and feels we support. Our team emphasizes goal-oriented functional design that brings a seamless experience to the end-users. In
+                    this digital age, we believe user experience design can play a pivotal role in business transformation as well as engaging with your audience, and we want to
+                    showcase this on a global scale.
+                    To provide you with our uninterrupted use of the website, we may collect and, in some circumstances, disclose information about you with your permission. To
                     ensure better protection of Your privacy, We provide this notice explaining Our information collection and disclosure policies, and the choices You make about
                     the way Your information is collected and used.</p>
                 <h3 class="pb-0">Index:</h3>
@@ -69,10 +69,10 @@
                     <li>Information We Collect</li>
                     <li>Our Use Of Your Information</li>
                     <li>How Information Is Collected</li>
-                    <li>External Links on The Platform</li>
+                    <li>External Links on the Platform</li>
                     <li>Cookies</li>
                     <li>Google Analytics</li>
-                    <li>Google Adsense</li>
+                    <li>Google AdSense</li>
                     <li>Your Rights</li>
                     <li>Compliances</li>
                     <li>Confidentiality</li>
@@ -92,32 +92,30 @@
                     including in relation to the manner of collection or use of your information, please do not use or access the Site. If you have any questions or concerns
                     regarding this Privacy Policy, you should contact our Customer Support Desk at info@neointeraction.com.</p>
                 <hr>
-                <p> ANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADING USED HEREIN ARE ONLY FOR THE PURPOSE OF
-                    ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT IN ANY MANNER. NEITHER THE USER NOR THE CREATORS OF THIS PRIVACY POLICY MAY USE THE HEADING TO INTERPRET THE
-                    PROVISIONS CONTAINED WITHIN IT IN ANY MANNER.</p>
+                <p> Any Capitalized Words Used Henceforth Shall Have The Meaning Accorded To Them Under This Agreement. Further, All Heading Used Herein Are Only For The Purpose Of Arranging The Various Provisions Of The Agreement In Any Manner. Neither The User Nor The Creators Of This Privacy Policy May Use The Heading To Interpret The Provisions Contained Within It In Any Manner.</p>
                 <h2>INFORMATION WE COLLECT</h2>
-                <p>We are committed to respecting Your online privacy. We further recognize Your need for appropriate protection and management of any Personal Information You
-                    share with us. We may collect the following information:</p>
+                <p>We are committed to respecting your online privacy. We further recognize your need for appropriate protection and management of any personal information you
+                    share with us. Furthermore, we may collect the following information:</p>
                 <ol type="a">
-                    <li>Personal data including but not limited to Name, Contact No, Email ID.</li>
-                    <li> Information collected through permission derived by the Website for Location access, and storage permissions etc.</li>
-                    <li>Tracking Information such as, but not limited to the IP address of your device and Device ID when connected to the Internet. This information may include
+                    <li>Personal data, including but not limited to Name, Contact No, Email ID.</li>
+                    <li> Information collected through permission derived by the Website for Location access, and storage permissions, etc.</li>
+                    <li>Tracking information such as, but not limited to, the IP address of your device and Device ID when connected to the Internet. This information may include
                         the URL that you just came from (whether this URL is on the Website or not), which URL you next go to (whether this URL is on the Website or not), your
                         computer or device browser information, and other information associated with your interaction with the Website</li>
                     <li>Details of Website usage for analytics.</li>
                 </ol>
                 <p>This privacy policy also applies to data we collect from users who are not registered as members of this Website, including, but not limited to, browsing
-                    behavior etc. We also collect and store personal information provided by You from time to time on the Website We only collect and use such information from you
-                    that we consider necessary for achieving a seamless, efficient and safe experience, customized to your needs including:</p>
+                    behavior, etc. We also collect and store personal information provided by you from time to time on the Website We only collect and use such information from you
+                    that we consider necessary for achieving a seamless, efficient and safe experience, customized to your needs, including:</p>
                 <ol type="a">
                     <li>To enable the provision of services opted for by you</li>
                     <li>To enable the viewing of content in your interest</li>
                     <li>To communicate the necessary account and product-related information from time to time</li>
                     <li>To allow you to receive quality customer care services and data Collection</li>
-                    <li>To comply with applicable laws, rules and regulations</li>
+                    <li>To comply with applicable laws, rules, and regulations</li>
                 </ol>
                 <p> Where any service requested by You involves a third party, such information as is reasonably necessary by the Company to carry out Your service request may be
-                    shared with such third party. We also do use your contact information to send you offers based on your interests and prior activity and also to view the content
+                    shared with such third party. We also do use your contact information to send you offers based on your interests and prior activity, and also to view the content
                     preferred by you. The Company may also use contact information internally to direct its efforts for service improvement but shall immediately delete all such
                     information upon withdrawal of your consent for the same through the ‘unsubscribe’ button or through an email to be sent to <a
                         href="mailto:info@neointeraction.com" style="color: #EC1C24;">info@neointeraction.com</a>.</p>
@@ -129,23 +127,23 @@
                 <h2>OUR USE OF YOUR INFORMATION</h2>
                 <h3>HOW INFORMATION IS COLLECTED</h3>
                 <p>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. If the same is not identified
-                    to you, you have the right to request the company to elucidate the purpose of collection of said personal information, pending the fulfilment of which you shall
+                    to you, you have the right to request the company to elucidate the purpose of collection of said personal information, pending the fulfillment of which you shall
                     not be mandated to disclose any information whatsoever.<br>
-                    We will collect and use your personal information solely to fulfil those purposes specified by us, within the scope of the consent of the individual concerned
-                    or as required by law. We will only retain personal information as long as necessary for the fulfilment of those purposes. We will collect personal information
+                    We will collect and use your personal information solely to fulfill those purposes specified by us, within the scope of the consent of the individual concerned
+                    or as required by law. We will only retain personal information as long as necessary for the fulfillment of those purposes. Furthermore, we will collect personal information
                     by lawful and fair means and with the knowledge and consent of the individual concerned.</p>
 
                 <p>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and
                     up-to-date.</p>
 
                 <h3>EXTERNAL LINKS ON THE PLATFORM</h3>
-                <p>The Website may include advertisements, hyperlinks to other Websites or resources. We have no control over any other Website or resources or contents available
-                    on these other websites and Mobile Applications, which are provided by companies or persons other than Us. You acknowledge and agree that we are not responsible
-                    for the availability of any such external sites or resources, and do not endorse any advertising, services/services or other materials on or available from such
+                <p>The Website may include advertisements or hyperlinks to other Websites or resources. We have no control over any other Website or resources or contents available
+                    on these other websites and Mobile Applications, which are provided by companies or persons other than us. You acknowledge and agree that we are not responsible
+                    for the availability of any such external sites or resources, and do not endorse any advertising, services, or other materials on or available from such
                     Website or resources. You acknowledge and agree that We are not liable for any loss or damage which may be incurred by you as a result of the availability of
                     those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, services or other
                     materials on, or available from, such Websites. These external third-party websites and Mobile Applications and resource providers may have their privacy
-                    policies governing the collection, storage, retention, and disclosure of Your Personal Information that You may be subject to. We recommend that you enter the
+                    policies governing the collection, storage, retention, and disclosure of your personal information that you may be subject to. We recommend that you enter the
                     Website and review its privacy policy.</p>
                 <h3>COOKIES</h3>
                 <p>A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. By continuing to browse the site,
@@ -196,12 +194,12 @@
                 <h3>YOUR RIGHTS</h3>
                 <p>Unless subject to an exemption, you have the following rights concerning your data:</p>
                 <ol type="a">
-                    <li>The right to request a copy of your data which we hold about you</li>
-                    <li>The right to request for any correction to any personal data if it is found to be inaccurate or out of date</li>
+                    <li>The right to request a copy of your data that we hold about you</li>
+                    <li>The right to request any correction to any personal data if it is found to be inaccurate or out of date</li>
                     <li>The right to withdraw Your consent to the processing at any time</li>
                     <li>The right to object to the processing of personal data</li>
                     <li>The right to complain about a supervisory authority</li>
-                    <li>The right to obtain information as to whether personal data are transferred to a third country or an international organization</li>
+                    <li>The right to obtain information on whether personal data are transferred to a third country or an international organization</li>
                 </ol>
                 <p> Where you hold an account with any of our services, you are entitled to a copy of all personal data which we hold concerning you. You are also entitled to
                     request that we restrict how we use your data in your account when you log in.</p>

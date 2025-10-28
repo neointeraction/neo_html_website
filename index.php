@@ -71,7 +71,7 @@
                             </div>
                             <h3 class="title">Product Design</h3>
                             <p class="description">
-                                Shaping ideas into tangible user centric design solutions
+                                Shaping ideas into tangible user-centric design solutions
                             </p>
                             <button class="btn btn-custom btn-custom-secondary hire-us-btn" data-service="Home page" data-bs-toggle="modal" data-bs-target="#registerModal">
                                 Hire Us
