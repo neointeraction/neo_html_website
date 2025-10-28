@@ -176,7 +176,7 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/award.svg" alt="qa" />
+                            <img src="<?php echo $path; ?>assets/images/icons/award.svg" alt="Quality design icon"  width="40px" height="40px" />
                             <h4 class="wwd-title">Quality Design </h4>
                             <p class="wwd-text">With over 15 years of experience, we've established ourselves as a
                                 leader in the industry, delivering top-notch UX design solutions that drive success.</p>
@@ -184,7 +184,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/db.svg" alt="value" />
+                            <img src="<?php echo $path; ?>assets/images/icons/db.svg" alt="Data analysis design icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Data-Driven Solutions</h4>
                             <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we
                                 make is backed by research and analysis.</p>
@@ -192,7 +192,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="optimise" />
+                            <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="UX UI partnership icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Your reliable UX/UI design partner</h4>
                             <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to
                                 make sure we accelerate your product journey.</p>
@@ -201,7 +201,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/bulb-on.svg" alt="data" />
+                            <img src="<?php echo $path; ?>assets/images/icons/bulb-on.svg" alt="Creative design team icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Exceptional Team</h4>
                             <p class="wwd-text">Our team of UX/UI designers, product designers and frontend developers
                                 is among the best in the industry, with the skills and expertise to bring your vision to
@@ -210,7 +210,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="plane" />
+                            <img src="<?php echo $path; ?>assets/images/icons/star-document.svg" alt="Track record success icon" width="40px" height="40px" />
                             <h4 class="wwd-title">Proven Track Record</h4>
                             <p class="wwd-text">We have a proven track record of success, with numerous satisfied
                                 clients across diverse domains</p>
