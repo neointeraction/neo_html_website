@@ -48,7 +48,16 @@ include_once 'includes/tracking-functions.php';
         'link' => 'online-tutoring-platform.php',
         'case_study_service' => 'online-tutoring-platform',
         'case_study_url' => 'case-study/casestudy-online-tutoring-platform-90-tuition-app.pdf'
-    ]]
+    ],
+    [
+        'title' => 'AI-Powered Learning Platform',
+        'description' => 'Implemented a web portal and EdTech platform enabling intelligent learning through knowledge gap identification and personalized practice opportunities',
+        'image' => 'ai-powered-learning-banner.webp',
+        'mobileImage'=> 'ai-powered-learning-mobile.webp',
+        'alt' => 'AI-Powered Learning Platform',
+        'link' => '',
+    ]
+    ]
 
 
     ?>
@@ -268,7 +277,7 @@ include_once 'includes/tracking-functions.php';
                                     <p class="project-description">
                                         <?php echo $event['description']; ?>
                                     </p>
-
+                                    <?php if($event['case_study_service']){ ?>
                                     <div class="pb-action-btn mt-2">
                                         <button class="btn btn-custom"
                                         data-service="<?php echo htmlspecialchars($event['case_study_service']); ?>"
@@ -279,6 +288,7 @@ include_once 'includes/tracking-functions.php';
                                             Download Case Study
                                         </button>
                                     </div>
+                                    <?php } ?>
                                 </div>
                             </div>
                         </div>
@@ -289,25 +299,6 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
-    <section class="section-padding">
-        <div class="container">
-            <div class="blog-quote-block project-quote-block">
-                <div class="row justify-content-center align-items-center">
-                    <div class="col-md-3">
-                        <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                            <img src="<?php echo $path; ?>assets/images/projects/client-logos/90-logo.svg" alt="mega" width="77" height="56" />
-                            <div class="quote-icon-right d-block d-md-none"></div>
-                        </div>
-                    </div>
-                    <div class="col-md-9">
-                        <div class="quote-icon d-none d-md-block"></div>
-                        <p class="blog-quote-text">The visual appeal and the new tutoring experience led us to overcome
-                            the usability issues and we’re very happy with the result the design team delivered.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- demo-video  -->
     <section class="demo-video section-padding">

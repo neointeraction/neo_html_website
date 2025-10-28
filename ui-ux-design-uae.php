@@ -48,7 +48,16 @@ include_once 'includes/tracking-functions.php';
         'link' => 'revolutionizing-banking-experiences.php',
          'case_study_service' => 'revolutionizing-banking-experiences',
         'case_study_url' => 'case-study/casestudy-revolutionizing-banking-experiences-at-dubai-bank.pdf'
-    ]]
+    ],
+    [
+        'title' => 'UX for Investment Tracking Portal',
+        'description' => 'A platform to track clients investments across various public and private funds.',
+        'mobileImage' => 'projects/investment-tracking-mobile.webp',
+        'image' => 'projects/investment-tracking-portal-banner.webp',
+        'alt' => 'Commercial Bank of Dubai',
+        'link' => '',
+    ]
+    ]
     ?>
     <?php include $path.'includes/body-additional-scripts.php'; ?>
     <!-- navbar  -->
@@ -278,6 +287,7 @@ include_once 'includes/tracking-functions.php';
                                         <?php echo $event['description']; ?>
                                     </p>
 
+                                    <?php if($event['case_study_service']){ ?>
                                     <div class="pb-action-btn mt-2">
                                         <button class="btn btn-custom"
                                         data-service="<?php echo htmlspecialchars($event['case_study_service']); ?>"
@@ -288,6 +298,7 @@ include_once 'includes/tracking-functions.php';
                                             Download Case Study
                                         </button>
                                     </div>
+                                    <?php } ?>
                                 </div>
                             </div>
                         </div>
@@ -298,7 +309,7 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
 
-    <section class="section-padding">
+    <!-- <section class="section-padding">
         <div class="container">
             <div class="blog-quote-block project-quote-block">
                 <div class="row justify-content-center align-items-center">
@@ -317,7 +328,7 @@ include_once 'includes/tracking-functions.php';
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- demo-video  -->
     <section class="demo-video section-padding">

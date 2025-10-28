@@ -37,24 +37,24 @@ include_once 'includes/tracking-functions.php';
     
    $events = [
     [
-        'title' => 'Share Trading platform redesign',
-        'description' => 'Trading platform revamped to offer users a unified experience accessible across devices',
-        'image'=> 'thumb/desk/geogit-homepage-banner.webp',
-        'mobileImage'=> 'thumb/mobile/geogit-homepage-banner.webp',
-        'alt' => 'Share Trading platform redesign',
-        'link' => 'share-trading-platform.php',
-          'case_study_service' => 'share-trading-platform',
-        'case_study_url' => 'case-study/case-study-share-trading-platform-redesign.pdf'
+        'title' => 'Mobility Paltform for Crew Ship workforce management',
+        'description' => 'Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information',
+        'image' => 'thumb/desk/crew-mobility-management.webp',
+        'mobileImage' => 'thumb/mobile/crew-mobility-management.webp',
+        'alt' => 'Mobility Paltform for Crew Ship workforce management',
+        'link' => 'crew-mobility-management-in-a-cruise.php',
+        'case_study_service' => 'crew-mobility-management-in-a-cruise',
+        'case_study_url' => 'case-study/casestudy-crew-mobility-management-in-a-cruise.pdf'
     ],
     [
-        'title' => 'Redesigning Tricogs AI Driven Healthcare Platform',
-        'description' => 'AI-driven predictive healthcare platform that improves heart failure patient care',
-        'image'=> 'thumb/desk/tricog-homepage-banner.webp',
-        'mobileImage'=> 'thumb/mobile/tricog-homepage-banner.webp',
+        'title' => 'Metadata Management Solution ',
+        'description' => 'Platform improving efficiency in Rights Management, Royalty Collection /Distribution.',
+        'image'=> 'noctil-new-homepage-banner.webp',
+        'mobileImage'=> 'noctil-homepage-banner-mobile.webp',
         'alt' => 'Redesigning Tricogs AI Driven Healthcare Platform',
-        'link' => 'ai-driven-healthcare-consultation-platform.php',
-          'case_study_service' => 'ai-driven-healthcare-consultation-platform',
-        'case_study_url' => 'case-study/casestudy-ai-driven-healthcare-consultation-platform.pdf'
+        'link' => 'music-rights-management-solution.php',
+        'case_study_service' => 'music-rights-management-solution',
+        'case_study_url' => 'case-study/casestudy-music-rights-management-solution.pdf'
     ]
    ]
     ?>

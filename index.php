@@ -178,7 +178,7 @@
     </section>
     <!-- recent-blogs end  -->
 
-
+    <div class="container">
     <?php 
         $title = 'Submit Enquiry'; 
         $desc = 'Excited to connect! Share what you’re looking for and we’ll guide you every step of the way!';
@@ -187,6 +187,7 @@
         $imageAlt = 'Contact us';
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
+    </div>
     </main>
     <?php include $path . 'components/footer.php'; ?>
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
