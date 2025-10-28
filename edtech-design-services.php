@@ -186,7 +186,7 @@ include_once 'includes/tracking-functions.php';
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/engineering.svg" alt="Design-based solutions" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/engineering.svg" alt="Edtech design-based solution icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Design-based solutions</h3>
                             <p class="wwd-text">We're reshaping the landscape of education technology by integrating
                                 innovative design approaches that enhance user experiences and drive meaningful learning
@@ -195,7 +195,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/pointer.svg" alt="complete digital immersion" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/pointer.svg" alt="Digital learning immersion icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Enabling a complete digital immersion</h3>
                             <p class="wwd-text">Our immersive digital solutions create an engaging learning environment
                                 where students can fully immerse themselves in interactive educational experiences,
@@ -204,7 +204,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/a11y.svg" alt="Increasing accessibility and usability" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/a11y.svg" alt="Accessibility and usability icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Increasing accessibility and usability</h3>
                             <p class="wwd-text">We prioritize accessibility and usability in our designs to ensure that
                                 learners of all abilities can easily navigate and engage with educational content,
@@ -214,7 +214,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/graduate.svg" alt="Designing an engaging simulation" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/graduate.svg" alt="Classroom simulation icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Designing an engaging simulation of a classroom</h3>
                             <p class="wwd-text">Through captivating design elements and interactive features, we
                                 simulate the classroom experience in a digital environment, fostering collaboration,
@@ -223,7 +223,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/atom.svg" alt="Democratizing education" width="40px" height="40px" />
+                            <img src="<?php echo $path; ?>assets/images/icons/atom.svg" alt="Inclusive education access icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Democratizing education</h3>
                             <p class="wwd-text">Our goal is to make quality education accessible to all, regardless of
                                 geographical location or socioeconomic status, by leveraging technology to break down
@@ -233,7 +233,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Impactful Solutions"  width="40px" height="40px"/>
+                            <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Impactful edtech solutions icon"  width="40px" height="40px"/>
                             <h3 class="wwd-title">Impactful solutions provided to our clients</h3>
                             <p class="wwd-text">We deliver tangible results by providing our clients with actionable
                                 insights and innovative solutions that align with their goals, driving measurable
