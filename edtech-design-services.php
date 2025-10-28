@@ -24,8 +24,7 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:description"
         content="Are you looking for best Edtech UX/UI design services in India? Neointeraction Design is one of the best Edtech design company in India offering expert solutions." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/edtech-design-thumbnail.webp" />
-    <meta property="og:image:width" content="2500" />
-    <meta property="og:image:height" content="1330" />
+    <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
     <meta property="og:url" content="https://www.neointeraction.com/edtech-design-services" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />

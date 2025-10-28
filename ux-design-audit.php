@@ -20,12 +20,11 @@ include_once 'includes/tracking-functions.php';
         content="Boost your digital presence with our UX Design Audit services in India. Uncover actionable insights for user experiences and drive business growth." />
     <meta name="keywords" content="UX Design Audit in India" />
     <link rel="canonical" href="https://www.neointeraction.com/blog" />
+    <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
     <meta property="og:title" content="Expert UX Design Audit in India | Neointeraction Design | Contact Us" />
     <meta property="og:description"
         content="Boost your digital presence with our UX Design Audit services in India. Uncover actionable insights for user experiences and drive business growth." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/ux-audit-thumbnail.webp" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
     <meta property="og:url" content="" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />

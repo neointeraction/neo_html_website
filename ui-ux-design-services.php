@@ -12,8 +12,7 @@
     <meta property="og:title" content="UI UX Design Services in India | UI UX Design Studio | Neointeraction Design" >
     <meta property="og:description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." >
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-services-og.webp" >
-    <meta property="og:image:width" content="600" >
-    <meta property="og:image:height" content="315" >
+    <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
     <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-services" >
     <meta property="og:site_name" content="Neointeraction Design" >
     <meta property="og:type" content="website" >

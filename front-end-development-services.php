@@ -24,8 +24,7 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:description"
         content="Neointeraction Design provides best Front end development services in India. Hire talented Front-End developers for your upcoming web projects." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/ui-development-thumbnail.webp" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
     <meta property="og:url" content="" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />

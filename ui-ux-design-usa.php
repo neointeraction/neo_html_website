@@ -22,8 +22,7 @@ include_once 'includes/tracking-functions.php';
     <meta property="og:title" content="Contact Neointeraction Design | Top UI/UX Agency in the USA | Expert UI/UX Services"/>
     <meta property="og:description" content="Transforming digital landscapes, our UI UX agency in USA delivers best design solutions for you. Contact us today!"/>
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/usa-thumbnail.webp"/>
-    <meta property="og:image:width" content="2500"/>
-    <meta property="og:image:height" content="1330"/>
+    <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
     <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-usa"/>
     <meta property="og:site_name" content="Neointeraction Design"/>
     <meta property="og:type" content="website"/>

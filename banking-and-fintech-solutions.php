@@ -20,18 +20,17 @@ include_once 'includes/tracking-functions.php';
         content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design." />
     <meta name="keywords" content="UX/UI design, Banking and Fintech Solutions India" />
     <link rel="canonical" href="https://www.neointeraction.com/banking-and-fintech-solutions" />
-    <meta property="og:title"
-        content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design" />
+    <meta property="og:title" content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design" />
     <meta property="og:description"
         content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design." />
+    <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/fintech-design-thumbnail.webp" />
     <meta property="og:url" content="https://www.neointeraction.com/banking-and-fintech-solutions" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title"
-        content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design" />
+    <meta name="twitter:title" content="Banking and Fintech Solutions India | Fintech banking solutions | Neointeraction Design" />
     <meta name="twitter:description"
         content="Discover innovative Banking and Fintech Solutions India! At NeoInteraction Design, we redefine fintech and banking through cutting-edge UX/UI design." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/fintech-design-thumbnail.webp" />
@@ -97,39 +96,33 @@ include_once 'includes/tracking-functions.php';
                             <form id="contactForm">
                                 <div class="form-group">
                                     <label for="lp_name" class="form-label">Name</label>
-                                    <input type="text" id="lp_name" name="lp_name" class="form-control custom-input"
-                                        placeholder="Enter name" required>
+                                    <input type="text" id="lp_name" name="lp_name" class="form-control custom-input" placeholder="Enter name" required>
                                     <div id="lp_name-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
                                     <label for="lp_work_email" class="form-label">Work email</label>
-                                    <input type="email" id="lp_work_email" name="lp_work_email"
-                                        class="form-control custom-input" placeholder="Enter work email"
+                                    <input type="email" id="lp_work_email" name="lp_work_email" class="form-control custom-input" placeholder="Enter work email"
                                         pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
                                     <div id="lp_email-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
                                     <label for="lp_mobile_number" class="form-label">Mobile Number</label>
-                                    <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
-                                        class="form-control custom-input"
-                                        placeholder="Enter mobile number" pattern="^\+?[0-9]{10,15}$"
-                                        required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
+                                    <input type="tel" id="lp_mobile_number" name="lp_mobile_number" class="form-control custom-input" placeholder="Enter mobile number"
+                                        pattern="^\+?[0-9]{10,15}$" required oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                     <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
                                     <label for="lp_designation" class="form-label">Which service would you like to
                                         request?*</label>
-                                    <input id="lp_designation" name="lp_designation" class="form-control custom-input"
-                                        placeholder="Enter your service request here" required>
+                                    <input id="lp_designation" name="lp_designation" class="form-control custom-input" placeholder="Enter your service request here" required>
                                     <div id="lp_designation-error" class="text-danger" aria-live="polite"></div>
                                 </div>
                                 <div id="lp_contact-status"></div>
                                 <div class="form-btn-container">
-                                    <button type="button" class="btn btn-custom" id="lp_contact-submit-btn"
-                                        onclick="submitLPForm()">
+                                    <button type="button" class="btn btn-custom" id="lp_contact-submit-btn" onclick="submitLPForm()">
                                         Submit Enquiry
                                     </button>
                                 </div>
@@ -260,7 +253,7 @@ include_once 'includes/tracking-functions.php';
                                         class="img-fluid project-image d-none d-md-block" width="584" height="280" />
                                     <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['mobileImage']; ?>" alt="<?php echo $event['alt']; ?>"
                                         class="img-fluid project-image d-flex d-md-none" width="438" height="126" />
-                           
+
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
                                     <h2 class="project-title">
@@ -296,10 +289,9 @@ include_once 'includes/tracking-functions.php';
             <h2 class="section-title">Our Process</h2>
             <div class="video-container section-margin">
 
-                <iframe width="100%" height="650" src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR"
-                    title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy" style="border-radius: 0;"></iframe>
+                <iframe width="100%" height="650" src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen loading="lazy" style="border-radius: 0;"></iframe>
             </div>
         </div>
     </section>
@@ -318,50 +310,51 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
     <script src="<?php echo $path; ?>assets/js/events.js"></script>
-    <script><?php include 'includes/tracking-script.php'; ?></script>   
     <script>
-        document.getElementById("lp_designation").addEventListener("input", function() {
-            if (this.value.trim().length > 0 && /^\S+$/.test(this.value)) {
-                document.getElementById("lp_designation").classList.remove("is-invalid");
-                document.getElementById("lp_designation-error").innerHTML = "";
-            } else {
-                document.getElementById("lp_designation").classList.add("is-invalid");
-                document.getElementById("lp_designation-error").innerHTML = "Please describe your project needs";
-            }
-        }); 
-        
+    <?php include 'includes/tracking-script.php'; ?>
+    </script>
+    <script>
+    document.getElementById("lp_designation").addEventListener("input", function() {
+        if (this.value.trim().length > 0 && /^\S+$/.test(this.value)) {
+            document.getElementById("lp_designation").classList.remove("is-invalid");
+            document.getElementById("lp_designation-error").innerHTML = "";
+        } else {
+            document.getElementById("lp_designation").classList.add("is-invalid");
+            document.getElementById("lp_designation-error").innerHTML = "Please describe your project needs";
+        }
+    });
 
-        document.getElementById("lp_name").addEventListener("input", function() {
-            if (this.value.trim().length > 0 && /^\S+$/.test(this.value)) {
-                document.getElementById("lp_name").classList.remove("is-invalid");
-                document.getElementById("lp_name-error").innerHTML = "";
-            } else {
-                document.getElementById("lp_name").classList.add("is-invalid");
-                document.getElementById("lp_name-error").innerHTML = "Enter a valid name";
-            }
-        });
 
-        document.getElementById("lp_work_email").addEventListener("input", function() {
-            if (this.value.trim().length > 0 && /^\S+@\S+\.\S+$/.test(this.value)) {
-                document.getElementById("lp_work_email").classList.remove("is-invalid");
-                document.getElementById("lp_email-error").innerHTML = "";
-            } else {
-                document.getElementById("lp_work_email").classList.add("is-invalid");
-                document.getElementById("lp_email-error").innerHTML = "Enter a valid email address";
-            }
-        });
+    document.getElementById("lp_name").addEventListener("input", function() {
+        if (this.value.trim().length > 0 && /^\S+$/.test(this.value)) {
+            document.getElementById("lp_name").classList.remove("is-invalid");
+            document.getElementById("lp_name-error").innerHTML = "";
+        } else {
+            document.getElementById("lp_name").classList.add("is-invalid");
+            document.getElementById("lp_name-error").innerHTML = "Enter a valid name";
+        }
+    });
 
-        document.getElementById("lp_mobile_number").addEventListener("input", function() {
-            if (this.value.trim().length > 0 && /^\+?[0-9]{10,15}$/.test(this.value)) {
-                document.getElementById("lp_mobile_number").classList.remove("is-invalid");
-                document.getElementById("lp_mobile-error").innerHTML = "";
-            } else {
-                document.getElementById("lp_mobile_number").classList.add("is-invalid");
-                document.getElementById("lp_mobile-error").innerHTML = "Enter a valid mobile number";
-            }
-        });
+    document.getElementById("lp_work_email").addEventListener("input", function() {
+        if (this.value.trim().length > 0 && /^\S+@\S+\.\S+$/.test(this.value)) {
+            document.getElementById("lp_work_email").classList.remove("is-invalid");
+            document.getElementById("lp_email-error").innerHTML = "";
+        } else {
+            document.getElementById("lp_work_email").classList.add("is-invalid");
+            document.getElementById("lp_email-error").innerHTML = "Enter a valid email address";
+        }
+    });
 
-    </script> 
+    document.getElementById("lp_mobile_number").addEventListener("input", function() {
+        if (this.value.trim().length > 0 && /^\+?[0-9]{10,15}$/.test(this.value)) {
+            document.getElementById("lp_mobile_number").classList.remove("is-invalid");
+            document.getElementById("lp_mobile-error").innerHTML = "";
+        } else {
+            document.getElementById("lp_mobile_number").classList.add("is-invalid");
+            document.getElementById("lp_mobile-error").innerHTML = "Enter a valid mobile number";
+        }
+    });
+    </script>
 </body>
 
 </html>
