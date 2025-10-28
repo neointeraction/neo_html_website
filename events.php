@@ -228,6 +228,20 @@
 
     <!-- event-highlights  -->
 
+    <?php
+    $gallery_images = [
+        ['src' => 'assets/images/events/event_highlight_1.webp', 'alt' => 'Speaker presenting on stage'],
+        ['src' => 'assets/images/events/event_highlight_2.webp', 'alt' => 'Attendees networking at the event'],
+        ['src' => 'assets/images/events/event_highlight_3.webp', 'alt' => 'Design Collaborations and Discussions'],
+        ['src' => 'assets/images/events/event_highlight_4.webp', 'alt' => 'Speaker showcasing on stage'],
+        ['src' => 'assets/images/events/event_highlight_5.webp', 'alt' => 'Interactive workshop session'],
+        ['src' => 'assets/images/events/event_highlight_6.webp', 'alt' => 'Group discussion during a break'],
+        ['src' => 'assets/images/events/event_highlight_7.webp', 'alt' => 'Creative Atmosphere at Design Event'],
+        ['src' => 'assets/images/events/event_highlight_8.webp', 'alt' => 'Exhibition booth showcasing designs'],
+        ['src' => 'assets/images/events/event_highlight_9.webp', 'alt' => 'Interactive workshop'],
+        ['src' => 'assets/images/events/event_highlight_10.webp', 'alt' => 'Attendees networking at the event'],
+    ];
+    ?>
     <section class="event-highlights section-padding mb-4">
         <div class="container">
             <div class="title-flex">
@@ -238,7 +252,7 @@
                     <button class="btn btn-custom btn-custom-secondary slick-btn slick-prev-custom" aria-label="Previous">
                         <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path class="svg" fill-rule="evenodd" clip-rule="evenodd"
-                                d="M0.292787 7.70734C0.105316 7.51981 0 7.26551 0 7.00034C0 6.73518 0.105316 6.48087 0.292787 6.29334L5.94979 0.636343C6.04203 0.540833 6.15238 0.464651 6.27438 0.412242C6.39639 0.359833 6.52761 0.332246 6.66039 0.331092C6.79316 0.329939 6.92484 0.355241 7.04774 0.405521C7.17064 0.455802 7.28229 0.530055 7.37618 0.623948C7.47007 0.717841 7.54433 0.829492 7.59461 0.952389C7.64489 1.07529 7.67019 1.20696 7.66904 1.33974C7.66788 1.47252 7.6403 1.60374 7.58789 1.72575C7.53548 1.84775 7.4593 1.9581 7.36379 2.05034L2.41379 7.00034L7.36379 11.9503C7.54594 12.1389 7.64674 12.3915 7.64446 12.6537C7.64218 12.9159 7.53701 13.1668 7.35161 13.3522C7.1662 13.5376 6.91538 13.6427 6.65319 13.645C6.39099 13.6473 6.13839 13.5465 5.94979 13.3643L0.292787 7.70734Z"
+                                d="M0.292787 7.70734C0.105316 7.51981 0 7.26551 0 7.00034C0 6.73518 0.105316 6.48087 0.292787 6.29334L5.94979 0.636343C6.04203 0.540833 6.15238 0.464651 6.27438 0.412242C6.39639 0.359833 6.52761 0.332246 6.66039 0.331092C6.79316 0.329939 6.92484 0.355241 7.04774 0.405521C7.17064 0.455802 7.28229 0.530055 7.37618 0.623948C7.47007 0.717841 7.54433 0.829492 7.59461 0.952389C7.64489 1.07529 7.67019 1.20696 7.66904 1.33974C7.66788 1.47252 7.6403 1.60374 7.58789 1.72575C7.53548 1.84775 7.4593 1.9581 7.36379 2.05034L2.41379 7.00034L7.36379 11.9503C7.54594 12.1389 7.64674 12.3915 7.64446 12.6537C7.64218 12.9159 7.53701 13.1668 7.35161 13.3522C7.16620 13.5376 6.91538 13.6427 6.65319 13.645C6.39099 13.6473 6.13839 13.5465 5.94979 13.3643L0.292787 7.70734Z"
                                 fill="#2B2828" />
                         </svg>
                     </button>
@@ -252,14 +266,7 @@
                 </div>
             </div>
             <div class="event-slider section-margin">
-                <div class="project-block event-slider-block">
-                    <div class="project-block-item event-item-block">
-                        <img src="assets/images/events/event-highlights_1.webp" alt="Creative Atmosphere" class="img-fluid project-image" />
-                    </div>
-                    <div class="project-block-item event-item-block">
-                        <img src="assets/images/events/event-highlights_2.webp" alt="Design Collaborations" class="img-fluid project-image" />
-                    </div>
-                </div>
+                <?php include $path . 'components/image-gallery.php'; ?>
             </div>
         </div>
     </section>
