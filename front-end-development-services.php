@@ -117,7 +117,7 @@ include_once 'includes/tracking-functions.php';
                                 <div class="form-group">
                                     <label for="lp_mobile_number" class="form-label">Mobile Number</label>
                                     <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
-                                        class="form-control custom-input" placeholder="Enter mobile number"
+                                        class="form-control custom-input" placeholder="Enter mobile number (e.g. +91 98765 43210)"
                                         pattern="^\+?[0-9]{10,15}$" required
                                         oninput="this.value = this.value.replace(/[^0-9+]/g, '');">
                                     <div id="lp_mobile-error" class="text-danger" aria-live="polite"></div>
@@ -409,6 +409,9 @@ include_once 'includes/tracking-functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
+                            <h2 class="project-title d-block d-md-none">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img src="<?php echo $path; ?>assets/images/projects/<?php echo $event['image']; ?>"
                                         alt="<?php echo $event['alt']; ?>"
@@ -418,7 +421,7 @@ include_once 'includes/tracking-functions.php';
                                         class="img-fluid project-image d-flex d-md-none" width="438" height="126" />
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                    <h2 class="project-title">
+                                    <h2 class="project-title d-none d-md-block">
                                         <?php echo $event['title']; ?>
                                     </h2>
                                     <p class="project-description">
