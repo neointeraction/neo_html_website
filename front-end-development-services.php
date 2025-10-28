@@ -183,7 +183,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/code-browser.svg"
                                 alt="Frontend development icon" width="40px" height="40px" />
-                            <h4 class="wwd-title">Expert Frontend Development</h4>
+                            <h3 class="wwd-title">Expert Frontend Development</h3>
                             <p class="wwd-text">Our team comprises seasoned frontend developers with extensive
                                 experience in crafting intuitive and visually appealing user interfaces. With a keen eye
                                 for detail and a passion for innovation, we ensure that your digital product stands out.
@@ -194,7 +194,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/technology.svg"
                                 alt="Technology innovation icon" width="40px" height="40px" />
-                            <h4 class="wwd-title">Cutting-Edge Technologies</h4>
+                            <h3 class="wwd-title">Cutting-Edge Technologies</h3>
                             <p class="wwd-text">We stay ahead of the curve by leveraging the latest technologies and
                                 frameworks in frontend development. Whether it's React, Angular, Vue.js, or HTML/CSS
                                 (SASS), we have the expertise to build dynamic and responsive interfaces that elevate
@@ -205,7 +205,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Custom solution icon"
                                 width="40px" height="40px" />
-                            <h4 class="wwd-title">Customized Solutions</h4>
+                            <h3 class="wwd-title">Customized Solutions</h3>
                             <p class="wwd-text">We understand that every project is unique, which is why we offer
                                 tailored solutions to meet your specific needs and objectives. From concept to
                                 execution, we collaborate closely with you to ensure that the end product aligns
@@ -217,7 +217,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/api.svg" alt="Integration icon"
                                 width="40px" height="40px" />
-                            <h4 class="wwd-title">Seamless Integration</h4>
+                            <h3 class="wwd-title">Seamless Integration</h3>
                             <p class="wwd-text">Our frontend development services seamlessly integrate with your
                                 existing systems and technologies, ensuring smooth operation and compatibility across
                                 platforms. Whether you're building from scratch or enhancing an existing product, we've
@@ -228,7 +228,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/team-building.svg"
                                 alt="Collaboration icon" width="40px" height="40px" />
-                            <h4 class="wwd-title">Collaborative Partnership</h4>
+                            <h3 class="wwd-title">Collaborative Partnership</h3>
                             <p class="wwd-text">We view our clients as partners and believe in building long-term
                                 relationships based on trust, transparency, and mutual success. When you choose us for
                                 your frontend development needs, you're not just getting a service provider – you're
@@ -240,7 +240,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg"
                                 alt="Track record icon" width="40px" height="40px" />
-                            <h4 class="wwd-title">Proven Track Record</h4>
+                            <h3 class="wwd-title">Proven Track Record</h3>
                             <p class="wwd-text">With a proven track record of delivering high-quality frontend solutions
                                 for diverse industries and clients, you can trust us to bring your digital vision to
                                 life. Our portfolio speaks for itself, showcasing our expertise and commitment to
@@ -252,7 +252,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/arrow-flow.svg"
                                 alt="Agile development icon" width="40px" height="40px" />
-                            <h4 class="wwd-title">Agile Development Approach</h4>
+                            <h3 class="wwd-title">Agile Development Approach</h3>
                             <p class="wwd-text">We follow an agile development approach, allowing for flexibility,
                                 transparency, and quick iterations throughout the project lifecycle. This ensures that
                                 we adapt to changing requirements and deliver results efficiently and effectively. </p>
@@ -263,7 +263,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/support.svg" alt="Customer support icon"
                                 width="40px" height="40px" />
-                            <h4 class="wwd-title">Dedicated Support</h4>
+                            <h3 class="wwd-title">Dedicated Support</h3>
                             <p class="wwd-text">Our commitment to customer satisfaction doesn't end with the project
                                 delivery. We provide ongoing support and maintenance to ensure that your product
                                 continues to perform optimally and evolves with your business needs.</p>
@@ -286,21 +286,21 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/dynamic_feed.svg"
                                 alt="UI component construction icon" width="40px" height="40px" />
-                            <p class="wwd-text">Dynamic Component Construction</p>
+                            <h3 class="wwd-title">Dynamic Component Construction</h3>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/flowchart.svg"
                                 alt="Interactive user journey icon" width="40px" height="40px" />
-                            <p class="wwd-text">Crafting Interactive User Journeys</p>
+                            <h3 class="wwd-title">Crafting Interactive User Journeys</h3>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/responsive.svg"
                                 alt="Responsive design icon" width="40px" height="40px" />
-                            <p class="wwd-text">Responsive Design Implementation</p>
+                            <h3 class="wwd-title">Responsive Design Implementation</h3>
                         </div>
                     </div>
 
@@ -308,14 +308,14 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/check-circle.svg"
                                 alt="Business validation icon" width="40px" height="40px" />
-                            <p class="wwd-text">Business Flow Validation</p>
+                            <h3 class="wwd-title">Business Flow Validation</h3>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/balancer.svg"
                                 alt="Service integration icon" width="40px" height="40px" />
-                            <p class="wwd-text">Seamless Service Integration</p>
+                           <h3 class="wwd-title">Seamless Service Integration</h3>
                         </div>
                     </div>
 
@@ -323,7 +323,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/developer-mode.svg"
                                 alt="UI development transition icon" width="40px" height="40px" />
-                            <p class="wwd-text">Dev-Ready UI Transition</p>
+                            <h3 class="wwd-title">Dev-Ready UI Transition</h3>
                         </div>
                     </div>
 
@@ -349,7 +349,7 @@ include_once 'includes/tracking-functions.php';
                     <!-- Card 1 -->
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
-                            <h4 class="title">HTML & CSS (SASS) Development</h4>
+                            <h3 class="title">HTML & CSS (SASS) Development</h3>
                             <p class="description">
                                 Bring your designs to life with our HTML and CSS development services. From Figma to
                                 Sketch, we craft stunning, responsive interfaces that perform seamlessly across devices,
@@ -360,7 +360,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
-                            <h4 class="title">React JS/React Native</h4>
+                            <h3 class="title">React JS/React Native</h3>
                             <p class="description">
                                 As a leading React development company, we harness the power of JavaScript library. With
                                 React JS, we build dynamic, interactive and responsive web & mobile apps to deliver a
@@ -371,7 +371,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
-                            <h4 class="title">Vue JS</h4>
+                            <h3 class="title">Vue JS</h3>
                             <p class="description">
                                 Craft compelling user interfaces with our Vue.js development services. Our experts
                                 utilize this progressive JavaScript framework to build scalable and high-performing web
@@ -382,7 +382,7 @@ include_once 'includes/tracking-functions.php';
 
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
-                            <h4 class="title">Angular</h4>
+                            <h3 class="title">Angular</h3>
                             <p class="description">
                                 Take your web applications to new heights with our Angular development services. Our
                                 experienced developers leverage this robust JavaScript framework to create complex and

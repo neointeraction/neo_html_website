@@ -43,7 +43,7 @@
           <!-- Middle Section - Link Columns -->
           <div class="row footer-link-block border-secondary border-opacity-25">
               <div class="col-6 col-md-3 footer-col">
-                  <h4 class="footer-links-header">Agency</h4>
+                  <h3 class="footer-links-header">Agency</h3>
                   <ul class="p-0 footer-link-list">
                       <li><a href="<?php echo $path; ?>index.php">Home</a></li>
                       <li><a href="<?php echo $path; ?>about-us.php">About Us</a></li>
@@ -54,7 +54,7 @@
                   </ul>
               </div>
               <div class="col-6 col-md-3 footer-col">
-                  <h4 class="footer-links-header">Specialization</h4>
+                  <h3 class="footer-links-header">Specialization</h3>
                   <ul class="p-0 footer-link-list">
                       <li><a href="<?php echo $path; ?>banking-and-fintech-solutions.php">Fintech UX Design</a></li>
                       <li><a href="<?php echo $path; ?>edtech-design-services.php">Edtech UX Design</a></li>
@@ -64,7 +64,7 @@
                   </ul>
               </div>
               <div class="col-6 col-md-3 footer-col">
-                  <h4 class="footer-links-header">Capabilities</h4>
+                  <h3 class="footer-links-header">Capabilities</h3>
                   <ul class="p-0 footer-link-list">
                       <li><a href="<?php echo $path; ?>ux-design-services.php">UX Design</a></li>
                       <li><a href="<?php echo $path; ?>front-end-development-services.php">UI Development</a></li>
@@ -73,7 +73,7 @@
                   </ul>
               </div>
               <div class="col-6 col-md-3 footer-col">
-                  <h4 class="footer-links-header">Others</h4>
+                  <h3 class="footer-links-header">Others</h3>
                   <ul class="p-0 footer-link-list">
                       <li><a href="<?php echo $path; ?>events.php">Events</a></li>
                       <li><a href="<?php echo $path; ?>blogs.php">Blogs</a></li>

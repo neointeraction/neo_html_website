@@ -86,7 +86,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h4 class="project-section-title">Overview </h4>
+                        <h3 class="project-section-title">Overview </h3>
                         <a href="#" class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </a>
@@ -99,7 +99,7 @@
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
-                    <h4 class="project-section-title">Result </h4>
+                    <h3 class="project-section-title">Result </h3>
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-4 col-md-3 count-up-item">
@@ -123,14 +123,14 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4 class="project-section-title">Objective </h4>
+                            <h3 class="project-section-title">Objective </h3>
                             <p class="project-body-text">The aim is to enhance the daily user experience by revamping
                                 the app's interface, making it more user-friendly. The focus is on simplifying the
                                 crews' daily activities, tasks, and get information about their journey seamlessly all
                                 in one place.</p>
                         </div>
                         <div class="col-md-6">
-                            <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+                            <h3 class="project-section-title ps-responsive-margin">Challenges </h3>
                             <p class="project-body-text">Considering the app was created by tech first approach where in
                                 it was built from the utility point of view, no significant design considerations or
                                 user research were used when creating the app for various user personas </p>
@@ -139,7 +139,7 @@
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Solutions we offered</h4>
+                    <h3 class="project-section-title">Solutions we offered</h3>
                     <p class="project-body-text">We revamped the app to benefit the target user by simplifying and
                         streamlining their daily tasks, which was accomplished through,</p>
 
@@ -148,7 +148,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Brainstorming</h4>
+                                    <h3 class="title">Brainstorming</h3>
                                     <p class="description">
                                         Brainstorming sessions with the client and the creation of rough sketches served
                                         as the project's inspiration
@@ -158,7 +158,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Identifying Key flows and user pain points</h4>
+                                    <h3 class="title">Identifying Key flows and user pain points</h3>
                                     <p class="description">
                                         Identifying key user flow and its pain point in the existing app
                                     </p>
@@ -167,7 +167,7 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Collaborative decision making</h4>
+                                    <h3 class="title">Collaborative decision making</h3>
                                     <p class="description">
                                         Presentation of the refined key flow to the stakeholders to make impactful
                                         design decisions
@@ -177,7 +177,7 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Foundation </h4>
+                                    <h3 class="title">Foundation </h3>
                                     <p class="description">
                                         Wireframing , prototyping and micro interaction
                                     </p>
@@ -188,7 +188,7 @@
                 </div>
                 <!-- brainstorming-session  -->
                 <div class="brainstorming-session project-section-padding">
-                    <h4 class="project-section-title">Brainstorming Session </h4>
+                    <h3 class="project-section-title">Brainstorming Session </h3>
                     <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches
                         served as the project's inspiration</p>
                     <div class="bs-img">
@@ -230,7 +230,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Improved Usability</h4>
+                                    <h3 class="title">Improved Usability</h3>
                                     <p class="description">
                                         Our design significantly enhances the system's usability, offering a more
                                         user-friendly and accessible interface.
@@ -242,7 +242,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">User Centric UI</h4>
+                                    <h3 class="title">User Centric UI</h3>
                                     <p class="description">
                                         Prioritizing crew well-being and mobility managment, our UI design ensures both
                                         functionality and ergonomic comfort, enhancing the overall user experience.
@@ -254,7 +254,7 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Streamlined User Flow</h4>
+                                    <h3 class="title">Streamlined User Flow</h3>
                                     <p class="description">
                                         The new user flows made it easier to get tasks done quickly, reducing challenges
                                         and ensured a smooth transition for different user throughout their navigation
@@ -266,7 +266,7 @@
                                <!-- Card 3 -->
                                <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Better Engagement and Efficiency</h4>
+                                    <h3 class="title">Better Engagement and Efficiency</h3>
                                     <p class="description">
                                     By simplifying key interactions and making navigation intuitive, the redesigned app encouraged active participation among crew members and improved overall efficiency in completing their daily tasks.
 
@@ -281,7 +281,7 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                    <h4 class="project-section-title">Interactive UI Upgrade </h4>
+                    <h3 class="project-section-title">Interactive UI Upgrade </h3>
                     <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was
                         driven by practical functionality for a more engaging and user-friendly experience.</p>
                     <div class="bs-img">

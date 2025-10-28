@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 
-<head>
-<title>Share Trading Platform Redesign | Neointeraction Design | Contact Now</title>
+<head>  
+  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path . 'includes/favicon.php'; ?>
+  <?php include $path . 'includes/css.php'; ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
+  <title>Share Trading Platform Redesign | Neointeraction Design | Contact Now</title>
   <meta name="description" content="Discover how Geojit BNP Paribas improved their share trading platform for web and mobile, enhancing user experience for investors and traders."/>
   <link rel="canonical" href="https://www.neointeraction.com/share-trading-platform-redesign"/>
   <meta property="og:title" content="Share Trading Platform Redesign | Neointeraction Design | Contact Now"/>
   <meta property="og:description" content="Discover how Geojit BNP Paribas improved their share trading platform for web and mobile, enhancing user experience for investors and traders."/>
   <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/geogit-homepage-thumbnail.jpeg"/>
-  <meta property="og:image:width" content="2500"/>
-  <meta property="og:image:height" content="1330"/>
+  <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
+    
   <meta property="og:url" content="https://www.neointeraction.com/share-trading-platform-redesign"/>
   <meta property="og:site_name" content="Neointeraction Design"/>
   <meta property="og:type" content="website"/>
@@ -18,10 +22,7 @@
   <meta name="twitter:description" content="Discover how Geojit BNP Paribas improved their share trading platform for web and mobile, enhancing user experience for investors and traders."/>
   <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/geogit-homepage-thumbnail.jpeg"/>
   <meta name="twitter:card" content="summary"/>
-  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-  <?php include $path . 'includes/favicon.php'; ?>
-  <?php include $path . 'includes/css.php'; ?>
-  <?php include $path . 'includes/head-additional-scripts.php'; ?>
+
 </head>
 
 <body>
@@ -82,7 +83,7 @@
         <!-- overview-block -->
         <div class="overview-block project-section-padding">
           <div class="title-flex">
-            <h4 class="project-section-title">Overview </h4>
+            <h3 class="project-section-title">Overview </h3>
             <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
@@ -94,7 +95,7 @@
         </div>
         <!-- result-block -->
         <div class="result-block project-section-padding">
-          <h4 class="project-section-title">Result </h4>
+          <h3 class="project-section-title">Result </h3>
           <div class="row ">
             <!-- 15+ years expertise -->
             <div class="col-4 col-md-3 count-up-item">
@@ -118,18 +119,18 @@
         <div class="objective-challenges project-section-padding">
           <div class="row">
             <div class="col-md-6">
-              <h4 class="project-section-title">Objective </h4>
+              <h3 class="project-section-title">Objective </h3>
               <p class="project-body-text">To improve the trading experience by creating a smart and easy-to-use platform. This platform helps traders and investors keep track of their investments and makes it simple to do research, plan strategies and giving quick access to important information.</p>
             </div>
             <div class="col-md-6">
-              <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+              <h3 class="project-section-title ps-responsive-margin">Challenges </h3>
               <p class="project-body-text">The challenges involved making it easy to place orders quickly by creating a fast and efficient way to access data. We also had to combine different services to make trading more enjoyable and come up with research and strategy features that match what different clients like. </p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
-          <h4 class="project-section-title">Solutions we offered</h4>
+          <h3 class="project-section-title">Solutions we offered</h3>
           <p class="project-body-text">In the redesign of Geojit trading platform, SELFIE, our solutions provided traders with a personalized and all-in-one experience. We added advanced charts, included trading options, and provided detailed analytics. This helps traders make smarter decisions.</p>
 
           <div class="bs-card-section project-bs-cards">
@@ -137,7 +138,7 @@
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Personalized Trading Experience</h4>
+                  <h3 class="title">Personalized Trading Experience</h3>
                   <p class="description">
                   Traders can customize dashboards and widgets, tailoring their platform for individual preferences.
                   </p>
@@ -146,7 +147,7 @@
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Unified Watchlist Look</h4>
+                  <h3 class="title">Unified Watchlist Look</h3>
                   <p class="description">
                   Users can enjoy a consistent watchlist experience across both web and mobile platforms for easy market monitoring.
                   </p>
@@ -155,7 +156,7 @@
               <!-- Card 4 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Integrated Trading Across Assets </h4>
+                  <h3 class="title">Integrated Trading Across Assets </h3>
                   <p class="description">
                   Users can seamlessly trade across diverse asset classes and products, enhancing trading flexibility.
                   </p>
@@ -164,7 +165,7 @@
 
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Comprehensive F&O Analytics </h4>
+                  <h3 class="title">Comprehensive F&O Analytics </h3>
                   <p class="description">
                   Access insightful Analytics & Visualization tools for a comprehensive understanding of futures and options markets.
                   </p>
@@ -203,7 +204,7 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">One-Page Strategy</h4>
+                  <h3 class="title">One-Page Strategy</h3>
                   <p class="description">
                   Our design approach focused on a one-page strategy, minimizing navigations for a more user-friendly experience.
                   </p>
@@ -215,7 +216,7 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Efficient Order Placement</h4>
+                  <h3 class="title">Efficient Order Placement</h3>
                   <p class="description">
                   Users could easily examine and interact with portfolio and symbol information before placing orders.
                   </p>
@@ -227,7 +228,7 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Cutting-edge HTML5 Technologies</h4>
+                  <h3 class="title">Cutting-edge HTML5 Technologies</h3>
                   <p class="description">
                   Post adopting the Pre-Auth feature in T1 hospitals, the daily request surged by an impressive 400%.
                   </p>
@@ -239,7 +240,7 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Consistent Multi-Device Experience</h4>
+                  <h3 class="title">Consistent Multi-Device Experience</h3>
                   <p class="description">
                   The unified design allowed users to have a smooth and reliable trading experience across web and mobile platforms, making it easier to manage portfolios and place trades from any device.
                   </p>
@@ -253,7 +254,7 @@
         </div>
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
-          <h4 class="project-section-title">Dark UI Option </h4>
+          <h3 class="project-section-title">Dark UI Option </h3>
           <p class="project-body-text">Recognizing users' reliance on digital devices, a dark mode option was added to reduce eye strain.</p>
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-mobile-ui.jpg" alt="geogit-mobile-ui" />
