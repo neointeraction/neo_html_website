@@ -15,7 +15,7 @@
     <link rel="canonical" href="<?php echo $base_url; ?>blog" >
     <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design" >
     <meta property="og:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-home-og.webp" >
     <meta property="og:image:width" content="1200" >
     <meta property="og:image:height" content="630" >
     <meta property="og:url" content="<?php echo $base_url; ?>blog" >
@@ -24,9 +24,9 @@
     <meta name="google-site-verification" content="" >
     <meta name="twitter:card" content="summary_large_image" >
     <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" >
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-home-og.webp" >
     <meta name="twitter:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg" >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-home-og.webp" >
 </head>
 
 <body>

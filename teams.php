@@ -12,7 +12,7 @@
     <link rel="canonical" href="https://www.neointeraction.com/blog" >
     <meta property="og:title" content="UX Design Team -Enhance User Experience |  Neointeraction Design" >
     <meta property="og:description" content="India's leading UI/UX design company reveals their process for creating digital products with delightful CX and measurable business impact." >
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-team-og.webp" >
     <meta property="og:image:width" content="1200" >
     <meta property="og:image:height" content="630" >
     <meta property="og:url" content="" >
@@ -22,7 +22,7 @@
     <meta name="twitter:card" content="summary_large_image" >
     <meta name="twitter:title" content="UX Design Team -Enhance User Experience |  Neointeraction Design" >
     <meta name="twitter:description" content="India's leading UI/UX design company reveals their process for creating digital products with delightful CX and measurable business impact." >
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-team-og.webp" >
 </head>
 
 <body>

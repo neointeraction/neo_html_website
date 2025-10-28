@@ -13,7 +13,7 @@
     <meta property="og:title" content="Top UI UX Designer Developer in India | Expert UI UX Services">
     <meta property="og:description"
         content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise.">
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg">
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-about-us-og.webp">
     <meta property="og:image:width" content="600">
     <meta property="og:image:height" content="315">
     <meta property="og:url" content="https://www.neointeraction.com/about-us">
@@ -24,7 +24,7 @@
     <meta name="twitter:title" content="Top UI UX Designer Developer in India | Expert UI UX Services">
     <meta name="twitter:description"
         content="Discover Neointeraction Design – a leading UI UX design company in India, building user-friendly digital experiences through innovation, research, and expertise.">
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-home-ux-research-brand.jpeg">
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-about-us-og.webp">
 </head>
 
 <body>
@@ -86,7 +86,7 @@
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Demo Video</h2>
+            <h2 class="section-title">Get to know us and what we do /Showcase Reel</h2>
             <div class="video-container section-margin">
 
                     <iframe height="650" src="https://www.youtube-nocookie.com/embed/S-gxMxp6tDU?si=ttdaZa1uTlcsq5z_"

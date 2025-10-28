@@ -131,7 +131,7 @@
                                         alt="<?php echo htmlspecialchars($metadata['alt']); ?>"
                                         onerror="this.src='assets/images/temp/blog.png'">
                                 <div class="card-body">
-                                    <h5 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h5>
+                                    <h2 class="blog-card-title"><?php echo htmlspecialchars($metadata['title']); ?></h2>
                                     <p class="blog-card-text">
                                         <small class="text-muted"><?php echo htmlspecialchars($metadata['author']); ?> • <?php echo htmlspecialchars($metadata['date']); ?></small>
                                     </p>

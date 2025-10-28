@@ -19,7 +19,21 @@ include_once 'includes/tracking-functions.php';
     <title>Contact Neointeraction Design | Design Systems & Digital Products in India</title>
     <meta name="description" content="Discover the best digital products in India, including software, apps, and online services, designed to enhance your digital lifestyle and business efficiency.">
     <meta name="keywords" content="contact, support, inquiry, neointeraction" />
-
+    <link rel="canonical" href="<?php echo $base_url; ?>" >
+    <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design" >
+    <meta property="og:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-home-og.webp" >
+    <meta property="og:image:width" content="1200" >
+    <meta property="og:image:height" content="630" >
+    <meta property="og:url" content="<?php echo $base_url; ?>" >
+    <meta property="og:site_name" content="Neointeraction Design" >
+    <meta property="og:type" content="website" >
+    <meta name="google-site-verification" content="" >
+    <meta name="twitter:card" content="summary_large_image" >
+    <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-contact-us-og.webp" >
+    <meta name="twitter:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-contact-us-og.webp" >
 </head>
 
 <body>

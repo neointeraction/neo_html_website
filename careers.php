@@ -15,7 +15,7 @@
     <meta property="og:title" content="Join our Design and Technology team |  Neointeraction Design" />
     <meta property="og:description"
         content="Build a design and technology career with Neointeraction Design team. Join as UX Designer,  UI Designer, Frontent developer, Intern to be a part of a global team" />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-careers-og.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="https://www.neointeraction.com/blog" />
@@ -27,7 +27,7 @@
     <meta name="twitter:description"
         content="Build a design and technology career with Neointeraction Design team. Join as UX Designer,  UI Designer, Frontent developer, Intern to be a part of a global team" />
     <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/og/neo-team-join-our-team-benefits.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/neointeraction-careers-og.webp" />
 </head>
 
 <body>
@@ -151,7 +151,7 @@ HTML;
                             <div class="icon-container">
                                 <img src="<?php echo $path; ?>assets/images/get-mentorship.svg" alt="UX mentorship icon" />
                             </div>
-                            <h4 class="title">Get mentorship</h4>
+                            <h3 class="title">Get mentorship</h3>
                             <p class="description">
                                 Real user insights to understand needs and pain points.
                             </p>
@@ -169,7 +169,7 @@ HTML;
                                 <img src="<?php echo $path; ?>assets/images/cross-functional.svg"
                                     alt="Cross functional team icon" />
                             </div>
-                            <h4 class="title">Cross functional team</h4>
+                            <h3 class="title">Cross functional team</h3>
                             <p class="description">
                                 Analyze interactions for actionable insights.
                             </p>
@@ -186,7 +186,7 @@ HTML;
                                 <img src="<?php echo $path; ?>assets/images/functional-design.svg"
                                     alt="Functional UX design icon" />
                             </div>
-                            <h4 class="title">Functional design </h4>
+                            <h3 class="title">Functional design </h3>
                             <p class="description">
                                 Enhancing aesthetics and usability.
                             </p>
@@ -203,7 +203,7 @@ HTML;
                                 <img src="<?php echo $path; ?>assets/images/ignite-potential.svg"
                                     alt="Design workshop icon" />
                             </div>
-                            <h4 class="title">Ignite your Potential</h4>
+                            <h3 class="title">Ignite your Potential</h3>
                             <p class="description">
                                 Gain Practical Insights in Transformative Workshops.
                             </p>

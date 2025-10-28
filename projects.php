@@ -14,7 +14,7 @@
     <meta property="og:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" />
     <meta property="og:description"
         content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-projects-og.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="https://www.neointeraction.com/" />
@@ -25,7 +25,7 @@
     <meta name="twitter:title" content="Neointeraction UX Designs & Front-End Development Blogs | Insights & Innovations" />
     <meta name="twitter:description"
         content="Seeking expert User Interface Design in India? Explore our skilled UI designers crafting captivating digital experiences and hire top talent for your next project." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-project-portfolio-brand.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-projects-og.webp" />
 </head>
 
 <body>

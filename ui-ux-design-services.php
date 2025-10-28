@@ -11,7 +11,7 @@
     <link rel="canonical" href="https://www.neointeraction.com/ui-ux-design-services" >
     <meta property="og:title" content="UI UX Design Services in India | UI UX Design Studio | Neointeraction Design" >
     <meta property="og:description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." >
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" >
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-services-og.webp" >
     <meta property="og:image:width" content="600" >
     <meta property="og:image:height" content="315" >
     <meta property="og:url" content="https://www.neointeraction.com/ui-ux-design-services" >
@@ -20,7 +20,7 @@
     <meta name="google-site-verification" content="" >
     <meta name="twitter:card" content="summary_large_image" >
     <meta name="twitter:title" content="UI UX Design Services in India | UI UX Design Studio | Neointeraction Design" >
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neo-services-showreel-brand.jpeg" >
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-services-og.webp" >
     <meta name="twitter:description" content="Explore our UI UX design services in India and front end development services. Hire us to build engaging digital products, design systems, and provide expert consultancy." >
 
 </head>
@@ -205,7 +205,7 @@
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img
                                         src="<?php echo $path; ?>assets/images/services/resource-augmentation.jpeg"
-                                        alt="Resource Augmentation"
+                                        alt="Team of designers and developers working together, representing resource augmentation services"
                                         class="img-fluid project-image"
                                         style="width:100%;height:auto;" />
                                 </div>
@@ -236,7 +236,7 @@
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img
                                         src="<?php echo $path; ?>assets/images/services/team-based-hiring.jpeg"
-                                        alt="Team-Based Hiring"
+                                        alt="Diverse team collaborating on a project, illustrating team-based hiring model"
                                         class="img-fluid project-image"
                                         style="width:100%;height:auto;" />
                                 </div>
@@ -269,9 +269,9 @@
         $title = 'Hire Designers/Front-end Engineers'; 
         $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers. ';
         $buttonName = 'Request a Quote';
-         $imageLink = "assets/images/about-us/hire-coder.webp";
-        $imageAlt = "Request a Quote";
-        include $path . 'components/hire-designers-engineers.php'; 
+        $imageLink = "assets/images/about-us/hire-coder.webp";
+        $imageAlt = "Hire UI UX Designers and Front-end Engineers";
+        include $path . 'components/hire-designers-engineers.php';
     ?>
     <!-- hire designer  end  -->
     <!-- dev-cycle  -->
@@ -285,7 +285,7 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="dev-cycle-block">
-                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
+                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="User Research icon" class="dcb-icon" />
                             <h3 class="dcb-title">UX Design</h3>
                             <ul class="dcb-list">
                                 <li>User Research</li>
@@ -299,7 +299,7 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="dev-cycle-block">
-                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
+                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="UI Design icon" class="dcb-icon" />
                             <h3 class="dcb-title">UI Design</h3>
                             <ul class="dcb-list">
                                 <li>Design Systems</li>
@@ -311,7 +311,7 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="dev-cycle-block">
-                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="tick-circle" class="dcb-icon" />
+                            <img src="<?php echo $path; ?>assets/images/tick-circle.svg" alt="UI Development icon" class="dcb-icon" />
                             <h3 class="dcb-title">UI Development</h3>
                             <ul class="dcb-list">
                                 <li>Micro Frontend Architecture</li>
@@ -323,7 +323,7 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="dev-cycle-block disabled">
-                            <img src="<?php echo $path; ?>assets/images/close-circle.svg" alt="close-circle" class="dcb-icon" />
+                            <img src="<?php echo $path; ?>assets/images/close-circle.svg" alt="Backend & Integration icon" class="dcb-icon" />
                             <h3 class="dcb-title">Backend & Integration</h3>
                             <ul class="dcb-list">
                                 <li>DB Design</li>
@@ -346,14 +346,14 @@
                 <div class="row">
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="Online Banking icon" />
                             <h3 class="wwd-title">Online Banking</h3>
                             <p class="wwd-text">Revolutionizing financial interactions with intuitive interfaces and secure transactions.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="cm" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/cm.svg" alt="Capital Market icon" />
                             <h3 class="wwd-title">Capital Market</h3>
                             <p class="wwd-text">Empowering investors with data-driven insights and intuitive trading platforms.</p>
                         </div>
@@ -361,42 +361,42 @@
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="healthcare" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="Healthcare icon" />
                             <h3 class="wwd-title">Healthcare</h3>
                             <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="iot" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="IoT icon" />
                             <h3 class="wwd-title">IoT</h3>
                             <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="th" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/th.svg" alt="Travel and Hospitality icon" />
                             <h3 class="wwd-title">Travel and Hospitality</h3>
                             <p class="wwd-text">Crafting memorable customer digital journeys, from booking to exploration, for unforgettable experiences.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="Enterprise Solutions icon" />
                             <h3 class="wwd-title">Enterprise Solutions</h3>
                             <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="ob" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/ob.svg" alt="Startup Ventures icon" />
                             <h3 class="wwd-title">Startup Ventures</h3>
                             <p class="wwd-text">Driving digital innovation with agile solutions that disrupt markets and fuel rapid growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="es" />
+                            <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="B2C icon" />
                             <h3 class="wwd-title">B2C</h3>
                             <p class="wwd-text">Enhancing consumer experiences with engaging and intuitive digital platforms</p>
                         </div>
