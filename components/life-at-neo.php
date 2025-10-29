@@ -3,11 +3,22 @@
         <div class="col-12">
             <div class="project-card d-lg-flex">
                 <div class="col-lg-6 p-0 project-image-container">
-                    <img
+                    <!-- <img
                         src="assets/images/life-at-neo/creative-atmosphere.webp"
                         srcset="assets/images/life-at-neo/creative-atmosphere-mobile.webp 480w, assets/images/life-at-neo/creative-atmosphere.webp 1040w"
+                        sizes="(max-width: 768px) 100vw, 1040px"
                         alt="Creative Atmosphere"
-                        class="img-fluid project-image" />
+                        class="img-fluid project-image" /> -->
+                    <img
+                        src="assets/images/life-at-neo/creative-atmosphere.webp"
+                        alt="Creative Atmosphere"
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/creative-atmosphere-mobile.webp"
+                        alt="Creative Atmosphere"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
@@ -27,9 +38,14 @@
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
                         src="assets/images/life-at-neo/design-collaborations.webp"
-                        srcset="assets/images/life-at-neo/design-collaborations-mobile.webp 480w, assets/images/life-at-neo/design-collaborations.webp 1040w"
                         alt="Design Collaborations"
-                        class="img-fluid project-image" />
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/design-collaborations-mobile.webp"
+                        alt="Design Collaborations"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
@@ -49,9 +65,14 @@
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
                         src="assets/images/life-at-neo/continuous-learning.webp"
-                        srcset="assets/images/life-at-neo/continuous-learning-mobile.webp 480w, assets/images/life-at-neo/continuous-learning.webp 1040w"
                         alt="Continuous Learning"
-                        class="img-fluid project-image" />
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/continuous-learning-mobile.webp"
+                        alt="Continuous Learning"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
@@ -71,9 +92,14 @@
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
                         src="assets/images/life-at-neo/design-leadership-development.webp"
-                        srcset="assets/images/life-at-neo/design-leadership-development-mobile.webp 480w, assets/images/life-at-neo/design-leadership-development.webp 1040w"
                         alt="Design Leadership Development"
-                        class="img-fluid project-image" />
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/design-leadership-development-mobile.webp"
+                        alt="Design Leadership Development"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
@@ -93,10 +119,14 @@
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
                         src="assets/images/life-at-neo/team-gatherings.webp"
-                        srcset="assets/images/life-at-neo/team-gatherings-mobile.webp 480w, assets/images/life-at-neo/team-gatherings.webp 1040w"
                         alt="Team Gatherings"
-                        class="img-fluid project-image" />
-                        
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/team-gatherings-mobile.webp"
+                        alt="Team Gatherings"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
@@ -116,9 +146,14 @@
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
                         src="assets/images/life-at-neo/recognition-and-celebrations.webp"
-                        srcset="assets/images/life-at-neo/recognition-and-celebrations-mobile.webp 480w, assets/images/life-at-neo/recognition-and-celebrations.webp 1040w"
                         alt="Recognition and Celebrations"
-                        class="img-fluid project-image" />
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/recognition-and-celebrations-mobile.webp"
+                        alt="Recognition and Celebrations"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
@@ -138,9 +173,14 @@
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
                         src="assets/images/life-at-neo/workshop-sessions.webp"
-                        srcset="assets/images/life-at-neo/workshop-sessions-mobile.webp 480w, assets/images/life-at-neo/workshop-sessions.webp 1040w"
                         alt="Workshop Sessions"
-                        class="img-fluid project-image" />
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/workshop-sessions-mobile.webp"
+                        alt="Workshop Sessions"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
@@ -160,9 +200,14 @@
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
                         src="assets/images/life-at-neo/hybrid-collaboration.webp"
-                        srcset="assets/images/life-at-neo/hybrid-collaboration-mobile.webp 480w, assets/images/life-at-neo/hybrid-collaboration.webp 1040w"
                         alt="Hybrid Collaboration"
-                        class="img-fluid project-image" />
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/hybrid-collaboration-mobile.webp"
+                        alt="Hybrid Collaboration"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
@@ -182,9 +227,14 @@
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
                         src="assets/images/life-at-neo/fun-friday.webp"
-                        srcset="assets/images/life-at-neo/fun-friday-mobile.webp 480w, assets/images/life-at-neo/fun-friday.webp 1040w"
                         alt="Fun Friday"
-                        class="img-fluid project-image" />
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/fun-friday-mobile.webp"
+                        alt="Fun Friday"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
@@ -204,9 +254,14 @@
                 <div class="col-lg-6 p-0 project-image-container">
                     <img
                         src="assets/images/life-at-neo/team-trip.webp"
-                        srcset="assets/images/life-at-neo/team-trip.-mobile.webp 480w, assets/images/life-at-neo/team-trip..webp 1040w"
                         alt="Team Trip group Picture"
-                        class="img-fluid project-image" />
+                        loading="lazy"
+                        class="img-fluid project-image d-none d-md-block" />
+                    <img
+                        src="assets/images/life-at-neo/team-trip-mobile.webp"
+                        alt="Team Trip group Picture"
+                        loading="lazy"
+                        class="img-fluid project-image d-block d-md-none" />
                 </div>
                 <div
                     class="col-lg-6 d-flex flex-column  project-content">
