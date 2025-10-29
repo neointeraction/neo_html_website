@@ -238,6 +238,7 @@ document.addEventListener('DOMContentLoaded', function() {
             document.getElementById("download-casestudy-form-title").style.display = "block";
             document.querySelector(".modal-contact").style.backgroundColor = ""; // Reset background
             // Ensure the backdrop is removed by Bootstrap
+            document.body.style.overflow = '';
             document.body.classList.remove('modal-open');
             document.querySelectorAll('.modal-backdrop').forEach(backdrop => backdrop.remove());
             
