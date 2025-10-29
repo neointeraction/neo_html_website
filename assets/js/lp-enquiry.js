@@ -62,11 +62,11 @@ function submitLPForm() {
     }
 
     // Requirement validation - check if empty
-    if (!requirement) {
-        requirementInput.classList.add("is-invalid");
-        requirementError.textContent = "Please describe your project details";
-        hasErrors = true;
-    }
+    // if (!requirement) {
+    //     requirementInput.classList.add("is-invalid");
+    //     requirementError.textContent = "Please describe your project details";
+    //     hasErrors = true;
+    // }
     
 
     if (hasErrors) {

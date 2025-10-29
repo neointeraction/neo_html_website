@@ -77,7 +77,7 @@ include_once 'includes/tracking-functions.php';
                 <div class="row g-0">
                     <!-- Left Side -->
                     <div class="col-lg-6">
-                        <div class="contact-left">
+                        <div class="contact-left d-none d-md-block">
                             <h1 class="banner-title">
                                 Transform Your  <br> <span class="highlight">Web & Mobile App Design Experience</span>
                             </h1>
@@ -97,14 +97,14 @@ include_once 'includes/tracking-functions.php';
 
                             <form id="contactForm">
                                 <div class="form-group">
-                                    <label for="lp_name" class="form-label">Name</label>
+                                    <label for="lp_name" class="form-label">Name*</label>
                                     <input type="text" id="lp_name" name="lp_name" class="form-control custom-input"
                                         placeholder="Enter name" required>
                                     <div id="lp_name-error" class="text-danger" aria-live="polite"></div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="lp_work_email" class="form-label">Work email</label>
+                                    <label for="lp_work_email" class="form-label">Work email*</label>
                                     <input type="email" id="lp_work_email" name="lp_work_email"
                                         class="form-control custom-input" placeholder="Enter work email"
                                         pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
@@ -112,7 +112,7 @@ include_once 'includes/tracking-functions.php';
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="lp_mobile_number" class="form-label">Mobile Number</label>
+                                    <label for="lp_mobile_number" class="form-label">Mobile Number*</label>
                                     <input type="tel" id="lp_mobile_number" name="lp_mobile_number"
                                         class="form-control custom-input" placeholder="Enter mobile number (e.g. +91 98765 43210)"
                                         pattern="^\+?[0-9]{10,15}$" required
@@ -121,10 +121,10 @@ include_once 'includes/tracking-functions.php';
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="lp_designation" class="form-label">Which service would you like to
-                                        request?*</label>
-                                    <input id="lp_designation" name="lp_designation" class="form-control custom-input"
-                                        placeholder="Enter your service request here" required>
+                                    <label for="lp_designation" class="form-label">Type your requirement</label>
+                                    <textarea id="lp_designation" name="lp_designation" class="form-control custom-input"
+                                            placeholder="Describe your project needs—for example, a UX design, UI development, or or UX audit"
+                                            rows="2" maxlength="200" ></textarea>
                                     <div id="lp_designation-error" class="text-danger" aria-live="polite"></div>
                                 </div>
                                 <div id="lp_contact-status"></div>
@@ -400,16 +400,6 @@ include_once 'includes/tracking-functions.php';
     <?php include 'includes/tracking-script.php'; ?>
     </script>
     <script>
-    document.getElementById("lp_designation").addEventListener("input", function() {
-        if (this.value.trim().length > 0 && /^\S+$/.test(this.value)) {
-            document.getElementById("lp_designation").classList.remove("is-invalid");
-            document.getElementById("lp_designation-error").innerHTML = "";
-        } else {
-            document.getElementById("lp_designation").classList.add("is-invalid");
-            document.getElementById("lp_designation-error").innerHTML = "Please describe your project needs";
-        }
-    });
-
 
     document.getElementById("lp_name").addEventListener("input", function() {
         if (this.value.trim().length > 0 && /^\S+$/.test(this.value)) {
