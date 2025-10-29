@@ -78,13 +78,11 @@ include_once 'includes/tracking-functions.php';
                         <div class="contact-left">
                             <h1 class="banner-title">
 
-                                User-centric<br> Edtech Design <span class="highlight">Services in India</span>
+                                User-centric<br> Edtech Design <span class="highlight">Services</span>
                             </h1>
 
                             <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">We craft user-centric Edtech design solutions that make
-                                    learning engaging and intuitive. From UX/UI design to product strategy, we help
-                                    educational platforms deliver impactful digital experiences</p>
+                                <p class="banner-subtext">We craft EdTech design solutions that make learning engaging and intuitive. From UX/UI design to product strategy, we help educational platforms deliver impactful digital experiences.</p>
 
                             </div>
                         </div>
@@ -141,9 +139,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
 
                     <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">We craft user-centric Edtech design solutions that make learning
-                            engaging and intuitive. From UX/UI design to product strategy, we help educational platforms
-                            deliver impactful digital experiences</p>
+                        <p class="banner-subtext">We craft EdTech design solutions that make learning engaging and intuitive. From UX/UI design to product strategy, we help educational platforms deliver impactful digital experiences.</p>
 
                     </div>
                 </div>
@@ -177,67 +173,52 @@ include_once 'includes/tracking-functions.php';
 
     <section class="industry-experience section-padding">
         <div class="container">
-            <h2 class="section-title">Why Choose Us for Your Edtech Product?</h2>
-            <p class="body-text">At Neointeraction Design, we understand that your SaaS app or digital product is the
-                cornerstone of your business. That's why we're committed to delivering the best product design services
-                in India that not only meet but exceed your expectations. Here's why you should choose us to design your
-                product:</p>
+            <h2 class="section-title">Why Choose Us for Your EdTech Product?</h2>
+            <p class="body-text">As a leading UX agency in India, Neointeraction Design specializes in delivering expert product design and front-end development services tailored for students, educational institutions, and AI-assisted learning tools. Guided by proven UX design methodologies, we create intuitive, engaging, and scalable digital learning environments that enhance comprehension and retention.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/engineering.svg" alt="Edtech design-based solution icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Design-based solutions</h3>
-                            <p class="wwd-text">We're reshaping the landscape of education technology by integrating
-                                innovative design approaches that enhance user experiences and drive meaningful learning
-                                outcomes.</p>
+                            <p class="wwd-text">We revolutionize education technology through innovative design approaches that improve user experiences and drive meaningful learning outcomes.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/pointer.svg" alt="Digital learning immersion icon" width="40px" height="40px" />
-                            <h3 class="wwd-title">Enabling a complete digital immersion</h3>
-                            <p class="wwd-text">Our immersive digital solutions create an engaging learning environment
-                                where students can fully immerse themselves in interactive educational experiences,
-                                fostering deeper understanding and retention</p>
+                            <h3 class="wwd-title">Complete Digital Immersion</h3>
+                            <p class="wwd-text">Our immersive designs provide students with interactive educational environments that foster deeper understanding and active engagement.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/a11y.svg" alt="Accessibility and usability icon" width="40px" height="40px" />
-                            <h3 class="wwd-title">Increasing accessibility and usability</h3>
-                            <p class="wwd-text">We prioritize accessibility and usability in our designs to ensure that
-                                learners of all abilities can easily navigate and engage with educational content,
-                                promoting inclusivity and equal opportunities for learning</p>
+                            <h3 class="wwd-title">Accessibility and Usability</h3>
+                            <p class="wwd-text">We prioritize inclusive, accessible design so learners of all abilities can navigate and interact effortlessly, ensuring equal learning opportunities.</p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/graduate.svg" alt="Classroom simulation icon" width="40px" height="40px" />
-                            <h3 class="wwd-title">Designing an engaging simulation of a classroom</h3>
-                            <p class="wwd-text">Through captivating design elements and interactive features, we
-                                simulate the classroom experience in a digital environment, fostering collaboration,
-                                communication, and active learning among students</p>
+                            <h3 class="wwd-title">Simulated Classroom Experience</h3>
+                            <p class="wwd-text">Through interactive features and captivating design, we digitally recreate the classroom atmosphere to encourage collaboration, communication, and active learning.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/atom.svg" alt="Inclusive education access icon" width="40px" height="40px" />
-                            <h3 class="wwd-title">Democratizing education</h3>
-                            <p class="wwd-text">Our goal is to make quality education accessible to all, regardless of
-                                geographical location or socioeconomic status, by leveraging technology to break down
-                                barriers and expand access to learning resources</p>
+                            <h3 class="wwd-title">Democratizing Education</h3>
+                            <p class="wwd-text">By leveraging technology, we break down barriers based on geography and socioeconomic status to make quality education accessible to all.</p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Impactful edtech solutions icon"  width="40px" height="40px"/>
-                            <h3 class="wwd-title">Impactful solutions provided to our clients</h3>
-                            <p class="wwd-text">We deliver tangible results by providing our clients with actionable
-                                insights and innovative solutions that align with their goals, driving measurable
-                                improvements in student engagement, satisfaction, and academic performance.</p>
+                            <h3 class="wwd-title">Impactful Solutions</h3>
+                            <p class="wwd-text">Our client-focused approach delivers actionable insights and innovative solutions that align with educational goals—boosting student engagement, satisfaction, and academic performance. By partnering with our skilled UX designers, you gain a team dedicated to transforming your EdTech product into a market-leading digital solution that empowers both learners and educators.</p>
                         </div>
                     </div>
 
@@ -303,7 +284,7 @@ include_once 'includes/tracking-functions.php';
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Our UX Design Process</h2>
+            <h2 class="section-title">Our Design Process</h2>
             <div class="video-container section-margin">
 
                 <iframe width="100%" height="650" src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR"
@@ -313,9 +294,14 @@ include_once 'includes/tracking-functions.php';
             </div>
         </div>
     </section>
-
-
-    <?php include $path.'components/hire-designers-engineers.php'; ?>
+        <?php 
+        $title = 'Start Your Consultation with Our UX Experts'; 
+        $desc = 'Partner with Neointeraction Design to elevate your digital experience. Our UX-driven team helps you uncover user pain points, refine edtech product design, and craft seamless journeys that attract users and accelerate business growth.';
+        $buttonName = 'Book a UX Consultation';
+        $imageLink = "assets/images/about-us/hire-ui.webp";
+        $imageAlt = "Book a UX Consultation";
+        include $path . 'components/hire-designers-engineers.php'; 
+    ?>
     <!-- testimonials  -->
     <?php $faq_tag = 'edutech'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->
