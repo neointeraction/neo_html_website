@@ -344,7 +344,7 @@ include_once 'includes/tracking-functions.php';
     </section>
 
     <?php include $path . 'components/industry-experience.php'; ?>
-
+    <div class="container">
     <?php 
         $title = 'Start Your Consultation with Our UX Experts'; 
         $desc = 'Partner with Neointeraction Design to elevate your digital experience. Our UX-driven team helps you uncover user pain points, refine product design, and craft seamless journeys that attract users and accelerate business growth.';
@@ -353,6 +353,7 @@ include_once 'includes/tracking-functions.php';
         $imageAlt = "Book a UX Consultation";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
+    </div>
     <!-- testimonials  -->
     <?php $faq_tag = 'uae'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->

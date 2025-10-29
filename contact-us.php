@@ -53,12 +53,12 @@ include_once 'includes/tracking-functions.php';
                 <div class="row g-0">
                     <!-- Left Side -->
                     <div class="col-lg-6">
-                        <div class="contact-left">
+                        <div class="contact-left d-none d-md-block">
                             <h1 class="banner-title">
                                 Share Your <span class="highlight">Enquiry</span>
                             </h1>
 
-                            <div class="contact-info d-none d-md-block">
+                            <div class="contact-info">
                                 <div class="ci-item">
                                      <p>Submit your inquiry — our team will get in touch with you shortly.</p> 
                                   </div>
@@ -87,7 +87,7 @@ include_once 'includes/tracking-functions.php';
 
                             <form id="contactForm">
                                 <div class="form-group">
-                                    <label for="name" class="form-label">Name</label>
+                                    <label for="name" class="form-label">Name*</label>
                                     <input
                                         type="text"
                                         id="name"
@@ -99,7 +99,7 @@ include_once 'includes/tracking-functions.php';
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="work_email" class="form-label">Work email</label>
+                                    <label for="work_email" class="form-label">Work email*</label>
                                     <input
                                         type="email"
                                         id="work_email"
@@ -112,7 +112,7 @@ include_once 'includes/tracking-functions.php';
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="mobile_number" class="form-label">Mobile Number</label>
+                                    <label for="mobile_number" class="form-label">Mobile Number*</label>
                                     <input
                                         type="tel"
                                         id="mobile_number"
@@ -180,7 +180,7 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/footer-additional-scripts.php'; ?>
     <?php include $path.'includes/js.php'; ?>
     <script src="<?php echo $path; ?>assets/js/contact-us.js" defer></script>
-    <?php include 'includes/tracking-script.php'; ?>
+    <script><?php include 'includes/tracking-script.php'; ?></script>
    <script>
 
     let nameInput = document.getElementById('name');
