@@ -88,11 +88,11 @@
         <div class="container">
             <h2 class="section-title">Get to know us and what we do</h2>
             <div class="video-container section-margin">
-
-                    <iframe height="650" src="https://www.youtube-nocookie.com/embed/S-gxMxp6tDU?si=ttdaZa1uTlcsq5z_"
+                <!-- <iframe height="650" src="https://www.youtube-nocookie.com/embed/S-gxMxp6tDU?si=ttdaZa1uTlcsq5z_"
                     title="YouTube video player"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy" style="width:100%;border:0;border-radius: 0;"></iframe>
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen  loading="lazy" style="width:100%;border:0;border-radius: 0;"></iframe> -->
+                <div class="youtube-lazy-load" data-id="S-gxMxp6tDU?si=ttdaZa1uTlcsq5z_"></div>
             </div>
         </div>
     </section>
@@ -293,6 +293,73 @@
     <?php include $path . 'includes/footer-additional-scripts.php'; ?>
     <?php include $path . 'includes/js.php'; ?>
     <?php include $path . 'components/registration-modal.php'; ?>
+    
+    <style>
+    .youtube-lazy-load {
+        position: relative;
+        cursor: pointer;
+        width: 100%;
+        /* Aspect ratio 16:9 */
+        padding-bottom: 56.25%;
+        background-image: url(./assets/images/youtube/enterprise-product-design.webp) !important;
+        background-size: cover;
+        background-position: center;
+    }
+
+    /* Simple play button using pseudo-elements */
+    .youtube-lazy-load::after {
+        content: '';
+        position: absolute;
+        background-image: url(./assets/images/youtube/play-button.webp) !important;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 60px;
+        color: white;
+        text-align: center;
+        transition: background 0.2s ease;
+    }
+
+    .youtube-lazy-load:hover::after {
+        background: #ff0000;
+    }
+
+    @media (max-width: 768px) {
+            .youtube-lazy-load {
+                background-image: url(./assets/images/youtube/enterprise-product-design-mobile.webp) !important;
+            }
+            .youtube-lazy-load::after {
+                background-image: url(./assets/images/youtube/play-button-mobile.webp) !important;
+            }
+    }
+
+    </style>
+    <script>
+
+            document.addEventListener("DOMContentLoaded", function() {
+            var lazyVideos = [].slice.call(document.querySelectorAll(".youtube-lazy-load"));
+
+            lazyVideos.forEach(function(video) {
+                // Set the thumbnail image from YouTube
+                var videoId = video.getAttribute("data-id");
+                video.style.backgroundImage = 'url(https://i.ytimg.com/vi/' + videoId + '/hqdefault.jpg)';
+
+                // Add a click event listener
+                video.addEventListener("click", function() {
+                var iframe = document.createElement("iframe");
+                iframe.setAttribute("frameborder", "0");
+                iframe.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture");
+                iframe.setAttribute("allowfullscreen", "");
+                // Add autoplay=1 to start playing immediately on click
+                iframe.setAttribute("src", "https://www.youtube.com/embed/" + videoId + "?rel=0&showinfo=0&autoplay=1&rel=0");
+
+                // Replace the div with the iframe
+                this.parentNode.replaceChild(iframe, this);
+                });
+            });
+            });
+
+    </script>
 </body>
 
 </html>

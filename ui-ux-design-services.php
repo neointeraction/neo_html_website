@@ -257,6 +257,7 @@
     </section>
     <!-- engagement-modal end -->
     <!-- hire designer  -->
+    <div class="container">
     <?php 
         $title = 'Hire Designers/Front-end Engineers'; 
         $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers. ';
@@ -265,6 +266,7 @@
         $imageAlt = "Hire UI UX Designers and Front-end Engineers";
         include $path . 'components/hire-designers-engineers.php';
     ?>
+    </div>
     <!-- hire designer  end  -->
     <!-- dev-cycle  -->
     <section class="dev-cycle section-padding">

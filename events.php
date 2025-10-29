@@ -54,14 +54,14 @@
     <!-- upcoming-events  -->
     <section class="upcoming-events section-padding">
         <div class="container">
-            <h2 class="section-title padding-top-20">
+            <h2 class="section-title padding-top-20 mb-0 mb-md-4">
                 Upcoming Events
             </h2>
-            <div class="project-block section-margin">
+            <!-- <div class="project-block section-margin">
                 <div class="project-block-item">
                     <div class="row justify-content-center">
                         <div class="col-12">
-                            <!-- <div class="project-card d-lg-flex">
+                        <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img src="assets/images/events/UX-Audit-101.webp" alt="Project Image" class="img-fluid project-image" />
                                 </div>
@@ -84,11 +84,11 @@
                                         Register Now
                                     </button> 
                                 </div>
-                            </div> -->
+                            </div> 
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <?php 
         $title = 'Register for future events'; 
         $desc = 'Don’t miss out—register now before seats fill up. Early registrants get priority access and event updates.';
@@ -106,7 +106,7 @@
 
     <section class="engagement-modal section-padding">
         <div class="container">
-            <h2 class="section-title">
+            <h2 class="section-title padding-top-20">
                 Past Events
             </h2>
             <div class="engagement-modal-block section-margin">
@@ -115,12 +115,15 @@
                     <div class="row justify-content-center">
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
+                                <h2 class="project-title d-block d-md-none">
+                                        <?php echo $event['title']; ?>
+                                    </h2>
                                 <div class="col-lg-6 p-0 project-image-container">
                                     <img src="<?php echo $path; ?>assets/images/events/<?php echo $event['image']; ?>" alt="<?php echo $event['alt']; ?>"
                                         class="img-fluid project-image" style="width:100%;height:auto;" />
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content">
-                                    <h2 class="project-title">
+                                    <h2 class="project-title d-none d-md-block">
                                         <?php echo $event['title']; ?>
                                     </h2>
                                     <p class="project-description">
