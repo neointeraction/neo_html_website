@@ -282,9 +282,9 @@
 
 
     <?php 
-        $previous = "Startup Accelerator Website";
-        $previousLink = "/startup-accelerator-website.php";
-        $next = "Mobility Paltform for Crew Ship workforce management";
+        $previous = "Employee Transportation Platform";
+        $previousLink = "/employee-transportation-platform.php";
+        $next = "Mobility Platform for Crew Ship workforce management";
         $nextLink ="/crew-mobility-management-in-a-cruise.php";
         include $path . 'components/navigation-footer.php';
     ?>

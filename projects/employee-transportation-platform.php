@@ -259,10 +259,10 @@
  
 
   <?php 
-        $previous = "Digital Experience in Health & Wellness";
-        $previousLink = "/digital-health-wellness.php";
-        $next = "Startup Accelerator Website";
-        $nextLink ="/startup-accelerator-website.php";
+        $previous = "Startup Accelerator Website";
+        $previousLink = "/startup-accelerator-website.php";
+        $next = "Construction Management Platform";
+        $nextLink ="/construction-management-platform.php";
         include $path . 'components/navigation-footer.php';
     ?>
 

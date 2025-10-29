@@ -282,8 +282,8 @@
     <?php 
         $previous = "ESG Management Platform";
         $previousLink = "/esg-management-platform.php";
-        $next = "Employee Transportation Platform";
-        $nextLink ="/employee-transportation-platform.php";
+        $next = "Startup Accelerator Website";
+        $nextLink ="/startup-accelerator-website.php";
         include $path . 'components/navigation-footer.php';
     ?>
 

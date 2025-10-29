@@ -321,10 +321,10 @@
     </div>
 
     <?php 
-        $previous = "Employee Transportation Platform";
-        $previousLink = "/employee-transportation-platform.php";
-        $next = "Construction Management Platform";
-        $nextLink ="/construction-management-platform.php";
+        $previous = "Digital Experience in Health & Wellness";
+        $previousLink = "/digital-health-wellness.php";
+        $next = "Employee Transportation Platform";
+        $nextLink ="/employee-transportation-platform.php";
         include $path . 'components/navigation-footer.php';
     ?>
 
