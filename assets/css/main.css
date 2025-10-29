@@ -1737,9 +1737,11 @@ body {
 
 .navigation-footer > div > h4 {
   width: 340px;
-  white-space: nowrap;       /* keep text on one line */
-  overflow: hidden;          /* cut off extra text */
+  /* white-space: nowrap;       */
+  /* overflow: hidden;         */
   text-overflow: ellipsis; 
+  font-size: 1rem;
+  min-width: 100%;
 }
 
 .quote-icon-right {

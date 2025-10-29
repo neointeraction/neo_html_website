@@ -15,7 +15,7 @@ $filtered_clients = array_filter($clients_data, function($client) use ($tag) {
             <img src="<?php echo $path . $client['image']; ?>" alt="<?php echo $client['name']; ?>" width="<?php echo $client['width']; ?>" height="<?php echo $client['height']; ?>">
         </div>
     <?php } ?>
-    <?php if($tag != "edtech" && $tag != "healthcare") { ?>
+    <?php if($tag != "edtech" && $tag != "healthcare" && $tag != "uae") { ?>
     <?php foreach ($filtered_clients as $client) { ?>
         <div class="clf-item">
             <img src="<?php echo $path . $client['image']; ?>" alt="<?php echo $client['name']; ?>" width="<?php echo $client['width']; ?>" height="<?php echo $client['height']; ?>">

@@ -170,7 +170,7 @@ include_once 'includes/tracking-functions.php';
             <p class="body-text">We design experiences that put users first and brands ahead. Our proven approach blends creativity, strategy, and technology to deliver impact-driven results.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
-                    <div class="col-6 col-md-3 col-lg-3">
+                    <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/user-chat.svg"
                                 alt="User-focused design icon" width="40" height="40" />
@@ -180,7 +180,7 @@ include_once 'includes/tracking-functions.php';
                                 design process.</p>
                         </div>
                     </div>
-                    <div class="col-6 col-md-3 col-lg-3">
+                    <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/strategic-alignment.svg"
                                 alt="Business strategy alignment icon" width="40" height="40" />
@@ -190,7 +190,7 @@ include_once 'includes/tracking-functions.php';
                         </div>
 
                     </div>
-                    <div class="col-6 col-md-3 col-lg-3">
+                    <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg"
                                 alt="Experience and expertise icon" width="40" height="40" />
@@ -200,7 +200,7 @@ include_once 'includes/tracking-functions.php';
                                 of all sizes.</p>
                         </div>
                     </div>
-                    <div class="col-6 col-md-3 col-lg-3">
+                    <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/team-building.svg"
                                 alt="Team collaboration icon" width="40" height="40" />
@@ -209,7 +209,7 @@ include_once 'includes/tracking-functions.php';
                                 input is incorporated at every step to ensure alignment with your expectations.</p>
                         </div>
                     </div>
-                    <div class="col-6 col-md-3 col-lg-3">
+                    <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/bulb.svg"
                                 alt="Innovation and future-ready design icon" width="40" height="40" />
@@ -218,7 +218,7 @@ include_once 'includes/tracking-functions.php';
                                 are built to grow with your brand and respond to evolving digital trends.</p>
                         </div>
                     </div>
-                    <div class="col-6 col-md-3 col-lg-3">
+                    <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/target.svg"
                                 alt="Growth and performance icon" width="40" height="40" />

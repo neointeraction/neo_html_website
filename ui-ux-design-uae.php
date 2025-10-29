@@ -149,8 +149,15 @@ include_once 'includes/tracking-functions.php';
             <h2 class="section-title">
                 Middle East Clients we’ve partnered with
             </h2>
-            <div class="scroll-container section-margin">
+            <div class="scroll-container section-margin d-block d-md-none">
                 <div class="scrolling-logos">
+                    <?php 
+                        $client_tag = 'uae';
+                    include 'components/clients.php'; ?>
+                </div>
+            </div>
+            <div class="scroll-client-container section-margin d-none d-md-block">
+                <div class="d-flex flex-column flex-md-row scrolling-client-logos">
                     <?php 
                         $client_tag = 'uae';
                     include 'components/clients.php'; ?>
