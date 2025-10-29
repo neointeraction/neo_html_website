@@ -238,7 +238,7 @@
                     objectives. Remember that User research process is important for UX Audit because it allows to test
                     their assumptions about consumers in the field, reduce the cost of the best deliverables, and
                     maintain their products in high demand—ahead of their competitors. One such UX Audit was done for <a
-                        href="https://www.neointeraction.com/blogs/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"
+                        href="<?php echo $path; ?>blogs/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic"
                         target="_blank">Redesigning of LIC Website with Heuristics Valuations</a> .Do feel free to <a
                         href="https://www.neointeraction.com/contact-us" target="_blank">connect with us </a> for
                     flexible engagement models within our ux ui design servicesthat can be adjusted to fit your budget

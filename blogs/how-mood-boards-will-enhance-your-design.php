@@ -86,7 +86,7 @@
                         process.</li>
                     <li><b>Communicates ideas to others</b> - Mere words can’t explain a design idea to a client. To
                         help them visualize, you need a mood board. More information on how to improve client
-                        communication can be found <a href="https://www.neointeraction.com/blogs/effective-communication-with-clients-and-5-ways-to-improve-it" target="_blank">here</a>.</li>
+                        communication can be found <a href="<?php echo $path; ?>blogs/effective-communication-with-clients-and-5-ways-to-improve-it" target="_blank">here</a>.</li>
                     <li><b>Organizes the inspiration around a project</b> - One doesn’t put much thought when
                         brainstorming and collecting inspiration. Although, when it comes to presentation, the mood
                         board should be well organized and tell a cohesive story.</li>

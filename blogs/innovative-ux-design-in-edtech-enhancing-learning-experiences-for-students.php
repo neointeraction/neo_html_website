@@ -97,7 +97,7 @@
 
                 <p class="blog-body-text">
                     <b>b. Enhanced Accessibility</b><br />
-                    UX design principles guarantee the <a href="https://www.neointeraction.com/blogs/how-design-accessibility-is-important-to-boost-your-business" target="_blank">accessibility</a> design of educational tools to all students
+                    UX design principles guarantee the <a href="<?php echo $path; ?>blogs/how-design-accessibility-is-important-to-boost-your-business" target="_blank">accessibility</a> design of educational tools to all students
                     including the disabled. In this way, inclusivity is vital as it provides equal chances for learning.
 
                 </p>
@@ -221,25 +221,25 @@
 
                 <p class="blog-body-text">
                     <b>a. The Emergence of AI and Machine Learning</b><br />
-                    AI and <a href="https://neointeraction-design.medium.com/revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning-aa4eac855ffd" target="_blank">machine learning</a> are changing UX design in EdTech with a focus on creating personalized and adaptive learning experiences. Companies that provide <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX Design services in India</a> and other countries use these technologies to examine user data to enhance the delivery of content.
+                    AI and <a href="https://neointeraction-design.medium.com/revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning-aa4eac855ffd" target="_blank">machine learning</a> are changing UX design in EdTech with a focus on creating personalized and adaptive learning experiences. Companies that provide <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX Design services in India</a> and other countries use these technologies to examine user data to enhance the delivery of content.
                 </p>
 
                 <p class="blog-body-text">
                     <b>b. Virtual and Augmented Reality</b><br />
-                    <a href="https://www.neointeraction.com/blogs/pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design" target="_blank">VR and AR design</a> are creating fresh opportunities for engaging educational experiences. They can provide immersive and interactive settings that improve comprehension and memory of content.
+                    <a href="<?php echo $path; ?>blogs/pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design" target="_blank">VR and AR design</a> are creating fresh opportunities for engaging educational experiences. They can provide immersive and interactive settings that improve comprehension and memory of content.
 
                 </p>
 
                 <p class="blog-body-text">
                     <b>c. Data-Driven Design</b><br />
-                    Utilizing <a href="https://www.neointeraction.com/blogs/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" target="_blank">data analytics to guide UX design</a> choices guarantees that platforms evolve constantly by incorporating user behavior and feedback.
+                    Utilizing <a href="<?php echo $path; ?>blogs/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" target="_blank">data analytics to guide UX design</a> choices guarantees that platforms evolve constantly by incorporating user behavior and feedback.
                 </p>
 
 
                 <h4 class="blog-body-title">Conclusion</h4>
 
                 <p class="blog-body-text">
-                In conclusion, UX design is essential in EdTech for developing interactive, user-friendly, and efficient learning spaces. By focusing on user-centered design principles and incorporating new technologies, EdTech platforms can greatly improve student learning experiences. As the industry progresses, the emphasis on UX design will undeniably be significant in influencing the direction of education. Partnering with a <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX Design Company in India</a> such as Neointeraction Design guarantees that your product is skillfully developed to cater to the wide range of requirements of both students and educators. By utilizing our UI UX design service skills, you can create educational tools that are intuitive, engaging, and impactful in the competitive EdTech industry.
+                In conclusion, UX design is essential in EdTech for developing interactive, user-friendly, and efficient learning spaces. By focusing on user-centered design principles and incorporating new technologies, EdTech platforms can greatly improve student learning experiences. As the industry progresses, the emphasis on UX design will undeniably be significant in influencing the direction of education. Partnering with a <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX Design Company in India</a> such as Neointeraction Design guarantees that your product is skillfully developed to cater to the wide range of requirements of both students and educators. By utilizing our UI UX design service skills, you can create educational tools that are intuitive, engaging, and impactful in the competitive EdTech industry.
 
                 </p>
 

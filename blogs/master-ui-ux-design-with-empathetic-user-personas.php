@@ -78,7 +78,7 @@
                     In today's fast-paced digital world, delivering exceptional UX (User experience) is paramount for
                     product success. User personas play a key role in achieving this by fostering empathy and guiding
                     design decisions throughout the process. By continually referencing personas during ideation,
-                    <a href="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">prototyping</a>, and testing, product design agencies ensure that the end product resonates with the
+                    <a href="<?php echo $path; ?>blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">prototyping</a>, and testing, product design agencies ensure that the end product resonates with the
                     target audience. Embracing the power of user personas enhances the design process, resulting in
                     increased user satisfaction, engagement, and overall product success.
                 </p>
@@ -90,7 +90,7 @@
                     User personas are fictional or semi-fictional characters representing real users, crafted from a
                     blend of qualitative and quantitative research like surveys, analytics, interviews, and feedback.
                     These profiles describe users' goals, behaviors, motivations, frustrations, and preferences. By
-                    personifying users, <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">UI UX designers</a> gain empathy and insight, addressing their needs effectively.
+                    personifying users, <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">UI UX designers</a> gain empathy and insight, addressing their needs effectively.
                     User personas play a crucial role in UI UX design as they help designers understand and empathize
                     with their target audience, ultimately resulting in user centric and successful designs.
                 </p>
@@ -126,7 +126,7 @@
 
 
                 <p class="blog-body-text">
-                    <b>4. Comprehensive <a href="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">User Research</a> for Detailed Personas</b><br />
+                    <b>4. Comprehensive <a href="<?php echo $path; ?>blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">User Research</a> for Detailed Personas</b><br />
 
                     Conduct thorough research using surveys, feedback, analytics, interviews, and focus groups to create
                     detailed user personas. Include goals, motivators, pain points, and attitudes.
@@ -142,7 +142,7 @@
                 <p class="blog-body-text">
                     <b>6. Enriching Personas with Key Attributes and Details</b><br />
                     Emphasize essential attributes like age, job, and location, while adding distinct behaviors,
-                    interests, attitudes, and values to craft user personas that guide the <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">design process</a>.
+                    interests, attitudes, and values to craft user personas that guide the <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">design process</a>.
 
                 </p>
 
@@ -208,7 +208,7 @@
 
 
                 <p class="blog-body-text">
-                    By consistently integrating user personas into the <a href="https://www.neointeraction.com/blogs/what-is-ux-design-process-a-complete-actionable-guide" target="_blank">UI UX design process</a>, designers can create
+                    By consistently integrating user personas into the <a href="<?php echo $path; ?>blogs/what-is-ux-design-process-a-complete-actionable-guide" target="_blank">UI UX design process</a>, designers can create
                     products and services that genuinely resonate with users, ultimately leading to enhanced user
                     satisfaction and overall success.
                 </p>

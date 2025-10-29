@@ -62,7 +62,7 @@
 
                 <p class="blog-body-text">
                     In the ever-evolving realm of social media, <a href="https://x.com" target="_blank">Twitter</a> under the leadership of Elon Musk has boldly
-                    ventured into uncharted territory with the introduction of Twitter Blue - a <a href="https://www.neointeraction.com/blogs/how-to-build-customer-loyalty-in-the-subscription-economy" target="_blank">subscription service</a> 
+                    ventured into uncharted territory with the introduction of Twitter Blue - a <a href="<?php echo $path; ?>blogs/how-to-build-customer-loyalty-in-the-subscription-economy" target="_blank">subscription service</a> 
                     promising exclusive features and a premium user experience. This strategic shift signifies a
                     departure from the traditional advertising-based model, ushering in a new era of social media
                     monetization.
@@ -171,7 +171,7 @@
 
                 <p class="blog-body-text">
                     The introduction of Twitter Blue not only transforms Twitter's revenue model but also places user
-                    experience in the spotlight. To optimize the success of Twitter Blue, partnering with a  <a href="https://www.neointeraction.com/" target="_blank">design
+                    experience in the spotlight. To optimize the success of Twitter Blue, partnering with a  <a href="<?php echo $path; ?>" target="_blank">design
                    consultancy</a> is crucial. Here's how UI UX design can influence the success of Twitter Blue:
                 </p>
 
@@ -194,7 +194,7 @@
                 </p>
                 <p class="blog-body-text">
                     <b>A/B Testing Feature Prominence:</b><br />
-                    Use <a href="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success#:~:text=it%27s%20user%2Dfriendly.-,A/B%20testing,-%3A%20Comparing%20two%20different" target="_blank">A/B testing </a> to determine the optimal placement and prominence of buttons or icons for accessing
+                    Use <a href="<?php echo $path; ?>blogs/how-to-conduct-user-research-that-drives-ux-success#:~:text=it%27s%20user%2Dfriendly.-,A/B%20testing,-%3A%20Comparing%20two%20different" target="_blank">A/B testing </a> to determine the optimal placement and prominence of buttons or icons for accessing
                     exclusive features. This ensures users discover and utilize the features they're paying for.
                 </p>
                 <p class="blog-body-text">
@@ -255,7 +255,7 @@
 
                 <p class="blog-body-text">
                     As social media platforms explore new monetization strategies, UI UX design becomes increasingly
-                    critical.<a href="https://www.neointeraction.com/ui-ux-design-services#:~:text=detailing%20and%20standards.-,Hire%20Designers,-If%20your%20project" target="_blank">UI UX designers</a> must create a seamless, user-friendly experience that attracts and
+                    critical.<a href="<?php echo $path; ?>ui-ux-design-services#:~:text=detailing%20and%20standards.-,Hire%20Designers,-If%20your%20project" target="_blank">UI UX designers</a> must create a seamless, user-friendly experience that attracts and
                     convinces users of the value in premium features. By prioritizing user needs and iterating based on
                     feedback, designers can ensure the success of subscription-based models.
                 </p>
@@ -265,7 +265,7 @@
                     Twitter Blue exemplifies the intricate relationship between business strategy and user-centric
                     design, promising a dynamic future for social media monetization driven by innovation and user
                     satisfaction. Collaborating with design agencies experienced in data-driven design, like
-                    <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a>, can elevate the design process, guiding businesses towards a future where
+                    <a href="<?php echo $path; ?>" target="_blank">Neointeraction Design</a>, can elevate the design process, guiding businesses towards a future where
                     innovation and user satisfaction go hand in hand for lasting success.
                 </p>
 

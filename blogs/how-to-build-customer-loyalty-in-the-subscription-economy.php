@@ -10,7 +10,7 @@
     <meta name="description"
         content="Discover vital UX/UI strategies for long-term customer retention in the growing subscription economy." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/how-to-build-customer-loyalty-in-the-subscription-economy" />
+        href="https://www.neointeraction.com/blogs" />
     <meta property="og:title" content="How to build customer loyalty in the subscription economy?" />
     <meta property="og:description"
         content="
@@ -20,7 +20,7 @@ The rise of subscription-based services has brought forth the importance of user
     <meta property="og:image:width" content="587" />
     <meta property="og:image:height" content="330" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/how-to-build-customer-loyalty-in-the-subscription-economy" />
+        content="https://www.neointeraction.com/blogs/how-to-build-customer-loyalty-in-the-subscription-economy" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sebin George" />
@@ -104,7 +104,7 @@ The rise of subscription-based services has brought forth the importance of user
                 </p>
 
                 <p class="blog-body-text">
-                    <a href="https://www.neointeraction.com/online-tutoring-platform-90-tuition-app" target="_blank">90
+                    <a href="<?php echo $path; ?>projects/online-tutoring-platform" target="_blank">90
                         plus my tuition</a> app had a substantial increase in its user acquisition due to the revamped
                     design
                     and onboarding.
@@ -196,7 +196,7 @@ The rise of subscription-based services has brought forth the importance of user
                     others for recording the fastest time and maintains a leaderboard
 
                     You can read our blog on how gamification can encourage financial discipline <a
-                        href="https://www.neointeraction.com/blogs/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"
+                        href="<?php echo $path; ?>blogs/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"
                         target="_blank">here</a>.</p>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/gamification-ux-design-for-user-engagement.jpg" alt="gamification-ux-design-for-user-engagement" />
@@ -220,9 +220,9 @@ The rise of subscription-based services has brought forth the importance of user
                     strategic and user-centric approach. By embracing personalization, perfecting onboarding
                     experiences, and staying in sync with user feedback, UX designers play a pivotal role in creating
                     experiences that not only attract users initially but also encourages long-term engagement. As the
-                    subscription landscape evolves, <a href="https://www.neointeraction.com/"
+                    subscription landscape evolves, <a href="<?php echo $path; ?>"
                         target="_blank">here</a>Neointeraction Design expertise in crafting <a
-                        href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">here</a>digital
+                        href="<?php echo $path; ?>ui-ux-design-services" target="_blank">here</a>digital
                     experiences can help you navigate the ever-changing landscape of the subscription economy.
                 </p>
 

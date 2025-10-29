@@ -64,7 +64,7 @@
                 <p class="blog-body-text">
                     In today's fast-changing business world, being flexible and coming up with new ideas is essential to
                     survive. <a
-                        href="https://www.neointeraction.com/blogs/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design"
+                        href="<?php echo $path; ?>blogs/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design"
                         target="_blank">Design Thinking</a>, a popular method for business growth, focuses on
                     understanding people's
                     needs and working together creatively. When companies use these ideas, they can reach their full
@@ -127,7 +127,7 @@
                 </p>
                 <p class="blog-body-text">
                     <b>1. Enhanced Customer Experience:</b> By deeply <a
-                        href="https://www.neointeraction.com/blogs/effective-communication-with-clients-and-5-ways-to-improve-it"
+                        href="<?php echo $path; ?>blogs/effective-communication-with-clients-and-5-ways-to-improve-it"
                         target="_blank">understanding customers</a>, their needs, and pain
                     points, companies can create products and services that resonate with their target audience. This
                     leads to higher customer satisfaction and loyalty, ultimately driving growth.
@@ -169,7 +169,7 @@
                 <p class="blog-body-text">
                     <b>1. Empathy-Driven Solutions:</b><br /> Understanding Travelers & hosts : Airbnb understood the
                     desires of both travelers and hosts and <a
-                        href="https://www.neointeraction.com/blogs/master-ui-ux-design-with-empathetic-user-personas"
+                        href="<?php echo $path; ?>blogs/master-ui-ux-design-with-empathetic-user-personas"
                         target="_blank">empathized with the users</a>, focusing on unique and authentic experiences.
                 </p>
                 <div class="blog-banner-img">
@@ -200,7 +200,7 @@
                     that adopting a Design Thinking approach could be the key to progress. Neointeraction Design
                     provides a creative touch on your digital platforms and is a strategic investment in the principles
                     of Design Thinking. Our team is dedicated to providing top-notch <a
-                        href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">UI/UX design
+                        href="<?php echo $path; ?>ui-ux-design-services" target="_blank">UI/UX design
                         services</a> seamlessly integrated throughout the entire product design process, contributing to
                     business growth.
                 </p>

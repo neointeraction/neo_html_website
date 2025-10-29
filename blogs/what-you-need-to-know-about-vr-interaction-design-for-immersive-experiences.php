@@ -71,7 +71,7 @@
                     on the presence i.e. creating the sensation of being physically present in a non-physical world can
                     make or break the success of VR and AR applications. This blog explores how designing the feeling of
                     being physically present in a non-physical world—is essential for creating successful VR and AR
-                    experiences, especially in collaboration with a leading <a href="https://www.neointeraction.com/" target="_blank">UI UX design agency in India</a>.
+                    experiences, especially in collaboration with a leading <a href="<?php echo $path; ?>" target="_blank">UI UX design agency in India</a>.
                 </p>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/image1.jpg"
@@ -167,7 +167,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    <b>Emotional Feedback: </b> Monitoring how <a href="<?php echo $path; ?>/blogs/emotional-design-in-ux-what-you-need-to-know-for-great-ux" target="_blank">users emotionally respond</a> to VR and AR environments is
+                    <b>Emotional Feedback: </b> Monitoring how <a href="<?php echo $path; ?>blogs/emotional-design-in-ux-what-you-need-to-know-for-great-ux" target="_blank">users emotionally respond</a> to VR and AR environments is
                     necessary for understanding the experience of presence.
                 </p>
 
@@ -237,7 +237,7 @@
                     creating meaningful user experiences will depend on a designer’s ability to understand user needs,
                     utilise emerging tools, and ultimately craft engaging narratives. By focusing on these elements,
                     designers can unlock the full potential of VR AR development, transforming how users interact with
-                    both virtual and augmented spaces. Partnering with a <a href="https://www.neointeraction.com/" target="_blank">UI UX design company in India</a> like
+                    both virtual and augmented spaces. Partnering with a <a href="<?php echo $path; ?>" target="_blank">UI UX design company in India</a> like
                     Neointeraction Design can elevate your user experience by crafting immersive, intuitive interactions
                     that seamlessly blend the physical and digital worlds, leading to user engagement, satisfaction, and
                     business growth

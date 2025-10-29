@@ -10,7 +10,7 @@
     <meta name="description"
         content="Learn how to create a strong user experience with our expert-led guide on UI UX design in open banking." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/how-ui-ux-design-contributes-to-the-success-of-open-banking" />
+        href="https://www.neointeraction.com/blogs" />
     <meta property="og:title" content="How UI UX Design Contributes to the Success of Open Banking" />
     <meta property="og:description"
         content="Open banking in fintech is the practice of allowing users to securely share their financial data with third-party applications. This can include things like account information, transaction data, and even the ability to initiate online payments. The goal of open banking is to increase competition and innovation in the finance market, while also giving consumers more control over their financial data.One of the key factors in the success of open banking is the user experience and user interface o" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/how-ui-ux-design-contributes-to-the-success-of-open-banking" />
+        content="https://www.neointeraction.com/blogs" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sahla  Feroc" />
@@ -86,7 +86,7 @@
                         alt="image2" />
                 </div>
                 <p class="blog-body-text">
-                    The success of open banking depends on the quality of the UX and UI designs created by <a href="https://www.neointeraction.com/" target="_blank">product
+                    The success of open banking depends on the quality of the UX and UI designs created by <a href="<?php echo $path; ?>" target="_blank">product
                     design agencies</a>. The following aspects must be considered for an effective open banking UI UX:
                 </p>
 
@@ -98,7 +98,7 @@
                         confusing interface. This includes things like clear and intuitive navigation, straightforward
                         forms, and concise explanations of any necessary technical concepts.</li>
                         <li><b>Security and privacy:</b> Since customer data is involved, security and privacy must be given the highest priority. The UI must have features that ensure data security and privacy. Consumers need to trust that their data is being handled securely and that their personal information is protected. This includes things like secure login processes, encryption of data in transit and at rest, and clear explanations of the security measures that are in place.</li>
-                        <li><b>User-centric:</b> In order to achieve success in open banking, it is important to focus on designing a UI UX that is user-centric. This means that the design should be based on the needs and preferences of the customer, rather than the preferences of the service provider. To do this, it is important to conduct <a href="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">user research</a> to understand the needs and preferences of the target audience. This can include surveys, focus groups, and user testing. This information can then be used to design a UI UX that is tailored to the needs of the customer.</li>
+                        <li><b>User-centric:</b> In order to achieve success in open banking, it is important to focus on designing a UI UX that is user-centric. This means that the design should be based on the needs and preferences of the customer, rather than the preferences of the service provider. To do this, it is important to conduct <a href="<?php echo $path; ?>blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">user research</a> to understand the needs and preferences of the target audience. This can include surveys, focus groups, and user testing. This information can then be used to design a UI UX that is tailored to the needs of the customer.</li>
                         <li><b>Personalization:</b> The UI UX design in Open Banking should also be personalized for the user. Consumers should be able to customize their experience and tailor it to their specific needs and preferences. This includes things like being able to set up custom notifications and alerts, create personalized budgets, and even customize the look and feel of the app.</li>
                 </ul>
                 </p>
@@ -118,7 +118,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                Product designing companies like <a href="https://www.neointeraction.com/" target="_blank">Neointeraction design</a> have been able to create <a href="https://www.neointeraction.com/project" target="_blank">solutions</a> that make it easier for customers to access their data, manage their accounts, and make payments. One project we worked on was for a multinational firm, <a href="https://www.neointeraction.com/projects/intertrust-navigate" target="_blank">Intertrust</a>, who wanted to develop a new website for their business that adhered to their brand identity. We were able to provide solutions that were on-brand, fit the client's objectives, and assisted the bank in increasing new user engagement by 81% by understanding the business logic and the product requirements, planning the design phase, and resolving issues by considering the UI development technologies.
+                Product designing companies like <a href="<?php echo $path; ?>" target="_blank">Neointeraction design</a> have been able to create <a href="<?php echo $path; ?>projects" target="_blank">solutions</a> that make it easier for customers to access their data, manage their accounts, and make payments. One project we worked on was for a multinational firm, <a href="<?php echo $path; ?>projects/intertrust-navigate" target="_blank">Intertrust</a>, who wanted to develop a new website for their business that adhered to their brand identity. We were able to provide solutions that were on-brand, fit the client's objectives, and assisted the bank in increasing new user engagement by 81% by understanding the business logic and the product requirements, planning the design phase, and resolving issues by considering the UI development technologies.
                 </p>
 
 

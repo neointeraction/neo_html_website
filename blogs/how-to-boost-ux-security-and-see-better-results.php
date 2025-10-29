@@ -60,7 +60,7 @@
                     applications. The rise of data collection has increased the concerns of users over privacy and
                     security about how their personal information is used and protected. UI UX designers need to
                     prioritise <a
-                        href="<?php echo $path; ?>/blogs/fostering-user-confidence-in-your-brand-through-designing-for-trust"
+                        href="<?php echo $path; ?>blogs/fostering-user-confidence-in-your-brand-through-designing-for-trust"
                         target="_blank">building trust</a> by addressing privacy and security concerns thereby making
                     users feel safe
                     while they are engaging with digital products.
@@ -74,11 +74,11 @@
 
                 <p class="blog-body-text">
                     Privacy, security, and trust are key factors in building <a
-                        href="https://www.neointeraction.com/blogs/how-to-build-customer-loyalty-in-the-subscription-economy"
+                        href="<?php echo $path; ?>blogs/how-to-build-customer-loyalty-in-the-subscription-economy"
                         target="_blank">user
                         loyalty</a>. Brands that concentrate on protecting user data are more likely to gain confidence
                     which ultimately leads to <a
-                        href="https://www.neointeraction.com/blogs/how-bumble-s-diverse-connection-modes-boost-user-engagement-and-retention"
+                        href="<?php echo $path; ?>blogs/how-bumble-s-diverse-connection-modes-boost-user-engagement-and-retention"
                         target="_blank">long-term engagement and retention</a>. On the
                     other hand, data breaches and unethical practices have serious consequences which results in loss of
                     user confidence and potential legal issues. Several regulations such as the General Data Protection
@@ -93,7 +93,7 @@
 
                 <p class="blog-body-text">
                     Transparency can help to build trust in a data-driven world. Users expect <a
-                        href="https://www.neointeraction.com/blogs/effective-communication-with-clients-and-5-ways-to-improve-it"
+                        href="<?php echo $path; ?>blogs/effective-communication-with-clients-and-5-ways-to-improve-it"
                         target="_blank">clear communication</a> about their data, and how it is being collected, stored,
                     and used. Consent forms and privacy policies must be designed simply, avoiding complex legal jargon
                     that may confuse users. Additionally, visual cues like clear opt-in/opt-out mechanisms and
@@ -138,7 +138,7 @@
                 <p class="blog-body-text">
                     Balancing personalization with privacy can be challenging for many UI UX designers. Users expect
                     customized experiences but are hesitant to share too much personal information. Ethical <a
-                        href="https://www.neointeraction.com/blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization"
+                        href="<?php echo $path; ?>blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization"
                         target="_blank">AI-driven personalization</a> allows platforms to deliver relevant content while
                     respecting user privacy accelerating Digital
                         Transformation in India.
@@ -174,9 +174,9 @@
                     weaknesses. In 2019, <a href="https://www.bbc.com/news/business-48905907" target="_blank">British
                         Airways faced a £183 million fine</a> due to a data breach affecting over
                     500,000 customers, portraying the risks of neglecting security testing. Regular <a
-                        href="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success#:~:text=or%20a%20wireframe.-,Usability%20Testing%20UX,-%3AIdentifies%20user%20frustrations"
+                        href="<?php echo $path; ?>blogs/how-to-conduct-user-research-that-drives-ux-success#:~:text=or%20a%20wireframe.-,Usability%20Testing%20UX,-%3AIdentifies%20user%20frustrations"
                         target="_blank">usability</a> and <a
-                        href="https://www.neointeraction.com/blogs/the-comprehensive-guide-for-all-designers-terminologies-in-ui-ux-design-explained#:~:text=and%20communicating%20ideas.-,A/B%20Testing,-A/B%20testing"
+                        href="<?php echo $path; ?>blogs/the-comprehensive-guide-for-all-designers-terminologies-in-ui-ux-design-explained#:~:text=and%20communicating%20ideas.-,A/B%20Testing,-A/B%20testing"
                         target="_blank">A/B
                         testing</a> can ensure that security features, like 2FA, are user-friendly without sacrificing
                     safety.
@@ -191,7 +191,7 @@
                     has become crucial. By emphasising transparency, practising data minimization, integrating security
                     from the start, and balancing personalization with privacy ux, designers can create user experiences
                     that foster trust and loyalty. As the digital landscape continues to evolve, partnering with a <a
-                        href="https://www.neointeraction.com/" target="_blank">UI UX Design Company in India</a> like
+                        href="<?php echo $path; ?>" target="_blank">UI UX Design Company in India</a> like
                     Neointeraction Design can help in prioritizing user control to build trust at the core of every
                     interaction.
                 </p>

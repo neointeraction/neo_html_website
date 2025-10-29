@@ -53,7 +53,7 @@
     <div class="blog-banner-img">
         <img src="<?php echo $path; ?>assets/images/blog/digital-content-typography/digital-typography-tips.jpeg" alt="typography social media posts" />
     </div>
-    <p class="blog-body-text">When you create content, one thing you must take care of is the balance of graphics and text. This is where typography comes in as it attracts the user to read the text. Typography is mainly customizing the text according to the design to make it aesthetically pleasing. Also, it sets the tone of the design and ensures a great <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore#:~:text=Contact%20Us-,UX%20Design,-Design%20to%20shape" target="_blank">user experience</a>.</p>
+    <p class="blog-body-text">When you create content, one thing you must take care of is the balance of graphics and text. This is where typography comes in as it attracts the user to read the text. Typography is mainly customizing the text according to the design to make it aesthetically pleasing. Also, it sets the tone of the design and ensures a great <a href="<?php echo $path; ?>ui-ux-design-developer-services-company-bangalore#:~:text=Contact%20Us-,UX%20Design,-Design%20to%20shape" target="_blank">user experience</a>.</p>
     <h4 class="blog-body-title">Why is typography important?</h4>
     <div class="blog-banner-img">
         <img src="<?php echo $path; ?>assets/images/blog/digital-content-typography/typography-importance.jpeg" alt="importance typography" />
@@ -80,7 +80,7 @@
     <p class="blog-body-text"><strong>All caps</strong></p>
     <p class="blog-body-text">Setting a word or short phrase in all caps within the text may be appropriate when a very strong emphasis is desired. However, running text can disturb the rhythm and flow of reading.</p>
     <p class="blog-body-text"><strong>Color</strong></p>
-    <p class="blog-body-text">The <a href="https://www.neointeraction.com/post/the-impact-of-color-in-branding" target="_blank">use of color</a> can achieve eye-catching emphasis. It improves the overall look of the page and attracts attention to the type without changing the typestyle or any other formatting.</p>
+    <p class="blog-body-text">The <a href="<?php echo $path; ?>post/the-impact-of-color-in-branding" target="_blank">use of color</a> can achieve eye-catching emphasis. It improves the overall look of the page and attracts attention to the type without changing the typestyle or any other formatting.</p>
     <h4 class="blog-body-title">Important aspects of Typography</h4>
     <div class="blog-banner-img">
         <img src="<?php echo $path; ?>assets/images/blog/digital-content-typography/typography-aspects.jpeg" alt="aspects typography" />
@@ -109,7 +109,7 @@
     <div class="blog-banner-img">
         <img src="<?php echo $path; ?>assets/images/blog/digital-content-typography/typography-takeaways.jpeg" alt="typography resources" />
     </div>
-    <p class="blog-body-text">Typography is frequently underestimated, but it is an essential component of UI UX design. If you need help upgrading your product experience through aesthetically pleasing and functional design, connect with our ux ui design service team at <a href="https://www.neointeraction.com/" target="_blank">Neointeraction design</a>.</p>
+    <p class="blog-body-text">Typography is frequently underestimated, but it is an essential component of UI UX design. If you need help upgrading your product experience through aesthetically pleasing and functional design, connect with our ux ui design service team at <a href="<?php echo $path; ?>" target="_blank">Neointeraction design</a>.</p>
     <h4 class="blog-body-title">Design Resources For Typography</h4>
     <ul>
         <li><a href="https://fonts.google.com/" target="_blank">Google fonts</a>: Its popular distributor of free and open source fonts with thousands of fonts available in multiple languages, and remains one of the best resource for designers and any who wants to download typefaces.</li>

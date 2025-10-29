@@ -72,7 +72,7 @@
                     What is Data driven ui ux design ?
                 </h4>
                 <p class="blog-body-text">
-                    Data-driven UI UX involves making <a href="https://www.neointeraction.com/blogs/design-thinking-and-its-role-in-accelerating-business-growth" target="_blank">design decisions</a> based on insights derived from user data. In the
+                    Data-driven UI UX involves making <a href="<?php echo $path; ?>blogs/design-thinking-and-its-role-in-accelerating-business-growth" target="_blank">design decisions</a> based on insights derived from user data. In the
                     case of Netflix, this means analyzing vast amounts of user behavior data to tailor the interface to
                     individual preferences, ultimately creating a personalized and engaging experience.
                 </p>
@@ -173,7 +173,7 @@
                     The personalized and seamless viewing experience crafted through data-driven UI UX has contributed
                     to impressive retention rates. According to a CNBC report, in 2021, Netflix's subscriber retention
                     rate was strong, with millions of new subscribers <a
-                        href="https://www.neointeraction.com/blogs/how-to-build-customer-loyalty-in-the-subscription-economy"
+                        href="<?php echo $path; ?>blogs/how-to-build-customer-loyalty-in-the-subscription-economy"
                         target="_blank">joining and existing</a> ones continuing their subscriptions.
 
                 </p>
@@ -185,7 +185,7 @@
                     are key. The success of Netflix's data-driven design, discussed in this blog, proves how using user
                     data can significantly boost business growth. The key to success is making smart design choices
                     based on data insights, and partnering with design agencies like <a
-                        href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a> ensures
+                        href="<?php echo $path; ?>" target="_blank">Neointeraction Design</a> ensures
                     top-notch UI UX Design services seamlessly woven into the product design journey. This collaboration
                     guides businesses towards a future where innovation and user satisfaction work hand in hand for
                     lasting success.

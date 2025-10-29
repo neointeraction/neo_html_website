@@ -82,7 +82,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    XaaS offers numerous solutions, from cost savings to flexibility and faster deployment. It allows users to access services on demand and scale them as needed, which is beneficial for businesses to keep up with the changes. But XaaS also faces multiple challenges, like keeping data secure, service reliability, and managing <a href="https://www.neointeraction.com/blogs/how-to-make-strategic-business-growth-through-ux-design" target="_blank">user experience</a> across different devices and platforms.
+                    XaaS offers numerous solutions, from cost savings to flexibility and faster deployment. It allows users to access services on demand and scale them as needed, which is beneficial for businesses to keep up with the changes. But XaaS also faces multiple challenges, like keeping data secure, service reliability, and managing <a href="<?php echo $path; ?>blogs/how-to-make-strategic-business-growth-through-ux-design" target="_blank">user experience</a> across different devices and platforms.
                 </p>
 
                 <h4 class="blog-body-title">
@@ -111,7 +111,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    With XaaS, there isn't a one-size-fits-all situation. <a href="https://www.neointeraction.com/blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization" target="_blank">Tailored experiences</a> that align with specific needs make the user experience memorable. Designing personalized and customizable user interfaces allows users to choose features and configurations that best suit their workflows, making it easier for companies to retain customers.
+                    With XaaS, there isn't a one-size-fits-all situation. <a href="<?php echo $path; ?>blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization" target="_blank">Tailored experiences</a> that align with specific needs make the user experience memorable. Designing personalized and customizable user interfaces allows users to choose features and configurations that best suit their workflows, making it easier for companies to retain customers.
                 </p>
 
                 <p class="blog-body-text">
@@ -154,7 +154,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    XaaS services must prioritize accessibility and inclusivity in their design to achieve Digital Transformation in India at its very best. <a href="https://www.neointeraction.com/blogs/how-design-accessibility-is-important-to-boost-your-business" target="_blank">Catering to users with disabilities</a> by giving accessible features makes the platform trustworthy. This includes incorporating features like screen reader compatibility, keyboard navigation, and visual contrast options.
+                    XaaS services must prioritize accessibility and inclusivity in their design to achieve Digital Transformation in India at its very best. <a href="<?php echo $path; ?>blogs/how-design-accessibility-is-important-to-boost-your-business" target="_blank">Catering to users with disabilities</a> by giving accessible features makes the platform trustworthy. This includes incorporating features like screen reader compatibility, keyboard navigation, and visual contrast options.
                 </p>
 
 
@@ -163,7 +163,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    The XaaS model operates on making continuous delivery and innovation. Regular updates and improvements in the interface should be part of the process, based on user feedback, data analysis, and emerging technology trends. Partnering with a <a href="https://www.neointeraction.com/" target="_blank">UI UX design company in India</a> can help with the improvement process. 
+                    The XaaS model operates on making continuous delivery and innovation. Regular updates and improvements in the interface should be part of the process, based on user feedback, data analysis, and emerging technology trends. Partnering with a <a href="<?php echo $path; ?>" target="_blank">UI UX design company in India</a> can help with the improvement process. 
                 </p>
 
                 <h4 class="blog-body-title">
@@ -219,7 +219,7 @@
                 <h4 class="blog-body-title">Conclusion</h4>
 
                 <p class="blog-body-text">
-                    The rise of XaaS has impacted the UI UX landscape tremendously. It made designers rethink how to approach scalability, personalization, and security. By partnering with a <a href="https://www.neointeraction.com/" target="_blank">UI UX design agency in India</a> like Neointeraction Design, you will focus on user centric design, continuous improvement, and flexibility to deliver seamless and engaging experiences that cater to the ever-evolving needs of XaaS users. As XaaS continues to grow, so too will the importance of innovative and responsive UI UX design.
+                    The rise of XaaS has impacted the UI UX landscape tremendously. It made designers rethink how to approach scalability, personalization, and security. By partnering with a <a href="<?php echo $path; ?>" target="_blank">UI UX design agency in India</a> like Neointeraction Design, you will focus on user centric design, continuous improvement, and flexibility to deliver seamless and engaging experiences that cater to the ever-evolving needs of XaaS users. As XaaS continues to grow, so too will the importance of innovative and responsive UI UX design.
                 </p>
 
               

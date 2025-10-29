@@ -69,12 +69,12 @@
                         <li> <b>Increasing adoption of digital technologies:</b>With the increasing adoption of digital technologies in India, more people are looking for digital banking solutions that are convenient, secure, and easy to use.</li>
                         <li> <b>Large unbanked population:</b>Despite the growth of traditional banks in India, a large section of the population remains unbanked.</li>
                         <li> <b>Changing customer expectations:</b> Customers today expect a high level of personalized service and flexibility from their banking providers.</li>
-                        <li> <b>Integration with emerging technologies:</b>Neobanking solutions can leverage emerging technologies such as <a href="https://www.neointeraction.com/blogs/what-are-the-innovative-use-cases-of-ai-in-financial-institutions" target="_blank">artificial intelligence</a> and blockchain to offer innovative services that traditional banks may not be able to provide.</li>
+                        <li> <b>Integration with emerging technologies:</b>Neobanking solutions can leverage emerging technologies such as <a href="<?php echo $path; ?>blogs/what-are-the-innovative-use-cases-of-ai-in-financial-institutions" target="_blank">artificial intelligence</a> and blockchain to offer innovative services that traditional banks may not be able to provide.</li>
                     </ul>
                 </p>
 
                 <p class="blog-body-text">
-                The role of <a href="https://www.neointeraction.com/blogs/why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue" target="_blank">UI UX design</a> in the transformation of Neobanking solutions in the Indian economy cannot be overstated. The success of a neobanking solution depends on its ability to provide a seamless and enjoyable user experience, and this requires a well-designed UI and UX. A good <a href="https://www.neointeraction.com/" target="_blank">UI UX design consultancy</a> can help neobanking solutions to attract and retain customers, improve customer satisfaction, and increase customer engagement.
+                The role of <a href="<?php echo $path; ?>blogs/why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue" target="_blank">UI UX design</a> in the transformation of Neobanking solutions in the Indian economy cannot be overstated. The success of a neobanking solution depends on its ability to provide a seamless and enjoyable user experience, and this requires a well-designed UI and UX. A good <a href="<?php echo $path; ?>" target="_blank">UI UX design consultancy</a> can help neobanking solutions to attract and retain customers, improve customer satisfaction, and increase customer engagement.
                 </p>
 
               

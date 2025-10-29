@@ -65,9 +65,9 @@
                     Prototyping is an experimental process where design teams implement ideas into tangible forms from
                     paper to digital. A UX prototype is a model that depicts how the software will work and the user
                     experience it will provide. <a
-                        href="https://www.neointeraction.com/blogs/what-are-wireframes-and-why-are-they-important-in-ux-design"
+                        href="<?php echo $path; ?>blogs/what-are-wireframes-and-why-are-they-important-in-ux-design"
                         target="_blank">Wireframes</a>, mockups, and other visual elements can be used to construct
-                    a prototype in <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">UX
+                    a prototype in <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">UX
                         design</a>. With prototypes, you can refine and validate your designs so your brand
                     can release the right products. The goal of UX prototyping is to avoid costly design and development
                     mistakes by experimenting early and often.
@@ -205,7 +205,7 @@
                 <p class="blog-body-text">
                     The most prevalent sort of hi-fi (high fidelity) prototyping is digital prototypes. Designers may
                     now develop aesthetically rich, strong prototypes with <a
-                        href="https://www.neointeraction.com/blogs/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"
+                        href="<?php echo $path; ?>blogs/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"
                         target="_blank">micro interactions</a> and intricate animations using a range of specialist
                     applications.
                 </p>
@@ -282,13 +282,13 @@
                     fidelity of the prototype you should develop ultimately depends on project circumstances and the
                     preferences of the UX designer. If your project's goal is to provide a quality user experience,
                     prototyping must be a component of the UI UX <a
-                        href="https://www.neointeraction.com/blogs/what-is-ux-design-process-a-complete-actionable-guide"
+                        href="<?php echo $path; ?>blogs/what-is-ux-design-process-a-complete-actionable-guide"
                         target="_blank">design thinking process</a>. Based on your product's requirements, it's critical
                     to select the most effective prototyping process - one that minimizes work while increasing
                     learning. The result will be a better overall design based on prototype testing. One of the top UI
-                    UX design agency, <a href="https://www.neointeraction.com/" target="_blank">Neointeraction
+                    UX design agency, <a href="<?php echo $path; ?>" target="_blank">Neointeraction
                         Design</a> offers rapid prototyping in addition to UI UX services. If you are in need of UI UX
-                    design services, <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">hire
+                    design services, <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">hire
                         UI UX developers and designers</a> from the team.<br />
 
                     Low-fidelity prototypes may be the best option for speed and flexibility. If you're currently

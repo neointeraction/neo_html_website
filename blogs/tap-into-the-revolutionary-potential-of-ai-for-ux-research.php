@@ -66,7 +66,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    <a href="https://www.neointeraction.com/blogs/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" target="_blank">AI-powered UX  research</a> is able to analyze large volumes of data rapidly, allowing for fast iteration and testing. Artificial users have the capacity to mimic numerous interactions whereas a conventional user study only carries out a few within the same timeframe. This higher level of efficiency enables more thorough testing and quicker product development cycles.
+                    <a href="<?php echo $path; ?>blogs/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" target="_blank">AI-powered UX  research</a> is able to analyze large volumes of data rapidly, allowing for fast iteration and testing. Artificial users have the capacity to mimic numerous interactions whereas a conventional user study only carries out a few within the same timeframe. This higher level of efficiency enables more thorough testing and quicker product development cycles.
                 </p>
 
                 <p class="blog-body-text">
@@ -109,7 +109,7 @@
                     <ul>
                         <li><b>Cost efficiency and availability</b></li>
                     </ul>
-                    Conventional <a href="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">UX research</a> can be expensive and lengthy, often demanding substantial resources for participant recruitment and study implementation. Artificial users provide an affordable option, increasing the accessibility of UX research to companies of every scale.
+                    Conventional <a href="<?php echo $path; ?>blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">UX research</a> can be expensive and lengthy, often demanding substantial resources for participant recruitment and study implementation. Artificial users provide an affordable option, increasing the accessibility of UX research to companies of every scale.
                 </p>
 
                 <p class="blog-body-text">
@@ -186,7 +186,7 @@
                 </h4>
 
                 <p class="blog-body-text">
-                    Utilizing AI and synthetic users  for UX research provides various advantages, such as enhanced efficiency, scalability, and the ability to examine a wide range of user scenarios. By combining AI technologies with human knowledge and collaborating with a top UX design company in India, like Neointeraction Design, product teams can create designs that prioritize the user experience. It is crucial to utilize these sophisticated tools and partner with leading <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX design services in India</a> to stay competitive in the constantly changing digital landscape of today.
+                    Utilizing AI and synthetic users  for UX research provides various advantages, such as enhanced efficiency, scalability, and the ability to examine a wide range of user scenarios. By combining AI technologies with human knowledge and collaborating with a top UX design company in India, like Neointeraction Design, product teams can create designs that prioritize the user experience. It is crucial to utilize these sophisticated tools and partner with leading <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX design services in India</a> to stay competitive in the constantly changing digital landscape of today.
                 </p>
 
               

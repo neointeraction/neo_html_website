@@ -134,7 +134,7 @@
                 </div>
 
                 <p class="blog-body-text">
-                A consistent <a href="https://www.neointeraction.com/blogs/how-a-ux-design-partner-can-benefit-your-company" target="_blank">user experience is critical</a> for a successful digital banking service since it helps clients easily navigate the platform.
+                A consistent <a href="<?php echo $path; ?>blogs/how-a-ux-design-partner-can-benefit-your-company" target="_blank">user experience is critical</a> for a successful digital banking service since it helps clients easily navigate the platform.
                 </p>
 
                 <p class="blog-body-text">

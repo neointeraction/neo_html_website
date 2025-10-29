@@ -36,34 +36,6 @@
         content="Terminologies are important to understand the technical and scientific contexts. It also helps specialists and students of the respective fields to communicate effectively." />
     <meta name="twitter:image"
         content="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-guide-thumbnail-mobile.jpeg" />
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.neointeraction.com/blogs/the-comprehensive-guide-for-all-designers-terminologies-in-ui-ux-design-explained.php"
-        },
-        "headline": "The comprehensive guide for all designers: Terminologies in UI UX design explained",
-        "description": "Terminologies are important to understand the technical and scientific contexts. It also helps specialists and students of the respective fields to communicate effectively.",
-        "image": "https://www.neointeraction.com/assets/images/blog/ui-ux-design-terminologies/terminologies-in-ui-ux-design-explained-banner.jpeg",
-        "author": {
-            "@type": "Person",
-            "name": "Sebin George",
-            "url": "https://www.neointeraction.com/members-area/4c488cd0-f6ea-4037-9c48-8adb49ebe024/profile"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Neointeraction",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://www.neointeraction.com/assets/images/neologo.svg"
-            }
-        },
-        "datePublished": "2024-01-24",
-        "dateModified": "2024-08-23"
-    }
-    </script>
 </head>
 
 <body>

@@ -100,7 +100,7 @@
 
                 <p class="blog-body-text">
                     <b>Competitive Advantage (Inclusive UX)</b><br /> Businesses that prioritize inclusive UX design
-                    have a strategic advantage over their competitors. By emphasizing <a href="https://www.neointeraction.com/blogs/how-design-accessibility-is-important-to-boost-your-business" target="_blank">accessibility</a> and usability, they
+                    have a strategic advantage over their competitors. By emphasizing <a href="<?php echo $path; ?>blogs/how-design-accessibility-is-important-to-boost-your-business" target="_blank">accessibility</a> and usability, they
                     can stand out from competitors who neglect these important factors, drawing in more users and
                     improving their brand image.
                 </p>
@@ -194,7 +194,7 @@
                 <p class="blog-body-text">
                     Creating a user experience design that is inclusive may be difficult due to constraints like
                     inadequate resources and ensuring team approval. Practical approaches involve performing
-                    accessibility audits to pinpoint areas needing enhancement and coordinating <a href="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success"
+                    accessibility audits to pinpoint areas needing enhancement and coordinating <a href="<?php echo $path; ?>blogs/how-to-conduct-user-research-that-drives-ux-success"
                         target="_blank">user research</a> workshops
                     to collect varied feedback. Prioritizing inclusivity during the design process can result in
                     improved outcomes and sustained success.
@@ -209,9 +209,9 @@
                     engagement, and global market reach. Diversity fuels innovation and drives success, making inclusive
                     UX design a critical component of modern business strategy. Inclusivity should be a core part of the
                     design process and not just an afterthought, ensuring that every product and service is truly built
-                    for everyone. Partnering with a <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX Design Company in India</a> such as
+                    for everyone. Partnering with a <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX Design Company in India</a> such as
                     Neointeraction Design ensures
-                    that your product benefits from top-notch <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX Design services in
+                    that your product benefits from top-notch <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX Design services in
                         India</a>, meeting the diverse needs of
                     all users and driving business success.
                 </p>

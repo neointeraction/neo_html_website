@@ -83,7 +83,7 @@
                 <p class="blog-body-text">
                     The most affluent businesses understand that excellent design pays off far more than it costs and
                     that <a
-                        href=" https://www.neointeraction.com/blogs/how-to-practice-good-ux-to-boost-your-product-roi"
+                        href="<?php echo $path; ?>blogs/how-to-practice-good-ux-to-boost-your-product-roi"
                         target="_blank">neglecting design will prove costly</a>
                     . Let’s take a look at four reasons why investing in great
                     design is a smart move.
@@ -172,17 +172,17 @@
                     <br />
 
 
-                    <a href="https://www.neointeraction.com/blogs/the-impact-of-color-in-branding"
+                    <a href="<?php echo $path; ?>blogs/the-impact-of-color-in-branding"
                         target="_blank">Colors are impactful</a> as they help the user identify the brand even if they
                     do not recall the name
                     (think of the blue of hp or the primary color spectrum of Google). By investing in a <a
-                        href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">reputable web
+                        href="<?php echo $path; ?>ui-ux-design-services" target="_blank">reputable web
                         design company</a>, you can ensure that precise colors, fonts, and typography are utilized
                     throughout
                     your organization, giving clients and potential clients consistent user experience whether they are
                     handling a product in a store, browsing your website, or participating within your social media
                     feeds. Read further about the <a
-                        href="https://www.neointeraction.com/blogs/how-a-ux-design-partner-can-benefit-your-company"
+                        href="<?php echo $path; ?>blogs/how-a-ux-design-partner-can-benefit-your-company"
                         target="_blank">Benefits of having a UX Design partner for your business</a>
                     .
 
@@ -204,7 +204,7 @@
                     is a wise business decision since it enhances initial impressions, builds brand recognition, conveys
                     the proper message and guarantees a competitive advantage. If you need assistance developing an
                     innovative design approach for your brand, reach out to us here at <a
-                        href="https://www.neointeraction.com/contact-us" target="_blank">Neointeraction design</a>. We'd
+                        href="<?php echo $path; ?>contact-us" target="_blank">Neointeraction design</a>. We'd
                     be
                     delighted to discuss with you your business goals and would appreciate hearing from you.
 

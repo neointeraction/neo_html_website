@@ -55,7 +55,7 @@
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/image1.jpg" alt="blog1" />
                 </div>
                 <p class="blog-body-text">
-                UX design is the process of designing (digital or physical) products that are useful, easy to use, and delightful to interact with. It’s about enhancing the experience that people have while interacting with your product, and making sure they find value in what you’re providing thereby achieving customer satisfaction. After all <a href="https://www.neointeraction.com/blogs/how-to-align-good-ux-ui-concepts-with-customer-requirements" target="_blank">User Experience</a> plays a vital role in the success of a product.
+                UX design is the process of designing (digital or physical) products that are useful, easy to use, and delightful to interact with. It’s about enhancing the experience that people have while interacting with your product, and making sure they find value in what you’re providing thereby achieving customer satisfaction. After all <a href="<?php echo $path; ?>blogs/how-to-align-good-ux-ui-concepts-with-customer-requirements" target="_blank">User Experience</a> plays a vital role in the success of a product.
                 </p>
                 <h4 class="blog-body-title">
                     Benefits of UX design
@@ -66,7 +66,7 @@
 
                 <p class="blog-body-text">
                     <b>a. Conduct User Research</b><br/>
-                    Designing a product starts with collecting data. While developing a product, it is very important to understand what problem we are trying to solve and for who. Designers can construct flows and designs that feel familiar to that specific user base based on this information. And, when done correctly, it will lead to customer satisfaction while also providing a gratifying experience. Conducting extensive <a href="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">UX Research</a> will enhance UX design.
+                    Designing a product starts with collecting data. While developing a product, it is very important to understand what problem we are trying to solve and for who. Designers can construct flows and designs that feel familiar to that specific user base based on this information. And, when done correctly, it will lead to customer satisfaction while also providing a gratifying experience. Conducting extensive <a href="<?php echo $path; ?>blogs/how-to-conduct-user-research-that-drives-ux-success" target="_blank">UX Research</a> will enhance UX design.
                 </p>
 
                 <p class="blog-body-text">
@@ -86,7 +86,7 @@
 
                 <p class="blog-body-text">
                     <b>e. Brand loyalty and positive word of mouth</b><br/>
-                    You're not just achieving customer satisfaction, but you're also drawing in new ones with good ux design. Positive word of mouth may help you take your business to the next level, and if you use Social Media effectively, you can get a lot of potential consumers to endorse you. If you keep providing a pleasant experience, you'll gain a devoted customer base who will always be on your side. Know more about the <a href="https://www.neointeraction.com/blogs/how-a-ux-design-partner-can-benefit-your-company" target="_blank">Benefits of having a UX Design partner for your business</a>.
+                    You're not just achieving customer satisfaction, but you're also drawing in new ones with good ux design. Positive word of mouth may help you take your business to the next level, and if you use Social Media effectively, you can get a lot of potential consumers to endorse you. If you keep providing a pleasant experience, you'll gain a devoted customer base who will always be on your side. Know more about the <a href="<?php echo $path; ?>blogs/how-a-ux-design-partner-can-benefit-your-company" target="_blank">Benefits of having a UX Design partner for your business</a>.
                 </p>
 
                 <div class="blog-quote-block">
@@ -134,7 +134,7 @@
 
 
                 <p class="blog-body-text">
-                    It's easy to overlook the states in a UX design because they occur frequently and aren't always known well understood, however, the benefits of these inclusions are understated because they enhance user experience and thereby help boost your product ROI. <a href="https://www.neointeraction.com/contact-us" target="_blank">Hire Ux designers & UI developers</a> from <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">Neointeraction Design</a> team to help create a more cohesive product experience.
+                    It's easy to overlook the states in a UX design because they occur frequently and aren't always known well understood, however, the benefits of these inclusions are understated because they enhance user experience and thereby help boost your product ROI. <a href="<?php echo $path; ?>contact-us" target="_blank">Hire Ux designers & UI developers</a> from <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">Neointeraction Design</a> team to help create a more cohesive product experience.
                 </p>
 
 

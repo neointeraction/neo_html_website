@@ -76,7 +76,7 @@
                     wonder why so many financial mobile apps and websites have become a huge trend over the past few
                     years. And the success of these products depends on a good customer experience which eventually
                     comes from a thoughtful <a
-                        href="https://www.neointeraction.com/blogs/what-is-ux-design-process-a-complete-actionable-guide"
+                        href="<?php echo $path; ?>blogs/what-is-ux-design-process-a-complete-actionable-guide"
                         target="_blank">design thinking process</a>.
 
 
@@ -110,7 +110,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    <b>3. To be different from a <a href="https://www.neointeraction.com/internet-banking-ux"
+                    <b>3. To be different from a <a href="<?php echo $path; ?>internet-banking-ux"
                             target="_blank">Banking Solution</a></b><br />
                     A Fintech app is very different from it’s counterparts, i.e; banking solutions. Both play around in
                     the digital space but Fintech packs a punch with it’s new and fresh ideas.<br />A banking solution
@@ -201,7 +201,7 @@
 
                 <p class="blog-body-text">
                     With plenty of experience in the financial domain, we at Neointeraction have worked with developing
-                    multiple <a href="https://www.neointeraction.com/share-trading-platform-redesign"
+                    multiple <a href="<?php echo $path; ?>share-trading-platform-redesign"
                         target="_blank">Fintech applications</a> over the years. Our biggest
                     strength is our thorough and detailed
                     design process which has been the formula of success for us for the past 12+ years. The design team
@@ -258,13 +258,13 @@
                     design agencies to help them succeed. Plus, a profitable Fintech app is a possibility only when it
                     is able to connect and convey its idea to the users by building a trustworthy relationship. This can
                     be easily achievable by investing in a good design thinking process that will pave the right way for
-                    your Fintech app. <a href="https://www.neointeraction.com/ui-ux-design-services"
+                    your Fintech app. <a href="<?php echo $path; ?>ui-ux-design-services"
                         target="_blank">Hire UI designers & Ux developers</a> from
                     Neointeraction team to get your next
                     fintech application designed. The <a
-                        href="https://www.neointeraction.com/ui-ux-design-services#eng-modal" target="_blank">flexible
+                        href="<?php echo $path; ?>ui-ux-design-services#eng-modal" target="_blank">flexible
                         engagement models</a>
-                    offered by our <a href="https://www.neointeraction.com/" target="_blank">UI/UX design agency</a> can
+                    offered by our <a href="<?php echo $path; ?>" target="_blank">UI/UX design agency</a> can
                     be adjusted to fit your budget and project timelines.
                 </p>
 

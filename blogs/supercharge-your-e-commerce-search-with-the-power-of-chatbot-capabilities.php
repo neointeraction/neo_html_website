@@ -51,7 +51,7 @@
                 </h1>
             
                 <p class="blog-body-text">
-                    In today's digital era, e-commerce has become a convenient way to shop. However, navigating through numerous product options and dealing with clunky user experiences can often be frustrating. Chatbots, combined with effective <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">UI UX design services</a> have emerged as a solution to improve the e-commerce experience. These digital assistants revolutionize shopping by offering quick and intuitive solutions to user queries and product searches. Chatbots have significantly improved user experience in e-commerce by answering customer inquiries and guiding purchase decisions, making online shopping as effortless as chatting with a friend.
+                    In today's digital era, e-commerce has become a convenient way to shop. However, navigating through numerous product options and dealing with clunky user experiences can often be frustrating. Chatbots, combined with effective <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">UI UX design services</a> have emerged as a solution to improve the e-commerce experience. These digital assistants revolutionize shopping by offering quick and intuitive solutions to user queries and product searches. Chatbots have significantly improved user experience in e-commerce by answering customer inquiries and guiding purchase decisions, making online shopping as effortless as chatting with a friend.
                 </p>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/supercharge-your-e-commerce-search-image1.jpg" alt="blog1" />
@@ -78,7 +78,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                Investing in good user experience (UX) and user interface (UI) designs also communicates <a href="https://www.neointeraction.com/blogs/how-to-promote-positive-emotions-in-the-user-experience-of-your-product" target="_blank">positive emotions</a> through design and your e-commerce can be optimized. Applying good UX practices through top <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX Design services in India</a> can boost the return on investments (<a href="https://www.neointeraction.com/blogs/how-to-practice-good-ux-to-boost-your-product-roi" target="_blank">ROI</a>) and revenue of an e-commerce site exponentially.
+                Investing in good user experience (UX) and user interface (UI) designs also communicates <a href="<?php echo $path; ?>blogs/how-to-promote-positive-emotions-in-the-user-experience-of-your-product" target="_blank">positive emotions</a> through design and your e-commerce can be optimized. Applying good UX practices through top <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX Design services in India</a> can boost the return on investments (<a href="<?php echo $path; ?>blogs/how-to-practice-good-ux-to-boost-your-product-roi" target="_blank">ROI</a>) and revenue of an e-commerce site exponentially.
                 </p>
 
                 <h4 class="blog-body-title">
@@ -151,7 +151,7 @@
                 <h4 class="blog-body-title">Takeaway</h4>
 
                 <p class="blog-body-text">
-                To sum up, chatbots have transformed online shopping by offering customized help and improving how people shop. They have solved problems with finding products and made personalization better. Many successful companies have proven their effectiveness. Let's welcome this change, appreciating the mix of creative design and technology, for a future where online shopping is easy and fun for all. Designing e-commerce with chatbots should deliver simple and easy designs to retain existing customers and onboard new ones, teaming up with design partners with effective <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">UI UX design services in India</a> such as Neointeraction Design will make the process simple and designs curated for your audience, Implementing our design services and practices guarantees an engaging and seamless experience for your users.
+                To sum up, chatbots have transformed online shopping by offering customized help and improving how people shop. They have solved problems with finding products and made personalization better. Many successful companies have proven their effectiveness. Let's welcome this change, appreciating the mix of creative design and technology, for a future where online shopping is easy and fun for all. Designing e-commerce with chatbots should deliver simple and easy designs to retain existing customers and onboard new ones, teaming up with design partners with effective <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">UI UX design services in India</a> such as Neointeraction Design will make the process simple and designs curated for your audience, Implementing our design services and practices guarantees an engaging and seamless experience for your users.
                 </p>
 
 

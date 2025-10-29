@@ -97,7 +97,7 @@
                     Building with Data: Main Action Items
                 </h4>
                 <p class="blog-body-text">
-                    Construction companies can enhance their operations by using advanced data analytics and <a href="https://www.neointeraction.com/blogs/what-is-ux-design-process-a-complete-actionable-guide" target="_blank">user experience strategies</a>, leading to notable enhancements in project management and safety measures. This method emphasizes the changing power of using data to guide and improve construction procedures.
+                    Construction companies can enhance their operations by using advanced data analytics and <a href="<?php echo $path; ?>blogs/what-is-ux-design-process-a-complete-actionable-guide" target="_blank">user experience strategies</a>, leading to notable enhancements in project management and safety measures. This method emphasizes the changing power of using data to guide and improve construction procedures.
                 </p>
                 <p class="blog-body-text">
                     <b>a. User Research and Feedback</b><br>
@@ -146,7 +146,7 @@
                 </div>
                 <p class="blog-body-text">
                     <b>a. Integration with Emerging Technologies</b><br>
-                    Technologies such as augmented reality<a href="https://www.neointeraction.com/blogs/pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design" target="_blank"> (AR) and virtual reality (VR)</a> will be utilized to introduce new means to perceive construction data.
+                    Technologies such as augmented reality<a href="<?php echo $path; ?>blogs/pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design" target="_blank"> (AR) and virtual reality (VR)</a> will be utilized to introduce new means to perceive construction data.
                 </p>
                 <p class="blog-body-text">
                     <b>b. Sustainable and Green Construction</b><br>
@@ -156,7 +156,7 @@
                     Conclusion
                 </h4>
                 <p class="blog-body-text">
-                    The combination of digital design and data analysis is transforming the construction sector, improving efficiency, safety, and user orientation. Through the use of data and UX design, businesses have the ability to enhance efficiency, safety, and customer satisfaction. Collaborating with a <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX design company in India</a> such as Neointeraction Design is essential for the upcoming expansion, as they effectively incorporate high-quality <a href="https://www.neointeraction.com/ux-design-services" target="_blank"> UX design services in India</a> to enhance marketing and business growth.
+                    The combination of digital design and data analysis is transforming the construction sector, improving efficiency, safety, and user orientation. Through the use of data and UX design, businesses have the ability to enhance efficiency, safety, and customer satisfaction. Collaborating with a <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX design company in India</a> such as Neointeraction Design is essential for the upcoming expansion, as they effectively incorporate high-quality <a href="<?php echo $path; ?>ux-design-services" target="_blank"> UX design services in India</a> to enhance marketing and business growth.
                 </p>
                 
                 <?php $faq_tag = 'how-data-driven-ux-design-transforms-construction-industry'; include $path.'components/faq.php'; ?>

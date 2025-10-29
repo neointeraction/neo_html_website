@@ -196,7 +196,7 @@
                 <p class="blog-body-text">
                     <b>Design Phase</b>
                     <br />
-                    We created a <a href="https://www.neointeraction.com/blogs/how-mood-boards-will-enhance-your-design"
+                    We created a <a href="<?php echo $path; ?>blogs/how-mood-boards-will-enhance-your-design"
                         target="_blank">mood board</a> using inspiration we found online and among ourselves. Making a
                     wireframe
                     and selecting the ideal layout and structure came next. Then we designed and prototyped and

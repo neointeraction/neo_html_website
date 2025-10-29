@@ -76,7 +76,7 @@
                     <b>Fraud Detection:</b> Financial institutions are using AI technologies to analyze patterns in
                     financial transactions and detect fraudulent activity in real-time. This helps prevent financial
                     losses and protect the institution’s reputation. Fraud detection with <a
-                        href="https://www.neointeraction.com/blogs/how-to-practice-good-ux-to-boost-your-product-roi"
+                        href="<?php echo $path; ?>blogs/how-to-practice-good-ux-to-boost-your-product-roi"
                         target="_blank">UX design in mind can help improve the efficiency and effectiveness </a>of fraud
                     detection systems.
                 </p>
@@ -90,7 +90,7 @@
                     inquiries, reducing the burden on human customer service representatives. This can improve customer
                     satisfaction and allow financial institutions to serve more customers in less time. Incorporating
                     with <a
-                        href="https://www.neointeraction.com/blogs/how-to-practice-good-ux-to-boost-your-product-roi"
+                        href="<?php echo $path; ?>blogs/how-to-practice-good-ux-to-boost-your-product-roi"
                         target="_blank">UX/UI design partner for your business </a>can ensure an interface that is easy
                     to navigate and provides clear and concise information to help customers find the information they
                     need and complete the tasks more efficiently.
@@ -144,13 +144,13 @@
                         create new job opportunities in areas such as AI technologies and management.</li>
                     <li>Financial institutions must be careful to address ethical concerns when using AI, such as bias
                         in decision-making and the potential for automation to perpetuate existing inequalities.</li>
-                    <li><a href="https://www.neointeraction.com/blogs/how-fintech-apps-depend-on-ui-ux-design-for-its-success"
+                    <li><a href="<?php echo $path; ?>blogs/how-fintech-apps-depend-on-ui-ux-design-for-its-success"
                             target="_blank">The collaboration between Financial institutions and UX/UI designers</a>
                         ensures that their AI systems have a user-friendly interface that meets the needs and
                         expectations of their customers.ddd</li>
                 </ul>
                 In summary, the innovative use cases of AI in finance, <a
-                    href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">combined with a strong
+                    href="<?php echo $path; ?>ui-ux-design-services" target="_blank">combined with a strong
                     focus on UX/UI design</a>, have the potential to greatly improve efficiency, decision-making, and
                 the customer experience in the financial sector.
                 </p>

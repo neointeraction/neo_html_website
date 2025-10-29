@@ -77,7 +77,7 @@
                 </h4>
 
                 <p class="blog-body-text">
-                    <b>Web Design Templates</b> are <a href="https://www.neointeraction.com/blogs/advantages-and-disadvantages-of-website-templates" target="_blank">pre-designed layouts for websites</a>, streamlining the creation of
+                    <b>Web Design Templates</b> are <a href="<?php echo $path; ?>blogs/advantages-and-disadvantages-of-website-templates" target="_blank">pre-designed layouts for websites</a>, streamlining the creation of
                     visually appealing and functional sites with elements like headers, footers, and navigation bars.
                     Sources for these templates include platforms like TemplateMonster, Colorlib, and ThemeForest.<br />
                     <b>Print Design Templates</b> cater to physical marketing materials like brochures and business
@@ -199,18 +199,18 @@
 
                 <p class="blog-body-text">
                     <b>Customization and Personalization</b></br/>
-                    Customization allows individuals or businesses to add a personal touch, making the design unique and aligned with their needs through structure, layout, <a href="https://www.neointeraction.com/blogs/how-to-improve-your-digital-content-using-appropriate-typography" target="_blank">typography</a>, and <a href="https://www.neointeraction.com/blogs/the-impact-of-color-in-branding" target="_blank">color scheme</a> modifications. Additionally, incorporating brand elements, such as logos, icons, or taglines, reinforces the brand identity, ensuring that the overall design aligns with the brand's values and messaging.
+                    Customization allows individuals or businesses to add a personal touch, making the design unique and aligned with their needs through structure, layout, <a href="<?php echo $path; ?>blogs/how-to-improve-your-digital-content-using-appropriate-typography" target="_blank">typography</a>, and <a href="<?php echo $path; ?>blogs/the-impact-of-color-in-branding" target="_blank">color scheme</a> modifications. Additionally, incorporating brand elements, such as logos, icons, or taglines, reinforces the brand identity, ensuring that the overall design aligns with the brand's values and messaging.
                 </p>
 
                 <p class="blog-body-text">
                     <b>User-Centric Innovation and Iterative Refinement</b></br/>
-                    This includes extensive research and detailed personas, empathizing with users, and tailoring solutions to address specific needs and pain points. Aligned with iterative <a href="https://www.neointeraction.com/blogs/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" target="_blank">design thinking</a>, this approach ensures continuous refinement based on user feedback, resulting in purposeful innovation that adapts to changing requirements for an improved user experience.
+                    This includes extensive research and detailed personas, empathizing with users, and tailoring solutions to address specific needs and pain points. Aligned with iterative <a href="<?php echo $path; ?>blogs/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" target="_blank">design thinking</a>, this approach ensures continuous refinement based on user feedback, resulting in purposeful innovation that adapts to changing requirements for an improved user experience.
                 </p>
 
 
                 <p class="blog-body-text">
                     <b>Original Imagery and Graphics</b></br/>
-                    Integrate original images and graphics that are relevant to the project or brand. Blend custom <a href="https://www.neointeraction.com/blogs/6-big-reasons-to-apply-illustrations-in-ui-ux-design" target="_blank">illustrations</a> or photographs with template elements for a distinctive look.
+                    Integrate original images and graphics that are relevant to the project or brand. Blend custom <a href="<?php echo $path; ?>blogs/6-big-reasons-to-apply-illustrations-in-ui-ux-design" target="_blank">illustrations</a> or photographs with template elements for a distinctive look.
                 </p>
 
 
@@ -232,8 +232,8 @@
                     business. While templates offer an efficient and cost-effective solution for quick design
                     implementations, they may hinder achieving truly unique and tailored designs that maximize your
                     business potential. If your project requires a distinctive and personalized touch, we recommend
-                    exploring various options, including UI/UX design service <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">consultation</a> with our experts at
-                    <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a>. Our team excels in finding the right balance between efficiency and
+                    exploring various options, including UI/UX design service <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">consultation</a> with our experts at
+                    <a href="<?php echo $path; ?>" target="_blank">Neointeraction Design</a>. Our team excels in finding the right balance between efficiency and
                     originality, whether customizing templates or creating bespoke designs from scratch to align with
                     your project goals seamlessly.
                 </p>

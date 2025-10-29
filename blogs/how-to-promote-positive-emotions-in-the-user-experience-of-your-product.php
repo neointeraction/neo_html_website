@@ -116,7 +116,7 @@
                 <p class="blog-body-text">
                     As Don Norman, notable cognitive scientist and best known for his popular book ‘The Design of Everyday Things’, had stated in his popular paper on <a href="https://www.interaction-design.org/literature/article/norman-s-three-levels-of-design" target="_blank">emotion and design</a>:<br/>
                     “Negative affect can make it harder to do even easy tasks: positive affect can make it easier to do difficult tasks”<br/>
-                    It is easy to design when everything is flawless and appealing, but clients struggle with this since they encounter entirely different states. As designers, we must focus on the other states, including the missing data state, the error state, and the blank state. Afterall <a href="https://www.neointeraction.com/blogs/how-to-align-good-ux-ui-concepts-with-customer-requirements" target="_blank">User Experience</a> plays a vital role in the success of a product as part of our <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">ui ux design services</a>.
+                    It is easy to design when everything is flawless and appealing, but clients struggle with this since they encounter entirely different states. As designers, we must focus on the other states, including the missing data state, the error state, and the blank state. Afterall <a href="<?php echo $path; ?>blogs/how-to-align-good-ux-ui-concepts-with-customer-requirements" target="_blank">User Experience</a> plays a vital role in the success of a product as part of our <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">ui ux design services</a>.
                 </p>
 
               
@@ -178,7 +178,7 @@
                 <h4 class="blog-body-title">Why is it Important to Design Negative and First-time Scenarios?</h4>
 
                 <p class="blog-body-text">
-                    Good UI UX Design can help us increase customer satisfaction, and encourage product engagement. <a href="https://www.neointeraction.com/blogs/how-a-ux-design-partner-can-benefit-your-company" target="_blank">Why does your Business need Good UX Design?</a> Good UX design means thinking like a user and offering a clear path to assist the user in achieving their goals when interacting with the product. That is something we made sure we achieved while we worked closely with one of Neointeraction’s <a href="https://www.neointeraction.com/internet-banking-ux" target="_blank">Middle East Clients</a>.
+                    Good UI UX Design can help us increase customer satisfaction, and encourage product engagement. <a href="<?php echo $path; ?>blogs/how-a-ux-design-partner-can-benefit-your-company" target="_blank">Why does your Business need Good UX Design?</a> Good UX design means thinking like a user and offering a clear path to assist the user in achieving their goals when interacting with the product. That is something we made sure we achieved while we worked closely with one of Neointeraction’s <a href="<?php echo $path; ?>internet-banking-ux" target="_blank">Middle East Clients</a>.
                 </p>
 
                 <p class="blog-body-text">
@@ -192,7 +192,7 @@
                 <h4 class="blog-body-title">Takeaway</h4>
 
                 <p class="blog-body-text">
-                    It's easy to overlook the states in a UX design because they occur frequently and aren't always known well understood, however, the benefits of these inclusions are understated because they enhance user experience. Hire <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">ui ux developer</a> from Neointeraction Design team to help create a more cohesive product experience.
+                    It's easy to overlook the states in a UX design because they occur frequently and aren't always known well understood, however, the benefits of these inclusions are understated because they enhance user experience. Hire <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">ui ux developer</a> from Neointeraction Design team to help create a more cohesive product experience.
                 </p>
 
               

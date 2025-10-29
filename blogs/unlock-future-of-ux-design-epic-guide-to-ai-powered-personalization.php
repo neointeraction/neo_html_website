@@ -105,7 +105,7 @@
                    <ul>
                        <li> <b>Leverage User Data Responsibly: </b><br/> AI uses the collected and analyzed user interactions, preferences, and behaviors to accurately predict. However, it’s important that the data is gathered ethically. Giving users the respect of their privacy by obtaining clear consent and being transparent about data usage builds trust and ensures the ethical use of data. </li>
                        <li> <b>Design for Customization:</b> To have hyper personalized UX, we need flexible UI elements and adaptive content. UI UX Designers need to go beyond the static layouts and create interfaces that can be modified by AI based on user behavior. That can encompass customizable layouts, adaptive navigation systems, and real time content that adjusts itself to meet the user needs.</li>
-                       <li> <b>Continuous Improvement with A/B Testing:</b> The ability to experiment with A/B testing helps designers try different versions of personalized experiences and measure their performance. <a href="https://www.neointeraction.com/blogs/maximizing-efficiency-with-ai-powered-ux-audits-the-future-of-saas-product-optimization" target="_blank">UX audits</a> powered by AI provide in depth insights of user behavior thus helping designers to reimagine and optimize user experience continuously.</li>
+                       <li> <b>Continuous Improvement with A/B Testing:</b> The ability to experiment with A/B testing helps designers try different versions of personalized experiences and measure their performance. <a href="<?php echo $path; ?>blogs/maximizing-efficiency-with-ai-powered-ux-audits-the-future-of-saas-product-optimization" target="_blank">UX audits</a> powered by AI provide in depth insights of user behavior thus helping designers to reimagine and optimize user experience continuously.</li>
                    </ul>
                </p>
 
@@ -144,7 +144,7 @@
                 </div>
 
                 <p class="blog-body-text">
-                    These examples indicate how <a href="https://www.neointeraction.com/blogs/the-future-of-ux-ui-navigating-2024-s-breakthrough-trends" target="_blank">hyper-personalization, powered by AI</a>, drives user engagement.
+                    These examples indicate how <a href="<?php echo $path; ?>blogs/the-future-of-ux-ui-navigating-2024-s-breakthrough-trends" target="_blank">hyper-personalization, powered by AI</a>, drives user engagement.
                 </p>
 
 
@@ -166,7 +166,7 @@
                <h4 class="blog-body-title">The hyper personalized UI UX Design Future</h4>
 
                 <p class="blog-body-text">
-                    The future of hyper personalized UX holds exciting possibilities. The next phase will make use of technologies like natural language processing (NLP), augmented reality (AR), and <a href="https://www.neointeraction.com/blogs/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux" target="_blank">virtual reality (VR)</a>. When these technologies are brought together with AI, UX designers can produce an immersive experience that continues to adapt with users’ evolving needs.
+                    The future of hyper personalized UX holds exciting possibilities. The next phase will make use of technologies like natural language processing (NLP), augmented reality (AR), and <a href="<?php echo $path; ?>blogs/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux" target="_blank">virtual reality (VR)</a>. When these technologies are brought together with AI, UX designers can produce an immersive experience that continues to adapt with users’ evolving needs.
                 </p>
 
 
@@ -174,7 +174,7 @@
                 <h4 class="blog-body-title">Conclusion</h4>
 
                 <p class="blog-body-text">
-                    AI-powered hyper-personalization is reshaping UX design, by completely disregarding the one size fit all approach. It is providing  personalized experiences that higher the user engagement, retention, and satisfaction. But it must consider ethical considerations around privacy, fairness, and user control.. Partnering with a <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX Design Company in India</a> like Neointeraction Design, you can elevate the user experience using AI Powered Personalization that can create the next generation of personalized digital experiences that truly resonate with users.
+                    AI-powered hyper-personalization is reshaping UX design, by completely disregarding the one size fit all approach. It is providing  personalized experiences that higher the user engagement, retention, and satisfaction. But it must consider ethical considerations around privacy, fairness, and user control.. Partnering with a <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX Design Company in India</a> like Neointeraction Design, you can elevate the user experience using AI Powered Personalization that can create the next generation of personalized digital experiences that truly resonate with users.
                 </p>
 
               
