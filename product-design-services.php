@@ -84,9 +84,7 @@ include_once 'includes/tracking-functions.php';
                             </h1>
 
                             <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">Bring your product vision to life with user-focused design.
-                                    Our product design services create engaging, intuitive experiences that drive
-                                    results.</p>
+                                <p class="banner-subtext">Bring your product vision to life with user-focused design. Our product design services create engaging, intuitive experiences that drive results.</p>
 
                             </div>
                         </div>
@@ -143,8 +141,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
 
                     <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">Bring your product vision to life with user-focused design. Our
-                            product design services create engaging, intuitive experiences that drive results.</p>
+                        <p class="banner-subtext">Bring your product vision to life with user-focused design. Our product design services create engaging, intuitive experiences that drive results.</p>
 
                     </div>
                 </div>
@@ -171,35 +168,29 @@ include_once 'includes/tracking-functions.php';
 
     <section class="industry-experience section-padding">
         <div class="container">
-            <h2 class="section-title">Why Choose Us to Design Your Product?</h2>
-            <p class="body-text">At Neointeraction Design, we understand that your SaaS app or digital product is the
-                cornerstone of your business. That's why we're committed to delivering the best product design services
-                in India that not only meet but exceed your expectations. Here's why you should choose us to design your
-                product:</p>
+            <h2 class="section-title">Why Choose Us to Design Your Product?</h2>
+            <p class="body-text">At Neointeraction Design, we recognize that your SaaS app or digital product is fundamental to your business success. That's why we are dedicated to providing the finest product design services in India, going beyond expectations to deliver exceptional results. Here's why partnering with us to design your product makes a difference.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/award.svg" alt="Quality design icon"  width="40px" height="40px" />
                             <h3 class="wwd-title">Quality Design </h3>
-                            <p class="wwd-text">With over 15 years of experience, we've established ourselves as a
-                                leader in the industry, delivering top-notch UX design solutions that drive success.</p>
+                            <p class="wwd-text">With over 15 years of experience, we've established ourselves as a leader in the industry, delivering top - notch UX design solutions that drive success.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/db.svg" alt="Data analysis design icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Data-Driven Solutions</h3>
-                            <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we
-                                make is backed by research and analysis.</p>
+                            <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we make is backed by research and analysis.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="UX UI partnership icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Your reliable UX/UI design partner</h3>
-                            <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to
-                                make sure we accelerate your product journey.</p>
+                            <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to make sure we accelerate your product journey.</p>
                         </div>
                     </div>
 
@@ -207,17 +198,14 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/bulb-on.svg" alt="Creative design team icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Exceptional Team</h3>
-                            <p class="wwd-text">Our team of UX/UI designers, product designers and frontend developers
-                                is among the best in the industry, with the skills and expertise to bring your vision to
-                                life.</p>
+                            <p class="wwd-text">Our team of UX/UI designers, product designers, and frontend developers is among the best in the industry, with the expertise to deliver pixel-perfect, responsive, and high-performance interfaces that flawlessly translate your vision into engaging user experiences.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Track record success icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Proven Track Record</h3>
-                            <p class="wwd-text">We have a proven track record of success, with numerous satisfied
-                                clients across diverse domains</p>
+                            <p class="wwd-text">We consistently deliver high-quality designs on time, earning the trust of clients worldwide across diverse industries. Our focus on precision and excellence ensures every project achieves its goals and goes beyond expectations.</p>
                         </div>
                     </div>
 
@@ -293,7 +281,7 @@ include_once 'includes/tracking-functions.php';
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Our Process</h2>
+            <h2 class="section-title">Our Design Process</h2>
             <div class="video-container section-margin">
 
                 <iframe width="100%" height="650" src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR"
@@ -305,11 +293,11 @@ include_once 'includes/tracking-functions.php';
     </section>
     <?php include $path . 'components/industry-experience.php'; ?>
     <?php 
-        $title = 'Start Your Consultation'; 
-        $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers.';
-        $buttonName = 'Get a Free consultation';
+        $title = 'Connect with Our Product Design Experts'; 
+        $desc = 'Partner with Neointeraction Design to elevate your digital experience. Our UX-driven team helps you refine product design and craft seamless journeys that attract users and accelerate business growth.';
+        $buttonName = 'Book a UX Consultation';
         $imageLink = "assets/images/about-us/hire-content.webp";
-        $imageAlt = "Get a Free consultation";
+        $imageAlt = "Book a UX Consultation";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
     <!-- testimonials  -->

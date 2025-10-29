@@ -52,11 +52,11 @@ include_once 'includes/tracking-functions.php';
         'case_study_url' => 'case-study/casestudy-ai-driven-healthcare-consultation-platform.pdf'
     ],
     [
-        'title' => 'Mobility Paltform for Crew Ship workforce management',
+        'title' => 'Mobility Platform for Crew Ship Workforce Management',
         'description' => 'Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information',
         'image' => 'thumb/desk/crew-mobility-management.webp',
         'mobileImage' => 'thumb/mobile/crew-mobility-management.webp',
-        'alt' => 'Mobility Paltform for Crew Ship workforce management',
+        'alt' => 'Mobility Platform for Crew Ship Workforce Management',
         'link' => 'crew-mobility-management-in-a-cruise.php',
         'case_study_service' => 'crew-mobility-management-in-a-cruise',
         'case_study_url' => 'case-study/casestudy-crew-mobility-management-in-a-cruise.pdf'
@@ -79,13 +79,11 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left">
                             <h1 class="banner-title">
-                                Transform <br> <span class="highlight">Web & Mob App Designs</span>
+                                Transform Your  <br> <span class="highlight">Web & Mobile App Design Experience</span>
                             </h1>
 
                             <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">Craft seamless experiences that delight your users. From
-                                    research to design, we create intuitive interfaces that drive engagement. Let’s turn
-                                    your ideas into impactful digital products.</p>
+                                <p class="banner-subtext">We craft user-centered experiences that drive engagement and performance. From research to design, our team creates intuitive interfaces that align with your business goals and deliver measurable impact.</p>
 
                             </div>
                         </div>
@@ -142,9 +140,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
 
                     <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">Craft seamless experiences that delight your users. From research to
-                            design, we create intuitive interfaces that drive engagement. Let’s turn your ideas into
-                            impactful digital products.</p>
+                        <p class="banner-subtext">We craft user-centered experiences that drive engagement and performance. From research to design, our team creates intuitive interfaces that align with your business goals and deliver measurable impact.</p>
 
                     </div>
                 </div>
@@ -170,9 +166,8 @@ include_once 'includes/tracking-functions.php';
 
     <section class="industry-experience section-padding mb-5">
         <div class="container">
-            <h2 class="section-title">Why Brands Trust Us for UX Design ?</h2>
-            <p class="body-text">We design experiences that put users first and brands ahead. Our proven approach blends
-                creativity, strategy, and technology to deliver impact-driven results.</p>
+            <h2 class="section-title">Why Brands Trust Us for UX Design?</h2>
+            <p class="body-text">We design experiences that put users first and brands ahead. Our proven approach blends creativity, strategy, and technology to deliver impact-driven results.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-6 col-md-3 col-lg-3">
@@ -242,10 +237,8 @@ include_once 'includes/tracking-functions.php';
 
     <section class="industry-experience section-padding">
         <div class="container">
-            <h2 class="section-title">UX Design Process</h2>
-            <p class="body-text">Neointeraction Design is a UX design company in India which offers customizable UX
-                design solutions to suit your specific needs. Whether you're in the early stages of product development
-                or looking to optimize an existing platform, we've got you covered.</p>
+            <h2 class="section-title">Our UX Approach</h2>
+            <p class="body-text">Neointeraction Design is a UX design company in India offering tailored solutions for every stage of your product’s journey. Whether you’re building a new digital platform or refining an existing one, our expertise ensures engaging user experiences and optimized business outcomes.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
@@ -262,8 +255,7 @@ include_once 'includes/tracking-functions.php';
                             <img src="<?php echo $path; ?>assets/images/icons/arcticons_journey.svg"
                                 alt="Information architecture and content icone" width="40" height="40" />
                             <h3 class="wwd-title">IA and Content</h3>
-                            <p class="wwd-text">Develop a clear information architecture and compelling content strategy
-                                to ensure that users can easily find what they need and engage with your brand</p>
+                            <p class="wwd-text">Develop a clear information architecture and compelling content strategy to ensure that users can easily find what they require and engage with your brand.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
@@ -290,8 +282,8 @@ include_once 'includes/tracking-functions.php';
                             <img src="<?php echo $path; ?>assets/images/icons/ui-design.svg" alt="UI design icon"
                                 width="40" height="40" />
                             <h3 class="wwd-title">UI Design</h3>
-                            <p class="wwd-text">From wireframes to high-fidelity mockups, our UI designers will create
-                                visually stunning user interfaces that align with your brand and delight your users</p>
+                            <p class="wwd-text">From wireframes to high-fidelity mockups, our UI designers will create visually stunning user interfaces that align with your brand and delight your users.
+</p>
                         </div>
                     </div>
 
@@ -300,8 +292,7 @@ include_once 'includes/tracking-functions.php';
                             <img src="<?php echo $path; ?>assets/images/icons/technology.svg"
                                 alt="Front-end development icon" width="40" height="40" />
                             <h3 class="wwd-title">Front End Development</h3>
-                            <p class="wwd-text">Bring your designs to life with our front-end development services,
-                                ensuring pixel-perfect execution and seamless integration with your backend systems.</p>
+                            <p class="wwd-text">Bring your designs to life with our front-end development services, ensuring pixel-perfect execution and seamless integration with your backend systems.</p>
                         </div>
                     </div>
 
@@ -373,7 +364,7 @@ include_once 'includes/tracking-functions.php';
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Our Process</h2>
+            <h2 class="section-title">Our UX Design Process</h2>
             <div class="video-container section-margin">
 
                 <iframe width="100%" height="650"
@@ -388,11 +379,11 @@ include_once 'includes/tracking-functions.php';
 
     <?php include $path . 'components/industry-experience.php'; ?>
     <?php 
-        $title = 'Start Your Consultation'; 
-        $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers.';
-        $buttonName = 'Get a Free consultation';
+        $title = 'Hire Expert UX Designers'; 
+        $desc = 'Engage with our UX experts to craft designs that are intuitive, user-centered, and built to drive user delight across your digital products.';
+        $buttonName = 'Request a Quote';
         $imageLink = "assets/images/about-us/hire-ui.webp";
-        $imageAlt = "Get a Free consultation";
+        $imageAlt = "Request a Quote";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
     <!-- testimonials  -->

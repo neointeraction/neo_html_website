@@ -78,15 +78,11 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left">
                             <h1 class="banner-title">
-                                Transform Your <br> Product with Expert<br /> <span class="highlight">Front End <br />
-                                    Development <br />Services in India</span>
+                                Transform Your <br> Product with Expert<br /> <span class="highlight">Front-End Development Services</span>
                             </h1>
 
                             <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">Bring your digital product to life with fast, engaging, and
-                                    user-friendly web experiences. Our frontend expertise ensures high-performing
-                                    interfaces that captivate your users. Turn your ideas into interactive,
-                                    results-driven digital solutions</p>
+                                <p class="banner-subtext">Bring your digital product to life with fast, engaging, and user-friendly web experiences. Our frontend expertise ensures high-performing interfaces that captivate your users. Turn your ideas into interactive, results-driven digital solutions.</p>
 
                             </div>
                         </div>
@@ -143,10 +139,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
 
                     <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">Bring your digital product to life with fast, engaging, and
-                            user-friendly web experiences. Our frontend expertise ensures high-performing interfaces
-                            that captivate your users. Turn your ideas into interactive, results-driven digital
-                            solutions</p>
+                        <p class="banner-subtext">Bring your digital product to life with fast, engaging, and user-friendly web experiences. Our frontend expertise ensures high-performing interfaces that captivate your users. Turn your ideas into interactive, results-driven digital solutions.</p>
 
                     </div>
                 </div>
@@ -218,10 +211,7 @@ include_once 'includes/tracking-functions.php';
                             <img src="<?php echo $path; ?>assets/images/icons/api.svg" alt="Integration icon"
                                 width="40px" height="40px" />
                             <h3 class="wwd-title">Seamless Integration</h3>
-                            <p class="wwd-text">Our frontend development services seamlessly integrate with your
-                                existing systems and technologies, ensuring smooth operation and compatibility across
-                                platforms. Whether you're building from scratch or enhancing an existing product, we've
-                                got you covered.</p>
+                            <p class="wwd-text">Our front-end development services seamlessly integrate with your current systems and technologies, ensuring smooth functionality and cross-platform compatibility. Whether you’re launching a new product or redesigning an existing one, our team can deliver scalable and robust implementation tailored to your needs.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
@@ -351,9 +341,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="custom-card">
                             <h3 class="title">HTML & CSS (SASS) Development</h3>
                             <p class="description">
-                                Bring your designs to life with our HTML and CSS development services. From Figma to
-                                Sketch, we craft stunning, responsive interfaces that perform seamlessly across devices,
-                                powered by frameworks like Bootstrap.
+                               Bring your designs to life with our HTML and CSS development services. From Figma to Sketch, we craft stunning, responsive interfaces that perform seamlessly across devices, powered by frameworks like bootstrap.
                             </p>
                         </div>
                     </div>
@@ -362,20 +350,16 @@ include_once 'includes/tracking-functions.php';
                         <div class="custom-card">
                             <h3 class="title">React JS/React Native</h3>
                             <p class="description">
-                                As a leading React development company, we harness the power of JavaScript library. With
-                                React JS, we build dynamic, interactive and responsive web & mobile apps to deliver a
-                                seamless user experience.
+                               As a leading React development company, we harness the power of the JavaScript library. With React JS, we build dynamic, interactive, and responsive web & mobile apps to deliver a seamless user experience.
                             </p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="custom-card">
-                            <h3 class="title">Vue JS</h3>
+                            <h3 class="title">Vue.js</h3>
                             <p class="description">
-                                Craft compelling user interfaces with our Vue.js development services. Our experts
-                                utilize this progressive JavaScript framework to build scalable and high-performing web
-                                applications that enhance user engagement and satisfaction.
+                                Craft compelling user interfaces with our Vue.js development services. Our experts utilize this progressive JavaScript framework to build scalable and high-performing web applications that drive user engagement and satisfaction.
                             </p>
                         </div>
                     </div>
@@ -384,9 +368,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="custom-card">
                             <h3 class="title">Angular</h3>
                             <p class="description">
-                                Take your web applications to new heights with our Angular development services. Our
-                                experienced developers leverage this robust JavaScript framework to create complex and
-                                scalable pixel perfect solutions tailored to your needs.
+                                Take your web applications to new heights with our Angular development services. Our experienced developers leverage this robust JavaScript framework to create complex and scalable, pixel-perfect solutions tailored to your needs.
                             </p>
                         </div>
                     </div>
@@ -460,7 +442,7 @@ include_once 'includes/tracking-functions.php';
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Our Process</h2>
+            <h2 class="section-title">Our Front-End Development Process</h2>
             <div class="video-container section-margin">
                 <iframe height="650" src="https://www.youtube-nocookie.com/embed/7MslRWZZ9qA?si=TaDeAtgk8dCEY1oY"
                     title="YouTube video player" style="border:0;width:100%;"
@@ -473,11 +455,11 @@ include_once 'includes/tracking-functions.php';
 
     <?php include $path . 'components/industry-experience.php'; ?>
     <?php 
-        $title = 'Start Your Consultation'; 
-        $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers.';
-        $buttonName = 'Get a Free consultation';
-        $imageLink = "assets/images/about-us-hire.jpg";
-        $imageAlt = "Get a Free consultation";
+        $title = 'Hire  Front-End Developers'; 
+        $desc = 'Hire our front-end experts skilled in React, Angular, Vue.js, and HTML to build pixel-perfect, responsive, and high-performance interfaces that turn your design vision into engaging user experiences.';
+        $buttonName = 'Request a Quote';
+        $imageLink = "assets/images/about-us/hire-coder.webp";
+        $imageAlt = "Request a Quote";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
     <!-- testimonials  -->

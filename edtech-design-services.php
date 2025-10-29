@@ -303,7 +303,7 @@ include_once 'includes/tracking-functions.php';
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Our Process</h2>
+            <h2 class="section-title">Our UX Design Process</h2>
             <div class="video-container section-margin">
 
                 <iframe width="100%" height="650" src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR"

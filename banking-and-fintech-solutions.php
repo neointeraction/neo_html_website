@@ -78,13 +78,11 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left">
                             <h1 class="banner-title">
-                                Redefining Banking <br> and <span class="highlight">Fintech Solutions in India </span>
+                                Designing <br><span class="highlight">Banking and Fintech Solutions</span>
                             </h1>
 
                             <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">Transforming banking and fintech with user-friendly digital
-                                    solutions that drive engagement, simplify transactions, and deliver measurable
-                                    results</p>
+                                <p class="banner-subtext">Transforming banking and fintech with user-friendly digital solutions that drive engagement, simplify transactions, and deliver measurable results.</p>
 
                             </div>
                         </div>
@@ -136,8 +134,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
 
                     <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">Transforming banking and fintech with user-friendly digital solutions
-                            that drive engagement, simplify transactions, and deliver measurable results</p>
+                        <p class="banner-subtext">Transforming banking and fintech with user-friendly digital solutions that drive engagement, simplify transactions, and deliver measurable results.</p>
 
                     </div>
                 </div>
@@ -169,36 +166,30 @@ include_once 'includes/tracking-functions.php';
 
     <section class="industry-experience section-padding">
         <div class="container">
-            <h2 class="section-title">Why Choose Us for Your Banking and Fintech Solutions?</h2>
+            <h2 class="section-title">Why Choose Us for Your Banking and Fintech Solutions?</h2>
+            <p class="wwd-text">At Neointeraction Design, we specialize in creating next-generation digital products for online banking, digital payments, trading apps, NBFC platforms, and financial dashboards. We understand that your fintech or SaaS product is at the core of your business success, which is why we deliver user-focused designs tailored to your unique goals. With deep domain expertise and an innovative approach, we craft secure, engaging, and high-performing experiences that build customer trust and drive business growth. Partner with us to transform your financial product into a market-leading digital solution.
+</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/coin.svg" alt="Fintech banking UX design icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Expertise in Fintech and Banking UX Design</h3>
-                            <p class="wwd-text">Leading the industry with our deep understanding of fintech and banking
-                                dynamics, we collaborate closely with financial professionals to craft user-centric
-                                experiences that drive engagement and trust.</p>
+                            <p class="wwd-text">We lead the industry with a profound understanding of digital banking, conversational banking, AI-powered agentic UX, financial planning, and trading solutions. Collaborating with financial professionals, we craft user-centric experiences that build engagement and trust.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/customer-centric.svg" alt="Customer-centric solutions icone" width="40px" height="40px" />
                             <h3 class="wwd-title">Customer-Centric Solutions</h3>
-                            <p class="wwd-text">Our UX/UI designs are tailored to meet the evolving needs of both
-                                customers and financial institutions. Leveraging cutting-edge technologies such as AI
-                                and machine learning, we deliver intuitive solutions that enhance the user experience
-                                across various banking and fintech platforms.</p>
+                            <p class="wwd-text">Our UX/UI designs address the evolving needs of customers and institutions alike. Using an AI-assisted design process, we create intuitive solutions that improve user experiences across digital banking platforms, conversational interfaces, and financial dashboards.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/research-driven.svg" alt="Research-driven UX approach icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Research-Driven Approach</h3>
-                            <p class="wwd-text">Through rigorous qualitative research, we identify pain points in
-                                existing financial processes and translate them into innovative digital solutions. Our
-                                insights-driven approach ensures that our designs have a meaningful impact and deliver
-                                improved outcomes for both users and businesses.</p>
+                            <p class="wwd-text">Through detailed qualitative research, we uncover pain points in existing fintech processes and translate them into innovative, AI-enhanced digital products. This insight-driven methodology ensures meaningful impact and improved outcomes for users and businesses.</p>
                         </div>
                     </div>
 
@@ -206,20 +197,14 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/calendar-driven.svg" alt="Fintech domain expertise icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Domain Expertise and Guidance</h3>
-                            <p class="wwd-text">With a team of experts in fintech and banking, we provide valuable
-                                mentorship and guidance throughout the design process. Our solutions align with industry
-                                standards and address the dynamic needs of the financial sector, ensuring long-term
-                                success for our clients.</p>
+                            <p class="wwd-text">Our fintech and banking experts provide strategic mentorship throughout the design process, aligning solutions with industry standards and the fast-changing financial landscape to secure long-term success.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/ui-design.svg" alt="Future-focused design icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Future-Focused Design Solutions</h3>
-                            <p class="wwd-text">Committed to staying ahead of the curve, we anticipate future trends and
-                                design solutions that are scalable and adaptable. Our forward-thinking approach ensures
-                                that our clients are well-prepared to meet the challenges of tomorrow's financial
-                                landscape.</p>
+                            <p class="wwd-text">We anticipate emerging trends and develop scalable, adaptable designs that prepare clients for tomorrow’s challenges, ensuring sustained relevance in the evolving world of digital finance.</p>
                         </div>
                     </div>
 
@@ -227,10 +212,7 @@ include_once 'includes/tracking-functions.php';
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/enterprise.svg" alt="Banking fintech solutions icon" width="40px" height="40px" />
                             <h3 class="wwd-title">Impactful Banking and Fintech Solutions</h3>
-                            <p class="wwd-text">From optimizing digital banking platforms to revolutionizing payment
-                                systems and implementing AI-driven solutions, we've helped financial institutions
-                                enhance efficiency, accessibility, and overall user experience, driving growth and
-                                innovation in the industry.</p>
+                            <p class="wwd-text">From improving digital and conversational banking experiences to implementing AI-powered agentic interfaces for trading and financial planning, we help financial institutions boost efficiency, accessibility, and innovation—driving sustainable growth across markets.</p>
                         </div>
                     </div>
 
@@ -298,7 +280,7 @@ include_once 'includes/tracking-functions.php';
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Our Process</h2>
+            <h2 class="section-title">Our Design Process</h2>
             <div class="video-container section-margin">
 
                 <iframe width="100%" height="650" src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player" frameborder="0"
@@ -309,9 +291,15 @@ include_once 'includes/tracking-functions.php';
     </section>
 
 
+    <?php 
+        $title = 'Start Your Consultation with Our UX Experts'; 
+        $desc = 'Partner with Neointeraction Design to elevate your digital experience. Our UX-driven team helps you uncover user pain points, refine fintech product design, and craft seamless journeys that attract users and accelerate business growth.';
+        $buttonName = 'Book a UX Consultation';
+        $imageLink = "assets/images/about-us/hire-coder.webp";
+        $imageAlt = "Book a UX Consultation";
+        include $path . 'components/hire-designers-engineers.php'; 
+    ?>
 
-
-    <?php include $path.'components/hire-designers-engineers.php'; ?>
     <!-- testimonials  -->
     <?php $faq_tag = 'fintech'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->

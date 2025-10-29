@@ -166,58 +166,58 @@ include_once 'includes/tracking-functions.php';
 
     <section class="industry-experience section-padding">
         <div class="container">
-            <h2 class="section-title">Why US Companies chose us for their product?</h2>
-            <p class="body-text">At Neointeraction Design, we understand that your digital product is the cornerstone of your business. That's why we're committed to delivering best product design services that not only meet but exceed your expectations. Here's why US clients choose us to design and develop their product</p>
+            <h2 class="section-title">Why do US Companies choose us for their product design?</h2>
+            <p class="body-text">At Neointeraction Design, we understand that your digital product is the cornerstone of your business. That's why we're committed to delivering the best product design services that not only meet but exceed your expectations. Here's why US clients choose us to design and develop their product.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/diamond.svg" alt="Quality Assurance " width="40px" height="40px"  />
-                            <h3 class="wwd-title">Quality Assurance </h3>
-                            <p class="wwd-text">While our rates may be competitive, our commitment to quality remains unwavering. With over 15 years of industry experience, our team of experts is dedicated to delivering superior design solutions that not only meet but exceed your expectations, ensuring optimal user experiences and driving your brand's success.</p>
+                            <img src="<?php echo $path; ?>assets/images/icons/diamond.svg" alt="Quality Assurance " width="40" height="40"  />
+                            <h3 class="wwd-title">Quality Assurance</h3>
+                            <p class="wwd-text">With over 15 years of experience, Neointeraction Design offers competitive rates and an unwavering commitment to excellence. Our expert consultants deliver design solutions that exceed expectations, creating exceptional user experiences that fuel your brand’s growth and success.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/book.svg" alt="Value-Packed Packages" width="40px" height="40px"  />
+                            <img src="<?php echo $path; ?>assets/images/icons/book.svg" alt="Value-Packed Packages" width="40" height="40"  />
                             <h3 class="wwd-title">Value-Packed Packages</h3>
-                            <p class="wwd-text">Our service packages are designed to offer maximum value for your investment. Enjoy a comprehensive range of services, including UX/UI design, product design, and frontend development, all bundled together to streamline your project workflow and enhance efficiency.</p>
+                            <p class="wwd-text">Our service packages are designed to deliver exceptional value for your investment. Each package combines a comprehensive suite of offerings—including UX/UI design, product design, and front-end development—to streamline your project from concept to launch, maximizing efficiency and impact.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/optimise.svg" alt="Cost-Optimized Outsourcing" width="40px" height="40px"  />
-                            <h3 class="wwd-title">Cost-Optimized Outsourcing</h3>
-                            <p class="wwd-text">Outsource to maximize cost efficiency and optimize your project expenses while still receiving top-notch design services</p>
+                            <img src="<?php echo $path; ?>assets/images/icons/optimise.svg" alt="Cost-Optimized Outsourcing" width="40" height="40"  />
+                            <h3 class="wwd-title">AI-Assisted Cost-Optimized Outsourcing</h3>
+                            <p class="wwd-text">Leverage AI-powered solutions to streamline workflows, reduce costs, and ensure top-tier design quality without compromising on creativity or performance.</p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/data.svg" alt="Data-Driven Solutions" width="40px" height="40px"  />
+                            <img src="<?php echo $path; ?>assets/images/icons/data.svg" alt="Data-Driven Solutions" width="40" height="40"  />
                             <h3 class="wwd-title">Data-Driven Solutions</h3>
                             <p class="wwd-text">Our design process is grounded in data, ensuring that every decision we make is backed by research and analysis.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="UX/UI design partner" width="40px" height="40px"  />
-                            <h3 class="wwd-title">Your reliable UX/UI design partner</h3>
-                            <p class="wwd-text">We're here for you, addressing any concerns promptly and consistently to make sure we accelerate your product journey.</p>
+                            <img src="<?php echo $path; ?>assets/images/icons/hand-shake.svg" alt="UX/UI design partner" width="40" height="40"  />
+                            <h3 class="wwd-title">Your Reliable UX/UI Design Partner</h3>
+                            <p class="wwd-text">We're committed to providing prompt, consistent support—helping you accelerate your product journey and achieve exceptional results.</p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/team.svg" alt="Exceptional Team" width="40px" height="40px"  />
-                            <h3 class="wwd-title">Exceptional Team</h3>
-                            <p class="wwd-text">Our team of ux/ui designers, product designers and frontend developers is among the best in the industry, with the skills and expertise to bring your vision to life.</p>
+                            <img src="<?php echo $path; ?>assets/images/icons/team.svg" alt="A Dependable Partner" width="40" height="40"  />
+                            <h3 class="wwd-title">A Dependable Partner</h3>
+                            <p class="wwd-text">Our team of UX/UI designers, product designers, and front-end developers ranks among the best in the industry—combining expertise and creativity to bring your vision to life.</p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
-                            <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Proven Track Record" width="40px" height="40px"   />
+                            <img src="<?php echo $path; ?>assets/images/icons/proven-expertise.svg" alt="Proven Track Record" width="40" height="40"   />
                             <h3 class="wwd-title">Proven Track Record</h3>
                             <p class="wwd-text">We have a proven track record of success, with numerous satisfied clients across diverse domains.</p>
                         </div>
@@ -289,7 +289,7 @@ include_once 'includes/tracking-functions.php';
       <!-- demo-video  -->
       <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Our Process</h2>
+            <h2 class="section-title">Our UX Design Process</h2>
             <div class="video-container section-margin">
                 
                 <iframe width="100%" height="650" src="https://www.youtube-nocookie.com/embed/d_rEmpCVHAI?si=ZPQ5SxsTSvOkJsIW" title="YouTube video player" frameborder="0"
@@ -304,7 +304,14 @@ include_once 'includes/tracking-functions.php';
     <script src="<?php echo $path; ?>assets/js/lp-enquiry.js"></script>
 
 
-    <?php include $path.'components/hire-designers-engineers.php'; ?>
+        <?php 
+        $title = 'Start Your Consultation with Our UX Experts'; 
+        $desc = 'Partner with Neointeraction Design to elevate your digital experience. Our UX-driven team helps you uncover user pain points, refine product design, and craft seamless journeys that attract users and accelerate business growth.';
+        $buttonName = 'Book a UX Consultation';
+        $imageLink = "assets/images/about-us/hire-ui.webp";
+        $imageAlt = "Book a UX Consultation";
+        include $path . 'components/hire-designers-engineers.php'; 
+    ?>
     <!-- testimonials  -->
     <?php $faq_tag = 'usa'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->
