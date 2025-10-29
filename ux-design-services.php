@@ -164,7 +164,7 @@ include_once 'includes/tracking-functions.php';
     </section>
     <!-- clients -- end  -->
 
-    <section class="industry-experience section-padding mb-5">
+    <section class="industry-experience section-padding">
         <div class="container">
             <h2 class="section-title">Why Brands Trust Us for UX Design?</h2>
             <p class="body-text">We design experiences that put users first and brands ahead. Our proven approach blends creativity, strategy, and technology to deliver impact-driven results.</p>
@@ -355,10 +355,9 @@ include_once 'includes/tracking-functions.php';
     </section>
 
 
-    <!-- testimonials  -->
-    <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
-
+    <section class="section-padding">
+        <?php include 'components/testimonial.php'; ?>
+    </section>
 
 
     <!-- demo-video  -->
@@ -378,6 +377,7 @@ include_once 'includes/tracking-functions.php';
     </section>
 
     <?php include $path . 'components/industry-experience.php'; ?>
+    <div class="container">
     <?php 
         $title = 'Hire Expert UX Designers'; 
         $desc = 'Engage with our UX experts to craft designs that are intuitive, user-centered, and built to drive user delight across your digital products.';
@@ -386,6 +386,7 @@ include_once 'includes/tracking-functions.php';
         $imageAlt = "Request a Quote";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
+    </div>
     <!-- testimonials  -->
     <?php $faq_tag = 'ux-design'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->

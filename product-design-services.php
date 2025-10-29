@@ -269,13 +269,9 @@ include_once 'includes/tracking-functions.php';
 
 
 
-    <!-- testimonials  -->
-    <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
-
-
-
-
+    <section class="section-padding">
+        <?php include 'components/testimonial.php'; ?>
+    </section>
 
 
     <!-- demo-video  -->
@@ -292,6 +288,7 @@ include_once 'includes/tracking-functions.php';
         </div>
     </section>
     <?php include $path . 'components/industry-experience.php'; ?>
+    <div class="container">
     <?php 
         $title = 'Connect with Our Product Design Experts'; 
         $desc = 'Partner with Neointeraction Design to elevate your digital experience. Our UX-driven team helps you refine product design and craft seamless journeys that attract users and accelerate business growth.';
@@ -300,6 +297,7 @@ include_once 'includes/tracking-functions.php';
         $imageAlt = "Book a UX Consultation";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
+    </div>
     <!-- testimonials  -->
     <?php $faq_tag = 'product-design'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->

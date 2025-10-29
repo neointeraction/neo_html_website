@@ -327,6 +327,7 @@ include_once 'includes/tracking-functions.php';
             </div>
         </section>
     <?php include $path . 'components/industry-experience.php'; ?>
+    <div class="container">
         <?php 
             $title = 'Start Your UX Audit Consultation'; 
             $desc = 'Uncover usability gaps and opportunities to optimize your product experience. Our UX experts will review your platform and provide actionable insights for measurable improvements.';
@@ -335,6 +336,7 @@ include_once 'includes/tracking-functions.php';
             $imageAlt = "Get a Free consultation";
             include $path . 'components/hire-designers-engineers.php'; 
         ?>
+        </div>
         <!-- testimonials  -->
         <?php $faq_tag = 'ux-audit'; include 'components/faq.php'; ?>
         <!-- testimonials -- end  -->

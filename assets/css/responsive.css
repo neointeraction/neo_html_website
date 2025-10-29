@@ -485,7 +485,18 @@
     font-size: 16px;
   }
 
-  
+  .engagement-modal-block .project-block-item {
+    margin-bottom: 30px;
+  }
+
+  .section-title {
+    padding-top: 20px;
+  }
+
+  .section-links {
+    padding-top: 20px;
+  }
+
 }
 
 

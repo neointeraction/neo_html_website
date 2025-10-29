@@ -252,10 +252,10 @@ include_once 'includes/tracking-functions.php';
 
     <?php include $path . 'components/our-services-landing.php'; ?>
 
-    <!-- testimonials  -->
-    <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
-
+    <section class="section-padding">
+        <?php include 'components/testimonial.php'; ?>
+    </section>
+    
     <section class="engagement-modal section-padding">
         <div class="container">
             <h2 class="section-title">

@@ -84,9 +84,9 @@
         </div>
     </section>
     <!-- clients end  -->
-    <!-- testimonials  -->
-    <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials end  -->
+    <section class="section-padding">
+        <?php include 'components/testimonial.php'; ?>
+    </section>
     <!-- browse-project  -->
     <section class="browse-project section-padding">
         <div class="container">

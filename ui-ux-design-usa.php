@@ -281,9 +281,9 @@ include_once 'includes/tracking-functions.php';
     </section>
 
 
-            <!-- testimonials  -->
-            <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
+    <section class="section-padding">
+        <?php include 'components/testimonial.php'; ?>
+    </section>
 
 
       <!-- demo-video  -->

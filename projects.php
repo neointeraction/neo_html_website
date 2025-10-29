@@ -149,6 +149,7 @@
     <!-- browse-project end -->
 
     <!-- hire designer  -->
+     <div class="container">
     <?php 
         $title = 'Submit Enquiry'; 
         $desc = 'Ready to start something new? Reach out and let’s bring your project to life!';
@@ -157,6 +158,7 @@
         $imageAlt = "Submit Enquiry";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>
+    </div>
     <!-- hire designer  end  -->
 
 

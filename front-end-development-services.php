@@ -433,9 +433,9 @@ include_once 'includes/tracking-functions.php';
 
 
 
-    <!-- testimonials  -->
-    <?php include 'components/testimonial.php'; ?>
-    <!-- testimonials -- end  -->
+    <section class="section-padding">
+        <?php include 'components/testimonial.php'; ?>
+    </section>
 
 
 
@@ -454,14 +454,16 @@ include_once 'includes/tracking-functions.php';
     </section>
 
     <?php include $path . 'components/industry-experience.php'; ?>
-    <?php 
-        $title = 'Hire  Front-End Developers'; 
-        $desc = 'Hire our front-end experts skilled in React, Angular, Vue.js, and HTML to build pixel-perfect, responsive, and high-performance interfaces that turn your design vision into engaging user experiences.';
-        $buttonName = 'Request a Quote';
-        $imageLink = "assets/images/about-us/hire-coder.webp";
-        $imageAlt = "Request a Quote";
-        include $path . 'components/hire-designers-engineers.php'; 
-    ?>
+    <div class="container">
+        <?php 
+            $title = 'Hire  Front-End Developers'; 
+            $desc = 'Hire our front-end experts skilled in React, Angular, Vue.js, and HTML to build pixel-perfect, responsive, and high-performance interfaces that turn your design vision into engaging user experiences.';
+            $buttonName = 'Request a Quote';
+            $imageLink = "assets/images/about-us/hire-coder.webp";
+            $imageAlt = "Request a Quote";
+            include $path . 'components/hire-designers-engineers.php'; 
+        ?>
+    </div>
     <!-- testimonials  -->
     <?php $faq_tag = 'ui-development'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->

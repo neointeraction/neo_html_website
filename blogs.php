@@ -229,7 +229,7 @@
         }
     </script>
 
-    <?php include 'components/hire-designers-engineers.php'; ?>
+    <div class="container"><?php include 'components/hire-designers-engineers.php'; ?></div>
     <div class="mb-4 mb-md-0"></div>
     <?php include 'components/footer.php'; ?>
     <?php include 'includes/footer-additional-scripts.php'; ?>

@@ -26,7 +26,7 @@
     <div class="container">
       <div class="row ui-card hire-engineers">
         <!-- Image Column -->
-        <div class="col-md-6  img-container d-none d-md-block">
+        <div class="col-md-6 img-container d-none d-md-block">
           <img src="<?php echo $path . $imageLink; ?>" alt="<?php echo $imageAlt; ?>" class="img-fluid" width="559" height="210">
           
         </div>
