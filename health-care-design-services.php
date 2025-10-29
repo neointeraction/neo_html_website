@@ -90,13 +90,11 @@ include_once 'includes/tracking-functions.php';
                     <div class="col-lg-6">
                         <div class="contact-left d-none d-md-block">
                             <h1 class="banner-title">
-                                Transforming <br>Healthcare <span class="highlight">UX Design in India</span>
+                                HealthTech<br><span class="highlight">UX Design Services</span>
                             </h1>
 
                             <div class="contact-info d-none d-md-block">
-                                <p class="banner-subtext">We create user-focused healthcare UX solutions that improve
-                                    patient experiences and streamline digital interactions. Our UX/UI design and
-                                    strategy deliver intuitive, effective, and impactful digital platforms.</p>
+                                <p class="banner-subtext">WWe create user-centered healthcare UX solutions that elevate patient experiences and simplify digital interactions. Our UX/UI design and strategy deliver intuitive, efficient, and impactful platforms that drive engagement, minimize errors, and support healthcare providers. By prioritizing accessibility, simplicity, and security, we design systems that inspire trust and ensure seamless performance across devices and user groups.</p>
 
                             </div>
                         </div>
@@ -149,9 +147,7 @@ include_once 'includes/tracking-functions.php';
                     </div>
 
                     <div class="contact-info d-flex d-md-none">
-                        <p class="banner-subtext">We create user-focused healthcare UX solutions that improve patient
-                            experiences and streamline digital interactions. Our UX/UI design and strategy deliver
-                            intuitive, effective, and impactful digital platforms.</p>
+                        <p class="banner-subtext">We create user-centered healthcare UX solutions that elevate patient experiences and simplify digital interactions. Our UX/UI design and strategy deliver intuitive, efficient, and impactful platforms that drive engagement, minimize errors, and support healthcare providers. By prioritizing accessibility, simplicity, and security, we design systems that inspire trust and ensure seamless performance across devices and user groups.</p>
 
                     </div>
                 </div>
@@ -181,62 +177,51 @@ include_once 'includes/tracking-functions.php';
 
     <section class="industry-experience section-padding">
         <div class="container">
-            <h2 class="section-title">Why Choose Us to Design Your Healthcare Product?</h2>
+            <h2 class="section-title">Why Choose Us to Design Your Healthcare Product?</h2>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/health.svg" alt="Healthcare UX design expertise icon" />
                             <h3 class="wwd-title">Expertise in Healthcare UX Design</h3>
-                            <p class="wwd-text">Leading the industry with expertise in healthcare, we collaborate
-                                closely with healthcare professionals to create enhanced user-centric experiences.</p>
+                            <p class="wwd-text">As a leading UX design agency in India, Neointeraction Design specializes in creating user-centered healthcare products that simplify complex workflows and enhance patient engagement. With deep expertise in UX design and front-end development, we build intuitive, secure, and accessible digital platforms for hospitals, healthtech startups, and medical service providers—helping you deliver better care and improved outcomes.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/care.svg" alt="Patient and doctor-centric UX solutions icon" />
-                            <h3 class="wwd-title">Patient and Doctor-Centric Solutions</h3>
-                            <p class="wwd-text">Our UI/UX designs are driven by emerging user needs, leveraging the
-                                latest AI/ML technology to deliver efficient clinical healthcare UX solutions that
-                                prioritize the needs of both patients and healthcare providers.</p>
+                            <h3 class="wwd-title">Patient and Provider-Centered Solutions</h3>
+                            <p class="wwd-text">Our UI/UX designs leverage the latest AI and machine learning technologies to deliver efficient, intuitive healthcare platforms that address the needs of both patients and medical staff, fostering trust and engagement.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/research-driven.svg" alt="Healthcare UX research insights icon" />
-                            <h3 class="wwd-title">Research-Driven Insights</h3>
-                            <p class="wwd-text">Conducting UX qualitative research, we identify critical pain points in
-                                existing healthcare processes and translate them into innovative digital solutions,
-                                ensuring meaningful impact and improved outcomes.</p>
+                            <h3 class="wwd-title">Research-Driven Innovation</h3>
+                            <p class="wwd-text">Through comprehensive UX research, we identify pain points in healthcare workflows and transform them into innovative digital solutions that enhance clinical outcomes and patient satisfaction.</p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/calendar-driven.svg" alt="Healthcare domain expertise icon" />
-                            <h3 class="wwd-title">Domain Expertise and Mentorship</h3>
-                            <p class="wwd-text">With strong domain expertise and multidisciplinary support, we create
-                                value-based solutions for medical web/mobile apps that align with industry standards and
-                                address the evolving needs of the healthcare sector.</p>
+                            <h3 class="wwd-title">Domain Expertise and Strategic Guidance</h3>
+                            <p class="wwd-text">Backed by deep healthcare domain knowledge and multidisciplinary support, we develop value-driven mobile and web healthcare apps that comply with industry standards and adapt to the sector’s evolving demands.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/ui-design.svg" alt="Future-focused healthcare design icon" />
-                            <h3 class="wwd-title">Future-Focused Design Solutions</h3>
-                            <p class="wwd-text">Committed to creating omnipresent healthcare UX design solutions, we
-                                bring precision medical practices closer to users through innovative design approaches
-                                that anticipate and adapt to future trends.</p>
+                            <h3 class="wwd-title">Future-Ready Design Solutions</h3>
+                            <p class="wwd-text">We focus on creating omnipresent, scalable healthcare UX designs that integrate precision medicine, telehealth, medical wearables, and AI-powered systems, ensuring clients stay ahead in the fast-evolving healthcare landscape.</p>
                         </div>
                     </div>
 
                     <div class="col-12 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/icons/bulb.svg" alt="Impactful healthcare UX solutions icon" />
-                            <h3 class="wwd-title">Impactful Healthcare Solutions</h3>
-                            <p class="wwd-text">From leveraging medical wearables to telehealth platforms and AI-powered
-                                systems, we've optimized healthcare workflows to deliver better results for users,
-                                enhancing accessibility, efficiency, and overall holistic patient experience.</p>
+                            <h3 class="wwd-title">Impactful Healthcare Digital Platforms</h3>
+                            <p class="wwd-text">From telemedicine to health monitoring and AI-assisted diagnostics, our solutions streamline healthcare workflows, improve accessibility, and deliver holistic patient experiences, driving innovation and better health outcomes.</p>
                         </div>
                     </div>
 
@@ -306,7 +291,7 @@ include_once 'includes/tracking-functions.php';
     <!-- demo-video  -->
     <section class="demo-video section-padding">
         <div class="container">
-            <h2 class="section-title">Our UX Design Process</h2>
+            <h2 class="section-title">Our Design Process</h2>
             <div class="video-container section-margin">
                 <iframe src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=_lPo5JZDsP3tnIZR" title="YouTube video player"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
@@ -317,8 +302,14 @@ include_once 'includes/tracking-functions.php';
 
 
 
-
-    <?php include $path.'components/hire-designers-engineers.php'; ?>
+    <?php 
+        $title = 'Start Your Consultation with Our UX Experts'; 
+        $desc = 'Partner with Neointeraction Design to elevate your digital experience. Our UX-driven team helps you uncover user pain points, refine edtech product design, and craft seamless journeys that attract users and accelerate business growth.';
+        $buttonName = 'Book a UX Consultation';
+        $imageLink = "assets/images/about-us/hire-ui.webp";
+        $imageAlt = "Book a UX Consultation";
+        include $path . 'components/hire-designers-engineers.php'; 
+    ?>
     <!-- testimonials  -->
     <?php $faq_tag = 'healthcare'; include 'components/faq.php'; ?>
     <!-- testimonials -- end  -->

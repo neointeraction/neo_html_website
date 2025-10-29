@@ -1,4 +1,55 @@
 [
+,
+  {
+    "title": "ESG Management Platform",
+    "description": "A platform to manage Environmental, Social, and Governance (ESG) initiatives and reporting.",
+    "image": "thumb/desk/digital-blanket-homepage-banner.webp",
+    "mobileImage": "thumb/mobile/digital-blanket-homepage-banner.webp",
+    "alt": "ESG Management Platform",
+    "tags": ["Enterprise Apps", "B2B"],
+    "link": "esg-management-platform.php",
+    "case_study_url": "case-study/casestudy-intelligent-building-esg-management-platform.pdf"
+  },
+  {
+    "title": "Digital Experience in Health & Wellness",
+    "description": "Improving user experience for digital health and wellness platforms.",
+    "image": "thumb/desk/mega-we-care-homepage-banner.webp",
+    "mobileImage": "thumb/mobile/mega-we-care-homepage-banner.webp",
+    "alt": "Digital Experience in Health & Wellness",
+    "tags": ["Healthcare", "B2C"],
+    "link": "digital-health-wellness.php",
+    "case_study_url": "case-study/casestudy-ux-audit-website-redesign-for-a-health-and-wellness-brand.pdf"
+  },
+  {
+    "title": "Startup Accelerator Website",
+    "description": "A website for a startup accelerator program, showcasing startups and program details.",
+    "image": "thumb/desk/india-accelerator-homepage-banner.webp",
+    "mobileImage": "thumb/mobile/india-accelerator-homepage-banner.webp",
+    "alt": "Startup Accelerator Website",
+    "tags": ["Start-up Projects", "B2C"],
+    "link": "startup-accelerator-website.php",
+    "case_study_url": "case-study/case-study-website-redesign-for-india-accelerator.pdf"
+  },
+  {
+    "title": "Employee Transportation Platform",
+    "description": "A platform to manage and optimize employee transportation services.",
+    "image": "thumb/desk/etravelmate-homepage-banner.webp",
+    "mobileImage": "thumb/mobile/etravelmate-homepage-banner.webp",
+    "alt": "Employee Transportation Platform",
+    "tags": ["Enterprise Apps", "B2B"],
+    "link": "employee-transportation-platform.php",
+    "case_study_url": "case-study/case-study-employee-transportation-platform.pdf"
+  },
+    {
+    "title": "Construction Management Platform",
+    "description": "A platform for managing construction projects, from planning to execution.",
+    "image": "thumb/desk/project-main-banner.webp",
+    "mobileImage": "thumb/mobile/construction-management-website-ui.webp",
+    "alt": "Construction Management Platform",
+    "tags": ["Enterprise Apps", "B2B"],
+    "link": "construction-management-platform.php",
+    "case_study_url": "case-study/casestudy-construction-management-platform.pdf"
+  },
   {
     "title": "Mobility Platform for Crew Ship workforce management",
     "description": "Go-to application for Carnival ship staff streamlining daily activities, tasks, and journey-related information",
@@ -129,55 +180,5 @@
     "tags": ["Enterprise Apps", "B2B"],
     "link": "player-transfer-system.php",
     "case_study_url": "case-study/case-study-player-transfer-system.pdf"
-  },
-  {
-    "title": "ESG Management Platform",
-    "description": "A platform to manage Environmental, Social, and Governance (ESG) initiatives and reporting.",
-    "image": "thumb/desk/digital-blanket-homepage-banner.webp",
-    "mobileImage": "thumb/mobile/digital-blanket-homepage-banner.webp",
-    "alt": "ESG Management Platform",
-    "tags": ["Enterprise Apps", "B2B"],
-    "link": "esg-management-platform.php",
-    "case_study_url": "case-study/casestudy-intelligent-building-esg-management-platform.pdf"
-  },
-  {
-    "title": "Digital Experience in Health & Wellness",
-    "description": "Improving user experience for digital health and wellness platforms.",
-    "image": "thumb/desk/mega-we-care-homepage-banner.webp",
-    "mobileImage": "thumb/mobile/mega-we-care-homepage-banner.webp",
-    "alt": "Digital Experience in Health & Wellness",
-    "tags": ["Healthcare", "B2C"],
-    "link": "digital-health-wellness.php",
-    "case_study_url": "case-study/casestudy-ux-audit-website-redesign-for-a-health-and-wellness-brand.pdf"
-  },
-  {
-    "title": "Employee Transportation Platform",
-    "description": "A platform to manage and optimize employee transportation services.",
-    "image": "thumb/desk/etravelmate-homepage-banner.webp",
-    "mobileImage": "thumb/mobile/etravelmate-homepage-banner.webp",
-    "alt": "Employee Transportation Platform",
-    "tags": ["Enterprise Apps", "B2B"],
-    "link": "employee-transportation-platform.php",
-    "case_study_url": "case-study/case-study-employee-transportation-platform.pdf"
-  },
-  {
-    "title": "Startup Accelerator Website",
-    "description": "A website for a startup accelerator program, showcasing startups and program details.",
-    "image": "thumb/desk/india-accelerator-homepage-banner.webp",
-    "mobileImage": "thumb/mobile/india-accelerator-homepage-banner.webp",
-    "alt": "Startup Accelerator Website",
-    "tags": ["Start-up Projects", "B2C"],
-    "link": "startup-accelerator-website.php",
-    "case_study_url": "case-study/case-study-website-redesign-for-india-accelerator.pdf"
-  },
-  {
-    "title": "Construction Management Platform",
-    "description": "A platform for managing construction projects, from planning to execution.",
-    "image": "thumb/desk/project-main-banner.webp",
-    "mobileImage": "thumb/mobile/construction-management-website-ui.webp",
-    "alt": "Construction Management Platform",
-    "tags": ["Enterprise Apps", "B2B"],
-    "link": "construction-management-platform.php",
-    "case_study_url": "case-study/casestudy-construction-management-platform.pdf"
   }
 ]
