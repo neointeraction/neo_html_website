@@ -164,7 +164,7 @@ include_once 'includes/tracking-functions.php';
 
         <section class="industry-experience section-padding">
             <div class="container">
-                <h2 class="section-title">Why Companies chose us for their UX Design Audit ?</h2>
+                <h2 class="section-title">Why Companies chose us for their UX Design Audit ?</h2>
                 <div class="what-we-do-block section-margin">
                     <div class="row">
                         <div class="col-12 col-md-3 col-lg-3">
@@ -179,8 +179,7 @@ include_once 'includes/tracking-functions.php';
                             <div class="wwd-item">
                                 <img src="<?php echo $path; ?>assets/images/icons/search.svg" alt="Heuristic evaluation icon" width="40" height="40" />
                                 <h3 class="wwd-title">Hueristic Evaluation</h3>
-                                <p class="wwd-text">We assess your website/app using design principles by tracing the user
-                                    journey.</p>
+                                <p class="wwd-text">We assess your website/app using design principles by tracing the user journey.</p>
                             </div>
 
                         </div>
@@ -209,7 +208,7 @@ include_once 'includes/tracking-functions.php';
         <section class="business-success section-padding">
             <div class="container">
                 <h2 class="section-title">
-                    Why conduct a UX Audit ?
+                    Why conduct a UX Audit?
                 </h2>
                 <div class="bs-card-section section-margin">
                     <div class="row justify-content-center">
@@ -220,7 +219,7 @@ include_once 'includes/tracking-functions.php';
                                 </div>
                                 <h3 class="title">Low conversion rates</h3>
                                 <p class="description">
-                                    Enhance user journey to boost conversion rates effectively.
+                                    Improve user journey to boost conversion rates effectively.
                                 </p>
                             </div>
                         </div>
@@ -318,7 +317,7 @@ include_once 'includes/tracking-functions.php';
 
         <section class="demo-video section-padding">
             <div class="container">
-                <h2 class="section-title">Our Process</h2>
+                <h2 class="section-title">Our UX Audit Process</h2>
                 <div class="video-container section-margin">
                     <iframe class="video-iframe" height="650"  src="https://www.youtube-nocookie.com/embed/AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh" title="YouTube video player"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -328,8 +327,8 @@ include_once 'includes/tracking-functions.php';
         </section>
     <?php include $path . 'components/industry-experience.php'; ?>
         <?php 
-            $title = 'Start Your Consultation'; 
-            $desc = 'Transform your ideas into pixel-perfect digital experiences with our expert designers and front-end engineers.';
+            $title = 'Start Your UX Audit Consultation'; 
+            $desc = 'Uncover usability gaps and opportunities to optimize your product experience. Our UX experts will review your platform and provide actionable insights for measurable improvements.';
             $buttonName = 'Get a Free consultation';
             $imageLink = "assets/images/about-us/hire-ui.webp";
             $imageAlt = "Get a Free consultation";
