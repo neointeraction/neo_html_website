@@ -25,14 +25,14 @@ include_once $path . 'includes/tracking-functions.php';
 
                                 <form id="enquiryForm" novalidate>
                                     <div class="form-group">
-                                        <label for="name" class="form-label">Name</label>
+                                        <label for="name" class="form-label">Name*</label>
                                         <input type="text" id="name" name="name" class="form-control custom-input"
                                             placeholder="Enter name" maxlength="20" pattern="[A-Za-z ]+" required>
                                         <div id="name-error-modal" class="text-danger"></div>
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="work_email" class="form-label">Work email</label>
+                                        <label for="work_email" class="form-label">Work email*</label>
                                         <input type="email" id="work_email" name="work_email"
                                             class="form-control custom-input" placeholder="Enter work email"
                                             pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
@@ -40,7 +40,7 @@ include_once $path . 'includes/tracking-functions.php';
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="mobile_number" class="form-label">Mobile Number</label>
+                                        <label for="mobile_number" class="form-label">Mobile Number*</label>
                                         <input type="tel" id="mobile_number" name="mobile_number"
                                             class="form-control custom-input"
                                             placeholder="Enter mobile number (e.g. +91 98765 43210)"
