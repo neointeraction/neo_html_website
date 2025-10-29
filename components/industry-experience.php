@@ -1,7 +1,7 @@
     <section class="industry-experience section-padding">
         <div class="container">
             <h2 class="section-title">Industry Experience</h2>
-            <p class="body-text">Neointeraction Design is an expert frontend development company in India that specialize in implementing pixel-perfect UI designs across diverse industries, driving successful outcomes for enterprise solutions, startup ventures, and B2C products enhancing user experiences and boosts business performance.</p>
+            <p class="body-text">Neointeraction Design is a leading UX design agency in India, crafting intuitive digital products and pixel-perfect interfaces tailored to diverse industries. By blending deep user insights with innovative design, we deliver seamless experiences that elevate enterprise platforms, empower startups, and delight B2C customers—driving measurable impact for user satisfaction and business performance.</p>
             <div class="what-we-do-block section-margin">
                 <div class="row">
                     <div class="col-6 col-md-3 col-lg-3">
@@ -23,14 +23,14 @@
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/healthcare.svg" alt="Healthcare digital solutions"  width="40px" height="40px"/>
                             <h3 class="wwd-title">Healthcare</h3>
-                            <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, enhancing wellness journeys. </p>
+                            <p class="wwd-text">Redefining patient care through user-centric healthcare platforms, supporting wellness journeys.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/iot.svg" alt="IoT ecosystem solutions"  width="40px" height="40px"/>
                             <h3 class="wwd-title">IoT</h3>
-                            <p class="wwd-text">Connecting the world through seamless digital ecosystems, powering smarter user experiences.</p>
+                            <p class="wwd-text">Connecting the world through integrated digital ecosystems, powering smarter user experiences.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
@@ -44,7 +44,7 @@
                         <div class="wwd-item">
                             <img src="<?php echo $path; ?>assets/images/industry-experience/es.svg" alt="Enterprise digital solutions"  width="40px" height="40px"/>
                             <h3 class="wwd-title">Enterprise Solutions</h3>
-                            <p class="wwd-text">Tailored digital solutions that streamline operations and drive scalable growth.</p>
+                            <p class="wwd-text">Customized digital solutions that streamline operations and drive scalable growth.</p>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-lg-3">
