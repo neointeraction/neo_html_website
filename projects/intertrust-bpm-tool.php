@@ -14,7 +14,7 @@
     <meta property="og:title" content="Intertrust BPM Tool | Neointeraction design | Contact Now" />
     <meta property="og:description"
         content="BPM tools are designed to help organizations manage and improve business processes efficiently. Contact us to design similar projects." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-bpm-homepage-thumbnail.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-bpm-homepage-thumbnail.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="<?php echo $base_url; ?>bpm-redesign-project" />
@@ -25,7 +25,7 @@
     <meta name="twitter:title" content="Intertrust BPM Tool | Neointeraction design | Contact Now" />
     <meta name="twitter:description"
         content="BPM tools are designed to help organizations manage and improve business processes efficiently. Contact us to design similar projects." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-bpm-homepage-thumbnail.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-bpm-homepage-thumbnail.webp" />
 </head>
 
 <body>
@@ -56,17 +56,17 @@
   
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-project banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-project banner.webp"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-project banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-project banner-float.webp"
                     alt="pbanner1" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-tool.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-tool.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -77,7 +77,7 @@
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
                             <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/intertrust-logo.svg" alt="intertrust" />
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/intertrust-logo.webp" alt="intertrust" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
@@ -190,7 +190,7 @@
                     <p class="project-body-text">Wireframing prototypes were meticulously created to refine the process flow and further refine the design solutions</p>
 
                  <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-website-ui.jpeg" alt="ui-update" />
+                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-website-ui.webp" alt="ui-update" />
                     </div>
                 </div>
                 <!-- solutions-help section -->
