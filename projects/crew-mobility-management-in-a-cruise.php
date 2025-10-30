@@ -14,7 +14,7 @@
     <meta property="og:description"
         content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
     <meta property="og:image"
-        content="<?php echo $base_url; ?>assets/images/og/crew-mobility-management-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/crew-mobility-management-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="<?php echo $base_url; ?>projects/crew-mobility-management-in-a-cruise.php" />
@@ -25,7 +25,7 @@
     <meta name="twitter:description"
         content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
     <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/og/crew-mobility-management-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/crew-mobility-management-thumbnail.webp" />
     <meta name="twitter:card" content="summary" />
 </head>
 
@@ -52,17 +52,17 @@
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management-banner.webp"
-                    alt="pbanner1" />
+                    alt="pbanner1111" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management-banner-float.webp"
-                    alt="pbanner1" />
+                    alt="pbanner2222" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise.jpeg"
-                    alt="pbanner1" />
+                <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management.webp"
+                    alt="Crew mobility management" />
             </div>
         </div>
         <div class="project-content-block">
@@ -86,7 +86,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h3 class="project-section-title">Overview </h3>
+                        <h2 class="project-section-title">Overview </h2>
                         <a href="#" class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </a>
@@ -95,7 +95,7 @@
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
-                    <h3 class="project-section-title">Result </h3>
+                    <h2 class="project-section-title">Result </h2>
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-4 col-md-3 count-up-item">
@@ -119,11 +119,11 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h3 class="project-section-title">Objective </h3>
+                            <h2 class="project-section-title">Objective </h2>
                             <p class="project-body-text">The aim was to improve the app experience by making the itinerary details accessible effortlessly. The focus is on simplifying the crews' travel planning activities and getting information about their journey seamlessly, all in one place.</p>
                         </div>
                         <div class="col-md-6">
-                            <h3 class="project-section-title ps-responsive-margin">Challenges </h3>
+                            <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
                             <p class="project-body-text">Considering the app was created with a tech-first approach, where it was built from the utility point of view, no significant design considerations or user research were used when creating the app for various user personas.</p>
                         </div>
                     </div>
@@ -177,7 +177,7 @@
                 </div>
                 <!-- brainstorming-session  -->
                 <div class="brainstorming-session project-section-padding">
-                    <h3 class="project-section-title">Brainstorming Session </h3>
+                    <h2 class="project-section-title">Brainstorming Session </h2>
                     <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches served as the project's inspiration.</p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-brainstorming-session.webp"
