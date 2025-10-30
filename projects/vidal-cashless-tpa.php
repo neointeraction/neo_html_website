@@ -61,7 +61,7 @@ include $path . 'includes/case_study_helper.php';
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa.webp"
+                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-cashless-tpa.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -86,7 +86,7 @@ include $path . 'includes/case_study_helper.php';
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h4 class="project-section-title">Overview </h4>
+                        <h2class="project-section-title">Overview </h2>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
@@ -96,7 +96,7 @@ include $path . 'includes/case_study_helper.php';
                 </div>
 
                 <div class="result-block project-section-padding">
-                    <h4 class="project-section-title">Result </h4>
+                    <h2 class="project-section-title">Result </h2>
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-4 col-md-3 count-up-item">
@@ -120,18 +120,18 @@ include $path . 'includes/case_study_helper.php';
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4 class="project-section-title">Objective </h4>
+                            <h2 class="project-section-title">Objective </h2>
                             <p class="project-body-text">The goal is to improve efficiency and speed by reducing Turnaround Times (TAT) and creating a seamless experience for various processing teams through consistency and better usability in the TPA claim processing system.</p>
                         </div>
                         <div class="col-md-6">
-                            <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+                            <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
                             <p class="project-body-text">The inefficient processing of claims, causing delays in request handling, highlighted a need for improvement in the TIPS application. To address this, one key initiative was to automate the filling in of details from the Pre-Authorization level when dealing with cashless claims.</p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Solutions we offered</h4>
+                    <h2 class="project-section-title">Solutions we offered</h2>
                     <p class="project-body-text">We worked on making the platform more user-friendly by simplifying both manual and automated claim processes. We also focused on creating a consistent visual system that enhances clarity, usability, and navigation across modules.</p>
 
                     <div class="bs-card-section project-bs-cards">
@@ -139,7 +139,7 @@ include $path . 'includes/case_study_helper.php';
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Adopted a User-centric Approach</h4>
+                                    <h3 class="title">Adopted a User-centric Approach</h3>
                                     <p class="description">
                                     End-to-end user journeys are mapped, prioritizing user needs and experiences, and addressing existing system issues.
                                     </p>
@@ -148,7 +148,7 @@ include $path . 'includes/case_study_helper.php';
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Streamlined Claim Process</h4>
+                                    <h3 class="title">Streamlined Claim Process</h3>
                                     <p class="description">
                                     Identified and solved issues in both manual and automated claim process stages, improving overall efficiency.
                                     </p>
@@ -157,7 +157,7 @@ include $path . 'includes/case_study_helper.php';
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Measurable UX Solutions</h4>
+                                    <h3 class="title">Measurable UX Solutions</h3>
                                     <p class="description">
                                     Translated business insights into a tangible UX solution, aiming to reduce Turnaround Times (TATs) and prioritize user tasks.
                                     </p>
@@ -166,7 +166,7 @@ include $path . 'includes/case_study_helper.php';
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Alignment with UX Recommendations </h4>
+                                    <h3 class="title">Alignment with UX Recommendations </h3>
                                     <p class="description">
                                     The business team made necessary changes to align with the improvements in user experience.
                                     </p>
@@ -205,7 +205,7 @@ include $path . 'includes/case_study_helper.php';
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Preauthorization Time Reduction</h4>
+                                    <h3 class="title">Preauthorization Time Reduction</h3>
                                     <p class="description">
                                     The new design brought about a remarkable 70% reduction in time for completing the preauthorization confirmation within the existing Pre Auth flow.
                                     </p>
@@ -216,7 +216,7 @@ include $path . 'includes/case_study_helper.php';
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Comprehensive Redesign for Modern Adaptability</h4>
+                                    <h3 class="title">Comprehensive Redesign for Modern Adaptability</h3>
                                     <p class="description">
                                     We chose a holistic approach to optimize designs, making sure our designs work well on various screen sizes and touch-enabled devices.
                                     </p>
@@ -229,7 +229,7 @@ include $path . 'includes/case_study_helper.php';
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Modular and Scalable Design</h4>
+                                    <h3 class="title">Modular and Scalable Design</h3>
                                     <p class="description">
                                     By using a modular approach, we created design components that can be reused and adapted as needed, improving the overall efficiency.
                                     </p>
@@ -239,7 +239,7 @@ include $path . 'includes/case_study_helper.php';
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Remarkable Daily Request Surge</h4>
+                                    <h3 class="title">Remarkable Daily Request Surge</h3>
                                     <p class="description">
                                     Post adopting the Pre-Auth feature in T1 hospitals, the daily requests surged by an impressive 400%.
                                     </p>
@@ -254,7 +254,7 @@ include $path . 'includes/case_study_helper.php';
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                    <h4 class="project-section-title">Final UI</h4>
+                    <h3 class="project-section-title">Final UI</h4>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-website-ui.webp" alt="ui-update" />
                     </div>
