@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
-let nameInput = document.getElementById('name');
+var nameInput = document.getElementById('name');
 
 nameInput.addEventListener("keypress", e => {
   const char = String.fromCharCode(e.which);

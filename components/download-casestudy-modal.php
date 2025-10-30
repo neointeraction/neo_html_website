@@ -19,14 +19,14 @@ include_once $path . 'includes/tracking-functions.php';
 
                                 <form id="downloadCaseStudyForm" novalidate>
                                     <div class="form-group">
-                                        <label for="cs_name-casestudy" class="form-label">Name</label>
+                                        <label for="cs_name-casestudy" class="form-label">Name*</label>
                                         <input type="text" id="cs_name-casestudy" name="cs_name"
                                             class="form-control custom-input" placeholder="Enter name" required>
                                         <div id="cs_name-error-casestudy" class="text-danger"></div>
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="cs_work_email-casestudy" class="form-label">Work email</label>
+                                        <label for="cs_work_email-casestudy" class="form-label">Work email*</label>
                                         <input type="email" id="cs_work_email-casestudy" name="cs_work_email"
                                             class="form-control custom-input" placeholder="Enter work email"
                                             pattern="^[^\s@]+@[^\s@]+\.[^\s@]+$" required>
@@ -34,7 +34,7 @@ include_once $path . 'includes/tracking-functions.php';
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="cs_mobile_number-casestudy" class="form-label">Mobile Number</label>
+                                        <label for="cs_mobile_number-casestudy" class="form-label">Mobile Number*</label>
                                         <input type="tel" id="cs_mobile_number-casestudy" name="cs_mobile_number"
                                             class="form-control custom-input"
                                             placeholder="Enter mobile number (e.g. +91 98765 43210)"
