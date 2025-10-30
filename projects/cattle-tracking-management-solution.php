@@ -98,11 +98,7 @@
                             Book A Consultation
                         </button>
                     </div>
-                    <p class="p-main-text">Revolutionizing cattle farm management by streamlining tasks, promoting
-                        healthier livestock, and increasing profitability</p>
-                    <!-- <button class="btn btn-custom case-study-mobview ">
-                        Book A Consultation
-                    </button> -->
+                    <p class="p-main-text">Herdx platform revolutionizes cattle farm management by using IoT wearables like collars and tags to collect real-time data on cattle location, health, and behavior. This data is analyzed on a platform that enables farmers to remotely monitor their herds, detect diseases early, manage grazing, and optimize breeding with smartphone alerts, improving livestock health and farm profitability efficiently.</p>
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -131,25 +127,20 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="project-section-title">Objective </h4>
-                            <p class="project-body-text">Revamping herd management technology for cow/calf producers and
-                                stockers to boost efficiency and promote healthier cattle. The redesign aims for a
-                                modern look, improved usability, and a consistent visual style for a streamlined and
-                                effective user experience.</p>
+                            <p class="project-body-text">To modernize herd management technology for cow/calf producers and stockers, driving greater efficiency and ease of management. The UX redesign focuses on a clean, modern interface with improved usability and consistent visuals, ensuring a seamless and effective user experience refined by a live dashboard for real-time monitoring.</p>
                         </div>
                         <div class="col-md-6">
                             <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                            <p class="project-body-text">Simplifying the manual work to make cattle tracking and
-                                management digitally accessible needed key attention to details. Considering the
-                                complexity and the users, crafting a seamless user experience across websites and
-                                mobiles was challenging.</p>
+                            <p class="project-body-text">Simplifying the manual work to make cattle tracking and management digitally accessible needed key attention to details. Considering the complexity and the users, crafting an effortless user experience across websites and mobiles was challenging.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Solutions we offered</h4>
-                    <p class="project-body-text">With a fresh consistent visual style the new design streamlined an
-                        effective guided user experience to boost efficiency and promote healthier cattle</p>
+                    <p class="project-body-text">With a refreshed, consistent visual identity, the new design offered a clear, guided experience that improved usability and made interactions feel effortless. It also strengthened user engagement through simplified navigation and real-time insights.
+                    </p>
 
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
@@ -158,8 +149,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Unified Design Language</h4>
                                     <p class="description">
-                                        Fully revamped the design language, preserving the company's branding and
-                                        usability while ensuring consistency across both web and mobile platforms.
+                                    Fully revamped the design language, preserving the company's branding and usability while ensuring consistency across both web and mobile platforms.
                                     </p>
                                 </div>
                             </div>
@@ -168,8 +158,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Digitalization of Manual Data Handling</h4>
                                     <p class="description">
-                                        Transformed the manual data handling process into a digitalized system for
-                                        optimal performance.
+                                    Transformed the manual data handling process into a digitalized system for optimal performance.
                                     </p>
                                 </div>
                             </div>
@@ -179,8 +168,7 @@
                                     <h4 class="title">
                                         Iterative Design Process</h4>
                                     <p class="description">
-                                        Created interactive designs leading to prototypes to provide a comprehensive
-                                        understanding of the product.
+                                    Created interactive designs leading to prototypes to provide a comprehensive understanding of the product.
                                     </p>
                                 </div>
                             </div>
@@ -189,7 +177,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Foundation </h4>
                                     <p class="description">
-                                        Wireframing , prototyping and micro interaction
+                                    Wireframing, prototyping, micro interaction, and integration of a live dashboard for real-time data visualization and alerts.
                                     </p>
                                 </div>
                             </div>
@@ -211,9 +199,7 @@
                         </button>
                     </div>
                     <p class="project-body-text">
-                        We made things easier for farmers by improving how they handle data. This means less manual work
-                        for them, making their work more efficient. By keeping a constant eye on things, we also helped
-                        reduce health problems with the animals on the farm.
+                    We made things easier for farmers by improving how they handle data. This means less manual work for them, making their work more efficient. 
                     </p>
                     <button class="btn btn-custom case-study-mobview ps-responsive-margin" 
                     data-service="cattle-tracking-management-solution" data-bs-toggle="modal"
@@ -229,10 +215,9 @@
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">
-                                        Enhanced User Experience</h4>
+                                    Improved User Experience</h4>
                                     <p class="description">
-                                        Users found the redesigned solution notably easier to use and the increase
-                                        overall user engagement.
+                                    Users found the redesigned solution notably easier to use with increased overall engagement, thanks to the intuitive UI UX and live dashboard.
                                     </p>
 
                                 </div>
@@ -243,8 +228,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Reduced Manual Workload</h4>
                                     <p class="description">
-                                        The digitalization of manual data processes led to a significant decrease in
-                                        manual work for Ranchers.
+                                    The digitalization of manual data processes led to a significant decrease in manual work for ranchers.
                                     </p>
 
                                 </div>
@@ -255,7 +239,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Increased Operational Efficiency</h4>
                                     <p class="description">
-                                        The solution resulted in improved efficiency for cow/calf producers and stockers
+                                    The solution resulted in improved efficiency for cow/calf producers and stockers.
                                     </p>
 
                                 </div>
@@ -264,10 +248,9 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Health Monitoring Advancement</h4>
+                                    <h4 class="title">Mobile-Centric Digital Integration</h4>
                                     <p class="description">
-                                        Continuous herd monitoring through the application contributed to a notable
-                                        reduction in illnesses and fatalities.
+                                    Made it easy for users to intuitively use both the website and mobile application without doing the same data entry twice, thereby making it easier and faster for users to complete their tasks.
                                     </p>
 
                                 </div>
@@ -278,10 +261,7 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                    <h4 class="project-section-title">Mobile-Centric Digital Integration </h4>
-                    <p class="project-body-text">Made it easy for users to seamlessly use both the website and mobile
-                        application without doing the same data entry twice thereby making it easier and faster for
-                        users to complete their task.</p>
+                    <h4 class="project-section-title">Final UI</h4>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-website-ui.jpg"
                             alt="ui-update" />
