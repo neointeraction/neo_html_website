@@ -16,7 +16,7 @@
     <meta property="og:title" content="Biomedical Research platform | Euclid | Neointeraction design" />
     <meta property="og:description"
         content="Keyword extraction in medical research using UX design and React.js. Discover AI-driven text mining solutions and contact Neointeraction for innovative projects." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/euclid-homepage-thumbnail.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/euclid-homepage-thumbnail.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="<?php echo $base_url; ?>biomedical-research-ux-design" />
@@ -27,7 +27,7 @@
     <meta name="twitter:title" content="Biomedical Research platform | Euclid | Neointeraction design" />
     <meta name="twitter:description"
         content="Keyword extraction in medical research using UX design and React.js. Discover AI-driven text mining solutions and contact Neointeraction for innovative projects." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/euclid-homepage-thumbnail.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/euclid-homepage-thumbnail.webp" />
 </head>
 
 <body>
@@ -52,16 +52,16 @@
         <!-- project-banner-img -->
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner.jpg" alt="pbanner1" />
+                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner.webp" alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner-float.webp"
                     alt="pbanner1" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical-research-platform.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical-research-platform.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -266,7 +266,7 @@
                 <div class="ui-update project-section-padding">
                     <h4 class="project-section-title">Final UI </h4>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-website-ui.jpg"
+                        <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-website-ui.webp"
                             alt="ui-update" />
                     </div>
                 </div>
