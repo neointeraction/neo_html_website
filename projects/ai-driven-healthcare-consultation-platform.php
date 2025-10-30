@@ -45,7 +45,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Redesigning Tricogs <span class="highlight">AI Driven Healthcare Platform</span>
+                Redesigning Tricogs <span class="highlight">AI Driven Patient Care Platform</span>
             </h1>
         </div>
 
@@ -99,8 +99,7 @@
                             Book A Consultation
                         </button>
                     </div>
-                    <p class="p-main-text">Heart failure patient care and timely live saving interventions solved using
-                        AI driven predictive healthcare platform</p>
+                    <p class="p-main-text">Tricog, one of the world’s largest predictive healthcare analytics firms, leverages advanced AI technology and deep medical expertise to deliver Virtual Cardiology Services to remote clinics. The platform enables timely, life-saving interventions and improves heart failure patient care through predictive healthcare insights.</p>
                     <!-- <button class="btn btn-custom case-study-mobview ">
                         Book A Consultation
                     </button> -->
@@ -132,22 +131,12 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="project-section-title">Objective </h4>
-                            <p class="project-body-text">Our goal is to create a user-friendly healthcare platform for
-                                Tricog, emphasizing heart failure patient care. This involves connecting cardiologists
-                                with patients through a virtual cardiology service, utilizing AI for predictive
-                                analytics. The platform aims for smooth communication and improved outcomes.</p>
+                            <p class="project-body-text">Our goal is to create a user-friendly healthcare platform for Tricog, emphasizing heart failure patient care. This involves connecting cardiologists with patients through a virtual cardiology service, utilizing AI for predictive analytics. The platform aims for smooth communication and improved outcomes.
+                            </p>
                         </div>
                         <div class="col-md-6">
                             <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                            <p class="project-body-text">Tricog is one of the world’s largest predictive healthcare
-                                analytics firms. Tricog leverages its deep medical and technical expertise, to provide
-                                Virtual Cardiology Services to remote clinics.
-                                <br><br>The main challenges involved integrating AI for predicting healthcare analytics
-                                into the medical data, making sure that doctors and patients can talk securely, and
-                                creating a platform that's easy to use while having advanced features. Handling and
-                                showing data about patient progress and analysis in a way that doctors easily understand
-                                also makes the project challenging. To overcome these challenges, we need to be familiar
-                                with both medical and tech knowledge to provide live saving timely interventions.
+                            <p class="project-body-text">The key challenges included integrating AI-driven healthcare analytics, ensuring secure doctor-patient communication, and building a user-friendly yet feature-rich platform. Presenting complex patient data in a clear, actionable format required a strong understanding of both medical and technological domains to enable timely, life-saving interventions.
                             </p>
                         </div>
                     </div>
@@ -155,9 +144,8 @@
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Solutions we offered</h4>
-                    <p class="project-body-text">We assisted the client in strategizing and developing a product based
-                        on their requirements, as well as some of our design recommendations that assist the target user
-                        by conducting,</p>
+                    <p class="project-body-text">We assisted the client in strategizing and developing a product aligned with their business goals while integrating our design recommendations to improve user experience. Through detailed research and analysis, we identified key user needs and pain points. These insights guided the creation of an intuitive, goal-focused solution.
+                    </p>
 
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
@@ -166,9 +154,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Formal Research and Domain Exploration</h4>
                                     <p class="description">
-                                        This involved a deep understanding of the healthcare industry in detail, paying
-                                        close attention to the specifics of how it works particularly focusing on heart
-                                        failure patient care.
+                                    This involved a deep understanding of the healthcare industry in detail, paying close attention to the specifics of how it works, particularly focusing on heart failure patient care.
                                     </p>
                                 </div>
                             </div>
@@ -177,9 +163,7 @@
                                 <div class="custom-card">
                                     <h4 class="title"> User Journey Analysis</h4>
                                     <p class="description">
-                                        This thorough examination allowed us to identify pain points, preferences, and
-                                        opportunities for improvement, shaping our design recommendations to enhance the
-                                        overall user experience.
+                                    This thorough examination allowed us to identify pain points, preferences, and opportunities for improvement, shaping our design recommendations to refine the overall user experience.
                                     </p>
                                 </div>
                             </div>
@@ -188,11 +172,10 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">HiFi Wireframing and Prototyping </h4>
+                                    <h4 class="title">Wireframing and Prototyping </h4>
                                     <p class="description">
-                                        This stage in our design process enabled us to visualize and iterate on the
-                                        interface, ensuring that the proposed solutions effectively solved key UX
-                                        challenges.
+                                    This stage in our design process enabled us to visualize and iterate on the interface, ensuring that the proposed solutions effectively solved key UX challenges.
+
                                     </p>
                                 </div>
                             </div>
@@ -201,8 +184,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Data Visualization Integration</h4>
                                     <p class="description">
-                                        The incorporation of data visualization enhanced the platform's functionality
-                                        and contributed to a more intuitive user experience.
+                                    The incorporation of data visualization improved the platform's functionality and contributed to a more intuitive user experience.
                                     </p>
                                 </div>
                             </div>
@@ -212,18 +194,7 @@
                     </div>
                 </div>
                 <!-- brainstorming-session  -->
-                <div class="brainstorming-session project-section-padding">
-                    <h4 class="project-section-title"> Our Approach </h4>
-                    <p class="project-body-text">To make AI accessible while prioritizing data lead us to identifying
-                        key user groups and designing modules accordingly. We improved data visualization for
-                        cardiologists, making it efficient and easy to understand to be able to monitor patient vital in
-                        and use it in an impactful way.</p>
-
-                    <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog-team-discussion.webp"
-                            alt="Team brainstorming for Tricog AI healthcare redesign" />
-                    </div>
-                </div>
+              
                 <!-- solutions-help section -->
                 <div class="solutions-help project-section-padding">
                     <div class="title-flex">
@@ -240,8 +211,7 @@
                         </button>
                     </div>
                     <p class="project-body-text">
-                        The seamless integration of our ideas into the design significantly streamlined actions for
-                        cardiologists.
+                    The team’s design recommendations played a crucial role in simplifying patient care workflows for cardiologists. By improving usability and data accessibility, it helped streamline diagnosis, monitoring, and treatment processes, leading to faster and more accurate clinical decisions.
                     </p>
                      <button class="btn btn-custom case-study-mobview ps-responsive-margin"
                                  data-service="ai-driven-healthcare-consultation-platform"
@@ -258,7 +228,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Personalized Care</h4>
                                     <p class="description">
-                                    Patients benefit from  from tailored treatment plans designed to meet their health needs 
+                                    Patients benefit from tailored treatment plans designed to match their specific health needs, ensuring accurate diagnosis, effective monitoring, and better recovery outcomes.
                                     </p>
                                 </div>
                             </div>
@@ -267,7 +237,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Early Detection of Health Issues</h4>
                                     <p class="description">
-                                    Smart alerts help notify Doctors of potential risks and help patients avoid unnecessary hospitalisations and help in life saving interventions.
+                                    Smart alerts help notify doctors of potential risks, help patients avoid unnecessary hospitalisations, and help in life-saving interventions.
                                     </p>
                                 </div>
                             </div>
@@ -295,15 +265,14 @@
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
                     <h4 class="project-section-title">Interactive UI Upgrade </h4>
-                    <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was
-                        driven by practical functionality for a more engaging and user-friendly experience.</p>
+                    <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and user-friendly experience.</p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog-mobile-ui.webp"
                             alt="Tricog mobile app UI" />
                     </div>
 </div>
 <div class="ui-update project-section-padding">
-                    <p class="project-body-text">The web portal design for the cardiologist and care team to monitor patient vitals
+                    <p class="project-body-text">Web portal designed for cardiologists and care teams to monitor patient vitals.
                     </p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog-website-ui.webp"

@@ -88,7 +88,8 @@
                                 Book A Consultation
             </button>
           </div>
-          <p class="p-main-text">Noctil is an advanced AI-powered metadata management platform designed to support rights management organizations in the music and audiovisual industries. It helps maximize royalty collection and distribution while reducing operational costs by up to 80%. The platform offers real-time metadata ingestion, transformation, and validation across fragmented systems, providing a single source of truth with high accuracy. Noctil enables automation of royalty calculations, comprehensive reporting, and smoother human resource management—all through a user-friendly, cloud-based infrastructure tailored to boost efficiency and transparency.</p>
+          <p class="p-main-text">Noctil is an AI-powered metadata management platform built for rights management organizations in the music and audiovisual industries. It streamlines royalty collection and distribution while cutting operational costs by up to 80%. With real-time metadata validation and automation, it delivers a single source of truth for efficient, transparent operations.
+          </p>
         </div>
         <!-- result-block -->
         <div class="result-block project-section-padding">
@@ -117,18 +118,19 @@
           <div class="row">
             <div class="col-md-6">
               <h3 class="project-section-title">Objective </h3>
-              <p class="project-body-text">To enhance the usability of Noctil’s platform by designing functionally driven user experience that streamlines workflows. This optimization aims to increase operational efficiency and reduce costs related to data collection, sharing, and management across multiple rights holders and stakeholders.</p>
+              <p class="project-body-text">To improve Noctil’s platform usability, we delivered a platform redesign and implementation, along with product website design and branding. This comprehensive approach created a functionally driven user experience that streamlines workflows, boosts operational efficiency, and lowers costs related to data collection, sharing, and management across multiple rights holders and stakeholders.</p>
             </div>
             <div class="col-md-6">
               <h3 class="project-section-title ps-responsive-margin">Challenges </h3>
-              <p class="project-body-text">The existing platform’s complexity led to poor usability and convoluted user flows, which limited its effectiveness for target users. It required an in-depth evaluation of user interactions and incorporation of user feedback to reshape the experience into a more intuitive and efficient one.</p>
+              <p class="project-body-text">The existing platform’s complexity led to poor usability and convoluted user flows, which limited its effectiveness for target users. It required an in-depth evaluation of user interactions and the incorporation of user feedback to reshape the experience into a more intuitive and efficient one.</p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
           <h3 class="project-section-title">Solutions we offered</h3>
-          <p class="project-body-text">A thorough heuristic analysis was conducted to identify user pain points within the current system. Based on this data, design strategies were implemented to create solutions both practical for end users and feasible for the development team.</p>
+          <p class="project-body-text">A thorough heuristic analysis was conducted to identify user pain points within the current system. Based on this data, design strategies were implemented to create solutions both practical for end users and feasible for the development team.
+          </p>
 
           <div class="bs-card-section project-bs-cards">
             <div class="row">
@@ -137,7 +139,8 @@
                 <div class="custom-card">
                   <h3 class="title">Usability Enhancement</h3>
                   <p class="description">
-                  Team focused on identifying and resolving usability issues through detailed heuristic evaluation, addressing user frustrations to streamline platform interaction.
+                  Our team focused on identifying and resolving usability issues through detailed heuristic evaluation, addressing user frustrations to streamline platform interaction.
+
                   </p>
                 </div>
               </div>
@@ -146,7 +149,8 @@
                 <div class="custom-card">
                   <h3 class="title">User Engagement Improvement</h3>
                   <p class="description">
-                  Strategic use of color contrasts and a clear visual hierarchy were employed to direct user attention effectively and enhance overall engagement with the interface.
+                  Strategic use of color contrasts and a clear visual hierarchy were employed to direct user attention effectively and create a seamless experience with the interface.
+
                   </p>
                 </div>
               </div>
@@ -155,9 +159,7 @@
                 <div class="custom-card">
                   <h3 class="title">Collaborative decision-making</h3>
                   <p class="description">
-                  Key user flows and design proposals were presented to stakeholders to achieve alignment between business objectives and user needs, enabling informed, collective design decisions.
-
-                  </p>
+                  Key user flows and design proposals were presented to stakeholders to achieve alignment between business objectives and user needs, enabling informed, collective design decisions. </p>
                 </div>
               </div>
               <!-- Card 4 -->
@@ -174,21 +176,8 @@
         </div>
           <!-- approach-session  -->
 
-        <div class="solutions-offered project-section-padding">
-          <h3 class="project-section-title">Our Approach</h3>
-          <p class="project-body-text">Design thinking principles guided the project from issue identification to solution implementation. We used iterative design, continuous stakeholder engagement, and refinement to holistically improve the user experience.</p>
-        </div>
-        <!-- brainstorming-session  -->
-        <div class="brainstorming-session project-section-padding">
-          <h3 class="project-section-title">Brainstorming Session </h3>
-          <p class="project-body-text">Collaborative brainstorming sessions with the client and iterative sketching served as project inspirations, fueling innovation and tailored solution development.</p>
-
-          <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-digital-service-providers.webp" alt="noctil digital service providers" />
-          </div>
-        </div>
-
-      
+       
+   
         <!-- solutions-help section -->
         <div class="solutions-help project-section-padding">
           <div class="title-flex">
@@ -203,7 +192,7 @@
             </button>
           </div>
           <p class="project-body-text">
-          Our designs significantly improved user workflows and enhanced operational efficiency for artist societies who will be using the solution. The new UI enabled faster interactions, simplified human resource processes, and improved platform performance overall.
+          Our designs significantly improved user workflows and improved  operational efficiency for artist societies who will be using the solution. The new UI enabled faster interactions, simplified human resource processes, and improved platform performance overall.
           </p>
           <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-service="music-rights-management-solution"
                             data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
@@ -213,28 +202,22 @@
           </button>
           <div class="bs-card-section project-bs-cards">
             <div class="row">
-              <!-- Card 1 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
                   <h3 class="title">Improved Usability</h3>
                   <p class="description">
                   The intuitive, user-friendly interface empowered users to accomplish tasks more quickly and with less effort.
-
                   </p>
-
                 </div>
               </div>
-
-              <!-- Card 2 -->
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h3 class="title">Improved Application Performance</h3>
+                  <h3 class="title">Optimized Performance</h3>
                   <p class="description">
-                  Design enhancements boosted the application’s responsiveness and reduced complexity in managing human resources.
+                  The refined design improved responsiveness and reduced complexity in managing operations and human resources.
                   </p>
-
                 </div>
               </div>
 
@@ -258,7 +241,6 @@
                   <p class="description">
                   By aligning design efforts tightly with product goals, the redesign minimized development rework and maximized return on investment.
                   </p>
-
                 </div>
               </div>
             </div>
@@ -267,10 +249,10 @@
         </div>
         <!-- ui-update  -->
         <div class="brainstorming-session project-section-padding">
-          <h3 class="project-section-title">Branding & Website design UI Upgrade</h3>
+          <h3 class="project-section-title">Interactive UI Upgrade</h3>
           <p class="project-body-text">Dynamic microinteractions and engaging illustrations enriched the platform’s usability, producing a practical yet captivating user experience.</p>
 
-          <p class="project-body-text">In summary, the redesign transformed Noctil into a streamlined, AI-powered metadata management solution that supports rights holders with accurate, transparent, and efficient royalty management, modernizing the way music and audiovisual metadata is handled globally.</p>
+ 
 
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-website-ui.webp" alt="noctil website ui" />

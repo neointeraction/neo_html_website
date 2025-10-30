@@ -45,7 +45,7 @@
   <section class="banner section-padding">
     <div class="container">
       <h1 class="banner-title">
-        Redesign Digital banking platform for <span class="highlight">Commercial Bank of Dubai</span>
+        Redesign Retail banking UX for <span class="highlight">Commercial Bank of Dubai</span>
       </h1>
     </div>
     <!-- project-banner-img -->
@@ -73,7 +73,7 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                <img src="<?php echo $path; ?>assets/images/projects/client-logos/commercial-bank-of-dubai-logo.webp" alt="commercial-bank-of-dubai" />
+                <img src="<?php echo $path; ?>assets/images/projects/client-logos/commercial-bank-of-dubai-logo.svg" alt="commercial-bank-of-dubai" />
                 <div class="quote-icon-right d-block d-md-none"></div>
               </div>
             </div>
@@ -92,7 +92,8 @@
                             Book A Consultation
                         </button>
           </div>
-          <p class="p-main-text">Dubai Bank aimed to attract and serve young professionals, expats, and native youth by adopting Oracle's Flexcube platform for a streamlined and contemporary banking experience</p>
+          <p class="p-main-text">Dubai Bank aimed to attract and serve young professionals, expats, and native youth by adopting Oracle's Flexcube platform for a streamlined and contemporary banking experience
+          </p>
           <!-- <button class="btn btn-custom case-study-mobview ">
             Book A Consultation
           </button> -->
@@ -124,18 +125,18 @@
           <div class="row">
             <div class="col-md-6">
               <h4 class="project-section-title">Objective </h4>
-              <p class="project-body-text">The primary objective was to create a user-friendly and modern look for diverse user groups including young professionals, expats, and native youth. The aim was to make everyday transactions easy and enhance the overall user experience.</p>
+              <p class="project-body-text">The primary objective was to create a user-friendly and modern look for diverse user groups including young professionals, expats, and native youth. The aim was to make everyday transactions easy and improve the overall user experience.</p>
             </div>
             <div class="col-md-6">
               <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-              <p class="project-body-text">With a vision to get closer to customers, the bank team decided to implement their core banking application using Oracle’s Flexcube platform. The main challenge was to make the app attractive to certain user groups, making complicated transactions easier, figuring out important tasks, organizing information in a clear way. We worked on designing a simple but impactful solutions by testing and improving based on user feedback.</p>
+              <p class="project-body-text">With a vision to get closer to customers, the bank team decided to implement their core banking application using Oracle’s Flexcube platform. The main challenge was to make the app attractive to various retail user types, making transactional journeys easier, identifying frequently used tasks, presenting account information clearly visible. We worked on designing simple but impactful banking experience by testing and improving based on user feedback.</p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
           <h4 class="project-section-title">Solutions we offered</h4>
-          <p class="project-body-text">Our user-centric redesign strategically addressed the primary tasks of Online Banking customers, such as Balance checking, Fund transfers, Bill payments, and Service Requests (SRs). With a targeted methodology, emphasizing these frequently used functions a comprehensive click-through prototype was refined to align with new business flows. The design experience ensured that all key tasks could be completed with a maximum of three mouse clicks, enhancing efficiency and user satisfaction.</p>
+          <p class="project-body-text">Our user-centric redesign strategically addressed the primary tasks of Online Retail Banking customers, such as Balance checking, Fund transfers, Bill payments, and Service Requests (SRs). With a targeted methodology, emphasizing these frequently used functions a comprehensive click-through prototype was refined to align with new business objectives. The design experience ensured that all key tasks could be completed with a maximum of three mouse clicks, improving user delight.</p>
 
           <div class="bs-card-section project-bs-cards">
             <div class="row">
@@ -196,7 +197,7 @@
             </button>
           </div>
           <p class="project-body-text">
-          Our solutions amplified accessibility, based on user needs, leveraged competitive insights
+          Our solutions amplified accessibility and usability by focusing on real user needs and insights from competitive analysis. This approach ensured a more inclusive, efficient, and differentiated online banking experience.
           </p>
           <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-service="revolutionizing-banking-experiences"
                                  data-bs-toggle="modal"
@@ -211,9 +212,9 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Enhanced Accessibility</h4>
+                  <h4 class="title">Improved Accessibility</h4>
                   <p class="description">
-                  The redesigned Internet Banking extended its reach to a broader customer base.
+                  The redesigned Internet Banking platform reached a wider customer base by incorporating accessibility standards and responsive design, ensuring smooth use across all devices.
                   </p>
 
                 </div>
@@ -225,7 +226,7 @@
                 <div class="custom-card case-study-card">
                   <h4 class="title">User-Centric Focus</h4>
                   <p class="description">
-                  In-depth user research guided our attention to crucial aspects, ensuring a tailored experience
+                  Extensive user research shaped each stage of the redesign, helping us streamline critical banking journeys and create a more intuitive, goal-oriented experience.
                   </p>
 
                 </div>
@@ -237,7 +238,7 @@
                 <div class="custom-card case-study-card">
                   <h4 class="title">Competitive Insights</h4>
                   <p class="description">
-                  Analyzing competitors allowed us to offer unique services, differentiating our application.
+                  Analyzing competitor platforms helped identify gaps and opportunities, enabling us to introduce a design that felt distinct, modern, and aligned with user expectations.
                   </p>
 
                 </div>
@@ -250,7 +251,7 @@
                   <h4 class="title">
                   Substantial User Increase</h4>
                   <p class="description">
-                  The new design lead to a significant 40% rise in user numbers
+                  The redesigned platform achieved a 40% growth in user adoption, reflecting improved satisfaction, ease of use, and trust in the digital banking experience.
                   </p>
 
                 </div>
@@ -261,6 +262,7 @@
         </div>
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
+        <h4 class="project-section-title">Final UI </h4>
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-website-ui.webp" alt="ui-update" />
           </div>

@@ -47,7 +47,7 @@
         <div class="container">
             <h1 class="banner-title">
 
-                Website Redesign for <span class="highlight">Tech startup accelerator</span>
+            Web rebranding for <span class="highlight">Tech startup accelerator</span>
             </h1>
         </div>
         <!-- project-banner-img -->
@@ -264,14 +264,15 @@
                 <div class="ui-update project-section-padding">
 
                 <h4 class="project-section-title">Final UI </h4>
+                <p class="project-body-text">The redesign helped in a refreshing look for communicating IA’s ecosystem and brought in more credibility with a modern website that would also help with their global presence. 
+</p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-website-ui.webp"
                             alt="Tech startup accelerator website redesign final UI" />
                     </div>
 </div>
 <div class="ui-update project-section-padding">
-<p class="project-body-text">The redesign helped in a refreshing look for communicating IA’s ecosystem and brought in more credibility with a modern website that would also help with their global presence.
-</p>
+
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-desktop-ui.webp"
                             alt="Website redesign UI screens for tech startup accelerator" />

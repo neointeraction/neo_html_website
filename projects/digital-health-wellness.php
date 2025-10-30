@@ -42,7 +42,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Health & wellness <span class="highlight">website redesign</span>
+            UX Audit for a <span class="highlight">Health and Wellness Portal</span>
             </h1>
         </div>
         <!-- project-banner-img -->
@@ -248,7 +248,7 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-
+                <h4 class="project-section-title">Final UI </h4>
 
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-priority-mapping.webp"

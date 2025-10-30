@@ -236,8 +236,8 @@
         </div>
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
-        
-
+        <h4 class="project-section-title">Final UI </h4>
+        <p class="project-body-text">A consistent UI design system was implemented to unify modules and ensure scalability. Throughout the process, we maintained close collaboration with the client, enabling fast iterations and a seamless development handoff with detailed specifications and interactive prototypes.</p>
 
           <div class="bs-img">
           <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-website-ui.webp" alt="ESG platform web dashboard design" />
@@ -245,7 +245,7 @@
 
 </div>
 <div class="ui-update project-section-padding">
-          <p class="project-body-text">A consistent UI design system was implemented to unify modules and ensure scalability. Throughout the process, we maintained close collaboration with the client, enabling fast iterations and a seamless development handoff with detailed specifications and interactive prototypes.</p>
+         
           <div class="bs-img">
           <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-mobile-ui.webp" alt="ESG mobile app UI design" />
           </div>

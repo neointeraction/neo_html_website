@@ -96,50 +96,20 @@
                             Book A Consultation
                         </button>
                     </div>
-                    <p class="p-main-text">The redesign of the Player Transfer System aims to streamline player
-                        movements among approved clubs, crucial for the World Cup 2022.</p>
-                    <!-- <button class="btn btn-custom case-study-mobview ">
-                        Book A Consultation
-                    </button> -->
+                    <p class="p-main-text">The redesign of the Player Transfer System streamlines player movements among approved clubs by improving transparency and reducing manual effort. It ensures smoother coordination between stakeholders while simplifying data management. </p>
+      
                 </div>
-                <!-- result-block -->
-                <!-- <div class="result-block project-section-padding">
-          <h4 class="project-section-title">Result </h4>
-          <div class="row ">
-            <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="90">0</div>
-              <div class="count-label">New User Engagement</div>
-            </div>
-            <div class="col-6 col-md-3 count-up-item">
-              <div class="count-number" data-target="85">0</div>
-              <div class="count-label">Profits</div>
-            </div>
-            <div class="col-6 col-md-4 count-up-item pb-0 mt-md-0">
-              <div class="count-number" data-target="80">0</div>
-              <div class="count-label">New Customer Acquisition</div>
-            </div>
-
-          </div>
-        </div> -->
+          
                 <!-- objective-challenges  -->
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="project-section-title">Objective </h4>
-                            <p class="project-body-text">The objective is to develop a comprehensive design system
-                                capable of efficiently managing extensive player information within the context of club
-                                transfers. This system should streamline navigation for users and effectively present
-                                vital details on player contracts and transfer processes, while accommodating the
-                                involvement of multiple stakeholders, including governing bodies.</p>
+                            <p class="project-body-text">The goal is to create a tool to manage player data during club transfers. The system should make it easy for users to find key information on contracts and transfers, while supporting the needs of all involved parties, including governing bodies.</p>
                         </div>
                         <div class="col-md-6">
                             <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                            <p class="project-body-text">The primary challenge revolved around efficiently managing
-                                extensive player data while concurrently designing intuitive interfaces that could
-                                effectively display information on smaller screens. Additionally, there was a need to
-                                develop screens capable of presenting substantial data sets in a clear and efficient
-                                manner. Throughout the planning phase, emphasis was placed on identifying key data
-                                points, and the creation of reusable design elements to enhance overall functionality.
+                            <p class="project-body-text">The main challenge was handling large player data while designing a clear, easy-to-use interface for small screens. We focused on highlighting key information and creating reusable design components to keep the system simple and consistent.
                             </p>
                         </div>
                     </div>
@@ -147,8 +117,8 @@
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Solutions we offered</h4>
-                    <p class="project-body-text">Integrating UX principles at every stage for enhanced user experience
-                        and streamlined processes.</p>
+                    <p class="project-body-text">We applied core UX design principles to improve usability and optimize workflows. By aligning user needs with business goals, we created an intuitive interface that improved clarity, accessibility, and overall task efficiency.
+                    </p>
 
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
@@ -157,7 +127,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Task Simplification</h4>
                                     <p class="description">
-                                        Implementing a step-by-step procedure to simplify longer tasks.
+                                    We reimagined the workflows, breaking complex tasks into smaller, manageable steps to reduce cognitive load.
                                     </p>
                                 </div>
                             </div>
@@ -166,7 +136,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Consistent UI Elements</h4>
                                     <p class="description">
-                                        Implementing a step-by-step procedure to simplify longer tasks
+                                    Reused design components and patterns across the system to maintain visual consistency and usability.
                                     </p>
                                 </div>
                             </div>
@@ -175,8 +145,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Effective Communication</h4>
                                     <p class="description">
-                                        Utilizing tooltips, tags, and icons for communicating secondary information
-                                        effectively.
+                                    Used microcopy, tooltips, tags, and icons as contextual helpers to convey secondary information without cluttering the interface.
                                     </p>
                                 </div>
                             </div>
@@ -185,8 +154,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Visual Flow Differentiation </h4>
                                     <p class="description">
-                                        Distinguishing between distinct process flows through the strategic use of
-                                        primary colors.
+                                    Applied color theory and visual hierarchy to differentiate between process flows, aiding user orientation and task completion.
                                     </p>
                                 </div>
                             </div>
@@ -194,17 +162,6 @@
                     </div>
                 </div>
                 <!-- brainstorming-session  -->
-                <div class="brainstorming-session project-section-padding">
-                    <h4 class="project-section-title">Strategic Data Focus in Wireframing </h4>
-                    <p class="project-body-text">The wireframing stage prioritized identifying and presenting essential
-                        data points in a straightforward manner for effective user interface design.</p>
-
-                    <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-wireframe.webp"
-                            alt="Player transfer system wireframe design" />
-                    </div>
-                </div>
-                <!-- solutions-help section -->
                 <div class="solutions-help project-section-padding">
                     <div class="title-flex">
                         <h2 class="project-section-title">
@@ -219,7 +176,7 @@
                         </button>
                     </div>
                     <p class="project-body-text">
-                        Our solutions amplified accessibility, centered on user needs, leveraged competitive insights
+                    Our solutions optimized accessibility and usability by focusing on user needs and industry insights. The refined workflows and visuals enabled users to complete tasks more efficiently and intuitively.
                     </p>
                     <button class="btn btn-custom case-study-mobview ps-responsive-margin"   data-service="player-transfer-system"
                                  data-bs-toggle="modal"
@@ -236,8 +193,7 @@
                                     <h4 class="title">
                                         Seamless Task Flow</h4>
                                     <p class="description">
-                                        The groundwork laid during the design phase ensured a smooth and efficient task
-                                        flow for users, enhancing overall usability.
+                                    The new design approach made it easier for users to navigate tasks smoothly, reducing obstacles and improving overall usability.
                                     </p>
 
                                 </div>
@@ -246,10 +202,9 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Enhanced Accessibility</h4>
+                                    <h4 class="title">Improved Accessibility</h4>
                                     <p class="description">
-                                        Addressing accessibility issues was pivotal, particularly for a globally used
-                                        application, significantly improving the user experience on a broader scale.
+                                    Attention to accessibility standards ensured inclusivity for users of all abilities, expanding the platform’s reach to a wider global audience and improving overall user satisfaction.
                                     </p>
 
                                 </div>
@@ -260,8 +215,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Clarity in Data Display</h4>
                                     <p class="description">
-                                        Precision in presenting data across the application contributed to a clear and
-                                        straightforward user interface, eliminating unnecessary confusion.
+                                    Precision in data presentation minimized user errors and increased confidence in interpreting information.
                                     </p>
 
                                 </div>
@@ -272,8 +226,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Intuitive Visual Cues</h4>
                                     <p class="description">
-                                        Strategic use of iconography and color provided users with intuitive visual
-                                        cues, making it easy to identify tasks that required immediate attention.
+                                    Consistent use of icons and color directed users’ focus to key actions, helping them prioritize tasks and stay engaged.
                                     </p>
 
                                 </div>

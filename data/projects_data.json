@@ -10,7 +10,7 @@
     "case_study_url": "case-study/casestudy-intelligent-building-esg-management-platform.pdf"
   },
   {
-    "title": "Digital Experience in Health & Wellness",
+    "title": "UX Audit for a Health and Wellness Portal",
     "description": "Improving user experience for digital health and wellness platforms.",
     "image": "thumb/desk/mega-we-care-homepage-banner.webp",
     "mobileImage": "thumb/mobile/mega-we-care-homepage-banner.webp",
@@ -20,11 +20,11 @@
     "case_study_url": "case-study/casestudy-ux-audit-website-redesign-for-a-health-and-wellness-brand.pdf"
   },
   {
-    "title": "Startup Accelerator Website",
+    "title": "Web rebranding for Tech startup accelerator",
     "description": "A website for a startup accelerator program, showcasing startups and program details.",
     "image": "thumb/desk/india-accelerator-homepage-banner.webp",
     "mobileImage": "thumb/mobile/india-accelerator-homepage-banner.webp",
-    "alt": "Startup Accelerator Website",
+    "alt": "Web rebranding for Tech startup accelerator",
     "tags": ["Start-up Projects", "B2C"],
     "link": "startup-accelerator-website.php",
     "case_study_url": "case-study/case-study-website-redesign-for-india-accelerator.pdf"
@@ -151,7 +151,7 @@
     "case_study_url": "case-study/case-study-intertrust-navigate.pdf"
   },
   {
-    "title": "Redesign Digital banking platform for Commercial Bank of Dubai",
+    "title": "Redesign Retail banking UX for Commercial Bank of Dubai",
     "description": "Creating a user friendly modern banking platform for young professionals, expats, and native youth",
     "image": "thumb/desk/dubai-bank-homepage-banner.webp",
     "mobileImage": "thumb/mobile/dubai-bank-homepage-banner.webp",
@@ -161,11 +161,11 @@
     "case_study_url": "case-study/casestudy-revolutionizing-banking-experiences-at-dubai-bank.pdf"
   },
   {
-    "title": "Redesigning Tricogs AI Driven Healthcare Platform",
+    "title": "Redesigning Tricogs AI Driven Patient Care Platform",
     "description": "AI-driven predictive healthcare platform that improves heart failure patient care",
     "image": "thumb/desk/tricog-homepage-banner.webp",
     "mobileImage": "thumb/mobile/tricog-homepage-banner.webp",
-    "alt": "AI Driven Healthcare Consultation Platform",
+    "alt": "Redesigning Tricogs AI Driven Patient Care Platform",
     "tags": ["Healthcare"],
     "link": "ai-driven-healthcare-consultation-platform.php",
     "case_study_url": "case-study/casestudy-ai-driven-healthcare-consultation-platform.pdf"

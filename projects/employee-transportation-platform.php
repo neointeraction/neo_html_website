@@ -230,15 +230,17 @@
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
        
+        <h4 class="project-section-title">Final UI </h4>
 
-
+        <p class="project-body-text">We developed a User Interface Design system, ensuring consistency across all screens. The UI Design process emphasized intuitive navigation and accessibility. Finally, during the development handoff, we provided structured documentation, interactive Prototyping, and regular design reviews to ensure a seamless transition from design to implementation.
+        </p>
+        
           <div class="bs-img">
           <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-wireframes.webp" alt="Transportation management app wireframe design" />
           </div>
 </div>
 <div class="ui-update project-section-padding">
-<p class="project-body-text">We developed a User Interface Design system, ensuring consistency across all screens. The UI Design process emphasized intuitive navigation and accessibility. Finally, during the development handoff, we provided structured documentation, interactive Prototyping, and regular design reviews to ensure a seamless transition from design to implementation.
-</p>
+
 
           <div class="bs-img">
           <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-mobile-ui.webp" alt="Corporate employee transportation app UI design" />

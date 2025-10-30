@@ -96,8 +96,7 @@
                                     Book A Consultation
                         </button>
                     </div>
-                    <p class="p-main-text">Intertrust BPM Tool, 'Promo' was revamped to make it more user-friendly and easy to use, improving its vital role in making
-                        organizational processes better.</p>
+                    <p class="p-main-text">Intertrust’s BPM Tool, 'Promo', was redesigned to be easier to use and more user-friendly, helping improve key organizational processes. It supports the Intertrust team in defining, automating, monitoring, and optimizing business workflows. The tool is used by business analysts and IT experts to streamline work, boost efficiency, reduce mistakes, and support better decision-making.</p>
 
                 </div>
                 <!-- result-block -->
@@ -127,57 +126,56 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="project-section-title">Objective </h4>
-                            <p class="project-body-text">The objective was to create a design tailored for Intertrust Groups, addressing the user pain points while using the tool
-                                ensuring an elevated user experience</p>
+                            <p class="project-body-text">The objective was to redesign the BPM tool for Intertrust’s internal teams, transforming complex workflows into an intuitive and efficient experience. The focus was on improving usability, reducing process friction, and ensuring the tool aligned with existing business goals and internal systems.
+                            </p>
                         </div>
                         <div class="col-md-6">
                             <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                            <p class="project-body-text">Challenges included putting together a smooth design system, presenting large data, transformation of user experience,
-                                easier navigation and designing for scalability.</p>
+                            <p class="project-body-text">Key challenges included designing a scalable design system adaptable across modules, simplifying intricate multi-role workflows, and presenting large volumes of data in a clear, actionable format. Balancing functionality with ease of use while maintaining consistency across the platform added to the complexity.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Solutions we offered</h4>
-                    <p class="project-body-text">Addressing critical issues while ensuring a seamless and effective design experience led to the digital transformation for Promo
-                    </p>
+                    <p class="project-body-text">We redesigned Promo with an enterprise-grade UX and a clean, functional UI aligned with Intertrust’s design system. The new design simplified interaction levels, improved task predictability, and created a more unified experience across workflows and user roles.</p>
 
                     <div class="bs-card-section project-bs-cards">
                         <div class="row ">
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Holistic Tool Creation</h4>
+                                    <h4 class="title">Unified Workflow Experience</h4>
                                     <p class="description">
-                                        Crafted Promo with a holistic perspective, ensuring consistency across all workflows for a unified user experience.
+                                    Redefined complex BPM processes into structured, guided workflows that made daily tasks faster and more intuitive for internal teams.
                                     </p>
                                 </div>
                             </div>
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Scalability Emphasis</h4>
+                                    <h4 class="title">Data-Centric Redesign</h4>
                                     <p class="description">
-                                        Introduced the importance of product scalability, facilitating use with other Intertrust applications.
+                                    Simplified dense data views through clear visual hierarchy and interaction patterns, helping users interpret and act on key information quickly.
                                     </p>
                                 </div>
                             </div>
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Uniform User Experience</h4>
+                                    <h4 class="title">Scalability and Integration</h4>
                                     <p class="description">
-                                        Delivered a uniform experience, eliminating inconsistencies through organized UI components and unified grammar.
+                                    Built the design framework to support scalability, enabling seamless integration with other Intertrust tools and future product extensions.
                                     </p>
                                 </div>
                             </div>
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Data Presentation Solutions</h4>
+                                    <h4 class="title">Streamlined Prototyping and Testing</h4>
                                     <p class="description">
-                                        Complex sections were redesigned by data presentation, using basic UX principles to effectively resolve intricate issues.
+                                    Developed detailed wireframes and prototypes, validated through user testing, to ensure the design aligned with both business logic and user expectations.
                                     </p>
                                 </div>
                             </div>
@@ -185,14 +183,7 @@
                     </div>
                 </div>
                 <!-- brainstorming-session  -->
-                <div class="brainstorming-session project-section-padding">
-                    <h4 class="project-section-title">Optimized Prototyping & Data Presentation </h4>
-                    <p class="project-body-text">Wireframing prototypes were meticulously created to refine the process flow and further refine the design solutions</p>
-
-                 <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-website-ui.webp" alt="ui-update" />
-                    </div>
-                </div>
+            
                 <!-- solutions-help section -->
                 <div class="solutions-help project-section-padding">
                     <div class="title-flex">
@@ -209,7 +200,7 @@
                         </button>
                     </div>
                     <p class="project-body-text">
-                        Our UX techniques revamped Promo, converting it into a user-friendly product through streamlined UI enhancements and effective design techniques.
+                    Through a user-focused redesign, Promo evolved into an intuitive BPM tool that streamlined complex processes and improved day-to-day efficiency for Intertrust’s internal teams.
                     </p>
                      <button class="btn btn-custom case-study-mobview ps-responsive-margin"
                                  data-service="intertrust-bpm-tool"
@@ -226,7 +217,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Streamlined Workflows</h4>
                                     <p class="description">
-                                        Simplified processes enabled users to complete tasks faster and more successfully, enhancing overall workflow efficiency.
+                                    Simplified and optimized workflow structures reduced completion time and helped users perform tasks with better accuracy and confidence.
                                     </p>
 
                                 </div>
@@ -235,9 +226,9 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Focused User Concentration</h4>
+                                    <h4 class="title">Focused User Attention</h4>
                                     <p class="description">
-                                        Removal of unnecessary data reduced distractions, allowing users to maintain focus on critical and significant activities.
+                                    Minimized clutter and unnecessary information, allowing users to focus on high-priority actions and essential business data.
                                     </p>
 
                                 </div>
@@ -246,10 +237,9 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Intuitive Data Interpretation</h4>
+                                    <h4 class="title">Simplified Data Understanding</h4>
                                     <p class="description">
-                                        Utilization of colors, typefaces, tooltips, and UI features improved data interpretation, making it easier for users to distinguish and
-                                        understand information.
+                                    Enhanced visualization through color coding, typography, and tooltips improved data readability, helping users make faster, informed decisions.
                                     </p>
 
                                 </div>
@@ -258,10 +248,9 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Step-by-Step Methodology</h4>
+                                    <h4 class="title">Guided Task Progression</h4>
                                     <p class="description">
-                                        The majority of workflows were broken down into a step-by-step method that allowed users to feel confident in completing a difficult
-                                        activity.
+                                    Reframed multi-step workflows into clear, guided sequences, helping users complete complex processes with ease and reduced cognitive load.
                                     </p>
 
                                 </div>
@@ -270,6 +259,14 @@
                     </div>
                 </div>
           
+                <div class="brainstorming-session project-section-padding">
+                    <h4 class="project-section-title">Final UI </h4>
+                    <p class="project-body-text">Prototypes were meticulously created to refine the process flow and further refine the design solutions.</p>
+
+                 <div class="bs-img">
+                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-bpm/intertrust-bpm-website-ui.webp" alt="ui-update" />
+                    </div>
+                </div> 
             </div>
         </div>
     </section>

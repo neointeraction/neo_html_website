@@ -254,13 +254,15 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
+                <h4 class="project-section-title">Final UI </h4>
+                <p class="project-body-text">During the Prototyping and development handoff, we provided structured documentation, interactive prototypes, and regular design reviews to ensure seamless implementation. </p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui.webp"
                             alt="Construction platform UX UI design 3D structure view" />
                     </div>
                 </div>
                 <div class="ui-update project-section-padding">
-                    <p class="project-body-text">During the Prototyping and development handoff, we provided structured documentation, interactive prototypes, and regular design reviews to ensure seamless implementation.</p>
+                   
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-timeline-website-ui.webp"
                             alt="Construction management platform UI design schedule view" />

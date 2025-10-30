@@ -1820,3 +1820,31 @@ body {
 .padding-top-20 {
   padding-top: 10px;
 }
+
+.youtube-lazy-load {
+  position: relative;
+  cursor: pointer;
+  width: 100%;
+  padding-bottom: 50.2%;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Simple play button using pseudo-elements */
+.youtube-lazy-load::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  background: url(../images/youtube/play-button.webp) no-repeat center / contain;
+  transform: translate(-50%, -50%);
+  transition: background 0.2s ease;
+}
+
+@media (max-width: 768px) {
+  .youtube-lazy-load::after {
+      background-image: url(../images/youtube/play-button-mobile.webp) !important;
+  }
+}

@@ -320,9 +320,10 @@ include_once 'includes/tracking-functions.php';
             <div class="container">
                 <h2 class="section-title">Our UX Audit Process</h2>
                 <div class="video-container section-margin">
-                    <iframe class="video-iframe" height="650"  src="https://www.youtube-nocookie.com/embed/AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh" title="YouTube video player"
+                    <!-- <iframe class="video-iframe" height="650"  src="https://www.youtube-nocookie.com/embed/AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh" title="YouTube video player"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" style="width:100%;border-radius: 0; border: none;"></iframe>
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" style="width:100%;border-radius: 0; border: none;"></iframe> -->
+                    <div class="youtube-lazy-load" data-id="AbRHZ6M6gwM?si=yP7lOJJA_2PAnzTh"></div>
                 </div>
             </div>
         </section>
@@ -352,6 +353,17 @@ include_once 'includes/tracking-functions.php';
     <script>
     <?php include 'includes/tracking-script.php'; ?>
     </script>
+     <script src="<?php echo $path; ?>assets/js/youtube-click-play.js" defer></script>
+    <style>
+    .youtube-lazy-load {
+        background-image: url(./assets/images/youtube/ux-audit-process-mobile.webp) !important;
+    }
+    @media (max-width: 768px) {
+            .youtube-lazy-load {
+                background-image: url(./assets/images/youtube/ux-audit-process-mobile.webp) !important;
+            }
+    }
+    </style>
         <script>
 
         document.getElementById("lp_name").addEventListener("input", function() {
@@ -385,6 +397,7 @@ include_once 'includes/tracking-functions.php';
         });
 
     </script> 
+    
 </body>
 
 </html>
