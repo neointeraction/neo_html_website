@@ -60,7 +60,7 @@
           <div class="row navigation-footer">
               <!-- Image Column -->
               <div class="col-md-4 d-none d-md-block">
-                  <h4 title="<?php echo $previous; ?>"><?php echo $previous; ?></h4>
+                  <h3 class="title"  title="<?php echo $previous; ?>"><?php echo $previous; ?></h3>
                   <a href="<?php echo  $previousLink; ?>">
                       <button class="btn btn-custom btn-custom bs-button">
                       <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg" class="mb-1">
@@ -106,7 +106,7 @@
 
 
               <div class="col-md-4 d-none d-md-block">
-                  <h4 title="<?php echo $next; ?>"><?php echo $next; ?></h4>
+                  <h3 class="title" title="<?php echo $next; ?>"><?php echo $next; ?></h3>
                   <a href="<?php echo  $nextLink; ?>">
                       <button class="btn btn-custom btn-custom bs-button">
                           Next &nbsp;&nbsp;
