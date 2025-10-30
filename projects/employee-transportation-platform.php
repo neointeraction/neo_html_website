@@ -49,17 +49,17 @@
     <div class="project-banner-img project-banner-img-block d-none d-md-block">
         <div class="pbi-layer1">
             <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-banner.jpg"
-                alt="pbanner1" />
+                alt="Corporate employee transportation background with taxi" />
         </div>
         <div class="pbi-layer2">
             <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-banner-float.svg"
-                alt="pbanner1" />
+                alt="Transportation management app UI design for employees" />
         </div>
     </div>
     <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-homepage-banner.jpg"
-                    alt="pbanner1" />
+                    alt="UX UI design for corporate employee transportation management" />
             </div>
         </div>
     <div class="project-content-block">
@@ -233,7 +233,7 @@
 
 
           <div class="bs-img">
-          <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-wireframes.jpg" alt="etravelmate-wireframes" />
+          <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-wireframes.jpg" alt="Transportation management app wireframe design" />
           </div>
 </div>
 <div class="ui-update project-section-padding">
@@ -241,7 +241,7 @@
 </p>
 
           <div class="bs-img">
-          <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-mobile-ui.jpg" alt="etravelmate-mobile-ui" />
+          <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-mobile-ui.jpg" alt="Corporate employee transportation app UI design" />
           </div>
         </div>
         <!-- <div class="view-all-blogs-btn">
