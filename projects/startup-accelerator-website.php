@@ -54,17 +54,17 @@
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner.jpg"
-                alt="pbanner1" />
+                alt="Tech startup team meeting background" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner-float.svg"
-                    alt="pbanner1" />
+                    alt="Website redesign for tech startup accelerator UI design" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-homepage-banner.jpeg"
-                    alt="pbanner1" />
+                    alt="Website redesign project for tech startup accelerator" />
             </div>
         </div>
         <div class="project-content-block">
@@ -266,7 +266,7 @@
                 <h4 class="project-section-title">Final UI </h4>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-website-ui.jpeg"
-                            alt="india-accelerator-website-ui" />
+                            alt="Tech startup accelerator website redesign final UI" />
                     </div>
 </div>
 <div class="ui-update project-section-padding">
@@ -274,7 +274,7 @@
 </p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-desktop-ui.jpeg"
-                            alt="india-accelerator-website-ui" />
+                            alt="Website redesign UI screens for tech startup accelerator" />
                     </div>
                 </div>
                 <!-- <div class="view-all-blogs-btn">
