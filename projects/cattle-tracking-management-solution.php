@@ -92,7 +92,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h4 class="project-section-title">Overview </h4>
+                        <h2 class="project-section-title">Overview </h2>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal"
                             data-bs-target="#registerModal">
                             Book A Consultation
@@ -214,8 +214,8 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">
-                                    Improved User Experience</h4>
+                                    <h3 class="title">
+                                    Improved User Experience</h3>
                                     <p class="description">
                                     Users found the redesigned solution notably easier to use with increased overall engagement, thanks to the intuitive UI UX and live dashboard.
                                     </p>
@@ -226,7 +226,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Reduced Manual Workload</h4>
+                                    <h3 class="title">Reduced Manual Workload</h3>
                                     <p class="description">
                                     The digitalization of manual data processes led to a significant decrease in manual work for ranchers.
                                     </p>
@@ -237,7 +237,7 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Increased Operational Efficiency</h4>
+                                    <h3 class="title">Increased Operational Efficiency</h3>
                                     <p class="description">
                                     The solution resulted in improved efficiency for cow/calf producers and stockers.
                                     </p>
@@ -248,7 +248,7 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Mobile-Centric Digital Integration</h4>
+                                    <h3 class="title">Mobile-Centric Digital Integration</h3>
                                     <p class="description">
                                     Made it easy for users to intuitively use both the website and mobile application without doing the same data entry twice, thereby making it easier and faster for users to complete their tasks.
                                     </p>
@@ -261,7 +261,7 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                    <h4 class="project-section-title">Final UI</h4>
+                    <h2 class="project-section-title">Final UI</h2>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-website-ui.webp"
                             alt="ui-update" />
