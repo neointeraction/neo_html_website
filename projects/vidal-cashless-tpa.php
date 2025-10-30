@@ -14,7 +14,7 @@
     <meta property="og:description"
         content="UX redesign for Bangalore-based TPA's ERP platform improved user experience and streamlined internal TAT for faster cashless treatment approvals." />
     <meta property="og:image"
-        content="<?php echo $base_url; ?>assets/images/og/vidal-homepage-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/vidal-homepage-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/tpa-erp-ux-redesign" />
@@ -25,7 +25,7 @@
     <meta name="twitter:description"
         content="UX redesign for Bangalore-based TPA's ERP platform improved user experience and streamlined internal TAT for faster cashless treatment approvals." />
     <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/og/vidal-homepage-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/vidal-homepage-thumbnail.webp" />
     <meta name="twitter:card" content="summary" />
 </head>
 
@@ -51,17 +51,17 @@ include $path . 'includes/case_study_helper.php';
        
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner.webp"
                 alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-project-banner-float.webp"
                     alt="pbanner1" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -72,7 +72,7 @@ include $path . 'includes/case_study_helper.php';
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
                             <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/vidal-logo.svg" alt="vidal" />
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/vidal-logo.webp" alt="vidal" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
@@ -256,7 +256,7 @@ include $path . 'includes/case_study_helper.php';
                 <div class="ui-update project-section-padding">
                     <h4 class="project-section-title">Final UI</h4>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-website-ui.jpeg" alt="ui-update" />
+                        <img src="<?php echo $path; ?>assets/images/projects/vidal-cashless-tpa/vidal-website-ui.webp" alt="ui-update" />
                     </div>
                 </div>
                 <!-- <div class="view-all-projects-btn">
