@@ -89,7 +89,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h4 class="project-section-title">Overview </h4>
+                        <h3 class="project-section-title">Overview </h3>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
@@ -98,7 +98,7 @@
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
-                    <h4 class="project-section-title">Result </h4>
+                    <h3 class="project-section-title">Result </h3>
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-4 col-md-3 count-up-item">
@@ -122,18 +122,18 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4 class="project-section-title">Objective </h4>
+                            <h3 class="project-section-title">Objective </h3>
                             <p class="project-body-text">The goal is to improve the usability of the My Tuition App with a fresh, simple design. The focus is on moving from traditional video classes to a clear, easy-to-understand digital format that makes learning straightforward.</p>
                         </div>
                         <div class="col-md-6">
-                            <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+                            <h3 class="project-section-title ps-responsive-margin">Challenges </h3>
                             <p class="project-body-text">Designing a new look that feels modern yet keeps the educational purpose, integrates animated content, and maintains a consistent style was challenging. Ensuring the interface stayed engaging for students while remaining simple enough for easy navigation added another layer of complexity.</p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Solutions we offered</h4>
+                    <h3 class="project-section-title">Solutions we offered</h3>
                     <p class="project-body-text">The design was simplified to be user-friendly and engaging while staying true to the brand identity. We mapped user journeys, built wireframes, and created an organized UI kit for collaboration. Interactive visuals and consistent layouts made content easier to follow and the learning experience more cohesive.</p>
 
                     <div class="bs-card-section project-bs-cards">
@@ -141,7 +141,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">User Journey and Information Architecture</h4>
+                                    <h3 class="title">User Journey and Information Architecture</h3>
                                     <p class="description">
                                     Defined a clear information architecture and mapped key user journeys to ensure intuitive navigation. Focused on simplifying complex workflows, allowing users to find relevant content and complete tasks with minimal effort.
                                     </p>
@@ -150,8 +150,8 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">
-                                    Wireframe Development</h4>
+                                    <h3 class="title">
+                                    Wireframe Development</h3>
                                     <p class="description">
                                     Developed detailed wireframes to visualize structure and functionality early in the process. This helped validate design decisions, maintain layout consistency, and align teams before moving into the visual design stage.
                                     </p>
@@ -160,7 +160,7 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Organized UI Design Kit</h4>
+                                    <h3 class="title">Organized UI Design Kit</h3>
                                     <p class="description">
                                     Created a well-structured, phase-wise UI design kit to maintain design consistency and streamline collaboration between design and development teams. Components and styles were standardized for scalability and efficiency.
                                     </p>
@@ -169,7 +169,7 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Prototype Testing and Feedback Loop</h4>
+                                    <h3 class="title">Prototype Testing and Feedback Loop</h3>
                                     <p class="description">
                                     Built interactive prototypes and conducted usability testing sessions with real users to evaluate design effectiveness. Feedback from these sessions was incorporated iteratively to refine interactions and improve the overall user experience.
                                     </p>
@@ -207,7 +207,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Improved User Engagement</h4>
+                                    <h3 class="title">Improved User Engagement</h3>
                                     <p class="description">
                                     The redesigned UI made interactions smoother and more enjoyable. Clear navigation and responsive layouts encouraged students to explore more and stay actively involved in their learning.
                                     </p>
@@ -218,7 +218,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Consistent Design Language</h4>
+                                    <h3 class="title">Consistent Design Language</h3>
                                     <p class="description">
                                     A unified design system was implemented across all screens and devices. Consistent colors, typography, and layouts helped create a cohesive visual identity and improved overall usability.
                                     </p>
@@ -229,7 +229,7 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Better Accessibility</h4>
+                                    <h3 class="title">Better Accessibility</h3>
                                     <p class="description">
                                     The app was optimized for students of different ages and abilities. Enhanced contrast, larger touch areas, and simpler navigation made it easier for everyone to access and understand the content.
                                     </p>
@@ -239,7 +239,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Simplified Learning Experience</h4>
+                                    <h3 class="title">Simplified Learning Experience</h3>
                                     <p class="description">
                                     Streamlined layouts and clear visuals made online classes easier to follow. Organized content and guided interactions helped students stay focused and engaged throughout their lessons.
                                     </p>
@@ -253,7 +253,7 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                    <h4 class="project-section-title">Interactive UI Upgrade </h4>
+                    <h3 class="project-section-title">Interactive UI Upgrade </h3>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-mobile-ui.jpeg" alt="ui-update" />
                     </div>
