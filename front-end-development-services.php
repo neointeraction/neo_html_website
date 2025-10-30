@@ -444,11 +444,12 @@ include_once 'includes/tracking-functions.php';
         <div class="container">
             <h2 class="section-title">Our Front-End Development Process</h2>
             <div class="video-container section-margin">
-                <iframe height="650" src="https://www.youtube-nocookie.com/embed/7MslRWZZ9qA?si=TaDeAtgk8dCEY1oY"
+                <!-- <iframe height="650" src="https://www.youtube-nocookie.com/embed/7MslRWZZ9qA?si=TaDeAtgk8dCEY1oY"
                     title="YouTube video player" style="border:0;width:100%;"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"
-                    style="border-radius: 0;"></iframe>
+                    style="border-radius: 0;"></iframe> -->
+                    <div class="youtube-lazy-load" data-id="7MslRWZZ9qA?si=TaDeAtgk8dCEY1oY"></div>
             </div>
         </div>
     </section>
@@ -478,6 +479,17 @@ include_once 'includes/tracking-functions.php';
     <script>
     <?php include 'includes/tracking-script.php'; ?>
     </script>
+     <script src="<?php echo $path; ?>assets/js/youtube-click-play.js" defer></script>
+    <style>
+    .youtube-lazy-load {
+        background-image: url(./assets/images/youtube/ui-development-process.webp) !important;
+    }
+    @media (max-width: 768px) {
+            .youtube-lazy-load {
+                background-image: url(./assets/images/youtube/ui-development-process-mobile.webp) !important;
+            }
+    }
+    </style>
     <script>
 
     document.getElementById("lp_name").addEventListener("input", function() {

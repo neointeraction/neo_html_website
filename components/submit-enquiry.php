@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row ui-card hire-engineers">
         <!-- Image Column -->
-        <div class="col-md-6  img-container">
+        <div class="col-md-6  img-container d-none d-md-block">
           <img src="<?php echo $path; ?>assets/images/submit-projects.jpg" alt="Stylized illustration" class="img-fluid">
         </div>
 

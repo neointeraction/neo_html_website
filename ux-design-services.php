@@ -366,12 +366,13 @@ include_once 'includes/tracking-functions.php';
             <h2 class="section-title">Our UX Design Process</h2>
             <div class="video-container section-margin">
 
-                <iframe width="100%" height="650"
+                <!-- <iframe width="100%" height="650"
                     src="https://www.youtube-nocookie.com/embed/SSTsj85MzGU?si=B8pq4kK3-ExetQKL"
                     title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"
-                    style="border-radius: 0;"></iframe>
+                    style="border-radius: 0;"></iframe> -->
+                <div class="youtube-lazy-load" data-id="SSTsj85MzGU?si=B8pq4kK3-ExetQKL"></div>
             </div>
         </div>
     </section>
@@ -400,6 +401,17 @@ include_once 'includes/tracking-functions.php';
     <script>
     <?php include 'includes/tracking-script.php'; ?>
     </script>
+    <script src="<?php echo $path; ?>assets/js/youtube-click-play.js" defer></script>
+    <style>
+    .youtube-lazy-load {
+        background-image: url(./assets/images/youtube/design-process.webp) !important;
+    }
+    @media (max-width: 768px) {
+            .youtube-lazy-load {
+                background-image: url(./assets/images/youtube/design-process-mobile.webp) !important;
+            }
+    }
+    </style>
     <script>
 
     document.getElementById("lp_name").addEventListener("input", function() {

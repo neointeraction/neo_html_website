@@ -298,11 +298,11 @@
     <script src="<?php echo $path; ?>assets/js/youtube-click-play.js" defer></script>
     <style>
     .youtube-lazy-load {
-        background-image: url(./assets/images/youtube/enterprise-product-design.webp) !important;
+        background-image: url(./assets/images/youtube/about-us.webp) !important;
     }
     @media (max-width: 768px) {
             .youtube-lazy-load {
-                background-image: url(./assets/images/youtube/enterprise-product-design-mobile.webp) !important;
+                background-image: url(./assets/images/youtube/about-us-mobile.webp) !important;
             }
     }
     </style>

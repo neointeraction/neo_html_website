@@ -356,7 +356,7 @@ include_once 'includes/tracking-functions.php';
      <script src="<?php echo $path; ?>assets/js/youtube-click-play.js" defer></script>
     <style>
     .youtube-lazy-load {
-        background-image: url(./assets/images/youtube/ux-audit-process-mobile.webp) !important;
+        background-image: url(./assets/images/youtube/ux-audit-process.webp) !important;
     }
     @media (max-width: 768px) {
             .youtube-lazy-load {
