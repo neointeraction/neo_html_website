@@ -52,18 +52,20 @@
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare/tricog-banner.jpg"
-                    alt="pbanner1" />
+                    alt="Doctor consulting patient in hospital room" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare/tricog-banner-float.svg"
-                    alt="pbanner1" />
+                    alt="Tricog healthcare platform dashboard design" />
             </div>
         </div>
 
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare/tricog-homepage-banner.jpeg"
-                    alt="pbanner1" />
+                    alt="Tricog ai driven healthcare platform redesign
+
+" />
             </div>
         </div>
 
@@ -76,7 +78,7 @@
                         <div class="col-md-3">
                             <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
                                 <img src="<?php echo $path; ?>assets/images/projects/client-logos/tricog-logo.svg"
-                                    alt="tricog" />
+                                    alt="Tricog logo" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
@@ -219,7 +221,7 @@
 
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v3.jpeg"
-                            alt="Brainstorming-Session" />
+                            alt="Team brainstorming for Tricog AI healthcare redesign" />
                     </div>
                 </div>
                 <!-- solutions-help section -->
@@ -297,7 +299,7 @@
                         driven by practical functionality for a more engaging and user-friendly experience.</p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v4.jpeg"
-                            alt="ui-update" />
+                            alt="Tricog mobile app UI" />
                     </div>
 </div>
 <div class="ui-update project-section-padding">
@@ -305,7 +307,7 @@
                     </p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v2.jpeg"
-                            alt="ui-update" />
+                            alt="Tricog web dashboard UI" />
                     </div>
                 </div>
                 <!-- <div class="view-all-blogs-btn">
