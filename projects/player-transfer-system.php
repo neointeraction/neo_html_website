@@ -55,17 +55,17 @@
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-banner.jpg"
-                alt="pbanner1" />
+                alt="football on grass field" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-banner-float.svg"
-                    alt="pbanner1" />
+                    alt="player transfer system dashboard design" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/player-transfer-system.jpeg"
-                    alt="pbanner1" />
+                    alt="player transfer platform UI design" />
             </div>
         </div>
         <div class="project-content-block">
@@ -76,7 +76,7 @@
                         <div class="col-md-3">
                             <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
                                 <img src="<?php echo $path; ?>assets/images/projects/client-logos/intertrust-logo.svg"
-                                    alt="tricog" />
+                                    alt="Intertrust logo" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
                         </div>
@@ -201,7 +201,7 @@
 
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-wireframe.jpeg"
-                            alt="Brainstorming-Session" />
+                            alt="Player transfer system wireframe design" />
                     </div>
                 </div>
                 <!-- solutions-help section -->
@@ -287,7 +287,7 @@
                     <h4 class="project-section-title">
                         Final UI </h4>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-website-ui.jpeg" alt="ui-update" />
+                        <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-website-ui.jpeg" alt="Player transfer platform final UI design" />
                     </div>
                 </div>
                 <!-- <div class="view-all-blogs-btn">
