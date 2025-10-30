@@ -45,17 +45,17 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Mobility Platform for <span class="highlight">Crew Ship workforce management</span>
+                Mobility Platform for <span class="highlight">Crew Ship Workforce</span>
             </h1>
         </div>
         <!-- project-banner-img -->
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management-banner.webp"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management-banner-2.png"
+                <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-management-banner-float.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -91,11 +91,7 @@
                             Book A Consultation
                         </a>
                     </div>
-                    <p class="p-main-text">TM hub is an application used by the staff members aboard the Carnival ship
-                        to organize their daily activities, tasks, and information about their journey</p>
-                    <!-- <button class="btn btn-custom case-study-mobview" >
-                        Book A Consultation
-                    </button> -->
+                    <p class="p-main-text">TM Hub a handy mobile app for Carnival cruise ships crew to join back to work from different parts of the world. App helps with their itineraries, travel bookings, stays, visas etc till they finally reach the cruise ships journey start destination. </p>
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -124,53 +120,46 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h3 class="project-section-title">Objective </h3>
-                            <p class="project-body-text">The aim is to enhance the daily user experience by revamping
-                                the app's interface, making it more user-friendly. The focus is on simplifying the
-                                crews' daily activities, tasks, and get information about their journey seamlessly all
-                                in one place.</p>
+                            <p class="project-body-text">The aim was to improve the app experience by making the itinerary details accessible effortlessly. The focus is on simplifying the crews' travel planning activities and getting information about their journey seamlessly, all in one place.</p>
                         </div>
                         <div class="col-md-6">
                             <h3 class="project-section-title ps-responsive-margin">Challenges </h3>
-                            <p class="project-body-text">Considering the app was created by tech first approach where in
-                                it was built from the utility point of view, no significant design considerations or
-                                user research were used when creating the app for various user personas </p>
+                            <p class="project-body-text">Considering the app was created with a tech-first approach, where it was built from the utility point of view, no significant design considerations or user research were used when creating the app for various user personas.</p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h3 class="project-section-title">Solutions we offered</h3>
-                    <p class="project-body-text">We revamped the app to benefit the target user by simplifying and
-                        streamlining their daily tasks, which was accomplished through,</p>
+                    <h3 class="project-section-title">Solutions we delivered</h3>
+                    <p class="project-body-text">We redesigned the app to better serve target users by simplifying and streamlining their daily tasks. This was accomplished through the following key steps:</p>
 
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
+                            <div class="col-12 col-md-6 col-lg-3">
+                                <div class="custom-card">
+                                    <h3 class="title">Identifying Key flows and user pain points</h3>
+                                    <p class="description">
+                                    We analyzed the existing app to identify critical user flows and uncover usability pain points affecting efficiency and satisfaction.
+                                    </p>
+                                </div>
+                            </div>
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
                                     <h3 class="title">Brainstorming</h3>
                                     <p class="description">
-                                        Brainstorming sessions with the client and the creation of rough sketches served
-                                        as the project's inspiration
+                                    Design workshops with key stakeholders were conducted to create initial sketches, establishing the foundation and clear direction for the project.
                                     </p>
                                 </div>
                             </div>
                             <!-- Card 2 -->
-                            <div class="col-12 col-md-6 col-lg-3">
-                                <div class="custom-card">
-                                    <h3 class="title">Identifying Key flows and user pain points</h3>
-                                    <p class="description">
-                                        Identifying key user flow and its pain point in the existing app
-                                    </p>
-                                </div>
-                            </div>
+                           
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h3 class="title">Collaborative decision making</h3>
+                                    <h3 class="title">Collaborative decision-making</h3>
                                     <p class="description">
-                                        Presentation of the refined key flow to the stakeholders to make impactful
-                                        design decisions
+                                    Refined user flows were presented to stakeholders, enabling informed and impactful design decisions.
                                     </p>
                                 </div>
                             </div>
@@ -179,7 +168,7 @@
                                 <div class="custom-card">
                                     <h3 class="title">Foundation </h3>
                                     <p class="description">
-                                        Wireframing , prototyping and micro interaction
+                                    We developed detailed wireframes, interactive prototypes, and microinteractions to bring the new experience to life.
                                     </p>
                                 </div>
                             </div>
@@ -189,10 +178,9 @@
                 <!-- brainstorming-session  -->
                 <div class="brainstorming-session project-section-padding">
                     <h3 class="project-section-title">Brainstorming Session </h3>
-                    <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches
-                        served as the project's inspiration</p>
+                    <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches served as the project's inspiration.</p>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-brainstorming-session.jpg"
+                        <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-brainstorming-session.webp"
                             alt="crew-mobility-brainstorming" />
                     </div>
                 </div>
@@ -212,9 +200,7 @@
                         </a>
                     </div>
                     <p class="project-body-text">
-                        Our user task-focused design empowers crew members, ensuring seamless goal achievement and
-                        enhanced productivity. Beyond technical improvements, it transforms daily routines for a more
-                        enjoyable and manageable experience.
+                    Our task-focused design empowers crew members to achieve their goals seamlessly and work more efficiently. Beyond functional improvements, it simplifies daily routines, making the overall experience smoother and more enjoyable.
                     </p>
                 
                      <a href="#" class="btn btn-custom case-study-mobview ps-responsive-margin"
@@ -232,8 +218,7 @@
                                 <div class="custom-card case-study-card">
                                     <h3 class="title">Improved Usability</h3>
                                     <p class="description">
-                                        Our design significantly enhances the system's usability, offering a more
-                                        user-friendly and accessible interface.
+                                    We redesigned the system to make it more intuitive and accessible, ensuring crew members can complete their travel planning with minimal effort.
                                     </p>
 
                                 </div>
@@ -242,10 +227,9 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h3 class="title">User Centric UI</h3>
+                                    <h3 class="title">User-Centric UI</h3>
                                     <p class="description">
-                                        Prioritizing crew well-being and mobility managment, our UI design ensures both
-                                        functionality and ergonomic comfort, enhancing the overall user experience.
+                                    Focusing on crew well-being and mobility management, the interface balances functionality with ergonomic comfort for a better user experience.
                                     </p>
 
                                 </div>
@@ -254,10 +238,9 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h3 class="title">Streamlined User Flow</h3>
+                                    <h3 class="title">Streamlined Crew Journey</h3>
                                     <p class="description">
-                                        The new user flows made it easier to get tasks done quickly, reducing challenges
-                                        and ensured a smooth transition for different user throughout their navigation
+                                    The new user flows made it easier to get tasks done quickly, reducing challenges and ensuring a smooth transition for crew members throughout their navigation.
                                     </p>
 
                                 </div>
@@ -268,8 +251,7 @@
                                 <div class="custom-card case-study-card">
                                     <h3 class="title">Better Engagement and Efficiency</h3>
                                     <p class="description">
-                                    By simplifying key interactions and making navigation intuitive, the redesigned app encouraged active participation among crew members and improved overall efficiency in completing their daily tasks.
-
+                                    By simplifying critical tasks like document uploads and travel booking, the redesign significantly reduced administrative friction. This led to higher app adoption and improved the efficiency of their pre-join travel planning. 
                                     </p>
 
                                 </div>
@@ -281,11 +263,11 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                    <h3 class="project-section-title">Interactive UI Upgrade </h3>
-                    <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was
-                        driven by practical functionality for a more engaging and user-friendly experience.</p>
+                    <h3 class="project-section-title">Interactive UI Upgrade</h3>
+                    <p class="project-body-text">The interface was redesigned with context-driven visuals and microinteractions that mirror the crew’s journey progress — from departure to embarkation. These interactive elements not only made the app visually engaging but also provided instant clarity on travel milestones and next steps, making complex itineraries easier to follow.
+                    </p>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-mobile-ui.jpg"
+                        <img src="<?php echo $path; ?>assets/images/projects/crew-mobility-management-in-a-cruise/crew-mobility-mobile-ui.webp"
                             alt="crew mobility mobile ui" />
                     </div>
                 </div>

@@ -49,7 +49,6 @@
         $next = $nextSlug ? $blogs[$nextSlug]['title'] : null;
         $previousLink = $path . 'blogs/' .$previousSlug;
         $nextLink = $path . 'blogs/' .$nextSlug;
-
     }else {
         $previousLink = $path . 'projects' .$previousLink;
         $nextLink = $path . 'projects' .$nextLink;
@@ -73,7 +72,7 @@
                   </a>
               </div>
               <div class="col-md-4 d-none d-md-flex justify-content-center align-items-end">
-                <a href="<?php echo $viewMoreLink ?>">
+                <a href="<?php echo $viewMoreLink ?>" data-toggle="tooltip" title="View more <?php echo $from == "blog" ? "blogs" : "projects"; ?>">
                     <img src="<?php echo  $path; ?>assets/images/view-more.svg" alt="">
                 </a>
               </div>
@@ -90,7 +89,7 @@
                           </svg>
                       </button>
                   </a>
-                  <a href="<?php echo $viewMoreLink; ?>" title="View more <?php $from == "blog" ? "blogs" : "projects"; ?>">
+                  <a href="<?php echo $viewMoreLink; ?>" title="View more <?php echo $from == "blog" ? "blogs" : "projects"; ?>">
                     <img src="<?php echo  $path; ?>assets/images/view-more.svg" alt="View more" >
                 </a>
                   <a href="<?php echo  $nextLink; ?>">

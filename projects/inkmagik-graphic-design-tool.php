@@ -96,7 +96,7 @@
                         </button>
                     </div>
                     <p class="p-main-text">
-                        An all in one easy to use graphics design tool for individuals and businesses
+                    An all-in-one, intuitive graphic design tool built for individuals and businesses to create stunning visuals with ease. 
                     </p>
                     <!-- <button class="btn btn-custom case-study-mobview ">
                         Book A Consultation
@@ -130,12 +130,12 @@
                         <div class="col-md-6">
                             <h4 class="project-section-title">Objective </h4>
                             <p class="project-body-text">
-                            To develop an easy-to-use graphic design tool for individuals and businesses with limited design experience and to simplify the design process, enabling users to effortlessly create and share various materials. Our aim is to redefine graphic design for non-designers, making it accessible and efficient for all
+                            To develop an easy-to-use graphic design tool for individuals and businesses with limited design experience and to simplify the design process, enabling users to effortlessly create and share various materials. We aim to redefine graphic design for non-designers, making it accessible and efficient for all. 
                             </p>
                         </div>
                         <div class="col-md-6">
                             <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                            <p class="project-body-text">Challenges included creating a user-friendly tool for non-designers, simplifying complex functionalities, and using the right technology. Understanding various creative needs and developing an extensive template collection further adding varieties to meet end user needs</p>
+                            <p class="project-body-text">Challenges included creating a user-friendly tool for non-designers, simplifying complex functionalities, and using the right technology. Understanding various creative needs and developing an extensive template collection further adds variety to meet end-user needs.</p>
                         </div>
                     </div>
                 </div>
@@ -152,7 +152,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Diverse Design Templates</h4>
                                     <p class="description">
-                                        Ready to use design templates for every occasion and need
+                                    Access a wide range of ready-to-use templates for different occasions, industries, and creative needs.
                                     </p>
                                 </div>
                             </div>
@@ -161,9 +161,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Multilingual Support</h4>
                                     <p class="description">
-                                        Inkmagik stands out with its support for multiple languages, currently featuring
-                                        3 Indian languages and a commitment to adding more, ensuring inclusivity and
-                                        accessibility
+                                    Inkmagik promotes inclusivity with multilingual support — currently available in three Indian languages, with plans to expand further.
                                     </p>
                                 </div>
                             </div>
@@ -172,8 +170,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Safe Stock Resources</h4>
                                     <p class="description">
-                                        Ability to manage your designs by scheduling, planning, sharing, and
-                                        collaborating with your team.
+                                    Ability to manage your designs by scheduling, planning, sharing, and collaborating with your team.
                                     </p>
                                 </div>
                             </div>
@@ -182,7 +179,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">AI-Powered Image Editing </h4>
                                     <p class="description">
-                                        AI-based background removal tool for images
+                                    Leverage AI-driven tools like automatic background removal to simplify image editing and speed up the creative process.
                                     </p>
                                 </div>
                             </div>
@@ -211,7 +208,7 @@
                         </button>
                     </div>
                     <p class="project-body-text">
-                    As Inkmagik is an all-in-one graphic design tool, its applications differ based on the business or use-cases. Some of the people who have benefited the most from Inkmagik are listed below:
+                    As Inkmagik is an all-in-one graphic design tool, its applications vary based on business and individual needs. Below are some of the key user groups that have benefited the most from Inkmagik:
                     </p>
                     <button class="btn btn-custom case-study-mobview ps-responsive-margin" 
                     data-service="inkmagik-graphic-design-tool" data-bs-toggle="modal"
@@ -228,7 +225,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Social Media Marketers</h4>
                                     <p class="description">
-                                    Increased presence on social media
+                                    Improved their online presence with ready-to-use, professional templates for engaging posts and campaigns.
                                     </p>
 
                                 </div>
@@ -239,7 +236,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Online Sellers</h4>
                                     <p class="description">
-                                    Advertise products using visually attractive templates
+                                    Promoted their products effectively using visually appealing marketing materials and product visuals.
                                     </p>
 
                                 </div>
@@ -250,7 +247,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Institutions</h4>
                                     <p class="description">
-                                    Usage in projects and presentations for schools and colleges.
+                                    Simplified the creation of academic projects, presentations, and event materials with easy-to-edit templates.
                                     </p>
 
                                 </div>
@@ -262,7 +259,7 @@
                                     <h4 class="title">
                                     Marketing Teams</h4>
                                     <p class="description">
-                                    Usage in projects and presentations for schools and colleges.
+                                    Streamlined brand communication and campaign creation with collaborative tools and consistent visual assets.
                                     </p>
 
                                 </div>
