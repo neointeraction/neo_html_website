@@ -262,7 +262,7 @@
                 <div class="ui-update project-section-padding">
                     <p class="project-body-text">During the Prototyping and development handoff, we provided structured documentation, interactive prototypes, and regular design reviews to ensure seamless implementation.</p>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui-2.jpg"
+                        <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-timeline-website-ui.webp"
                             alt="Construction management platform UI design schedule view" />
                     </div>
                 </div>
