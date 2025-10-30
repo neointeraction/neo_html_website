@@ -88,10 +88,7 @@
                                 Book A Consultation
             </button>
           </div>
-          <p class="p-main-text">Noctil is an advanced technology solution that helps Rights Management Organizations to maximize collection and distribution while reducing operational costs.</p>
-          <!-- <button class="btn btn-custom case-study-mobview ">
-            Book A Consultation
-          </button> -->
+          <p class="p-main-text">Noctil is an advanced AI-powered metadata management platform designed to support rights management organizations in the music and audiovisual industries. It helps maximize royalty collection and distribution while reducing operational costs by up to 80%. The platform offers real-time metadata ingestion, transformation, and validation across fragmented systems, providing a single source of truth with high accuracy. Noctil enables automation of royalty calculations, comprehensive reporting, and smoother human resource management—all through a user-friendly, cloud-based infrastructure tailored to boost efficiency and transparency.</p>
         </div>
         <!-- result-block -->
         <div class="result-block project-section-padding">
@@ -120,18 +117,18 @@
           <div class="row">
             <div class="col-md-6">
               <h4 class="project-section-title">Objective </h4>
-              <p class="project-body-text">To optimize the platform's usability by creating a visually appealing and functional driven user experience to maximize efficiency and save money in how the platform collects and shares information.</p>
+              <p class="project-body-text">To enhance the usability of Noctil’s platform by designing functionally driven user experience that streamlines workflows. This optimization aims to increase operational efficiency and reduce costs related to data collection, sharing, and management across multiple rights holders and stakeholders.</p>
             </div>
             <div class="col-md-6">
               <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-              <p class="project-body-text">The current application was not suitable for it's target audience and the user flows were complicated . The low usability performance required a careful evaluation of the user interactions and incorporation of user feedback to optimize the user experience.</p>
+              <p class="project-body-text">The existing platform’s complexity led to poor usability and convoluted user flows, which limited its effectiveness for target users. It required an in-depth evaluation of user interactions and incorporation of user feedback to reshape the experience into a more intuitive and efficient one.</p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
           <h4 class="project-section-title">Solutions we offered</h4>
-          <p class="project-body-text">We examined the current platform and performed a heuristic analysis using user pain points. This data enabled us to make a design choice that would be practical for both the user and the development team.</p>
+          <p class="project-body-text">A thorough heuristic analysis was conducted to identify user pain points within the current system. Based on this data, design strategies were implemented to create solutions both practical for end users and feasible for the development team.</p>
 
           <div class="bs-card-section project-bs-cards">
             <div class="row">
@@ -140,7 +137,7 @@
                 <div class="custom-card">
                   <h4 class="title">Usability Enhancement</h4>
                   <p class="description">
-                    Conducted a thorough examination of the existing platform utilizing heuristic analysis to identify and address user pain points.
+                  Team focused on identifying and resolving usability issues through detailed heuristic evaluation, addressing user frustrations to streamline platform interaction.
                   </p>
                 </div>
               </div>
@@ -149,16 +146,17 @@
                 <div class="custom-card">
                   <h4 class="title">User Engagement Improvement</h4>
                   <p class="description">
-                    Balanced the design through the strategic use of color contrasts to guide and engage users.
+                  Strategic use of color contrasts and a clear visual hierarchy were employed to direct user attention effectively and enhance overall engagement with the interface.
                   </p>
                 </div>
               </div>
               <!-- Card 3 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Collaborative decision making</h4>
+                  <h4 class="title">Collaborative decision-making</h4>
                   <p class="description">
-                    Presentation of the key flow to the stakeholders to make a design decision aligned to meet both business and user needs
+                  Key user flows and design proposals were presented to stakeholders to achieve alignment between business objectives and user needs, enabling informed, collective design decisions.
+
                   </p>
                 </div>
               </div>
@@ -167,7 +165,7 @@
                 <div class="custom-card">
                   <h4 class="title">Streamlined UI & UX </h4>
                   <p class="description">
-                    Improved the overall user experience to ensure efficiency and ease of use for the end user
+                  The redesign simplified the interface and interaction patterns to ensure users could complete tasks more efficiently and with greater ease.
                   </p>
                 </div>
               </div>
@@ -178,12 +176,12 @@
 
         <div class="solutions-offered project-section-padding">
           <h4 class="project-section-title">Our Approach</h4>
-          <p class="project-body-text">Understanding the problem and coming up with design thinking driven solutions helped get started with the project. We identified the issue, proposed iterative design solutions, and streamlined the process to ensure a holistically enhanced user experience</p>
+          <p class="project-body-text">Design thinking principles guided the project from issue identification to solution implementation. We used iterative design, continuous stakeholder engagement, and refinement to holistically improve the user experience.</p>
         </div>
         <!-- brainstorming-session  -->
         <div class="brainstorming-session project-section-padding">
           <h4 class="project-section-title">Brainstorming Session </h4>
-          <p class="project-body-text">Brainstorming sessions with the client and the iterative sketches served as the project's inspiration</p>
+          <p class="project-body-text">Collaborative brainstorming sessions with the client and iterative sketching served as project inspirations, fueling innovation and tailored solution development.</p>
 
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-digital-service-providers.jpg" alt="noctil digital service providers" />
@@ -205,7 +203,7 @@
             </button>
           </div>
           <p class="project-body-text">
-          Our solutions aimed to enhance the user experience and streamline operational efficiency. The redesigned UI helped in quick interactions, improved overall performance, and simplified human resource management.
+          Our designs significantly improved user workflows and enhanced operational efficiency for artist societies who will be using the solution. The new UI enabled faster interactions, simplified human resource processes, and improved platform performance overall.
           </p>
           <button class="btn btn-custom case-study-mobview ps-responsive-margin" data-service="music-rights-management-solution"
                             data-bs-toggle="modal" data-bs-target="#downloadCaseStudyModal"
@@ -221,7 +219,8 @@
                 <div class="custom-card case-study-card">
                   <h4 class="title">Improved Usability</h4>
                   <p class="description">
-                  The design helped users with an enhanced user interface for seamless interaction.
+                  The intuitive, user-friendly interface empowered users to accomplish tasks more quickly and with less effort.
+
                   </p>
 
                 </div>
@@ -233,7 +232,7 @@
                 <div class="custom-card case-study-card">
                   <h4 class="title">Improved Application Performance</h4>
                   <p class="description">
-                  The design also improved the overall performance of the application and reduced the difficulty in managing human resources.
+                  Design enhancements boosted the application’s responsiveness and reduced complexity in managing human resources.
                   </p>
 
                 </div>
@@ -245,7 +244,7 @@
                 <div class="custom-card case-study-card">
                   <h4 class="title">Agile Design for Problem Identification</h4>
                   <p class="description">
-                    Optimized workflows and reduced processing time resulted in significant performance improvements across all modules.
+                  Workflow optimizations and processing time reductions led to marked performance improvements across platform modules.
                   </p>
 
                 </div>
@@ -257,7 +256,7 @@
                 <div class="custom-card case-study-card">
                   <h4 class="title">Cost Efficiency</h4>
                   <p class="description">
-                  By adopting an agile approach and making sure we align with the product needs we followed an iterative design process.
+                  By aligning design efforts tightly with product goals, the redesign minimized development rework and maximized return on investment.
                   </p>
 
                 </div>
@@ -268,22 +267,23 @@
         </div>
         <!-- ui-update  -->
         <div class="brainstorming-session project-section-padding">
-          <h4 class="project-section-title">Interactive UI Upgrade</h4>
-          <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was driven by practical functionality for a more engaging and user-friendly experience.</p>
+          <h4 class="project-section-title">Branding & Website design UI Upgrade</h4>
+          <p class="project-body-text">Dynamic microinteractions and engaging illustrations enriched the platform’s usability, producing a practical yet captivating user experience.</p>
+
+          <p class="project-body-text">In summary, the redesign transformed Noctil into a streamlined, AI-powered metadata management solution that supports rights holders with accurate, transparent, and efficient royalty management, modernizing the way music and audiovisual metadata is handled globally.</p>
 
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-website-ui.jpg" alt="noctil website ui" />
           </div>
           </div>
         <div class="brainstorming-session project-section-padding">
-          <h4 class="project-section-title">New logo design for rebranding Noctil</h4>
+          <h4 class="project-section-title">Noctil Logo Redesign</h4>
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-logo-style-guide.jpg" alt="noctil logo style guide" />
           </div>
           </div>
           <div class="brainstorming-session project-section-padding">
-          <h4 class="project-section-title">Website redesigned for Noctils Rebranding
-          </h4>
+          <h4 class="project-section-title">Noctil Website Redesign</h4>
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/music-rights-management-solution/noctil-music-management-solution.jpg" alt="noctil project banner" />
           </div>
