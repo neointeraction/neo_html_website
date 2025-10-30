@@ -100,21 +100,21 @@
     "case_study_url": "case-study/casestudy-cattle-tracking-management-solution.pdf"
   },
   {
-    "title": "UX Design for Biomedical Reserach Platform",
-    "description": "A platform that focuses on managing biomedical data complexities amid advancements in technology",
+    "title": "UX Design for Biomedical Research Tool",
+    "description": "A tool that focuses on managing biomedical data complexities amid advancements in technology",
     "image": "thumb/desk/euclid-homepage-banner.webp",
     "mobileImage": "thumb/mobile/euclid-homepage-banner.webp",
-    "alt": "Euclid - A biomedical Research platform",
+    "alt": "Euclid - A biomedical Research Tool",
     "tags": ["Start-up Projects", "Healthcare"],
     "link": "euclid-biomedical-research-platform.php",
     "case_study_url": "case-study/casestudy-euclid-a-biomedical-research-platform.pdf"
   },
   {
-    "title": "Healthcare ERP System Boost for Cashless TPA",
+    "title": "Redesign for Cashless Treatment TPA",
     "description": "Revamping UX for TPA claims across 600 teams, prioritizing cashless simplicity and efficiency via TIPS.",
     "image": "thumb/desk/vidal-homepage-banner.webp",
     "mobileImage": "thumb/mobile/vidal-homepage-banner.webp",
-    "alt": "Claiming Efficiency - UX Boost for Cashless TPA",
+    "alt": "Redesign for Cashless Treatment TPA",
     "tags": ["Healthcare", "B2B"],
     "link": "vidal-cashless-tpa.php",
     "case_study_url": "case-study/case-study-claiming-efficiency-ux-boost-for-cashless-tpa.pdf"

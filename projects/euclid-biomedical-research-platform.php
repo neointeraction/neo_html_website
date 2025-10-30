@@ -46,7 +46,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                UX Design for <span class="highlight">Biomedical Reserach Platform</span>
+                UX Design for <span class="highlight">Biomedical Research Tool</span>
             </h1>
         </div>
         <!-- project-banner-img -->
@@ -96,11 +96,8 @@
                         </button>
 
                     </div>
-                    <p class="p-main-text">Euclid focuses on managing biomedical data complexities amid advancements in
-                        technology.</p>
-                    <!-- <button class="btn btn-custom case-study-mobview ">
-                        Book A Consultation
-                    </button> -->
+                    <p class="p-main-text">Euclid simplifies the management of complex biomedical data by providing a systematic platform that leverages big data and interactive dashboards. It supports diverse users—researchers, data scientists, and bioinformaticians—by offering infrastructure and collaborative tools that accelerate biomedical research, foster innovation, and translate discoveries into practical health solutions.
+                    </p>
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -129,27 +126,18 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="project-section-title">Objective </h4>
-                            <p class="project-body-text">To design a platform that help manage biomedical data better
-                                and make it easier to get important information in life sciences. Our aim is to create
-                                ways to gather and communicate information seamlessly in areas where there aren't many
-                                approved medicines for complicated diseases.</p>
+                            <p class="project-body-text">To build a platform that streamlines biomedical data management and enables easy access to vital life sciences information, emphasizing seamless data gathering and communication while addressing challenges in areas with limited approved treatments.</p>
                         </div>
                         <div class="col-md-6">
                             <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                            <p class="project-body-text">In the field of life sciences, where we have only a few
-                                approved drugs for many diseases, there's a recognized need to gather and organize
-                                knowledge in a way that users can understand. Even with lots of data from
-                                high-throughput technologies, it's still tricky to use it for specific purposes for
-                                which we needed to create an application that helps integrate it all.</p>
+                            <p class="project-body-text">Managing vast and complex biomedical datasets while ensuring user-friendly comprehension is challenging. This requires a cohesive user-centered design approach to integrate, visualize, and simplify big data efficiently.</p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Solutions we offered</h4>
-                    <p class="project-body-text">We developed an application that displaying the extracted knowledge
-                        with sufficient background information. It also captures the cause-and-effect features of
-                        biological entities</p>
+                    <p class="project-body-text">We created an application that contextualizes biomedical knowledge with cause-and-effect relationships, utilizing live dashboards and data visualization tools. The design focuses on clarity and intuitiveness, transforming complex biomedical data into actionable insights through an engaging, user-centered interface.</p>
 
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
@@ -158,7 +146,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">User Stories for Event Identification</h4>
                                     <p class="description">
-                                        Creating user stories will helped in identifying negative and unfamiliar events.
+                                    Developed user stories helped detect complex biological events, refining platform responsiveness and user experience.
                                     </p>
                                 </div>
                             </div>
@@ -167,8 +155,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Digitalization of Manual Data Handling</h4>
                                     <p class="description">
-                                        Users were able to properly visualize and experience the look and feel of a
-                                        product through prototyping and testing
+                                    Through prototyping and testing, we transitioned manual processes to digital, improving interaction and workflow efficiency.
                                     </p>
                                 </div>
                             </div>
@@ -177,8 +164,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Early Developer Engagement</h4>
                                     <p class="description">
-                                        Engaging developers during the process helped in reducing reworks and assist
-                                        them to spot any potential issues
+                                    Engaging developers from the initial stages fostered better communication between design and development teams, helping prevent rework, accelerate implementation, and improve overall solution quality.
                                     </p>
                                 </div>
                             </div>
@@ -188,9 +174,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Interactive Data Visualization</h4>
                                     <p class="description">
-                                        We introduced interactive dashboards and visual elements that allowed users to
-                                        explore biomedical data intuitively, making complex relationships easier to
-                                        comprehend.
+                                    Implemented live dashboards and intuitive visuals, allowing users to explore complex data effortlessly.
                                     </p>
                                 </div>
                             </div>
@@ -201,10 +185,7 @@
 
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Our Approach</h4>
-                    <p class="project-body-text"> We started by understanding the challenge and conducting research. Our
-                        strategy involved creating a detailed list of requirements and exploring potential solutions.
-                        Moving forward, we carefully selected the most effective solution from the list and proceeded to
-                        build a prototype, laying the foundation for the development phase.</p>
+                    <p class="project-body-text">We carried out extensive research and requirement analysis, iterated through prototypes, and refined the product to ensure it met user needs at every stage.</p>
                 </div>
                 <!-- brainstorming-session  -->
 
@@ -223,9 +204,7 @@
                         </button>
                     </div>
                     <p class="project-body-text">
-                        Our solutions brought significant improvements to the user experience of our app, addressing key
-                        aspects of usability, accessibility, and engagement. Here's
-                        how our efforts positively impacted the user interface,
+                    Through thoughtful design and collaboration, we transformed complex workflows into a smooth, intuitive experience that resonated with users and elevated their everyday interactions with the platform.
                     </p>
                     <button class="btn btn-custom case-study-mobview ps-responsive-margin"
                         data-service="euclid-biomedical-research-platform" data-bs-toggle="modal"
@@ -239,11 +218,9 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Enhanced Usability</h4>
+                                    <h4 class="title">Refined Usability</h4>
                                     <p class="description">
-                                        Users were happy with the user interface for its improved usability and a more
-                                        relatable design, contributing to a smoother and more
-                                        enjoyable user flow.
+                                    Users benefited from a sleek, easy-to-navigate interface, improving workflow fluidity.
                                     </p>
 
                                 </div>
@@ -254,9 +231,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Simplified Accessibility</h4>
                                     <p class="description">
-                                        We were able to achieve the goal of simplicity and make the app even more
-                                        accessible to users of all ages since we employed a consistent
-                                        design language throughout the UI.
+                                    Consistent design language ensured accessibility for users across skill levels.
                                     </p>
 
                                 </div>
@@ -267,8 +242,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Positive User Feedback</h4>
                                     <p class="description">
-                                        The revamped design received positive feedback from users, emphasizing
-                                        satisfaction with the improved user interface.
+                                    The redesign garnered strong approval for its intuitive and user-friendly interface.
                                     </p>
 
                                 </div>
@@ -279,8 +253,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Increased Engagement</h4>
                                     <p class="description">
-                                        By using a consistent design language and enhancing accessibility, the app saw
-                                        increased engagement.
+                                    Improved usability and visualization increased user engagement with the platform.
                                     </p>
 
                                 </div>
