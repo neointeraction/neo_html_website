@@ -14,7 +14,7 @@
     <meta property="og:title" content="AI Driven Healthcare Consultation Platform | Neointeraction Design" />
     <meta property="og:description"
         content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/tricog-homepage-thumbnail.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/tricog-homepage-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/patient-consultation-ux" />
@@ -24,7 +24,7 @@
     <meta name="twitter:title" content="AI Driven Healthcare Consultation Platform | Neointeraction Design" />
     <meta name="twitter:description"
         content="UX design for this AI-powered medical assistant brought a 3D powered treatment user interface and also sped up consultations and enabled doctors to see more patients." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/tricog-homepage-thumbnail.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/tricog-homepage-thumbnail.webp" />
     <meta name="twitter:card" content="summary" />
 
 </head>
@@ -51,18 +51,18 @@
 
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare/tricog-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog-banner.webp"
                     alt="Doctor consulting patient in hospital room" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare/tricog-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog-banner-float.webp"
                     alt="Tricog healthcare platform dashboard design" />
             </div>
         </div>
 
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare/tricog-homepage-banner.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog-homepage-banner.webp"
                     alt="Tricog ai driven healthcare platform redesign
 
 " />
@@ -77,7 +77,7 @@
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
                             <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/tricog-logo.svg"
+                                <img src="<?php echo $path; ?>assets/images/projects/client-logos/tricog-logo.webp"
                                     alt="Tricog logo" />
                                 <div class="quote-icon-right d-block d-md-none"></div>
                             </div>
@@ -220,7 +220,7 @@
                         and use it in an impactful way.</p>
 
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v3.jpeg"
+                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v3.webp"
                             alt="Team brainstorming for Tricog AI healthcare redesign" />
                     </div>
                 </div>
@@ -298,7 +298,7 @@
                     <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was
                         driven by practical functionality for a more engaging and user-friendly experience.</p>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v4.jpeg"
+                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v4.webp"
                             alt="Tricog mobile app UI" />
                     </div>
 </div>
@@ -306,7 +306,7 @@
                     <p class="project-body-text">The web portal design for the cardiologist and care team to monitor patient vitals
                     </p>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v2.jpeg"
+                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v2.webp"
                             alt="Tricog web dashboard UI" />
                     </div>
                 </div>
