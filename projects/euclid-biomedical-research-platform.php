@@ -52,16 +52,16 @@
         <!-- project-banner-img -->
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner.webp" alt="pbanner1" />
+                <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-project-banner.webp" alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/euclid/euclid-project-banner-float.webp"
+                <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-project-banner-float.webp"
                     alt="pbanner1" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical-research-platform.webp"
+                <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-biomedical-research-platform.webp"
                     alt="pbanner1" />
             </div>
         </div>
