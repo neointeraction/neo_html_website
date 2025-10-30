@@ -49,17 +49,17 @@
 
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner.webp"
                     alt="Health and wellness lifestyle background with meditation" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner-float.webp"
                     alt="Health and wellness website redesign UI" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner.webp"
                     alt="Health and wellness website redesign project" />
             </div>
         </div>
@@ -251,7 +251,7 @@
 
 
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-priority-mapping.jpeg"
+                        <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-priority-mapping.webp"
                             alt="Website redesign priority mapping chart" />
                     </div>
 </div>
@@ -260,7 +260,7 @@
                     By aligning the website with user expectations and optimizing content for different target demographics, MEGA We Care improved its ability to connect with and retain its audience by applying the recommendations from the priority map
 </div>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-audit-findings.jpeg"
+                        <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-audit-findings.webp"
                             alt="Health website UX audit and recommendations" />
                     </div>
                 </div>

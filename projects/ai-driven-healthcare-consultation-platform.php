@@ -220,7 +220,7 @@
                         and use it in an impactful way.</p>
 
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v3.webp"
+                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog-team-discussion.webp"
                             alt="Team brainstorming for Tricog AI healthcare redesign" />
                     </div>
                 </div>
@@ -298,7 +298,7 @@
                     <p class="project-body-text">With dynamic micro interactions and illustrations, our redesign was
                         driven by practical functionality for a more engaging and user-friendly experience.</p>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v4.webp"
+                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog-mobile-ui.webp"
                             alt="Tricog mobile app UI" />
                     </div>
 </div>
@@ -306,7 +306,7 @@
                     <p class="project-body-text">The web portal design for the cardiologist and care team to monitor patient vitals
                     </p>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/neo-project-ai-design-healthcare-v2.webp"
+                        <img src="<?php echo $path; ?>assets/images/projects/ai-driven-healthcare-consultation-platform/tricog-website-ui.webp"
                             alt="Tricog web dashboard UI" />
                     </div>
                 </div>

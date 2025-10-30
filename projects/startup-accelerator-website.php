@@ -53,17 +53,17 @@
         <!-- project-banner-img -->
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner.webp"
                 alt="Tech startup team meeting background" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-banner-float.webp"
                     alt="Website redesign for tech startup accelerator UI design" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-homepage-banner.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-homepage-banner.webp"
                     alt="Website redesign project for tech startup accelerator" />
             </div>
         </div>
@@ -265,7 +265,7 @@
 
                 <h4 class="project-section-title">Final UI </h4>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-website-ui.jpeg"
+                        <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-website-ui.webp"
                             alt="Tech startup accelerator website redesign final UI" />
                     </div>
 </div>
@@ -273,7 +273,7 @@
 <p class="project-body-text">The redesign helped in a refreshing look for communicating IA’s ecosystem and brought in more credibility with a modern website that would also help with their global presence.
 </p>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-desktop-ui.jpeg"
+                        <img src="<?php echo $path; ?>assets/images/projects/startup-accelerator/india-accelerator-desktop-ui.webp"
                             alt="Website redesign UI screens for tech startup accelerator" />
                     </div>
                 </div>

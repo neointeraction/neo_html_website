@@ -48,17 +48,17 @@
  
     <div class="project-banner-img project-banner-img-block d-none d-md-block">
         <div class="pbi-layer1">
-            <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-banner.jpg"
+            <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-banner.webp"
                 alt="Corporate employee transportation background with taxi" />
         </div>
         <div class="pbi-layer2">
-            <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-banner-float.svg"
+            <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-banner-float.webp"
                 alt="Transportation management app UI design for employees" />
         </div>
     </div>
     <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-homepage-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-homepage-banner.webp"
                     alt="UX UI design for corporate employee transportation management" />
             </div>
         </div>
@@ -233,7 +233,7 @@
 
 
           <div class="bs-img">
-          <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-wireframes.jpg" alt="Transportation management app wireframe design" />
+          <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-wireframes.webp" alt="Transportation management app wireframe design" />
           </div>
 </div>
 <div class="ui-update project-section-padding">
@@ -241,7 +241,7 @@
 </p>
 
           <div class="bs-img">
-          <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-mobile-ui.jpg" alt="Corporate employee transportation app UI design" />
+          <img src="<?php echo $path; ?>assets/images/projects/etravelmate-travel/etravelmate-mobile-ui.webp" alt="Corporate employee transportation app UI design" />
           </div>
         </div>
         <!-- <div class="view-all-blogs-btn">

@@ -54,17 +54,17 @@
       
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-banner.webp"
                 alt="football on grass field" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-banner-float.webp"
                     alt="player transfer system dashboard design" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/player-transfer-system.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/player-transfer-system.webp"
                     alt="player transfer platform UI design" />
             </div>
         </div>
@@ -287,7 +287,7 @@
                     <h4 class="project-section-title">
                         Final UI </h4>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-website-ui.jpeg" alt="Player transfer platform final UI design" />
+                        <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-website-ui.webp" alt="Player transfer platform final UI design" />
                     </div>
                 </div>
                 <!-- <div class="view-all-blogs-btn">

@@ -54,18 +54,18 @@
 
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner.webp"
                     alt="Construction management UX UI design background" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner-float.webp"
                     alt="Construction management platform UI design" />
             </div>
         </div>
 
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner.webp"
                     alt="UX UI design for construction management platform" />
             </div>
         </div>
@@ -255,7 +255,7 @@
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui.jpg"
+                        <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui.webp"
                             alt="Construction platform UX UI design 3D structure view" />
                     </div>
                 </div>

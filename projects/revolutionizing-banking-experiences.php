@@ -51,17 +51,17 @@
 
     <div class="project-banner-img project-banner-img-block d-none d-md-block">
         <div class="pbi-layer1">
-            <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-banner.jpg"
+            <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-banner.webp"
             alt="pbanner1" />
         </div>
         <div class="pbi-layer2">
-            <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-banner-float.svg"
+            <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-banner-float.webp"
                 alt="pbanner1" />
         </div>
     </div>
     <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/revolutionizing-banking-experiences.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/revolutionizing-banking-experiences.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -72,7 +72,7 @@
           <div class="row justify-content-center align-items-center">
             <div class="col-md-3">
               <div class="p-logo d-flex align-items-center justify-content-start justify-content-md-center">
-                <img src="<?php echo $path; ?>assets/images/projects/client-logos/commercial-bank-of-dubai-logo.svg" alt="commercial-bank-of-dubai" />
+                <img src="<?php echo $path; ?>assets/images/projects/client-logos/commercial-bank-of-dubai-logo.webp" alt="commercial-bank-of-dubai" />
                 <div class="quote-icon-right d-block d-md-none"></div>
               </div>
             </div>
@@ -261,7 +261,7 @@
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
           <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-website-ui.jpeg" alt="ui-update" />
+            <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-website-ui.webp" alt="ui-update" />
           </div>
         </div>
         <!-- <div class="view-all-blogs-btn">
@@ -273,37 +273,6 @@
     </div>
   </section>
 
-
-
-  <!-- Case Study Download Modal -->
-  <div class="modal fade" id="caseStudyModal" tabindex="-1" role="dialog" aria-labelledby="caseStudyModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="caseStudyModalLabel">Download Case Study</h5>
-          <!-- Change this line in your modal -->
-          <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p class="mb-3">Enter your email to download the case study and stay updated with our latest insights.</p>
-          <form id="caseStudyForm">
-            <div class="mb-3">
-              <input
-                type="email"
-                id="case-study-email"
-                class="form-control"
-                placeholder="Enter your work email"
-                required>
-            </div>
-            <div id="case-study-status" class="mb-3"></div>
-            <button type="submit" class="btn btn-custom-secondary w-100" id="case-study-submit">
-              Download Case Study
-            </button>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <?php 
         $previous = "Intertrust Navigate- Fund operations platform";
