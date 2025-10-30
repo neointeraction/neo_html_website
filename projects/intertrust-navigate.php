@@ -45,24 +45,24 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                Intertrust Navigate - <span class="highlight">Fund operations platform,</span>
+                Intertrust Navigate - <span class="highlight">Fund operations</span>
             </h1>
         </div>
         <!-- project-banner-img -->
 
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-banner.webp"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-banner-float.webp"
                     alt="pbanner1" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate.jpeg" alt="pbanner1" />
+                <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate.webp" alt="pbanner1" />
             </div>
         </div>
         <div class="project-content-block">
@@ -96,12 +96,7 @@
                         </button>
                     </div>
                     <p class="p-main-text">
-                        Intertrust Group aimed to develop Navigate, a platform enabling employees to monitor and track
-                        the company's fund-related operations, serving as a sister product to another Intertrust
-                        application, Promo.</p>
-                    <!-- <button class="btn btn-custom case-study-mobview ">
-                        Book A Consultation
-                    </button> -->
+                    Intertrust Group aimed to develop Navigate, a platform enabling employees to monitor and track the company's fund-related operations, serving as a companion platform to another Intertrust application, Promo.</p>
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -130,27 +125,19 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="project-section-title">Objective </h4>
-                            <p class="project-body-text">Develop a user-friendly platform, "Navigate" specifically
-                                tailored for Intertrust Group employees to facilitate seamless monitoring and management
-                                of fund-related tasks. The goal is to ensure its compatibility with the current system
-                                and alignment with the company's objectives, serving as a promotion for a cohesive and
-                                user-friendly experience.</p>
+                            <p class="project-body-text">Develop a user-friendly platform "Navigate", specifically tailored for Intertrust Group employees to monitor and manage fund processing tasks. The goal is to ensure its compatibility with the current system and alignment with the company's digital transformation objectives. </p>
                         </div>
                         <div class="col-md-6">
                             <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                            <p class="project-body-text">Organizing and presenting a large amount of data in a unified
-                                and intuitive design while balancing business requirements with a positive user
-                                experience was the main challenge. Based on the product understanding the challenge was
-                                also to only have features that could help users have an efficient experience making it
-                                as seamless as possible. </p>
+                            <p class="project-body-text">The main challenge was organizing and presenting large volumes of data in a unified, intuitive design while balancing business goals with user needs. We needed to prioritize features that made daily tasks simpler and faster to complete.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Solutions we offered</h4>
-                    <p class="project-body-text">After gathering and understanding the business and product needs we
-                        started working on the platform from a ux driven perspective to meet user needs.</p>
+                    <p class="project-body-text">After understanding business goals and user expectations, we followed a structured UX design process. Constant collaboration with key stakeholders helped refine ideas, ensuring the final solution met both user needs and business objectives effectively.</p>
 
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
@@ -159,8 +146,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">UI Design System Enhancement</h4>
                                     <p class="description">
-                                        Modification and customization of an already existing UI design system for
-                                        Navigate.
+                                    We improved and customized the existing UI design system for Navigate, improving component usability, consistency, and scalability across different modules.
                                     </p>
                                 </div>
                             </div>
@@ -169,7 +155,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Comprehensive UI Flows</h4>
                                     <p class="description">
-                                        Created UI flows for all types of processes within the application.
+                                    Developed detailed UI flows covering all process types within the application, ensuring seamless transitions and intuitive navigation for end users.
                                     </p>
                                 </div>
                             </div>
@@ -178,8 +164,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Live Implementation in HTML and React</h4>
                                     <p class="description">
-                                        Our UI development team created a live functioning version of the design in
-                                        HTML, which was then implemented in React too.
+                                    Our UI development team brought the designs to life using reusable React.js components, ensuring a fully responsive and high-performance user interface.
                                     </p>
                                 </div>
                             </div>
@@ -188,9 +173,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">User Testing and Iterative Feedback</h4>
                                     <p class="description">
-                                        We conducted multiple rounds of testing with users, gathering feedback to refine
-                                        UI elements and workflows, ensuring the platform met real-world user needs
-                                        efficiently.
+                                    Conducted multiple rounds of user testing to gather actionable insights, refining UI components and workflows to ensure the platform aligned perfectly with user needs and expectations.
                                     </p>
                                 </div>
                             </div>
@@ -199,13 +182,13 @@
                     </div>
                 </div>
 
-                <div class="solutions-offered project-section-padding">
+                <!-- <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">
                         Our Approach</h4>
                     <p class="project-body-text">Facing the challenge of understanding the business and product needs
                         quickly, our strategy was to learn about the industry concepts for planning the design. We
                         solved problems by using the right UI development technologies.</p>
-                </div>
+                </div> -->
 
 
                 <!-- solutions-help section -->
@@ -222,9 +205,7 @@
                         </button>
                     </div>
                     <p class="project-body-text">
-                        We were able to offer Navigate a full digital transformation by implementing the design on
-                        cutting-edge technology and incorporating our UX strategies. Many Intertrust personnel were
-                        satisfied with the software for its consistency in UI components and simplicity of navigation.
+                    Our team approached the product's digital transformation by implementing design with the latest technology and UX strategies. The Intertrust team praised the software for its consistent UI components and easy navigation.
                     </p>
                     <button class="btn btn-custom case-study-mobview ps-responsive-margin"
                         data-service="intertrust-navigate" data-bs-toggle="modal"
@@ -240,8 +221,8 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Scalable Design for Future Expansion</h4>
                                     <p class="description">
-                                        The design and UI elements were created in such a manner that Navigate could be
-                                        scaled in the future when new features and capabilities were added.
+                                    The design and UI elements were created in such a manner that Navigate could be scaled in the future when new features and capabilities were added.
+
                                     </p>
 
                                 </div>
@@ -252,8 +233,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Efficient Navigation System Based on UX Principles</h4>
                                     <p class="description">
-                                        With a clean-looking UI, Navigate offered users a true distraction-free
-                                        environment to perform their daily tasks.
+                                    With a clean-looking UI, Navigate offers users a true distraction-free navigation experience to perform their daily tasks.
                                     </p>
 
                                 </div>
@@ -262,10 +242,9 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Navigating Complex Challenges with Cutting-Edge Tech</h4>
+                                    <h4 class="title">Scalable Architecture</h4>
                                     <p class="description">
-                                        The UI development team was able to overcome complex difficulties by using the
-                                        benefits of cutting-edge technologies.
+                                    Our UI development team was able to implement complex workflows without affecting the performance using Microfrontend Architecture (MFA), reducing users' frustration by real-time data rendering.
                                     </p>
 
                                 </div>
@@ -276,8 +255,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Cost Efficiency</h4>
                                     <p class="description">
-                                        Strategic implementation reduced operational costs while maintaining
-                                        high-quality standards and user satisfaction.
+                                    By focusing on reusable components during design and implementation, we reduced development time and achieved significant cost savings.
                                     </p>
 
                                 </div>
@@ -290,7 +268,7 @@
                 <div class="ui-update project-section-padding">
                     <h4 class="project-section-title">Final UI </h4>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-website-ui.jpeg"
+                        <img src="<?php echo $path; ?>assets/images/projects/intertrust-navigate/intertrust-navigate-website-ui.webp"
                             alt="intertrust-navigate-website-ui" />
                     </div>
                 </div>

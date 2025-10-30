@@ -187,11 +187,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="solutions-offered project-section-padding">
+                <!-- <div class="solutions-offered project-section-padding">
                     <h2 class="project-section-title">Our Approach </h2>
                     <p class="project-body-text">We tackled the challenge of simplifying design for people with different creative needs by using a strategic approach. We interviewed individuals to understand their design needs and used the latest technology to create user-friendly features, ensuring an efficient design experience.
                     </p>
-                </div>
+                </div> -->
                 <!-- solutions-help section -->
                 <div class="solutions-help project-section-padding">
                     <div class="title-flex">

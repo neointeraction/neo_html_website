@@ -48,17 +48,17 @@
   
     <div class="project-banner-img project-banner-img-block d-none d-md-block">
         <div class="pbi-layer1">
-            <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-banner.jpg"
+            <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-banner.webp"
             alt="pbanner1" />
         </div>
         <div class="pbi-layer2">
-            <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-banner-float.svg"
+            <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-banner-float.webp"
                 alt="pbanner1" />
         </div>
     </div>
     <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -89,9 +89,6 @@
                         </button>
           </div>
           <p class="p-main-text">Geojit BNP Paribas revamped their trading platform, transitioning from "FLIP" to "SELFIE," for a unified and enriched user experience across devices.</p>
-          <!-- <button class="btn btn-custom case-study-mobview ">
-            Book A Consultation
-          </button> -->
         </div>
         <!-- result-block -->
         <div class="result-block project-section-padding">
@@ -120,18 +117,18 @@
           <div class="row">
             <div class="col-md-6">
               <h3 class="project-section-title">Objective </h3>
-              <p class="project-body-text">To improve the trading experience by creating a smart and easy-to-use platform. This platform helps traders and investors keep track of their investments and makes it simple to do research, plan strategies and giving quick access to important information.</p>
+              <p class="project-body-text">To improve the trading experience by creating a smart and easy-to-use platform. This platform helps traders and investors keep track of their investments and makes it simple to do research, plan strategies, and gives quick access to important information.</p>
             </div>
             <div class="col-md-6">
               <h3 class="project-section-title ps-responsive-margin">Challenges </h3>
-              <p class="project-body-text">The challenges involved making it easy to place orders quickly by creating a fast and efficient way to access data. We also had to combine different services to make trading more enjoyable and come up with research and strategy features that match what different clients like. </p>
+              <p class="project-body-text">The challenges involved making it easy to place orders quickly by creating a fast and efficient way to access trade data. We also had to consider 3rd party market data services with research and strategy features, helping users to make decisions for their trade orders.</p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
           <h3 class="project-section-title">Solutions we offered</h3>
-          <p class="project-body-text">In the redesign of Geojit trading platform, SELFIE, our solutions provided traders with a personalized and all-in-one experience. We added advanced charts, included trading options, and provided detailed analytics. This helps traders make smarter decisions.</p>
+          <p class="project-body-text">In the redesign of the Geojit trading platform, SELFIE, our solutions provided traders with a personalized and all-in-one experience. We added advanced charts, included trading options, and provided detailed analytics. This helps traders make smarter decisions.</p>
 
           <div class="bs-card-section project-bs-cards">
             <div class="row">
@@ -140,7 +137,7 @@
                 <div class="custom-card">
                   <h3 class="title">Personalized Trading Experience</h3>
                   <p class="description">
-                  Traders can customize dashboards and widgets, tailoring their platform for individual preferences.
+                  Traders can customize dashboards and widgets to suit their style, focusing on key data for quicker and smarter decisions.
                   </p>
                 </div>
               </div>
@@ -149,7 +146,7 @@
                 <div class="custom-card">
                   <h3 class="title">Unified Watchlist Look</h3>
                   <p class="description">
-                  Users can enjoy a consistent watchlist experience across both web and mobile platforms for easy market monitoring.
+                  A synchronized watchlist across web and mobile helps traders track price movements and manage stocks effortlessly.
                   </p>
                 </div>
               </div>
@@ -158,7 +155,7 @@
                 <div class="custom-card">
                   <h3 class="title">Integrated Trading Across Assets </h3>
                   <p class="description">
-                  Users can seamlessly trade across diverse asset classes and products, enhancing trading flexibility.
+                  Users can trade multiple asset classes within a unified interface, simplifying portfolio management and improving flexibility.
                   </p>
                 </div>
               </div>
@@ -167,7 +164,7 @@
                 <div class="custom-card">
                   <h3 class="title">Comprehensive F&O Analytics </h3>
                   <p class="description">
-                  Access insightful Analytics & Visualization tools for a comprehensive understanding of futures and options markets.
+                  Advanced analytics tools offer clear insights into futures and options, helping traders analyze trends and assess risk easily.
                   </p>
                 </div>
               </div>
@@ -189,7 +186,7 @@
             </button>
           </div>
           <p class="project-body-text">
-          The solutions streamlined user journeys and task flows, ensuring a unified experience for traders and investors. Key contributions include,
+          The solutions streamlined user journeys and task flows, ensuring a unified experience for traders and investors. By simplifying complex interactions, the platform enabled quicker decision-making and improved overall trading efficiency.
           </p>
           <button class="btn btn-custom case-study-mobview ps-responsive-margin"  data-service="share-trading-platform"
                                  data-bs-toggle="modal"
@@ -206,7 +203,7 @@
                 <div class="custom-card case-study-card">
                   <h3 class="title">One-Page Strategy</h3>
                   <p class="description">
-                  Our design approach focused on a one-page strategy, minimizing navigations for a more user-friendly experience.
+                  Our design approach focused on a one-page strategy, minimizing multi-tab navigation, and helping with a faster trade order experience.
                   </p>
 
                 </div>
@@ -218,7 +215,7 @@
                 <div class="custom-card case-study-card">
                   <h3 class="title">Efficient Order Placement</h3>
                   <p class="description">
-                  Users could easily examine and interact with portfolio and symbol information before placing orders.
+                  Users could easily view, analyze, and interact with portfolio and chart information before placing orders. This helped them make quicker, more informed trading decisions with reduced navigation effort.
                   </p>
 
                 </div>
@@ -230,7 +227,7 @@
                 <div class="custom-card case-study-card">
                   <h3 class="title">Cutting-edge HTML5 Technologies</h3>
                   <p class="description">
-                  Post adopting the Pre-Auth feature in T1 hospitals, the daily request surged by an impressive 400%.
+                  Users can access powerful, cross-platform trade features implemented in HTML5. Responsive implementation allowed users to switch between desktop and mobile effortlessly.
                   </p>
 
                 </div>
@@ -257,7 +254,7 @@
           <h3 class="project-section-title">Dark UI Option </h3>
           <p class="project-body-text">Recognizing users' reliance on digital devices, a dark mode option was added to reduce eye strain.</p>
           <div class="bs-img">
-            <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-mobile-ui.jpg" alt="geogit-mobile-ui" />
+            <img src="<?php echo $path; ?>assets/images/projects/share-trading-platform/geogit-mobile-ui.webp" alt="geogit-mobile-ui" />
           </div>
         </div>
         <!-- <div class="view-all-blogs-btn">
