@@ -46,7 +46,7 @@
     <section class="banner section-padding">
         <div class="container">
             <h1 class="banner-title">
-                90+ Tuition App - <span class="highlight">Online Tutoring Platform</span>
+                90+ Tuition App - <span class="highlight">Online Tutoring</span>
             </h1>
         </div>
         <!-- project-banner-img -->
@@ -94,10 +94,7 @@
                             Book A Consultation
                         </button>
                     </div>
-                    <p class="p-main-text">90+ My Tuition App offers syllabus-oriented digital classes with animated content for easy understanding, bringing tuition directly to your doorstep.</p>
-                    <!-- <button class="btn btn-custom case-study-mobview ">
-                        Book A Consultation
-                    </button> -->
+                    <p class="p-main-text">90+ My Tuition App offers syllabus-oriented digital classes with dynamic content for easy understanding, bringing tuition directly to students' doorstep.</p>
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
@@ -126,18 +123,18 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4 class="project-section-title">Objective </h4>
-                            <p class="project-body-text">The objective is to enhance the usability of the My Tuition App for a broader user base by implementing upgrades. This involves giving the app a modern and attractive redesign, with a focus on simplicity. The aim is to transition from traditional video classes to a fresh design that facilitates a clear understanding of digital classes, ultimately simplifying and enhancing the overall learning experience.</p>
+                            <p class="project-body-text">The goal is to improve the usability of the My Tuition App with a fresh, simple design. The focus is on moving from traditional video classes to a clear, easy-to-understand digital format that makes learning straightforward.</p>
                         </div>
                         <div class="col-md-6">
                             <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
-                            <p class="project-body-text">Creating a new look for the platform that's both modern and keeps its educational essence, integrating animated content, and ensuring a unified visual experience were big challenges. It's important to find the right mix of being easy to use and looking smart to attract all kinds of users. This needs a careful design approach to make the app work for more people and make it even better for learning. </p>
+                            <p class="project-body-text">Designing a new look that feels modern yet keeps the educational purpose, integrates animated content, and maintains a consistent style was challenging. Ensuring the interface stayed engaging for students while remaining simple enough for easy navigation added another layer of complexity.</p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
                     <h4 class="project-section-title">Solutions we offered</h4>
-                    <p class="project-body-text">To enhance the userexperience, we refined the design quality with a focus on simplicity. The entire design language was adjusted to infuse elements of fun, joy, and user-friendliness while maintaining the company's branding. The design solution ensured a uniform grammar across all platforms, including Android and iOS.</p>
+                    <p class="project-body-text">The design was simplified to be user-friendly and engaging while staying true to the brand identity. We mapped user journeys, built wireframes, and created an organized UI kit for collaboration. Interactive visuals and consistent layouts made content easier to follow and the learning experience more cohesive.</p>
 
                     <div class="bs-card-section project-bs-cards">
                         <div class="row">
@@ -146,7 +143,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">User Journey and Information Architecture</h4>
                                     <p class="description">
-                                    Developing the information architecture and identifying and streamlining the key user journey
+                                    Defined a clear information architecture and mapped key user journeys to ensure intuitive navigation. Focused on simplifying complex workflows, allowing users to find relevant content and complete tasks with minimal effort.
                                     </p>
                                 </div>
                             </div>
@@ -156,7 +153,7 @@
                                     <h4 class="title">
                                     Wireframe Development</h4>
                                     <p class="description">
-                                    Building a wireframe to make a design decision
+                                    Developed detailed wireframes to visualize structure and functionality early in the process. This helped validate design decisions, maintain layout consistency, and align teams before moving into the visual design stage.
                                     </p>
                                 </div>
                             </div>
@@ -165,7 +162,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Organized UI Design Kit</h4>
                                     <p class="description">
-                                    Final UI Design was done in a phase wise organized manner to get a better collaborative experience with the team.
+                                    Created a well-structured, phase-wise UI design kit to maintain design consistency and streamline collaboration between design and development teams. Components and styles were standardized for scalability and efficiency.
                                     </p>
                                 </div>
                             </div>
@@ -174,7 +171,7 @@
                                 <div class="custom-card">
                                     <h4 class="title">Prototype Testing and Feedback Loop</h4>
                                     <p class="description">
-                                    We created interactive prototypes and conducted usability testing sessions with real users, gathering feedback to refine design elements and ensure the final solution met user expectations.
+                                    Built interactive prototypes and conducted usability testing sessions with real users to evaluate design effectiveness. Feedback from these sessions was incorporated iteratively to refine interactions and improve the overall user experience.
                                     </p>
                                 </div>
                             </div>
@@ -212,7 +209,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Improved User Engagement</h4>
                                     <p class="description">
-                                    The redesigned UI attracted a significant number of customers
+                                    The redesigned UI made interactions smoother and more enjoyable. Clear navigation and responsive layouts encouraged students to explore more and stay actively involved in their learning.
                                     </p>
 
                                 </div>
@@ -223,7 +220,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Consistent Design Language</h4>
                                     <p class="description">
-                                    Established a cohesive design language across the entire UI
+                                    A unified design system was implemented across all screens and devices. Consistent colors, typography, and layouts helped create a cohesive visual identity and improved overall usability.
                                     </p>
 
                                 </div>
@@ -232,9 +229,9 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Improved Accessibility</h4>
+                                    <h4 class="title">Better Accessibility</h4>
                                     <p class="description">
-                                    The consistent design language enhanced accessibility for all age groups. The app became more user-friendly and accessible to a broader range of users.
+                                    The app was optimized for students of different ages and abilities. Enhanced contrast, larger touch areas, and simpler navigation made it easier for everyone to access and understand the content.
                                     </p>
 
                                 </div>
@@ -244,7 +241,7 @@
                                 <div class="custom-card case-study-card">
                                     <h4 class="title">Simplified Learning Experience</h4>
                                     <p class="description">
-                                    By organizing content and visuals clearly, the new design made digital classes easier to follow, helping students grasp concepts more effectively and stay engaged throughout their lessons.
+                                    Streamlined layouts and clear visuals made online classes easier to follow. Organized content and guided interactions helped students stay focused and engaged throughout their lessons.
                                     </p>
 
                                 </div>
@@ -271,34 +268,6 @@
     </section>
 
 
-
-    <!-- Case Study Download Modal -->
-    <div class="modal fade" id="caseStudyModal" tabindex="-1" role="dialog" aria-labelledby="caseStudyModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="caseStudyModalLabel">Download Case Study</h5>
-                    <!-- Change this line in your modal -->
-                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <p class="mb-3">Enter your email to download the case study and stay updated with our latest
-                        insights.</p>
-                    <form id="caseStudyForm">
-                        <div class="mb-3">
-                            <input type="email" id="case-study-email" class="form-control"
-                                placeholder="Enter your work email" required>
-                        </div>
-                        <div id="case-study-status" class="mb-3"></div>
-                        <button type="submit" class="btn btn-custom-secondary w-100" id="case-study-submit">
-                            Download Case Study
-                        </button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <?php 
         $previous = "Healtcare ERP System Boost for Cashless TPA";
