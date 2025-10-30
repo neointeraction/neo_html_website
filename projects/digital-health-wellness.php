@@ -50,17 +50,17 @@
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner.jpg"
-                    alt="pbanner1" />
+                    alt="Health and wellness lifestyle background with meditation" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner-float.svg"
-                    alt="pbanner1" />
+                    alt="Health and wellness website redesign UI" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-banner.jpeg"
-                    alt="pbanner1" />
+                    alt="Health and wellness website redesign project" />
             </div>
         </div>
         <div class="project-content-block">
@@ -252,7 +252,7 @@
 
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-priority-mapping.jpeg"
-                            alt="banner" />
+                            alt="Website redesign priority mapping chart" />
                     </div>
 </div>
 <div class="ui-update project-section-padding">
@@ -261,7 +261,7 @@
 </div>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-audit-findings.jpeg"
-                            alt="banner" />
+                            alt="Health website UX audit and recommendations" />
                     </div>
                 </div>
                 <!-- <div class="view-all-blogs-btn">
