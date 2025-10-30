@@ -55,18 +55,18 @@
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner.jpg"
-                    alt="pbanner1" />
+                    alt="Construction management UX UI design background" />
             </div>
             <div class="pbi-layer2">
                 <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner-float.svg"
-                    alt="pbanner1" />
+                    alt="Construction management platform UI design" />
             </div>
         </div>
 
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-banner.jpeg"
-                    alt="pbanner1" />
+                    alt="UX UI design for construction management platform" />
             </div>
         </div>
 
@@ -256,14 +256,14 @@
                 <div class="ui-update project-section-padding">
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui.jpg"
-                            alt="construction-management-website-ui" />
+                            alt="Construction platform UX UI design 3D structure view" />
                     </div>
                 </div>
                 <div class="ui-update project-section-padding">
                     <p class="project-body-text">During the Prototyping and development handoff, we provided structured documentation, interactive prototypes, and regular design reviews to ensure seamless implementation.</p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui-2.jpg"
-                            alt="construction-management-website-ui" />
+                            alt="Construction management platform UI design schedule view" />
                     </div>
                 </div>
                 <!-- <div class="view-all-blogs-btn">
