@@ -12,7 +12,7 @@
     <meta property="og:description"
         content="Explore Mobile App UX design for the 90+ Online Tuition App, an engaging platform for kids to learn and revise school concepts effectively." />
     <meta property="og:image"
-        content="<?php echo $base_url; ?>assets/images/og/tutoring-platform-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/tutoring-platform-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/online-tutoring-platform-90-tuition-app" />
@@ -23,7 +23,7 @@
     <meta name="twitter:description"
         content="Explore Mobile App UX design for the 90+ Online Tuition App, an engaging platform for kids to learn and revise school concepts effectively." />
     <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/og/tutoring-platform-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/tutoring-platform-thumbnail.webp" />
     <meta name="twitter:card" content="summary" />
    
     <?php include $path . 'includes/favicon.php'; ?>
@@ -52,17 +52,17 @@
         <!-- project-banner-img -->
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-banner.webp"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-banner-float.webp"
                     alt="pbanner1" />
             </div>
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-platform.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-platform.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -255,7 +255,7 @@
                 <div class="ui-update project-section-padding">
                     <h3 class="project-section-title">Interactive UI Upgrade </h3>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-mobile-ui.jpeg" alt="ui-update" />
+                        <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/tutoring-platform-mobile-ui.webp" alt="ui-update" />
                     </div>
                 </div>
                 <!-- <div class="view-all-blogs-btn">
