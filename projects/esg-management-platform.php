@@ -47,17 +47,17 @@
     <div class="project-banner-img project-banner-img-block d-none d-md-block">
         <div class="pbi-layer1">
             <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-banner.jpg"
-                alt="pbanner1" />
+                alt="ESG data visualization background" />
         </div>
         <div class="pbi-layer2">
             <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-banner-float.svg"
-                alt="pbanner1" />
+                alt="ESG management dashboard design" />
         </div>
     </div>
     <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
                 <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-banner.jpeg"
-                    alt="pbanner1" />
+                    alt="ESG management platform UI redesign project" />
             </div>
         </div>
     <div class="project-content-block">
@@ -239,14 +239,14 @@
 
 
           <div class="bs-img">
-          <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-website-ui.jpeg" alt="digital-blanket-website-ui" />
+          <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-website-ui.jpeg" alt="ESG platform web dashboard design" />
           </div>
 
 </div>
 <div class="ui-update project-section-padding">
           <p class="project-body-text">A consistent UI design system was implemented to unify modules and ensure scalability. Throughout the process, we maintained close collaboration with the client, enabling fast iterations and a seamless development handoff with detailed specifications and interactive prototypes.</p>
           <div class="bs-img">
-          <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-mobile-ui.jpeg" alt="digital-blanket-mobile-ui" />
+          <img src="<?php echo $path; ?>assets/images/projects/esg-management/digital-blanket-mobile-ui.jpeg" alt="ESG mobile app UI design" />
           </div>
         </div>
         <!-- <div class="view-all-blogs-btn">
