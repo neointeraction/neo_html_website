@@ -14,7 +14,7 @@
         content="UX for livestock tracker | Cattle Tracking & Management solution | Neointeraction Design" />
     <meta property="og:description"
         content="Livestock Tracker app consolidates inventory, saving ranchers time and ensuring accurate tracking with a seamless web and mobile experience." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/herdx-project-thumbnail.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/herdx-project-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="" />
@@ -25,7 +25,7 @@
         content="UX for livestock tracker | Cattle Tracking & Management solution | Neointeraction Design" />
     <meta name="twitter:description"
         content="Livestock Tracker app consolidates inventory, saving ranchers time and ensuring accurate tracking with a seamless web and mobile experience." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/herdx-project-thumbnail.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/herdx-project-thumbnail.webp" />
     <meta name="twitter:card" content="summary" />
 </head>
 
@@ -51,18 +51,18 @@
 
         <div class="project-banner-img project-banner-img-block d-none d-md-block">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-banner.jpg"
+                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-banner.webp"
                     alt="pbanner1" />
             </div>
             <div class="pbi-layer2">
-                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-banner-float.svg"
+                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-banner-float.webp"
                     alt="pbanner1" />
             </div>
         </div>
 
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-homepage-banner.jpeg"
+                <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-project-homepage-banner.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -263,13 +263,9 @@
                 <div class="ui-update project-section-padding">
                     <h4 class="project-section-title">Final UI</h4>
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-website-ui.jpg"
+                        <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking-management/herdx-website-ui.webp"
                             alt="ui-update" />
-                    </div>
-                    <!-- <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/cattle-tracking/herdx-mobile-ui.jpg"
-                            alt="ui-update" />
-                    </div> -->
+                    </div>                   
                 </div>
                 <!-- <div class="view-all-blogs-btn">
                     <button class="btn btn-custom btn-custom-secondary">
