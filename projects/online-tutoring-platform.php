@@ -62,7 +62,7 @@
         </div>
         <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-platform.webp"
+                <img src="<?php echo $path; ?>assets/images/projects/online-tutoring-app/online-tutoring-platform.webp"
                     alt="pbanner1" />
             </div>
         </div>
@@ -89,7 +89,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h3 class="project-section-title">Overview </h3>
+                        <h2 class="project-section-title">Overview </h2>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
@@ -98,7 +98,7 @@
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
-                    <h3 class="project-section-title">Result </h3>
+                    <h2 class="project-section-title">Result </h2>
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-4 col-md-3 count-up-item">
@@ -122,7 +122,7 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h3 class="project-section-title">Objective </h3>
+                            <h2 class="project-section-title">Objective </h2>
                             <p class="project-body-text">The goal is to improve the usability of the My Tuition App with a fresh, simple design. The focus is on moving from traditional video classes to a clear, easy-to-understand digital format that makes learning straightforward.</p>
                         </div>
                         <div class="col-md-6">
