@@ -89,7 +89,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h4 class="project-section-title">Overview </h4>
+                        <h2 class="project-section-title">Overview </h2>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal"
                             data-bs-target="#registerModal">
                             Book A Consultation
@@ -101,7 +101,7 @@
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
-                    <h4 class="project-section-title">Result </h4>
+                    <h2 class="project-section-title">Result </h2>
                     <div class="row ">
                         <!-- 87% New User Engagement -->
                         <div class="col-4 col-md-3 count-up-item">
@@ -125,18 +125,18 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4 class="project-section-title">Objective </h4>
+                            <h2 class="project-section-title">Objective </h2>
                             <p class="project-body-text">To build a platform that streamlines biomedical data management and enables easy access to vital life sciences information, emphasizing seamless data gathering and communication while addressing challenges in areas with limited approved treatments.</p>
                         </div>
                         <div class="col-md-6">
-                            <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+                            <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
                             <p class="project-body-text">Managing vast and complex biomedical datasets while ensuring user-friendly comprehension is challenging. This requires a cohesive user-centered design approach to integrate, visualize, and simplify big data efficiently.</p>
                         </div>
                     </div>
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Solutions we offered</h4>
+                    <h2 class="project-section-title">Solutions we offered</h2>
                     <p class="project-body-text">We created an application that contextualizes biomedical knowledge with cause-and-effect relationships, utilizing live dashboards and data visualization tools. The design focuses on clarity and intuitiveness, transforming complex biomedical data into actionable insights through an engaging, user-centered interface.</p>
 
                     <div class="bs-card-section project-bs-cards">
@@ -144,7 +144,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">User Stories for Event Identification</h4>
+                                    <h3 class="title">User Stories for Event Identification</h3>
                                     <p class="description">
                                     Developed user stories helped detect complex biological events, refining platform responsiveness and user experience.
                                     </p>
@@ -153,7 +153,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Digitalization of Manual Data Handling</h4>
+                                    <h3 class="title">Digitalization of Manual Data Handling</h3>
                                     <p class="description">
                                     Through prototyping and testing, we transitioned manual processes to digital, improving interaction and workflow efficiency.
                                     </p>
@@ -162,7 +162,7 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Early Developer Engagement</h4>
+                                    <h3 class="title">Early Developer Engagement</h3>
                                     <p class="description">
                                     Engaging developers from the initial stages fostered better communication between design and development teams, helping prevent rework, accelerate implementation, and improve overall solution quality.
                                     </p>
@@ -172,7 +172,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Interactive Data Visualization</h4>
+                                    <h3 class="title">Interactive Data Visualization</h3>
                                     <p class="description">
                                     Implemented live dashboards and intuitive visuals, allowing users to explore complex data effortlessly.
                                     </p>
@@ -184,7 +184,7 @@
                 </div>
 
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Our Approach</h4>
+                    <h2 class="project-section-title">Our Approach</h2>
                     <p class="project-body-text">We carried out extensive research and requirement analysis, iterated through prototypes, and refined the product to ensure it met user needs at every stage.</p>
                 </div>
                 <!-- brainstorming-session  -->
@@ -218,7 +218,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Refined Usability</h4>
+                                    <h3 class="title">Refined Usability</h3>
                                     <p class="description">
                                     Users benefited from a sleek, easy-to-navigate interface, improving workflow fluidity.
                                     </p>
@@ -229,7 +229,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Simplified Accessibility</h4>
+                                    <h3 class="title">Simplified Accessibility</h3>
                                     <p class="description">
                                     Consistent design language ensured accessibility for users across skill levels.
                                     </p>
@@ -240,7 +240,7 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Positive User Feedback</h4>
+                                    <h3 class="title">Positive User Feedback</h3>
                                     <p class="description">
                                     The redesign garnered strong approval for its intuitive and user-friendly interface.
                                     </p>
@@ -251,7 +251,7 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Increased Engagement</h4>
+                                    <h3 class="title">Increased Engagement</h3>
                                     <p class="description">
                                     Improved usability and visualization increased user engagement with the platform.
                                     </p>
@@ -264,7 +264,7 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                    <h4 class="project-section-title">Final UI </h4>
+                    <h2 class="project-section-title">Final UI </h2>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/euclid-biomedical/euclid-website-ui.webp"
                             alt="ui-update" />

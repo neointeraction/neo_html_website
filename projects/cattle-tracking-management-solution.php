@@ -102,7 +102,7 @@
                 </div>
                 <!-- result-block -->
                 <div class="result-block project-section-padding">
-                    <h4 class="project-section-title">Result </h4>
+                    <h2 class="project-section-title">Result </h2>
                     <div class="row ">
                         <!-- 15+ years expertise -->
                         <div class="col-4 col-md-3 count-up-item">
@@ -126,11 +126,11 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4 class="project-section-title">Objective </h4>
+                            <h2 class="project-section-title">Objective </h2>
                             <p class="project-body-text">To modernize herd management technology for cow/calf producers and stockers, driving greater efficiency and ease of management. The UX redesign focuses on a clean, modern interface with improved usability and consistent visuals, ensuring a seamless and effective user experience refined by a live dashboard for real-time monitoring.</p>
                         </div>
                         <div class="col-md-6">
-                            <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+                            <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
                             <p class="project-body-text">Simplifying the manual work to make cattle tracking and management digitally accessible needed key attention to details. Considering the complexity and the users, crafting an effortless user experience across websites and mobiles was challenging.
                             </p>
                         </div>
@@ -138,7 +138,7 @@
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Solutions we offered</h4>
+                    <h2 class="project-section-title">Solutions we offered</h2>
                     <p class="project-body-text">With a refreshed, consistent visual identity, the new design offered a clear, guided experience that improved usability and made interactions feel effortless. It also strengthened user engagement through simplified navigation and real-time insights.
                     </p>
 
@@ -147,7 +147,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Unified Design Language</h4>
+                                    <h3 class="title">Unified Design Language</h3>
                                     <p class="description">
                                     Fully revamped the design language, preserving the company's branding and usability while ensuring consistency across both web and mobile platforms.
                                     </p>
@@ -156,7 +156,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Digitalization of Manual Data Handling</h4>
+                                    <h3 class="title">Digitalization of Manual Data Handling</h3>
                                     <p class="description">
                                     Transformed the manual data handling process into a digitalized system for optimal performance.
                                     </p>
@@ -165,8 +165,8 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">
-                                        Iterative Design Process</h4>
+                                    <h3 class="title">
+                                        Iterative Design Process</h3>
                                     <p class="description">
                                     Created interactive designs leading to prototypes to provide a comprehensive understanding of the product.
                                     </p>
@@ -175,7 +175,7 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Foundation </h4>
+                                    <h3 class="title">Foundation </h3>
                                     <p class="description">
                                     Wireframing, prototyping, micro interaction, and integration of a live dashboard for real-time data visualization and alerts.
                                     </p>
