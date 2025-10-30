@@ -11,7 +11,7 @@
     <meta property="og:title" content="Hedge Fund App UX Design | Neointeraction Design | Contact Now" />
     <meta property="og:description"
         content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture." />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-navigate-thumbnail.jpeg" />
+    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-navigate-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/hedge-fund-processing-experience-design" />
@@ -21,7 +21,7 @@
     <meta name="twitter:title" content="Hedge Fund App UX Design | Neointeraction Design | Contact Now" />
     <meta name="twitter:description"
         content="Explore a Hedge Fund App UX design that lets employees monitor fund operations seamlessly. Built with React JS micro frontend architecture." />
-    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-navigate-thumbnail.jpeg" />
+    <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/intertrust-navigate-thumbnail.webp" />
     <meta name="twitter:card" content="summary" />
 
     <?php include $path . 'includes/favicon.php'; ?>

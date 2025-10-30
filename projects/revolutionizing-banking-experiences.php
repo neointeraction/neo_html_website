@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/internet-banking-ux"/>
   <meta property="og:title" content="Internet Banking App UI UX Design | Dubai Bank | Neointeraction Design"/>
   <meta property="og:description" content="The Neointeraction design team collaborated with a Dubai bank to redesign the Oracle Flexcube implementation for Internet Banking."/>
-  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/dubai-bank-thumbnail.jpeg"/>
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/dubai-bank-thumbnail.webp"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
   <meta property="og:url" content="https://www.neointeraction.com/internet-banking-ux"/>
@@ -20,7 +20,7 @@
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta name="twitter:title" content="Internet Banking App UI UX Design | Dubai Bank | Neointeraction Design"/>
   <meta property="og:description" content="The Neointeraction design team collaborated with a Dubai bank to redesign the Oracle Flexcube implementation for Internet Banking."/>
-  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/dubai-bank-thumbnail.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/dubai-bank-thumbnail.webp"/>
   <meta name="twitter:card" content="summary"/>
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <?php include $path . 'includes/favicon.php'; ?>

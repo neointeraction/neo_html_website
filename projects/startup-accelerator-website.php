@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="We redesigned the website for India Accelerator, a leading tech startup accelerator in India and UAE, improving user experience and showcasing startups effectively." />
     <meta property="og:image"
-        content="<?php echo $base_url; ?>assets/images/og/startup-accelerator-website.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/startup-accelerator-website.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/startup-accelerator-website" />
@@ -26,7 +26,7 @@
     <meta name="twitter:description"
         content="We redesigned the website for India Accelerator, a leading tech startup accelerator in India and UAE, improving user experience and showcasing startups effectively." />
     <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/og/startup-accelerator-website.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/startup-accelerator-website.webp" />
     <meta name="twitter:card" content="summary" />
 </head>
 

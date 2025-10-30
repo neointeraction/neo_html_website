@@ -7,7 +7,7 @@
   <meta name="robots" content="noindex"/>
   <meta property="og:title" content="ESG Management Platform | AI & IoT Solutions | Neointeraction Design"/>
   <meta property="og:description" content="We redesigned Digital Blanket, an AI and IoT-powered ESG management platform in India, improving user experience, streamlining operations, and saving energy."/>
-  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/digital-blanket-thumbnail.jpeg"/>
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/digital-blanket-thumbnail.webp"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
   <meta property="og:url" content="https://www.neointeraction.com/esg-management-platform"/>
@@ -16,7 +16,7 @@
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta name="twitter:title" content="ESG Management Platform | AI & IoT Solutions | Neointeraction Design"/>
   <meta name="twitter:description" content="We redesigned Digital Blanket, an AI and IoT-powered ESG management platform in India, improving user experience, streamlining operations, and saving energy."/>
-  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/digital-blanket-thumbnail.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/digital-blanket-thumbnail.webp"/>
   <meta name="twitter:card" content="summary"/>
   <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
   <?php include $path . 'includes/favicon.php'; ?>

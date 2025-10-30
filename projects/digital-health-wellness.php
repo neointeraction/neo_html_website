@@ -11,7 +11,7 @@
   <meta name="robots" content="noindex"/>
   <meta property="og:title" content="Health & Wellness Website | Neointeraction Design"/>
   <meta property="og:description" content="MEGA We Care redesigned its health & wellness website with digital experience design, leveraging customer insights to improve UX and expand brand reach."/>
-  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.jpeg"/>
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.webp"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
   <meta property="og:url" content="https://www.neointeraction.com/digital-experience-in-health-wellness"/>
@@ -21,7 +21,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Health & Wellness Website | Neointeraction Design"/>
   <meta name="twitter:description" content="MEGA We Care redesigned its health & wellness website with digital experience design, leveraging customer insights to improve UX and expand brand reach."/>
-  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/mega-we-care-thumbnail.webp"/>
   <meta name="twitter:card" content="summary" />
   
 </head>

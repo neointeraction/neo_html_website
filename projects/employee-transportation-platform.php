@@ -12,7 +12,7 @@
   <meta name="robots" content="noindex"/>
   <meta property="og:title" content="Employee Transportation Platform | SaaS UI UX Design | Neointeraction Design"/>
   <meta property="og:description" content="eTravelMate, a leading employee transportation management platform, was redesigned by us to optimize workflows and user experience with advanced SaaS UI UX design."/>
-  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/employee-transportation-platform.jpeg"/>
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/employee-transportation-platform.webp"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1330"/>
   <meta property="og:url" content="https://www.neointeraction.com/employee-transportation-platform"/>
@@ -21,7 +21,7 @@
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta name="twitter:title" content="Employee Transportation Platform | SaaS UI UX Design | Neointeraction Design"/>
   <meta name="twitter:description" content="eTravelMate, a leading employee transportation management platform, was redesigned by us to optimize workflows and user experience with advanced SaaS UI UX design."/>
-  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/employee-transportation-platform.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/employee-transportation-platform.webp"/>
   <meta name="twitter:card" content="summary"/>
 </head>
 

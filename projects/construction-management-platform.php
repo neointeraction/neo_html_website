@@ -13,7 +13,7 @@
     <meta property="og:description"
         content="UX/UI design for a Construction Management Platform to simplify project scheduling and improving overall user experience." />
     <meta property="og:image"
-        content="<?php echo $base_url; ?>assets/images/og/construction-management-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/construction-management-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/construction-management-platform" />
@@ -24,7 +24,7 @@
     <meta name="twitter:description"
         content="UX/UI design for a Construction Management Platform to simplify project scheduling and improving overall user experience." />
     <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/og/construction-management-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/construction-management-thumbnail.webp" />
     <meta name="twitter:card" content="summary" />
    
     <?php include $path . 'includes/favicon.php'; ?>

@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/share-trading-platform-redesign"/>
   <meta property="og:title" content="Share Trading Platform Redesign | Neointeraction Design | Contact Now"/>
   <meta property="og:description" content="Discover how Geojit BNP Paribas improved their share trading platform for web and mobile, enhancing user experience for investors and traders."/>
-  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/geogit-homepage-thumbnail.jpeg"/>
+  <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/geogit-homepage-thumbnail.webp"/>
   <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
     
   <meta property="og:url" content="https://www.neointeraction.com/share-trading-platform-redesign"/>
@@ -20,7 +20,7 @@
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta name="twitter:title" content="Share Trading Platform Redesign | Neointeraction Design | Contact Now"/>
   <meta name="twitter:description" content="Discover how Geojit BNP Paribas improved their share trading platform for web and mobile, enhancing user experience for investors and traders."/>
-  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/geogit-homepage-thumbnail.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/geogit-homepage-thumbnail.webp"/>
   <meta name="twitter:card" content="summary"/>
 
 </head>

@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="UI UX redesign of FIFA clearing house International club's player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />
     <meta property="og:image"
-        content="<?php echo $base_url; ?>assets/images/og/player-transfer-system-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/player-transfer-system-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1330" />
     <meta property="og:url" content="https://www.neointeraction.com/player-transfer-solution-ux-design" />
@@ -27,7 +27,7 @@
     <meta name="twitter:description"
         content="UI UX redesign of FIFA clearing house International club's player transfer solution enabled the transfer of player contracts across the clubs seamlessly." />
     <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/og/player-transfer-system-thumbnail.jpeg" />
+        content="<?php echo $base_url; ?>assets/images/og/player-transfer-system-thumbnail.webp" />
     <meta name="twitter:card" content="summary" />
 </head>
 
@@ -200,7 +200,7 @@
                         data points in a straightforward manner for effective user interface design.</p>
 
                     <div class="bs-img">
-                        <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-wireframe.jpeg"
+                        <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-wireframe.webp"
                             alt="Player transfer system wireframe design" />
                     </div>
                 </div>
