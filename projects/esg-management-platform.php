@@ -2,6 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
+  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path . 'includes/favicon.php'; ?>
+  <?php include $path . 'includes/css.php'; ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
   <title>ESG Management Platform | AI & IoT Solutions | Neointeraction Design</title>
   <link rel="canonical" href="https://www.neointeraction.com/esg-management-platform"/>
   <meta name="robots" content="noindex"/>
@@ -18,10 +22,7 @@
   <meta name="twitter:description" content="We redesigned Digital Blanket, an AI and IoT-powered ESG management platform in India, improving user experience, streamlining operations, and saving energy."/>
   <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/digital-blanket-thumbnail.webp"/>
   <meta name="twitter:card" content="summary"/>
-  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-  <?php include $path . 'includes/favicon.php'; ?>
-  <?php include $path . 'includes/css.php'; ?>
-  <?php include $path . 'includes/head-additional-scripts.php'; ?>
+
 </head>
 
 <body>

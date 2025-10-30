@@ -6,6 +6,10 @@
 <html class="no-js" lang="en">
 
 <head>
+    <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
+  <?php include $path . 'includes/favicon.php'; ?>
+  <?php include $path . 'includes/css.php'; ?>
+  <?php include $path . 'includes/head-additional-scripts.php'; ?>
 <title>Internet Banking App UI UX Design | Dubai Bank | Neointeraction Design</title>
   <meta name="description" content="The Neointeraction design team collaborated with a Dubai bank to redesign the Oracle Flexcube implementation for Internet Banking."/>
   <link rel="canonical" href="https://www.neointeraction.com/internet-banking-ux"/>
@@ -22,10 +26,7 @@
   <meta property="og:description" content="The Neointeraction design team collaborated with a Dubai bank to redesign the Oracle Flexcube implementation for Internet Banking."/>
   <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/dubai-bank-thumbnail.webp"/>
   <meta name="twitter:card" content="summary"/>
-  <?php $path = str_repeat('../', substr_count($_SERVER['REQUEST_URI'], '/') - 2); ?>
-  <?php include $path . 'includes/favicon.php'; ?>
-  <?php include $path . 'includes/css.php'; ?>
-  <?php include $path . 'includes/head-additional-scripts.php'; ?>
+
 </head>
 
 <body>
@@ -61,7 +62,7 @@
     </div>
     <div class="project-banner-img project-banner-img-block project-banner-mob d-block d-md-none">
             <div class="pbi-layer1">
-                <img src="<?php echo $path; ?>assets/images/projects/revolutionizing-banking-experiences.webp"
+                <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/revolutionizing-banking-experiences.webp"
                     alt="pbanner1" />
             </div>
         </div>
