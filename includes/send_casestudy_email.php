@@ -216,8 +216,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     try {
         // Load client secrets from client_secret.json
-        $clientSecretPath = __DIR__ . '/../assets/js/client_secret.json'; // Adjust path
-        $tokenPath = __DIR__ . '/../token.json'; // Adjust path
+        $clientSecretPath = __DIR__ . 'https://oranjdot.net/neo/assets/js/client_secret.json'; // Adjust path
+        $tokenPath = 'https://oranjdot.net/neo/token.json'; // Adjust path
 
         if (!file_exists($clientSecretPath)) {
             throw new Exception('client_secret.json not found at ' . $clientSecretPath);
@@ -233,7 +233,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             [
                 'clientId' => $clientSecrets['web']['client_id'],
                 'clientSecret' => $clientSecrets['web']['client_secret'],
-                'redirectUri' => 'http://localhost/neo_html_website/', // This should match the one in generate_token.php and Google Cloud Console
+                'redirectUri' => 'https://oranjdot.net/neo/', // This should match the one in generate_token.php and Google Cloud Console
             ]
         );
 

@@ -15,7 +15,7 @@ $client->setAccessType('offline');
 $client->setPrompt('select_account consent');
 
 // If modifying these scopes, delete your previously saved tokens.
-$client->setRedirectUri('http://localhost/neo_html_website/'); // IMPORTANT: This must match one of your Authorized redirect URIs in Google Cloud Console
+$client->setRedirectUri('https://oranjdot.net/neo/'); // IMPORTANT: This must match one of your Authorized redirect URIs in Google Cloud Console
 
 // Load previously authorized credentials from a file.
 if (file_exists($tokenPath)) {
