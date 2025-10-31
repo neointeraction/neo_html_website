@@ -8,14 +8,14 @@
     <?php include $path.'includes/css.php'; ?>
     <title>How a UX design partner can benefit your company?</title>
     <meta name="description" content="A UX design partner will help boost business and fine tune your marketing presence in this digital transformation age." />
-    <link rel="canonical" href="https://www.neointeraction.com/post/how-a-ux-design-partner-can-benefit-your-company" />
+    <link rel="canonical" href="https://www.neointeraction.com/blogs/how-a-ux-design-partner-can-benefit-your-company" />
     <meta property="og:title" content="How a UX design partner can benefit your company?" />
     <meta property="og:description"
         content="With digitization on the rise all across the globe, it’s no doubt that all types of businesses nowadays need a digital presence. Due to this, digital products will be an important element for running the show for these businesses. And without the success of these products, it would be a big problem for businesses to stay in the game. The solution to this problem is a term you would have heard a lot in recent times, i.e; UX Design (User Experience Design).What is a UX Design?Before jumping in, le" />
     <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/ux-design-partner.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
-    <meta property="og:url" content="https://www.neointeraction.com/post/how-a-ux-design-partner-can-benefit-your-company" />
+    <meta property="og:url" content="https://www.neointeraction.com/blogs/how-a-ux-design-partner-can-benefit-your-company" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Rahul Kale" />

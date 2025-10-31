@@ -10,7 +10,7 @@
     <meta name="description"
         content="The principle of proximity states that we perceive objects which are close to one another as a group." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/what-is-proximity-principle-and-how-does-it-affect-visual-design" />
+        href="https://www.neointeraction.com/blogs/what-is-proximity-principle-and-how-does-it-affect-visual-design" />
     <meta property="og:title" content="What is proximity principle and how does it affect visual design?" />
     <meta property="og:description"
         content="

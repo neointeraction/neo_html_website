@@ -58,7 +58,7 @@
                 </p>
                 <ul>
                     <li><strong>Advanced Design Capabilities:</strong> EditorX offers tools that allow pixel-perfect precision, a must for our design-heavy projects.</li>
-                    <li><strong>Flexibility and Customization:</strong> We required a platform that allowed us to freely adjust layouts and designs without being restricted by fixed <a href="https://www.neointeraction.com/post/crafting-originality-a-dive-into-design-templates-across-businesses" target="_blank">templates</a>, and EditorX assured us of this flexibility.</li>
+                    <li><strong>Flexibility and Customization:</strong> We required a platform that allowed us to freely adjust layouts and designs without being restricted by fixed <a href="https://www.neointeraction.com/blogs/crafting-originality-a-dive-into-design-templates-across-businesses" target="_blank">templates</a>, and EditorX assured us of this flexibility.</li>
                     <li><strong>Integrated Tools and Features:</strong> EditorX provided us with a complete solution that includes built-in SEO tools, e-commerce features, and marketing integrations.</li>
                     <li><strong>Support and Resources:</strong> Wix provides a wide range of support materials, video tutorials, support team on standby and community forums to assist users in getting help whenever necessary.</li>
                     <li><strong>SEO Optimization:</strong> EditorX includes SEO tools for adjusting our websites to improve visibility on search engines.</li>

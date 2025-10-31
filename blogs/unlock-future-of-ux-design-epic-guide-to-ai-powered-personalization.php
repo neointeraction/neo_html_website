@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Unlock Future Of UX Design: Epic Guide To AI-Powered Personalization</title>
   <meta name="description" content="Hyper personalization powered by AI is making new waves in the world of user experience. Know more about the Future of UX Design. "/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization"/>
   <meta property="og:title" content="Unlock Future Of UX Design: Epic Guide To AI-Powered Personalization"/>
   <meta property="og:description" content="Table of Contents1. The Rise of hyper personalized UX2. The Power of AI in Hyper-Personalization3. Building hyper personalized Experiences with AI4. Examples of hyper personalized Experiences   1. Spotify   2. YouTube   3. Amazon5. Challenges &amp; Considerations6. The hyper personalized UI UX Design Future7. ConclusionIn today’s world, every user expects personalized experiences tailored according to their needs. Therefore UX Design services in India are exploring creative techniques which goes bey"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/ui-ux-design-future.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Sahla  Feroc"/>

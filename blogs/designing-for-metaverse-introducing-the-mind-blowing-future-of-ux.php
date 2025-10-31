@@ -9,13 +9,13 @@
   <title>Designing For Metaverse: Introducing The Mind-blowing Future Of UX</title>
   <meta name="description" content="Discover the power of Metaverse design. Unlock the trends that will shape the digital sphere. 
 "/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"/>
   <meta property="og:title" content="Designing For Metaverse: Introducing The Mind-blowing Future Of UX"/>
   <meta property="og:description" content="Table of Contents1. The Metaverse Explained2. UX in the Metaverse Design3. Building for the Future4. Pioneering Metaverse Design5. Challenges &amp; Opportunities6. The Future of Metaverse design7. ConclusionThe Metaverse can be defined as a new frontier in digital interaction, combining virtual and augmented realities into effective experiences. The relevance of this on user experience (UX) design is massive as it goes beyond the past traditional principles and embraces new avenues for meaningful en"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/designing-for-the-metaverse/designing-for-metaverse.webp"/>
   <meta property="og:image:width" content="3917"/>
   <meta property="og:image:height" content="3025"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Sakshi Patil"/>

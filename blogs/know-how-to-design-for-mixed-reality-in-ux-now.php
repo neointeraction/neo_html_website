@@ -9,7 +9,7 @@
     <title>Know How To Design For Mixed Reality In UX now</title>
     <meta name="description" content="Learn how to design effectively for UX for Mixed Reality and elevate your digital projects.
 " />
-    <link rel="canonical" href="https://www.neointeraction.com/post/know-how-to-design-for-mixed-reality-in-ux-now" />
+    <link rel="canonical" href="https://www.neointeraction.com/blogs/know-how-to-design-for-mixed-reality-in-ux-now" />
     <meta property="og:title" content="Know How To Design For Mixed Reality In UX now" />
     <meta property="og:description"
         content="Table of Contents1. Bridging Worlds: The Power of MR2. UX For Mixed Reality3. Building Blocks for Success4. Examples: MR in Action5. Challenges &amp; Considerations6. The Future of Mixed Reality in UX7. ConclusionMixed Reality (MR) merges the physical and digital realms, creating immersive experiences that enhance user engagement. This innovative approach reshapes user experience (UX) design by offering seamless interactions, providing endless possibilities for industries ranging from education to h" />
@@ -17,7 +17,7 @@
     <meta property="og:image:width" content="3917" />
     <meta property="og:image:height" content="3025" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/know-how-to-design-for-mixed-reality-in-ux-now" />
+        content="https://www.neointeraction.com/blogs/know-how-to-design-for-mixed-reality-in-ux-now" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sakshi Patil" />

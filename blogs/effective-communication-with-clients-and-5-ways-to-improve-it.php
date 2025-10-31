@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Effective Communication with clients and 5 ways to improve it</title>
   <meta name="description" content="The ability to not only to design but also to communicate design effectively within Ui Ux design."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/effective-communication-with-clients-and-5-ways-to-improve-it"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/effective-communication-with-clients-and-5-ways-to-improve-it"/>
   <meta property="og:title" content="Effective Communication with clients and 5 ways to improve it"/>
   <meta property="og:description" content="Consider if someone asked you to prepare a meal but didn't specify what type of meal they wanted. They expected you to know what they wanted. This type of scenario occurs frequently with design teams, resulting in a waste of time for both parties.Designers are expected to be multi-disciplinary and result-oriented as technology advances. One of the most important abilities is not only to design but also to communicate design effectively; therefore, it is critical for a designer to possess active "/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/effective-communication/effective-communication-with-clients.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/effective-communication-with-clients-and-5-ways-to-improve-it"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/effective-communication-with-clients-and-5-ways-to-improve-it"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>

@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>The Impact of Color in Branding</title>
   <meta name="description" content="Explore the impact of color on branding strategies. Learn how colors influence perception and consumer behavior."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/the-impact-of-color-in-branding"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/the-impact-of-color-in-branding"/>
   <meta property="og:title" content="The Impact of Color in Branding"/>
   <meta property="og:description" content="Colors can influence how we feel. There are times when we associate a product with a color. A product's perception by humans is significantly influenced by color.An instance of this is the use of the color blue. Blue is the most popular color used in brands. It gives off a calm and comfortable feeling to the users. When IBM redesigned its logo in 1972, the color blue represented power, authority, and professionalism. It exemplifies their sense of professionalism.Color can't be generally associat"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/impact-of-color/impact-color-in-branding.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/the-impact-of-color-in-branding"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/the-impact-of-color-in-branding"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Sahla  Feroc"/>
@@ -106,7 +106,7 @@
                 <p class="blog-body-text">
                     The choice of colors for a corporation should effectively communicate its message. It is critical to determine whether it serves a specific purpose or idea. The target demographic must be identified to select the color that is best for a firm. There are occasions when firms decide on a color that does not accurately represent their image and pursue rebranding. This can be observed in the <a href="https://www.thebrandingjournal.com/2014/07/airbnbs-consistent-rebrand-focuses-sense-belonging-community/" target="_blank">rebranding of Airbnb</a>. The Airbnb logo was rebranded from blue to its current-signature red. This was done because the firm believed that the color blue might give users a cold or corporate impression. As a result, a vibrant red was chosen to create a warm and welcoming atmosphere. This proved to be a success, and the rebranding aided the platform's growth.
 
-                    <a href="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" target="_blank">LIC website redesign case study</a> - A challenging website redesign project we worked where color psychology played an important role.
+                    <a href="https://www.neointeraction.com/blogs/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" target="_blank">LIC website redesign case study</a> - A challenging website redesign project we worked where color psychology played an important role.
 
                 </p>
 

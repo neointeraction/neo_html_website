@@ -8,7 +8,7 @@
     <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>What is Design Thinking and how to implement it in UI UX Design?</title>
     <meta name="description" content="Design thinking is a set of methods that UI UX designers employ to handle complicated or largely unknown problems in product development." />
-    <link rel="canonical" href="https://www.neointeraction.com/post/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" />
+    <link rel="canonical" href="https://www.neointeraction.com/blogs/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" />
     <meta property="og:title" content="What is Design Thinking and how to implement it in UI UX Design?" />
     <meta property="og:description"
         content="Design thinking is a set of processes that UX and UI designers can use in order to tackle big, complicated, or even largely unknown problems in product development.Design thinking principles are based on cognitive and strategic processes in addition to practical processes. This leads to a multi-faceted approach to problem-solving.Design Thinking in UXDesign thinking is almost certainly the best approach for &quot;thinking beyond the box&quot; of any design process. Teams can utilize it to improve the user" />
@@ -16,7 +16,7 @@
         content="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/design-thinking-ux-ui-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
-    <meta property="og:url" content="https://www.neointeraction.com/post/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" />
+    <meta property="og:url" content="https://www.neointeraction.com/blogs/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />

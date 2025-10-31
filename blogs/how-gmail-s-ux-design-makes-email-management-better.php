@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>How Gmail's UX Design makes email management better</title>
   <meta name="description" content="Discover how google email management helps make gmail’s email management more  intuitive by simplifying the interface through its UX Design."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/how-gmail-s-ux-design-makes-email-management-better"/>
   <meta property="og:title" content="How Gmail's UX Design makes email management better"/>
   <meta property="og:description" content="Table of Contents1. Introduction2. The Initial State of Gmail3. What are the Effective Email Management Components?   3.1. Organizing: Conquering the Email Chaos   3.2. Prioritization: Knowing What Matters Most   3.3. Automation: Streamlining Repetitive Tasks   3.4. Collaboration: Working Together Seamlessly4. UX Transformation in google email management   4.1. Streamlining the Interface for Effortless Task Completion   4.2. Prioritizing Important Emails: Leveraging AI to highlight crucial messa"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-gmail-ui/google-email-management.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/how-gmail-s-ux-design-makes-email-management-better"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Vanessa Lobo"/>

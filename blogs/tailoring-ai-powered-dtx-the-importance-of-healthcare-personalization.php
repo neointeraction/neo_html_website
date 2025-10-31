@@ -9,13 +9,13 @@
   <title>Tailoring AI-Powered DTx: The Importance of Healthcare Personalization</title>
   <meta name="description" content="Learn how AI and UX design can create personalised DTx solutions for better healthcare outcomes
 "/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization"/>
   <meta property="og:title" content="Tailoring AI-Powered DTx: The Importance of Healthcare Personalization"/>
   <meta property="og:description" content="Table of Contents1. Introduction2. Why are UXUI Principles Important in Digital Therapeutics?3. User-Centered Design4. Intuitive Navigation5. Personalization6. ConclusionWith the rise of Digital therapeutics (DTx), healthcare has been reshaped with the introduction of evidence-based software applications for the treatment of various medical conditions. A study by Statista shows that the DTx revenue is expected to reach US$4.68bn in 2024. This rapid rise is due to the growth of digital-based heal"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/digital-therapeutics.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Vanessa Lobo"/>

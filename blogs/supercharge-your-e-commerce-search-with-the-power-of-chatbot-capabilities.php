@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Supercharge Your E-commerce Search with the Power of Chatbot Capabilities</title>
   <meta name="description" content="Explore the transformative impact of integrating chatbot features into the e-commerce search journey. "/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities"/>
   <meta property="og:title" content="Supercharge Your E-commerce Search with the Power of Chatbot Capabilities"/>
   <meta property="og:description" content="Table of Contents1. Understanding E-commerce challenges2. Understanding Chatbots3. Understanding Ecommerce Chatbots4. Integration of Chatbots in E-commerce5. TakeawayIn today's digital era, e-commerce has become a convenient way to shop. However, navigating through numerous product options and dealing with clunky user experiences can often be frustrating. Chatbots, combined with effective UI UX design services have emerged as a solution to improve the e-commerce experience. These digital assista"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/ui-ux-design-services.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Veena Varghese"/>

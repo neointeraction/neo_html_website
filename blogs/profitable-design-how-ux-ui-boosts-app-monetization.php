@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Profitable Design: How UX UI Boosts App Monetization</title>
   <meta name="description" content="Explore how superior UX UI design transforms app downloads into monetization success with proven strategies and case studies."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/profitable-design-how-ux-ui-boosts-app-monetization"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/profitable-design-how-ux-ui-boosts-app-monetization"/>
   <meta property="og:title" content="Profitable Design: How UX UI Boosts App Monetization"/>
   <meta property="og:description" content="Table of Contents1. Spotify Premium: Seamless Transitions to Premium Subscriptions   1. User-Friendly Navigation   2. Personalized Playlists   3. Upgrade Prompts2. Super Duolingo: Personalized Learning and Ad-Free Experience   1. Engaging Gamification   2. User Psychology   3. Relevant Paywalls3. Tinder Gold: Elevating the Dating Experience   1. User-Centric Design   2. Exclusive Features   3. Engaging Notifications4. ConclusionIn today's competitive mobile app market, just securing downloads is"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/profitable-design-how/monetization.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/profitable-design-how-ux-ui-boosts-app-monetization"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/profitable-design-how-ux-ui-boosts-app-monetization"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Sakshi Patil"/>

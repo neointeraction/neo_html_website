@@ -10,7 +10,7 @@
     <meta name="description"
         content="A design timeline is essential for managing a project effectively. It helps you visualize what needs to be done when, so you know exactly where you stand." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/how-to-run-design-timelines-and-execute-them-effectively" />
+        href="https://www.neointeraction.com/blogs/how-to-run-design-timelines-and-execute-them-effectively" />
     <meta property="og:title" content="How to run design timelines and execute them effectively?" />
     <meta property="og:description"
         content="Planning is an essential part in the process of product design. By outlining the scope when designing a product you will be equipped to identify and avoid roadblocks that would otherwise steer your progress off track.One of the most effective tools for planning your ui ux design project is the schedule. A project schedule allows you to outline, assess, and communicate the essentials of a job and includes its deliverables, timeframe, and the resources allotted to individual tasks.What does the go" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/how-to-run-design-timelines-and-execute-them-effectively" />
+        content="https://www.neointeraction.com/blogs/how-to-run-design-timelines-and-execute-them-effectively" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />

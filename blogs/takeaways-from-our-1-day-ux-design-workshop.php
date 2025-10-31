@@ -9,13 +9,13 @@
   <title>Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta</title>
   <meta name="description" content="Neointeraction's UX Design Workshop: Navigating the Evolving Design Landscape and Developing Essential Skills.
 "/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/takeaways-from-our-1-day-ux-design-workshop"/>
   <meta property="og:title" content="Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta"/>
   <meta property="og:description" content="Design, they say, is about evolution. In a world where user expectations change like the wind, designers must adapt to the dynamic landscape and keep pace with the evolving trends. That’s what we firmly believe at Neointeraction, where we see design as a catalyst for success, a medium that can transform lives and businesses. This philosophy was the cornerstone of our recent UX Design Workshop, a one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product D"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/ux-design-workshop-hosted-by-neointeraction-design.webp"/>
   <meta property="og:image:width" content="1411"/>
   <meta property="og:image:height" content="1090"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/takeaways-from-our-1-day-ux-design-workshop"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Vanessa Lobo"/>

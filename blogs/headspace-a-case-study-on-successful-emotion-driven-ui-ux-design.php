@@ -94,7 +94,7 @@ Headspace's branding, characterized by vibrant orange and yellow colors, transce
 <strong>Instant Feedback and Support</strong>
 </p>
 <p class="blog-body-text">
-Using <a href="https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline" target="_blank" rel="noopener">gamification</a> and instant feedback throughout the user journey creates an engaging and supportive environment. Users feel encouraged and entertained, fostering a sense of flow. This real-time interaction contributes to a deeper emotional connection, making the Headspace experience not just about meditation but a holistic emotional journey.
+Using <a href="https://www.neointeraction.com/blogs/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline" target="_blank" rel="noopener">gamification</a> and instant feedback throughout the user journey creates an engaging and supportive environment. Users feel encouraged and entertained, fostering a sense of flow. This real-time interaction contributes to a deeper emotional connection, making the Headspace experience not just about meditation but a holistic emotional journey.
 </p>
 <div class="blog-banner-img">
     <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/gamification-in-ui-design.webp" alt="Gamification in ui design" />

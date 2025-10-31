@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>The Future Of UX UI: Navigating 2024's Breakthrough Trends</title>
   <meta name="description" content="Delve into the latest UX UI design trends and explore how the Future of UX UI is reshaping user experience and influencing business strategies."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/the-future-of-ux-ui-navigating-2024-s-breakthrough-trends"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/the-future-of-ux-ui-navigating-2024-s-breakthrough-trends"/>
   <meta property="og:title" content="The Future Of UX UI: Navigating 2024's Breakthrough Trends"/>
   <meta property="og:description" content="Table of Contents1. Augmented Reality (AR) and Virtual Reality (VR) Integration2. Voice User Interface (VUI)3. AI-Powered Personalization4. Minimalist Design with Micro-Interactions5. Dark Mode and High Contrast Interfaces6. Accessibility and Inclusive Design7. ConclusionAs we enter 2024, user experience (UX) and user interface (UI) design are changing and advancing diversely in all aspects. This blog explores how the latest UX UI trends and design principles shape user experiences and influence"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/future-of-ux/future-of-ux-ui.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/the-future-of-ux-ui-navigating-2024-s-breakthrough-trends"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/the-future-of-ux-ui-navigating-2024-s-breakthrough-trends"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>

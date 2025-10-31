@@ -60,7 +60,7 @@
                     Data driven UX Design Explained
                 </h4>
                 <p class="blog-body-text">
-                    <a href="https://www.neointeraction.com/post/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" target="_blank">Data driven UX design</a> involves enhancing user interfaces and experiences, catering to the needs of different user groups through the use of advanced analytics tools to communicate critical information within a company. This involves gathering and examining both quantitative and qualitative data from research on individual choices, interactions, and behaviors. This will ensure design decisions are based on data rather than assumptions.
+                    <a href="https://www.neointeraction.com/blogs/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" target="_blank">Data driven UX design</a> involves enhancing user interfaces and experiences, catering to the needs of different user groups through the use of advanced analytics tools to communicate critical information within a company. This involves gathering and examining both quantitative and qualitative data from research on individual choices, interactions, and behaviors. This will ensure design decisions are based on data rather than assumptions.
                 </p>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-user-experience.webp" alt="Data driven user experience" />

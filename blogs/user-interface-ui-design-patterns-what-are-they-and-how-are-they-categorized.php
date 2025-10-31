@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>User Interface (UI) design patterns: What are they and how are they categorized?</title>
   <meta name="description" content="Discover UI design patterns: their types and categorization. Explore how these patterns enhance user interface efficiency and usability"/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"/>
   <meta property="og:title" content="User Interface (UI) design patterns: What are they and how are they categorized?"/>
   <meta property="og:description" content="User interface (UI) design is a vital process designers use to build interfaces in software or computerized devices, focusing on looks or style. UI Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. User Interface (UI) refers to concepts from interaction design, visual design, and information architecture.Good layout design is both dynamic and clear, creating visual poin"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/user-interface-design-pattern.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Sebin George"/>

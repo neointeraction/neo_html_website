@@ -10,7 +10,7 @@
     <meta name="description"
         content="As technology continues to transform the finance sector, observe how they rely on UX design for long-term success." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/how-fintech-apps-depend-on-ui-ux-design-for-its-success" />
+        href="https://www.neointeraction.com/blogs/how-fintech-apps-depend-on-ui-ux-design-for-its-success" />
     <meta property="og:title" content="How Fintech apps depend on UI UX Design for its success?" />
     <meta property="og:description"
         content="The banking sector in the past decade has seen a drastic change in its structure and the way it works. With the integration of technology, the banking sector has seen immense growth in terms of processing information, customer experience, and overall faster communication with customers. Be it an app or a website, customers are now very relieved to see their financial data through a matter of clicks which was once a long process. Users don’t have to wait in queues at the bank, no filling of lengt" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/how-fintech-apps-depend-on-ui-ux-design-for-its-success" />
+        content="https://www.neointeraction.com/blogs/how-fintech-apps-depend-on-ui-ux-design-for-its-success" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Rahul Kale" />

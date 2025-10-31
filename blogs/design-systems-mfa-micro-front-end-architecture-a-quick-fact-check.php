@@ -8,7 +8,7 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Design systems &amp; MFA (Micro front end architecture) - a quick fact check!</title>
   <meta name="description" content="Explore how Design Systems and Micro Frontend Architecture (MFA) work together to create a unified frontend experience."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check"/>
   <meta property="og:title" content="Design systems &amp; MFA (Micro front end architecture) - a quick fact check!"/>
   <meta property="og:description" content="Table of Contents1. Design Systems &amp; Micro Frontend Architecture: Transforming Web Development2. Micro Frontend Architecture (MFA) vs. Monolithic Architecture
   2.1 Why Choose MFA over Monolithic Architecture
@@ -18,7 +18,7 @@
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/micro-front-end-architecture.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Liya Theresa  Siby"/>

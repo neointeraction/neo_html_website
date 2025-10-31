@@ -10,7 +10,7 @@
     <meta name="description"
         content="Exploring how responsive design serves as a key factor for business success in the mobile-first era, delivering seamless user experiences across diverse devices." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/role-of-responsive-design-in-the-mobile-first-era-for-business-success" />
+        href="https://www.neointeraction.com/blogs/role-of-responsive-design-in-the-mobile-first-era-for-business-success" />
     <meta property="og:title" content="Role of Responsive Design in the Mobile-First Era for Business Success" />
     <meta property="og:description"
         content="
@@ -19,7 +19,7 @@ In today's digital age, the mobile-first revolution has become more than just a 
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/role-of-responsive-design-in-the-mobile-first-era-for-business-success" />
+        content="https://www.neointeraction.com/blogs/role-of-responsive-design-in-the-mobile-first-era-for-business-success" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Veena Varghese" />

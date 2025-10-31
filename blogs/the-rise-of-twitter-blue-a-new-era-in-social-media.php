@@ -10,7 +10,7 @@
     <meta name="description" content="Demystifying Twitter Blue: A Deep Dive into the Subscription Model, User Experience, and Future of Social Media monetization
 " />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/the-rise-of-twitter-blue-a-new-era-in-social-media" />
+        href="https://www.neointeraction.com/blogs/the-rise-of-twitter-blue-a-new-era-in-social-media" />
     <meta property="og:title" content="The Rise Of Twitter Blue: A New Era In Social Media" />
     <meta property="og:description"
         content="In the ever-evolving realm of social media, Twitter under the leadership of Elon Musk has boldly ventured into uncharted territory with the introduction of Twitter Blue - a subscription service promising exclusive features and a premium user experience. This strategic shift signifies a departure from the traditional advertising-based model, ushering in a new era of social media monetization. Unveiling Twitter Blue: A Strategic ShiftTwitter Blue, priced at $8 per month, provides subscribers with " />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="1881" />
     <meta property="og:image:height" content="1453" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/the-rise-of-twitter-blue-a-new-era-in-social-media" />
+        content="https://www.neointeraction.com/blogs/the-rise-of-twitter-blue-a-new-era-in-social-media" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sahla  Feroc" />

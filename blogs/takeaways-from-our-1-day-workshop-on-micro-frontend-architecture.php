@@ -10,7 +10,7 @@
     <meta name="description"
         content="Discover insights on implementing Micro Frontend Architecture for large-scale apps from our recent workshop. Consult Neointeraction's Frontend team for more info." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/takeaways-from-our-1-day-workshop-on-micro-frontend-architecture" />
+        href="https://www.neointeraction.com/blogs/takeaways-from-our-1-day-workshop-on-micro-frontend-architecture" />
     <meta property="og:title" content="Takeaways from our 1 Day Workshop on Micro Frontend Architecture" />
     <meta property="og:description"
         content="Table of Contents1. What is Micro Frontend Architecture?2. Benefits Micro Frontend Architecture (MFA)3. Comparing monolithic and MFA architectures 4. Case Study &amp; Live Implementation of MFA5. Key Takeaways6. ConclusionWeb development teams are constantly seeking ways to improve user experience, streamline development processes, and boost overall efficiency. Neointeraction Front end development team has been working extensively on implementing Micro Frontend Architecture (MFA) across various clie" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="1881" />
     <meta property="og:image:height" content="1453" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/takeaways-from-our-1-day-workshop-on-micro-frontend-architecture" />
+        content="https://www.neointeraction.com/blogs/takeaways-from-our-1-day-workshop-on-micro-frontend-architecture" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />

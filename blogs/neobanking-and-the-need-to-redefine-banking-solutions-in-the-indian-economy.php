@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Neobanking and the need to redefine banking solutions in the Indian Economy</title>
   <meta name="description" content="The rise of neobanking solutions is one of the most significant developments in the rapidly changing Indian banking sector."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"/>
   <meta property="og:title" content="Neobanking and the need to redefine banking solutions in the Indian Economy"/>
   <meta property="og:description" content="The Indian economy has been going through a rapid transformation in recent years, and the banking sector is at the forefront of this growth. With the increasing demand for digital financial services, the traditional banking system has been challenged to keep up with the pace of technological advancements. This has resulted in the emergence of neobanking solutions, which are digital-first and technology-driven, and offer innovative financial services that cater to the needs of modern customers. H"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/neobanking-and-the-need/neobanking-app-design.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Sahla  Feroc"/>

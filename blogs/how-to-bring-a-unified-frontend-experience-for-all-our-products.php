@@ -11,7 +11,7 @@
     <meta name="description"
         content="Understand how to achieve a unified frontend experience with consistent design, reusable components, and clear guidelines to boost brand identity, efficiency, and user loyalty." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/how-to-bring-a-unified-frontend-experience-for-all-our-products" />
+        href="https://www.neointeraction.com/blogs/how-to-bring-a-unified-frontend-experience-for-all-our-products" />
     <meta property="og:title" content="How to bring a unified frontend experience for all our products" />
     <meta property="og:description" content="Table of contents1. Why is consistency important?
 1.1 
@@ -35,7 +35,7 @@ Identity of the brand
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1931" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/how-to-bring-a-unified-frontend-experience-for-all-our-products" />
+        content="https://www.neointeraction.com/blogs/how-to-bring-a-unified-frontend-experience-for-all-our-products" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Aditya Sharma" />

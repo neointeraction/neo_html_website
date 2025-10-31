@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Everything As A Service (XaaS) &amp; The Surging UI UX Landscape: What You Need To Know</title>
   <meta name="description" content="Learn how Everything As A Service (XaaS) is an emerging trend in Digital Transformation services in India."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know"/>
   <meta property="og:title" content="Everything As A Service (XaaS) &amp; The Surging UI UX Landscape: What You Need To Know"/>
   <meta property="og:description" content="Table of Contents1. The Shift Towards XaaS2. Understanding Everything as a Service (XaaS)   2.1 Definition and Context   2.2 Benefits and Challenges of XaaS3. Steps to Evolve UI UX for XaaS   3.1 Understand the User’s Journey and Needs   3.2 Design for Scalability and Flexibility   3.3 Prioritize Personalization and Customization   3.4 Integrate Seamless Multi-Channel Experiences   3.5 Focus on Security and Trust 4. Key Elements of Evolving UI UX for XaaS   4.1 User Centered Design   4.2 Accessi"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/everything-as-a-service/everything-as-a-service.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/everything-as-a-service-xaas-the-surging-ui-ux-landscape-what-you-need-to-know"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Sahla  Feroc"/>

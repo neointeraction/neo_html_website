@@ -8,7 +8,7 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Top 5 frontend development trends of 2024</title>
   <meta name="description" content="Discover the top 5 frontend development trends of 2024! Stay ahead with the latest in design, frameworks, AI integration, performance, and user experience."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/top-5-frontend-development-trends-of-2024"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/top-5-frontend-development-trends-of-2024"/>
   <meta property="og:title" content="Top 5 frontend development trends of 2024"/>
   <meta property="og:description" content="1. Why is it important to catch up with latest trends in frontend development?
 	1.1 AI and Machine Learning Integration
@@ -18,7 +18,7 @@ Staying up to date with technology in today’s world can make or break your bus
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/top-frontend-trends/latest-trends-in-front-end-development.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/top-5-frontend-development-trends-of-2024"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/top-5-frontend-development-trends-of-2024"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Aditya Sharma"/>

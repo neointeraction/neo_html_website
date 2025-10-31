@@ -8,14 +8,14 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Fostering User Confidence in Your Brand through Designing for Trust</title>
   <meta name="description" content="Exploring the art of building trust through design – a guide to enhancing user confidence in your brand."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/fostering-user-confidence-in-your-brand-through-designing-for-trust"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/fostering-user-confidence-in-your-brand-through-designing-for-trust"/>
   <meta property="og:title" content="Fostering User Confidence in Your Brand through Designing for Trust"/>
   <meta property="og:description" content="
 In the ever-evolving digital landscape, where consumers are bombarded with choices, building and maintaining trust is crucial for the success and reputation of any brand. In this era of information overload, where users are becoming increasingly discerning, the role of UI UX design in establishing and nurturing trust cannot be overstated.What is Trust in UX Design &amp; how do users interpret your design?Trust in UX involves reliability, credibility, transparency, security, usability, feedback, acc"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/brand-design-for-trust.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/fostering-user-confidence-in-your-brand-through-designing-for-trust"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/fostering-user-confidence-in-your-brand-through-designing-for-trust"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Veena Varghese"/>

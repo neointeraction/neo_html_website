@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>What Are the Top SaaS Trends for 2024? A Look at Emerging Design Innovations</title>
   <meta name="description" content="Discover 2024’s top SaaS design trends—minimalism, AI, personalization, and accessibility—to build user-friendly, scalable, and secure products."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/what-are-the-top-saas-trends-for-2024-a-look-at-emerging-design-innovations"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/what-are-the-top-saas-trends-for-2024-a-look-at-emerging-design-innovations"/>
   <meta property="og:title" content="What Are the Top SaaS Trends for 2024? A Look at Emerging Design Innovations"/>
   <meta property="og:description" content="Table of Contents1. Understanding the Importance of Design Trends in SaaS   1.1 Definition and Context   1.2 Impact of Design Trends on SaaS Products2. Top SaaS Design Trends for 2024   2.1 Minimalistic and Clean User Interfaces   2.2 Personalization and Customization   2.3 Integration of AI and Machine Learning   2.4 Dark Mode and Accessibility Features   2.5 Micro-Interactions and Animations3. Examples of Successful SaaS Design Trends in 2024   4.1 Notion’s Bold Typography and Minimalistic UI "/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/what-are-the-top-saas-trends/saas-design-trend.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/what-are-the-top-saas-trends-for-2024-a-look-at-emerging-design-innovations"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/what-are-the-top-saas-trends-for-2024-a-look-at-emerging-design-innovations"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Veena Varghese"/>

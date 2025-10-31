@@ -9,7 +9,7 @@
     <title>How to drive success through Inclusive UX design?</title>
     <meta name="description" content="Explore inclusive UX design for broader market reach, increased user engagement, and diverse innovation.
 " />
-    <link rel="canonical" href="https://www.neointeraction.com/post/how-to-drive-success-through-inclusive-ux-design" />
+    <link rel="canonical" href="https://www.neointeraction.com/blogs/how-to-drive-success-through-inclusive-ux-design" />
     <meta property="og:title" content="How to drive success through Inclusive UX design?" />
     <meta property="og:description"
         content="Explore inclusive UX design for broader market reach, increased user engagement, and diverse innovation." />
@@ -18,7 +18,7 @@
     <meta property="og:image:width" content="1881" />
     <meta property="og:image:height" content="1453" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/how-to-drive-success-through-inclusive-ux-design" />
+        content="https://www.neointeraction.com/blogs/how-to-drive-success-through-inclusive-ux-design" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sakshi Patil" />

@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Adobe Buys Figma: Is this a positive or negative development?</title>
   <meta name="description" content="On Thursday, 15th Sep 2022, Figma, agreed to be sold to rival Adobe Inc. for $20 Billion in cash and stocks."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/adobe-buys-figma-is-this-a-positive-or-negative-development"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/adobe-buys-figma-is-this-a-positive-or-negative-development"/>
   <meta property="og:title" content="Adobe Buys Figma: Is this a positive or negative development?"/>
   <meta property="og:description" content="On Thursday, 15th Sep 2022, An ivy league college dropout suddenly became the most-talked-about person in the technology world. His design product company, small-but-fast growing Figma, agreed to be sold to rival Adobe Inc. for $20 Billion in cash and stocks.--Figma is cloud-based collaboration software that eventually got popular among Designers, Software developers, and Product Managers who design and develop apps and other technology products.--Figma was founded by Dylan Field and Evan Wallac"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/adobe-plans-to-buy-figma.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/adobe-buys-figma-is-this-a-positive-or-negative-development"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/adobe-buys-figma-is-this-a-positive-or-negative-development"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Ashutosh Shakya"/>
@@ -118,7 +118,7 @@
                 </p>
 
                 <p class="blog-body-text">
-                    Both product designing companies share a passion for assisting individuals and businesses to be creative and productive. They could have an opportunity to power the future of work by fusing the capabilities for collaboration, creativity, and brainstorming. Adobe tools like <a href="https://www.neointeraction.com/post/6-big-reasons-to-apply-illustrations-in-ui-ux-design"  target="_blank">Illustrator are vital in UI UX design</a> and can be used in conjunction with figma to create stunning projects.
+                    Both product designing companies share a passion for assisting individuals and businesses to be creative and productive. They could have an opportunity to power the future of work by fusing the capabilities for collaboration, creativity, and brainstorming. Adobe tools like <a href="https://www.neointeraction.com/blogs/6-big-reasons-to-apply-illustrations-in-ui-ux-design"  target="_blank">Illustrator are vital in UI UX design</a> and can be used in conjunction with figma to create stunning projects.
                 </p>
 
 

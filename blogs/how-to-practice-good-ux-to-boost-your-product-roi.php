@@ -9,13 +9,13 @@
   <style data-href="https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.bae0ce0c.chunk.min.css">.TWFxr5{height:auto!important}.May50y{overflow:hidden!important}</style>
 <title>How to practice good UX to boost your product ROI</title>
   <meta name="description" content="Good UX design helps enhance the experience that people have while interacting with your product which in turn helps boost your business."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/how-to-practice-good-ux-to-boost-your-product-roi"/>
   <meta property="og:title" content="How to practice good UX to boost your product ROI"/>
   <meta property="og:description" content="UX design is the process of designing (digital or physical) products that are useful, easy to use, and delightful to interact with. It’s about enhancing the experience that people have while interacting with your product, and making sure they find value in what you’re providing thereby achieving customer satisfaction. After all User Experience plays a vital role in the success of a product.Benefits of UX designa. Conduct User ResearchDesigning a product starts with collecting data. While develop"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/overcoming-ux-challenges.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/how-to-practice-good-ux-to-boost-your-product-roi"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Rakshanda Naik"/>

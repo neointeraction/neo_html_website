@@ -11,7 +11,7 @@
     <meta name="description"
         content="Learn how to conduct effective user research to drive UX success. Discover techniques and tips for gathering insights that enhance user experience." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/how-to-conduct-user-research-that-drives-ux-success" />
+        href="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success" />
     <meta property="og:title" content="How To Conduct User Research That Drives UX Success" />
     <meta property="og:description"
         content="User research (UX) is the systematic study of target users and their requirements, to add realistic contexts and insights to design processes. UX researchers adopt various methods to uncover problems and design opportunities. Doing so, they reveal valuable information which can be fed into the design process.User research gives you a better understanding of what will happen when designing a product that's about to be released in public. It helps you learn about the people you’re building a solut" />
@@ -20,7 +20,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/how-to-conduct-user-research-that-drives-ux-success" />
+        content="https://www.neointeraction.com/blogs/how-to-conduct-user-research-that-drives-ux-success" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sebin George" />

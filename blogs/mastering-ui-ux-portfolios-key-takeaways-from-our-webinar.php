@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Mastering UI/UX Portfolios: Key Takeaways from Our Webinar </title>
   <meta name="description" content="Explore the essential insights and expert tips gathered from our recent webinar on mastering ui ux portfolios"/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar"/>
   <meta property="og:title" content="Mastering UI/UX Portfolios: Key Takeaways from Our Webinar "/>
   <meta property="og:description" content="A strong portfolio is like a key for designers in the competitive design world, unlocking opportunities for success. More than just a collection of work, it tells a visual story that showcases a designer's skills and creativity. This first impression can make a designer stand out and leave a lasting impact on clients and employers. Recently, we took a deep dive into the art of portfolio building in our first live webinar, &quot;How to Make Your UI/UX Portfolio Stand Out.&quot; Vanessa Lobo, our UX/UI desi"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ux-ui-protfolio-tips.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Bharath A Manoj"/>

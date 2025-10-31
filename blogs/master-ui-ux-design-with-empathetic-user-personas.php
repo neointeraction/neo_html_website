@@ -10,7 +10,7 @@
     <meta name="description"
         content="Elevate UI UX with empathetic user personas. Discover insights that influence user centric design decisions." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/master-ui-ux-design-with-empathetic-user-personas" />
+        href="https://www.neointeraction.com/blogs/master-ui-ux-design-with-empathetic-user-personas" />
     <meta property="og:title" content="Master UI UX Design with Empathetic User Personas " />
     <meta property="og:description"
         content="Have you ever imagined a mobile app dedicated solely to plant enthusiasts, offering tailored features for every plant lover's dream? Or picture a healthcare app meticulously designed to cater to the unique needs of heart patients. It's in scenarios like these that the true potential of understanding user personas comes to light. Going far beyond basic demographics, user personas offer deep insights into user needs, preferences, and challenges. Armed with this knowledge, designers are equipped to" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/master-ui-ux-design-with-empathetic-user-personas" />
+        content="https://www.neointeraction.com/blogs/master-ui-ux-design-with-empathetic-user-personas" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sahla  Feroc" />

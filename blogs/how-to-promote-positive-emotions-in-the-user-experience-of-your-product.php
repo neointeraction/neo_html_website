@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>How to Promote Positive emotions in the User Experience of Your Product</title>
   <meta name="description" content="User Scenarios are essential for preparing for probable future events to promote positive emotions and prevent negative emotions."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"/>
   <meta property="og:title" content="How to Promote Positive emotions in the User Experience of Your Product"/>
   <meta property="og:description" content="One common mistake for designers would be to just consider producing designs that depict the ideal state of a user interface. It is easy to design when everything is packed with well-formatted content. However, problems can develop if a design is created without considering the numerous varied scenarios that each user may confront. So, we as designers must pay attention to different user scenarios examples!User Scenario Examples in UXA user scenario is a technique used by designers to comprehend"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/product-user-experience.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Rakshanda Naik"/>

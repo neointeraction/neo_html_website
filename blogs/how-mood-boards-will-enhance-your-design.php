@@ -9,7 +9,7 @@
     <title>How mood boards will enhance your design?</title>
     <meta name="description"
         content="Moodboard is a collection of visually represented ideas that improve a UI UX designer’s workflow and communication." />
-    <link rel="canonical" href="https://www.neointeraction.com/post/how-mood-boards-will-enhance-your-design" />
+    <link rel="canonical" href="https://www.neointeraction.com/blogs/how-mood-boards-will-enhance-your-design" />
     <meta property="og:title" content="How mood boards will enhance your design?" />
     <meta property="og:description"
         content="Moodboard is a collection of visually represented ideas that improve a designer’s workflow and enhance communication. It also minimizes the risks of the client’s rejection of the concept and saves the designer’s time and nerves.The use of mood boards is not limited to just one particular field. Creative professionals like UI designers, Fashion designers, interior designers, Photographers, and many more use it to build a visual framework to generate better ideas. Mood boards are meant to showcase" />
@@ -17,7 +17,7 @@
         content="<?php echo $path; ?>assets/images/blog/how-mood-boards/importance-of-mood-board.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
-    <meta property="og:url" content="https://www.neointeraction.com/post/how-mood-boards-will-enhance-your-design" />
+    <meta property="og:url" content="https://www.neointeraction.com/blogs/how-mood-boards-will-enhance-your-design" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Ashutosh Shakya" />

@@ -8,7 +8,7 @@
     <?php include $path.'includes/head-additional-scripts.php'; ?>
     <title>Effective UX Audit and Website Redesign to boost UX for LIC</title>
     <meta name="description" content="Design case study on Effective UX Audit and Redesigning LIC Website to boos user experience" />
-    <link rel="canonical" href="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" />
+    <link rel="canonical" href="https://www.neointeraction.com/blogs/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" />
     <meta property="og:title" content="Effective UX Audit and Website Redesign to boost UX for LIC" />
     <meta property="og:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
@@ -16,7 +16,7 @@
         content="<?php echo $path; ?>assets/images/blog/journey-maps-ui-ux-business/ui-ux-design-services-in-bangalore.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
-    <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" />
+    <meta property="og:url" content="https://www.neointeraction.com/blogs/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />

@@ -8,17 +8,15 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Boost fintech UX noesis : A UI UX design Case study on bKash</title>
   <meta name="description" content="An in-depth case study of fintech app design to aid in developing and analyzing the user experience in fintech"/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash"/>
   <meta property="og:title" content="Boost fintech UX noesis : A UI UX design Case study on bKash"/>
   <meta property="og:description" content="Fintech apps (or financial technology apps) are broadly adopted today as they have changed the way companies operate. It refers to any app that enables people or businesses to digitally monitor, regulate, or gain insights into their accounts or conduct financial transactions. The Covid-19 outbreak impacted the MFS (Mobile Financial Services) market's field-level operations during 2020 and 2021. Despite these setbacks, bKash was able to finish the year with 50.5 million total users, 12.4 million "/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/bkash-app-ux-design.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sahla  Feroc","url":"https://www.neointeraction.com/members-area/sahla/profile"},"dateModified":"2024-02-02T12:45:07.118Z","datePublished":"2024-01-24T06:36:03.812Z","headline":"Boost fintech UX noesis : A UI UX design Case study on bKash","mainEntityOfPage":{"@id":"https://www.neointeraction.com/post/boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash","@type":"itemPage","url":"https://www.neointeraction.com/post/boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash"},"description":"An in-depth case study of fintech app design to aid in developing and analyzing the user experience in fintech","url":"https://www.neointeraction.com/post/boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash","image":{"@type":"ImageObject","url":"","width":"941","height":"727"},"publisher":{"@type":"Organization","name":"Neointeraction","url":"https://www.neointeraction.com"}}</script>
-  <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY"/>
   <meta property="article:author" content="Sahla  Feroc"/>
   <meta property="article:published_time" content="2024-01-24T06:36:03.812Z"/>
   <meta property="article:modified_time" content="2024-02-02T12:45:07.118Z"/>

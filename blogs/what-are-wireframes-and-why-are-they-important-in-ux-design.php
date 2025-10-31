@@ -10,7 +10,7 @@
     <meta name="description"
         content="Wireframes are a major part of the UX and UI workflow and are used to communicate ideas regarding screen layouts." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/what-are-wireframes-and-why-are-they-important-in-ux-design" />
+        href="https://www.neointeraction.com/blogs/what-are-wireframes-and-why-are-they-important-in-ux-design" />
     <meta property="og:title" content="What are wireframes and why are they important in UX design?" />
     <meta property="og:description"
         content="Wireframes are a major part of the UI UX workflow and are used to communicate ideas regarding screen layouts, similar to an architectural blueprint, a wireframe is a two-dimensional skeletal outline of a web page or app. For example, Wireframing can range from simple hand-drawn sketches on paper to more sophisticated digital and interactive prototypes that show the desired end product. They are black-and-white layouts that define the size and placement of user interface elements on a screen. The" />
@@ -18,7 +18,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/what-are-wireframes-and-why-are-they-important-in-ux-design" />
+        content="https://www.neointeraction.com/blogs/what-are-wireframes-and-why-are-they-important-in-ux-design" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Rakshanda Naik" />

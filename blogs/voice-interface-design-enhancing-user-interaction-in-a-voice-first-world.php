@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Voice Interface Design: Enhancing User Interaction in a Voice-First World</title>
   <meta name="description" content="Explore the future of voice interface design and its impact on human-computer interaction. Learn about design principles for optimal voice user interface."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/voice-interface-design-enhancing-user-interaction-in-a-voice-first-world"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/voice-interface-design-enhancing-user-interaction-in-a-voice-first-world"/>
   <meta property="og:title" content="Voice Interface Design: Enhancing User Interaction in a Voice-First World"/>
   <meta property="og:description" content="We are entering an age of ever-present voice-first interaction. The journey of voice-activated technology began in the 1960s with pioneering machines like IBM's Shoebox, capable of understanding basic spoken commands."/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/voice-interface-design/voice-user-interface.webp"/>
   <meta property="og:image:width" content="2500"/>
   <meta property="og:image:height" content="1931"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/voice-interface-design-enhancing-user-interaction-in-a-voice-first-world"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/voice-interface-design-enhancing-user-interaction-in-a-voice-first-world"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Vanessa Lobo"/>

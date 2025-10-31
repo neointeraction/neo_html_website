@@ -10,7 +10,7 @@
     <meta name="description"
         content="Good UX design entails thinking like a user and offering a clear path to assist them in achieving their goals." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/why-do-corporate-banks-invest-in-good-ux-for-longevity" />
+        href="https://www.neointeraction.com/blogs/why-do-corporate-banks-invest-in-good-ux-for-longevity" />
     <meta property="og:title" content="Why do corporate banks invest in good UX for longevity?" />
     <meta property="og:description"
         content="Good UX design means thinking like a user and offering a clear path to assist the user in achieving their goals when interacting with the product. A good UX design is when the product is useful, usable, findable, credible, accessible, and desirable. UX design is required for online banking platforms to advance and retain customers.Importance of good UX practices for corporate banking • Considerate designs maintain customers • Finance is made accessible and inclusive • Saves time and moneyGood UX" />
@@ -18,7 +18,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/why-do-corporate-banks-invest-in-good-ux-for-longevity" />
+        content="https://www.neointeraction.com/blogs/why-do-corporate-banks-invest-in-good-ux-for-longevity" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sahla  Feroc" />

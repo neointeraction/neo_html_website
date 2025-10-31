@@ -10,7 +10,7 @@
     <meta name="description"
         content="Explore how AI transforms creativity in design. Discover the power of intelligent technology in shaping innovative solutions." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" />
+        href="https://www.neointeraction.com/blogs/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" />
     <meta property="og:title"
         content="The Power of AI in Design: Transforming Creativity with Intelligent Technology" />
     <meta property="og:description"
@@ -20,7 +20,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" />
+        content="https://www.neointeraction.com/blogs/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Liya Theresa  Siby" />

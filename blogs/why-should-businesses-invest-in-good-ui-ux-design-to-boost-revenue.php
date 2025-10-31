@@ -10,7 +10,7 @@
     <meta name="description"
         content="The most affluent businesses understand that excellent UI UX design pays off far more than it costs." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue" />
+        href="https://www.neointeraction.com/blogs/why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue" />
     <meta property="og:title" content="Why should businesses invest in good UI UX design to boost revenue?" />
     <meta property="og:description"
         content="Good design is good business. We base our decisions on aesthetics when selecting goods, services, and people—from dating sites to online shopping. Successful businesses are aware of this. Despite the enormous value of competently showcasing your marketing and branding materials with outstanding design, there is often a hesitancy to find the funds for good design.The majority of firms believe that providing an ideal response to the client's challenges is the key to their success. The most success" />
@@ -18,7 +18,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue" />
+        content="https://www.neointeraction.com/blogs/why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sahla  Feroc" />

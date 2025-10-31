@@ -10,7 +10,7 @@
     <meta name="description" content="Explore the realm of Netflix's Data-Driven UI UX and its transformative impact on business growth.
 " />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" />
+        href="https://www.neointeraction.com/blogs/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" />
     <meta property="og:title" content="Netflix's Data-Driven UI UX: A Catalyst for Business Growth" />
     <meta property="og:description"
         content="Table of Contents1. What is Data driven ui ux design ?2. Netflix's Data-Driven Movie Magic: Tailored for You3. Business Impact of Data-Driven UI UX Design4. ConclusionIn the ever-evolving landscape of digital entertainment, where user preferences and expectations shape the industry, Netflix has emerged not only as a content powerhouse but also as a pioneer in leveraging data-driven UI UX to enhance the user experience and drive business success.What is Data driven ui ux design ?Data-driven UI UX" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="1411" />
     <meta property="og:image:height" content="1090" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" />
+        content="https://www.neointeraction.com/blogs/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />

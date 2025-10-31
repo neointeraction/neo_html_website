@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Turning Saving into a Game: Gamified design approaches to Encourage Financial Discipline</title>
   <meta name="description" content="Learn how gamified design transforms saving with goals, challenges, rewards, and progress tracking for financial success."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"/>
   <meta property="og:title" content="Turning Saving into a Game: Gamified design approaches to Encourage Financial Discipline"/>
   <meta property="og:description" content="Saving money is challenging in today's world, with financial responsibilities and tempting spending opportunities. Many struggle to develop consistent saving habits, and current Personal Finance Management (PFM) apps often lack engaging features and fail to address users' specific challenges. Enhancing the user experience through gamification elements and personalized recommendations can help make saving more enjoyable and effective. By addressing these issues, PFM apps can better support indivi"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/gamified-design-for-fintech.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Nivedha Raju"/>

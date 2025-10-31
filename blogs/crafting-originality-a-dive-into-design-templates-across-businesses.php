@@ -10,7 +10,7 @@
     <meta name="description"
         content="Design templates have become indispensable tools for businesses and designers. Learn about them and how to bring originality while using them." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/crafting-originality-a-dive-into-design-templates-across-businesses" />
+        href="https://www.neointeraction.com/blogs/crafting-originality-a-dive-into-design-templates-across-businesses" />
     <meta property="og:title" content="Crafting Originality: A Dive into Design Templates Across Businesses" />
     <meta property="og:description"
         content="In the dynamic world of design, templates have become indispensable tools, revolutionizing how businesses and designers approach various creative endeavors. Design templates are pre-made designs and documents that can be customized to meet specific standards or specifications, ensuring consistency between users and mediums. They can be sourced from template libraries and websites, or created as custom templates for future use. Delve into the diverse categories of templates, shedding light on how" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="2500" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/crafting-originality-a-dive-into-design-templates-across-businesses" />
+        content="https://www.neointeraction.com/blogs/crafting-originality-a-dive-into-design-templates-across-businesses" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta name="google-site-verification" content="jDr4aVGcjUUHdNv8SD5bpXt6-kwDs5rDAbNqhXDrENY" />

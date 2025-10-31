@@ -10,7 +10,7 @@
     <meta name="description"
         content="A tribute to Abloh’s creativity! Lets remember his life and celebrate his exuberant designs." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist" />
+        href="https://www.neointeraction.com/blogs/remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist" />
     <meta property="og:title" content="Remembering Virgil Abloh, a brilliant fashion designer and artist" />
     <meta property="og:description"
         content="On November 28, 2021, at age 41, the world-renowned American fashion designer and visionary artist Virgil Abloh lost his battle with cancer. This article is a tribute to Abloh’s creativity! And may we not forget the seriousness of cancer as we remember his life and celebrate his exuberant streetwear designs and aesthetic product designing in the form of water bottles and furniture, which helped us visualize the intersections of the digital and physical world and assisted in our development of an" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist" />
+        content="https://www.neointeraction.com/blogs/remembering-virgil-abloh-a-brilliant-fashion-designer-and-artist" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sam Thomas" />

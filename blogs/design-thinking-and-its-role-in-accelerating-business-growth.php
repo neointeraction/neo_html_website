@@ -10,7 +10,7 @@
     <meta name="description"
         content="Exploring how Design Thinking fuels business growth through innovation and customer-centric solutions" />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/design-thinking-and-its-role-in-accelerating-business-growth" />
+        href="https://www.neointeraction.com/blogs/design-thinking-and-its-role-in-accelerating-business-growth" />
     <meta property="og:title" content="Design Thinking and its Role in Accelerating Business Growth" />
     <meta property="og:description"
         content="In today's fast-changing business world, being flexible and coming up with new ideas is essential to survive. Design Thinking, a popular method for business growth, focuses on understanding people's needs and working together creatively. When companies use these ideas, they can reach their full potential for innovation and find new solutions that boost their success. Design Thinking is a human-centered approach that combines collaborative, interdisciplinary processes to create valuable solutions" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="941" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/design-thinking-and-its-role-in-accelerating-business-growth" />
+        content="https://www.neointeraction.com/blogs/design-thinking-and-its-role-in-accelerating-business-growth" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Veena Varghese" />

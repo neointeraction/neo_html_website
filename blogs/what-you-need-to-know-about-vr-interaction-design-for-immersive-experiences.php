@@ -10,7 +10,7 @@
     <meta name="description"
         content="Discover key insights on crafting immersive experiences that bring users into virtual and augmented realities." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences" />
+        href="https://www.neointeraction.com/blogs/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences" />
     <meta property="og:title" content="What You Need To Know About VR Interaction Design For Immersive Experiences" />
     <meta property="og:description"
         content="Table of Contents1. Understanding Presence in VR and AR2. Key Principles of Immersive Design3. Techniques for Enhancing Immersion4. Evaluating User Experience5. Challenges in Designing for Presence6. Future Trends in VR and UX design for augmented reality7. ConclusionVirtual Reality (VR) and Augmented Reality (AR) have changed the way our interaction happens in digital environments by offering experiences that blur the line between the physical and virtual worlds. As Digital Transformation in In" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences" />
+        content="https://www.neointeraction.com/blogs/what-you-need-to-know-about-vr-interaction-design-for-immersive-experiences" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sakshi Patil" />

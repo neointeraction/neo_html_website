@@ -10,7 +10,7 @@
     <meta name="description"
         content="Discover the impact of innovative UX design in EdTech, enhancing student engagement, accessibility, and learning outcomes with expert strategies and examples." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/innovative-ux-design-in-edtech-enhancing-learning-experiences-for-students" />
+        href="https://www.neointeraction.com/blogs/innovative-ux-design-in-edtech-enhancing-learning-experiences-for-students" />
     <meta property="og:title" content="Innovative UX Design In EdTech: Enhancing Learning Experiences For Students" />
     <meta property="og:description"
         content="Discover the impact of innovative UX design in EdTech, enhancing student engagement, accessibility, and learning outcomes with expert strategies and examples." />
@@ -18,7 +18,7 @@
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1931" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/innovative-ux-design-in-edtech-enhancing-learning-experiences-for-students" />
+        content="https://www.neointeraction.com/blogs/innovative-ux-design-in-edtech-enhancing-learning-experiences-for-students" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sakshi Patil" />

@@ -10,7 +10,7 @@
     <meta name="description"
         content="Digital-only banking is a type of banking that only provides banking services online or via mobile apps." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/the-future-of-digital-banking-and-the-perks-of-improving-user-experience" />
+        href="https://www.neointeraction.com/blogs/the-future-of-digital-banking-and-the-perks-of-improving-user-experience" />
     <meta property="og:title" content="The future of digital banking and the perks of improving user experience" />
     <meta property="og:description"
         content="In recent years, fintech banks or digital-only banks, have grown in popularity. Digital-only banking is a type of banking without physical branches that only provides banking services such as transactions, financial services, and customer service online or via mobile apps.Numerous factors have contributed to the emergence of digital-only banking. Accessing online banking services has become simpler thanks to the widespread use of phones and digital technologies. The development of new technologi" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/the-future-of-digital-banking-and-the-perks-of-improving-user-experience" />
+        content="https://www.neointeraction.com/blogs/the-future-of-digital-banking-and-the-perks-of-improving-user-experience" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sahla  Feroc" />

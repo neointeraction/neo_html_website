@@ -10,7 +10,7 @@
     <meta name="description" content="AI in finance is used to improve efficiency, make better decisions, and improve customer satisfaction
 " />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/what-are-the-innovative-use-cases-of-ai-in-financial-institutions" />
+        href="https://www.neointeraction.com/blogs/what-are-the-innovative-use-cases-of-ai-in-financial-institutions" />
     <meta property="og:title" content="What are the innovative use cases of AI in Financial institutions?" />
     <meta property="og:description"
         content="Artificial intelligence (AI) is transforming financial institutions by improving efficiency, reducing costs, and enhancing customer experience. AI technologies are used in various ways to support and augment the work of financial professionals.In addition, AI is enabling financial institutions to gain valuable insights from large amounts of data, helping them make better decisions and stay ahead of the competition.Use CasesFraud Detection: Financial institutions are using AI technologies to anal" />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/what-are-the-innovative-use-cases-of-ai-in-financial-institutions" />
+        content="https://www.neointeraction.com/blogs/what-are-the-innovative-use-cases-of-ai-in-financial-institutions" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Ashutosh Shakya" />

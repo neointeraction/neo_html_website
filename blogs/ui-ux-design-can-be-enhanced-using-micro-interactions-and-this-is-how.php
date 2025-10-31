@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>UI UX Design can be enhanced using micro interactions and this is how</title>
   <meta name="description" content="Micro interactions are sole moments in product design that achieve a specific task, while boosting natural product flow."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"/>
   <meta property="og:title" content="UI UX Design can be enhanced using micro interactions and this is how"/>
   <meta property="og:description" content="In its most basic sense, microinteractions are individual moments in the product design that accomplish a particular task, while enhancing what is intended to be the natural product flow. They are what bridge UI and UX, where functionality meets design – and they are everywhere.We as consumers see and interact with these interactive UI components daily, even without knowing. A ‘Like’ button is one of the simplest examples. A few others are: • A simple scroll bar that appears in the user interfac"/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-design-microinteractions/enhance-ux-ui-design-microinteractions.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Sebin George"/>

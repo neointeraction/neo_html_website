@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Interaction design: what is it and why is it important?</title>
   <meta name="description" content="Interaction designers focus on how users interact with elements and utilize effective communication principles to produce desired user experiences."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/interaction-design-what-is-it-and-why-is-it-important"/>
   <meta property="og:title" content="Interaction design: what is it and why is it important?"/>
   <meta property="og:description" content="Table of Contents1. Interaction Design vs User Experience Design2. What are the 5 Dimensions of Interaction Design ?3. Interaction design principles        3.1    Goal Driven        3.2   Readability        3.3   Usability        3.4   Learnability        3.5   Affordances4.   Salient PointsInteraction design is explained by IxDA as: “Interaction Design (IxD) defines the structure and behavior of interactive systems. Interaction Designers strive to create meaningful relationships between people "/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/interaction-design/importance-of-interaction-design.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/interaction-design-what-is-it-and-why-is-it-important"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Sebin George"/>

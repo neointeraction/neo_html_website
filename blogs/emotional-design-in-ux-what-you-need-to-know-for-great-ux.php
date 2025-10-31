@@ -58,7 +58,7 @@
                 </div>
 
                 <h4 class="blog-body-title">Why Emotions Matter in UX?</h4>
-                <p class="blog-body-text"><b>The Connection Factor</b>: Products that elicit <a href="https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product">positive emotions</a> increase brand loyalty and user engagement. Studies show emotionally connected users are more likely to become repeat customers and refer brands to others.</p>
+                <p class="blog-body-text"><b>The Connection Factor</b>: Products that elicit <a href="https://www.neointeraction.com/blogs/how-to-promote-positive-emotions-in-the-user-experience-of-your-product">positive emotions</a> increase brand loyalty and user engagement. Studies show emotionally connected users are more likely to become repeat customers and refer brands to others.</p>
                 <p class="blog-body-text"><b>Beyond Usability</b>: Usability is essential, but emotional design adds that special sauce. It makes users feel good about interacting with your product, leading to increased satisfaction and engagement.</p>
 
                 <div class="blog-quote-block">
@@ -95,7 +95,7 @@
                 </div>
 
                 <h5 class="blog-body-title">Micro interactions</h5>
-                <p class="blog-body-text">Small, delightful <a href="https://www.neointeraction.com/post/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how">microinteractions</a> like subtle animations or progress bars can keep users engaged and provide positive reinforcement. </p>
+                <p class="blog-body-text">Small, delightful <a href="https://www.neointeraction.com/blogs/ui-ux-design-can-be-enhanced-using-micro-interactions-and-this-is-how">microinteractions</a> like subtle animations or progress bars can keep users engaged and provide positive reinforcement. </p>
                 <p class="blog-body-text"><i>Example: The "Like" button on Facebook provides a small animation when pressed, giving users instant feedback and a small moment of joy.</i></p>
 
                 <h5 class="blog-body-title">Consistency and Trust</h5>
@@ -106,11 +106,11 @@
                     <img src="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/ux-design-services-in-india.webp" alt="UX design services in India" />
                 </div>
 
-                <p class="blog-body-text">Another example of successful implementation of emotional design in UX can be seen in our <a href="https://www.neointeraction.com/post/headspace-a-case-study-on-successful-emotion-driven-ui-ux-design">case study of Headspace</a></p>
+                <p class="blog-body-text">Another example of successful implementation of emotional design in UX can be seen in our <a href="https://www.neointeraction.com/blogs/headspace-a-case-study-on-successful-emotion-driven-ui-ux-design">case study of Headspace</a></p>
 
                 <h4 class="blog-body-title">Balancing Challenges and Future Trends</h4>
                 <p class="blog-body-text">Achieving successful emotional design in UX requires balancing functional and emotional aspects. Start with a practical, easy-to-use product before integrating emotional elements. Be mindful of cultural differences to ensure your design is inclusive and respectful. Ethical practices are vital: avoid manipulative tactics, be transparent with data use, and prioritize user trust.</p>
-                <p class="blog-body-text">Looking ahead, advancements like <a href="https://www.neointeraction.com/post/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology">AI-powered personalization</a> and emotional analytics will refine user experiences by tailoring them to individual emotions and behaviors. Additionally, VR and AR technologies will create immersive experiences, offering new ways to engage users emotionally.</p>
+                <p class="blog-body-text">Looking ahead, advancements like <a href="https://www.neointeraction.com/blogs/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology">AI-powered personalization</a> and emotional analytics will refine user experiences by tailoring them to individual emotions and behaviors. Additionally, VR and AR technologies will create immersive experiences, offering new ways to engage users emotionally.</p>
 
                 <h4 class="blog-body-title">Conclusion</h4>
                 <p class="blog-body-text">Creating user experiences that have a lasting impression requires emotional design. Designers can create experiences that are memorable and meaningful by taking user psychology into account, integrating effective practices, and abiding by ethical standards. As emotional design in UX continues to evolve with technological advancements, the potential for more significant and lasting user encounters grows.</p>

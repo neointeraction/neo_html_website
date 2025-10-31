@@ -97,10 +97,10 @@
 
                 <h4 class="blog-body-title">The Impact on Conversion Rates and Customer Satisfaction</h4>
 
-                <p class="blog-body-text">Integrating AR and VR into e-commerce platforms not only boosts conversion rates but also enhances <a href="https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi" target="_blank">customer satisfaction</a> ultimately leading to increased profitability and brand advocacy.</p>
+                <p class="blog-body-text">Integrating AR and VR into e-commerce platforms not only boosts conversion rates but also enhances <a href="https://www.neointeraction.com/blogs/how-to-practice-good-ux-to-boost-your-product-roi" target="_blank">customer satisfaction</a> ultimately leading to increased profitability and brand advocacy.</p>
 
                 <ul>
-                    <li><p class="blog-body-text"><strong>Impact on Conversion Rates:</strong> The integration of AR and VR into e-commerce platforms significantly impacts conversion rates and customer satisfaction. According to a study by Harvard Business Review, incorporating AR experiences <a href="https://www.neointeraction.com/post/how-a-ux-design-partner-can-benefit-your-company" target="_blank">leads to a 70% increase in conversion rates</a> on average and customers engaging with AR are 11 times more likely to make a purchase.</p></li>
+                    <li><p class="blog-body-text"><strong>Impact on Conversion Rates:</strong> The integration of AR and VR into e-commerce platforms significantly impacts conversion rates and customer satisfaction. According to a study by Harvard Business Review, incorporating AR experiences <a href="https://www.neointeraction.com/blogs/how-a-ux-design-partner-can-benefit-your-company" target="_blank">leads to a 70% increase in conversion rates</a> on average and customers engaging with AR are 11 times more likely to make a purchase.</p></li>
                     <li><p class="blog-body-text"><strong>Impact on Customer Satisfaction and Loyalty:</strong> AR and VR experiences have been shown to increase customer satisfaction and loyalty. 61% of customers prefer shopping at stores offering AR experiences as per Retail Perceptions report. When shoppers can visualize products more accurately and make informed purchasing decisions, they are more likely to be satisfied with their purchases. According to a report by InReality, AR and VR experiences lead to a 40% reduction in product returns, enhancing customer satisfaction.</p></li>
                 </ul>
 

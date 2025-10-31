@@ -8,13 +8,13 @@
   <?php include $path.'includes/head-additional-scripts.php'; ?>
   <title>Tap into the Revolutionary Potential of AI for UX Research</title>
   <meta name="description" content="Uncover how AI for UX research can transform, improve effectiveness, inclusivity, and depth in product development."/>
-  <link rel="canonical" href="https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research"/>
+  <link rel="canonical" href="https://www.neointeraction.com/blogs/tap-into-the-revolutionary-potential-of-ai-for-ux-research"/>
   <meta property="og:title" content="Tap into the Revolutionary Potential of AI for UX Research"/>
   <meta property="og:description" content="UX research plays a vital role in creating products that are user-friendly, efficient, and enjoyable. "/>
   <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/tap-into-revolutionary/al-for-ux-research.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
-  <meta property="og:url" content="https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research"/>
+  <meta property="og:url" content="https://www.neointeraction.com/blogs/tap-into-the-revolutionary-potential-of-ai-for-ux-research"/>
   <meta property="og:site_name" content="Neointeraction"/>
   <meta property="og:type" content="article"/>
   <meta property="article:author" content="Veena Varghese"/>

@@ -10,7 +10,7 @@
     <meta name="description"
         content="Based on your product&amp;#x27;s spec, it’s critical to select the most effective prototyping process - one that reduces work while increasing learning." />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/what-is-ux-prototyping-here-s-the-ultimate-guide-on-how-to-get-started" />
+        href="https://www.neointeraction.com/blogs/what-is-ux-prototyping-here-s-the-ultimate-guide-on-how-to-get-started" />
     <meta property="og:title" content="What is UX prototyping? Here's the ultimate guide on how to get started" />
     <meta property="og:description"
         content="Prototyping is an experimental process where design teams implement ideas into tangible forms from paper to digital. A UX prototype is a model that depicts how the software will work and the user experience it will provide. Wireframes, mockups, and other visual elements can be used to construct a prototype in UX design. With prototypes, you can refine and validate your designs so your brand can release the right products. The goal of UX prototyping is to avoid costly design and development mista" />
@@ -18,7 +18,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/what-is-ux-prototyping-here-s-the-ultimate-guide-on-how-to-get-started" />
+        content="https://www.neointeraction.com/blogs/what-is-ux-prototyping-here-s-the-ultimate-guide-on-how-to-get-started" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Sebin George" />

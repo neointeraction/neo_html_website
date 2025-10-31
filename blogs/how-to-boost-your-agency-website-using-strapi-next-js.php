@@ -10,7 +10,7 @@
     <meta name="description"
         content="Neointeraction Design, a ui ux design company in Bangalore recently redesigned its website using Strapi &amp;amp; Next.js" />
     <link rel="canonical"
-        href="https://www.neointeraction.com/post/how-to-boost-your-agency-website-using-strapi-next-js" />
+        href="https://www.neointeraction.com/blogs/how-to-boost-your-agency-website-using-strapi-next-js" />
     <meta property="og:title" content="How to boost your agency website using Strapi &amp; Next.js" />
     <meta property="og:description"
         content="Neointeraction Design is a ui ux design company in Bangalore that is constantly researching and attempting to expand its boundaries, and the redesigned website using Strapi &amp; Next.js is a step in that direction. This blog documents our journey through the design and development phases, as well as the reasons behind our choices.Why a redesign?We decided to redesign our website to make it lighter, and faster and to keep up with current trends. Unlike the previous website's poor content management " />
@@ -19,7 +19,7 @@
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
-        content="https://www.neointeraction.com/post/how-to-boost-your-agency-website-using-strapi-next-js" />
+        content="https://www.neointeraction.com/blogs/how-to-boost-your-agency-website-using-strapi-next-js" />
     <meta property="og:site_name" content="Neointeraction" />
     <meta property="og:type" content="article" />
     <meta property="article:author" content="Shameer M" />
