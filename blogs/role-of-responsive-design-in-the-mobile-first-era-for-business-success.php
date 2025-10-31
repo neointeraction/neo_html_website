@@ -70,9 +70,9 @@ In today's digital age, the mobile-first revolution has become more than just a 
 
 
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Understanding the Mobile-First Era
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     The term <a href="https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00
@@ -88,9 +88,9 @@ In today's digital age, the mobile-first revolution has become more than just a 
                         devices. Responsive design is the linchpin of mobile-first success. - Karen McGrane</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Rise of Responsive Design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Responsive design is the cornerstone of the mobile-first strategy. It involves creating websites and
@@ -100,9 +100,9 @@ In today's digital age, the mobile-first revolution has become more than just a 
 
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Benefits of Responsive Design in Business Growth
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/role-of-responsive-design/reducing-bounce-rates-with-responsive-design-neointeraction-design.webp"
@@ -160,7 +160,7 @@ In today's digital age, the mobile-first revolution has become more than just a 
 
 
 
-                <h4 class="blog-body-title">Challenges and Solutions in Responsive Design Implementation</h4>
+                <h2 class="blog-body-title">Challenges and Solutions in Responsive Design Implementation</h2>
 
                 <p class="blog-body-text">
 
@@ -171,7 +171,7 @@ In today's digital age, the mobile-first revolution has become more than just a 
                 </p>
 
 
-                <h4 class="blog-body-title">Conclusion: Embracing the Mobile-First Imperative</h4>
+                <h2 class="blog-body-title">Conclusion: Embracing the Mobile-First Imperative</h2>
 
                 <p class="blog-body-text">
                     In conclusion, the mobile-first revolution stands not only as a significant shift in user behavior

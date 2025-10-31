@@ -61,9 +61,9 @@
                     Illustrations help explain the meaning of complicated ideas and particular concepts, texts, or processes through visual translation and interpretation. It’s an
                     image that aims at supporting, clarifying, or even extending the ideas that people get from other sources of information, most often given in the form of text.
                     They assist designers in developing visual storytelling for users to help them make quick decisions. </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Using illustrations to amplify UI/UX
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     You might already know that illustrations can enhance UI/UX design by adding value to a product. Illustrations can amplify the UI/UX design as they are the
                     proven means of interaction that paves way for better visual communication between the product and user. </p>
@@ -148,7 +148,7 @@
                     <p class="blog-quote-text">Illustrations should support, clarify and extend the ideas written in words.</p>
                 </div>
 
-                <h4 class="blog-body-title">Where to use illustrations in UI</h4>
+                <h2 class="blog-body-title">Where to use illustrations in UI</h2>
                 <p class="blog-body-text">
                     <b>Hero Images</b>
                 </p>
@@ -201,7 +201,7 @@
                     <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/infographics-illustrations.webp" alt="Infographics_illustrations" />
                 </div>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     Illustrations may improve the usability of a website or app by quickly conveying complicated ideas, demonstrating empathy for users, and bringing a human touch
@@ -209,7 +209,7 @@
                     relationship with them. Including illustrations in your UI can improve your digital presence. As a result UX designers regard them as a potent method to enhance
                     UI UX design. </p>
 
-                <h4 class="blog-body-title">Key Takeaways</h4>
+                <h2 class="blog-body-title">Key Takeaways</h2>
 
                 <ul>
                     <li>Illustrations are used to explain the meaning of complicated ideas and particular concepts, texts, or processes through Visual Storytelling and Visual

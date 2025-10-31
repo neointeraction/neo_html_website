@@ -68,9 +68,9 @@
                     In addition, AI is enabling financial institutions to gain valuable insights from large amounts of
                     data, helping them make better decisions and stay ahead of the competition.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Use Cases
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>Fraud Detection:</b> Financial institutions are using AI technologies to analyze patterns in
@@ -135,7 +135,7 @@
 
 
 
-                <h4 class="blog-body-title">Salient Points</h4>
+                <h2 class="blog-body-title">Salient Points</h2>
 
                 <p class="blog-body-text">
                 <ul>

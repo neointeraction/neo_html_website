@@ -84,9 +84,9 @@
                     provide expert support tailored to your specific needs. Reach out to us for professional UI/UX
                     design assistance and let us help you create exceptional user experiences.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Role of AI in Design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Artificial Intelligence (AI) has taken the design industry by storm, revolutionizing how designers
@@ -105,9 +105,9 @@
                         creativity and transform the way we create and experience design. - Jules Ehrhardt</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why Do We Need an AI Graphic Design Tool ?
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>Time Efficiency:</b> AI graphic design tools save you time by automating repetitive tasks and
@@ -129,9 +129,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     AI Graphic Design Tools
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     In today's fast-paced digital landscape, incorporating an AI graphic design tool into your design
@@ -218,9 +218,9 @@
 
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     How AI Design Tools Empower UI/UX Designers
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     AI design tools are a valuable asset for UI/UX designers. They automate tasks, create design
@@ -237,7 +237,7 @@
 
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     The future of AI in design holds immense potential with advancements in machine learning, computer

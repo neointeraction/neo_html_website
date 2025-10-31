@@ -62,16 +62,16 @@
                     <p class="blog-quote-text">If we want users to like our software, we should design it to behave like a likable person: respectful, generous and helpful.— Alan Cooper, Software Designer and Programmer.</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Initial State of Gmail
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Gmail, originally a basic online email platform, has transformed into an advanced communication tool. Google's dedication to user experience is mainly credited with this change. During its infancy, Gmail encountered numerous usability issues. Customers expressed dissatisfaction with a busy interface, sluggish loading speeds, and restricted functionalities. Users discovered that the interface was too complicated and hard to get around. Users wanted more control over their Gmail experience due to limited customization options. Improving email management through UX Design enhanced the overall Gmail user experience.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What are the Effective Email Management Components?
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-gmail-ui/email-management.webp" alt="Email management" />
@@ -98,9 +98,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     UX Transformation in google email management
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Gmail email management success demonstrates the transformative <a href="<?php echo $path; ?>blogs/what-is-digital-transformation-and-why-is-ux-design-important-in-it" target="_blank">power of user-centric design</a>. By prioritizing user needs, incorporating feedback throughout the design process, and continuously adapting to evolving needs, Google has crafted a more intuitive and efficient email management experience.
@@ -127,7 +127,7 @@
                 </p>
                 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     Google email management acts as a blueprint for other applications. By giving attention to user requirements and challenges, valuing user input, and constantly adjusting to changing needs, UX design has the ability to turn ordinary tools into valuable resources that boost efficiency and user contentment. Email management has great potential in the future. With the ongoing advancement of AI and machine learning, we can anticipate more intelligent capabilities that enhance user experience and streamline repetitive activities. By keeping their focus on user-centric design, Gmail is well-equipped to stay ahead of the pack. Partnering with a <a href="<?php echo $path; ?>" target="_blank">UI UX Design Company in India</a> like Neointeraction Design can be a strategic move. Our team stays at the forefront of <a href="<?php echo $path; ?>/ux-design-services" target="_blank">UX Design services in India</a> and the latest trends, including email management.

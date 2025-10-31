@@ -78,9 +78,9 @@
                     practices for UI UX design and why it's so important for creating a user-friendly, secure, and
                     successful open banking experience.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Components of a Successful Open Banking UI UX
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-ui-ux-design-contributes/open-banking-ux-ui.webp"
                         alt="open banking ux ui" />
@@ -110,7 +110,7 @@
                         Airbnb</p>
                 </div>
 
-                <h4 class="blog-body-title">Adopting a UI UX-Centric Approach</h4>
+                <h2 class="blog-body-title">Adopting a UI UX-Centric Approach</h2>
 
 
                 <p class="blog-body-text">
@@ -123,7 +123,7 @@
 
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                 In conclusion, Open Banking has the potential to revolutionize the finance market by allowing customers greater control over their data and providing new opportunities for innovation and growth. The success of Open Banking is dependent on the user experience and user interface design, which plays a crucial role in determining the level of adoption and satisfaction among users. By paying close attention to the needs of their users and incorporating cutting-edge design principles, financial institutions can set the example for the successful implementation of Open Banking and open the door for a more secure, accessible, and innovative financial future.

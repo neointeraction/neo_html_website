@@ -57,9 +57,9 @@
                     Saving money is challenging in today's world, with financial responsibilities and tempting spending opportunities. Many struggle to develop consistent saving habits, and current Personal Finance Management (PFM) apps often lack engaging features and fail to address users' specific challenges. Enhancing the user experience through gamification elements and personalized recommendations can help make saving more enjoyable and effective. By addressing these issues, PFM apps can better support individuals in their saving journey.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What is Gamification?
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     What if saving money could be as enjoyable as playing a game? That's the power of gamification in Personal Finance Management (PFM) apps. By incorporating game elements and mechanics into the saving process, users are engaged and motivated to save more effectively. In this article, we'll explore the world of gamification and how it can transform the way we save, providing practical insights and strategies for an enjoyable and rewarding saving adventure. Research by Zippia has even shown a 48% increase in engagement through gamified experiences. Let's dive in and discover the exciting possibilities of gamification in PFM and other digital banking apps!
@@ -70,9 +70,9 @@
                     <p class="blog-quote-text">Do not save what is left after spending, but spend what is left after saving. – Warren Buffett</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Gamified Design Approaches for Financial Success
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 Over 70% of Global 2000 companies, including Bank of America, JPMorgan Chase, and Wells Fargo, use gamified elements. The Texas bank Extraco achieved a 700% increase in customer acquisitions by gamifying their account change education process, resulting in a conversion rate boost from 2% to 14%. Here, we explore effective strategies to design gamified experiences that empower users to save money successfully.
@@ -123,7 +123,7 @@
                 </div>
                
 
-                <h4 class="blog-body-title">Salient Points</h4>
+                <h2 class="blog-body-title">Salient Points</h2>
 
 
                 <p class="blog-body-text">

@@ -60,9 +60,9 @@
                 <p class="blog-body-text">
                     Interaction designers focus on how users interact with things and utilize effective communication principles to produce desired user experiences. The goal of interaction design is to create engaging graphical user interfaces with well-thought-out actions. Understanding how technology and users interact with one another is critical in this profession. With this insight, you can anticipate how someone will engage with the system, identify and resolve difficulties, and design new methods of doing things.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Interaction Design vs User Experience Design
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/interaction-design/interaction-design-vs-user-experience.webp" alt="interaction design vs user experience" />
                 </div>
@@ -78,9 +78,9 @@
                     <p class="blog-quote-text">Interaction design explores how a user interacts with an application and aims to optimize the experience of the users</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What are the 5 Dimensions of Interaction Design ?
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/interaction-design/dimensions-of-interaction-design.webp" alt="dimensions of interaction design" />
@@ -113,9 +113,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Interaction design principles
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>Goal Driven</b>
@@ -178,9 +178,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Salient Points
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/interaction-design/why-use-interaction-design.webp" alt="why use interaction design" />

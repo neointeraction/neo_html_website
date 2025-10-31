@@ -107,6 +107,8 @@
       </div>
   </footer>
 
+  <script src="<?php echo $path; ?>assets/js/responsive-images.js"></script>
+
   <script>
 document.addEventListener("DOMContentLoaded", function() {
     const form = document.getElementById("newsletterForm");

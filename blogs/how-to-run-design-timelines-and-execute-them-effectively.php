@@ -71,9 +71,9 @@
                     schedule allows you to outline, assess, and communicate the essentials of a job and includes its
                     deliverables, timeframe, and the resources allotted to individual tasks.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What does the good design timeline include?
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/planning-design-timeline.webp" alt="planning design timeline" />
                 </div>
@@ -103,7 +103,7 @@
 
 
 
-                <h4 class="blog-body-title">How to create a project timeline?</h4>
+                <h2 class="blog-body-title">How to create a project timeline?</h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/creating-project-timeline.webp" alt="creating project timeline" />
@@ -115,8 +115,8 @@
                     every minute detail of the project (ex. internal scheduled meetings, staff vacation days, or
                     additional buffer time).
                 </p>
-                <h4 class="blog-body-title">For both the internal timeline and the client timeline, you should always
-                    include these points while planning the Stages Of Project Management</h4>
+                <h2 class="blog-body-title">For both the internal timeline and the client timeline, you should always
+                    include these points while planning the Stages Of Project Management</h2>
                 <p class="blog-body-text"><b>a) Identify individual deliverables</b></p>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/timeline-deliverables.webp" alt="timeline deliverables" />
@@ -184,7 +184,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Takeaway</h4>
+                <h2 class="blog-body-title">Takeaway</h2>
 
                 <p class="blog-body-text">
                     When offering <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">Product

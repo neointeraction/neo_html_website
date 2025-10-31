@@ -55,9 +55,9 @@
                 <h1 class="banner-title">
                     Top 5 reasons to use react over other frontends
                 </h1>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why is React so popular?
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Frontend development using the React.js framework has become highly popular among top companies like Netflix, Airbnb, Instagram, and many others. The reason is
                     that React can be used across multiple platforms, allowing developers to learn React once and use it to code for web, iOS, Android, and even desktop
@@ -89,9 +89,9 @@
                 </p>
                 <p class="blog-body-text">
                     We have discussed a few points about React, and now we will discuss it in more detail.</p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Reusable component based structure
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Reusable component-based structure is a very popular concept in web development these days, particularly within frameworks like React.js. This approach involves
                     breaking down the user interface into smaller, self-contained building blocks called components. These components have both the structure and behavior of UI
@@ -117,9 +117,9 @@
                 </p>
                 <p class="blog-body-text">
                     Companies are opting for functional-based components as they have more component optimization and easier syntax than class based components. </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Strong Community Support
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     One of the main reasons to use React over other frameworks is that React has strong community support. If you get stuck somewhere, then you can always get a
                     solution from someone online. Whereas for some new frameworks, if you hit a roadblock while developing web or mobile applications, you will have to figure it
@@ -142,9 +142,9 @@
                 </div>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     SEO Friendly
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Search Engine Optimization (SEO) is crucial for websites and web applications, as it determines how easily search engines can crawl, and rank your content.
                     While React doesn't provide any direct support to SEO, you can still leverage SEO by customizing or using a framework like Next.JS.
@@ -173,9 +173,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     One syntax for all platforms
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     In traditional web development, developers often had to write separate code bases for different platforms, leading to code duplication and increased maintenance
                     overhead. React provides frameworks like React Native, which offers single codebase development for multiple platforms such as Web, Android & IOS, watches, and
@@ -205,9 +205,9 @@
                 </ul>
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Easy learning curve
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     One of the main advantages of React is its gentle learning curve, making it an accessible and approachable library for developers of all platforms. Unlike some
                     complex front-end frameworks like Angular and .NET, React focuses on core concepts that allow developers to get started quickly and become productive with
@@ -224,7 +224,7 @@
                     learning curves out there compared to other popular frameworks.
                 </p>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     We have explored the benefits of using the React framework, currently the most popular front-end framework. React offers several advantages over other front-end

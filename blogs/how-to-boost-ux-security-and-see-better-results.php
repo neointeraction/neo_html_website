@@ -68,9 +68,9 @@
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-ux/ux-security.webp" alt="ux security" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why Privacy and Security Matter
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Privacy, security, and trust are key factors in building <a
@@ -87,9 +87,9 @@
                     for UI UX designers.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Transparency in Trust-Building
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Transparency can help to build trust in a data-driven world. Users expect <a
@@ -100,9 +100,9 @@
                     notifications on data usage can help users stay informed.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Data Minimization
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Data minimization involves collecting only the essential information required for the product to
@@ -113,9 +113,9 @@
                     responsible data practices.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Security by Design in UI UX
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Security by UI UX design means incorporating security measures into the user experience from the
@@ -131,9 +131,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-ux/privacy-ux.webp" alt="privacy ux" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Personalization vs. Privacy UX
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Balancing personalization with privacy can be challenging for many UI UX designers. Users expect
@@ -146,9 +146,9 @@
                     ensuring privacy without sacrificing the quality of the user experience.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     User Control Over Data
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Empowering users with the ability to manage, modify, or delete their data creates a sense of
@@ -164,9 +164,9 @@
                         be in control of their data. - Tim Cook, CEO of Apple</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Testing for UX Security
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     UI UX designers must implement security testing into the product development cycle to detect

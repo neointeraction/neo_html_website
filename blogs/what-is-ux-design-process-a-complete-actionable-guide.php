@@ -59,9 +59,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/ux-design-process-guide/neointeraction-design-process.webp" alt="neointeraction design process" />
                 </div>
                 ¸
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What is a Design Process?
-                </h4>
+                </h2>
 
                 Let’s understand what a ‘Design Process’ is in the simplest of terms.
 
@@ -81,9 +81,9 @@
                         architects, engineers, physicists, and other designers to solve complex problems</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why a Design Process is needed?
-                </h4>
+                </h2>
                          <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/ux-design-process-guide/ux-design-process.webp" alt="ux design process" />
                 </div>
@@ -119,7 +119,7 @@
 
                 </p>
 
-                <h4 class="blog-body-title">What is Neointeraction’s Design Process?</h4>
+                <h2 class="blog-body-title">What is Neointeraction’s Design Process?</h2>
 
                 <p class="blog-body-text">
                     With the rise and change of the digital product space in the last decade, every new product has different requirements and goals. At Neointeraction Design, we
@@ -153,7 +153,7 @@
                     practices for a pixel-perfect UI implementation for the web and mobile.
                 </p>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     Top notch ui ux services understand the overall experience the product delivers to it’s users as an important factor for a business to stay active in this

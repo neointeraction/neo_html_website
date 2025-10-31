@@ -58,7 +58,7 @@
                 <p class="blog-body-text">
                 Contactless payment is a type of electronic payment that employs Near Field Communication (NFC) technology to facilitate contactless transactions between two devices. Consumers can now pay for goods and services online or over the phone without having to physically provide a card or other form of payment. A growing number of people are using this method of online payment as it is incredibly convenient. Apple Pay, Google Pay, and Samsung Pay are just a few of the payment methods that leverage this technology.
                 </p>
-                <h4 class="blog-body-title">What makes Contactless payment so attractive?</h4>
+                <h2 class="blog-body-title">What makes Contactless payment so attractive?</h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/user-friednly-contactless-payment.webp" alt="user friednly contactless payment" />
                 </div>
@@ -79,7 +79,7 @@
                 <div class="blog-quote-block">
                     <p class="blog-quote-text">Contactless payments are the future of consumer transactions and good user experience is essential to ensure the adoption and continued use of the technology - <strong>Anonymous</strong></p>
                 </div>
-                <h4 class="blog-body-title">UX in contactless payment</h4>
+                <h2 class="blog-body-title">UX in contactless payment</h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/ux-design-contactless-payment.webp" alt="ux design contactless payment" />
                 </div>
@@ -95,7 +95,7 @@
                 <p class="blog-body-text">
                 When selecting a partner for <a target="_blank" href="<?php echo $path; ?>ux-design-services" rel="noopener">UI UX design services</a>, companies should look for a firm that not only creates aesthetically pleasing and useful products but also provides a seamless user experience. <a target="_blank" href="<?php echo $path; ?>" rel="noopener">Neointeraction Design</a> is one such agency that excels in this regard, delivering products that are both visually appealing and functionally driven. With their expertise, they can help companies create products that customers love, driving engagement and conversions.
                 </p>
-                <h4 class="blog-body-title">Best Practices for Contactless Payment UX Design</h4>
+                <h2 class="blog-body-title">Best Practices for Contactless Payment UX Design</h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/best-contactless-payment-design.webp" alt="best contactless payment design" />
                 </div>
@@ -125,7 +125,7 @@
                         <p class="blog-body-text"><strong>Research Latest Technologies:</strong> It's important to stay updated on contactless payment trends. To design a user experience that is as fluid and intuitive as possible, it is critical to keep updated with technology developments in this area and ensure that you are leveraging the best technologies.</p>
                     </li>
                 </ol>
-                <h4 class="blog-body-title">Takeaway</h4>
+                <h2 class="blog-body-title">Takeaway</h2>
                 <p class="blog-body-text">
                 To summarize, contactless payment is the ideal solution for both businesses and customers. It provides a secure, fast, and convenient payment experience, and it is largely dependent on user experience (UX) design. By engaging the design companies with the best UX, businesses can ensure that their contactless payment experience is secure, simple, and quick - leading to increased customer satisfaction and profitability. So why wait? <a target="_blank" href="<?php echo $path; ?>contact-us" rel="noopener">Get started now</a> and take advantage of the potential benefits of UX design for contactless payments!
                 </p>

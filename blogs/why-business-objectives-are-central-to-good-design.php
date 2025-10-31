@@ -83,9 +83,9 @@
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/setting-ux-design-goals.webp" alt="setting_ux design goals" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Listening & Engaging with clients
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     <b>Listening as an Action</b>
                 </p>
@@ -122,10 +122,10 @@
                     <p class="blog-quote-text">Fulfilling the Business Objectives should be the primary purpose of any commercial website. A designer absorbs this by actively
                         engaging with the client.</p>
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What questions do you need to ask your clients?
 
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/questioning-clients.webp" alt="questioning_clients" />
@@ -186,7 +186,7 @@
                     If you have an excellent project in mind and want to make sure that it provides the best user experience, you can also get in touch with us. We can assist you
                     in creating customer-focused products by leveraging our UI UX experience. </p>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     Many UX designers' careers have advanced as a result of their willingness to learn about their client's business objectives and comprehend their long-term
@@ -199,7 +199,7 @@
                     your customers. As a result, use what works best for your project, discard the rest, and advance your UX design approach as your item advances. No one meets all
                     of the standards for the UX design process.
                 </p>
-                <h4 class="blog-body-title">Key Takeaways</h4>
+                <h2 class="blog-body-title">Key Takeaways</h2>
                 <p class="blog-body-text">
                 <ul>
                     <li>A good design should not only be aesthetically good but it should also fall in line with the client or stakeholder's business needs.</li>

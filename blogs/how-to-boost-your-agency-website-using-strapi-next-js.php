@@ -68,9 +68,9 @@
                     that direction. This blog documents our journey through the design and development phases, as well
                     as the reasons behind our choices.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why a redesign?
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/website-revamp-design.webp"
                         alt="website revamp design" />
@@ -90,9 +90,9 @@
                         average page interaction time to 4-5 seconds</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why we settled with Strapi instead of Wordpress?
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     <b>Traditional CMS (eg: WordPress)</b>
                 </p>
@@ -161,9 +161,9 @@
                 </ul>
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What are the technologies used?
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 <ul>
@@ -191,7 +191,7 @@
 
                 <!-- <a href="" target="_blank">here</a> -->
 
-                <h4 class="blog-body-title">Design & Development Phase</h4>
+                <h2 class="blog-body-title">Design & Development Phase</h2>
 
                 <p class="blog-body-text">
                     <b>Design Phase</b>
@@ -329,7 +329,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     The website's page loading speed and traffic rose thanks to the use of the React, Strapi & Next.js

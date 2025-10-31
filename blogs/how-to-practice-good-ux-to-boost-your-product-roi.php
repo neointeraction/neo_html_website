@@ -57,9 +57,9 @@
                 <p class="blog-body-text">
                 UX design is the process of designing (digital or physical) products that are useful, easy to use, and delightful to interact with. It’s about enhancing the experience that people have while interacting with your product, and making sure they find value in what you’re providing thereby achieving customer satisfaction. After all <a href="<?php echo $path; ?>blogs/how-to-align-good-ux-ui-concepts-with-customer-requirements" target="_blank">User Experience</a> plays a vital role in the success of a product.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Benefits of UX design
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/benefits-of-ux-design.webp" alt="benefits of ux design" />
                 </div>
@@ -94,9 +94,9 @@
                     <p class="blog-quote-text">People ignore design that ignores people. - Frank Chimero</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why shouldn’t you ignore UX design
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/ux-design-challenges.webp" alt="UX_design_challenges" />
@@ -114,9 +114,9 @@
                     </ol>
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Identify pain points of Bad UX design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <ol>
@@ -138,9 +138,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Salient Points
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <ul>

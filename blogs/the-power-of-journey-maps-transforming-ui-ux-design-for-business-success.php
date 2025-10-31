@@ -64,9 +64,9 @@
                     assets that align UI UX design efforts with business goals. This blog explores how journey maps, rooted in user research, serve as pivotal elements in
                     harmonizing user experience with business objectives.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Understanding Journey Maps in UX Design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Journey maps, in the realm of UX design, are intricate visual narratives that depict a user's interaction with a product or service over time. These maps
@@ -77,9 +77,9 @@
                     In a survey by McKinsey, businesses that focused on the entire customer journey, including pre-purchase and post-purchase experiences, reported a 10-15%
                     increase in revenue and a significant boost in customer loyalty.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Role of Journey Maps in Achieving Business Success
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Journey maps do more than just inform UI UX design; they bridge the gap between user-centric design and business strategies. Here's how:
@@ -118,9 +118,9 @@
                             Jobs</b>
                     </p>
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Crafting Effective Journey Maps in UI UX Design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Creating a journey map is a multi-step process, deeply embedded in user research and UI UX design principles:
@@ -156,7 +156,7 @@
                     ensuring that the user's emotional state is considered at each touchpoint.
                 </p>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     In UI UX design, journey maps are vital for aligning design with business goals. Prioritizing user experience enhances satisfaction, loyalty, and overall

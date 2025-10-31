@@ -95,9 +95,9 @@ Identity of the brand
                     several reasons. Let's explore why consistency is so important and discuss practical steps to
                     achieve a unified front end experience.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     1. Why is Consistency Important?
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/ree.webp" alt="ree" />
@@ -117,9 +117,9 @@ Identity of the brand
                     Reusability reduces errors and makes the development process smoother and faster.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     2.Establish a Design System
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/ree.webp" alt="ree" />
@@ -142,9 +142,9 @@ Identity of the brand
                 </ol>
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     3.Use a Component-Based Framework
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Implementing a component-based framework like React or Vue.js can significantly enhance consistency
@@ -175,9 +175,9 @@ Identity of the brand
                         needs to be planned well considering all the right and critical factors.</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     4. Implement Theming and Branding Guidelines
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/ree.webp" alt="ree" />
@@ -205,9 +205,9 @@ Identity of the brand
                     visual element, from colors to fonts to layout, reinforces your brand identity.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     5.Implement Coding Standards and Best Practices
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Adopting coding standards and best practices is essential for maintaining code quality and
@@ -232,9 +232,9 @@ Identity of the brand
                 </ul>
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     6.Foster Collaboration and Communication
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Effective collaboration and communication is the key to maintaining a unified frontend experience.
@@ -258,7 +258,7 @@ Identity of the brand
                 </ul>
                 </p>
 
-                <h4 class="blog-body-title">7.Conclusion</h4>
+                <h2 class="blog-body-title">7.Conclusion</h2>
 
                 <p class="blog-body-text">
                     Creating a unified frontend experience for your products is more than a technical task—it's about

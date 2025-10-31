@@ -77,10 +77,10 @@ The rise of subscription-based services has brought forth the importance of user
                         you, they insist that their friends do business with you". - Chip Bell</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Strategies for designing user experiences
 
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>1. Onboarding Excellence</b>
@@ -213,7 +213,7 @@ The rise of subscription-based services has brought forth the importance of user
                     collects user data, popularity trends, past purchase history, etc.
 
                 </p>
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     In the subscription economy, where choices abound, designing for customer retention requires a

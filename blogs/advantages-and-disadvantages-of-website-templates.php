@@ -72,9 +72,9 @@
                     You should consider several factors defining what works best for you: design system templates or
                     custom website design.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Impact of templates on UX design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
 
@@ -100,7 +100,7 @@
                         to suit your needs.</p>
                 </div>
 
-                <h4 class="blog-body-title">Pros & Cons of Templates</h4>
+                <h2 class="blog-body-title">Pros & Cons of Templates</h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/advantages-and-disadvantages/pros-cons-of-templates.webp"
@@ -145,7 +145,7 @@
 
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     It would be great to say that using templates is the best way to establish your website; on the

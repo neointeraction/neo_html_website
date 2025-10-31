@@ -68,9 +68,9 @@
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/netflix-s-data-driven/ree.webp" alt="ree" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What is Data driven ui ux design ?
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Data-driven UI UX involves making <a href="<?php echo $path; ?>blogs/design-thinking-and-its-role-in-accelerating-business-growth" target="_blank">design decisions</a> based on insights derived from user data. In the
                     case of Netflix, this means analyzing vast amounts of user behavior data to tailor the interface to
@@ -98,9 +98,9 @@
                     </p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Netflix's Data-Driven Movie Magic: Tailored for You
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Netflix, the top streaming service globally, uses smart data and analytics to make your movie
                     experience better. They keep improving how the app looks and feels, making it a big hit with users
@@ -141,9 +141,9 @@
 
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Business Impact of Data-Driven UI UX Design
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Netflix's success is not just about content but also about understanding user preferences. By
                     analyzing vast amounts of user data, Netflix identifies patterns and trends that shape its UI UX

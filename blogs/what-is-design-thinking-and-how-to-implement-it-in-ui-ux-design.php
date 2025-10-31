@@ -63,7 +63,7 @@
                     development.<br />
                     Design thinking principles are based on cognitive and strategic processes in addition to practical processes. This leads to a multi-faceted approach to
                     problem-solving.</p>
-                <h4 class="blog-body-title">Design Thinking in UX</h4>
+                <h2 class="blog-body-title">Design Thinking in UX</h2>
                 <p class="blog-body-text">
                     Design thinking is almost certainly the best approach for "thinking beyond the box" of any design process. Teams can utilize it to improve the user experience
                     through research, prototyping, and user testing in order to find innovative ways to meet users' needs. Because it focuses on solutions rather than issues,
@@ -84,7 +84,7 @@
                     <p class="blog-quote-text">Design thinking is a human-centered and collaborative approach to problem-solving using a designed mindset to solve problems.</p>
                 </div>
 
-                <h4 class="blog-body-title">Principles of Design Thinking</h4>
+                <h2 class="blog-body-title">Principles of Design Thinking</h2>
                 <p class="blog-body-text">
                     Understanding the five stages of design thinking will empower anyone to apply these methods to solve complex problems — regardless of the scale, industry, or
                     context of the issue.
@@ -150,7 +150,7 @@
                     <a href="https://careerfoundry.com/en/courses/become-a-ux-designer/">UX design courses</a> provide additional information on Design Thinking and UX design.
                 </p>
 
-                <h4 class="blog-body-title">Salient Points</h4>
+                <h2 class="blog-body-title">Salient Points</h2>
                 <p class="blog-body-text">
                     Design Thinking requires you to think from the point of the user and understand the problem.
                 </p>

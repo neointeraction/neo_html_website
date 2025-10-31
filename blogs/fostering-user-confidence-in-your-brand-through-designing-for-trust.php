@@ -58,9 +58,9 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
                 <p class="blog-body-text">
                     In the ever-evolving digital landscape, where consumers are bombarded with choices, building and maintaining trust is crucial for the success and reputation of any brand. In this era of information overload, where users are becoming increasingly discerning, the role of UI UX design in establishing and nurturing trust cannot be overstated.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What is Trust in UX Design & how do users interpret your design?
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Trust in UX involves reliability, credibility, transparency, security, usability, feedback, accessibility, performance, user empowerment, and emotional connection. Building trust is an ongoing process, considering both functional and emotional aspects. Initial positive impressions, influenced by key visual elements, significantly impact trust. <a href="https://credibility.stanford.edu/pdf/Stanford-MakovskyWebCredStudy2002-prelim.pdf" target="_blank">Stanford University's 2002 study </a>confirmed the link between visual design and credibility, varying across industries. Conversely, <a href="https://www.interaction-design.org/literature/article/trust-building-the-bridge-to-our-users" target="_blank">Sliced Bread's study</a> found health and finance professionals prioritize content over surface design, while other user groups approach website credibility cautiously.
                 </p>
@@ -72,9 +72,9 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
                     <p class="blog-quote-text">Design is the silent ambassador of your brand - Paul Rand</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Role of Designing for Trust in Business Success & How to Achieve it
-                </h4>
+                </h2>
                 
 
                 <p class="blog-body-text">
@@ -159,7 +159,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
                 </div>
                
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     In the digital age, user trust is crucial, and UI UX design plays a pivotal role in shaping it. From first impressions to consistent branding, security, and inclusivity, every design element contributes to building trust. Investing in UI UX is strategic, yielding user loyalty, positive word-of-mouth, and business success. Brands that grasp the profound impact of design on trust will stand out and thrive in the competitive digital landscape. <a href="<?php echo $path; ?>" target="_blank">Neointeraction Design</a> guarantees the delivery of exceptional <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">UI UX design services</a>, seamlessly integrating them into the holistic product design journey for business success.

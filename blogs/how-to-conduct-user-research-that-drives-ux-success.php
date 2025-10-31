@@ -72,9 +72,9 @@
                     about to be released in public. It helps you learn about the people you’re building a solution for
                     and increases the likelihood that you’ll create something they love.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Types of User Research
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     We can also divide User Research method into two: Quantitative Ux Research and Qualitative User
@@ -131,9 +131,9 @@
                 </div>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Top User Research Method through the design process
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-conduct-user/user-research-methodology.webp" alt="user research methodology" />
                 </div>
@@ -246,7 +246,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Salient Points</h4>
+                <h2 class="blog-body-title">Salient Points</h2>
 
                 <p class="blog-body-text">
                 <ul>

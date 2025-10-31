@@ -56,18 +56,18 @@
                 <p class="blog-body-text">
                     As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Data driven UX Design Explained
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     <a href="https://www.neointeraction.com/blogs/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" target="_blank">Data driven UX design</a> involves enhancing user interfaces and experiences, catering to the needs of different user groups through the use of advanced analytics tools to communicate critical information within a company. This involves gathering and examining both quantitative and qualitative data from research on individual choices, interactions, and behaviors. This will ensure design decisions are based on data rather than assumptions.
                 </p>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-user-experience.webp" alt="Data driven user experience" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Present state of the construction industry
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Fragmented procedures, reliance on paper, and reactive problem-solving in the construction industry result in delays, increased costs, and safety concerns.According to a study by McKinsey, large construction projects typically take 20% longer to finish than scheduled and are up to 80% over budget. Conventional techniques are not effective, as they depend on manpower and continuous monitoring. On the other hand, for example, Turner Construction reduced safety incidents by 30% through real-time data monitoring and predictive analytics. Data-driven methodologies utilize technology and statistics to streamline operations, enhance communication, and safety through innovation. 
                 </p>
@@ -75,9 +75,9 @@
                     <div class="quote-icon"></div>
                     <p class="blog-quote-text">The goal is to turn data into information, and information into insight.<br><em>Carly Fiorina, Former CEO of Hewlett-Packard</em></p>
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What is the effect of data driven UX Design on Construction?
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     <b>a. Project Management Reimagined</b><br>
                     Digital approach of UX enables the real-time analysis of project data and offers well-developed interfaces. Giving project managers control over this capability improves their ability to manage timelines and resources, and helps identify constraints that can enhance decision-making and project outcomes.
@@ -93,9 +93,9 @@
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/benefit-of-data-driven-ux-design.webp" alt="benefit of data driven ux design" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Building with Data: Main Action Items
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Construction companies can enhance their operations by using advanced data analytics and <a href="<?php echo $path; ?>blogs/what-is-ux-design-process-a-complete-actionable-guide" target="_blank">user experience strategies</a>, leading to notable enhancements in project management and safety measures. This method emphasizes the changing power of using data to guide and improve construction procedures.
                 </p>
@@ -111,18 +111,18 @@
                     <b>c. Personalization and Customization</b><br>
                     Customizing application tools and interfaces to suit the specific needs of users such as schedulers, estimators, site supervisors etc leads to increased usage and satisfaction. Analytics translates to personalized usages and custom-designed operations that address users’ specific needs.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Successful Implementations in the Construction Industry
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Skanska, a multinational construction and development company based in Sweden, effectively utilized a project management tool driven by data, resulting in a 15% increase in project productivity and a decrease in necessary resources. By implementing advanced safety measures with data from workplace incidents and compliance, Bechtel's BLMS achieved a 25% reduction in workplace incidents, ultimately improving the safety of the work environment.
                 </p>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/implementation-of-data-driven-ux-design.webp" alt="implementation of data driven ux design" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Challenges and Considerations
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     <b>a. Data Quality and Accuracy</b><br>
                     Giving proper focus to accurate and trustworthy data is crucial. Therefore, utilizing low-quality data will lead to low-quality conclusions and less than optimal design choices.
@@ -135,9 +135,9 @@
                     <b>c. Privacy and Security</b><br>
                     Ensuring the safety and reliability of data is extremely important in order to prevent potential breaches and uphold privacy regulations. One of the most crucial rules when dealing with data is that their security should be top priority.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Future of Construction: Looking ahead with data driven UX
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     By integrating AI and Machine learning, data driven design in UX design will reach a new level of insights and predictions.
                 </p>
@@ -152,9 +152,9 @@
                     <b>b. Sustainable and Green Construction</b><br>
                     Utilizing data in UX design can help improve sustainability in construction by optimizing resource allocation, minimizing waste, and increasing energy efficiency.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Conclusion
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     The combination of digital design and data analysis is transforming the construction sector, improving efficiency, safety, and user orientation. Through the use of data and UX design, businesses have the ability to enhance efficiency, safety, and customer satisfaction. Collaborating with a <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX design company in India</a> such as Neointeraction Design is essential for the upcoming expansion, as they effectively incorporate high-quality <a href="<?php echo $path; ?>ux-design-services" target="_blank"> UX design services in India</a> to enhance marketing and business growth.
                 </p>

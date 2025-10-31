@@ -57,9 +57,9 @@
                 <p class="blog-body-text">
                     Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack of a good user experience. As one of the top ui ux design companies we truly enjoyed redesigning the ux audit for LIC.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Identified Problems
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     After reviewing their present website design, we discovered a number of issues with the design language (UI) as well as the content's organizational flow (UX). The first step was to make a list of all the problems for our UX Case study.
                 </p>
@@ -96,9 +96,9 @@
                     <p class="blog-quote-text">The only constant in the world is “CHANGE". Though this line has become a cliche, it is very important to implement the same in our operation. And of course, the change needs to be planned well considering all the right and critical factors.</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Presenting Solutions to Problems
-                </h4>
+                </h2>
                 
 
                 <p class="blog-body-text">
@@ -149,9 +149,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/effective-ux-audit/website-revamp-ux-ui-changes.webp" alt="website revamp ux ui changes" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     UI UX Recommendations based on User Research
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/effective-ux-audit/ui-ux-recommendations.webp" alt="UI_UX Recommendations" />
@@ -183,7 +183,7 @@
 
                 </p>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     UX Audit is a necessary aspect of the design process in order to create a solution that meets both business and user requirements. If we focus on the details of the product and services, we tend to overlook the users and their perspectives. UX strategy and research play an important role in the process of product design. The most important factor of this project was that users might easily be lost due to a bad online presence experience.

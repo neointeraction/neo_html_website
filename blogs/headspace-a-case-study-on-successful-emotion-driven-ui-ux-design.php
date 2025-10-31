@@ -56,7 +56,7 @@ In today's digital world, it is vital for businesses to connect with users on an
 <p class="blog-body-text">
 Headspace is a popular meditation and mindfulness app founded by Andy Puddicombe and Richard Pierson in 2010. It offers guided practices for better mental health, including stress reduction, better sleep, focus improvement, and emotional resilience, to promote well-being and balance in daily life.
 </p>
-<h4 class="blog-body-title">How Headspace Incorporates Emotion-driven UI UX Design at its core</h4>
+<h2 class="blog-body-title">How Headspace Incorporates Emotion-driven UI UX Design at its core</h2>
 <p class="blog-body-text">
 <strong>Understanding User Emotions</strong>
 </p>
@@ -99,7 +99,7 @@ Using <a href="https://www.neointeraction.com/blogs/turning-saving-into-a-game-g
 <div class="blog-banner-img">
     <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/gamification-in-ui-design.webp" alt="Gamification in ui design" />
 </div>
-<h4 class="blog-body-title">The business impact of having emotion-driven design on Headspace</h4>
+<h2 class="blog-body-title">The business impact of having emotion-driven design on Headspace</h2>
 <p class="blog-body-text">
 <strong>Global Expansion and Accessibility</strong>
 </p>
@@ -128,7 +128,7 @@ Headspace's emotionally impactful design builds trust and recognition, positioni
     <div class="quote-icon"></div>
     <p class="blog-quote-text">We’re not just designing pages. We’re designing human experiences. -Aarron Walter, author of ‘Design for Emotion’</p>
 </div>
-<h4 class="blog-body-title">Conclusion</h4>
+<h2 class="blog-body-title">Conclusion</h2>
 <p class="blog-body-text">
 In summary, Headspace's success stems from its innovative emotion-driven design, prioritizing user needs and emotions. This approach has propelled it to leadership in the mindfulness space.  If you have a project demanding an in-depth understanding of user needs and emotions, we recommend a <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore" target="_blank" rel="noopener">UI UX design service</a> consultation with our experts at <a href="https://www.neointeraction.com/" target="_blank" rel="noopener">Neointeraction Design</a>. With over 15 years of experience, Neointeraction Design can help you create immersive and resonant digital experiences that align with your project goals seamlessly and elevate your brand within the vast landscape of user interaction.
 </p>

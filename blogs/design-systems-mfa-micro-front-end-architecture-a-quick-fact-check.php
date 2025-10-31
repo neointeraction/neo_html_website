@@ -60,9 +60,9 @@
                 </h1>
              
                
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Design Systems & Micro Frontend Architecture: Transforming Web Development
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 The method of how we create and handle frontend development has changed a lot. Two important ideas that are changing how websites are built are Micro Frontend Architecture (MFA) and Design Systems. Companies who provide <a href="https://www.neointeraction.com/front-end-development-services" target="_blank">front end development services in India</a> leverage these concepts. Let's see what these are, why they matter, and how they work together to improve websites.
@@ -72,9 +72,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/micro-front-end-architecture.webp" alt="Micro front end architecture" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Micro Frontend Architecture (MFA) vs. Monolithic Architecture
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 Micro Frontend Architecture (MFA) breaks down the front part of a website into smaller pieces. Each piece is managed by different teams. It’s like different groups working on smaller parts of a big project, similar to solving a puzzle piece by piece. In contrast, monolithic architecture builds the entire website as one big piece, where everything is connected. It's like trying to solve a huge puzzle all at once.
@@ -119,9 +119,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/micro-frontend-react-architecture.webp" alt="Micro frontend react architecture" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Design Systems: Creating Consistent and Efficient Designs
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 A design system is a collection of reusable components, guidelines, and assets that ensure consistency and efficiency in design and development.
@@ -151,9 +151,9 @@
                     </ol>
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 How MFA and Design Systems Work Well Together
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>Consistency Across Apps</b><br/>
@@ -186,7 +186,7 @@
                 </p>
                
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                 In summary, Micro Frontend Architecture (MFA) and Design Systems are crucial tools in modern frontend development. MFA helps teams scale their projects, stay flexible, and collaborate effectively by breaking down applications into smaller, manageable parts. Meanwhile, design systems ensure that all parts of an app look and work consistently, making it easier to reuse design elements and streamline development.

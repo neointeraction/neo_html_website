@@ -72,9 +72,9 @@
                     The stripped-down approach of wireframing makes it an excellent tool to employ early in the ideation
                     phase, as it allows you to complete your content architecture before delving into the details.</a>.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why are wireframes important?
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/wireframes-use-cases.webp"
@@ -109,7 +109,7 @@
                 </div>
 
 
-                <h4 class="blog-body-title">Different types of wireframes</h4>
+                <h2 class="blog-body-title">Different types of wireframes</h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/types-of-wireframes.webp"
@@ -166,7 +166,7 @@
                 </ol>
                 </p>
 
-                <h4 class="blog-body-title">Salient Points</h4>
+                <h2 class="blog-body-title">Salient Points</h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/wireframes-ux-design.webp"

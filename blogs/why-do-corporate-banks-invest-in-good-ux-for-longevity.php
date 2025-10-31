@@ -66,9 +66,9 @@
                         useful, usable, findable, credible, accessible, and desirable. UX design is required for online
                         banking platforms to advance and retain customers.
                     </p>
-                    <h4 class="blog-body-title">
+                    <h2 class="blog-body-title">
                         Importance of good UX practices for corporate banking
-                    </h4>
+                    </h2>
 
                     <div class="blog-banner-img">
                         <img src="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/ux-trend-fintech-app.webp"
@@ -88,9 +88,9 @@
                         <p class="blog-quote-text">Good UX is good business – Andrew Kucheriavy</p>
                     </div>
 
-                    <h4 class="blog-body-title">
+                    <h2 class="blog-body-title">
                         Best UX practices for corp banking
-                    </h4>
+                    </h2>
 
                     <p class="blog-body-text">
                         <b>1. Usage of Intuitive Interaction</b>
@@ -126,9 +126,9 @@
                         a better understanding of how to employ these design principles.
                     </p>
 
-                    <h4 class="blog-body-title">
+                    <h2 class="blog-body-title">
                         Latest UI UX Trends in corporate banking
-                    </h4>
+                    </h2>
 
                     <div class="blog-banner-img">
                         <img src="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/ux-practice-banking-app.webp"
@@ -154,7 +154,7 @@
 
 
 
-                    <h4 class="blog-body-title">Key Takeaways</h4>
+                    <h2 class="blog-body-title">Key Takeaways</h2>
 
                     <p class="blog-body-text">
                         Banking apps must be personalized, easy - to - navigate, and simple to use to keep users and win

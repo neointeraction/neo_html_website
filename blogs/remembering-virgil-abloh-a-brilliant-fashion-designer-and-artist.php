@@ -71,9 +71,9 @@
                         href="https://www.neointeraction.com/blogs/what-is-ux-design-process-a-complete-actionable-guide"
                         target="_blank">design process</a>.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     A Passion for Design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Born in 1980 into a family of Ghanaian immigrants, Virgil Abloh’s passion for designing came at an
@@ -93,9 +93,9 @@
                         allows us to look at things with fresh eyes.</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Abloh Style
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     In 2009 Kenzo began his remarkable career with the opening of a retail store known as the RSVP
@@ -121,9 +121,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/off-white-virgil-abloh.webp" alt="off white_virgil abloh" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Into the World of Product Designing and Industrial Design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Abloh is known to make groundbreaking interior designs, putting a serious impact by his iconic stamp
@@ -140,9 +140,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/virgil-abloh-interior-design.webp" alt="virgil abloh_interior design" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Here are some of his best works
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>Recycled Bottles (Evian)</b><br />
@@ -155,9 +155,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/recycled-bottles-evian.webp" alt="Recycled Bottles Evian" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Off-White’s Collab, Louis Vuitton & IKEA Designs
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>Off-White’s Home Collection</b>
@@ -220,7 +220,7 @@
 
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     As ui ux designers, our team at <a href="https://www.neointeraction.com/"

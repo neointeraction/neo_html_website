@@ -68,7 +68,7 @@
                     <div class="quote-icon"></div>
                     <p class="blog-quote-text">Mobile apps should appeal to the user's intuition to guide them through the app.</p>
                 </div>
-                <h4 class="blog-body-title">Fundamentals of mobile UX design</h4>
+                <h2 class="blog-body-title">Fundamentals of mobile UX design</h2>
                 <p class="blog-body-text">
                     <b>Make Interface Elements Clearly Visible</b>
                 </p>
@@ -125,7 +125,7 @@
                     devices have significantly less capacity than PCs or tablets, you should avoid overloading users' attention with information. Text on mobile devices must be at
                     least 11 points tall to be legible at a typical viewing distance without the need to zoom in.
                 </p>
-                <h4 class="blog-body-title">Salient Points</h4>
+                <h2 class="blog-body-title">Salient Points</h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/user-interface-design-mobile-app.webp"
                         alt="user interface design_mobile app" />

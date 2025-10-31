@@ -55,11 +55,11 @@
                     <img src="<?php echo $path; ?>assets/images/blog/effective-communication/effective-communication-with-clients.webp" alt="effective communication with clients" />
                 </div>
                 <p class="blog-body-text">Consider if someone asked you to prepare a meal but didn't specify what type of meal they wanted. They expected you to know what they wanted. This type of scenario occurs frequently with design teams, resulting in a waste of time for both parties.
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 Designers are expected to be multi-disciplinary and result-oriented as technology advances. One of the most important abilities is not only to design but also to communicate design effectively; therefore, it is critical for a designer to possess active listening skills that will help develop better communication skills. As a top product design firm, we believe that before we get into all the steps in the product design process we drive our design thinking process through active listening.
                 </p>
-                <h4 class="blog-body-title">Why does communication play a vital role in design thinking?</h4>
+                <h2 class="blog-body-title">Why does communication play a vital role in design thinking?</h2>
                
                 <p class="blog-body-text">Design thinking is a team activity in which communication is essential for effectively conveying ideas. Working with a ux ui design team simplifies design processes because there is a natural flow of ideas and feedback as they progress.</p>
                 <p class="blog-body-text">An environment in which people can speak openly and freely promotes effective communication and information flow, reducing miscommunication and resulting in the making of <a href="https://www.neointeraction.com/ui-ux-design-services">best ux ui design services</a>.</p>
@@ -68,13 +68,13 @@
                     <div class="quote-icon"></div>
                     <p class="blog-quote-text">The most important thing in communication is to hear what isn’t being said. - Peter Drucker.</p>
                 </div>
-                <h4 class="blog-body-title">How to set a better communication standard with the client?</h4>
+                <h2 class="blog-body-title">How to set a better communication standard with the client?</h2>
                 <div class="blog-section-banner-img">
                 <img src="<?php echo $path; ?>assets/images/blog/effective-communication/communication-with-client.webp" alt="communication with client" />
                 </div>
                 <p class="blog-body-text">To maintain a good relationship with the client, it is critical to establish some standards that will make the entire <a href="https://www.neointeraction.com/ui-ux-design-services">development process</a> easier, in addition to numerous benefits such as project clarity, a continuous cycle of feedback, being thoroughly informed, and so on. Reach out to us <a href="https://www.neointeraction.com/contact-us">here</a> if you would like to connect with us to discuss your project.</p>
 
-                <h4 class="blog-body-title">How to have meaningful conversations with clients to boost productivity.</h4>
+                <h2 class="blog-body-title">How to have meaningful conversations with clients to boost productivity.</h2>
 
                 <p class="blog-body-text">Ask the right questions: You cannot expect the client to explain every detail and requirement regarding the project, so it is up to you to extract the exact needs of your client. We need to structure our questions so that we can extract the solution from the problem statement itself.</p>
                 <p class="blog-body-text">Be respectful and empathetic: To understand your client's ideas, you must demonstrate empathy as a designer. You must also be brutally honest about your viewpoint while remaining respectful. Create a system in which both parties can exchange ideas and feedback at the same time.</p>
@@ -83,7 +83,7 @@
                 <p class="blog-body-text">Stick to a process: Sticking to a process is important because it saves us from having to explain minor details and not having a clear timeline for feedback, changes, and deadlines. A routine process prepares a team to deal with uncertainties more effectively.
                 Curious about how to align good ux ui design concepts with client requirements. Head over to our <a href="<?php echo $path; ?>blogs/how-to-align-good-ux-ui-concepts-with-customer-requirements">article</a> and also read about how we at <a href="<?php echo $path; ?>about-us">Neointeraction Design</a> create efficient <a href="<?php echo $path; ?>blogs/how-to-run-design-timelines-and-execute-them-effectively">design timeline</a> and execute it successfully.</p>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
                 <div class="blog-section-banner-img">
                 <img src="<?php echo $path; ?>assets/images/blog/effective-communication/understanding-clients.webp" alt="understanding clients" />
                 </div>

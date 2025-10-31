@@ -97,9 +97,9 @@
                 <p class="blog-body-text">
                     This short article provides you with a better understanding of key UI and UX terminology.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     UI UX terminologies
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     <b>User Experience (UX)</b>
                 </p>
@@ -315,9 +315,9 @@
                     Key performance indicators are the metrics that are most important to a business or project. "KPIs"
                     are used to track progress and measure goals.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Conclusion
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     You’re quite right in thinking that it’s almost impossible to know all the lingo. But maintaining an
                     up-to-date understanding of the change and evolution of design terminology is the only way for UI UX

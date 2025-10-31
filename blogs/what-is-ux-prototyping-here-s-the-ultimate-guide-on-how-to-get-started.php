@@ -73,9 +73,9 @@
                     mistakes by experimenting early and often.
 
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Importance of Prototyping
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/importance-of-prototyping.webp"
@@ -103,9 +103,9 @@
                 </div>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Types of Prototyping
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
 
@@ -274,7 +274,7 @@
                 </div>
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     Prototyping at the wrong fidelity is one of the top prototyping mistakes. Unfortunately, there isn’t
@@ -297,7 +297,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Key Takeaways</h4>
+                <h2 class="blog-body-title">Key Takeaways</h2>
 
                 <p class="blog-body-text">
                     <li>Prototyping- A tangible early version of an idea that conveys the necessary functionality that

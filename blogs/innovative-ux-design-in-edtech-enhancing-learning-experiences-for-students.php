@@ -69,9 +69,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/ux-design-company-in-india.webp"
                         alt="UX Design Company in India" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     1. Why UX Design Matters in EdTech
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     In EdTech, UX design is essential in determining how students engage with educational materials. An
@@ -110,9 +110,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     2. Key Strategies for Effective UX Design in EdTech
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/strategies-for-effective-ux-design-in-edtech.webp"
@@ -152,7 +152,7 @@
                     effective learning.
                 </p>
 
-                <h4 class="blog-body-title">Examples of Successful EdTech Platforms with Good UX Design</h4>
+                <h2 class="blog-body-title">Examples of Successful EdTech Platforms with Good UX Design</h2>
 
                 <p class="blog-body-text">
                     <b>a. Khan Academy:</b> Provides students with personalized dashboards and an intuitive interface,
@@ -189,7 +189,7 @@
                         alt="UX of Edtech for coursera app" />
                 </div>
 
-                <h4 class="blog-body-title">Challenges of EdTech UX</h4>
+                <h2 class="blog-body-title">Challenges of EdTech UX</h2>
 
 
                 <p class="blog-body-text">
@@ -212,7 +212,7 @@
 
                 </p>
 
-                <h4 class="blog-body-title">Future Trends in UX Design for EdTech</h4>
+                <h2 class="blog-body-title">Future Trends in UX Design for EdTech</h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/future-trends-in-ux-design-for-edtech.webp"
@@ -236,7 +236,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                 In conclusion, UX design is essential in EdTech for developing interactive, user-friendly, and efficient learning spaces. By focusing on user-centered design principles and incorporating new technologies, EdTech platforms can greatly improve student learning experiences. As the industry progresses, the emphasis on UX design will undeniably be significant in influencing the direction of education. Partnering with a <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX Design Company in India</a> such as Neointeraction Design guarantees that your product is skillfully developed to cater to the wide range of requirements of both students and educators. By utilizing our UI UX design service skills, you can create educational tools that are intuitive, engaging, and impactful in the competitive EdTech industry.

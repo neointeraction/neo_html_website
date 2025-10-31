@@ -56,9 +56,9 @@
                 <p class="blog-body-text">
                     Fintech apps (or financial technology apps) are broadly adopted today as they have changed the way companies operate. It refers to any app that enables people or businesses to digitally monitor, regulate, or gain insights into their accounts or conduct financial transactions. The Covid-19 outbreak impacted the MFS (Mobile Financial Services) market's field-level operations during 2020 and 2021. Despite these setbacks, bKash was able to finish the year with 50.5 million total users, 12.4 million new users, 35,000 new merchants, and 41,000 new agents. Today, we'll examine the Fintech app - bKash and evaluate its user interface.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     About Bkash
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     bKash, a subsidiary of BRAC Bank, is the fastest and safest medium of mobile financial transactions in Bangladesh. bKash provides services such as sending money, adding money, paying bills, mobile recharge, online payment, and many more.
                 </p>
@@ -74,9 +74,9 @@
                     <p class="blog-quote-text">Smartphones would make it easy to implement mobile money, but the service would then be limited to only affluent customers and would defeat the purpose of reaching the unbanked and poor. - bKash</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Features of the app
-                </h4>
+                </h2>
                 
 
                 <p class="blog-body-text">
@@ -92,17 +92,17 @@
                     </ul>
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     IA of the app
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/ia-of-banking-app.webp" alt="IA of banking app" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Analyzing the app's various screens
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>Splash screens</b>
@@ -164,18 +164,18 @@
 
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Additional feature of the app
-                </h4>
+                </h2>
 
 
                 <p class="blog-body-text">
                     The Bkash app's UX design also takes into account the context in which the app is being used. For example, the app has been optimized for use in areas with limited internet connectivity, with a lightweight design that allows for fast and efficient data transfers even on slow connections. The app's offline mode also allows users to access some of the app's features even when they do not have an internet connection, ensuring that the app remains accessible even in areas with limited connectivity
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     User reviews
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/user-reviews-of-bkash.webp" alt="user reviews of bkash" />
@@ -197,7 +197,7 @@
 
                 </p>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     With the help of this case study, we can better understand why bKash has a user base of 50 million+ compliant users. Bkash’s design has been revolutionary in reducing the financial exclusion faced by those with vision and literacy issues as it was specifically designed to provide the most accessible and effortless user experience possible. It has also made a huge difference in the lives of the elderly, providing a platform that can be used without the aid of a younger generation. While the UI of the app can be designed better, consumers still perceive bKash services to be straightforward and simple to use. Strategically speaking, it is clear that bKash may be an immovable force in the MFS market.

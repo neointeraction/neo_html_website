@@ -60,9 +60,9 @@
                 <p class="blog-body-text">
                 Here are the top 5 frontend development performance optimizations you can implement to make your frontend more optimized:
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 1. Image optimization
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 Image optimization involves reducing the file size of images without compromising quality to improve website performance. It includes choosing the right format of image, compressing images, and implementing techniques to ensure images load efficiently in the browser.
                 </p>
@@ -91,9 +91,9 @@
                 <ul>
                     <li><b>Add Alt Tags:</b> Use alt tags in images for better SEO as Search engines cannot see images. They rely on the text to understand what the images depict. Alt tags help search engine crawlers index your images correctly. It also improves User Experience as the alt tag is a text alternative for the image, which is essential for visually impaired users who rely on screen readers to understand the content of a webpage.</li>
                 </ul>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 2. Caching
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 When a website caches, it saves web resources (like CSS files, HTML pages, images and JavaScript files) in browsers to allow quick access instead of requesting them from the source every time. This develops the efficiency and performance of websites by cutting down on load times to improve website speed, reduce server load and enhance user experience.
                 </p>
@@ -115,9 +115,9 @@
                 <ul>
                     <li>Only the first request goes to the server, all the other requests from the same source are intercepted by the shared web cache and content is served from there</li>
                 </ul>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 3. Lazy Loading
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 It is a web optimization technique in which we delay the download of non-crucial resources (for example, images, videos and iframes) until they are needed, usually when they shows in view port is called lazy loading. This strategy improves initial page load times, reduces bandwidth usage and prioritizes critical contents as a way of enhancing overall user experience.
                 </p>
@@ -135,9 +135,9 @@
                     <li><b>Reduced Bandwidth Usage:</b> Saves data by not loading resources the user may never see. It is beneficial for users on mobile networks.</li>
                     <li><b>Improved Performance:</b> Reduces server load and speeds up the loading of above-the-fold content, enhancing the user experience.</li>
                 </ul>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 4. Prefetching
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 Prefetching involves loading resources in advance before they are needed by the user. It is another way you can do website speed optimization, used to improve the performance of a website by reducing latency and ensuring that necessary resources are ready when the user navigates to it. By doing this you can improve user experience as well, and you will get better resource utilization.
                 </p>
@@ -150,9 +150,9 @@
                     <li>Prerendering fully renders a page in the background so it can be displayed instantly when the user navigates.</li>
                     <li>Preloading fetches resources critical for the current page, such as scripts, styles, and fonts, with high priority.</li>
                 </ul>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 5. Minification
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 Website performance can be improved through minification, which is the procedure of eliminating all surplus characters from source code without losing its functionality. Such characters include white spaces, comments and at times block delimiters that are not necessary for the code to function properly. CSS, JavaScript and HTML files are often minified so as to reduce their sizes hence reducing file load times and thus enhancing website performance. Minification is a common practice in web development, as it has no effect on functionality or development code, just the build files get minified to reduce the bundle size.
                 </p>
@@ -172,7 +172,7 @@
                 <p class="blog-body-text">
                 Use build tools to automate minification during the build process to ensure that minified files are always up-to-date. Keep the original, unminified files in version control and use minified files only in production to maintain readability and manageability during development.
                 </p>
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
                 <p class="blog-body-text">
                 We discussed the top 5 web performance tips to optimize your front end for better performance. Optimizing the frontend of a website is crucial for delivering a top-notch user experience and achieving various business goals. By focusing on techniques like image optimization, caching, lazy loading, prefetching, and minification, businesses can ensure their websites load quickly, run efficiently, and provide a seamless experience for users. 
                 </p>

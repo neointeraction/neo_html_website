@@ -82,9 +82,9 @@
                     target audience. Embracing the power of user personas enhances the design process, resulting in
                     increased user satisfaction, engagement, and overall product success.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What Are User Personas?
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     User personas are fictional or semi-fictional characters representing real users, crafted from a
@@ -103,7 +103,7 @@
                     </p>
                 </div>
 
-                <h4 class="blog-body-title">How Do You Create a User Persona?</h4>
+                <h2 class="blog-body-title">How Do You Create a User Persona?</h2>
 
                 <p class="blog-body-text">
                     <b>1. Gathering Data for User Persona Creation</b><br />
@@ -154,8 +154,8 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
-                    How to Effectively Utilize User Personas in UI UX Design?</h4>
+                <h2 class="blog-body-title">
+                    How to Effectively Utilize User Personas in UI UX Design?</h2>
 
                 <p class="blog-body-text">
                     After creating user personas in UI UX design, their effective utilization is essential to ensure a
@@ -213,7 +213,7 @@
                     satisfaction and overall success.
                 </p>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     User personas are a crucial tool in UI UX design, helping designers create products that meet users'

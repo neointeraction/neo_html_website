@@ -60,9 +60,9 @@
                     <div class="quote-icon"></div>
                     <p class="blog-quote-text">Any sufficiently advanced technology is indistinguishable from magic. - Arthur C. Clarke author of Clarke's Third Law</p>
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Understanding E-commerce challenges
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 E-commerce setup and maintenance are lightweight, yet experiencing seamless product search on e-commerce sites is rare. Despite the demand, e-commerce has a lot of areas for improvement.
@@ -81,9 +81,9 @@
                 Investing in good user experience (UX) and user interface (UI) designs also communicates <a href="<?php echo $path; ?>blogs/how-to-promote-positive-emotions-in-the-user-experience-of-your-product" target="_blank">positive emotions</a> through design and your e-commerce can be optimized. Applying good UX practices through top <a href="<?php echo $path; ?>ux-design-services" target="_blank">UX Design services in India</a> can boost the return on investments (<a href="<?php echo $path; ?>blogs/how-to-practice-good-ux-to-boost-your-product-roi" target="_blank">ROI</a>) and revenue of an e-commerce site exponentially.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Understanding Chatbots
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 A chatbot-powered e-commerce search is a revolutionary approach that is transforming the way users discover and purchase products online.
@@ -93,9 +93,9 @@
                 Chatbots are widely understood as automated conversational agents. In the realm of e-commerce, chatbots serve as AI-powered chat platforms specifically tailored for online stores and e-commerce businesses. These chatbots are designed to act as virtual shopping assistants, offering guidance, providing product information, and delivering support to customers. Their purpose is to improve the shopping experience and provide seamless assistance within the online retail environment.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Understanding Ecommerce Chatbots
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 E-commerce chatbots can be broadly categorized into three categories:
@@ -122,9 +122,9 @@
                 B2B (Business to Business) use chatbots to facilitate their daily workflow by providing all the necessary information to various departments within the company in a simple chat interface, this improves the overall efficiency and experience of the company.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Integration of Chatbots in E-commerce
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/ui-ux-design-services-in-india.webp" alt="UI UX design services in India" />
@@ -148,7 +148,7 @@
                 </p>
                
 
-                <h4 class="blog-body-title">Takeaway</h4>
+                <h2 class="blog-body-title">Takeaway</h2>
 
                 <p class="blog-body-text">
                 To sum up, chatbots have transformed online shopping by offering customized help and improving how people shop. They have solved problems with finding products and made personalization better. Many successful companies have proven their effectiveness. Let's welcome this change, appreciating the mix of creative design and technology, for a future where online shopping is easy and fun for all. Designing e-commerce with chatbots should deliver simple and easy designs to retain existing customers and onboard new ones, teaming up with design partners with effective <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">UI UX design services in India</a> such as Neointeraction Design will make the process simple and designs curated for your audience, Implementing our design services and practices guarantees an engaging and seamless experience for your users.

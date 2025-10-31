@@ -58,7 +58,7 @@
                     will be an important element for running the show for these businesses. And without the success of these products, it would be a big problem for businesses to
                     stay in the game. The solution to this problem is a term you would have heard a lot in recent times, i.e; UX Design (User Experience Design).
                 </p>
-                <h4 class="blog-body-title">What is a UX Design?</h4>
+                <h2 class="blog-body-title">What is a UX Design?</h2>
                 <p class="blog-body-text">
                     Before jumping in, let’s see what UX Design means.
                 </p>
@@ -84,7 +84,7 @@
                     <p class="blog-quote-text">User Experience Design (UX) is a design process whose ultimate goal is to create a solution that provides a positive user experience.
                     </p>
                 </div>
-                <h4 class="blog-body-title">Why your business will need UX design?</h4>
+                <h2 class="blog-body-title">Why your business will need UX design?</h2>
                 <p class="blog-body-text">
                     Now that you’re aware of the meaning of UX design, let’s see what it brings to the table. Be it your website, mobile app, or any other digital platform that
                     your business depends on, UX design can be applied everywhere and at times, even to physical products as well.
@@ -106,7 +106,7 @@
                     <img src="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/ux-deisgn-process-for-businesses.webp"
                         alt="ux deisgn process for businesses" />
                 </div>
-                <h4 class="blog-body-title">How does a UX Design Partner help your business?</h4>
+                <h2 class="blog-body-title">How does a UX Design Partner help your business?</h2>
                 <p class="blog-body-text">
                     There are plenty of UI UX Design Companies out there and selecting the right one could make a massive difference for your business. One of the top UI UX design
                     firms, Neointeraction Design, can help your company grow by using a thorough design process and client communication. Investing in UI UX design from the start
@@ -134,7 +134,7 @@
                         strong validation from a lot of potential customers. And continuing to deliver this positive user experience will eventually result in a loyal user base who
                         will always have your back.</li>
                 </ul>
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
                 <p class="blog-body-text">
                     Well, there's no doubt that UX design is one of the key factors in determining the success of a company. As Steve Jobs perfectly stated, “Design is not just
                     what it looks like and feels like. Design is how it works”. Implementing a process of product design while developing a new product will help you gain valuable

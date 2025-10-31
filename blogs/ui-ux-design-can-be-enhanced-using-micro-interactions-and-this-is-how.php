@@ -76,9 +76,9 @@
                 </div>
                 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Structure to follow for microinteractions
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-microinteractions/microinteractions-structure.webp" alt="microinteractions_structure" />
@@ -111,9 +111,9 @@
                 </p>
 
                
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Cool examples of Microinteractions
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <ol>
@@ -133,9 +133,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-microinteractions/example-of-microinteractions.webp" alt="Example_of_microinteractions" />
                 </div>
                 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Salient Points
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <ul>

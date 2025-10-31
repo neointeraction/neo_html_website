@@ -72,9 +72,9 @@
                     bring the emotions expected from a product. It is also helpful in effectively collaborating with
                     clients and team members.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Purpose of mood boards
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
 
@@ -99,7 +99,7 @@
                         Pauling</p>
                 </div>
 
-                <h4 class="blog-body-title">How to create a mood board?</h4>
+                <h2 class="blog-body-title">How to create a mood board?</h2>
 
                 <p class="blog-body-text">
                     There is no "One Size Fits All" to creating a mood board meaning that there are different formats
@@ -188,7 +188,7 @@
                     brief and is easily understandable by everyone.
                 </p>
 
-                <h4 class="blog-body-title">4 Most popular tools to create mood boards</h4>
+                <h2 class="blog-body-title">4 Most popular tools to create mood boards</h2>
 
                 <p class="blog-body-text">
                     Best tools to get mood board sample and to create mood boards, that are used by various designers
@@ -207,7 +207,7 @@
                     <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/moodboard-inspiration-sites.webp" alt="moodboard_inspiration_sites" />
                 </div>
 
-                <h4 class="blog-body-title">Examples of Mood boards</h4>
+                <h2 class="blog-body-title">Examples of Mood boards</h2>
 
                 <p class="blog-body-text">
                     <b>Mood board for UI UX Design</b>
@@ -242,7 +242,7 @@
                 </div>
 
 
-                <h4 class="blog-body-title">Takeaway</h4>
+                <h2 class="blog-body-title">Takeaway</h2>
 
                 <p class="blog-body-text">
                     There are no rules for creating a mood board. Try to only pick the most relevant images or elements

@@ -77,9 +77,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/vr-interaction-design.webp"
                         alt="vr interaction design" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Understanding Presence in VR and AR
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Presence generally refers to the feeling of "being there" within a digital environment, whether in a
@@ -103,7 +103,7 @@
                         Senior Features Editor at Bloomberg Businessweek</p>
                 </div>
 
-                <h4 class="blog-body-title">Key Principles of Immersive Design</h4>
+                <h2 class="blog-body-title">Key Principles of Immersive Design</h2>
 
                 <p class="blog-body-text">
                     Designing for presence involves specific principles to ensure that users feel fully engaged in their
@@ -127,7 +127,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Techniques for Enhancing Immersion</h4>
+                <h2 class="blog-body-title">Techniques for Enhancing Immersion</h2>
 
                 <p class="blog-body-text">
                     To create a truly immersive experience in VR and AR, designers use several techniques:
@@ -154,7 +154,7 @@
                     they are interacting with a simulation.
                 </p>
 
-                <h4 class="blog-body-title">Evaluating User Experience</h4>
+                <h2 class="blog-body-title">Evaluating User Experience</h2>
 
                 <p class="blog-body-text">
                     Assessing how successfully a VR or AR experience delivers presence is important for the improvement
@@ -177,7 +177,7 @@
                     engagement.
                 </p>
 
-                <h4 class="blog-body-title">Challenges in Designing for Presence</h4>
+                <h2 class="blog-body-title">Challenges in Designing for Presence</h2>
 
                 <p class="blog-body-text">
                     Designing for presence in VR and AR comes with significant challenges:
@@ -206,7 +206,7 @@
                     focus on presence.
                 </p>
 
-                <h4 class="blog-body-title">Future Trends in VR and UX design for augmented reality</h4>
+                <h2 class="blog-body-title">Future Trends in VR and UX design for augmented reality</h2>
 
                 <p class="blog-body-text">
                     The future of VR and AR holds exciting possibilities for enhanced immersion:
@@ -230,7 +230,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     Presence can be called the foundation of immersive design in both VR and AR. As technology evolves,

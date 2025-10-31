@@ -99,7 +99,7 @@ The principle of proximity states that we perceive objects which are close to on
                         target="_blank">gestalt principles</a>
                     also make for a
                     great checklist when something feels off about a design. </p>
-                <h4 class="blog-body-title">Proximity Principle in Conten</h4>
+                <h2 class="blog-body-title">Proximity Principle in Conten</h2>
                 <p class="blog-body-text">
                     <b>Typography & copy</b>
                 </p>
@@ -132,7 +132,7 @@ The principle of proximity states that we perceive objects which are close to on
                     <p class="blog-quote-text">The proximity principle is based on the idea that our minds seek to
                         organize and bring order out of chaos, which makes it easy for us to navigate the world</p>
                 </div>
-                <h4 class="blog-body-title">Proximity Principle in UI UX Design</h4>
+                <h2 class="blog-body-title">Proximity Principle in UI UX Design</h2>
 
                 <p class="blog-body-text">
                     Today’s websites are full of content, making grouping the items all the more important.
@@ -177,7 +177,7 @@ The principle of proximity states that we perceive objects which are close to on
                     uses this principle in its informative figures.(i.e Have you
                     experienced these features)
                 </p>
-                <h4 class="blog-body-title">Proximity Principle in Mobile Design</h4>
+                <h2 class="blog-body-title">Proximity Principle in Mobile Design</h2>
 
                 <p class="blog-body-text">
                     <b>Menus & Lists</b>
@@ -202,7 +202,7 @@ The principle of proximity states that we perceive objects which are close to on
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/headtitles-sublines-ux-design.webp" alt="headtitles_sublines_ux design" />
                 </div>
-                <h4 class="blog-body-title">Salient Points</h4>
+                <h2 class="blog-body-title">Salient Points</h2>
 
                 <p class="blog-body-text">
                 <ul>

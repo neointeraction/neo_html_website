@@ -65,9 +65,9 @@
                     Figma is not just a design tool but a center of design resources, tools, plugins, and guides. Even if you use software like Sketch, Adobe XD, or any other alternative platform, there are high chances that Figma might still be a part of your design process.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Evolution of UI UX design with popular tools
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/evolution-of-ux-ui-tools.webp" alt="evolution of ux ui tools" />
                 </div>
@@ -79,9 +79,9 @@
 
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why UI UX designers are uncomfortable with this takeover?
-                </h4>
+                </h2>
                 
 
                 <p class="blog-body-text">
@@ -101,9 +101,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Is Adobe's acquisition of Figma such a cause for concern?
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/adobe-s-acquisition-of-figma.webp" alt="Adobe's acquisition of Figma" />
@@ -126,9 +126,9 @@
                     In conclusion, we will have to wait and see what shape it will take. Meanwhile, <a href="https://www.neointeraction.com/ui-ux-design-services"  target="_blank">hire UI Ux developers & designers</a> from our team to get your next project designed. The <a href="https://www.neointeraction.com/ui-ux-design-services#eng-modal" target="_blank">flexible engagement models</a> offered by our UI/UX design agency can be adjusted to fit your budget and project timelines.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                    Alternates to Figma
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Here we’ve listed a few other Prototyping/ Design tools that could prove to be a solid alternative to Figma.

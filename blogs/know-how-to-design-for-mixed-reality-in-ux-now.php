@@ -68,9 +68,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/know-how-to-design/mixed-reality-in-ux.webp"
                         alt="Mixed Reality in UX" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Bridging Worlds: The Power of MR
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Mixed Reality blurs the lines between reality and the digital world by overlaying digital elements
@@ -83,10 +83,10 @@
 
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
 
                     UX For Mixed Reality
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
 
@@ -108,9 +108,9 @@
                         alt="zSpace" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Building Blocks for Success
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
 
@@ -124,9 +124,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Examples: MR in Action
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
 
@@ -156,9 +156,9 @@
                         alt="UX For Mixed Reality" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Challenges & Considerations
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     User adoption and accessibility present potential barriers, as not all users may be familiar with MR
@@ -183,9 +183,9 @@
                         intuitive and natural. — Satya Nadella, CEO, Microsoft.</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Future of Mixed Reality in UX
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Emerging trends suggest that MR will continue to evolve, offering even more sophisticated
@@ -202,7 +202,7 @@
 
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     The transformative potential of Mixed Reality for user experiences is immense. By emphasizing

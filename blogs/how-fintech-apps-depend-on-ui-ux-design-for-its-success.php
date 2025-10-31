@@ -81,9 +81,9 @@
 
 
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why do most Fintech rely heavily on a design thinking process?
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Since Fintech services can be considered digital products, they always need a certain amount of
@@ -138,7 +138,7 @@
 
 
 
-                <h4 class="blog-body-title">What will good design do for a Fintech?</h4>
+                <h2 class="blog-body-title">What will good design do for a Fintech?</h2>
 
                 <p class="blog-body-text">
                     A good amount of investment in a design process will ensure that the product is going to deliver the
@@ -197,7 +197,7 @@
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/fintech-apps-ui-ux-design/fintech-product-design.webp" alt="fintech product design" />
                 </div>
-                <h4 class="blog-body-title">Neointeraction’s experience in designing Fintech products</h4>
+                <h2 class="blog-body-title">Neointeraction’s experience in designing Fintech products</h2>
 
                 <p class="blog-body-text">
                     With plenty of experience in the financial domain, we at Neointeraction have worked with developing
@@ -250,7 +250,7 @@
                     customers. And continuing to deliver this positive experience will eventually result in some loyal
                     userbase who will always have your back.
                 </p>
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     With the Fintech sector already booming in the year 2021, it is no doubt that there will be plenty

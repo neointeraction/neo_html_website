@@ -57,9 +57,9 @@
                     User Experience plays a vital role in the success of a product. It is an important puzzle that should be solved for the users by the UX designer.<br/>
                     The objective of UX design should be to minimize complexity and present the product so that consumers can make quick decisions. When developing a product to serve their objectives, users' demands should take precedence over customers' suggestions since poor user experience can undermine clients' ultimate goals.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Pitching of UX UI design concepts to the client
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-align/pitching-uxui-concepts.webp" alt="pitching uxui concepts" />
                 </div>
@@ -73,9 +73,9 @@
                     <p class="blog-quote-text">Design adds value faster than it adds cost - Joel Spolsky</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Why Guiding Clients through references is important?
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-align/ux-ui-reference.webp" alt="ux ui reference" />
@@ -137,9 +137,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Real Case Study Discussion between client and the designer
-                </h4>
+                </h2>
                 
                 <!-- <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-align/image4.jpg" alt="image4" />
@@ -157,9 +157,9 @@
                     Click <a href="" target="_blank">here</a> to see more on how our UI UX design team worked on this project.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Salient Points
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Every time a client proposes a UI design concept, we as designers need to evaluate it and determine whether it will make the user's life easier or not. We shouldn't just accept the client's recommendation at face value. Therefore, it is crucial to defend what is right and act in a beneficial way for the user by following the set of UX UI Design Principles that allow the client to decide on the user’s needs.

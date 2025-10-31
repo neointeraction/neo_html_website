@@ -80,9 +80,9 @@
 
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Case Study: Slack's UX/UI Redesign and Its Impact on Sales and Revenue
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>The Challenge</b>
@@ -187,7 +187,7 @@
                         a growing set of tools in Slack. ~Noah Weiss, Chief Product Officer Slack</p>
                 </div>
 
-                <h4 class="blog-body-title">The Impact</h4>
+                <h2 class="blog-body-title">The Impact</h2>
 
                 <p class="blog-body-text">
                     Slack's strategic investment in UX/UI design delivered remarkable results:
@@ -216,7 +216,7 @@
 
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     In the subscription economy, where choices abound, designing for customer retention requires a

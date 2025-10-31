@@ -59,9 +59,9 @@
 " />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                    Understanding Composable Enterprise
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                     Composable business understands the necessary approach that enables organizations to create, integrate, and optimize various components quickly. Primary characteristics of this model include flexibility, adaptability, and concentration on user centric design. By utilizing modular capabilities, businesses can respond effectively to changing demands of the market and evolving user preferences.
                 </p>
@@ -74,18 +74,18 @@
                     <p class="blog-quote-text">Composable business is not just about technology; it’s about creating a culture of agility and responsiveness that can adapt to the ever-changing needs of the user. - Nitin K. Kothari, Founder of Tekglide</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Role of UI UX Design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     UI UX design plays a pivotal role in supporting composable business strategies by ensuring seamless user interactions across multiple touchpoints. A user centric design approach fosters intuitive and functional interfaces that enhance overall <a href="<?php echo $path; ?>blogs/fostering-user-confidence-in-your-brand-through-designing-for-trust" target="_blank">user satisfaction</a>. By focusing on modularity, UI UX designers can create experiences that adapt dynamically to user needs, thus improving engagement and retention.<br/>
                     For example, consider an e-commerce platform utilizing composable strategies. It can rearrange UI components based on user preferences, delivering personalized shopping experiences that align with individual tastes and behaviors. 
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Composable UX Design Explained
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Composable UX design is founded on principles that facilitate the creation of flexible, user centered design interfaces. Key aspects include a component-based architecture, where UI elements are reused across applications, and <a href="<?php echo $path; ?>blogs/role-of-responsive-design-in-the-mobile-first-era-for-business-success" target="_blank">responsive design</a>, which ensures optimal experiences on any device.
@@ -99,9 +99,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/composible-business/spotify.webp" alt="Spotify" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Challenges and Considerations
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     While the benefits of composable enterprise models are clear, potential challenges also exist. Inconsistencies in user experience, integration issues, and managing multiple components can hinder the effectiveness of composable strategies. Organizations should prioritize cross-functional collaboration among design, development, and business teams to overcome these challenges effectively.
@@ -111,9 +111,9 @@
                     To navigate these hurdles, companies must establish clear communication channels and foster a culture of shared responsibility. Furthermore, implementing robust <a href="<?php echo $path; ?>blogs/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check" target="_blank">design systems</a> can ensure consistency and scalability across components, mitigating potential issues and streamlining workflows.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Future Trends
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Rising technologies, such as <a href="<?php echo $path; ?>blogs/the-power-of-ai-in-design-transforming-creativity-with-intelligent-technology" target="_blank">artificial intelligence</a> (AI) and <a href="<?php echo $path; ?>blogs/revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning" target="_blank">machine learning</a>, are shaping the future of composable design.  These technologies are making it possible for businesses to create <a href="<?php echo $path; ?>blogs/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization" target="_blank">hyper-personalized experiences</a> by adapting composable elements based on real-time user interactions, making the user experience more engaging thus creating a significant change in the future of Digital Transformation in India. 
@@ -124,7 +124,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     The recent rise of composable business models is reshaping the course of UI UX design, prioritizing the need for flexibility, responsiveness, and overall user satisfaction. Organizations can enhance their agility and ability to adapt to market changes by embracing composability.

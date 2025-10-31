@@ -82,9 +82,9 @@
                     represents an average annual growth rate of 10% or higher. According to a global poll conducted by
                     the consulting firm Bain, 95% of consumers intend to adopt digital banking after the epidemic.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What makes digital-only banks so appealing?
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/user-friendly-banking-app.webp"
@@ -116,9 +116,9 @@
                         complex system. - Don Norman</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     How to Deliver the Best User Experience in Digital Banking?
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Delivering a great user experience is essential for digital banking services to attract and retain consumers. Banks must ensure that their digital platforms are user-friendly and intuitive in order to provide a positive user experience to their users. Here are some tips for creating a positive user experience in digital banking:
@@ -268,7 +268,7 @@
 
 
 
-                <h4 class="blog-body-title">Takeaway</h4>
+                <h2 class="blog-body-title">Takeaway</h2>
 
                 <p class="blog-body-text">
                     In general, the growth of digital-only banking is being driven by the increasing need for convenient

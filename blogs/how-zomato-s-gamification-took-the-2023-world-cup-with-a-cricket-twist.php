@@ -56,7 +56,7 @@
                 <p class="blog-body-text">In the dynamic world of the online food delivery industry, companies are continually seeking innovative ways to capture consumer attention and stand out amidst the crowd. Major events and festivals serve as prime opportunities for brands to enhance their marketing strategies and solidify their presence in the market. These occasions offer a unique platform for companies to connect with their audience on a deeper level, tapping into the excitement and energy surrounding these events.</p>
                 <p class="blog-body-text">One company that stood out during the Cricket World Cup 2023 was Zomato, by cleverly using gamification and cricket to enhance user engagement. Through a partnership with Roanuz Sports Data, a leading provider of sports data solutions, Zomato introduced a gamified food ordering experience that appealed to both cricket fans and food lovers. Let's explore how Zomato achieved success with this innovative user experience.</p>
                 
-                <h4 class="blog-body-title">World Cup 2023 Campaign</h4>
+                <h2 class="blog-body-title">World Cup 2023 Campaign</h2>
                 <p class="blog-body-text">Cricket is more than just a sport in India; it's a passion that unites millions of people. Similarly, food holds a special place in people's hearts, especially when it comes to enjoying snacks while watching a thrilling cricket match. Recognizing this intersection, Zomato saw an opportunity to combine the two and create an immersive experience for users during the Cricket World Cup.</p>
                 <p class="blog-body-text">Zomato's Cricket World Cup 2023 campaign was a masterclass in leveraging gamification to enhance user engagement. The company partnered with Roanuz Sports Data, a leading provider of sports-related data and analytics, to integrate real-time cricket updates and statistics into their app. Users were not only able to track live scores and match updates but also participate in cricket-themed challenges and games while placing their food orders.</p>
 
@@ -64,10 +64,10 @@
                     <img src="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/ree.webp" alt="ree" />
                 </div>
 
-                <h4 class="blog-body-title">What is Gamification?</h4>
+                <h2 class="blog-body-title">What is Gamification?</h2>
                 <p class="blog-body-text"><a href="<?php echo $path; ?>blogs/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline" target="_blank">Gamification</a> has become a popular strategy for businesses to increase user engagement and loyalty. By incorporating game-like elements such as challenges, rewards, and competitions into their platform, companies can make mundane tasks more enjoyable and rewarding. Zomato took this concept and applied it to their food delivery platform, turning ordering meals into a fun and interactive experience.</p>
 
-                <h4 class="blog-body-title">Execution and Role of Roanuz Sports Data</h4>
+                <h2 class="blog-body-title">Execution and Role of Roanuz Sports Data</h2>
                 <p class="blog-body-text">Zomato showcased its innovative approach to engaging users by adding cricket-themed gamification into its platform:</p>
                 <ul>
                     <li><strong>Cricket Section Highlights:</strong> Zomato's app featured a dedicated section highlighting ongoing matches and upcoming fixtures during the Cricket World Cup.</li>
@@ -81,7 +81,7 @@
                     <p class="blog-quote-text">The partnership with Roanuz Sports Data allowed us to create a truly immersive experience for cricket fans, bringing real-time match updates and statistics directly to their fingertips.<br>- Priyanka Sahay, Head of Marketing at Zomato</p>
                 </div>
 
-                <h4 class="blog-body-title">Results</h4>
+                <h2 class="blog-body-title">Results</h2>
                 <p class="blog-body-text">Zomato's Cricket World Cup 2023 campaign marked a significant success, setting a new benchmark for engagement in the food tech industry.</p>
                 <p class="blog-body-text"><strong>1. Active Users and Engagement:</strong> Zomato's gamified experience during the Cricket World Cup 2023 attracted millions of active users. According to a report by <a href="https://www.businessinsider.in/business/startups/news/checkout-zomato-top-executives-salaries-including-co-founder-and-ceo-deepinder-goyal/slidelist/82289352.cms" target="_blank"> Business Insider India</a>, Zomato's CEO Deepinder Goyal stated that the campaign saw "tens of millions of users actively participate in the gamified experience."</p>
                 <p class="blog-body-text"><strong>2. Initial Success During IPL Season:</strong> The feature's success was evident during its initial launch in the 2019 IPL season. According to the statistics reported by the Economic Times, within a week of its introduction, it garnered over 120,000 active users and generated more than 4 million predictions in just three weeks.</p>
@@ -92,7 +92,7 @@
                     <img src="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/ree.webp" alt="ree" />
                 </div>
 
-                <h4 class="blog-body-title">Conclusion</h4>" target="_blank">UI UX design services</a> that will help market your product better, thereby contributing significantly to business growth.</p>
+                <h2 class="blog-body-title">Conclusion</h2>" target="_blank">UI UX design services</a> that will help market your product better, thereby contributing significantly to business growth.</p>
 
                 <p class="blog-body-text">Retaining users is one of the greatest challenges faced by businesses but Zomato's gamification efforts during the Cricket World Cup 2023 showcased the potential of merging sports, technology, and food delivery. As businesses increasingly realize the crucial role of user experience in driving success, collaborating with UX design agencies like <a href="https://www.neointeraction.com/" target="_blank"> Neointeraction Design</a> become indispensable in shaping the future of customer engagement and loyalty in online commerce. Neointeraction Design brings a creative touch to digital platforms, seamlessly integrating top-notch <a href="https://www.neointeraction.com/ui-ux-design-developer-services-company-bangalore
                 <?php 

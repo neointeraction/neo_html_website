@@ -71,9 +71,9 @@
 
 
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Benefits of Investing in Quality Design for Your Business
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/investing-in-ux.webp"
@@ -197,7 +197,7 @@
                     </p>
                 </div>
 
-                <h4 class="blog-body-title">Investing in Good UI UX Design Pays Off</h4>
+                <h2 class="blog-body-title">Investing in Good UI UX Design Pays Off</h2>
 
                 <p class="blog-body-text">
                     The success of your business depends on making the right design choices. Investing in quality design
@@ -210,7 +210,7 @@
 
                 </p>
 
-                <h4 class="blog-body-title">What do businesses lose by underfunding design?</h4>
+                <h2 class="blog-body-title">What do businesses lose by underfunding design?</h2>
 
 
                 <p class="blog-body-text">
@@ -226,7 +226,7 @@
 
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     A smooth and effortless user experience with the product is a must if you want to attract users.

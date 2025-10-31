@@ -65,9 +65,9 @@
                     <p class="blog-quote-text">We must empower patients and providers with personalized knowledge when and where they need it. Digital health is the best vehicle for this. - Dr. Eric Topol, Cardiologist, Geneticist, and Digital Health Pioneer</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     2. Why are UXUI Principles Important in Digital Therapeutics?
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/healthcare-personalization.webp" alt="Healthcare personalization
@@ -98,9 +98,9 @@
 
                
               
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     3. User-Centered Design
-                </h4>
+                </h2>
                 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/personalisation-in-health-care.webp" alt="Personalisation in health care
@@ -127,9 +127,9 @@
                     A continuous feedback loop allows designers to gather feedback from patients and make ongoing improvements to the DTx solution. This ensures that the application remains relevant.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     4. Intuitive Navigation
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>4.1 Simplified Interface</b><br>
@@ -152,9 +152,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     5. Personalization
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>5.1 Tailored Content and Recommendations</b><br>
@@ -179,7 +179,7 @@
 
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     With the combination of AI with effective UX UI design and customization, DTx solutions can be transformed for the improvement of patient outcomes and overall healthcare experience. Neointeraction Design is a leading <a href="<?php echo $path; ?>" target="_blank">UI UX design company in India </a>that contributes to the creation of innovative and user-centred healthcare solutions. Our team of experts can help you develop DTx applications which deliver exceptional patient experiences and improve health outcomes. 

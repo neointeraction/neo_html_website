@@ -69,9 +69,9 @@
                     delves into how diverse inclusive UX design can lead to success by impacting market reach, user
                     engagement, innovation, and global market success.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Definition and Significance of Inclusive User Experience Design
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Inclusive UX design aims to create user experiences that everyone, including people with
@@ -88,9 +88,9 @@
                         - Elise Roy, TedTalk.</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Power of Diversity in UX
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>Broaden Market Reach</b><br /> Inclusive UX design enables businesses to expand their reach by
@@ -118,7 +118,7 @@
                     solutions and the development of innovative products that appeal to a broader range of people.
                 </p>
 
-                <h4 class="blog-body-title">Building for Everyone: Inclusive UX Practices</h4>
+                <h2 class="blog-body-title">Building for Everyone: Inclusive UX Practices</h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/ux-inclusive-design.webp" alt=" UX inclusive design" />
@@ -151,7 +151,7 @@
                     inclusive and meet users' changing needs.
                 </p>
 
-                <h4 class="blog-body-title">Examples of Successful Inclusive UX</h4>
+                <h2 class="blog-body-title">Examples of Successful Inclusive UX</h2>
 
                 <p class="blog-body-text">
                     <b>Microsoft</b><br /> Microsoft's commitment to inclusive design is shown through the development
@@ -189,7 +189,7 @@
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/google.webp" alt="Google" />
                 </div>
 
-                <h4 class="blog-body-title">Overcoming Challenges</h4>
+                <h2 class="blog-body-title">Overcoming Challenges</h2>
 
                 <p class="blog-body-text">
                     Creating a user experience design that is inclusive may be difficult due to constraints like
@@ -201,7 +201,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     Inclusive UX design has a positive impact on both users and businesses. By embracing diversity and

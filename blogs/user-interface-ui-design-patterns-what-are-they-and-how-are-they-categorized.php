@@ -64,9 +64,9 @@
                     </p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Types of Layout Patterns
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     User Interface design patterns are repeating solutions to prevalent challenges in design. Designers can communicate using design patterns as a shared language. They allow for discussion of alternatives, where simply mentioning the name of a design pattern has far more weight than just the name.
@@ -164,7 +164,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Salient Points</h4>
+                <h2 class="blog-body-title">Salient Points</h2>
 
                 <p class="blog-body-text">
                     <ul>

@@ -58,9 +58,9 @@
 
 As the webinar unfolded, it transformed into a treasure trove of insights, giving practical tips and strategies to make UI/UX portfolios better that went beyond the basics.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Now, let's talk about the important things we learned from this helpful session:
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/what-is-a-design-portfolio.webp" alt="what is a design portfolio" />
                 </div>
@@ -94,7 +94,7 @@ As the webinar unfolded, it transformed into a treasure trove of insights, givin
            
                
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                 In conclusion, our exploration into the world of portfolio building revealed that a strong portfolio acts as a key to success in the competitive design field. It goes beyond being a simple showcase of projects; it is a visual story that speaks volumes about a designer's skills and creativity. Building on this, we've also crafted a useful <a href="https://www.neointeraction.com/downloads" target="_blank">UX UI portfolio resources</a> sheet to support designers in showcasing their talents.

@@ -58,15 +58,15 @@
                     <div class="quote-icon"></div>
                     <p class="blog-quote-text">Every business should be obsessed with delivering a fantastic user experience because the customer always finds the path of least resistance. - <b>Brad Rencher</b></p>
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Case Study on Hubspot’s Digital Transformation
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 <a href="https://www.hubspot.com/" target="_blank">HubSpot</a> has been a go-to solution for businesses looking to grow online offering a bunch of helpful tools all in one place. It helps businesses attract, engage, and satisfy customers by aligning various aspects of their operations, from CRM to marketing automation and analytics. In this case study we will examine how UI UX design was pivotal in transforming a business, leading to substantial growth over the years. Given HubSpot's vast user base, nearly 10 million monthly visitors, and annual revenue exceeding $270 million, the primary challenge was enhancing the website's global user-friendliness by incorporating user feedback worldwide.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Hubspot’s Goals and Expectations
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 <b>Improving User Experience</b><br>
                 Enhance consistency and optimizing navigation to achieve a seamless user experience.
@@ -86,9 +86,9 @@
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/ree.webp" alt="ree" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 What are the UI UX Changes HubSpot implemented?
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 <b>User Feedback</b><br>
                 HubSpot welcomed user feedback with a positive attitude, acknowledging existing confusion in user flows. Despite the critique being direct, the company actively sought ways to improve the user experience, setting the stage for positive changes.
@@ -115,9 +115,9 @@
                 </div>
                 HubSpot's research highlighted that over 50% of users prefer learning through videos. This insight led to strategically placing video calls-to-action after the Minimum Viable Product (MVP) launch, resulting in a notable 300% increase in conversions. Aligning design with user preferences played a pivotal role in this success.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Outcomes
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/ree.webp" alt="ree" />
                 </div>
@@ -131,7 +131,7 @@
                     <li>Sales chat volume and inbound call volume experienced substantial increases, pointing to heightened user engagement.</li>
                     <li>A notable 27% rise in product signups contributed to increased revenue and improved user retention.</li>
                 </ul>
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
                 <p class="blog-body-text">
                 HubSpot's <a href="<?php echo $path; ?>blogs/what-is-digital-transformation-and-why-is-ux-design-important-in-it" target="_blank">UI UX transformation</a> illustrates the positive outcomes of prioritizing user experience through clear goals, iterative improvements, and data-driven insights, resulting in improved engagement, conversions, and overall business success. This case study underscores the value of a strategic and user-centric approach in UI UX design. In the dynamic field of digital product design, UI UX designers play a vital role in driving business success. <a href="<?php echo $path; ?>" target="_blank">Neointeraction Design</a>, with nearly 15 years of experience, is a leading UI UX design company in Bangalore, partnering with various B2B enterprises, B2C companies, and startups. Their focus on UI UX fundamentals consistently guides businesses toward success by enhancing applications, engaging users, and ensuring lasting satisfaction and loyalty.
                 </p>

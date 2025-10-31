@@ -74,9 +74,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/takeaways-from-our-1-day/micro-frontend-architecture-workshop.webp"
                         alt="micro frontend architecture workshop" />
                 </div>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What is Micro Frontend Architecture?
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Micro Frontend Architecture involves breaking down monolithic frontend applications into smaller,
@@ -91,9 +91,9 @@
                         alt="frontend development workshop" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Benefits Micro Frontend Architecture (MFA)
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     MFA offers several advantages in web development, including modularity and flexibility, which are
@@ -112,9 +112,9 @@
                         faster innovation and enhanced user experiences.- Jane Smith</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Comparing monolithic and MFA architectures
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     While monolithic apps can become challenging to scale as they grow, MFA allows for granular
@@ -124,9 +124,9 @@
                     development processes.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Case Study & Live Implementation of MFA
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     During the workshop, a <a

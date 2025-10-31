@@ -68,9 +68,9 @@
                     monetization.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Unveiling Twitter Blue: A Strategic Shift
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/the-rise-of-twitter/ree.webp" alt="ree" />
@@ -112,9 +112,9 @@
                     diversify revenue streams and reduce dependency on the inherently unpredictable advertising market.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Pros and Cons of Twitter Blue: Navigating the Challenges
-                </h4>
+                </h2>
 
 
                 <p class="blog-body-text">
@@ -161,9 +161,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     User Experience in the Spotlight: A UI UX Analysis
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/the-rise-of-twitter/ree.webp" alt="ree" />
@@ -224,9 +224,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 The Future of Social Media Monetization: A Paradigm Shift
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 Twitter Blue's launch of a subscription model is likely to have a significant impact on the social media landscape. Platforms can be expected to explore similar paths, potentially leading to a future with a mix of advertising, subscription fees, and other revenue streams. This shift reflects a desire for more sustainable business models, reducing dependence on the ever-changing world of advertising.
@@ -245,7 +245,7 @@
 
 
 
-                <h4 class="blog-body-title">Conclusion: Navigating the Crossroads</h4>
+                <h2 class="blog-body-title">Conclusion: Navigating the Crossroads</h2>
 
                 <p class="blog-body-text">
                     In conclusion, Twitter Blue represents a pivotal moment in social media monetization, poised to

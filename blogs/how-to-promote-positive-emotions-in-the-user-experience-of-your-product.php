@@ -56,9 +56,9 @@
                 <p class="blog-body-text">
                     One common mistake for designers would be to just consider producing designs that depict the ideal state of a user interface. It is easy to design when everything is packed with well-formatted content. However, problems can develop if a design is created without considering the numerous varied scenarios that each user may confront. So, we as designers must pay attention to different user scenarios examples!
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     User Scenario Examples in UX
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/ux-scenario-example.webp" alt="ux scenario example" />
                 </div>
@@ -77,9 +77,9 @@
                     <p class="blog-quote-text">User story mapping is a facilitated, curated conversation that brings everyone along for the journey. - Nick Muldoon, Co-CEO Easy Agile</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Benefits of User Scenario
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <ul>
@@ -108,9 +108,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What is Negative and First-time Scenario?
-                </h4>
+                </h2>
                 
 
                 <p class="blog-body-text">
@@ -175,7 +175,7 @@
                     </ul>
                 </p>
 
-                <h4 class="blog-body-title">Why is it Important to Design Negative and First-time Scenarios?</h4>
+                <h2 class="blog-body-title">Why is it Important to Design Negative and First-time Scenarios?</h2>
 
                 <p class="blog-body-text">
                     Good UI UX Design can help us increase customer satisfaction, and encourage product engagement. <a href="<?php echo $path; ?>blogs/how-a-ux-design-partner-can-benefit-your-company" target="_blank">Why does your Business need Good UX Design?</a> Good UX design means thinking like a user and offering a clear path to assist the user in achieving their goals when interacting with the product. That is something we made sure we achieved while we worked closely with one of Neointeraction’s <a href="<?php echo $path; ?>internet-banking-ux" target="_blank">Middle East Clients</a>.
@@ -189,7 +189,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Takeaway</h4>
+                <h2 class="blog-body-title">Takeaway</h2>
 
                 <p class="blog-body-text">
                     It's easy to overlook the states in a UX design because they occur frequently and aren't always known well understood, however, the benefits of these inclusions are understated because they enhance user experience. Hire <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">ui ux developer</a> from Neointeraction Design team to help create a more cohesive product experience.

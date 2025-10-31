@@ -56,7 +56,7 @@
     <p class="blog-body-text">We've been hearing a lot about digital transformation and digital transformation strategy lately, but what exactly is it? Digital transformation definition can be given as the integration of digital technology into all aspects of a business. This process finally raises the fundamental structure of operation in order to add the most value to customer needs. It's also a cultural shift that necessitates firms constantly challenge the status quo, experiment, and become comfortable with failure. According to studies, the global market for digital transformation would increase at a compound annual growth rate (CAGR) of 16.5% from $469.8 billion in 2020 to $1,009.8 billion by 2025. (Research & Markets, 2020).</p>
     <p class="blog-body-text">While most traditional companies are striving to remain relevant in the new reality, only some of them understand how to do digital transformation right and what changes it triggers. One of the main mistakes organizations often make is to pay too much attention to technologies while underestimating the role of user experience.</p>
     <p class="blog-body-text">In this article, we’ll explain why focusing on UX design is crucial for receiving positive results from digital transformation.</p>
-    <h4 class="blog-body-title">The significance of UX design in digital transformation</h4>
+    <h2 class="blog-body-title">The significance of UX design in digital transformation</h2>
     <div class="blog-banner-img">
         <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/significance-of-ux-design-in-digital-transformation.webp" alt="significance of UX design in digital transformation" />
     </div>
@@ -69,7 +69,7 @@
     <div class="blog-quote-block">
         <p class="blog-quote-text">Every digital transformation is going to begin and end with the customer - Marc Benioff | Chairman and Co-CEO, Salesforce</p>
     </div>
-    <h4 class="blog-body-title">Benefits of Ux design for your business</h4>
+    <h2 class="blog-body-title">Benefits of Ux design for your business</h2>
     <div class="blog-banner-img">
         <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/benefits-of-ux-design.webp" alt="Benefits of Ux design" />
     </div>
@@ -79,9 +79,9 @@
     <p class="blog-body-text"><b>- Customer loyalty and satisfaction are high.</b> Customer satisfaction will rise as a result of a good user experience.</p>
     <p class="blog-body-text"><b>- Support at a lower cost</b> If you have a decent design in place, you won't need to invest in support.</p>
     <p class="blog-body-text"><b>- Employees who are happier</b> Your staff will be happier if you have a good design. They look forward to working with you.</p>
-    <h4 class="blog-body-title">Digital Transformation projects at Neointeraction Design</h4>
+    <h2 class="blog-body-title">Digital Transformation projects at Neointeraction Design</h2>
     <p class="blog-body-text">One of our recent digital transformation model can be seen in our project with Intertrust Group. A completely new Design System was implemented across various digital products across various departments. We believe that a unified design grammar can impact business efficiency directly. Are you looking to transform your business? Hire UI designers & UX developers from Neointeraction Design team to help your business prosper.</p>
-    <h4 class="blog-body-title">Salient Points</h4>
+    <h2 class="blog-body-title">Salient Points</h2>
     <div class="blog-banner-img">
         <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/integration-of-digital-technology.webp" alt="integration of digital technology" />
     </div>

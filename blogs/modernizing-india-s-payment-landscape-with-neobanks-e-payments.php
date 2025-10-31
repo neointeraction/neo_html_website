@@ -61,9 +61,9 @@
                     that doesn't need any physical branches or infrastructure from traditional banks. Neobanks, also called digital banks, are financial institutions that leverage
                     technology to provide their clients with a variety of banking services, such as account opening, payments, transfers, loans, and other financial products.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     How Neobanks are Transforming Banking for Two Important Demographics :The Millennials and SMEs
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Neobanks are currently focused on either Millennials or SME segments. Millennials are people born between the early 1980s and the mid-1990s. They are frequently
@@ -81,9 +81,9 @@
                         to design, eliminating friction and making financial transactions more intuitive and accessible.<strong> - Jitin Bhasin, Founder of RupeeCircle</strong></p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     What distinguishes neo banking from traditional Banking?
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Neobanking and traditional banking can offer quite distinct user experiences. With features like quick account opening, real-time notifications, and customized
@@ -120,9 +120,9 @@
                     Neobanking is likely to grow in popularity and disrupt the traditional banking industry as more consumers embrace digital banking. </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The role of UI UX design in neo and electronic payment
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Neobanking and digital payments are intimately related to ui ux design for successful digital banking services that depend on an effective user interface and a
@@ -134,9 +134,9 @@
                         href="https://www.neointeraction.com/" target="_blank">UX/UI design services</a>. If you or
                     your business is in need of guidance, reach out to the UI/UX design team at <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a>.
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The Revolutionary Technologies Driving the Future of Neobanking in India
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/future-neobanking.webp" alt="future neobanking" />
@@ -174,7 +174,7 @@
                     neo banks are the future of electronic payments in India due to their promise of accessibility, affordability, innovation, and financial inclusion.
                 </p>
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     Neobanks have emerged as a promising alternative to traditional banks in India, with a focus on leveraging technology to provide innovative and customer-centric

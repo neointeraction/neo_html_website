@@ -72,9 +72,9 @@
                     created as custom templates for future use. Delve into the diverse categories of templates, shedding
                     light on how they can streamline processes for businesses and designers.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Types of design templates
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     <b>Web Design Templates</b> are <a href="<?php echo $path; ?>blogs/advantages-and-disadvantages-of-website-templates" target="_blank">pre-designed layouts for websites</a>, streamlining the creation of
@@ -94,9 +94,9 @@
 
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Advantages of using design templates
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 <ul>
@@ -127,9 +127,9 @@
                 </p>
 
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Disadvantages of using design templates
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                 <ul>
@@ -160,9 +160,9 @@
                     heavily rely on templates without applying their creativity, their designs may lack a strong impact.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Use of templates
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     The current adoption of templates has surged to <a href="https://cxl.com/blog/website-templates/" target="_blank">remarkable levels</a>, with platforms like ThemeForest
@@ -172,9 +172,9 @@
                     the widespread use of templates for design.
                 </p>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     How can designers bring in originality while using design templates?
-                </h4>
+                </h2>
 
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>
@@ -225,7 +225,7 @@
                 </p>
 
 
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     Ultimately, the decision to incorporate design templates revolves around the specific needs of a

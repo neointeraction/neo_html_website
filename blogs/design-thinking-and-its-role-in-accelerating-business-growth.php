@@ -72,9 +72,9 @@
                     human-centered approach that combines collaborative, interdisciplinary processes to create valuable
                     solutions that match user needs and market opportunities.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     Key Elements of Design Thinking for Business Growth
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Design Thinking is a powerful tool for fostering innovation in a business. Here's how it does so:
@@ -120,7 +120,7 @@
                     <p class="blog-quote-text">Innovation distinguishes between a leader and a follower - Steve Jobs</p>
                 </div>
 
-                <h4 class="blog-body-title">Impact of Design Thinking on Business Growth</h4>
+                <h2 class="blog-body-title">Impact of Design Thinking on Business Growth</h2>
 
                 <p class="blog-body-text">
                     Here are some direct impacts of design thinking on business growth:
@@ -160,7 +160,7 @@
                     job satisfaction and productivity tend to rise. Happy and motivated employees can contribute
                     significantly to a business's growth.
                 </p>
-                <h4 class="blog-body-title">Real-World Examples of Design Thinking</h4>
+                <h2 class="blog-body-title">Real-World Examples of Design Thinking</h2>
 
                 <p class="blog-body-text">
                     Wonder how Airbnb became a global giant? The secret lies in Design Thinking .By embracing the design
@@ -191,7 +191,7 @@
                     personalized experiences, and hosts found a platform to participate in the hospitality industry.
                     Airbnb fostered global cultural exchange, bringing people closer together.
                 </p>
-                <h4 class="blog-body-title">Conclusion</h4>
+                <h2 class="blog-body-title">Conclusion</h2>
 
                 <p class="blog-body-text">
                     When companies prioritize Design Thinking , they prioritize understanding their customers,

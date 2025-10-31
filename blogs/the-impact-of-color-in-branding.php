@@ -59,9 +59,9 @@
 
                     Color can't be generally associated with any specific set of emotions since it depends too much on individual experiences. According to research, personal tastes, experiences, upbringings, cultural variations, and environment, all muddle the effect that individual colors have on us.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     How color would symbolize the action in a product?
-                </h4>
+                </h2>
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/symbolize-color.webp" alt="symbolize color" />
                 </div>
@@ -87,9 +87,9 @@
                     <p class="blog-quote-text">Color does not add a pleasant quality to design - it reinforces it. - Pierre Bonnard</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     How to choose color based on your product?
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     Consumers give greater consideration to how well a color matches a product than to the color itself. It is important to select colors that reflect the company's identity while picking the color palette. Researching the typical color preferences of your competitors is also crucial. Designers must also pay attention to the usability and accessibility of the color. Thoughtful color choices can not only attract users to the product but also help distinguish them from its competitors. If you are looking for <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">the best ui ux design agency</a> for your next product launch, let’s get in touch. Know how our <a href="https://www.neointeraction.com/ui-ux-design-services" target="_blank">product design system</a> will help overcome your ux design challenges you might have.
@@ -99,9 +99,9 @@
                     <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/color-choice-for-product.webp" alt="color choice for product" />
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                     The impact of colour on your product
-                </h4>
+                </h2>
 
                 <p class="blog-body-text">
                     The choice of colors for a corporation should effectively communicate its message. It is critical to determine whether it serves a specific purpose or idea. The target demographic must be identified to select the color that is best for a firm. There are occasions when firms decide on a color that does not accurately represent their image and pursue rebranding. This can be observed in the <a href="https://www.thebrandingjournal.com/2014/07/airbnbs-consistent-rebrand-focuses-sense-belonging-community/" target="_blank">rebranding of Airbnb</a>. The Airbnb logo was rebranded from blue to its current-signature red. This was done because the firm believed that the color blue might give users a cold or corporate impression. As a result, a vibrant red was chosen to create a warm and welcoming atmosphere. This proved to be a success, and the rebranding aided the platform's growth.
@@ -123,7 +123,7 @@
 
                 </p>
 
-                <h4 class="blog-body-title">Takeaway</h4>
+                <h2 class="blog-body-title">Takeaway</h2>
 
                 <p class="blog-body-text">
                     Despite the complexity of color theory, learning the fundamentals isn't very difficult. Designers can then expand their skills to produce more intricate and diverse color palettes for their designs. Select colors that convey your brand's values or the emotions you want clients to experience when exploring your online store.

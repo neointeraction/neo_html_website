@@ -56,9 +56,9 @@
                 <p class="blog-body-text">
                     The Indian economy has been going through a <a href="https://timesofindia.indiatimes.com/blogs/voices/digital-transformation-in-the-indian-financial-sector/" target="_blank">rapid transformation</a> in recent years, and the banking sector is at the forefront of this growth. With the increasing demand for digital financial services, the traditional banking system has been challenged to keep up with the pace of technological advancements. This has resulted in the emergence of neobanking solutions, which are digital-first and technology-driven, and offer innovative financial services that cater to the needs of modern customers. However, despite their potential to revolutionize the banking industry, neobanking solutions are yet to reach their full potential in India. This can be attributed to a number of factors, including a lack of awareness and understanding of these solutions, as well as limited accessibility to these services. In order to maximize the potential of neobanking solutions in India, it is crucial to redefine these services and make them more accessible to a wider audience. In this blog, we will explore the need for redefining neobanking solutions in the Indian economy and the role of user interface and user experience design in this transformation.
                 </p>
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Need for redefining neobanking solutions
-                </h4>
+                </h2>
                 <p class="blog-body-text">
                 There is a growing need to redefine neobanking solutions to meet the changing needs of customers. Here are a few reasons why:
                 </p>
@@ -84,9 +84,9 @@
                     <p class="blog-quote-text">TDesign isn't just about aesthetics, it's about creating solutions for people's problems. - Sahil Lavingia</p>
                 </div>
 
-                <h4 class="blog-body-title">
+                <h2 class="blog-body-title">
                 Crucial strategies to redefine Neobanking solutions
-                </h4>
+                </h2>
 
                 <div class="blog-banner-img">
                     <img src="<?php echo $path; ?>assets/images/blog/neobanking-and-the-need/ux-redesign-banking-app.webp" alt="ux redesign banking app" />
@@ -111,7 +111,7 @@
                </p>
 
 
-                <h4 class="blog-body-title">Takeaway</h4>
+                <h2 class="blog-body-title">Takeaway</h2>
 
                 <p class="blog-body-text">
                     In conclusion, to create a successful Neobanking solution, it is important to understand the needs and preferences of customers and design a user-friendly interface that provides access to a wide range of financial services while also ensuring the necessary security and trust. 
