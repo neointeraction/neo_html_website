@@ -180,10 +180,11 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <iframe class="video-iframe" height="280" src="https://www.youtube.com/embed/ag_Y_vApTp8?si=LDc4iJk334QIn4JA"
+                                    <!-- <iframe class="video-iframe" height="280" src="https://www.youtube.com/embed/ag_Y_vApTp8?si=LDc4iJk334QIn4JA"
                                         title="YouTube video player" 
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;width:100%;border:0;"></iframe>
+                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;width:100%;border:0;"></iframe> -->
+                                    <div class="youtube-lazy-load youtube-lazy-load-mfa" data-id="ag_Y_vApTp8?si=LDc4iJk334QIn4JA"></div>
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content" style="margin-bottom:7px">
                                     <h2 class="project-title">
@@ -207,10 +208,11 @@
                         <div class="col-12">
                             <div class="project-card d-lg-flex">
                                 <div class="col-lg-6 p-0 project-image-container">
-                                    <iframe class="video-iframe" height="290" src="https://www.youtube.com/embed/6Y12RcoHwc4?si=y75cMFm8oaaivTfb"
+                                    <!-- <iframe class="video-iframe" height="290" src="https://www.youtube.com/embed/6Y12RcoHwc4?si=y75cMFm8oaaivTfb"
                                         title="YouTube video player"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;width:100%;border:0;"></iframe>
+                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 0;width:100%;border:0;"></iframe> -->
+                                    <div class="youtube-lazy-load youtube-lazy-load-ux-design" data-id="6Y12RcoHwc4?si=y75cMFm8oaaivTfb"></div>
                                 </div>
                                 <div class="col-lg-6 d-flex flex-column justify-content-center project-content" style="margin-bottom:7px">
                                     <h2 class="project-title">
@@ -279,6 +281,71 @@
     <?php include $path . 'includes/js.php'; ?>
     <?php include $path . 'components/event-registration-modal.php'; ?>
     <script src="<?php echo $path; ?>assets/js/events.js" defer></script>
+    <style>
+    .youtube-lazy-load-mfa {
+        background-image: url(./assets/images/youtube/mfa.webp) !important;
+    }
+    .youtube-lazy-load-ux-design {
+        background-image: url(./assets/images/youtube/ux-workshop.webp) !important;
+    }
+    .youtube-lazy-load-mfa, .youtube-lazy-load-ux-design{
+        width: 100%;
+        padding-bottom: 50.2%;
+        background-size: cover;
+        background-position: center;
+    }
+    @media (max-width: 768px) {
+            .youtube-lazy-load-mfa {
+                background-image: url(./assets/images/youtube/mfa-mobile.webp) !important;
+            }
+            .youtube-lazy-load-ux-design {
+                background-image: url(./assets/images/youtube/ux-workshop-mobile.webp) !important;
+            }
+    }
+    </style>
+    <script>
+document.addEventListener("DOMContentLoaded", function() {
+    var lazyVideos = [].slice.call(document.querySelectorAll(".youtube-lazy-load"));
+
+    lazyVideos.forEach(function(video) {
+        // Set the thumbnail image from YouTube
+        var videoId = video.getAttribute("data-id");
+        video.style.backgroundImage = 'url(https://i.ytimg.com/vi/' + videoId + '/hqdefault.jpg)';
+
+        // Add a click event listener
+        video.addEventListener("click", function() {
+        var iframe = document.createElement("iframe");
+        iframe.setAttribute("frameborder", "0");
+        iframe.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture");
+        iframe.setAttribute("allowfullscreen", "");
+        if (window.innerWidth < 768) {
+            iframe.setAttribute("height", "280"); // smaller height for mobile
+        } else {
+            iframe.setAttribute("height", "325"); // default height for larger screens
+        }
+        iframe.setAttribute("style", "width:100%;");
+        // Add autoplay=1 to start playing immediately on click
+        iframe.setAttribute("src", "https://www.youtube.com/embed/" + videoId + "?rel=0&showinfo=0&autoplay=1&rel=0");
+
+        // Replace the div with the iframe
+        this.parentNode.replaceChild(iframe, this);
+        });
+    });
+});
+
+function setIframeHeight() {
+  if (window.innerWidth < 768) {
+    iframe.setAttribute("height", "280");
+  } else {
+    iframe.setAttribute("height", "325");
+  }
+}
+
+setIframeHeight(); // run on load
+window.addEventListener("resize", setIframeHeight); // run on resize
+
+
+    </script>
 </body>
 
 </html>
