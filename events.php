@@ -93,7 +93,7 @@
         $title = 'Register for future events'; 
         $desc = 'Don’t miss out—register now before seats fill up. Early registrants get priority access and event updates.';
         $buttonName = 'Register for future events';
-        $imageLink = "assets/images/event/events-register.webp";
+        $imageLink = "assets/images/events/events-register.webp";
         $imageAlt = "Register for future events";
         include $path . 'components/hire-designers-engineers.php'; 
     ?>

@@ -9,7 +9,7 @@
 
     <title>Join our Design and Technology team | Neointeraction Design</title>
     <meta name="description"
-        content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
+        content="Build a design and technology career with Neointeraction Design team. Join as UX Designer,  UI Designer, Front-end developer, Intern to be a part of a global team" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="https://www.neointeraction.com/blog" />
     <meta property="og:title" content="Join our Design and Technology team |  Neointeraction Design" />
