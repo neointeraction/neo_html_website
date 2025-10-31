@@ -3,39 +3,42 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function updateImageSources() {
         const isMobile = window.innerWidth < mobileBreakpoint;
-        const images = document.querySelectorAll('img');
+        // Only select images with the 'responsive-image' class
+        const images = document.querySelectorAll('img.responsive-image');
 
         images.forEach(img => {
-            // Use a data attribute to store the original desktop source
             if (!img.dataset.desktopSrc) {
                 img.dataset.desktopSrc = img.src;
             }
 
             const desktopSrc = img.dataset.desktopSrc;
-            if (!desktopSrc) return; // Skip if no original source is set
+            if (!desktopSrc || !desktopSrc.includes('assets/images/')) {
+                return; // Skip if no original source or not a target image
+            }
 
-            const isDesktopPath = desktopSrc.includes('assets/images/');
-            
-            if (isMobile && isDesktopPath) {
-                // Switch to mobile image
-                const mobileSrc = desktopSrc.replace('assets/images/', 'assets/images-mobile/');
-                if (img.src !== mobileSrc) {
-                    img.src = mobileSrc;
-                }
-            } else if (!isMobile) {
-                // Switch back to desktop image
+            const mobileSrc = desktopSrc.replace('assets/images/', 'assets/images-mobile/');
+
+            if (isMobile) {
+                // Check if mobile image exists before setting it
+                const mobileImage = new Image();
+                mobileImage.src = mobileSrc;
+                mobileImage.onload = () => {
+                    if (img.src !== mobileSrc) {
+                        img.src = mobileSrc;
+                    }
+                };
+                mobileImage.onerror = () => {
+                    // If mobile image fails, ensure it's set to desktop
+                    if (img.src !== desktopSrc) {
+                        img.src = desktopSrc;
+                    }
+                };
+            } else {
+                // Revert to desktop image on larger screens
                 if (img.src !== desktopSrc) {
                     img.src = desktopSrc;
                 }
             }
-
-            // Add error handling to revert to desktop image if mobile image fails to load
-            img.onerror = () => {
-                if (img.src !== desktopSrc) {
-                    img.src = desktopSrc;
-                }
-                img.onerror = null; // Prevent infinite loop if desktop image also fails
-            };
         });
     }
 
