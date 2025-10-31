@@ -90,7 +90,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h4 class="project-section-title">Overview </h4>
+                        <h2 class="project-section-title">Overview </h2>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
@@ -106,12 +106,12 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4 class="project-section-title">Objective </h4>
+                            <h2 class="project-section-title">Objective </h2>
                             <p class="project-body-text">The goal was to design a seamless, user-friendly website for
                             The primary goal of this User Experience Design project was to enhance usability and efficiency for construction professionals. The platform required an intuitive User Interface Design to help users configure projects, manage dependencies, and optimize schedules. A key challenge was designing a system that simplifies complex workflows while ensuring project managers and engineers can easily navigate and manage tasks.</p>
                         </div>
                         <div class="col-md-6">
-                            <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+                            <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
                             <p class="project-body-text">One of the biggest challenges was designing an intuitive UX research-backed solution for users with varying technical expertise. The platform needed a balance between manual control and automation to streamline project structuring, scheduling, and dependencies. The existing solutions lacked a seamless Wireframing and Prototyping approach, making it difficult for users to visualize project phases. Additionally, Visual Design inconsistencies in dashboards led to usability issues, requiring a UI Design overhaul for clarity and efficiency.
                             </p>
                         </div>
@@ -119,7 +119,7 @@
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Solutions we offered</h4>
+                    <h2 class="project-section-title">Solutions we offered</h2>
                     <p class="project-body-text">Our approach streamlined project scheduling, WBS structuring, and resource management for a seamless construction workflow.</p>
 
 
@@ -128,7 +128,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Enhanced Role-Based Access</h4>
+                                    <h3 class="title">Enhanced Role-Based Access</h3>
                                     <p class="description">
                                     Designed intuitive dashboards tailored for different user roles, ensuring clear task management.
                                     </p>
@@ -137,7 +137,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Optimizing Information Architecture</h4>
+                                    <h3 class="title">Optimizing Information Architecture</h3>
                                     <p class="description">
                                     Reorganized navigation for simplified access to project timelines, resources, and dependencies.
                                     </p>
@@ -146,8 +146,8 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">
-                                    Refined UI & Workflows</h4>
+                                    <h3 class="title">
+                                    Refined UI & Workflows</h3>
                                     <p class="description">
                                     Improved usability, clarity, and engagement with a structured UX Design approach.
                                     </p>
@@ -156,8 +156,8 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">
-                                    Customization for Project Needs</h4>
+                                    <h3 class="title">
+                                    Customization for Project Needs</h3>
                                     <p class="description">
                                     Enabled flexible file integration, supporting both ACC and local file uploads for project configuration.
                                     </p>
@@ -214,7 +214,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Streamlining Project Structuring</h4>
+                                    <h3 class="title">Streamlining Project Structuring</h3>
                                     <p class="description">
                                     We designed a structured WBS and scheduling system, reducing the complexity of project planning and execution.
                                     </p>
@@ -223,7 +223,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Optimizing Information Architecture</h4>
+                                    <h3 class="title">Optimizing Information Architecture</h3>
                                     <p class="description">
                                     By restructuring navigation, we made it easier for users to access project data, schedules, and dependencies with minimal complexity.
                                     </p>
@@ -232,7 +232,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Redesigning the UI & Workflows</h4>
+                                    <h3 class="title">Redesigning the UI & Workflows</h3>
                                     <p class="description">
                                     A refreshed UI Design improved workflows, enhancing usability, clarity, and efficiency for project managers and site engineers.
                                     </p>
@@ -241,7 +241,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Customization for Diverse Project Needs</h4>
+                                    <h3 class="title">Customization for Diverse Project Needs</h3>
                                     <p class="description">
                                     Enabled seamless integration with ACC while allowing local file imports for flexibility in project configurations.
                                     </p>
@@ -254,7 +254,7 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                <h4 class="project-section-title">Final UI </h4>
+                <h2 class="project-section-title">Final UI </h2>
                 <p class="project-body-text">During the Prototyping and development handoff, we provided structured documentation, interactive prototypes, and regular design reviews to ensure seamless implementation. </p>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/construction-management/construction-management-website-ui.webp"

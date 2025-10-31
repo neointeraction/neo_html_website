@@ -82,7 +82,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h4 class="project-section-title">Overview </h4>
+                        <h2 class="project-section-title">Overview </h2>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal" data-title="Book A Consultation">
                             Book A Consultation
                         </button>
@@ -99,12 +99,12 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4 class="project-section-title">Objective </h4>
+                            <h2 class="project-section-title">Objective </h2>
                             <p class="project-body-text">The project focused on identifying areas for UX improvements to
                                 reduce bounce rates, increase returning visitors, and boost overall user engagement.</p>
                         </div>
                         <div class="col-md-6">
-                            <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+                            <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
                             <p class="project-body-text">The UX audit for MEGA We Care’s website faced challenges in
                                 understanding diverse user needs, addressing high bounce rates, and enhancing
                                 engagement. Key focus areas included improving content effectiveness, optimizing site
@@ -117,7 +117,7 @@
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Solutions we offered</h4>
+                    <h2 class="project-section-title">Solutions we offered</h2>
                     <p class="project-body-text">Our UX audit for MEGA We Care resulted in detailed findings and
                         actionable recommendations across four key areas: Heuristic Evaluation, Usability Testing,
                         Website Performance, and Accessibility. Each category provided insights into usability issues
@@ -130,7 +130,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Quick Wins</h4>
+                                    <h3 class="title">Quick Wins</h3>
                                     <p class="description">
                                         Immediate, low-resource improvements focused on resolving critical usability
                                         issues, optimizing navigation, enhancing content clarity, and addressing minor
@@ -141,7 +141,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Strategic Enhancements</h4>
+                                    <h3 class="title">Strategic Enhancements</h3>
                                     <p class="description">
                                         Long-term UX and performance optimizations, including structural website
                                         improvements, refined user flows, enhanced accessibility standards, and
@@ -153,7 +153,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Data-Driven Insights</h4>
+                                    <h3 class="title">Data-Driven Insights</h3>
                                     <p class="description">
                                     We implemented analytics tools to monitor user behavior, providing actionable insights that guided further UX improvements and informed future design decisions.
                                     </p>
@@ -162,7 +162,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Interactive Prototyping</h4>
+                                    <h3 class="title">Interactive Prototyping</h3>
                                     <p class="description">
                                     We created interactive prototypes to test new layouts, navigation flows, and content strategies before implementation, ensuring changes effectively meet user needs.
                                     </p>
@@ -204,7 +204,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Improved User Engagement</h4>
+                                    <h3 class="title">Improved User Engagement</h3>
                                     <p class="description">
                                         By addressing usability issues and optimizing navigation, users could find
                                         relevant information more easily, leading to increased time spent on the site.
@@ -214,7 +214,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Reduced Bounce Rate</h4>
+                                    <h3 class="title">Reduced Bounce Rate</h3>
                                     <p class="description">
                                         Quick wins such as content clarity improvements, better calls-to-action, and
                                         performance optimizations encouraged users to stay longer and explore further.
@@ -224,7 +224,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Enhanced Accessibility & Performance</h4>
+                                    <h3 class="title">Enhanced Accessibility & Performance</h3>
                                     <p class="description">
                                         Ensuring a smoother, faster, and more inclusive experience made the website more
                                         user-friendly across different devices, regions, and levels of digital literacy.
@@ -234,7 +234,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Higher Returning Visitors</h4>
+                                    <h3 class="title">Higher Returning Visitors</h3>
                                     <p class="description">
                                         Strategic enhancements, including refined user flows and personalized content
                                         strategies, made the website more compelling for users to revisit.
@@ -248,7 +248,7 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                <h4 class="project-section-title">Final UI </h4>
+                <h2 class="project-section-title">Final UI </h2>
 
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/digital-experience/mega-we-care-priority-mapping.webp"

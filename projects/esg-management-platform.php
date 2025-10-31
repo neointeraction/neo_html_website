@@ -80,7 +80,7 @@
         <!-- overview-block -->
         <div class="overview-block project-section-padding">
           <div class="title-flex">
-            <h4 class="project-section-title">Overview </h4>
+            <h2 class="project-section-title">Overview </h2>
             <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                 Book A Consultation
             </button>
@@ -96,11 +96,11 @@
         <div class="objective-challenges project-section-padding">
           <div class="row">
             <div class="col-md-6">
-              <h4 class="project-section-title">Objective </h4>
+              <h2 class="project-section-title">Objective </h2>
               <p class="project-body-text">The objective of this UI UX redesign project was to create a cohesive and data-driven experience for managing energy consumption, facility operations, and workspace optimization. The platform needed an intuitive interface to help users monitor operational health, manage incidents and tenants, and streamline scheduling and maintenance tasks. A key challenge was designing dashboards and modules that present complex IoT and AI data clearly, empowering facility managers to make informed decisions through an efficient Energy Management System.</p>
             </div>
             <div class="col-md-6">
-              <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+              <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
               <p class="project-body-text">Our challenges involved addressing pain points from the existing platform, where complex IoT and AI data—such as energy consumption and operational health—were difficult to interpret and act upon. The existing system lacked a clear, centralized ESG dashboard with summaries and quick actions, making decision-making slower. We also faced the challenge of integrating separate modules like Task Management, Equipment Uptime, and Scheduling into a single, seamless platform. Ensuring consistent user interface design, smooth navigation, and usability across diverse user roles was essential to overcome the fragmented and confusing experience of the previous Building Management platform.
               </p>
             </div>
@@ -108,7 +108,7 @@
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
-          <h4 class="project-section-title">Solutions we offered</h4>
+          <h2 class="project-section-title">Solutions we offered</h2>
           <p class="project-body-text">Our approach focused on creating a unified, data-driven ESG platform that simplifies complex operations while delivering clear, actionable insights through User-Centric Design. Some of the solutions we implemented include:</p>
 
           <div class="bs-card-section project-bs-cards">
@@ -116,7 +116,7 @@
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Actionable Dashboards at a Glance</h4>
+                  <h3 class="title">Actionable Dashboards at a Glance</h3>
                   <p class="description">
                   We reimagined the platform’s information architecture to consolidate fragmented modules into a seamless, all-in-one experience.
                   </p>
@@ -125,7 +125,7 @@
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title"> Unified IA through Streamlined UX Design</h4>
+                  <h3 class="title"> Unified IA through Streamlined UX Design</h3>
                   <p class="description">
                   Redesigned the homepage to highlight critical data points enabling users to not only monitor status at a glance but also take immediate actions from the same screen.
                   </p>
@@ -134,7 +134,7 @@
               <!-- Card 3 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title"> Modular Design for Incident and Tenant Management</h4>
+                  <h3 class="title"> Modular Design for Incident and Tenant Management</h3>
                   <p class="description">
                   Adapted existing designs and introduced new layouts for Incident Management and Tenant Management modules to streamline workflows and improve usability.
                   </p>
@@ -143,7 +143,7 @@
               <!-- Card 4 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Intuitive Scheduler and Task Modules </h4>
+                  <h3 class="title">Intuitive Scheduler and Task Modules </h3>
                   <p class="description">
                   Created smooth scheduling and task management screens to help users efficiently plan and track maintenance activities
                   </p>
@@ -196,7 +196,7 @@
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Clarity in Data Interpretation</h4>
+                  <h3 class="title">Clarity in Data Interpretation</h3>
                   <p class="description">
                   Complex IoT and AI outputs—like system status and operational health—were transformed into visually digestible insights, helping teams interpret data without specialized training.
                   </p>
@@ -205,7 +205,7 @@
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Reduced Cognitive Load for Multi-tasking Users</h4>
+                  <h3 class="title">Reduced Cognitive Load for Multi-tasking Users</h3>
                   <p class="description">
                   Users handling multiple workflows—incidents, task, scheduling—could now work across modules without friction or confusion.
                   </p>
@@ -214,7 +214,7 @@
 
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Consistent Interaction Patterns Across Workflows</h4>
+                  <h3 class="title">Consistent Interaction Patterns Across Workflows</h3>
                   <p class="description">
                   Standardized design and interaction patterns across modules made workflows predictable and intuitive, helping users complete tasks faster with fewer errors.
                   </p>
@@ -223,7 +223,7 @@
 
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Customizable Themes for Diverse User Preferences</h4>
+                  <h3 class="title">Customizable Themes for Diverse User Preferences</h3>
                   <p class="description">
                   Implemented different visual themes to accommodate varying user preferences and environments, enhancing comfort and accessibility across the platform.
                   </p>
@@ -236,7 +236,7 @@
         </div>
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
-        <h4 class="project-section-title">Final UI </h4>
+        <h2 class="project-section-title">Final UI </h2>
         <p class="project-body-text">A consistent UI design system was implemented to unify modules and ensure scalability. Throughout the process, we maintained close collaboration with the client, enabling fast iterations and a seamless development handoff with detailed specifications and interactive prototypes.</p>
 
           <div class="bs-img">

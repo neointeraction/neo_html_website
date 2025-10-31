@@ -86,7 +86,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h4 class="project-section-title">Overview </h4>
+                        <h2 class="project-section-title">Overview </h2>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
@@ -103,7 +103,7 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4 class="project-section-title">Objective </h4>
+                            <h2 class="project-section-title">Objective </h2>
                             <p class="project-body-text">The goal was to design a seamless, user-friendly website for
                                 India Accelerator that effectively communicates its core offerings—funding,
                                 acceleration, and infrastructure. The platform needed to cater to diverse stakeholders,
@@ -111,7 +111,7 @@
                                 and engagement while maintaining a professional and innovative brand identity.</p>
                         </div>
                         <div class="col-md-6">
-                            <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+                            <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
                             <p class="project-body-text">One of the primary challenges was structuring IA’s vast
                                 ecosystem into a user-friendly experience that effectively communicated its offerings.
                                 The platform catered to multiple stakeholders—startups looking for startup funding and
@@ -125,7 +125,7 @@
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Solutions we offered</h4>
+                    <h2 class="project-section-title">Solutions we offered</h2>
                     <p class="project-body-text">Our approach focused on simplifying the user experience while
                         maintaining a professional and innovative aesthetic.</p>
 
@@ -135,7 +135,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Industry & User Research</h4>
+                                    <h3 class="title">Industry & User Research</h3>
                                     <p class="description">
                                         Conducted extensive research on accelerator platforms and analyzed various user
                                         personas—founders, investors, partners, and mentors—to ensure the accelerator
@@ -146,7 +146,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Optimizing Information Architecture & Navigation</h4>
+                                    <h3 class="title">Optimizing Information Architecture & Navigation</h3>
                                     <p class="description">
                                         Restructured content and introduced structured navigation, ensuring all user
                                         segments could easily engage with IA.
@@ -156,8 +156,8 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">
-                                        Ideation & Wireframing</h4>
+                                    <h3 class="title">
+                                        Ideation & Wireframing</h3>
                                     <p class="description">
                                         Aligned design strategies with IA’s goals, translating them into high-fidelity
                                         wireframes that optimized user flow.
@@ -167,9 +167,9 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">
+                                    <h3 class="title">
 
-                                        Redesigning UI</h4>
+                                        Redesigning UI</h3>
                                     <p class="description">
                                         Designed a modern, visually engaging UI to reflect IA’s credibility and dynamic
                                         startup ecosystem.
@@ -183,7 +183,7 @@
                 </div>
 
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Our Approach</h4>
+                    <h2 class="project-section-title">Our Approach</h2>
                     <p class="project-body-text">Our process began with an in-depth discovery phase, including
                         stakeholder interviews, competitive analysis, and UX research. We emphasized User Experience
                         Design (UX Design) and User Interface Design (UI Design) to create intuitive interactions. We
@@ -222,7 +222,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Clear & Intuitive Navigation</h4>
+                                    <h3 class="title">Clear & Intuitive Navigation</h3>
                                     <p class="description">
                                     Users could now easily access information tailored to their needs, reducing friction in program applications and inquiries.
                                     </p>
@@ -231,7 +231,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Stronger Brand Positioning</h4>
+                                    <h3 class="title">Stronger Brand Positioning</h3>
                                     <p class="description">
                                     The refined digital presence strengthened IA’s credibility and reinforced its position as a leading startup accelerator.
                                     </p>
@@ -240,7 +240,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Improved Stakeholder Engagement</h4>
+                                    <h3 class="title">Improved Stakeholder Engagement</h3>
                                     <p class="description">
                                     The platform addressed the specific needs of founders, investors, and mentors, encouraging active participation and interactions across all user groups.
                                     </p>
@@ -249,7 +249,7 @@
 
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Clear Conversion Paths</h4>
+                                    <h3 class="title">Clear Conversion Paths</h3>
                                     <p class="description">
                                     Well-placed CTAs and simplified user flows made it easier for startups to apply for programs and for investors to explore opportunities, increasing successful conversions.
                                     </p>
@@ -263,7 +263,7 @@
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
 
-                <h4 class="project-section-title">Final UI </h4>
+                <h2 class="project-section-title">Final UI </h2>
                 <p class="project-body-text">The redesign helped in a refreshing look for communicating IA’s ecosystem and brought in more credibility with a modern website that would also help with their global presence. 
 </p>
                     <div class="bs-img">

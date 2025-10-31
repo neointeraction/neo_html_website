@@ -81,7 +81,7 @@
         <!-- overview-block -->
         <div class="overview-block project-section-padding">
           <div class="title-flex">
-            <h4 class="project-section-title">Overview </h4>
+            <h2 class="project-section-title">Overview </h2>
             <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
@@ -97,11 +97,11 @@
         <div class="objective-challenges project-section-padding">
           <div class="row">
             <div class="col-md-6">
-              <h4 class="project-section-title">Objective </h4>
+              <h2 class="project-section-title">Objective </h2>
               <p class="project-body-text">The primary objective of this SaaS UI/UX design project was to enhance the overall user experience and interface by addressing critical pain points in role management, scheduling, and navigation. The platform needed a seamless role management system, allowing users to switch between employee and manager dashboards effortlessly. Additionally, scheduling complexities—such as managing multiple shifts, holidays, and trip planning—required a more intuitive system to streamline operations</p>
             </div>
             <div class="col-md-6">
-              <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+              <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
               <p class="project-body-text">One of the biggest challenges was complicated role management, as the platform serves multiple stakeholders with distinct functionalities, requiring a well-defined access control system. Additionally, shift management and scheduling were highly complex, involving different shifts, holidays, and multi-stop routes, making planning tedious for users. The existing dashboard design and UI lacked clarity, making it difficult for users to access essential features efficiently.
               </p>
             </div>
@@ -109,7 +109,7 @@
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
-          <h4 class="project-section-title">Solutions we offered</h4>
+          <h2 class="project-section-title">Solutions we offered</h2>
           <p class="project-body-text">Our approach ensured a seamless experience for both employees and managers while optimizing trip management.</p>
 
           <div class="bs-card-section project-bs-cards">
@@ -117,7 +117,7 @@
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Revamping Role-Based Access</h4>
+                  <h3 class="title">Revamping Role-Based Access</h3>
                   <p class="description">
                   Designed dedicated dashboards for employees and managers
                   </p>
@@ -126,7 +126,7 @@
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title"> Optimizing Information Architecture</h4>
+                  <h3 class="title"> Optimizing Information Architecture</h3>
                   <p class="description">
                   Simplified navigation for intuitive access to trip details.
                   </p>
@@ -135,7 +135,7 @@
               <!-- Card 3 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Redesigning the UI & Workflows</h4>
+                  <h3 class="title">Redesigning the UI & Workflows</h3>
                   <p class="description">
                   Enhanced usability and clarity for different user groups.
                   </p>
@@ -144,7 +144,7 @@
               <!-- Card 4 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Customization for Corporate Needs</h4>
+                  <h3 class="title">Customization for Corporate Needs</h3>
                   <p class="description">
                   Enabled flexible scheduling and route management
                   </p>
@@ -155,7 +155,7 @@
           </div>
         </div>
         <div class="solutions-offered project-section-padding">
-        <h4 class="project-section-title">Our Approach </h4>
+        <h2 class="project-section-title">Our Approach </h2>
         <p class="project-body-text">Our process began with User Experience Design through discovery and UX research, where we conducted client workshops, competitor analysis, and UX audits to identify key pain points. We then moved to moodboarding and concept development, iterating on layouts, colors, and design direction to establish a cohesive Visual Design. In the Wireframing phase, we mapped out user flows with low-fidelity designs, refining them into high-fidelity wireframes through testing and feedback. </p>
 </div>
      
@@ -189,7 +189,7 @@
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Revamping Role-Based Access</h4>
+                  <h3 class="title">Revamping Role-Based Access</h3>
                   <p class="description">
                   We designed dedicated dashboards for employees and managers, ensuring users could easily switch roles without confusion, improving workflow efficiency.
                   </p>
@@ -198,7 +198,7 @@
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Optimizing Information Architecture</h4>
+                  <h3 class="title">Optimizing Information Architecture</h3>
                   <p class="description">
                   By restructuring the navigation, we made it easier for users to access trip details, schedules, and role-based features without unnecessary complexity.
                   </p>
@@ -207,7 +207,7 @@
 
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Redesigning the UI & Workflows</h4>
+                  <h3 class="title">Redesigning the UI & Workflows</h3>
                   <p class="description">
                   A refreshed user interface with improved workflows enhanced clarity, usability, and overall engagement for different types of users.
                   </p>
@@ -216,7 +216,7 @@
 
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Customization for Corporate Needs</h4>
+                  <h3 class="title">Customization for Corporate Needs</h3>
                   <p class="description">
                   flexible scheduling options, multi-stop route management, and adaptable settings tailored to corporate transport policies.
                   </p>
@@ -230,7 +230,7 @@
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
        
-        <h4 class="project-section-title">Final UI </h4>
+        <h2 class="project-section-title">Final UI </h2>
 
         <p class="project-body-text">We developed a User Interface Design system, ensuring consistency across all screens. The UI Design process emphasized intuitive navigation and accessibility. Finally, during the development handoff, we provided structured documentation, interactive Prototyping, and regular design reviews to ensure a seamless transition from design to implementation.
         </p>

@@ -87,7 +87,7 @@
         <!-- overview-block -->
         <div class="overview-block project-section-padding">
           <div class="title-flex">
-            <h4 class="project-section-title">Overview </h4>
+            <h2 class="project-section-title">Overview </h2>
             <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
@@ -100,7 +100,7 @@
         </div>
         <!-- result-block -->
         <div class="result-block project-section-padding">
-          <h4 class="project-section-title">Result </h4>
+          <h2 class="project-section-title">Result </h2>
           <div class="row ">
             <!-- 15+ years expertise -->
             <div class="col-4 col-md-3 count-up-item">
@@ -124,18 +124,18 @@
         <div class="objective-challenges project-section-padding">
           <div class="row">
             <div class="col-md-6">
-              <h4 class="project-section-title">Objective </h4>
+              <h2 class="project-section-title">Objective </h2>
               <p class="project-body-text">The primary objective was to create a user-friendly and modern look for diverse user groups including young professionals, expats, and native youth. The aim was to make everyday transactions easy and improve the overall user experience.</p>
             </div>
             <div class="col-md-6">
-              <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+              <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
               <p class="project-body-text">With a vision to get closer to customers, the bank team decided to implement their core banking application using Oracle’s Flexcube platform. The main challenge was to make the app attractive to various retail user types, making transactional journeys easier, identifying frequently used tasks, presenting account information clearly visible. We worked on designing simple but impactful banking experience by testing and improving based on user feedback.</p>
             </div>
           </div>
         </div>
         <!-- solutions-offered  -->
         <div class="solutions-offered project-section-padding">
-          <h4 class="project-section-title">Solutions we offered</h4>
+          <h2 class="project-section-title">Solutions we offered</h2>
           <p class="project-body-text">Our user-centric redesign strategically addressed the primary tasks of Online Retail Banking customers, such as Balance checking, Fund transfers, Bill payments, and Service Requests (SRs). With a targeted methodology, emphasizing these frequently used functions a comprehensive click-through prototype was refined to align with new business objectives. The design experience ensured that all key tasks could be completed with a maximum of three mouse clicks, improving user delight.</p>
 
           <div class="bs-card-section project-bs-cards">
@@ -143,8 +143,8 @@
               <!-- Card 1 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">
-                  Key Task Optimization</h4>
+                  <h3 class="title">
+                  Key Task Optimization</h3>
                   <p class="description">
                   Prioritized tasks such as balance inquiries, fund transfers, bill payments, and service requests for a more efficient user experience
                   </p>
@@ -153,7 +153,7 @@
               <!-- Card 2 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Focused Design Methodology</h4>
+                  <h3 class="title">Focused Design Methodology</h3>
                   <p class="description">
                   Identified and concentrated on frequently used tasks, guiding the creation of a detailed click-through prototype.
                   </p>
@@ -162,7 +162,7 @@
               <!-- Card 3 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Collaborative Stakeholder Review</h4>
+                  <h3 class="title">Collaborative Stakeholder Review</h3>
                   <p class="description">
                   Facilitated comprehensive stakeholder collaboration through a prototype mapping new business flows
                   </p>
@@ -171,7 +171,7 @@
               <!-- Card 4 -->
               <div class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card">
-                  <h4 class="title">Seamless User Experience </h4>
+                  <h3 class="title">Seamless User Experience </h3>
                   <p class="description">
                   The business team implemented necessary recommendations to align with the overall UX enhancements.
                   </p>
@@ -212,7 +212,7 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Improved Accessibility</h4>
+                  <h3 class="title">Improved Accessibility</h3>
                   <p class="description">
                   The redesigned Internet Banking platform reached a wider customer base by incorporating accessibility standards and responsive design, ensuring smooth use across all devices.
                   </p>
@@ -224,7 +224,7 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">User-Centric Focus</h4>
+                  <h3 class="title">User-Centric Focus</h3>
                   <p class="description">
                   Extensive user research shaped each stage of the redesign, helping us streamline critical banking journeys and create a more intuitive, goal-oriented experience.
                   </p>
@@ -236,7 +236,7 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">Competitive Insights</h4>
+                  <h3 class="title">Competitive Insights</h3>
                   <p class="description">
                   Analyzing competitor platforms helped identify gaps and opportunities, enabling us to introduce a design that felt distinct, modern, and aligned with user expectations.
                   </p>
@@ -248,8 +248,8 @@
               <div
                 class="col-12 col-md-6 col-lg-3">
                 <div class="custom-card case-study-card">
-                  <h4 class="title">
-                  Substantial User Increase</h4>
+                  <h3 class="title">
+                  Substantial User Increase</h3>
                   <p class="description">
                   The redesigned platform achieved a 40% growth in user adoption, reflecting improved satisfaction, ease of use, and trust in the digital banking experience.
                   </p>
@@ -262,7 +262,7 @@
         </div>
         <!-- ui-update  -->
         <div class="ui-update project-section-padding">
-        <h4 class="project-section-title">Final UI </h4>
+        <h2 class="project-section-title">Final UI </h2>
           <div class="bs-img">
             <img src="<?php echo $path; ?>assets/images/projects/dubai-banking/dubai-bank-website-ui.webp" alt="ui-update" />
           </div>

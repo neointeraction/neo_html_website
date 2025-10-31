@@ -91,7 +91,7 @@
                 <!-- overview-block -->
                 <div class="overview-block project-section-padding">
                     <div class="title-flex">
-                        <h4 class="project-section-title">Overview </h4>
+                        <h2 class="project-section-title">Overview </h2>
                         <button class="btn btn-custom banner-btn consultation-btn" data-bs-toggle="modal" data-bs-target="#registerModal">
                             Book A Consultation
                         </button>
@@ -104,11 +104,11 @@
                 <div class="objective-challenges project-section-padding">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4 class="project-section-title">Objective </h4>
+                            <h2 class="project-section-title">Objective </h2>
                             <p class="project-body-text">The goal is to create a tool to manage player data during club transfers. The system should make it easy for users to find key information on contracts and transfers, while supporting the needs of all involved parties, including governing bodies.</p>
                         </div>
                         <div class="col-md-6">
-                            <h4 class="project-section-title ps-responsive-margin">Challenges </h4>
+                            <h2 class="project-section-title ps-responsive-margin">Challenges </h2>
                             <p class="project-body-text">The main challenge was handling large player data while designing a clear, easy-to-use interface for small screens. We focused on highlighting key information and creating reusable design components to keep the system simple and consistent.
                             </p>
                         </div>
@@ -116,7 +116,7 @@
                 </div>
                 <!-- solutions-offered  -->
                 <div class="solutions-offered project-section-padding">
-                    <h4 class="project-section-title">Solutions we offered</h4>
+                    <h2 class="project-section-title">Solutions we offered</h2>
                     <p class="project-body-text">We applied core UX design principles to improve usability and optimize workflows. By aligning user needs with business goals, we created an intuitive interface that improved clarity, accessibility, and overall task efficiency.
                     </p>
 
@@ -125,7 +125,7 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Task Simplification</h4>
+                                    <h3 class="title">Task Simplification</h3>
                                     <p class="description">
                                     We reimagined the workflows, breaking complex tasks into smaller, manageable steps to reduce cognitive load.
                                     </p>
@@ -134,7 +134,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Consistent UI Elements</h4>
+                                    <h3 class="title">Consistent UI Elements</h3>
                                     <p class="description">
                                     Reused design components and patterns across the system to maintain visual consistency and usability.
                                     </p>
@@ -143,7 +143,7 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Effective Communication</h4>
+                                    <h3 class="title">Effective Communication</h3>
                                     <p class="description">
                                     Used microcopy, tooltips, tags, and icons as contextual helpers to convey secondary information without cluttering the interface.
                                     </p>
@@ -152,7 +152,7 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card">
-                                    <h4 class="title">Visual Flow Differentiation </h4>
+                                    <h3 class="title">Visual Flow Differentiation </h3>
                                     <p class="description">
                                     Applied color theory and visual hierarchy to differentiate between process flows, aiding user orientation and task completion.
                                     </p>
@@ -190,8 +190,8 @@
                             <!-- Card 1 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">
-                                        Seamless Task Flow</h4>
+                                    <h3 class="title">
+                                        Seamless Task Flow</h3>
                                     <p class="description">
                                     The new design approach made it easier for users to navigate tasks smoothly, reducing obstacles and improving overall usability.
                                     </p>
@@ -202,7 +202,7 @@
                             <!-- Card 2 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Improved Accessibility</h4>
+                                    <h3 class="title">Improved Accessibility</h3>
                                     <p class="description">
                                     Attention to accessibility standards ensured inclusivity for users of all abilities, expanding the platform’s reach to a wider global audience and improving overall user satisfaction.
                                     </p>
@@ -213,7 +213,7 @@
                             <!-- Card 3 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Clarity in Data Display</h4>
+                                    <h3 class="title">Clarity in Data Display</h3>
                                     <p class="description">
                                     Precision in data presentation minimized user errors and increased confidence in interpreting information.
                                     </p>
@@ -224,7 +224,7 @@
                             <!-- Card 4 -->
                             <div class="col-12 col-md-6 col-lg-3">
                                 <div class="custom-card case-study-card">
-                                    <h4 class="title">Intuitive Visual Cues</h4>
+                                    <h3 class="title">Intuitive Visual Cues</h3>
                                     <p class="description">
                                     Consistent use of icons and color directed users’ focus to key actions, helping them prioritize tasks and stay engaged.
                                     </p>
@@ -237,8 +237,8 @@
                 </div>
                 <!-- ui-update  -->
                 <div class="ui-update project-section-padding">
-                    <h4 class="project-section-title">
-                        Final UI </h4>
+                    <h2 class="project-section-title">
+                        Final UI </h2>
                     <div class="bs-img">
                         <img src="<?php echo $path; ?>assets/images/projects/player-transfer/player-transfer-system-website-ui.webp" alt="Player transfer platform final UI design" />
                     </div>
