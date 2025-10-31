@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs"/>
   <meta property="og:title" content="Exploring HubSpot's Remarkable UI UX Transformation: A Comprehensive Case Study"/>
   <meta property="og:description" content="This case study examines how UI UX design was pivotal in transforming HubSpot, leading to substantial growth over the years."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-transformation-case-study-ux-ui-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/ree.webp"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/exploring-hubspot-s-remarkable-ui-ux-transformation-a-comprehensive-case-study.php"/>
@@ -22,7 +22,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Exploring HubSpot's Remarkable UI UX Transformation: A Comprehensive Case Study"/>
   <meta name="twitter:description" content="This case study examines how UI UX design was pivotal in transforming HubSpot, leading to substantial growth over the years."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-transformation-case-study-ux-ui-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/ree.webp"/>
    
 </head>
 
@@ -49,7 +49,7 @@
                 Exploring HubSpot's Remarkable UI UX Transformation: A Comprehensive Case Study
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-transformation-case-study-ux-ui.jpeg" alt="HubSpot Case Study" />
+                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/ree.webp" alt="ree" />
                 </div>
                 <p class="blog-body-text">
                 The role of UI UX design in transforming businesses is crucial, as it directly influences how customers interact with digital products and services. When businesses prioritize good UI UX design, it enhances the user experience, fostering customer satisfaction, loyalty, and potential referrals. This helps businesses grow by attracting more customers and keeping them happy. In simple terms, good <a href="<?php echo $path; ?>blogs/why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue" target="_blank">UI UX design</a> serves as a powerful tool for businesses to succeed and keep customers satisfied.
@@ -84,7 +84,7 @@
                 Prioritize a minimum viable product (MVP) to gather feedback and confirm the effectiveness of proposed changes.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/hubspot-ux-ui-user-experience.jpeg" alt="HubSpot Case Study" />
+                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/ree.webp" alt="ree" />
                 </div>
                 <h4 class="blog-body-title">
                 What are the UI UX Changes HubSpot implemented?
@@ -102,7 +102,7 @@
                 In their quest for an optimal design, HubSpot experimented with over 12 illustration styles, eventually realizing that clear and straightforward designs outperformed fancier options. This iterative design process involved extensive testing, including over 100 wireframe iterations and 60 visual designs.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-changes-and-updates.jpeg" alt="HubSpot Case Study" />
+                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/ree.webp" alt="ree" />
                 </div>
                 <p class="blog-body-text">
                 <b>User-Centric Approach</b><br>
@@ -111,7 +111,7 @@
                 <p class="blog-body-text">
                 <b>Video Preference</b><br>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-changes-video-preference-ux-ui.jpeg" alt="HubSpot Case Study" />
+                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/ree.webp" alt="ree" />
                 </div>
                 HubSpot's research highlighted that over 50% of users prefer learning through videos. This insight led to strategically placing video calls-to-action after the Minimum Viable Product (MVP) launch, resulting in a notable 300% increase in conversions. Aligning design with user preferences played a pivotal role in this success.
                 </p>
@@ -119,7 +119,7 @@
                 Outcomes
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/hubspot-ui-ux-redesign-ux-ui.jpeg" alt="HubSpot Case Study" />
+                    <img src="<?php echo $path; ?>assets/images/blog/hubspot-ui-ux-transformation/ree.webp" alt="ree" />
                 </div>
                 <p class="blog-body-text">
                 Once all changes were agreed upon, development commenced, incorporating updated conversion flows, new flows, content improvements, and adherence to a global style guide. The result was an optimal live website that significantly outperformed the previous user experience. Hubspot’s post-launch data showcased impressive outcomes:

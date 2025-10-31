@@ -31,7 +31,7 @@ Identity of the brand
 5.1 Code formatter like eslint and prettier6. Foster collaboration and communication
 
 6.1 Clear communication bet" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/ree.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1931" />
     <meta property="og:url"
@@ -63,7 +63,7 @@ Identity of the brand
 5.1 Code formatter like eslint and prettier6. Foster collaboration and communication
 
 6.1 Clear communication bet" />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/ree.webp" />
 
 </head>
 
@@ -100,7 +100,7 @@ Identity of the brand
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/image1.jpg" alt="image1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/ree.webp" alt="ree" />
                 </div>
                 <p class="blog-body-text">
                     <b>1.1 Identity of the Brand</b><br />
@@ -122,7 +122,7 @@ Identity of the brand
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/ree.webp" alt="ree" />
                 </div>
 
                 <p class="blog-body-text">
@@ -180,7 +180,7 @@ Identity of the brand
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/ree.webp" alt="ree" />
                 </div>
 
 
@@ -215,7 +215,7 @@ Identity of the brand
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-bring-unified/ree.webp" alt="ree" />
                 </div>
 
                 <p class="blog-body-text">

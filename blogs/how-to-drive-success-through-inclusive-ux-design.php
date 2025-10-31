@@ -14,7 +14,7 @@
     <meta property="og:description"
         content="Explore inclusive UX design for broader market reach, increased user engagement, and diverse innovation." />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-to-drive-success/inclusive-ux-design.webp" />
     <meta property="og:image:width" content="1881" />
     <meta property="og:image:height" content="1453" />
     <meta property="og:url"
@@ -31,7 +31,7 @@
     <meta name="twitter:description"
         content="Explore inclusive UX design for broader market reach, increased user engagement, and diverse innovation." />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-to-drive-success/inclusive-ux-design.webp" />
 
 </head>
 
@@ -59,7 +59,7 @@
                     How to drive success through Inclusive UX design?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/inclusive-ux-design.webp" alt="Inclusive UX Design" />
                 </div>
                 <p class="blog-body-text">
                     In today's globalized and interconnected world, it is essential to develop products and services
@@ -121,7 +121,7 @@
                 <h4 class="blog-body-title">Building for Everyone: Inclusive UX Practices</h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/ux-inclusive-design.webp" alt=" UX inclusive design" />
                 </div>
 
 
@@ -162,7 +162,7 @@
 
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/microsoft.webp" alt="Microsoft" />
                 </div>
 
                 <p class="blog-body-text">
@@ -174,7 +174,7 @@
 
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/image4.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/airbnb.webp" alt="Airbnb" />
                 </div>
 
                 <p class="blog-body-text">
@@ -186,7 +186,7 @@
 
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/image5.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-drive-success/google.webp" alt="Google" />
                 </div>
 
                 <h4 class="blog-body-title">Overcoming Challenges</h4>

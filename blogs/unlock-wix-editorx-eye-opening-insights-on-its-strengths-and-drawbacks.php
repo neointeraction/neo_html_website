@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/unlock-wix-editorx-eye-opening-insights-on-its-strengths-and-drawbacks.php"/>
   <meta property="og:title" content="Unlock Wix EditorX : Eye-Opening Insights On Its Strengths And Drawbacks"/>
   <meta property="og:description" content="As design professionals at a leading UI/UX design agency in India, finding the right platform to create, customize, and manage websites is crucial. In this blog, we’ll share our experience with Wix EditorX, diving into its strengths, the challenges we faced, and where we see room for improvement."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/wix-editorx-insights-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/wix-editorx.webp"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/unlock-wix-editorx-eye-opening-insights-on-its-strengths-and-drawbacks.php"/>
@@ -22,7 +22,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Unlock Wix EditorX : Eye-Opening Insights On Its Strengths And Drawbacks"/>
   <meta name="twitter:description" content="As design professionals at a leading UI/UX design agency in India, finding the right platform to create, customize, and manage websites is crucial. In this blog, we’ll share our experience with Wix EditorX, diving into its strengths, the challenges we faced, and where we see room for improvement."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/wix-editorx-insights-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/wix-editorx.webp"/>
    
 </head>
 
@@ -50,7 +50,7 @@
                 As design professionals at a leading <a href="https://www.neointeraction.com/" target="_blank">UI/UX design agency in India,</a> finding the right platform to create, customize, and manage websites is crucial to the success of our projects. Wix EditorX, a platform that promises advanced design capabilities, flexibility, and a host of integrated tools, seemed like the perfect fit for our needs. In this blog, we’ll share our experience with Wix EditorX, diving into its strengths, the challenges we faced, and where we see room for improvement.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/wix-editorx-insights.jpeg" alt="Wix EditorX" />
+                    <img src="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/wix-editorx.webp" alt="Wix EditorX" />
                 </div>
                 <h4 class="blog-body-title">Why We Chose Wix EditorX</h4>
                 <p class="blog-body-text">
@@ -103,7 +103,7 @@
                     <li><strong>Scalability:</strong> For smaller to medium-sized websites, EditorX performed well. But as the complexity of the website grew, so did the performance issues.</li>
                 </ul>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/neointeraction-website.jpeg" alt="Limitations of Wix EditorX" />
+                    <img src="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/limitations-of-wix-editorx.webp" alt="Limitations of Wix EditorX" />
                 </div>
                 <p class="blog-body-text">
                 <em>Our <a href="https://www.neointeraction.com/" target="_blank">website</a> made using WIX</em>
@@ -122,7 +122,7 @@
                 </ol>
                 <h4 class="blog-body-title">Comparisons with Other Platforms</h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/wordpress-squarespace-comparison.jpeg" alt="WordPress and Squarespace" />
+                    <img src="<?php echo $path; ?>assets/images/blog/wix-editorx-strengths-drawbacks/wordpress-and-squarespace.webp" alt="WordPress  and Squarespace" />
                 </div>
                 <p class="blog-body-text">
                 We also evaluated Wix EditorX in comparison with other platforms.

@@ -14,7 +14,7 @@
     <meta property="og:title" content="What is UX prototyping? Here's the ultimate guide on how to get started" />
     <meta property="og:description"
         content="Prototyping is an experimental process where design teams implement ideas into tangible forms from paper to digital. A UX prototype is a model that depicts how the software will work and the user experience it will provide. Wireframes, mockups, and other visual elements can be used to construct a prototype in UX design. With prototypes, you can refine and validate your designs so your brand can release the right products. The goal of UX prototyping is to avoid costly design and development mista" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/ux-prototyping.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -30,7 +30,7 @@
     <meta name="twitter:title" content="What is UX prototyping? Here's the ultimate guide on how to get started" />
     <meta name="twitter:description"
         content="Prototyping is an experimental process where design teams implement ideas into tangible forms from paper to digital. A UX prototype is a model that depicts how the software will work and the user experience it will provide. Wireframes, mockups, and other visual elements can be used to construct a prototype in UX design. With prototypes, you can refine and validate your designs so your brand can release the right products. The goal of UX prototyping is to avoid costly design and development mista" />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/ux-prototyping.webp" />
 
 </head>
 
@@ -58,8 +58,8 @@
                     What is UX prototyping? Here's the ultimate guide on how to get started
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image1.jpg"
-                        alt="Importance of Prototyping" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/ux-prototyping.webp"
+                        alt="ux prototyping" />
                 </div>
                 <p class="blog-body-text">
                     Prototyping is an experimental process where design teams implement ideas into tangible forms from
@@ -78,7 +78,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image2.jpg"
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/importance-of-prototyping.webp"
                         alt="Importance of Prototyping" />
                 </div>
 
@@ -116,8 +116,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image3.jpg"
-                        alt="Importance of Prototyping" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/types-of-prototyping.webp"
+                        alt="types of prototyping" />
                 </div>
 
                 <p class="blog-body-text">
@@ -126,8 +126,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image4.jpg"
-                        alt="Importance of Prototyping" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/low-fidelity-prototype.webp"
+                        alt="low fidelity prototype" />
                 </div>
 
                 <p class="blog-body-text">
@@ -151,7 +151,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image5.jpg"
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/paper-prototype.webp"
                         alt="paper prototype" />
                 </div>
 
@@ -168,7 +168,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image5.jpg"
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/high-fidelity-prototype.webp"
                         alt="high fidelity prototype" />
                 </div>
 
@@ -198,7 +198,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image6.jpg"
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/digital-prototypes.webp"
                         alt="Digital prototypes" />
                 </div>
 
@@ -225,7 +225,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image7.jpg"
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/animated-prototype.webp"
                         alt="animated_prototype" />
                 </div>
 
@@ -269,8 +269,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/what-is-ux-prototyping-here-image8.jpg"
-                        alt="animated_prototype" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-ux-prototyping-here/animated-prototype-tools.webp"
+                        alt="Animated_prototype_tools" />
                 </div>
 
 

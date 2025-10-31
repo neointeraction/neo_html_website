@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="In the rapidly changing digital landscape, the user experience (UX) and user interface (UI) design are instrumental in not only attracting users but also driving revenue growth. This article delves into a compelling case study featuring Slack, a leading team collaboration platform. It illustrates how a recent UX/UI redesign has brought about significant improvements in user engagement, ultimately leading to substantial revenue growth.&quot;Loyal customers, they don't just come back, they don't simply" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/slack-ux-case-study.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="In the rapidly changing digital landscape, the user experience (UX) and user interface (UI) design are instrumental in not only attracting users but also driving revenue growth. This article delves into a compelling case study featuring Slack, a leading team collaboration platform. It illustrates how a recent UX/UI redesign has brought about significant improvements in user engagement, ultimately leading to substantial revenue growth.&quot;Loyal customers, they don't just come back, they don't simply" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/slack-ux-case-study.webp" />
 
 </head>
 
@@ -60,8 +60,8 @@
                     Driving Sales and Revenue with Slack's UX/UI: A Real-Life Success Story
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/image1.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/slack-ux-case-study.webp"
+                        alt="slack ux case study" />
                 </div>
                 <p class="blog-body-text">
                     In the rapidly changing digital landscape, the user experience (UX) and user interface (UI) design
@@ -117,13 +117,13 @@
 
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/image2.jpg"
-                        alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/slack-old-ui.webp"
+                        alt="slack old ui" />
                 </div>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/image3.jpg"
-                        alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/slack-new-ui.webp"
+                        alt="slack new ui" />
                 </div>
 
                 <p class="blog-body-text">
@@ -138,8 +138,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/image4.jpg"
-                        alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/slack-features.webp"
+                        alt="slack features" />
                 </div>
 
                 <p class="blog-body-text">
@@ -165,8 +165,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/image5.jpg"
-                        alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/driving-sales-and-revenue/slack-integration.webp"
+                        alt="slack integration" />
                 </div>
 
                 <p class="blog-body-text">

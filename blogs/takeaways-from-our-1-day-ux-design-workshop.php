@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop"/>
   <meta property="og:title" content="Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta"/>
   <meta property="og:description" content="Design, they say, is about evolution. In a world where user expectations change like the wind, designers must adapt to the dynamic landscape and keep pace with the evolving trends. That’s what we firmly believe at Neointeraction, where we see design as a catalyst for success, a medium that can transform lives and businesses. This philosophy was the cornerstone of our recent UX Design Workshop, a one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product D"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/ux-design-workshop-hosted-by-neointeraction-design.webp"/>
   <meta property="og:image:width" content="1411"/>
   <meta property="og:image:height" content="1090"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/takeaways-from-our-1-day-ux-design-workshop"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta"/>
   <meta name="twitter:description" content="Design, they say, is about evolution. In a world where user expectations change like the wind, designers must adapt to the dynamic landscape and keep pace with the evolving trends. That’s what we firmly believe at Neointeraction, where we see design as a catalyst for success, a medium that can transform lives and businesses. This philosophy was the cornerstone of our recent UX Design Workshop, a one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product D"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/ux-design-workshop-hosted-by-neointeraction-design.webp"/>
    
 </head>
 
@@ -52,7 +52,7 @@
                     Unlocking the Essence of our Successful UX Design Workshop on Oct 6,2023 at Taj Vivanta
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/ux-design-workshop-hosted-by-neointeraction-design.webp" alt="ux design workshop hosted by neointeraction design" />
                 </div>
                 <p class="blog-body-text">
                     Design, they say, is about evolution. In a world where user expectations change like the wind, designers must adapt to the dynamic landscape and keep pace with the evolving trends. That’s what we firmly believe at Neointeraction, where we see design as a catalyst for success, a medium that can transform lives and businesses. This philosophy was the cornerstone of our recent UX Design Workshop, a one-day deep dive into the world of UX, where we had the opportunity to enrich UX Leads and Product Designers to elevate their product experiences and uplift their design career path.
@@ -61,7 +61,7 @@
                     One of the key takeaways from our UX Design Workshop was a fundamental truth: there's no such thing as a perfect design. Design is a dynamic field, and we, as designers, must evolve in tandem with it. This means acquiring skills that are essential for our success.<a href="https://www.linkedin.com/in/neointeraction/" target="_blank">Sam Thomas</a>, our UX Director at Neointeraction Design shed light on several foundational skills that are essential for designers. He emphasized that a great designer needs to be a good communicator, equipped with a mindset for simplification, structured and organized thinking, a commitment to continuous learning, and a focus on delivering value, often measured as ROI, customer delight, and overall product success. 
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/workshop-on-roi-of-ux-design.webp" alt="workshop on roi of ux design" />
                 </div>
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>
@@ -77,7 +77,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/hands-on-task-for-ux-designers.webp" alt="hands-on task for ux designers" />
                 </div>
 
                 <p class="blog-body-text">
@@ -85,7 +85,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/takeaway-from-workshop/upskilling-in-ux-design-neointeraction.webp" alt="upskilling in UX design - neointeraction" />
                 </div>
 
                 <p class="blog-body-text">

@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities"/>
   <meta property="og:title" content="Supercharge Your E-commerce Search with the Power of Chatbot Capabilities"/>
   <meta property="og:description" content="Table of Contents1. Understanding E-commerce challenges2. Understanding Chatbots3. Understanding Ecommerce Chatbots4. Integration of Chatbots in E-commerce5. TakeawayIn today's digital era, e-commerce has become a convenient way to shop. However, navigating through numerous product options and dealing with clunky user experiences can often be frustrating. Chatbots, combined with effective UI UX design services have emerged as a solution to improve the e-commerce experience. These digital assista"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/ui-ux-design-services.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/supercharge-your-e-commerce-search-with-the-power-of-chatbot-capabilities"/>
@@ -23,7 +23,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Supercharge Your E-commerce Search with the Power of Chatbot Capabilities"/>
   <meta name="twitter:description" content="Table of Contents1. Understanding E-commerce challenges2. Understanding Chatbots3. Understanding Ecommerce Chatbots4. Integration of Chatbots in E-commerce5. TakeawayIn today's digital era, e-commerce has become a convenient way to shop. However, navigating through numerous product options and dealing with clunky user experiences can often be frustrating. Chatbots, combined with effective UI UX design services have emerged as a solution to improve the e-commerce experience. These digital assista"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/ui-ux-design-services.webp"/>
    
 </head>
 
@@ -54,7 +54,7 @@
                     In today's digital era, e-commerce has become a convenient way to shop. However, navigating through numerous product options and dealing with clunky user experiences can often be frustrating. Chatbots, combined with effective <a href="<?php echo $path; ?>ui-ux-design-services" target="_blank">UI UX design services</a> have emerged as a solution to improve the e-commerce experience. These digital assistants revolutionize shopping by offering quick and intuitive solutions to user queries and product searches. Chatbots have significantly improved user experience in e-commerce by answering customer inquiries and guiding purchase decisions, making online shopping as effortless as chatting with a friend.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/supercharge-your-e-commerce-search-image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/ui-ux-design-services.webp" alt=" UI UX design services" />
                 </div>
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>
@@ -102,7 +102,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/supercharge-your-e-commerce-search-image2.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/e-commerce-chatbots.webp" alt="E-commerce chatbots" />
                 </div>
               
                 <p class="blog-body-text">
@@ -114,7 +114,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/supercharge-your-e-commerce-search-image3.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/hybrid-chatbots.webp" alt="Hybrid chatbots" />
                 </div>
               
 
@@ -127,7 +127,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/supercharge-your-e-commerce-search-image4.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/supercharge-your-e-commerce-search/ui-ux-design-services-in-india.webp" alt="UI UX design services in India" />
                 </div>
                
                 <p class="blog-body-text">

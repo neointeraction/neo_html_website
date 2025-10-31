@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"/>
   <meta property="og:title" content="Designing For Metaverse: Introducing The Mind-blowing Future Of UX"/>
   <meta property="og:description" content="Table of Contents1. The Metaverse Explained2. UX in the Metaverse Design3. Building for the Future4. Pioneering Metaverse Design5. Challenges &amp; Opportunities6. The Future of Metaverse design7. ConclusionThe Metaverse can be defined as a new frontier in digital interaction, combining virtual and augmented realities into effective experiences. The relevance of this on user experience (UX) design is massive as it goes beyond the past traditional principles and embraces new avenues for meaningful en"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/designing-for-the-metaverse/designing-for-metaverse.webp"/>
   <meta property="og:image:width" content="3917"/>
   <meta property="og:image:height" content="3025"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/designing-for-metaverse-introducing-the-mind-blowing-future-of-ux"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Designing For Metaverse: Introducing The Mind-blowing Future Of UX"/>
   <meta name="twitter:description" content="Table of Contents1. The Metaverse Explained2. UX in the Metaverse Design3. Building for the Future4. Pioneering Metaverse Design5. Challenges &amp; Opportunities6. The Future of Metaverse design7. ConclusionThe Metaverse can be defined as a new frontier in digital interaction, combining virtual and augmented realities into effective experiences. The relevance of this on user experience (UX) design is massive as it goes beyond the past traditional principles and embraces new avenues for meaningful en"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/designing-for-the-metaverse/designing-for-metaverse.webp"/>
    
 </head>
 
@@ -55,7 +55,7 @@
                     The Metaverse can be defined as a new frontier in digital interaction, combining virtual and augmented realities into effective experiences. The relevance of this on user experience (UX) design is massive as it goes beyond the past traditional principles and embraces new avenues for meaningful engagement and connection in cyberspaces.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/designing-for-the-metaverse/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/designing-for-the-metaverse/designing-for-metaverse.webp" alt="Designing for Metaverse" />
                 </div>
                
                 <h4 class="blog-body-title">
@@ -96,7 +96,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/designing-for-the-metaverse/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/designing-for-the-metaverse/metaverse-design.webp" alt="Metaverse design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -105,7 +105,7 @@
 
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/designing-for-the-metaverse/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/designing-for-the-metaverse/decentraland.webp" alt="Decentraland" />
                 </div>
 
                 <p class="blog-body-text">

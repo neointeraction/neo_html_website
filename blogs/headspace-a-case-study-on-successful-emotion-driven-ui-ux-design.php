@@ -11,8 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/headspace-a-case-study-on-successful-emotion-driven-ui-ux-design.php"/>
   <meta property="og:title" content="Headspace: A Case Study On Successful Emotion-Driven UI UX Design"/>
   <meta property="og:description" content="Discover how Headspace uses emotion-driven UI/UX design to create a successful meditation app. A deep dive into their user experience strategy."/>
-  <meta property="og:image" content="
-<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/headspace-ux-case-study-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/headspace-app-ux-design-casestudy.webp"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/headspace-a-case-study-on-successful-emotion-driven-ui-ux-design.php"/>
@@ -24,8 +23,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Headspace: A Case Study On Successful Emotion-Driven UI UX Design"/>
   <meta name="twitter:description" content="Discover how Headspace uses emotion-driven UI/UX design to create a successful meditation app. A deep dive into their user experience strategy."/>
-  <meta name="twitter:image" content="
-<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/headspace-ux-case-study-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/headspace-app-ux-design-casestudy.webp"/>
    
 </head>
 
@@ -53,7 +51,7 @@
 In today's digital world, it is vital for businesses to connect with users on an emotional level to stand out. Emotion-driven design is a method that prioritizes the user's emotional experience when creating digital interfaces, services, or products. By addressing users' emotional needs and responses intentionally, designers aim to create more engaging, meaningful, and memorable experiences. This approach focuses on building connections and understanding users by considering their emotions. Let’s dive into the intricate world of emotion-driven UI UX design, focusing on the renowned meditation and mindfulness platform, Headspace.
 </p>
 <div class="blog-banner-img">
-    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/headspace-ux-case-study.jpeg" alt="Headspace app ux design casestudy" />
+    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/headspace-app-ux-design-casestudy.webp" alt="Headspace app ux design casestudy" />
 </div>
 <p class="blog-body-text">
 Headspace is a popular meditation and mindfulness app founded by Andy Puddicombe and Richard Pierson in 2010. It offers guided practices for better mental health, including stress reduction, better sleep, focus improvement, and emotional resilience, to promote well-being and balance in daily life.
@@ -72,7 +70,7 @@ Headspace's journey into emotion-driven design starts with a profound understand
 The app's onboarding process sets the tone for a mindful journey. A brief "breathe in - breathe out" exercise initiates a conversation, establishing an immediate connection. The onboarding is not only time-efficient but also exudes a sense of joy. Animated breathing exercises and a personalized questionnaire make the value proposition clear from the start, engaging users in a smooth and joyful introduction.
 </p>
 <div class="blog-banner-img">
-    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/headspace-onboarding.jpeg" alt="Headspace app onboarding user experience" />
+    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/headspace-app-onboarding-user-experience.webp" alt="Headspace app onboarding user experience" />
 </div>
 <p class="blog-body-text">
 <strong>Thoughtful Information Hierarchy</strong>
@@ -81,7 +79,7 @@ The app's onboarding process sets the tone for a mindful journey. A brief "breat
 Headspace's intuitive navigation ensures that users can seamlessly explore its content. The menu structure, centered around user needs, organizes content efficiently. From meditation courses to sleep aids, cardio workouts, and focus exercises, every item serves a purpose, creating a harmonious and functional user experience.
 </p>
 <div class="blog-banner-img">
-    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/information-hierarchy.jpeg" alt="headspace mobile app features" />
+    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/headspace-mobile-app-features.webp" alt="headspace mobile app features" />
 </div>
 <p class="blog-body-text">
 <strong>Visual and Interactive Elements</strong>
@@ -90,7 +88,7 @@ Headspace's intuitive navigation ensures that users can seamlessly explore its c
 Headspace's branding, characterized by vibrant orange and yellow colors, transcends aesthetics. Symbolizing joy, warmth, and creativity, these colors, along with delightful illustrations, infuse hope and motivation into the user journey. The incorporation of fun banner videos adds a touch of optimism to the overall experience.
 </p>
 <div class="blog-banner-img">
-    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/interactive-ui-elements.jpeg" alt="Mobile app ui design of headspace" />
+    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/mobile-app-ui-design-of-headspace.webp" alt="Mobile app ui design of headspace" />
 </div>
 <p class="blog-body-text">
 <strong>Instant Feedback and Support</strong>
@@ -99,7 +97,7 @@ Headspace's branding, characterized by vibrant orange and yellow colors, transce
 Using <a href="https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline" target="_blank" rel="noopener">gamification</a> and instant feedback throughout the user journey creates an engaging and supportive environment. Users feel encouraged and entertained, fostering a sense of flow. This real-time interaction contributes to a deeper emotional connection, making the Headspace experience not just about meditation but a holistic emotional journey.
 </p>
 <div class="blog-banner-img">
-    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/user-feedback-support.jpeg" alt="Gamification in ui design" />
+    <img src="<?php echo $path; ?>assets/images/blog/headspace-emotion-driven-ui-ux/gamification-in-ui-design.webp" alt="Gamification in ui design" />
 </div>
 <h4 class="blog-body-title">The business impact of having emotion-driven design on Headspace</h4>
 <p class="blog-body-text">

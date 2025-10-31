@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"/>
   <meta property="og:title" content="Turning Saving into a Game: Gamified design approaches to Encourage Financial Discipline"/>
   <meta property="og:description" content="Saving money is challenging in today's world, with financial responsibilities and tempting spending opportunities. Many struggle to develop consistent saving habits, and current Personal Finance Management (PFM) apps often lack engaging features and fail to address users' specific challenges. Enhancing the user experience through gamification elements and personalized recommendations can help make saving more enjoyable and effective. By addressing these issues, PFM apps can better support indivi"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/gamified-design-for-fintech.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Turning Saving into a Game: Gamified design approaches to Encourage Financial Discipline"/>
   <meta name="twitter:description" content="Saving money is challenging in today's world, with financial responsibilities and tempting spending opportunities. Many struggle to develop consistent saving habits, and current Personal Finance Management (PFM) apps often lack engaging features and fail to address users' specific challenges. Enhancing the user experience through gamification elements and personalized recommendations can help make saving more enjoyable and effective. By addressing these issues, PFM apps can better support indivi"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/gamified-design-for-fintech.webp"/>
    
 </head>
 
@@ -51,7 +51,7 @@
                 Turning Saving into a Game: Gamified design approaches to Encourage Financial Discipline
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/gamified-design-for-fintech.webp" alt="Gamified Design for Fintech" />
                 </div>
                 <p class="blog-body-text">
                     Saving money is challenging in today's world, with financial responsibilities and tempting spending opportunities. Many struggle to develop consistent saving habits, and current Personal Finance Management (PFM) apps often lack engaging features and fail to address users' specific challenges. Enhancing the user experience through gamification elements and personalized recommendations can help make saving more enjoyable and effective. By addressing these issues, PFM apps can better support individuals in their saving journey.
@@ -87,7 +87,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/fintech-mobile-app-gamification.webp" alt="Fintech mobile app gamification" />
                 </div>
 
                 <p class="blog-body-text">
@@ -95,7 +95,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/money-game-cashbacks.webp" alt="money game cashbacks" />
                 </div>
 
                 <p class="blog-body-text">
@@ -103,7 +103,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/progress-bar-visual-design.webp" alt="progress bar _visual design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -111,7 +111,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/investment-game-simulator.webp" alt="Investment Game Simulator" />
                 </div>
 
                 <p class="blog-body-text">
@@ -119,7 +119,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/turning-saving-into-a-game/social-media-integration.webp" alt="Social Media Integration" />
                 </div>
                
 

@@ -16,7 +16,7 @@
     <meta property="og:description"
         content="AI, which stands for Artificial Intelligence, is all about teaching computers to do things that generally need human thought. It entails developing specific computer programs known as algorithms that can read and analyze data, identify patterns in it, and make intelligent decisions based on that knowledge. AI can assist to automate jobs, speed up processes, and even forecast or recommend outcomes.Virtual assistants such as Siri and Alexa are examples of AI, as are self-driving cars, software tha" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/ai-in-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -34,7 +34,7 @@
     <meta name="twitter:description"
         content="AI, which stands for Artificial Intelligence, is all about teaching computers to do things that generally need human thought. It entails developing specific computer programs known as algorithms that can read and analyze data, identify patterns in it, and make intelligent decisions based on that knowledge. AI can assist to automate jobs, speed up processes, and even forecast or recommend outcomes.Virtual assistants such as Siri and Alexa are examples of AI, as are self-driving cars, software tha" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/ai-in-design.webp" />
 
 </head>
 
@@ -62,7 +62,7 @@
                     The Power of AI in Design: Transforming Creativity with Intelligent Technology
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/ai-in-design.webp" alt="AI in design" />
                 </div>
                 <p class="blog-body-text">
                     AI, which stands for Artificial Intelligence, is all about teaching computers to do things that
@@ -96,7 +96,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/ai-development.webp" alt="AI development" />
                 </div>
 
                 <div class="blog-quote-block">
@@ -144,7 +144,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/adobe-sensei-ai-design-tool.webp" alt="Adobe sensei ai design tool" />
                 </div>
 
                 <p class="blog-body-text">
@@ -159,7 +159,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/canva-ai-design-tool.webp" alt="Canva Ai design tool" />
                 </div>
 
                 <p class="blog-body-text">
@@ -174,7 +174,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/jasper-ai-design-tool.webp" alt="Jasper ai design tool" />
                 </div>
 
                 <p class="blog-body-text">
@@ -190,7 +190,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/image6.jpg" alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/ai-design-tools.webp" alt="ai design tools" />
                 </div>
 
                 <p class="blog-body-text">
@@ -205,7 +205,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/image7.jpg" alt="image7" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-power-of-ai-in-design/uizard-ai-design-tool.webp" alt="Uizard ai design tool" />
                 </div>
 
                 <p class="blog-body-text">

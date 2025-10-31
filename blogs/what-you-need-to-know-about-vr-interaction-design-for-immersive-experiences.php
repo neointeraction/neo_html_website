@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Table of Contents1. Understanding Presence in VR and AR2. Key Principles of Immersive Design3. Techniques for Enhancing Immersion4. Evaluating User Experience5. Challenges in Designing for Presence6. Future Trends in VR and UX design for augmented reality7. ConclusionVirtual Reality (VR) and Augmented Reality (AR) have changed the way our interaction happens in digital environments by offering experiences that blur the line between the physical and virtual worlds. As Digital Transformation in In" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/vr-interaction-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="Table of Contents1. Understanding Presence in VR and AR2. Key Principles of Immersive Design3. Techniques for Enhancing Immersion4. Evaluating User Experience5. Challenges in Designing for Presence6. Future Trends in VR and UX design for augmented reality7. ConclusionVirtual Reality (VR) and Augmented Reality (AR) have changed the way our interaction happens in digital environments by offering experiences that blur the line between the physical and virtual worlds. As Digital Transformation in In" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/vr-interaction-design.webp" />
 
 </head>
 
@@ -74,8 +74,8 @@
                     experiences, especially in collaboration with a leading <a href="<?php echo $path; ?>" target="_blank">UI UX design agency in India</a>.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/image1.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/vr-interaction-design.webp"
+                        alt="vr interaction design" />
                 </div>
                 <h4 class="blog-body-title">
                     Understanding Presence in VR and AR
@@ -134,8 +134,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/image2.jpg"
-                        alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/ux-design-for-augmented-reality.webp"
+                        alt="ux design for augmented reality" />
                 </div>
 
                 <p class="blog-body-text">
@@ -184,8 +184,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/image3.jpg"
-                        alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-you-need-to-know-about-vr/vr-and-ar.webp"
+                        alt="VR and AR" />
                 </div>
 
                 <p class="blog-body-text">

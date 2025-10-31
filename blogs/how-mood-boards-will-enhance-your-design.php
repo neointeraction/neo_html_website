@@ -14,7 +14,7 @@
     <meta property="og:description"
         content="Moodboard is a collection of visually represented ideas that improve a designer’s workflow and enhance communication. It also minimizes the risks of the client’s rejection of the concept and saves the designer’s time and nerves.The use of mood boards is not limited to just one particular field. Creative professionals like UI designers, Fashion designers, interior designers, Photographers, and many more use it to build a visual framework to generate better ideas. Mood boards are meant to showcase" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-mood-boards/importance-of-mood-board.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/how-mood-boards-will-enhance-your-design" />
@@ -30,7 +30,7 @@
     <meta name="twitter:description"
         content="Moodboard is a collection of visually represented ideas that improve a designer’s workflow and enhance communication. It also minimizes the risks of the client’s rejection of the concept and saves the designer’s time and nerves.The use of mood boards is not limited to just one particular field. Creative professionals like UI designers, Fashion designers, interior designers, Photographers, and many more use it to build a visual framework to generate better ideas. Mood boards are meant to showcase" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-mood-boards/importance-of-mood-board.webp" />
 
 </head>
 
@@ -58,7 +58,7 @@
                     How mood boards will enhance your design?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/importance-of-mood-board.webp" alt="importance of mood board" />
                 </div>
                 <p class="blog-body-text">
                     Moodboard is a collection of visually represented ideas that improve a designer’s workflow and
@@ -175,7 +175,7 @@
 
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/things-to-include-in-mood-board.webp" alt="things to include in mood board" />
                 </div>
 
                 <p class="blog-body-text">
@@ -204,7 +204,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/moodboard-inspiration-sites.webp" alt="moodboard_inspiration_sites" />
                 </div>
 
                 <h4 class="blog-body-title">Examples of Mood boards</h4>
@@ -214,7 +214,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/ui-ux-design-mood-board.webp" alt="ui ux design mood board" />
                 </div>
 
                 <p class="blog-body-text">
@@ -222,7 +222,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/mood-board-for-website-design.webp" alt="Mood board for Website Design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -230,7 +230,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/image6.jpg" alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/mood-board-for-interior-design.webp" alt="Mood board for Interior Design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -238,7 +238,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/image7.jpg" alt="image7" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-mood-boards/mood-board-for-fashion-design.webp" alt="Mood board for Fashion Design" />
                 </div>
 
 

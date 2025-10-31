@@ -12,7 +12,7 @@
   <link rel="canonical" href="<?php echo $path; ?>blogs/how-to-make-strategic-business-growth-through-ux-design"/>
   <meta property="og:title" content="How to make Strategic Business Growth Through UX Design"/>
   <meta property="og:description" content="Table of Contents1. The Power of UX Design in Business Growth   1. Enhance User Experience &amp; Customer Satisfaction   2. Drive Sales &amp; Conversions   3. Boost Brand Reputation &amp; Loyalty   4. Increase Efficiency &amp; Reduce Costs   5. Inform Product Development &amp; Strategy2. The Designer's Strategic Role   1. User Research &amp; Understanding Needs   2. Designing for Usability &amp; User Flow   3. Collaboration &amp; Communication with Stakeholders   4. Data Analysis &amp; User Testing   5. Iterative Design &amp; Continuo"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-to-make-strategic/strategic-business-growth.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="<?php echo $path; ?>blogs/how-to-make-strategic-business-growth-through-ux-design"/>
@@ -26,7 +26,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How to make Strategic Business Growth Through UX Design"/>
   <meta name="twitter:description" content="Table of Contents1. The Power of UX Design in Business Growth   1. Enhance User Experience &amp; Customer Satisfaction   2. Drive Sales &amp; Conversions   3. Boost Brand Reputation &amp; Loyalty   4. Increase Efficiency &amp; Reduce Costs   5. Inform Product Development &amp; Strategy2. The Designer's Strategic Role   1. User Research &amp; Understanding Needs   2. Designing for Usability &amp; User Flow   3. Collaboration &amp; Communication with Stakeholders   4. Data Analysis &amp; User Testing   5. Iterative Design &amp; Continuo"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/how-to-make-strategic/strategic-business-growth.webp"/>
    
 </head>
 
@@ -53,7 +53,7 @@
                 How to make Strategic Business Growth Through UX Design
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-make-strategic/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-make-strategic/strategic-business-growth.webp" alt="Strategic Business Growth" />
                 </div>
                 <p class="blog-body-text">User experience (UX) design is a crucial part in <a href="<?php echo $path; ?>blogs/why-should-businesses-invest-in-good-ui-ux-design-to-boost-revenue">business success</a> which helps to determine how products and services are used by the users. Aesthetics are not the only goal, UI UX designers ensure that businesses deliver efficient experiences to their users. UI UX Designers are strategic drivers of growth because they align decisions with business goals. This blog explores how UX design ensures business growth and highlights the designer's role in the process.</p>
                 <h4 class="blog-body-title">The Power of UX Design in Business Growth</h4>
@@ -124,7 +124,7 @@
                 <h4 class="blog-body-title">Building UX Design Skills for Business Impact</h4>
 
                 <div class="blog-section-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-make-strategic/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-make-strategic/ux-design-in-business-growth.webp" alt="UX design in business growth" />
                 </div>
 
                 <p class="blog-body-text">

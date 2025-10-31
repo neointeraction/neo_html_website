@@ -15,7 +15,7 @@
 	1.2 Progressive Web Apps (PWAs)	1.3 Component driven development	1.4 WebAssembly(WASM)
 	1.5 Rendering methods2. ConclusionWhy is it important to catch up with the latest trends in front end development?
 Staying up to date with technology in today’s world can make or break your business. Technological advancements like AI are increasingly being adopted to gain a competitive edg"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/top-frontend-trends/latest-trends-in-front-end-development.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/top-5-frontend-development-trends-of-2024"/>
@@ -32,7 +32,7 @@ Staying up to date with technology in today’s world can make or break your bus
 	1.2 Progressive Web Apps (PWAs)	1.3 Component driven development	1.4 WebAssembly(WASM)
 	1.5 Rendering methods2. ConclusionWhy is it important to catch up with the latest trends in front end development?
 Staying up to date with technology in today’s world can make or break your business. Technological advancements like AI are increasingly being adopted to gain a competitive edg"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/top-frontend-trends/latest-trends-in-front-end-development.webp"/>
    
 </head>
 
@@ -62,7 +62,7 @@ Staying up to date with technology in today’s world can make or break your bus
                     Why is it important to catch up with the latest trends in front end development?
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/image1.jpg" alt="image1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/latest-trends-in-front-end-development.webp" alt="Latest trends in front end development" />
                 </div>
                 <p class="blog-body-text">
                     Staying up to date with technology in today’s world can make or break your business. Technological advancements like AI are increasingly being adopted to gain a competitive edge. This is particularly true for businesses seeking a <a href="https://www.neointeraction.com/front-end-development-services" target="_blank">front-end development company in India</a>, where staying current with technological trends can significantly impact success.
@@ -105,7 +105,7 @@ Staying up to date with technology in today’s world can make or break your bus
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/ai-machine-learning-integration-in-frontend-development.webp" alt="AI & Machine Learning Integration in Frontend Development" />
                 </div>
 
                 <p class="blog-body-text">
@@ -146,7 +146,7 @@ Staying up to date with technology in today’s world can make or break your bus
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/progressive-web-apps.webp" alt="Progressive Web Apps" />
                 </div>
 
                 <p class="blog-body-text">
@@ -158,7 +158,7 @@ Staying up to date with technology in today’s world can make or break your bus
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/component-driven-frontend-development.webp" alt="Component driven frontend development" />
                 </div>
 
                 <p class="blog-body-text">
@@ -195,7 +195,7 @@ Staying up to date with technology in today’s world can make or break your bus
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/features-of-web-assembly.webp" alt=" Features of Web assembly" />
                 </div>
 
                 <p class="blog-body-text">
@@ -240,7 +240,7 @@ Staying up to date with technology in today’s world can make or break your bus
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/image6.jpg" alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/top-frontend-trends/rendering-methods-in-frontend-development.webp" alt="Rendering Methods in Frontend development" />
                 </div>
 
                 <p class="blog-body-text">

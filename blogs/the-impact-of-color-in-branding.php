@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/the-impact-of-color-in-branding"/>
   <meta property="og:title" content="The Impact of Color in Branding"/>
   <meta property="og:description" content="Colors can influence how we feel. There are times when we associate a product with a color. A product's perception by humans is significantly influenced by color.An instance of this is the use of the color blue. Blue is the most popular color used in brands. It gives off a calm and comfortable feeling to the users. When IBM redesigned its logo in 1972, the color blue represented power, authority, and professionalism. It exemplifies their sense of professionalism.Color can't be generally associat"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/impact-of-color/impact-color-in-branding.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/the-impact-of-color-in-branding"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="The Impact of Color in Branding"/>
   <meta name="twitter:description" content="Colors can influence how we feel. There are times when we associate a product with a color. A product's perception by humans is significantly influenced by color.An instance of this is the use of the color blue. Blue is the most popular color used in brands. It gives off a calm and comfortable feeling to the users. When IBM redesigned its logo in 1972, the color blue represented power, authority, and professionalism. It exemplifies their sense of professionalism.Color can't be generally associat"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/impact-of-color/impact-color-in-branding.webp"/>
 </head>
 
 <body>
@@ -50,7 +50,7 @@
                     The Impact of Color in Branding
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/impact-color-in-branding.webp" alt="impact color in branding" />
                 </div>
                 <p class="blog-body-text">
                     Colors can influence how we feel. There are times when we associate a product with a color. A product's perception by humans is significantly influenced by color.
@@ -63,7 +63,7 @@
                     How color would symbolize the action in a product?
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/symbolize-color.webp" alt="symbolize color" />
                 </div>
                 <p class="blog-body-text">
                     Different colors invoke different emotions in people and these emotions are leveraged by designers when creating a product. The color psychology behind three primary colors used by most famous brands around the world are:
@@ -96,7 +96,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/color-choice-for-product.webp" alt="color choice for product" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -111,7 +111,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/impact-of-color/rebranding-airbnb.webp" alt="rebranding airbnb" />
                 </div>
 
                 <p class="blog-body-text">

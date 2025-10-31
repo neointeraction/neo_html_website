@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/how-zomato-s-gamification-took-the-2023-world-cup-with-a-cricket-twist.php"/>
   <meta property="og:title" content="How Zomato's Gamification Took the 2023 World Cup with a Cricket Twist"/>
   <meta property="og:description" content="Zomato leveraged gamification during the 2023 Cricket World Cup to enhance user engagement. This case study explores how they successfully combined food delivery with live cricket updates."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/zomato-gamification-cricket-world-cup-2023-ux-ui-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/ree.webp"/>
   <meta property="og:image:width" content="1252"/>
   <meta property="og:image:height" content="968"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/how-zomato-s-gamification-took-the-2023-world-cup-with-a-cricket-twist.php"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How Zomato's Gamification Took the 2023 World Cup with a Cricket Twist"/>
   <meta name="twitter:description" content="Zomato leveraged gamification during the 2023 Cricket World Cup to enhance user engagement. This case study explores how they successfully combined food delivery with live cricket updates."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/zomato-gamification-cricket-world-cup-2023-ux-ui-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/ree.webp"/>
    
 </head>
 
@@ -50,7 +50,7 @@
                 <h1 class="blog-title">How Zomato's Gamification Took the 2023 World Cup with a Cricket Twist</h1>
                 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/zomato-gamification-cricket-world-cup-2023-ux-ui.jpeg" alt="Zomato Cricket World Cup Gamification" />
+                    <img src="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/ree.webp" alt="ree" />
                 </div>
 
                 <p class="blog-body-text">In the dynamic world of the online food delivery industry, companies are continually seeking innovative ways to capture consumer attention and stand out amidst the crowd. Major events and festivals serve as prime opportunities for brands to enhance their marketing strategies and solidify their presence in the market. These occasions offer a unique platform for companies to connect with their audience on a deeper level, tapping into the excitement and energy surrounding these events.</p>
@@ -61,7 +61,7 @@
                 <p class="blog-body-text">Zomato's Cricket World Cup 2023 campaign was a masterclass in leveraging gamification to enhance user engagement. The company partnered with Roanuz Sports Data, a leading provider of sports-related data and analytics, to integrate real-time cricket updates and statistics into their app. Users were not only able to track live scores and match updates but also participate in cricket-themed challenges and games while placing their food orders.</p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/zomato-mobile-world-cup-2023-campaign-ux-ui.jpeg" alt="Zomato Cricket Campaign" />
+                    <img src="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/ree.webp" alt="ree" />
                 </div>
 
                 <h4 class="blog-body-title">What is Gamification?</h4>
@@ -89,7 +89,7 @@
                 <p class="blog-body-text"><strong>4. Impact on Industry Standards:</strong> Zomato's innovative approach to merging cricket and food delivery set a new standard for engagement in the food tech industry. This was acknowledged by various industry analysts and experts. For instance, in an article by Livemint, industry experts hailed Zomato's campaign as a game-changer, illustrating its influence on industry practices and customer engagement strategies.</p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/zomato-gamification-world-cup-mobile-ux-ui.jpeg" alt="Zomato Gamification Results" />
+                    <img src="<?php echo $path; ?>assets/images/blog/zomato-gamification-cricket/ree.webp" alt="ree" />
                 </div>
 
                 <h4 class="blog-body-title">Conclusion</h4>" target="_blank">UI UX design services</a> that will help market your product better, thereby contributing significantly to business growth.</p>

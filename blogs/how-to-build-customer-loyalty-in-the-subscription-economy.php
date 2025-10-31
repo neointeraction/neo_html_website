@@ -16,7 +16,7 @@
         content="
 The rise of subscription-based services has brought forth the importance of user experience (UX) design in ensuring sustained user engagement. In this article, we will look into effective strategies for designing user experiences that keep users committed to subscription services over the long term.&quot;Loyal customers, they don't just come back, they don't simply recommend you, they insist that their friends do business with you&quot;. - Chip BellStrategies for designing user experiences1. Onboarding E" />
     <meta property="og:image"
-        content="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/building-customer-loyalty-in-subscription-economy-ux-ui-neointeraction-design-thumbnail.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/build-customer-loyalty-neointeraction-design.webp" />
     <meta property="og:image:width" content="587" />
     <meta property="og:image:height" content="330" />
     <meta property="og:url"
@@ -33,7 +33,7 @@ The rise of subscription-based services has brought forth the importance of user
         content="
 The rise of subscription-based services has brought forth the importance of user experience (UX) design in ensuring sustained user engagement. In this article, we will look into effective strategies for designing user experiences that keep users committed to subscription services over the long term.&quot;Loyal customers, they don't just come back, they don't simply recommend you, they insist that their friends do business with you&quot;. - Chip BellStrategies for designing user experiences1. Onboarding E" />
     <meta name="twitter:image"
-        content="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/building-customer-loyalty-in-subscription-economy-ux-ui-neointeraction-design-thumbnail.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/build-customer-loyalty-neointeraction-design.webp" />
     <meta name="twitter:card" content="summary" />
 
 </head>
@@ -61,7 +61,7 @@ The rise of subscription-based services has brought forth the importance of user
                     How to build customer loyalty in the subscription economy?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/building-customer-loyalty-in-subscription-economy-ux-ui-neointeraction-design.jpg" alt="building-customer-loyalty-in-subscription-economy-ux-ui-neointeraction-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/build-customer-loyalty-neointeraction-design.webp" alt="build customer loyalty - neointeraction design" />
                 </div>
                 <p class="blog-body-text">
                     The rise of subscription-based services has brought forth the importance of user experience (UX)
@@ -110,7 +110,7 @@ The rise of subscription-based services has brought forth the importance of user
                     and onboarding.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/onboarding-mobile-design-strategies-ux-ui-neointeraction-design.jpg" alt="onboarding-mobile-design-strategies-ux-ui-neointeraction-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/onboarding-mobile-design-neointeraction-design.webp" alt="Onboarding mobile design - Neointeraction design" />
                 </div>
                 <p class="blog-body-text">
                     <b>2. Creating Personalized Journeys</b>
@@ -130,7 +130,7 @@ The rise of subscription-based services has brought forth the importance of user
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/user-journey-maps-personalized-ux-ui-neointeraction-design.jpg" alt="user-journey-maps-personalized-ux-ui-neointeraction-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/user-journey-maps-neointeraction-design.webp" alt="user journey maps - neointeraction design" />
                 </div>
                 <p class="blog-body-text">
                     <b>3. Predicting User Needs</b>
@@ -144,7 +144,7 @@ The rise of subscription-based services has brought forth the importance of user
                     analysis. This helps them to suggest new content to the users. Which in turn keeps them engaged on
                     the platform. </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/netflix-show-prediction-ux-ui-neointeraction-design.jpg" alt="netflix-show-prediction-ux-ui-neointeraction-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/netflix-show-prediction-neoiteraction-design.webp" alt="Netflix show prediction - neoiteraction design" />
                 </div>
                 <p class="blog-body-text">
                     <b>4. Seamless Cross-Platform Experiences</b>
@@ -157,7 +157,7 @@ The rise of subscription-based services has brought forth the importance of user
                     Hotstar can be watched on mobile, tablets, laptop & smart TV. This allows users to watch wherever
                     they want.</p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/cross-platform-ux-design-seamless-user-experience.jpg" alt="cross-platform-ux-design-seamless-user-experience" />
+                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/cross-platfrom-ux-design.webp" alt="Cross platfrom ux design" />
                 </div>
                 <p class="blog-body-text">
                     <b>5. Feedback Loops and Continuous Improvement</b>
@@ -169,7 +169,7 @@ The rise of subscription-based services has brought forth the importance of user
                     can report inaccuracies in location data. They try to constantly improve and bring in new features
                     which helps users navigate better.</p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/ux-design-feedback-loops-and-continuous-improvement.jpg" alt="ux-design-feedback-loops-and-continuous-improvement" />
+                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/ux-design-feedbacks.webp" alt="ux design feedbacks" />
                 </div>
                 <p class="blog-body-text">
                     <b>6. Building Emotional Connections</b>
@@ -183,7 +183,7 @@ The rise of subscription-based services has brought forth the importance of user
                     they build an emotional connection with their users is by providing personalized guided meditations.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/building-emotional-connections-in-ux-design.jpg" alt="building-emotional-connections-in-ux-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/building-connections-ux-design.webp" alt="building connections ux design" />
                 </div>
                 <p class="blog-body-text">
                     <b>7. Gamification for Engagement:</b>
@@ -199,7 +199,7 @@ The rise of subscription-based services has brought forth the importance of user
                         href="<?php echo $path; ?>blogs/turning-saving-into-a-game-gamified-design-approaches-to-encourage-financial-discipline"
                         target="_blank">here</a>.</p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/gamification-ux-design-for-user-engagement.jpg" alt="gamification-ux-design-for-user-engagement" />
+                    <img src="<?php echo $path; ?>assets/images/blog/customer-loyalty-subscription-economy/gamification-ux-design.webp" alt="Gamification ux design" />
                 </div>
                 <p class="blog-body-text">
                     <b>8. Data-Driven Decision Making</b>

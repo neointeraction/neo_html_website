@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs"/>
   <meta property="og:title" content="Composable Business : How UX Design Secure Better User Experiences"/>
   <meta property="og:description" content="Table of Contents1. Understanding Composable Enterprise2. The Role of UI UX Design3. Composable UX Design Explained4. Challenges and Considerations5. Future Trends6. ConclusionComposable business models are emerging as a transformative force, reshaping the way organizations interact with customers and deliver value. By allowing businesses to assemble and disassemble services and applications like building blocks, composable strategies enhance operational agility and responsiveness, making a mark"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/composible-business/composable-business.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Composable Business : How UX Design Secure Better User Experiences"/>
   <meta name="twitter:description" content="Table of Contents1. Understanding Composable Enterprise2. The Role of UI UX Design3. Composable UX Design Explained4. Challenges and Considerations5. Future Trends6. ConclusionComposable business models are emerging as a transformative force, reshaping the way organizations interact with customers and deliver value. By allowing businesses to assemble and disassemble services and applications like building blocks, composable strategies enhance operational agility and responsiveness, making a mark"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/composible-business/composable-business.webp"/>
    
 </head>
 
@@ -55,7 +55,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/composible-business/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/composible-business/composable-business.webp" alt="Composable Business
+" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -95,7 +96,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/composible-business/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/composible-business/spotify.webp" alt="Spotify" />
                 </div>
 
                 <h4 class="blog-body-title">

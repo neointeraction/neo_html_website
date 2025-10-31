@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"/>
   <meta property="og:title" content="User Interface (UI) design patterns: What are they and how are they categorized?"/>
   <meta property="og:description" content="User interface (UI) design is a vital process designers use to build interfaces in software or computerized devices, focusing on looks or style. UI Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. User Interface (UI) refers to concepts from interaction design, visual design, and information architecture.Good layout design is both dynamic and clear, creating visual poin"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/user-interface-design-pattern.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/user-interface-ui-design-patterns-what-are-they-and-how-are-they-categorized"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="User Interface (UI) design patterns: What are they and how are they categorized?"/>
   <meta name="twitter:description" content="User interface (UI) design is a vital process designers use to build interfaces in software or computerized devices, focusing on looks or style. UI Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. User Interface (UI) refers to concepts from interaction design, visual design, and information architecture.Good layout design is both dynamic and clear, creating visual poin"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/user-interface-design-pattern.webp"/>
 
 </head>
 
@@ -51,7 +51,7 @@
                     User Interface (UI) design patterns: What are they and how are they categorized?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/user-interface-design-pattern.webp" alt="user interface design pattern" />
                 </div>
                 <p class="blog-body-text">
                     <a href="<?php echo $path; ?>blogs/how-to-practice-good-ux-to-boost-your-product-roi" target="_blank">User interface (UI) design is a vital process</a> designers use to build interfaces in software or computerized devices, focusing on looks or style. UI Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. User Interface (UI) refers to concepts from interaction design, visual design, and information architecture.
@@ -78,7 +78,7 @@
 
                
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/card-style-web-layout-design-patterns.webp" alt="Card-style Web Layout design patterns" />
                 </div>
 
                 <p class="blog-body-text">
@@ -91,7 +91,7 @@
 
                
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/split-screen-layout-design.webp" alt="Split-screen Layout design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -104,7 +104,7 @@
 
                
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/grids-design-pattern.webp" alt="Grids design pattern" />
                 </div>
 
                 <p class="blog-body-text">
@@ -117,7 +117,7 @@
 
                
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/single-page-layouts-design.webp" alt="Single-page Layouts design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -130,7 +130,7 @@
 
                
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/image6.jpg" alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/asymmetry-design.webp" alt="Asymmetry design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -143,7 +143,7 @@
 
                
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/image7.jpg" alt="image7" />
+                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/navigation-tabs.webp" alt="Navigation Tabs" />
                 </div>
 
                 <p class="blog-body-text">
@@ -156,7 +156,7 @@
 
                
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/image8.jpg" alt="image8" />
+                    <img src="<?php echo $path; ?>assets/images/blog/user-interface-design-patterns/carousels-design.webp" alt="Carousels design" />
                 </div>
 
                 <p class="blog-body-text">

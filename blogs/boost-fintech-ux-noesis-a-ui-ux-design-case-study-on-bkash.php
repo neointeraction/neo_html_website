@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash"/>
   <meta property="og:title" content="Boost fintech UX noesis : A UI UX design Case study on bKash"/>
   <meta property="og:description" content="Fintech apps (or financial technology apps) are broadly adopted today as they have changed the way companies operate. It refers to any app that enables people or businesses to digitally monitor, regulate, or gain insights into their accounts or conduct financial transactions. The Covid-19 outbreak impacted the MFS (Mobile Financial Services) market's field-level operations during 2020 and 2021. Despite these setbacks, bKash was able to finish the year with 50.5 million total users, 12.4 million "/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/bkash-app-ux-design.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/boost-fintech-ux-noesis-a-ui-ux-design-case-study-on-bkash"/>
@@ -26,7 +26,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Boost fintech UX noesis : A UI UX design Case study on bKash"/>
   <meta name="twitter:description" content="Fintech apps (or financial technology apps) are broadly adopted today as they have changed the way companies operate. It refers to any app that enables people or businesses to digitally monitor, regulate, or gain insights into their accounts or conduct financial transactions. The Covid-19 outbreak impacted the MFS (Mobile Financial Services) market's field-level operations during 2020 and 2021. Despite these setbacks, bKash was able to finish the year with 50.5 million total users, 12.4 million "/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/bkash-app-ux-design.webp"/>
    
 </head>
 
@@ -53,7 +53,7 @@
                     Boost fintech UX noesis : A UI UX design Case study on bKash
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/bkash-app-ux-design.webp" alt="bkash app ux design" />
                 </div>
                 <p class="blog-body-text">
                     Fintech apps (or financial technology apps) are broadly adopted today as they have changed the way companies operate. It refers to any app that enables people or businesses to digitally monitor, regulate, or gain insights into their accounts or conduct financial transactions. The Covid-19 outbreak impacted the MFS (Mobile Financial Services) market's field-level operations during 2020 and 2021. Despite these setbacks, bKash was able to finish the year with 50.5 million total users, 12.4 million new users, 35,000 new merchants, and 41,000 new agents. Today, we'll examine the Fintech app - bKash and evaluate its user interface.
@@ -65,7 +65,7 @@
                     bKash, a subsidiary of BRAC Bank, is the fastest and safest medium of mobile financial transactions in Bangladesh. bKash provides services such as sending money, adding money, paying bills, mobile recharge, online payment, and many more.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/brac-bank-design.webp" alt="brac bank design" />
                 </div>
                 <p class="blog-body-text">
                     People in Bangladesh, like many other developing countries, migrate to urban regions to earn a living so that they can support their families in rural areas. The idea behind bKash was to cater to this expanding group of employees by developing a reliable system that would enable them to transfer money home in a safe, quick, and reasonable manner. Bkash plays a significant role in connecting the population of Bangladesh to digital financial services. According to GSMA (Global System for Mobile communications Association), the technology behind bKash enables 98% of the country's mobile consumers to access its service using very basic devices. bKash devised a simple USSD interface that could be accessed by the cheapest (i.e. $15) handset.
@@ -99,7 +99,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/ia-of-banking-app.webp" alt="IA of banking app" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -119,7 +119,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/login-screen-ui-design.webp" alt="login screen ui design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -131,7 +131,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/mobile-app-home-screen.webp" alt="mobile app home screen" />
                 </div>
                
                 <p class="blog-body-text">
@@ -180,7 +180,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/image6.jpg" alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/boost-fintech-ux/user-reviews-of-bkash.webp" alt="user reviews of bkash" />
                 </div>
 
 

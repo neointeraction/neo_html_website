@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/adobe-buys-figma-is-this-a-positive-or-negative-development"/>
   <meta property="og:title" content="Adobe Buys Figma: Is this a positive or negative development?"/>
   <meta property="og:description" content="On Thursday, 15th Sep 2022, An ivy league college dropout suddenly became the most-talked-about person in the technology world. His design product company, small-but-fast growing Figma, agreed to be sold to rival Adobe Inc. for $20 Billion in cash and stocks.--Figma is cloud-based collaboration software that eventually got popular among Designers, Software developers, and Product Managers who design and develop apps and other technology products.--Figma was founded by Dylan Field and Evan Wallac"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/adobe-plans-to-buy-figma.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/adobe-buys-figma-is-this-a-positive-or-negative-development"/>
@@ -23,7 +23,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Adobe Buys Figma: Is this a positive or negative development?"/>
   <meta name="twitter:description" content="On Thursday, 15th Sep 2022, An ivy league college dropout suddenly became the most-talked-about person in the technology world. His design product company, small-but-fast growing Figma, agreed to be sold to rival Adobe Inc. for $20 Billion in cash and stocks.--Figma is cloud-based collaboration software that eventually got popular among Designers, Software developers, and Product Managers who design and develop apps and other technology products.--Figma was founded by Dylan Field and Evan Wallac"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/adobe-plans-to-buy-figma.webp"/>
    
 </head>
 
@@ -50,7 +50,7 @@
                     Adobe Buys Figma: Is this a positive or negative development?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/adobe-plans-to-buy-figma.webp" alt="adobe plans to buy figma" />
                 </div>
                 <p class="blog-body-text">
                     On Thursday, 15th Sep 2022, An ivy league college dropout suddenly became the most-talked-about person in the technology world. His design product company, small-but-fast growing Figma, agreed to be sold to rival <a href="https://www.adobe.com/in/" target="_blank">Adobe Inc.</a> for $20 Billion in cash and stocks.
@@ -69,7 +69,7 @@
                     Evolution of UI UX design with popular tools
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/evolution-of-ux-ui-tools.webp" alt="evolution of ux ui tools" />
                 </div>
 
                 <div class="blog-quote-block">
@@ -106,7 +106,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/adobe-s-acquisition-of-figma.webp" alt="Adobe's acquisition of Figma" />
                 </div>
 
                 <p class="blog-body-text">
@@ -135,7 +135,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/adobe-buys-figma/alternate-to-figma.webp" alt="alternate to figma" />
                 </div>
                 
 

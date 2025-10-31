@@ -13,7 +13,7 @@
     <meta property="og:description"
         content="6 Big Reasons to Apply Illustrations in UI/UX design" />
     <meta property="og:image"
-        content="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/ui-design-illustrations-thumbnail.jpeg" />
+        content="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/ui-design-illustrations.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="<?php echo $path; ?>blogs/6-big-reasons-to-apply-illustrations-in-ui-ux-design.php" />
@@ -28,7 +28,7 @@
     <meta name="twitter:description"
         content="6 Big Reasons to Apply Illustrations in UI/UX design" />
     <meta name="twitter:image"
-        content="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/ui-design-illustrations-thumbnail.jpeg" />
+        content="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/ui-design-illustrations.webp" />
 
 </head>
 
@@ -55,7 +55,7 @@
                     6 Big Reasons to Apply Illustrations in UI/UX design
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/ui-design-illustrations-thumbnail-mobile.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/ui-design-illustrations.webp" alt="ui design illustrations" />
                 </div>
                 <p class="blog-body-text">
                     Illustrations help explain the meaning of complicated ideas and particular concepts, texts, or processes through visual translation and interpretation. It’s an
@@ -82,8 +82,8 @@
                     <b>2. Create dynamic brand experiences/ Illustrations are memorable and catchy, so they work well in growing brand awareness and recognizability</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/amplifying-ux-ui-with-illustrations-for-dynamic-brand-experiences.jpeg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/create-dynamic-brand-experiences.webp"
+                        alt="Create dynamic brand experiences" />
                 </div>
                 <p class="blog-body-text">
                     In comparison with text, images tend to stick more in long-term memory. The effect will increase when the pictures are informative, designed as per the
@@ -98,7 +98,7 @@
                     <b>3. Illustrations are a well-checked tool of creative storytelling</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/creative-storytelling-illustrations-to-amplify-ux-ui.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/creative-storytelling-illustrations.webp" alt="creative storytelling illustrations" />
                 </div>
                 <p class="blog-body-text">
                     Since powerful illustrations can drive user engagement for a long time,visual storytelling becomes a way of telling the actual story behind the concept. The
@@ -131,7 +131,7 @@
                     <b>6. Custom graphic design sets the ground for aesthetic satisfaction which grows the desirability of the project</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/custom-graphic-design-illustrations-for-ux-ui.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/custom-graphic-design.webp" alt="Custom graphic design" />
                 </div>
                 <p class="blog-body-text">
                     Despite the fact that many people choose the 'functionality first' concept, their inherent yearning for joy and beauty remains. Every interface is built with
@@ -153,52 +153,52 @@
                     <b>Hero Images</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/ui-hero-image-illustrations-ux-ui-design.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/hero-images.webp" alt="Hero Images" />
                 </div>
     
                 <p class="blog-body-text">
                     <b>Tutorials</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/tutorials-illustrations-ux-ui.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/tutorials-illustrations.webp" alt="Tutorials illustrations" />
                 </div>
                 <p class="blog-body-text">
                     <b>Theme</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/theme-based-illustrations-ux-ui-design.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/theme-based-illustrations.webp" alt="Theme based illustrations" />
                 </div>
                 <p class="blog-body-text">
                     <b>Mascots and Characters</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/mascots-and-character-illustrations-ux-ui.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/mascots-and-characters-illustrations.webp" alt="Mascots and Characters illustrations" />
                 </div>
 
                 <p class="blog-body-text">
                     <b>Onboarding</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/onboarding-illustrations-ux-ui-design.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/onboarding-illustrations.webp" alt="Onboarding illustrations" />
                 </div>
     
                 <p class="blog-body-text">
                     <b>Rewards and other gamification graphics</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/gamification-graphics-rewards-ux-ui-design.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/rewards-and-other-gamification-graphics.webp" alt="Rewards and other gamification graphics" />
                 </div>
                 <p class="blog-body-text">
                     <b>Stickers</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/stickers-illustrations-ux-ui-design.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/stickers-illustrations.webp" alt="Stickers illustrations" />
                 </div>
                 <p class="blog-body-text">
                     <b>Infographics</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/infographics-illustrations-ux-ui-design .jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/illustrations-ui-ux-design/infographics-illustrations.webp" alt="Infographics_illustrations" />
                 </div>
 
                 <h4 class="blog-body-title">Conclusion</h4>

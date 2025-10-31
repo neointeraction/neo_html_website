@@ -14,7 +14,7 @@
     <meta property="og:title" content="Modernizing India's Payment Landscape with Neobanks & E-Payments" />
     <meta property="og:description"
         content="Neobanking refers to a type of online banking that doesn't need any physical branches or infrastructure from traditional banks. Neobanks, also called digital banks, are financial institutions that leverage technology to provide their clients with a variety of banking services, such as account opening, payments, transfers, loans, and other financial products.How Neobanks are Transforming Banking for Two Important Demographics :The Millennials and SMEsNeobanks are currently focused on either Mille" />
-    <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/modernizing-india-s-payment-landscape-with-neobanks-e-payments.jpeg" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/neobanking-mobile-app-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="<?php echo $base_url; ?>blogs/modernizing-india-s-payment-landscape-with-neobanks-e-payments.php" />
@@ -26,7 +26,7 @@
     <meta name="twitter:title" content="Modernizing India's Payment Landscape with Neobanks & E-Payments" />
     <meta name="twitter:description"
         content="Neobanking refers to a type of online banking that doesn't need any physical branches or infrastructure from traditional banks. Neobanks, also called digital banks, are financial institutions that leverage technology to provide their clients with a variety of banking services, such as account opening, payments, transfers, loans, and other financial products.How Neobanks are Transforming Banking for Two Important Demographics :The Millennials and SMEsNeobanks are currently focused on either Mille" />
-    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/neobanking-mobile-app-design-india-payment-ux-ui.jpeg" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/neobanking-mobile-app-design.webp" />
 </head>
 
 <body>
@@ -52,8 +52,8 @@
                     Modernizing India's Payment Landscape with Neobanks & E-Payments
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/neobanking-mobile-app-design-india-payment-ux-ui.jpeg"
-                        alt="Neo Banking Mobile App Design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/neobanking-mobile-app-design.webp"
+                        alt="neobanking mobile app design" />
                 </div>
                 <p class="blog-body-text">
                     Neobanking refers to a type of
@@ -112,7 +112,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/traditional-banking-vs-neobank-ux-ui.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/traditional-banking-and-neobank.webp" alt="traditional banking and neobank" />
                 </div>
                 <p class="blog-body-text">
                     With the use of cutting-edge digital technology, neo banking has completely transformed the banking sector by offering users a seamless and convenient
@@ -139,7 +139,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/future-neobanking-technologies-driving-innovation-india-ux-ui.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/india-neobanks-e-payments/future-neobanking.webp" alt="future neobanking" />
                 </div>
 
                 <p class="blog-body-text">

@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="
 In today's digital age, the mobile-first revolution has become more than just a trend—it's a fundamental shift that businesses can't afford to ignore. With the majority of internet users accessing content on mobile devices, the need for responsive design has never been more critical. This article delves into the significance of responsive design in the mobile-first era and explores its direct correlation to improved user engagement and business growth.Understanding the Mobile-First EraThe term " />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/role-of-responsive-design/ux-ui-design-services-neointeraction-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -29,7 +29,7 @@ In today's digital age, the mobile-first revolution has become more than just a 
     <meta name="twitter:description"
         content="
 In today's digital age, the mobile-first revolution has become more than just a trend—it's a fundamental shift that businesses can't afford to ignore. With the majority of internet users accessing content on mobile devices, the need for responsive design has never been more critical. This article delves into the significance of responsive design in the mobile-first era and explores its direct correlation to improved user engagement and business growth.Understanding the Mobile-First EraThe term " />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/role-of-responsive-design/ux-ui-design-services-neointeraction-design.webp" />
     <meta name="twitter:card" content="summary" />
 
 </head>
@@ -58,8 +58,8 @@ In today's digital age, the mobile-first revolution has become more than just a 
                     Role of Responsive Design in the Mobile-First Era for Business Success
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/role-of-responsive-design/image1.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/role-of-responsive-design/ux-ui-design-services-neointeraction-design.webp"
+                        alt="ux ui design services - neointeraction design" />
                 </div>
                 <p class="blog-body-text">
                     In today's digital age, the mobile-first revolution has become more than just a trend—it's a
@@ -105,7 +105,7 @@ In today's digital age, the mobile-first revolution has become more than just a 
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/role-of-responsive-design/image2.jpg"
+                    <img src="<?php echo $path; ?>assets/images/blog/role-of-responsive-design/reducing-bounce-rates-with-responsive-design-neointeraction-design.webp"
                         alt="reducing bounce rates with responsive design - neointeraction design" />
                 </div>
                 <p class="blog-body-text">
@@ -129,7 +129,7 @@ In today's digital age, the mobile-first revolution has become more than just a 
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/role-of-responsive-design/image3.jpg"
+                    <img src="<?php echo $path; ?>assets/images/blog/role-of-responsive-design/reducing-bounce-rates-with-responsive-design-neointeraction-design.webp"
                         alt="reducing bounce rates with responsive design - neointeraction design" />
                 </div>
 

@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design"/>
   <meta property="og:title" content="Pioneering AR & VR Revolution: Supercharging E-Commerce UX Design"/>
   <meta property="og:description" content="In the field of e-commerce , the integration of cutting-edge technologies has become an imperative to stay ahead of the curve. Among these, Augmented Reality (AR) and Virtual Reality (VR) have emerged as game-changers, revolutionizing the way consumers interact with online stores."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ar-vr-ecommerce-ux-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ree.webp"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/pioneering-ar-vr-revolution-supercharging-e-commerce-ux-design"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Pioneering AR & VR Revolution: Supercharging E-Commerce UX Design"/>
   <meta name="twitter:description" content="In the field of e-commerce , the integration of cutting-edge technologies has become an imperative to stay ahead of the curve. Among these, Augmented Reality (AR) and Virtual Reality (VR) have emerged as game-changers, revolutionizing the way consumers interact with online stores."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ar-vr-ecommerce-ux-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ree.webp"/>
    
 </head>
 
@@ -51,7 +51,7 @@
                 <h1 class="blog-title">Pioneering AR & VR Revolution: Supercharging E-Commerce UX Design</h1>
     
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ar-vr-ecommerce-ux.jpeg" alt="Pioneering AR & VR Revolution" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ree.webp" alt="ree" />
                 </div>
 
                 <p class="blog-body-text">In the field of e-commerce , the integration of cutting-edge technologies has become an imperative to stay ahead of the curve. Among these, Augmented Reality (AR) and Virtual Reality (VR) have emerged as game-changers, revolutionizing the way consumers interact with online stores. As technology advances, so does user experience (UX) and user interface (UI) design, paving the way for immersive and engaging shopping experiences like never before.</p>
@@ -62,7 +62,7 @@
                 <p class="blog-body-text">One of the most significant advantages of AR and VR in e-commerce lies in their ability to bridge the gap between the physical and digital realms. For example, AR-powered apps allow users to see how furniture pieces would look in their living room or how a new shade of lipstick would complement their skin tone. VR, on the other hand, can transport shoppers into virtual showrooms where they can explore products in a lifelike setting.</p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ikea-place-app.jpeg" alt="IKEA place" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ree.webp" alt="ree" />
                 </div>
 
                 <h4 class="blog-body-title">Enhancing the Shopping Experience through Innovative UI UX Design</h4>
@@ -75,7 +75,7 @@
                 </ul>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/warby-parker-virtual-tryon.jpeg" alt="Enhanced In-Store Navigation" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ree.webp" alt="ree" />
                 </div>
 
                 <ul>
@@ -83,7 +83,7 @@
                 </ul>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/walmart-store-assistant-ui.jpeg" alt="Virtual Showrooms" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ar-vr-ecommerce-ux/ree.webp" alt="ree" />
                 </div>
 
                 <ul>

@@ -13,7 +13,7 @@
     <meta property="og:title" content="Why Hiring a Contract Front-End Developer is More Economical Than Hiring a Permanent Employee" />
     <meta property="og:description"
         content="Hiring a contract front-end developer can offer numerous economic benefits over bringing on a permanent employee. From cost savings on benefits and overhead to the flexibility and specialized expertise that contractors provide, businesses can gain a competitive edge." />
-    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/contract-frontend-developer-economical/contract-vs-permanent-frontend-thumbnail-mobile.jpeg" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/contract-frontend-developer-economical/frontend-developer-contract.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content="https://www.neointeraction.com/blogs/why-hiring-a-contract-front-end-developer-is-more-economical-than-hiring-a-permanent-employee" />
@@ -28,7 +28,7 @@
     <meta name="twitter:title" content="Why Hiring a Contract Front-End Developer is More Economical Than Hiring a Permanent Employee" />
     <meta name="twitter:description"
         content="Hiring a contract front-end developer can offer numerous economic benefits over bringing on a permanent employee. From cost savings on benefits and overhead to the flexibility and specialized expertise that contractors provide, businesses can gain a competitive edge." />
-    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/contract-frontend-developer-economical/contract-vs-permanent-frontend-thumbnail-mobile.jpeg" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/contract-frontend-developer-economical/frontend-developer-contract.webp" />
 
 </head>
 
@@ -58,7 +58,7 @@
                     into the financial and strategic benefits of opting for contract talent.</p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/contract-frontend-developer-economical/contract-vs-permanent-frontend.jpeg" alt="frontend developer contract" />
+                    <img src="<?php echo $path; ?>assets/images/blog/contract-frontend-developer-economical/frontend-developer-contract.webp" alt="frontend developer contract" />
                 </div>
 
                 <h2 class="blog-body-title">What Are the Key Cost Savings When Hiring a Contract Front-End Developer?</h2>
@@ -86,7 +86,7 @@
                 <h2 class="blog-body-title">Benefits of Hiring Contract Front-End Developers</h2>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/contract-frontend-developer-economical/contract-frontend-developer-benefits.jpeg" alt="contract front end developer" />
+                    <img src="<?php echo $path; ?>assets/images/blog/contract-frontend-developer-economical/contract-front-end-developer.webp" alt="contract front end developer" />
                 </div>
 
                 <p class="blog-body-text"><strong>Expertise on Demand:</strong> Contract developers often bring a wealth of experience from working on diverse projects. This broad

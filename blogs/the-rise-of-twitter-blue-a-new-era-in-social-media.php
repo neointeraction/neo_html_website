@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="In the ever-evolving realm of social media, Twitter under the leadership of Elon Musk has boldly ventured into uncharted territory with the introduction of Twitter Blue - a subscription service promising exclusive features and a premium user experience. This strategic shift signifies a departure from the traditional advertising-based model, ushering in a new era of social media monetization. Unveiling Twitter Blue: A Strategic ShiftTwitter Blue, priced at $8 per month, provides subscribers with " />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/the-rise-of-twitter/ree.webp" />
     <meta property="og:image:width" content="1881" />
     <meta property="og:image:height" content="1453" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="In the ever-evolving realm of social media, Twitter under the leadership of Elon Musk has boldly ventured into uncharted territory with the introduction of Twitter Blue - a subscription service promising exclusive features and a premium user experience. This strategic shift signifies a departure from the traditional advertising-based model, ushering in a new era of social media monetization. Unveiling Twitter Blue: A Strategic ShiftTwitter Blue, priced at $8 per month, provides subscribers with " />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/the-rise-of-twitter/ree.webp" />
 
 </head>
 
@@ -73,7 +73,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-rise-of-twitter/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-rise-of-twitter/ree.webp" alt="ree" />
                 </div>
 
 
@@ -166,7 +166,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-rise-of-twitter/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-rise-of-twitter/ree.webp" alt="ree" />
                 </div>
 
                 <p class="blog-body-text">

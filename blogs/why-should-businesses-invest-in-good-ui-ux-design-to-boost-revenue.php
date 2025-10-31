@@ -14,7 +14,7 @@
     <meta property="og:title" content="Why should businesses invest in good UI UX design to boost revenue?" />
     <meta property="og:description"
         content="Good design is good business. We base our decisions on aesthetics when selecting goods, services, and people—from dating sites to online shopping. Successful businesses are aware of this. Despite the enormous value of competently showcasing your marketing and branding materials with outstanding design, there is often a hesitancy to find the funds for good design.The majority of firms believe that providing an ideal response to the client's challenges is the key to their success. The most success" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/ui-ux-design-boost-revenue.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -28,7 +28,7 @@
     <meta name="twitter:title" content="Why should businesses invest in good UI UX design to boost revenue?" />
     <meta name="twitter:description"
         content="Good design is good business. We base our decisions on aesthetics when selecting goods, services, and people—from dating sites to online shopping. Successful businesses are aware of this. Despite the enormous value of competently showcasing your marketing and branding materials with outstanding design, there is often a hesitancy to find the funds for good design.The majority of firms believe that providing an ideal response to the client's challenges is the key to their success. The most success" />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/ui-ux-design-boost-revenue.webp" />
 </head>
 
 <body>
@@ -55,8 +55,8 @@
                     Why should businesses invest in good UI UX design to boost revenue?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/why-should-businesses-invest-image1.jpg"
-                        alt="why-should-businesses-invest" />
+                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/ui-ux-design-boost-revenue.webp"
+                        alt="ui ux design boost revenue" />
                 </div>
                 <p class="blog-body-text">
                     Good design is good business. We base our decisions on aesthetics when selecting goods, services,
@@ -76,8 +76,8 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/why-should-businesses-invest-image2.jpg"
-                        alt="why-should-businesses-invest" />
+                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/investing-in-ux.webp"
+                        alt="investing in ux" />
                 </div>
 
                 <p class="blog-body-text">
@@ -93,8 +93,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/why-should-businesses-invest-image3.jpg"
-                        alt="why-should-businesses-invest" />
+                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/ux-design-statistics.webp"
+                        alt="ux design statistics" />
                 </div>
 
                 <p class="blog-body-text">
@@ -115,8 +115,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/why-should-businesses-invest-image4.jpg"
-                        alt="why-should-businesses-invest" />
+                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/first-impressions-in-ux-design.webp"
+                        alt="first impressions in ux design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -136,8 +136,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/why-should-businesses-invest-image5.jpg"
-                        alt="why-should-businesses-invest" />
+                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/shaping-notions-in-design.webp"
+                        alt="shaping notions in design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -160,8 +160,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/why-should-businesses-invest-image6.jpg"
-                        alt="why-should-businesses-invest" />
+                    <img src="<?php echo $path; ?>assets/images/blog/why-should-businesses-invest/brand-loyalty.webp"
+                        alt="brand loyalty" />
                 </div>
 
                 <p class="blog-body-text">

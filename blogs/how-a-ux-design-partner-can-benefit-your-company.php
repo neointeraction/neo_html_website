@@ -12,7 +12,7 @@
     <meta property="og:title" content="How a UX design partner can benefit your company?" />
     <meta property="og:description"
         content="With digitization on the rise all across the globe, it’s no doubt that all types of businesses nowadays need a digital presence. Due to this, digital products will be an important element for running the show for these businesses. And without the success of these products, it would be a big problem for businesses to stay in the game. The solution to this problem is a term you would have heard a lot in recent times, i.e; UX Design (User Experience Design).What is a UX Design?Before jumping in, le" />
-    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/benefits-of-ux-design-partner-for-your-company-thumbnail.jpeg" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/ux-design-partner.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/how-a-ux-design-partner-can-benefit-your-company" />
@@ -26,7 +26,7 @@
     <meta name="twitter:title" content="How a UX design partner can benefit your company?" />
     <meta name="twitter:description"
         content="With digitization on the rise all across the globe, it’s no doubt that all types of businesses nowadays need a digital presence. Due to this, digital products will be an important element for running the show for these businesses. And without the success of these products, it would be a big problem for businesses to stay in the game. The solution to this problem is a term you would have heard a lot in recent times, i.e; UX Design (User Experience Design).What is a UX Design?Before jumping in, le" />
-    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/benefits-of-ux-design-partner-for-your-company-thumbnail.jpeg" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/ux-design-partner.webp" />
 
 </head>
 
@@ -51,7 +51,7 @@
                 </p>
                 <h1 class="blog-title">How a UX design partner can benefit your company?</h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/benefits-of-ux-design-partner-for-your-company.jpeg" alt="UX design partner" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/ux-design-partner.webp" alt="UX design partner" />
                 </div>
                 <p class="blog-body-text">
                     With digitization on the rise all across the globe, it’s no doubt that all types of businesses nowadays need a digital presence. Due to this, digital products
@@ -103,7 +103,7 @@
                     <li>Airbnb attributes UX for taking them from being a near-failure to being valued at $10 million. (First Round Review)</li>
                 </ul>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/ux-design-process-for-business-success.jpg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-partner-benefits/ux-deisgn-process-for-businesses.webp"
                         alt="ux deisgn process for businesses" />
                 </div>
                 <h4 class="blog-body-title">How does a UX Design Partner help your business?</h4>

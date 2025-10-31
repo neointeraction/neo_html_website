@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/learn-how-to-design-for-hybrid-workforce-model-now"/>
   <meta property="og:title" content="Learn how to design for Hybrid Workforce Model now"/>
   <meta property="og:description" content="With the drastic shift to a hybrid workforce model (both in-office and remote work), the operations of organizations are changing. It is bringing a new trend in Digital Transformation in India."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/ux-hybrid-workforce-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/hybrid-workforce-model.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="941"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/learn-how-to-design-for-hybrid-workforce-model-now"/>
@@ -23,7 +23,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Learn how to design for Hybrid Workforce Model now"/>
   <meta name="twitter:description" content="With the drastic shift to a hybrid workforce model (both in-office and remote work), the operations of organizations are changing. It is bringing a new trend in Digital Transformation in India."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/ux-hybrid-workforce-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/hybrid-workforce-model.webp"/>
 </head>
 
 <body>
@@ -48,7 +48,7 @@
     <h1 class="blog-title">Learn how to design for Hybrid Workforce Model now</h1>
     <p class="blog-body-text">With the drastic shift to a hybrid workforce model (both in-office and remote work), the operations of organizations are changing. It is bringing a new trend in Digital Transformation in India. A successful hybrid model is designing a space that meets the requirements of both remote and on-site employees which encourages productivity, collaboration, and the well-being of workers.</p>
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/ux-hybrid-workforce.jpeg" alt="Hybrid Workforce Model" />
+        <img src="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/hybrid-workforce-model.webp" alt="Hybrid Workforce Model" />
     </div>
     <h2 class="blog-body-title">Understanding the Hybrid Workforce Model</h2>
     <p class="blog-body-text">The hybrid workforce model gives the choice to employees to work both from the office and remote locations. Hybrid work has become a solution for many organizations due to its flexibility and work-life balance leading to employee satisfaction and creating a significant change in the Digital Transformation services in India. However, the model poses several challenges like maintaining team unity, proper communication, and balancing resource accessibility for both in-office and remote workers.</p>
@@ -77,12 +77,12 @@
     <h2 class="blog-body-title">Examples of Successful Hybrid Workforce Design</h2>
     <h4 class="blog-body-title">1. Microsoft</h4>
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/microsoft-workforce.jpeg" alt="Microsoft" />
+        <img src="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/microsoft.webp" alt="Microsoft" />
     </div>
     <p class="blog-body-text"><a href="https://www.microsoft.com/en-in" target="_blank">Microsoft</a> has adopted a hybrid model which emphasizes flexibility and collaboration. The office spaces are designed that support teamwork and remote employees are equipped with tools like Microsoft Teams to stay connected and productive.</p>
     <h4 class="blog-body-title">2. HubSpot</h4>
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/hubspot-workforce.jpeg" alt="HubSpot" />
+        <img src="<?php echo $path; ?>assets/images/blog/design-hybrid-workforce/hubspot.webp" alt="HubSpot" />
     </div>
     <p class="blog-body-text">HubSpot's hybrid work model is focused on employee choice which allows workers to select the environment that best suits their productivity. HubSpot’s flexible office spaces and strong digital infrastructure help keep remote employees fully integrated into the company’s culture.</p>
     <h2 class="blog-body-title">Overcoming Challenges</h2>

@@ -13,7 +13,7 @@
     <meta property="og:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-for-front-end-development.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" />
@@ -29,7 +29,7 @@
     <meta name="twitter:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-for-front-end-development.webp" />
 
 </head>
 
@@ -63,7 +63,7 @@
                     that React can be used across multiple platforms, allowing developers to learn React once and use it to code for web, iOS, Android, and even desktop
                     applications. In this article, we will discuss in detail the reasons why React stands out among all other frameworks. </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-js-for-frontend-ux-ui-development.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-for-front-end-development.webp" alt="React for front end development" />
                 </div>
 
                 <p class="blog-body-text">
@@ -97,7 +97,7 @@
                     breaking down the user interface into smaller, self-contained building blocks called components. These components have both the structure and behavior of UI
                     elements, promoting reusability and maintainability across the application. </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/reusable-react-components-ux-ui.jpeg" alt="Reusable React Components" />
+                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-components.webp" alt="React components" />
                 </div>
                 <p class="blog-body-text">
                     You can make components out of anything and reuse them. That includes smaller components like buttons, mild components like carousels or layout grids, or even
@@ -127,7 +127,7 @@
                     This vast community comprises developers from various backgrounds and skill levels, contributing to its growth and adoption worldwide. </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-js-community-support-ux-ui.jpeg" alt="Reusable React Components" />
+                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-community-support.webp" alt="React  community support" />
                 </div>
 
                 <p class="blog-body-text">
@@ -151,7 +151,7 @@
 
                     Here are the things you can do to enable SEO in a React app</p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-js-front-end-development-seo-ux-ui.jpeg" alt="Reusable React Components" />
+                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-for-front-end-development-seo.webp" alt="React for front end development- SEO " />
                 </div>
 
 
@@ -184,7 +184,7 @@
 
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/react-js-front-end-ux-ui-development.jpeg" alt=" React Native Components" />
+                    <img src="<?php echo $path; ?>assets/images/blog/react-frontend-reasons/font-end-development-using-react-js.webp" alt="Font end development using react js" />
                 </div>
 
 

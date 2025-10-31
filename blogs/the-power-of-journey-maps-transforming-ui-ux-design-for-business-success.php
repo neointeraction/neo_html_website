@@ -13,7 +13,7 @@
     <meta property="og:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/journey-maps-ui-ux-business/ui-ux-design-services-in-bangalore.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" />
@@ -29,7 +29,7 @@
     <meta name="twitter:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/journey-maps-ui-ux-business/ui-ux-design-services-in-bangalore.webp" />
 
 </head>
 
@@ -56,8 +56,8 @@
                     The Power of Journey Maps: Transforming UI UX Design for Business Success
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/journey-maps-ui-ux-business/journey-maps-transforming-ui-ux-design-business-success-bangalore.jpeg"
-                        alt="Transforming UI UX Design for Business Success" />
+                    <img src="<?php echo $path; ?>assets/images/blog/journey-maps-ui-ux-business/ui-ux-design-services-in-bangalore.webp"
+                        alt="UI UX Design services in Bangalore" />
                 </div>
                 <p class="blog-body-text">
                     In the nuanced world of UI UX design, journey maps stand out as a crucial step. They go beyond crafting aesthetically pleasing interfaces, serving as strategic
@@ -92,8 +92,8 @@
                     customer-centric design that boosts customer satisfaction and business performance.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/journey-maps-ui-ux-business/journey-maps-insights-customer-behavior.jpeg"
-                        alt="Transforming UI UX Design for Business Success" />
+                    <img src="<?php echo $path; ?>assets/images/blog/journey-maps-ui-ux-business/journey-maps-insights-customer-behavior.webp"
+                        alt="Journey Maps insights customer behavior" />
                 </div>
 
                 <p class="blog-body-text">
@@ -132,8 +132,8 @@
                     interactions with your product.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/journey-maps-ui-ux-business/user-research-for-journey-mapping-ux-ui.jpeg"
-                        alt="Transforming UI UX Design for Business Success" />
+                    <img src="<?php echo $path; ?>assets/images/blog/journey-maps-ui-ux-business/user-research-in-journey-map.webp"
+                        alt="User Research in journey map" />
                 </div>
                 <p class="blog-body-text">
                     Example: Netflix uses data from user viewing habits to create journey maps that inform new feature development. </p>

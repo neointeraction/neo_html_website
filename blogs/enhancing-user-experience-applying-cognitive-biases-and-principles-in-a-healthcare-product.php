@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs"/>
   <meta property="og:title" content="Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product"/>
   <meta property="og:description" content="In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients."/>
-  <meta property="og:image" content="https://www.neointeraction.com/assets/images/blog/cognitive-biases-healthcare-ux/banner.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/user-experience-applying-cognitive-biases.webp"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/enhancing-user-experience-applying-cognitive-biases-and-principles-in-a-healthcare-product.php"/>
@@ -20,7 +20,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product"/>
   <meta name="twitter:description" content="In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients."/>
-  <meta name="twitter:image" content="https://www.neointeraction.com/assets/images/blog/cognitive-biases-healthcare-ux/healthcare-ux-principles-thumbnail.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/user-experience-applying-cognitive-biases.webp"/>
    
 </head>
 
@@ -46,7 +46,7 @@
     <h1 class="blog-title">Enhancing User Experience: Applying Cognitive Biases and Principles in a Healthcare Product</h1>
     
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/healthcare-ux-principles-thumbnail-mobile.jpeg" srcset="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/healthcare-ux-principles-thumbnail.jpeg" alt="User Experience applying cognitive biases" />
+        <img src="<?php echo $path; ?>assets/images/blog/cognitive-biases-healthcare-ux/user-experience-applying-cognitive-biases.webp" alt="User Experience applying cognitive biases" />
     </div>
     <p class="blog-body-text">In healthcare products, user experience (UX) plays a critical role in determining their success and impact. Prioritizing UX leads to better results, increased user engagement, and happier patients. However, ignoring or performing poorly on the UX can result in issues including inefficiency, low user engagement, and patient discontent. A user-friendly telemedicine platform, for instance, makes it simpler for patients to book appointments, view records, and connect with clinicians, improving experiences and health results. However, people may struggle to use medical equipment appropriately if it has a challenging user interface or confusing instructions, which could be harmful to their health.</p>
     <h4 class="blog-body-title">What are Cognitive biases and principles in UX?</h4>

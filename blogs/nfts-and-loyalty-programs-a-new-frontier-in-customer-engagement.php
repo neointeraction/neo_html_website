@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/nfts-and-loyalty-programs-a-new-frontier-in-customer-engagement.php"/>
   <meta property="og:title" content="NFTs And Loyalty Programs: A New Frontier In Customer Engagement"/>
   <meta property="og:description" content="Join us as we explore the fascinating landscape of loyalty programs. This blog will cover the basics of traditional loyalty setups and dive into the emerging realm of NFTs as the next evolution in rewards and customer loyalty."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/nft-loyalty-customer-engagement-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/ree.webp"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/nfts-and-loyalty-programs-a-new-frontier-in-customer-engagement.php"/>
@@ -22,7 +22,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="NFTs And Loyalty Programs: A New Frontier In Customer Engagement"/>
   <meta name="twitter:description" content="Join us as we explore the fascinating landscape of loyalty programs. This blog will cover the basics of traditional loyalty setups and dive into the emerging realm of NFTs as the next evolution in rewards and customer loyalty."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/nft-loyalty-customer-engagement-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/ree.webp"/>
    
 </head>
 
@@ -48,7 +48,7 @@
                 <h1 class="blog-title">NFTs And Loyalty Programs: A New Frontier In Customer Engagement</h1>
     
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/nft-loyalty-customer-engagement.jpeg" alt="NFTs and Loyalty Programs" />
+                    <img src="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/ree.webp" alt="ree" />
                 </div>
                 <p class="blog-body-text">Join us as we explore the fascinating landscape of loyalty programs. This blog will cover the basics of traditional loyalty setups and dive into the emerging realm of NFTs as the next evolution in rewards and customer loyalty. We'll also examine the integral role of intuitive UI UX design in crafting impactful loyalty programs for businesses.</p>
                 <p class="blog-body-text">Before we dive into the exciting world of NFT-based loyalty programs, let's unravel the building blocks: blockchain technology and NFTs.</p>
@@ -68,7 +68,7 @@
                 <p class="blog-body-text"><a href="<?php echo $path; ?>blogs/gamified-design-approaches-to-encourage-financial-discipline" target="_blank">Turning loyalty into a game</a> enhances customer engagement. NFTs act as digital badges, allowing customers to showcase achievements and loyalty milestones within a community.</p>
                 <p class="blog-body-text"><i>Example:</i> Starbucks pioneers gamified loyalty with Starbucks Odyssey, its blockchain-based program. Customers earn NFTs, known as Journey Stamps, by engaging in coffee-themed activities and videos and trying new drinks in-store, seamlessly integrating with the existing loyalty program for immersive, rewarding experiences.</p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/nft-gamified-loyalty-engagement-spotify.jpeg" alt="Gamified loyalty with Starbucks Odyssey" />
+                    <img src="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/ree.webp" alt="ree" />
                 </div>
                 <p class="blog-body-text"><b>3. Interoperability and Tradable Assets:</b></p>
                 <p class="blog-body-text">NFTs transcend the confines of a single platform, fostering active customer engagement. The ability to trade, sell, or gift these digital assets creates a sense of community collaboration.</p>
@@ -79,7 +79,7 @@
                 <p class="blog-body-text">Successful onboarding is synonymous with accessibility. UI UX design ensures that the onboarding process for NFT-based loyalty programs is user-friendly, guiding customers effortlessly through earning, storing, and trading digital assets.</p>
                 <p class="blog-body-text"><i>Example:</i> Coinbase streamlines NFT marketplace onboarding with a user-friendly interface, simplifying navigation for users to participate in the world of digital collectibles effortlessly.</p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/ui-ux-intuitive-onboarding-coinbase.jpeg" alt="Coinbase NFT marketplace" />
+                    <img src="<?php echo $path; ?>assets/images/blog/nfts-loyalty-programs-engagement/ree.webp" alt="ree" />
                 </div>
                 <p class="blog-body-text"><b>2. Visually Appealing Interfaces:</b></p>
                 <p class="blog-body-text">NFTs transcend utility; aesthetics matter. UI UX design focuses on creating visually appealing interfaces that enhance the overall customer experience and strengthen the emotional connection to the brand.</p>

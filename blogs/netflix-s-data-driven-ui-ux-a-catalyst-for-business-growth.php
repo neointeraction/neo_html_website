@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Table of Contents1. What is Data driven ui ux design ?2. Netflix's Data-Driven Movie Magic: Tailored for You3. Business Impact of Data-Driven UI UX Design4. ConclusionIn the ever-evolving landscape of digital entertainment, where user preferences and expectations shape the industry, Netflix has emerged not only as a content powerhouse but also as a pioneer in leveraging data-driven UI UX to enhance the user experience and drive business success.What is Data driven ui ux design ?Data-driven UI UX" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/netflix-s-data-driven/ree.webp" />
     <meta property="og:image:width" content="1411" />
     <meta property="og:image:height" content="1090" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="Table of Contents1. What is Data driven ui ux design ?2. Netflix's Data-Driven Movie Magic: Tailored for You3. Business Impact of Data-Driven UI UX Design4. ConclusionIn the ever-evolving landscape of digital entertainment, where user preferences and expectations shape the industry, Netflix has emerged not only as a content powerhouse but also as a pioneer in leveraging data-driven UI UX to enhance the user experience and drive business success.What is Data driven ui ux design ?Data-driven UI UX" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/netflix-s-data-driven/ree.webp" />
 </head>
 
 <body>
@@ -66,7 +66,7 @@
                     leveraging data-driven UI UX to enhance the user experience and drive business success.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/netflix-s-data-driven/image1.jpg" alt="image1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/netflix-s-data-driven/ree.webp" alt="ree" />
                 </div>
                 <h4 class="blog-body-title">
                     What is Data driven ui ux design ?
@@ -108,7 +108,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/netflix-s-data-driven/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/netflix-s-data-driven/ree.webp" alt="ree" />
                 </div>
 
                 <p class="blog-body-text">
@@ -152,7 +152,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/netflix-s-data-driven/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/netflix-s-data-driven/ree.webp" alt="ree" />
                 </div>
 
                 <p class="blog-body-text">

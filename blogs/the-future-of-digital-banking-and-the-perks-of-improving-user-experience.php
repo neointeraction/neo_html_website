@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="In recent years, fintech banks or digital-only banks, have grown in popularity. Digital-only banking is a type of banking without physical branches that only provides banking services such as transactions, financial services, and customer service online or via mobile apps.Numerous factors have contributed to the emergence of digital-only banking. Accessing online banking services has become simpler thanks to the widespread use of phones and digital technologies. The development of new technologi" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/digital-banking-ux-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="In recent years, fintech banks or digital-only banks, have grown in popularity. Digital-only banking is a type of banking without physical branches that only provides banking services such as transactions, financial services, and customer service online or via mobile apps.Numerous factors have contributed to the emergence of digital-only banking. Accessing online banking services has become simpler thanks to the widespread use of phones and digital technologies. The development of new technologi" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/digital-banking-ux-design.webp" />
 
 </head>
 
@@ -60,8 +60,8 @@
                     The future of digital banking and the perks of improving user experience
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/image1.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/digital-banking-ux-design.webp"
+                        alt="digital banking ux design" />
                 </div>
                 <p class="blog-body-text">
                     In recent years, fintech banks or digital-only banks, have grown in popularity. Digital-only banking
@@ -87,8 +87,8 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/image2.jpg"
-                        alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/user-friendly-banking-app.webp"
+                        alt="user friendly banking app" />
                 </div>
 
                 <p class="blog-body-text">
@@ -129,8 +129,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/image3.jpg"
-                        alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/user-experience-in-digital-banking.webp"
+                        alt="user experience in  digital banking" />
                 </div>
 
                 <p class="blog-body-text">
@@ -152,8 +152,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/image4.jpg"
-                        alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/digital-banking-security.webp"
+                        alt="digital banking security" />
                 </div>
 
                 <p class="blog-body-text">
@@ -173,8 +173,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/image5.jpg"
-                        alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/digital-banking-technology.webp"
+                        alt="digital banking technology" />
                 </div>
 
                 <p class="blog-body-text">
@@ -197,8 +197,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/image6.jpg"
-                        alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/finance-app-design.webp"
+                        alt="finance app design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -223,8 +223,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/image7.jpg"
-                        alt="image7" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/onboarding-for-digital-banking.webp"
+                        alt="onboarding for digital banking" />
                 </div>
 
                 <p class="blog-body-text">
@@ -245,8 +245,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/image8.jpg"
-                        alt="image8" />
+                    <img src="<?php echo $path; ?>assets/images/blog/the-future-of-digital-banking/digital-banking-chatbot.webp"
+                        alt="digital banking chatbot" />
                 </div>
 
                 <p class="blog-body-text">

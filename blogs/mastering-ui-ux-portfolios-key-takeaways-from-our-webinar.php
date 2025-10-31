@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar"/>
   <meta property="og:title" content="Mastering UI/UX Portfolios: Key Takeaways from Our Webinar "/>
   <meta property="og:description" content="A strong portfolio is like a key for designers in the competitive design world, unlocking opportunities for success. More than just a collection of work, it tells a visual story that showcases a designer's skills and creativity. This first impression can make a designer stand out and leave a lasting impact on clients and employers. Recently, we took a deep dive into the art of portfolio building in our first live webinar, &quot;How to Make Your UI/UX Portfolio Stand Out.&quot; Vanessa Lobo, our UX/UI desi"/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolio-webinar-key-learnings-thumbnail-mobile.jpg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ux-ui-protfolio-tips.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/mastering-ui-ux-portfolios-key-takeaways-from-our-webinar"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Mastering UI/UX Portfolios: Key Takeaways from Our Webinar "/>
   <meta name="twitter:description" content="A strong portfolio is like a key for designers in the competitive design world, unlocking opportunities for success. More than just a collection of work, it tells a visual story that showcases a designer's skills and creativity. This first impression can make a designer stand out and leave a lasting impact on clients and employers. Recently, we took a deep dive into the art of portfolio building in our first live webinar, &quot;How to Make Your UI/UX Portfolio Stand Out.&quot; Vanessa Lobo, our UX/UI desi"/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolio-webinar-key-learnings-thumbnail-mobile.jpg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ux-ui-protfolio-tips.webp"/>
    
 </head>
 
@@ -51,7 +51,7 @@
                 Mastering UI/UX Portfolios: Key Takeaways from Our Webinar
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ui-ux-portfolio-webinar-key-learnings.jpg" alt="ui-ux-portfolio-webinar-key-learnings" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/ux-ui-protfolio-tips.webp" alt="ux ui protfolio tips" />
                 </div>
                 <p class="blog-body-text">
                 A strong portfolio is like a key for designers in the competitive design world, unlocking opportunities for success. More than just a collection of work, it tells a visual story that showcases a designer's skills and creativity. This first impression can make a designer stand out and leave a lasting impact on clients and employers. Recently, we took a deep dive into the art of portfolio building in our first live webinar, "How to Make Your UI/UX Portfolio Stand Out." Vanessa Lobo, our UX/UI designer, led the session and shared her valuable experience and knowledge.
@@ -62,29 +62,29 @@ As the webinar unfolded, it transformed into a treasure trove of insights, givin
                 Now, let's talk about the important things we learned from this helpful session:
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/design-portfolio-ux-ui-explained.jpg" alt="design-portfolio-ux-ui-explained" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/what-is-a-design-portfolio.webp" alt="what is a design portfolio" />
                 </div>
                 <p class="blog-body-text">
                     <b>Crafting a Captivating Story:</b><br/>
                     The webinar emphasized the idea of transforming a portfolio into a captivating story rather than just showcasing projects. This involves taking the audience on a journey and unveiling the thought processes, challenges, and solutions behind each design. By telling a well-crafted story, designers can engage their audience and leave a lasting impression in their minds.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/how-to-showcase-projects-in-ux-ui-portfolio.jpg" alt="how-to-showcase-projects-in-ux-ui-portfolio" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/showcasing-projcets-in-portfolio.webp" alt="showcasing projcets in portfolio" />
                 </div> <p class="blog-body-text">
                     <b>Creating a Positive First Impression:</b><br/>
                     In the crucial initial moments when a visitor lands on a portfolio, the focus is on designing it to be visually striking and user-friendly. Every detail, from the layout to the colors chosen, plays a role in crafting a memorable experience for the viewer. This ensures that visitors are drawn in and stay engaged with the content.
                 </p> <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/creating-a-standout-ux-ui-portfolio.jpg" alt="creating-a-standout-ux-ui-portfolio" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/standout-ux-ui-portfolio.webp" alt="standout ux ui portfolio" />
                 </div> <p class="blog-body-text">
                     <b>Building a Personal Brand:</b><br/>
                     An essential takeaway from the webinar was that designers were encouraged to infuse their work with a unique style, values, and personality. A strong design persona not only sets a designer apart but also forges a deeper connection with the audience. This connection makes the portfolio more memorable and relatable, allowing viewers to connect on a personal level.
                 </p><div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/personal-branding-ux-ui-portfolio.jpg" alt="personal-branding-ux-ui-portfolio" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/personal-branding-portoflio.webp" alt="personal branding portoflio" />
                 </div> <p class="blog-body-text">
                     <b>Adding Value with Pet Projects:</b><br/>
                     Side projects go beyond the usual work, show a designer's inner motivation, and add a personal touch that can make a portfolio stand out in the competitive field. By showcasing versatility and passion through side projects, designers can demonstrate their commitment to continuous growth and innovation.
                 </p><div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/pet-project-ux-ui-portfolio-showcase.jpg" alt="pet-project-ux-ui-portfolio-showcase" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-portfolios-webinar/pet-project-portfolio.webp" alt="pet project portfolio" />
                 </div>
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>

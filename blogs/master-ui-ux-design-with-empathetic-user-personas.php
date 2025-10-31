@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Have you ever imagined a mobile app dedicated solely to plant enthusiasts, offering tailored features for every plant lover's dream? Or picture a healthcare app meticulously designed to cater to the unique needs of heart patients. It's in scenarios like these that the true potential of understanding user personas comes to light. Going far beyond basic demographics, user personas offer deep insights into user needs, preferences, and challenges. Armed with this knowledge, designers are equipped to" />
     <meta property="og:image"
-        content="<?php echo $base_url; ?>assets/images/blog/master-ui-ux-design/empathetic-user-personas-for-mastering-ux-ui-design-thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/master-ui-ux-design/ux-design-user-persons.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="Have you ever imagined a mobile app dedicated solely to plant enthusiasts, offering tailored features for every plant lover's dream? Or picture a healthcare app meticulously designed to cater to the unique needs of heart patients. It's in scenarios like these that the true potential of understanding user personas comes to light. Going far beyond basic demographics, user personas offer deep insights into user needs, preferences, and challenges. Armed with this knowledge, designers are equipped to" />
     <meta name="twitter:image"
-        content="<?php echo $base_url; ?>assets/images/blog/master-ui-ux-design/empathetic-user-personas-for-mastering-ux-ui-design-thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/master-ui-ux-design/ux-design-user-persons.webp" />
 
 </head>
 
@@ -60,8 +60,8 @@
                     Master UI UX Design with Empathetic User Personas
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/master-ui-ux-design/empathetic-user-personas-for-mastering-ux-ui-design.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/master-ui-ux-design/ux-design-user-persons.webp"
+                        alt="ux design user persons" />
                 </div>
                 <p class="blog-body-text">
 

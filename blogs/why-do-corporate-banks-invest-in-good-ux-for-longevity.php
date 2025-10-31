@@ -14,7 +14,7 @@
     <meta property="og:title" content="Why do corporate banks invest in good UX for longevity?" />
     <meta property="og:description"
         content="Good UX design means thinking like a user and offering a clear path to assist the user in achieving their goals when interacting with the product. A good UX design is when the product is useful, usable, findable, credible, accessible, and desirable. UX design is required for online banking platforms to advance and retain customers.Importance of good UX practices for corporate banking • Considerate designs maintain customers • Finance is made accessible and inclusive • Saves time and moneyGood UX" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/corporate-banks-invest-in-ux.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -28,7 +28,7 @@
     <meta name="twitter:title" content="Why do corporate banks invest in good UX for longevity?" />
     <meta name="twitter:description"
         content="Good UX design means thinking like a user and offering a clear path to assist the user in achieving their goals when interacting with the product. A good UX design is when the product is useful, usable, findable, credible, accessible, and desirable. UX design is required for online banking platforms to advance and retain customers.Importance of good UX practices for corporate banking • Considerate designs maintain customers • Finance is made accessible and inclusive • Saves time and moneyGood UX" />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/corporate-banks-invest-in-ux.webp" />
 
 </head>
 
@@ -57,8 +57,8 @@
                         Why do corporate banks invest in good UX for longevity?
                     </h1>
                     <div class="blog-banner-img">
-                        <img src="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/image1.jpg"
-                            alt="image1" />
+                        <img src="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/corporate-banks-invest-in-ux.webp"
+                            alt="corporate banks invest in ux" />
                     </div>
                     <p class="blog-body-text">
                         Good UX design means thinking like a user and offering a clear path to assist the user in
@@ -71,8 +71,8 @@
                     </h4>
 
                     <div class="blog-banner-img">
-                        <img src="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/image2.jpg"
-                            alt="image2" />
+                        <img src="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/ux-trend-fintech-app.webp"
+                            alt="ux trend fintech app" />
                     </div>
 
                     <p class="blog-body-text">
@@ -131,8 +131,8 @@
                     </h4>
 
                     <div class="blog-banner-img">
-                        <img src="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/image3.jpg"
-                            alt="image3" />
+                        <img src="<?php echo $path; ?>assets/images/blog/why-do-corporate-banks-invest/ux-practice-banking-app.webp"
+                            alt="ux practice banking app" />
                     </div>
 
                     <p class="blog-body-text">

@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important"/>
   <meta property="og:title" content="Interaction design: what is it and why is it important?"/>
   <meta property="og:description" content="Table of Contents1. Interaction Design vs User Experience Design2. What are the 5 Dimensions of Interaction Design ?3. Interaction design principles        3.1    Goal Driven        3.2   Readability        3.3   Usability        3.4   Learnability        3.5   Affordances4.   Salient PointsInteraction design is explained by IxDA as: “Interaction Design (IxD) defines the structure and behavior of interactive systems. Interaction Designers strive to create meaningful relationships between people "/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/interaction-design/importance-of-interaction-design.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/interaction-design-what-is-it-and-why-is-it-important"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Interaction design: what is it and why is it important?"/>
   <meta name="twitter:description" content="Table of Contents1. Interaction Design vs User Experience Design2. What are the 5 Dimensions of Interaction Design ?3. Interaction design principles        3.1    Goal Driven        3.2   Readability        3.3   Usability        3.4   Learnability        3.5   Affordances4.   Salient PointsInteraction design is explained by IxDA as: “Interaction Design (IxD) defines the structure and behavior of interactive systems. Interaction Designers strive to create meaningful relationships between people "/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/interaction-design/importance-of-interaction-design.webp"/>
    
 </head>
 
@@ -55,7 +55,7 @@
                     Interaction design is explained by IxDA as: “Interaction Design (IxD) defines the structure and behavior of interactive systems. Interaction Designers strive to create meaningful relationships between people and the products and services that they use, from computers to mobile devices to appliances and beyond.”
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/importance-of-interaction-design.webp" alt="importance of interaction design" />
                 </div>
                 <p class="blog-body-text">
                     Interaction designers focus on how users interact with things and utilize effective communication principles to produce desired user experiences. The goal of interaction design is to create engaging graphical user interfaces with well-thought-out actions. Understanding how technology and users interact with one another is critical in this profession. With this insight, you can anticipate how someone will engage with the system, identify and resolve difficulties, and design new methods of doing things.
@@ -64,7 +64,7 @@
                     Interaction Design vs User Experience Design
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/interaction-design-vs-user-experience.webp" alt="interaction design vs user experience" />
                 </div>
                 <p class="blog-body-text">
                     The connection between these two fields is not obvious: they are both new and overlap in some areas. As a result, some experts argue they are interchangeable, while others claim Interaction Design is a subset of user experience design. That is because user interaction with the system is also a UX design responsibility, which also concerns other areas, such as information design — the one responsible for designing how to store and organize information. We can say that UX design is a broader area of study of delivering a “usable” system to users.<br/>
@@ -83,7 +83,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/dimensions-of-interaction-design.webp" alt="dimensions of interaction design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -122,7 +122,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/goal-driven-interaction-design.webp" alt="goal driven_interaction design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -134,7 +134,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/redability-interaction-design.webp" alt="redability_interaction design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -146,7 +146,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/image6.jpg" alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/usability-in-interaction-design.webp" alt="usability in interaction design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -158,7 +158,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/image7.jpg" alt="image7" />
+                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/learnability-in-interaction-design.webp" alt="learnability in interaction design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -170,7 +170,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/image8.jpg" alt="image8" />
+                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/affordances-interaction-design.webp" alt="affordances_interaction design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -183,7 +183,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/image9.jpg" alt="image9" />
+                    <img src="<?php echo $path; ?>assets/images/blog/interaction-design/why-use-interaction-design.webp" alt="why use interaction design" />
                 </div>
 
                 <p class="blog-body-text">

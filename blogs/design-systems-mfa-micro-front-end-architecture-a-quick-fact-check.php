@@ -15,7 +15,7 @@
   2.2 Benefits of Using MFA
   2.3 Limitations of MFA3. Design Systems: Creating Consistent and Efficient Designs
   3.1 Purpose and Benefits of Design Systems4. How MFA and Design Systems Work Well Together5. ConclusionDesign Systems &amp; Micro Frontend Architecture: Transforming Web Developmen"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/micro-front-end-architecture.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/design-systems-mfa-micro-front-end-architecture-a-quick-fact-check"/>
@@ -32,7 +32,7 @@
   2.2 Benefits of Using MFA
   2.3 Limitations of MFA3. Design Systems: Creating Consistent and Efficient Designs
   3.1 Purpose and Benefits of Design Systems4. How MFA and Design Systems Work Well Together5. ConclusionDesign Systems &amp; Micro Frontend Architecture: Transforming Web Developmen"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/micro-front-end-architecture.webp"/>
    
 </head>
 
@@ -69,7 +69,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/image1.jpg" alt="image1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/micro-front-end-architecture.webp" alt="Micro front end architecture" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -116,7 +116,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/micro-frontend-react-architecture.webp" alt="Micro frontend react architecture" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -127,7 +127,7 @@
                 A design system is a collection of reusable components, guidelines, and assets that ensure consistency and efficiency in design and development.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-systems-mfa-micro-front-end/front-end-development-company-in-india.webp" alt="Front end development company in India" />
                 </div>
 
                 <p class="blog-body-text">

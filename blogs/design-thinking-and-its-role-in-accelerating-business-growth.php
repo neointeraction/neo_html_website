@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="In today's fast-changing business world, being flexible and coming up with new ideas is essential to survive. Design Thinking, a popular method for business growth, focuses on understanding people's needs and working together creatively. When companies use these ideas, they can reach their full potential for innovation and find new solutions that boost their success. Design Thinking is a human-centered approach that combines collaborative, interdisciplinary processes to create valuable solutions" />
     <meta property="og:image"
-        content="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/design-thinking-for-business-growth-ux-ui-thumbnail.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/design-thinking-in-business.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="941" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="In today's fast-changing business world, being flexible and coming up with new ideas is essential to survive. Design Thinking, a popular method for business growth, focuses on understanding people's needs and working together creatively. When companies use these ideas, they can reach their full potential for innovation and find new solutions that boost their success. Design Thinking is a human-centered approach that combines collaborative, interdisciplinary processes to create valuable solutions" />
     <meta name="twitter:image"
-        content="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/design-thinking-for-business-growth-ux-ui-thumbnail.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/design-thinking-in-business.webp" />
 
 </head>
 
@@ -59,7 +59,7 @@
                     Design Thinking and its Role in Accelerating Business Growth
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/design-thinking-for-business-growth-ux-ui.jpg" alt="design-thinking-for-business-growth-ux-ui" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/design-thinking-in-business.webp" alt="Design thinking in business" />
                 </div>
                 <p class="blog-body-text">
                     In today's fast-changing business world, being flexible and coming up with new ideas is essential to
@@ -86,7 +86,7 @@
                     introducing users to new shows and movies based on their viewing history
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/design-thinking-elements-for-business-growth-netflix-algorithm-ux-ui.jpg" alt="design-thinking-elements-for-business-growth-netflix-algorithm-ux-ui" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/netflix-algorithm.webp" alt="Netflix algorithm" />
                 </div>
                 <p class="blog-body-text">
                     <b>2. Problem Redefinition:</b> Often, the initial problem stated may not be the root cause. Design
@@ -96,7 +96,7 @@
                     marketplace.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/design-thinking-elements-for-business-growth-airbnb-redesign-ux-ui.jpg" alt="design-thinking-elements-for-business-growth-airbnb-redesign-ux-ui" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/air-bnb-redefined.webp" alt="air bnb redefined" />
                 </div>
                 <p class="blog-body-text">
                     <b>3. Cross-Functional Collaboration: </b> Collaboration with diverse skills fosters fresh insights,
@@ -113,7 +113,7 @@
                     products based on user responses.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/design-thinking-elements-for-business-growth-gmail-ux-ui.jpg" alt="design-thinking-elements-for-business-growth-gmail-ux-ui" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/gmail-feature-design.webp" alt="gmail feature design" />
                 </div>
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>
@@ -173,7 +173,7 @@
                         target="_blank">empathized with the users</a>, focusing on unique and authentic experiences.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/empathy-driven-solutions-airbnb-user-group-analysis-ux-ui.jpg" alt="empathy-driven-solutions-airbnb-user-group-analysis-ux-ui" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-thinking-business-growth/airbnb-user-group-analysis.webp" alt="airbnb user group analysis" />
                 </div>
                 <p class="blog-body-text">
                     <b>2. Problem Redefinition:</b><br /> Airbnb reframed travel accommodations, emphasizing meaningful,

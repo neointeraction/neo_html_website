@@ -13,7 +13,7 @@
     <meta property="og:description"
         content="Design thinking is a set of processes that UX and UI designers can use in order to tackle big, complicated, or even largely unknown problems in product development.Design thinking principles are based on cognitive and strategic processes in addition to practical processes. This leads to a multi-faceted approach to problem-solving.Design Thinking in UXDesign thinking is almost certainly the best approach for &quot;thinking beyond the box&quot; of any design process. Teams can utilize it to improve the user" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/design-thinking-ux-ui-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/what-is-design-thinking-and-how-to-implement-it-in-ui-ux-design" />
@@ -29,7 +29,7 @@
     <meta name="twitter:description"
         content="Design thinking is a set of processes that UX and UI designers can use in order to tackle big, complicated, or even largely unknown problems in product development.Design thinking principles are based on cognitive and strategic processes in addition to practical processes. This leads to a multi-faceted approach to problem-solving.Design Thinking in UXDesign thinking is almost certainly the best approach for &quot;thinking beyond the box&quot; of any design process. Teams can utilize it to improve the user" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/design-thinking-ux-ui-design.webp" />
 
 </head>
 
@@ -56,7 +56,7 @@
                     What is Design Thinking and how to implement it in UI UX Design?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/image1.jpg" alt="image1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/design-thinking-ux-ui-design.webp" alt="design thinking_ux ui design" />
                 </div>
                 <p class="blog-body-text">
                     Design thinking is a set of processes that UX and UI designers can use in order to tackle big, complicated, or even largely unknown problems in product
@@ -93,7 +93,7 @@
                     1. Empathize
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/empathize-stage-design-thinking.webp" alt="Empathize stage_design thinking" />
                 </div>
                 <p class="blog-body-text">
                     The initial step isn't to research the market, your product's features, or anything else relevant to the product. This stage necessitates consulting
@@ -104,7 +104,7 @@
                     2. Define
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/defining-stage-design-thinking.webp" alt="defining stage_design thinking" />
                 </div>
                 <p class="blog-body-text">
                     It’s time to accumulate the information gathered during the Empathize stage. You want to define the issue based on your user research and user interviews,
@@ -115,7 +115,7 @@
                     3. Ideate
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/ideate-stage-design-thinking.webp" alt="Ideate stage_design thinking" />
                 </div>
                 <p class="blog-body-text">
                     After two previous stages, you can move on with idea generation. At this point, you’ve done your research and have a clear understanding of who the product is
@@ -126,7 +126,7 @@
                     4. Prototype
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/prototype-stage-design-thinking.webp" alt="prototype stage_design thinking" />
                 </div>
                 <p class="blog-body-text">
                     This is an experimental phase. UX designers will be familiar with this process: The aim is to identify the best possible solution for each problem found. Your
@@ -138,7 +138,7 @@
                     5. Test
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/image6.jpg" alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-is-design-thinking/testing-stage-design-thinking.webp" alt="testing stage_design thinking" />
                 </div>
                 <p class="blog-body-text">
                     An important part of the testing stage of the design thinking process is validation. You want to have real users validate the key reasoning that underlines the

@@ -13,7 +13,7 @@
     <meta property="og:title" content="How To Boost UX Security And See Better Results" />
     <meta property="og:description"
         content="Table of Contents1. Why Privacy and Security Matter2. Transparency in Trust-Building3. Data Minimization4. Security by design in UI UX5. Personalization vs. Privacy UX6. User Control Over Data7. Testing for UX Security8. ConclusionTrust has become essential in this data-driven world for users interacting with platforms and applications. The rise of data collection has increased the concerns of users over privacy and security about how their personal information is used and protected. UI UX desig" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-to-boost-ux/ux-security.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -27,7 +27,7 @@
     <meta name="twitter:title" content="How To Boost UX Security And See Better Results" />
     <meta name="twitter:description"
         content="Table of Contents1. Why Privacy and Security Matter2. Transparency in Trust-Building3. Data Minimization4. Security by design in UI UX5. Personalization vs. Privacy UX6. User Control Over Data7. Testing for UX Security8. ConclusionTrust has become essential in this data-driven world for users interacting with platforms and applications. The rise of data collection has increased the concerns of users over privacy and security about how their personal information is used and protected. UI UX desig" />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/how-to-boost-ux/ux-security.webp" />
 
 </head>
 
@@ -66,7 +66,7 @@
                     while they are engaging with digital products.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-ux/image1.jpg" alt="image1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-ux/ux-security.webp" alt="ux security" />
                 </div>
                 <h4 class="blog-body-title">
                     Why Privacy and Security Matter
@@ -128,7 +128,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-ux/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-ux/privacy-ux.webp" alt="privacy ux" />
                 </div>
 
                 <h4 class="blog-body-title">

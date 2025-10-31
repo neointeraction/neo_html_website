@@ -13,7 +13,7 @@
     <meta property="og:title" content="UX Design Guidelines for Mobile App Design" />
     <meta property="og:description"
         content="Discover the essential UX design guidelines that every mobile app designer must follow to create intuitive, user-friendly, and successful mobile applications." />
-    <meta property="og:image" content="https://www.neointeraction.com/assets/images/blog/ux-design-guidelines-mobile-app/mobie-app-design_guidelines.jpeg" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/mobie-app-design-guidelines.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/blogs/ux-design-guidelines-that-must-be-followed-while-designing-a-mobile-app.php" />
@@ -25,7 +25,7 @@
     <meta name="twitter:title" content="UX Design Guidelines for Mobile App Design" />
     <meta name="twitter:description"
         content="Discover the essential UX design guidelines that every mobile app designer must follow to create intuitive, user-friendly, and successful mobile applications." />
-    <meta name="twitter:image" content="https://www.neointeraction.com/assets/images/blog/ux-design-guidelines-mobile-app/mobie-app-design_guidelines.jpeg" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/mobie-app-design-guidelines.webp" />
 
 </head>
 
@@ -50,7 +50,7 @@
                 </p>
                 <h1 class="blog-title">UX design guidelines that must be followed while designing a mobile app</h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/mobile-ux-guidelines.jpeg" alt="mobie app design_guidelines" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/mobie-app-design-guidelines.webp" alt="mobie app design_guidelines" />
                 </div>
                 <p class="blog-body-text">
                     As of 2022, the world has over <a href="https://www.bankmycell.com/blog/how-many-phones-are-in-the-world" target="_blank">6.648 Billion</a> smartphone users –
@@ -74,7 +74,7 @@
                 </p>
                 <div class="blog-banner-img">
 
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/visible-interface-elements.jpeg" alt="Interface Elements_clear design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/interface-elements-clear-design.webp" alt="Interface Elements_clear design" />
                 </div>
                 <p class="blog-body-text">
                     Users frequently use mobile apps in dimly lit areas or in the glare of the sun. The key to good mobile apps is intuitive design, which allows users to execute
@@ -85,7 +85,7 @@
                   <p class="blog-body-text"><b>Use Established Gestures</b></p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/ux-gestures.jpeg" alt="gestures_ux design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/gestures-ux-design.webp" alt="gestures_ux design" />
                 </div>
                 <p class="blog-body-text">
                     When a user learns a particular gesture, it becomes an integral part of his or her overall user experience. There's a slim risk that this movement will be
@@ -95,7 +95,7 @@
                 </p>
                  <p class="blog-body-text"><b>Design Clear and Consistent Mobile App Navigation</b></p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/clear-mobile-navigation.jpeg" alt="consistent navigation" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/consistent-navigation.webp" alt="consistent navigation" />
                 </div>
                 <p class="blog-body-text">
                     The ease with which consumers can learn how to utilize a mobile app is crucial. Users should be able to explore your app naturally using the clear pathways
@@ -117,7 +117,7 @@
 
                   <p class="blog-body-text"><b>Typography</b></p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/typography-design.jpeg" alt="typography_ui design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/typography-ui-design.webp" alt="typography_ui design" />
                 </div>
                 <p class="blog-body-text">
                     Typography is the art of organizing written text, point sizes, line spacing, and other features in a way that the user experience is pleasant and readable. It
@@ -127,7 +127,7 @@
                 </p>
                 <h4 class="blog-body-title">Salient Points</h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/key-points-ux.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-guidelines-mobile-app/user-interface-design-mobile-app.webp"
                         alt="user interface design_mobile app" />
                 </div>
                 <ul>

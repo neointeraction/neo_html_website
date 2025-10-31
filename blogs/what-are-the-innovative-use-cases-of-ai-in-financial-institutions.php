@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Artificial intelligence (AI) is transforming financial institutions by improving efficiency, reducing costs, and enhancing customer experience. AI technologies are used in various ways to support and augment the work of financial professionals.In addition, AI is enabling financial institutions to gain valuable insights from large amounts of data, helping them make better decisions and stay ahead of the competition.Use CasesFraud Detection: Financial institutions are using AI technologies to anal" />
     <meta property="og:image"
-        content="<?php echo $path; ?>assets/images/blog/ai-use-cases-fintech/innovative-ai-use-cases-fintech-future-thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/ai-use-cases-fintech/fintech-futrure-ai.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="Artificial intelligence (AI) is transforming financial institutions by improving efficiency, reducing costs, and enhancing customer experience. AI technologies are used in various ways to support and augment the work of financial professionals.In addition, AI is enabling financial institutions to gain valuable insights from large amounts of data, helping them make better decisions and stay ahead of the competition.Use CasesFraud Detection: Financial institutions are using AI technologies to anal" />
     <meta name="twitter:image"
-        content="<?php echo $path; ?>assets/images/blog/ai-use-cases-fintech/innovative-ai-use-cases-fintech-future-thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/ai-use-cases-fintech/fintech-futrure-ai.webp" />
 
 </head>
 
@@ -58,7 +58,7 @@
                 <h1 class="banner-title">What are the innovative use cases of AI in Financial institutions?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ai-use-cases-fintech/innovative-ai-use-cases-fintech-future.jpg" alt="innovative-ai-use-cases-fintech-future" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ai-use-cases-fintech/fintech-futrure-ai.webp" alt="fintech futrure ai" />
                 </div>
                 <p class="blog-body-text">
                     Artificial intelligence (AI) is transforming financial institutions by improving efficiency,
@@ -106,7 +106,7 @@
                     institutions stay competitive in the fast-paced world of finance.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ai-use-cases-fintech/ai-use-cases-in-fintech-ux-ui.jpg" alt="ai-use-cases-in-fintech-ux-ui" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ai-use-cases-fintech/usecase-of-ai-in-fintech.webp" alt="usecase of ai in fintech" />
                 </div>
                 <div class="blog-quote-block">
                     <div class="quote-icon"></div>

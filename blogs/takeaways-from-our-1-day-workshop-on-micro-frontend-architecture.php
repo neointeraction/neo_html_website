@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Table of Contents1. What is Micro Frontend Architecture?2. Benefits Micro Frontend Architecture (MFA)3. Comparing monolithic and MFA architectures 4. Case Study &amp; Live Implementation of MFA5. Key Takeaways6. ConclusionWeb development teams are constantly seeking ways to improve user experience, streamline development processes, and boost overall efficiency. Neointeraction Front end development team has been working extensively on implementing Micro Frontend Architecture (MFA) across various clie" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/takeaways-from-our-1-day/micro-frontend-architecture-workshop.webp" />
     <meta property="og:image:width" content="1881" />
     <meta property="og:image:height" content="1453" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="Table of Contents1. What is Micro Frontend Architecture?2. Benefits Micro Frontend Architecture (MFA)3. Comparing monolithic and MFA architectures 4. Case Study &amp; Live Implementation of MFA5. Key Takeaways6. ConclusionWeb development teams are constantly seeking ways to improve user experience, streamline development processes, and boost overall efficiency. Neointeraction Front end development team has been working extensively on implementing Micro Frontend Architecture (MFA) across various clie" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/takeaways-from-our-1-day/micro-frontend-architecture-workshop.webp" />
 
 </head>
 
@@ -71,8 +71,8 @@
                     M(Project Lead).
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/takeaways-from-our-1-day/image1.jpg"
-                        alt="image1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/takeaways-from-our-1-day/micro-frontend-architecture-workshop.webp"
+                        alt="micro frontend architecture workshop" />
                 </div>
                 <h4 class="blog-body-title">
                     What is Micro Frontend Architecture?
@@ -87,8 +87,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/takeaways-from-our-1-day/image2.jpg"
-                        alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/takeaways-from-our-1-day/frontend-development-workshop.webp"
+                        alt="frontend development workshop" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -141,8 +141,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/takeaways-from-our-1-day/image3.jpg"
-                        alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/takeaways-from-our-1-day/frontend-development-services.webp"
+                        alt="frontend development services" />
                 </div>
 
 

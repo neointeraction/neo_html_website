@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research"/>
   <meta property="og:title" content="Tap into the Revolutionary Potential of AI for UX Research"/>
   <meta property="og:description" content="UX research plays a vital role in creating products that are user-friendly, efficient, and enjoyable. "/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/tap-into-revolutionary/al-for-ux-research.webp"/>
   <meta property="og:image:width" content="1881"/>
   <meta property="og:image:height" content="1453"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/tap-into-the-revolutionary-potential-of-ai-for-ux-research"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Tap into the Revolutionary Potential of AI for UX Research"/>
   <meta name="twitter:description" content="UX research plays a vital role in creating products that are user-friendly, efficient, and enjoyable. "/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/tap-into-revolutionary/al-for-ux-research.webp"/>
    
 </head>
 
@@ -55,7 +55,7 @@
                     UX research plays a vital role in creating products that are user-friendly, efficient, and enjoyable. Traditional user experience research is frequently labor-intensive, expensive, and limits the breadth of inquiry. AI is being utilized to create virtual personas known as synthetic users that imitate real user interactions. This blog explores how AI UX design, as part of a broader context, transforms how we perceive and improve user interactions.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/tap-into-revolutionary/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/tap-into-revolutionary/al-for-ux-research.webp" alt="Al for UX Research" />
                 </div>
                 <h4 class="blog-body-title">
                     The Impact of AI on UX Research
@@ -152,7 +152,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/tap-into-revolutionary/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/tap-into-revolutionary/ai-ux-design.webp" alt="AI UX design" />
                 </div>
 
                 <h4 class="blog-body-title">

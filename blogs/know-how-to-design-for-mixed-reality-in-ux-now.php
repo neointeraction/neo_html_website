@@ -13,7 +13,7 @@
     <meta property="og:title" content="Know How To Design For Mixed Reality In UX now" />
     <meta property="og:description"
         content="Table of Contents1. Bridging Worlds: The Power of MR2. UX For Mixed Reality3. Building Blocks for Success4. Examples: MR in Action5. Challenges &amp; Considerations6. The Future of Mixed Reality in UX7. ConclusionMixed Reality (MR) merges the physical and digital realms, creating immersive experiences that enhance user engagement. This innovative approach reshapes user experience (UX) design by offering seamless interactions, providing endless possibilities for industries ranging from education to h" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/know-how-to-design/mixed-reality-in-ux.webp" />
     <meta property="og:image:width" content="3917" />
     <meta property="og:image:height" content="3025" />
     <meta property="og:url"
@@ -29,7 +29,7 @@
     <meta name="twitter:title" content="Know How To Design For Mixed Reality In UX now" />
     <meta name="twitter:description"
         content="Table of Contents1. Bridging Worlds: The Power of MR2. UX For Mixed Reality3. Building Blocks for Success4. Examples: MR in Action5. Challenges &amp; Considerations6. The Future of Mixed Reality in UX7. ConclusionMixed Reality (MR) merges the physical and digital realms, creating immersive experiences that enhance user engagement. This innovative approach reshapes user experience (UX) design by offering seamless interactions, providing endless possibilities for industries ranging from education to h" />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/know-how-to-design/mixed-reality-in-ux.webp" />
 
 </head>
 
@@ -65,8 +65,8 @@
 
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/know-how-to-design/know-how-to-design-image1.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/know-how-to-design/mixed-reality-in-ux.webp"
+                        alt="Mixed Reality in UX" />
                 </div>
                 <h4 class="blog-body-title">
                     Bridging Worlds: The Power of MR
@@ -104,8 +104,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/know-how-to-design/know-how-to-design-image2.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/know-how-to-design/zspace.webp"
+                        alt="zSpace" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -152,8 +152,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/know-how-to-design/know-how-to-design-image3.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/know-how-to-design/ux-for-mixed-reality.webp"
+                        alt="UX For Mixed Reality" />
                 </div>
 
                 <h4 class="blog-body-title">

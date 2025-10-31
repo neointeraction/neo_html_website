@@ -16,7 +16,7 @@
     <meta property="og:description"
         content="User research (UX) is the systematic study of target users and their requirements, to add realistic contexts and insights to design processes. UX researchers adopt various methods to uncover problems and design opportunities. Doing so, they reveal valuable information which can be fed into the design process.User research gives you a better understanding of what will happen when designing a product that's about to be released in public. It helps you learn about the people you’re building a solut" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-to-conduct-user/conducting-user-research.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="User research (UX) is the systematic study of target users and their requirements, to add realistic contexts and insights to design processes. UX researchers adopt various methods to uncover problems and design opportunities. Doing so, they reveal valuable information which can be fed into the design process.User research gives you a better understanding of what will happen when designing a product that's about to be released in public. It helps you learn about the people you’re building a solut" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-to-conduct-user/conducting-user-research.webp" />
 
 </head>
 
@@ -61,7 +61,7 @@
                     How To Conduct User Research That Drives UX Success
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-conduct-user/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-conduct-user/conducting-user-research.webp" alt="conducting user research" />
                 </div>
                 <p class="blog-body-text">
                     User research (UX) is the systematic study of target users and their requirements, to add realistic
@@ -82,7 +82,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-conduct-user/image2.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-conduct-user/conducting-user-research.webp" alt="conducting user research" />
                 </div>
 
                 <p class="blog-body-text">
@@ -135,7 +135,7 @@
                     Top User Research Method through the design process
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-conduct-user/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-conduct-user/user-research-methodology.webp" alt="user research methodology" />
                 </div>
                 <p class="blog-body-text">
                 <ol>

@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/"/>
   <meta property="og:title" content="Emotional Design In UX: What You Need To Know for great UX"/>
   <meta property="og:description" content="Emotional design goes beyond aesthetics. It involves user experience and comprehending how emotions affect behavior and judgment. This blog explores the science of emotional design, the significance of emotional connections in user experience, and user-resonant experience creation techniques."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/emotional-design-for-great-ux-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/emotional-design-in-ux.webp"/>
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/emotional-design-in-ux-what-you-need-to-know-for-great-ux"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Emotional Design In UX: What You Need To Know for great UX"/>
   <meta name="twitter:description" content="Emotional design goes beyond aesthetics. It involves user experience and comprehending how emotions affect behavior and judgment. This blog explores the science of emotional design, the significance of emotional connections in user experience, and user-resonant experience creation techniques."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/emotional-design-for-great-ux-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/emotional-design-in-ux.webp"/>
    
 </head>
 
@@ -54,7 +54,7 @@
                 <p class="blog-body-text">Emotional design goes beyond aesthetics. It involves user experience and comprehending how emotions affect behavior and judgment. This blog explores the science of emotional design, the significance of emotional connections in user experience, and user-resonant experience creation techniques.</p>
                 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/emotional-design-for-great-ux.jpeg" alt="Emotional Design in UX" />
+                    <img src="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/emotional-design-in-ux.webp" alt="Emotional Design in UX" />
                 </div>
 
                 <h4 class="blog-body-title">Why Emotions Matter in UX?</h4>
@@ -69,7 +69,7 @@
                 <h4 class="blog-body-title">The Science of UX Emotional Design</h4>
                 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/ux-emotional-design-science.jpeg" alt="UX Emotional Design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/ux-emotional-design.webp" alt="UX Emotional Design" />
                 </div>
 
                 <p class="blog-body-text">Emotions serve as strong motivators. Designers can create compelling experiences by understanding user psychology and the aspects that drive emotions. The Three Levels of Emotional Design are :</p>
@@ -91,7 +91,7 @@
                 <p class="blog-body-text"><i>For example, Spotify uses algorithms to suggest songs based on user listening habits for its customized playlists, such "Discover Weekly" and "Release Radar," which helps users feel connected.</i></p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/ux-emotional-storytelling-charity-water.jpeg" alt="UX design company in India" />
+                    <img src="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/ux-design-company-in-india.webp" alt="UX design company in India" />
                 </div>
 
                 <h5 class="blog-body-title">Micro interactions</h5>
@@ -103,7 +103,7 @@
                 <p class="blog-body-text"><i>For example, because Apple's product ecosystem maintains a consistent design language, buyers may find it easy to switch between products and feel at ease using them.</i></p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/ux-emotional-consistency-trust-apple.jpeg" alt="UX design services in India" />
+                    <img src="<?php echo $path; ?>assets/images/blog/emotional-design-great-ux/ux-design-services-in-india.webp" alt="UX design services in India" />
                 </div>
 
                 <p class="blog-body-text">Another example of successful implementation of emotional design in UX can be seen in our <a href="https://www.neointeraction.com/post/headspace-a-case-study-on-successful-emotion-driven-ui-ux-design">case study of Headspace</a></p>

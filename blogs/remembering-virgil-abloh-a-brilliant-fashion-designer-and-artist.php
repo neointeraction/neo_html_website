@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="On November 28, 2021, at age 41, the world-renowned American fashion designer and visionary artist Virgil Abloh lost his battle with cancer. This article is a tribute to Abloh’s creativity! And may we not forget the seriousness of cancer as we remember his life and celebrate his exuberant streetwear designs and aesthetic product designing in the form of water bottles and furniture, which helped us visualize the intersections of the digital and physical world and assisted in our development of an" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/fashion-designer-virgil-abloh.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -31,7 +31,7 @@
     <meta name="twitter:description"
         content="On November 28, 2021, at age 41, the world-renowned American fashion designer and visionary artist Virgil Abloh lost his battle with cancer. This article is a tribute to Abloh’s creativity! And may we not forget the seriousness of cancer as we remember his life and celebrate his exuberant streetwear designs and aesthetic product designing in the form of water bottles and furniture, which helped us visualize the intersections of the digital and physical world and assisted in our development of an" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/fashion-designer-virgil-abloh.webp" />
     <meta name="twitter:card" content="summary" />
 </head>
 
@@ -59,7 +59,7 @@
                     Remembering Virgil Abloh, a brilliant fashion designer and artist
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/fashion-designer-virgil-abloh.webp" alt="fashion designer_virgil abloh" />
                 </div>
                 <p class="blog-body-text">
                     On November 28, 2021, at age 41, the world-renowned American fashion designer and visionary artist
@@ -83,7 +83,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/virgil-abloh-fashion-designer.webp" alt="virgil abloh fashion designer" />
                 </div>
 
                 <div class="blog-quote-block">
@@ -118,7 +118,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/off-white-virgil-abloh.webp" alt="off white_virgil abloh" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -137,7 +137,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/virgil-abloh-interior-design.webp" alt="virgil abloh_interior design" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -152,7 +152,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/recycled-bottles-evian.webp" alt="Recycled Bottles Evian" />
                 </div>
 
                 <h4 class="blog-body-title">
@@ -164,7 +164,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/image6.jpg" alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/off-white-s-home-collection.webp" alt="Off-White’s Home Collection" />
                 </div>
 
                 <p class="blog-body-text">
@@ -177,7 +177,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/image7.jpg" alt="image7" />
+                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/off-white-s-collab-with-amo.webp" alt="Off-White’s Collab with AMO" />
                 </div>
 
                 <p class="blog-body-text">
@@ -192,7 +192,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/image8.jpg" alt="image8" />
+                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/men-s-collection-for-louis-vuitton.webp" alt="Men’s Collection for Louis Vuitton" />
                 </div>
 
                 <p class="blog-body-text">
@@ -207,7 +207,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/image9.jpg" alt="image9" />
+                    <img src="<?php echo $path; ?>assets/images/blog/remembering-virgil-abloh/virgil-abloh-rug-for-ikea.webp" alt="virgil abloh rug for IKEA" />
                 </div>
 
                 <p class="blog-body-text">

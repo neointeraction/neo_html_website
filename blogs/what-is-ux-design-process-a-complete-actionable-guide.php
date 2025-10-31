@@ -13,7 +13,7 @@
     <meta property="og:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/ux-design-process-guide/neointeraction-design-process.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" />
@@ -29,7 +29,7 @@
     <meta name="twitter:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/ux-design-process-guide/neointeraction-design-process.webp" />
 
 </head>
 
@@ -56,7 +56,7 @@
                     What Is UX Design Process? A Complete Actionable Guide
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-process-guide/ux-ui-design-process-neointeraction-design.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-process-guide/neointeraction-design-process.webp" alt="neointeraction design process" />
                 </div>
                 ¸
                 <h4 class="blog-body-title">
@@ -85,7 +85,7 @@
                     Why a Design Process is needed?
                 </h4>
                          <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-process-guide/ux-ui-design-process-best-practices.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/ux-design-process-guide/ux-design-process.webp" alt="ux design process" />
                 </div>
                 <p class="blog-body-text">
                     And now that we have a better understanding of the Design Process, we will see why the UX design process is so important in every type of project.

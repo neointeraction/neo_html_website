@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="In the dynamic world of design, templates have become indispensable tools, revolutionizing how businesses and designers approach various creative endeavors. Design templates are pre-made designs and documents that can be customized to meet specific standards or specifications, ensuring consistency between users and mediums. They can be sourced from template libraries and websites, or created as custom templates for future use. Delve into the diverse categories of templates, shedding light on how" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/crafting-originality-a-dive/design-templates-for-businesses.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="2500" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="In the dynamic world of design, templates have become indispensable tools, revolutionizing how businesses and designers approach various creative endeavors. Design templates are pre-made designs and documents that can be customized to meet specific standards or specifications, ensuring consistency between users and mediums. They can be sourced from template libraries and websites, or created as custom templates for future use. Delve into the diverse categories of templates, shedding light on how" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/crafting-originality-a-dive/design-templates-for-businesses.webp" />
 
 </head>
 
@@ -61,8 +61,8 @@
                     Crafting Originality: A Dive into Design Templates Across Businesses
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/crafting-originality-a-dive/image1.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/crafting-originality-a-dive/design-templates-for-businesses.webp"
+                        alt="Design Templates for Businesses" />
                 </div>
                 <p class="blog-body-text">
                     In the dynamic world of design, templates have become indispensable tools, revolutionizing how
@@ -192,8 +192,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/crafting-originality-a-dive/image2.jpg"
-                        alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/crafting-originality-a-dive/creating-design-using-templates.webp"
+                        alt="Creating design using templates" />
                 </div>
 
 

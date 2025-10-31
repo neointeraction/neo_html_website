@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better"/>
   <meta property="og:title" content="How Gmail's UX Design makes email management better"/>
   <meta property="og:description" content="Table of Contents1. Introduction2. The Initial State of Gmail3. What are the Effective Email Management Components?   3.1. Organizing: Conquering the Email Chaos   3.2. Prioritization: Knowing What Matters Most   3.3. Automation: Streamlining Repetitive Tasks   3.4. Collaboration: Working Together Seamlessly4. UX Transformation in google email management   4.1. Streamlining the Interface for Effortless Task Completion   4.2. Prioritizing Important Emails: Leveraging AI to highlight crucial messa"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-gmail-ui/google-email-management.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/how-gmail-s-ux-design-makes-email-management-better"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How Gmail's UX Design makes email management better"/>
   <meta name="twitter:description" content="Table of Contents1. Introduction2. The Initial State of Gmail3. What are the Effective Email Management Components?   3.1. Organizing: Conquering the Email Chaos   3.2. Prioritization: Knowing What Matters Most   3.3. Automation: Streamlining Repetitive Tasks   3.4. Collaboration: Working Together Seamlessly4. UX Transformation in google email management   4.1. Streamlining the Interface for Effortless Task Completion   4.2. Prioritizing Important Emails: Leveraging AI to highlight crucial messa"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/how-gmail-ui/google-email-management.webp"/>
    
 </head>
 
@@ -51,7 +51,7 @@
                     How Gmail's UX Design makes email management better
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-gmail-ui/image1.jpg" alt="image1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-gmail-ui/google-email-management.webp" alt="google email management" />
                 </div>
                 <p class="blog-body-text">
                     While email is still a vital tool for communication in 2024, overload of information has become a serious problem due to the enormous volume and the growing demands on our time. We might easily become overwhelmed by the constant barrage of emails and miss important messages. Gmail has seen a major UX design change in response to this expanding problem. Google's strategy puts user demands and input first. Gmail's design seeks to change email management beyond a laborious task into a productive and effective procedure through continuous research and iteration.
@@ -74,7 +74,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-gmail-ui/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-gmail-ui/email-management.webp" alt="Email management" />
                 </div>
 
                 <p class="blog-body-text">
@@ -107,7 +107,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-gmail-ui/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-gmail-ui/gmail-email-management.webp" alt="Gmail email management" />
                 </div>
                 
 

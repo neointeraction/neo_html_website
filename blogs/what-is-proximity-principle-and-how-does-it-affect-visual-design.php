@@ -16,7 +16,7 @@
         content="
 The principle of proximity states that we perceive objects which are close to one another as a group. This is true even if the color, size or shape of the objects differ. When people perceive complex objects consisting of many elements, they apply conscious or subconscious methods of arranging the parts into a whole organized system instead of just the set of simple objects. It works on different levels of perception, but the visual part seems to be the most interesting for designers creating i" />
     <meta property="og:image"
-        content="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/proximity-principle-impact-on-visual-design-ux-ui-thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/ux-design-proximity-principle.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -34,7 +34,7 @@ The principle of proximity states that we perceive objects which are close to on
         content="
 The principle of proximity states that we perceive objects which are close to one another as a group. This is true even if the color, size or shape of the objects differ. When people perceive complex objects consisting of many elements, they apply conscious or subconscious methods of arranging the parts into a whole organized system instead of just the set of simple objects. It works on different levels of perception, but the visual part seems to be the most interesting for designers creating i" />
     <meta name="twitter:image"
-        content="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/proximity-principle-impact-on-visual-design-ux-ui-thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/ux-design-proximity-principle.webp" />
 
 </head>
 
@@ -61,7 +61,7 @@ The principle of proximity states that we perceive objects which are close to on
                     What is proximity principle and how does it affect visual design?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/proximity-principle-impact-on-visual-design-ux-ui.jpg" alt="proximity-principle-impact-on-visual-design-ux-ui" />
+                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/ux-design-proximity-principle.webp" alt="ux design_proximity principle" />
                 </div>
                 <p class="blog-body-text">
                     The principle of proximity states that we perceive objects which are close to one another as a
@@ -75,13 +75,13 @@ The principle of proximity states that we perceive objects which are close to on
 
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/proximity-principle-in-ux-ui-visual-design.jpg" alt="proximity-principle-in-ux-ui-visual-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/proximity-principle-vsual-design.webp" alt="proximity principle_vsual design" />
                 </div>
                 <p class="blog-body-text">
                     <b>Why is proximity principle important in Visual design?</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/importance-of-proximity-principle-in-ux-ui-visual-design.jpg" alt="importance-of-proximity-principle-in-ux-ui-visual-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/importance-of-proximity-principle.webp" alt="importance of proximity principle" />
                 </div>
                 <p class="blog-body-text">
                     Proximity is so powerful that it overrides the similarity of patterns, color, shape, and other
@@ -104,7 +104,7 @@ The principle of proximity states that we perceive objects which are close to on
                     <b>Typography & copy</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/proximity-principle-in-ux-ui-content-typography.jpg" alt="proximity-principle-in-ux-ui-content-typography" />
+                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/typography-proximity-principle.webp" alt="typography_proximity principle" />
                 </div>
                 <p class="blog-body-text">
                     The importance of proximity in making a text easy to read cannot be overstated. A title, for
@@ -148,7 +148,7 @@ The principle of proximity states that we perceive objects which are close to on
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/ux-ui-design-proximity-principle.jpg" alt="ux-ui-design-proximity-principle" />
+                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/proximity-principle-in-ux-ui-design.webp" alt="Proximity principle in ux ui design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -160,7 +160,7 @@ The principle of proximity states that we perceive objects which are close to on
                     components, we change the perception of the groupings.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/amazon-ux-ui-design-proximity-principle-examples.jpg" alt="amazon-ux-ui-design-proximity-principle-examples" />
+                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/proximity-principle-amazon.webp" alt="proximity principle_amazon" />
                 </div>
                 <p class="blog-body-text">
                     Taking the amazon example further you can see how a similar product ( i.e Mouse) forms a group
@@ -168,7 +168,7 @@ The principle of proximity states that we perceive objects which are close to on
                     the items (i.e books) grouped together by their proximity.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/hindu-news-ux-ui-design-proximity-principle-examples.jpg" alt="hindu-news-ux-ui-design-proximity-principle-examples" />
+                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/proximity-principle-hindu-news.webp" alt="proximity principle_hindu news" />
                 </div>
                 <p class="blog-body-text">
                     We can see that <a
@@ -200,7 +200,7 @@ The principle of proximity states that we perceive objects which are close to on
                     below those numbers make sure to visually group the correct elements together.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/mobile-ux-ui-proximity-principle-headlines-sublines.jpg" alt="mobile-ux-ui-proximity-principle-headlines-sublines" />
+                    <img src="<?php echo $path; ?>assets/images/blog/proximity-principle-visual-design/headtitles-sublines-ux-design.webp" alt="headtitles_sublines_ux design" />
                 </div>
                 <h4 class="blog-body-title">Salient Points</h4>
 

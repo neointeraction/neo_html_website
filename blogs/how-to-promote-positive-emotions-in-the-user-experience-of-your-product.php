@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"/>
   <meta property="og:title" content="How to Promote Positive emotions in the User Experience of Your Product"/>
   <meta property="og:description" content="One common mistake for designers would be to just consider producing designs that depict the ideal state of a user interface. It is easy to design when everything is packed with well-formatted content. However, problems can develop if a design is created without considering the numerous varied scenarios that each user may confront. So, we as designers must pay attention to different user scenarios examples!User Scenario Examples in UXA user scenario is a technique used by designers to comprehend"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/product-user-experience.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/how-to-promote-positive-emotions-in-the-user-experience-of-your-product"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How to Promote Positive emotions in the User Experience of Your Product"/>
   <meta name="twitter:description" content="One common mistake for designers would be to just consider producing designs that depict the ideal state of a user interface. It is easy to design when everything is packed with well-formatted content. However, problems can develop if a design is created without considering the numerous varied scenarios that each user may confront. So, we as designers must pay attention to different user scenarios examples!User Scenario Examples in UXA user scenario is a technique used by designers to comprehend"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/product-user-experience.webp"/>
    
 </head>
 
@@ -51,7 +51,7 @@
                     How to Promote Positive emotions in the User Experience of Your Product
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/image1.jpg" alt="image1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/product-user-experience.webp" alt="product user experience" />
                 </div>
                 <p class="blog-body-text">
                     One common mistake for designers would be to just consider producing designs that depict the ideal state of a user interface. It is easy to design when everything is packed with well-formatted content. However, problems can develop if a design is created without considering the numerous varied scenarios that each user may confront. So, we as designers must pay attention to different user scenarios examples!
@@ -60,7 +60,7 @@
                     User Scenario Examples in UX
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/ux-scenario-example.webp" alt="ux scenario example" />
                 </div>
 
                 <p class="blog-body-text">
@@ -96,7 +96,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/define-user-scenario.webp" alt="define user scenario" />
                 </div>
 
                 <p class="blog-body-text">
@@ -127,7 +127,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/first-time-scenario.webp" alt="first time scenario" />
                 </div>
 
                 <p class="blog-body-text">
@@ -143,7 +143,7 @@
                 </p>
 
                 <!-- <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/image5.jpg" alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/empty-state-page.webp" alt="empty state page" />
                 </div> -->
 
                 <p class="blog-body-text">
@@ -157,9 +157,9 @@
                 <p class="blog-body-text">
                     <b>b) Negative Scenario</b>
                 </p>
-
-                <!-- <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/image6.jpg" alt="image6" />
+<!-- 
+                <div class="blog-banner-img">
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-promote-positive/negative-scenario.webp" alt="negative scenario" />
                 </div> -->
 
                 <p class="blog-body-text">

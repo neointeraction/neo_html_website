@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="The banking sector in the past decade has seen a drastic change in its structure and the way it works. With the integration of technology, the banking sector has seen immense growth in terms of processing information, customer experience, and overall faster communication with customers. Be it an app or a website, customers are now very relieved to see their financial data through a matter of clicks which was once a long process. Users don’t have to wait in queues at the bank, no filling of lengt" />
     <meta property="og:image"
-        content="<?php echo $path; ?>assets/images/blog/fintech-apps-ui-ux-design/fintech-app-success-dependence-on-ux-ui-design-thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/fintech-apps-ui-ux-design/fintech-app-ux-ui-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -31,7 +31,7 @@
     <meta name="twitter:description"
         content="The banking sector in the past decade has seen a drastic change in its structure and the way it works. With the integration of technology, the banking sector has seen immense growth in terms of processing information, customer experience, and overall faster communication with customers. Be it an app or a website, customers are now very relieved to see their financial data through a matter of clicks which was once a long process. Users don’t have to wait in queues at the bank, no filling of lengt" />
     <meta name="twitter:image"
-        content="<?php echo $path; ?>assets/images/blog/fintech-apps-ui-ux-design/fintech-app-success-dependence-on-ux-ui-design-thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/fintech-apps-ui-ux-design/fintech-app-ux-ui-design.webp" />
     <meta name="twitter:card" content="summary" />
 
 </head>
@@ -59,7 +59,7 @@
                     How Fintech apps depend on UI UX Design for its success?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/fintech-apps-ui-ux-design/fintech-app-success-dependence-on-ux-ui-design.jpg" alt="fintech-app-success-dependence-on-ux-ui-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/fintech-apps-ui-ux-design/fintech-app-ux-ui-design.webp" alt="fintech app ux ui design" />
                 </div>
                 <p class="blog-body-text">
                     The banking sector in the past decade has seen a drastic change in its structure and the way it
@@ -195,7 +195,7 @@
                     words based on the user’s regional area, and much more.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/fintech-apps-ui-ux-design/fintech-product-design-for-success.jpg" alt="fintech-product-design-for-success" />
+                    <img src="<?php echo $path; ?>assets/images/blog/fintech-apps-ui-ux-design/fintech-product-design.webp" alt="fintech product design" />
                 </div>
                 <h4 class="blog-body-title">Neointeraction’s experience in designing Fintech products</h4>
 

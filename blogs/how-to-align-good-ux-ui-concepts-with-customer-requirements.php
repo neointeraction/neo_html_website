@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/how-to-align-good-ux-ui-concepts-with-customer-requirements"/>
   <meta property="og:title" content="How to align good UX UI concepts with customer requirements?"/>
   <meta property="og:description" content="User Experience plays a vital role in the success of a product. It is an important puzzle that should be solved for the users by the UX designer.The objective of UX design should be to minimize complexity and present the product so that consumers can make quick decisions. When developing a product to serve their objectives, users' demands should take precedence over customers' suggestions since poor user experience can undermine clients' ultimate goals.Pitching of UX UI design concepts to the cl"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-to-align/ux-concepts.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/how-to-align-good-ux-ui-concepts-with-customer-requirements"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How to align good UX UI concepts with customer requirements?"/>
   <meta name="twitter:description" content="User Experience plays a vital role in the success of a product. It is an important puzzle that should be solved for the users by the UX designer.The objective of UX design should be to minimize complexity and present the product so that consumers can make quick decisions. When developing a product to serve their objectives, users' demands should take precedence over customers' suggestions since poor user experience can undermine clients' ultimate goals.Pitching of UX UI design concepts to the cl"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/how-to-align/ux-concepts.webp"/>
    
 </head>
 
@@ -51,7 +51,7 @@
                     How to align good UX UI concepts with customer requirements?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-align/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-align/ux-concepts.webp" alt="ux concepts" />
                 </div>
                 <p class="blog-body-text">
                     User Experience plays a vital role in the success of a product. It is an important puzzle that should be solved for the users by the UX designer.<br/>
@@ -61,7 +61,7 @@
                     Pitching of UX UI design concepts to the client
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-align/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-align/pitching-uxui-concepts.webp" alt="pitching uxui concepts" />
                 </div>
                 <p class="blog-body-text">
                     Business goals are the first focus for clients. They approach us to leverage our expertise in the field of user experience and design, for the development of their product. Proper communication with clients is crucial, as they will likely already have preconceived notions about how their product should appear or function.<br/>
@@ -78,7 +78,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-align/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-align/ux-ui-reference.webp" alt="ux ui reference" />
                 </div>
 
                 <p class="blog-body-text">

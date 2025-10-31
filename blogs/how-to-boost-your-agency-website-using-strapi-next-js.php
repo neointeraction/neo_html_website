@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Neointeraction Design is a ui ux design company in Bangalore that is constantly researching and attempting to expand its boundaries, and the redesigned website using Strapi &amp; Next.js is a step in that direction. This blog documents our journey through the design and development phases, as well as the reasons behind our choices.Why a redesign?We decided to redesign our website to make it lighter, and faster and to keep up with current trends. Unlike the previous website's poor content management " />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/website-redesign-using-strapi.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="Neointeraction Design is a ui ux design company in Bangalore that is constantly researching and attempting to expand its boundaries, and the redesigned website using Strapi &amp; Next.js is a step in that direction. This blog documents our journey through the design and development phases, as well as the reasons behind our choices.Why a redesign?We decided to redesign our website to make it lighter, and faster and to keep up with current trends. Unlike the previous website's poor content management " />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/website-redesign-using-strapi.webp" />
 </head>
 
 <body>
@@ -59,7 +59,7 @@
                     How to boost your agency website using Strapi & Next.js
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/website-redesign-using-strapi.webp" alt="website redesign using strapi" />
                 </div>
                 <p class="blog-body-text">
                     <a href="https://www.neointeraction.com/" target="_blank">Neointeraction Design</a> is a ui ux
@@ -72,8 +72,8 @@
                     Why a redesign?
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/image2.jpg"
-                        alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/website-revamp-design.webp"
+                        alt="website revamp design" />
                 </div>
                 <p class="blog-body-text">
                     We decided to redesign our website to make it lighter, and faster and to keep up with current
@@ -183,8 +183,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/image3.jpg"
-                        alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/best-headless-cms-for-react.webp"
+                        alt="best headless cms for react" />
                 </div>
 
 
@@ -215,8 +215,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/image4.jpg"
-                        alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/benefits-of-ui-development.webp"
+                        alt="benefits of ui development" />
                 </div>
 
                 <p class="blog-body-text">
@@ -271,8 +271,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/image5.jpg"
-                        alt="image5" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/importance-of-react-js.webp"
+                        alt="importance of react js" />
                 </div>
 
                 <p class="blog-body-text">
@@ -315,8 +315,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/image6.jpg"
-                        alt="image6" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-boost-your-agency/wordpress-vs-strapi.webp"
+                        alt="wordpress vs strapi" />
                 </div>
 
                 <p class="blog-body-text">

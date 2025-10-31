@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php"/>
   <meta property="og:title" content="Revolutionizing UI UX Design through the Empowerment of Machine Learning"/>
   <meta property="og:description" content="Discover how machine learning is revolutionizing UI/UX design, enabling personalized user experiences, automating design tasks, and simplifying user interactions through NLP."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-machine-learning/ux-ui-with-machine-learning-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-machine-learning/ux-design-in-machine-learning.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning.php"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Revolutionizing UI UX Design through the Empowerment of Machine Learning"/>
   <meta name="twitter:description" content="Discover how machine learning is revolutionizing UI/UX design, enabling personalized user experiences, automating design tasks, and simplifying user interactions through NLP."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-machine-learning/ux-ui-with-machine-learning-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/ui-ux-machine-learning/ux-design-in-machine-learning.webp"/>
 </head>
 
 <body>
@@ -49,7 +49,7 @@
     </p>
     <h1 class="blog-title">Revolutionizing UI UX Design through the Empowerment of Machine Learning</h1>
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/ui-ux-machine-learning/ux-ui-with-machine-learning.jpeg" alt="UX design in Machine Learning" />
+        <img src="<?php echo $path; ?>assets/images/blog/ui-ux-machine-learning/ux-design-in-machine-learning.webp" alt="UX design in Machine Learning" />
     </div>
     <p class="blog-body-text">User experience (UX) and user interface (UI) design play a crucial role in the development of software products. The design industry has undergone a revolutionary transformation with the integration of machine learning, which has not only enhanced UX but also automated various design processes. By seamlessly blending the principles of UI UX design with cutting-edge machine learning algorithms, designers can now craft personalized and intuitive experiences that resonate with users. This powerful fusion holds immense potential for creating captivating and user centric designs. Let's embark on an exploration of the exciting possibilities that machine learning brings to UI UX design, elevating user experiences to unprecedented heights.</p>
     <h4 class="blog-body-title">Personalization in user experience design</h4>

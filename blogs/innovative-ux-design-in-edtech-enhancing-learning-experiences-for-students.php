@@ -14,7 +14,7 @@
     <meta property="og:title" content="Innovative UX Design In EdTech: Enhancing Learning Experiences For Students" />
     <meta property="og:description"
         content="Discover the impact of innovative UX design in EdTech, enhancing student engagement, accessibility, and learning outcomes with expert strategies and examples." />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/ux-design-company-in-india.webp" />
     <meta property="og:image:width" content="2500" />
     <meta property="og:image:height" content="1931" />
     <meta property="og:url"
@@ -28,7 +28,7 @@
     <meta name="twitter:title" content="Innovative UX Design In EdTech: Enhancing Learning Experiences For Students" />
     <meta name="twitter:description"
         content="Discover the impact of innovative UX design in EdTech, enhancing student engagement, accessibility, and learning outcomes with expert strategies and examples." />
-    <meta name="twitter:image" content="" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/ux-design-company-in-india.webp" />
 
 </head>
 
@@ -66,8 +66,8 @@
                     tactics for implementing successful UX design on educational platforms.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/innovative-ux-design-in-edtech-image1.jpg"
-                        alt="innovative-ux-design-in-edtech" />
+                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/ux-design-company-in-india.webp"
+                        alt="UX Design Company in India" />
                 </div>
                 <h4 class="blog-body-title">
                     1. Why UX Design Matters in EdTech
@@ -115,8 +115,8 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/innovative-ux-design-in-edtech-image2.jpg"
-                        alt="innovative-ux-design-in-edtech" />
+                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/strategies-for-effective-ux-design-in-edtech.webp"
+                        alt="Strategies for Effective UX Design in EdTech" />
                 </div>
 
                 <p class="blog-body-text">
@@ -160,8 +160,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/innovative-ux-design-in-edtech-image3.jpg"
-                        alt="innovative-ux-design-in-edtech" />
+                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/khan-academy-edtech-webapp-design.webp"
+                        alt="Khan Academy edtech webapp design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -172,8 +172,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/innovative-ux-design-in-edtech-image4.jpg"
-                        alt="innovative-ux-design-in-edtech" />
+                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/duolingo-edtech-app-ux-design.webp"
+                        alt="Duolingo edtech app ux design" />
                 </div>
 
 
@@ -185,8 +185,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/innovative-ux-design-in-edtech-image5.jpg"
-                        alt="innovative-ux-design-in-edtech" />
+                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/ux-of-edtech-for-coursera-app.webp"
+                        alt="UX of Edtech for coursera app" />
                 </div>
 
                 <h4 class="blog-body-title">Challenges of EdTech UX</h4>
@@ -215,8 +215,8 @@
                 <h4 class="blog-body-title">Future Trends in UX Design for EdTech</h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/innovative-ux-design-in-edtech-image6.jpg"
-                        alt="innovative-ux-design-in-edtech" />
+                    <img src="<?php echo $path; ?>assets/images/blog/innovative-ux-design-in-edtech/future-trends-in-ux-design-for-edtech.webp"
+                        alt="Future Trends in UX Design for EdTech" />
                 </div>
 
                 <p class="blog-body-text">

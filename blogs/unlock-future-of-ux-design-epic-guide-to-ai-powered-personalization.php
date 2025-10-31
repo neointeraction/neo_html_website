@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization"/>
   <meta property="og:title" content="Unlock Future Of UX Design: Epic Guide To AI-Powered Personalization"/>
   <meta property="og:description" content="Table of Contents1. The Rise of hyper personalized UX2. The Power of AI in Hyper-Personalization3. Building hyper personalized Experiences with AI4. Examples of hyper personalized Experiences   1. Spotify   2. YouTube   3. Amazon5. Challenges &amp; Considerations6. The hyper personalized UI UX Design Future7. ConclusionIn today’s world, every user expects personalized experiences tailored according to their needs. Therefore UX Design services in India are exploring creative techniques which goes bey"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/ui-ux-design-future.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/unlock-future-of-ux-design-epic-guide-to-ai-powered-personalization"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Unlock Future Of UX Design: Epic Guide To AI-Powered Personalization"/>
   <meta name="twitter:description" content="Table of Contents1. The Rise of hyper personalized UX2. The Power of AI in Hyper-Personalization3. Building hyper personalized Experiences with AI4. Examples of hyper personalized Experiences   1. Spotify   2. YouTube   3. Amazon5. Challenges &amp; Considerations6. The hyper personalized UI UX Design Future7. ConclusionIn today’s world, every user expects personalized experiences tailored according to their needs. Therefore UX Design services in India are exploring creative techniques which goes bey"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/ui-ux-design-future.webp"/>
    
 </head>
 
@@ -55,7 +55,7 @@
                     In today’s world, every user expects personalized experiences tailored according to their needs. Therefore <a href="https://www.neointeraction.com/ux-design-services" target="_blank">UX Design services in India</a> are exploring creative techniques which goes beyond the basic customization- its hyper personalized UX, driven by AI. This enables an in-depth understanding of user behavior, preferences, and emotions to deliver customized experiences in real-time. Using AI, a design consultancy can create possibilities for revolutionizing user experience (UX) with dynamic, responsive and highly personalized interfaces. 
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/ui-ux-design-future.webp" alt="UI UX Design Future" />
                 </div>
                 <h4 class="blog-body-title">
                     The Rise of hyper personalized UX
@@ -122,7 +122,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/spotify.webp" alt="Spotify" />
                 </div>
 
 
@@ -132,7 +132,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/youtube.webp" alt="YouTube" />
                 </div>
 
                 <p class="blog-body-text">
@@ -140,7 +140,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/unlock-future-of-ux/amazon.webp" alt="Amazon" />
                 </div>
 
                 <p class="blog-body-text">

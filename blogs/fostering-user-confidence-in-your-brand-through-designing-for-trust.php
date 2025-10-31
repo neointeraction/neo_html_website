@@ -12,7 +12,7 @@
   <meta property="og:title" content="Fostering User Confidence in Your Brand through Designing for Trust"/>
   <meta property="og:description" content="
 In the ever-evolving digital landscape, where consumers are bombarded with choices, building and maintaining trust is crucial for the success and reputation of any brand. In this era of information overload, where users are becoming increasingly discerning, the role of UI UX design in establishing and nurturing trust cannot be overstated.What is Trust in UX Design &amp; how do users interpret your design?Trust in UX involves reliability, credibility, transparency, security, usability, feedback, acc"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/brand-design-for-trust.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/fostering-user-confidence-in-your-brand-through-designing-for-trust"/>
@@ -26,7 +26,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
   <meta name="twitter:title" content="Fostering User Confidence in Your Brand through Designing for Trust"/>
   <meta name="twitter:description" content="
 In the ever-evolving digital landscape, where consumers are bombarded with choices, building and maintaining trust is crucial for the success and reputation of any brand. In this era of information overload, where users are becoming increasingly discerning, the role of UI UX design in establishing and nurturing trust cannot be overstated.What is Trust in UX Design &amp; how do users interpret your design?Trust in UX involves reliability, credibility, transparency, security, usability, feedback, acc"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/brand-design-for-trust.webp"/>
    
 </head>
 
@@ -53,7 +53,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
                     Fostering User Confidence in Your Brand through Designing for Trust
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/brand-design-for-trust.webp" alt="brand design for trust" />
                 </div>
                 <p class="blog-body-text">
                     In the ever-evolving digital landscape, where consumers are bombarded with choices, building and maintaining trust is crucial for the success and reputation of any brand. In this era of information overload, where users are becoming increasingly discerning, the role of UI UX design in establishing and nurturing trust cannot be overstated.
@@ -95,7 +95,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
                 </p>
                 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/first-impression-design.webp" alt="first impression design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -115,7 +115,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/consistent-branding.webp" alt="consistent branding" />
                 </div>
 
                 <p class="blog-body-text">
@@ -135,7 +135,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/image4.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/security-application.webp" alt="security application" />
                 </div>
 
                 <p class="blog-body-text">
@@ -155,7 +155,7 @@ In the ever-evolving digital landscape, where consumers are bombarded with choic
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/image5.jpg" alt="image4" />
+                    <img src="<?php echo $path; ?>assets/images/blog/fostering-user-confidence/accessibility-and-inclusivity.webp" alt="accessibility and inclusivity" />
                 </div>
                
 

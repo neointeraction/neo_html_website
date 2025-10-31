@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Open banking in fintech is the practice of allowing users to securely share their financial data with third-party applications. This can include things like account information, transaction data, and even the ability to initiate online payments. The goal of open banking is to increase competition and innovation in the finance market, while also giving consumers more control over their financial data.One of the key factors in the success of open banking is the user experience and user interface o" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-ui-ux-design-contributes/open-banking-app-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -32,7 +32,7 @@
     <meta name="twitter:description"
         content="Open banking in fintech is the practice of allowing users to securely share their financial data with third-party applications. This can include things like account information, transaction data, and even the ability to initiate online payments. The goal of open banking is to increase competition and innovation in the finance market, while also giving consumers more control over their financial data.One of the key factors in the success of open banking is the user experience and user interface o" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/how-ui-ux-design-contributes/open-banking-app-design.webp" />
 
 </head>
 
@@ -60,8 +60,8 @@
                     How UI UX Design Contributes to the Success of Open Banking
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-ui-ux-design-contributes/image1.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-ui-ux-design-contributes/open-banking-app-design.webp"
+                        alt="open banking app design" />
                 </div>
                 <p class="blog-body-text">
                     Open banking in <a href="https://www.investopedia.com/terms/f/fintech.asp" target="_blank">fintech</a> is the practice of allowing users to securely share their financial data
@@ -82,8 +82,8 @@
                     Components of a Successful Open Banking UI UX
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-ui-ux-design-contributes/image2.jpg"
-                        alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-ui-ux-design-contributes/open-banking-ux-ui.webp"
+                        alt="open banking ux ui" />
                 </div>
                 <p class="blog-body-text">
                     The success of open banking depends on the quality of the UX and UI designs created by <a href="<?php echo $path; ?>" target="_blank">product

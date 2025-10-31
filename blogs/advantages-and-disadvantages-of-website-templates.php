@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/advantages-and-disadvantages/impact-of-templates-on-ux-design.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/advantages-and-disadvantages/impact-of-templates-on-ux-design.webp" />
 
 </head>
 
@@ -61,8 +61,8 @@
                     Advantages and disadvantages of Website Templates
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/advantages-and-disadvantages/image1.jpg"
-                        alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/advantages-and-disadvantages/impact-of-templates-on-ux-design.webp"
+                        alt="Impact of templates on UX design" />
                 </div>
                 <p class="blog-body-text">
                     Should I choose a website template, or should I go for a custom website design?' One of the most
@@ -103,8 +103,8 @@
                 <h4 class="blog-body-title">Pros & Cons of Templates</h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/advantages-and-disadvantages/image2.jpg"
-                        alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/advantages-and-disadvantages/pros-cons-of-templates.webp"
+                        alt="Pros & Cons of Templates" />
                 </div>
 
                 <p class="blog-body-text">
@@ -137,8 +137,8 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/advantages-and-disadvantages/image3.jpg"
-                        alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/advantages-and-disadvantages/designing-using-website-templates.webp"
+                        alt="designing using website templates" />
                 </div>
 
 

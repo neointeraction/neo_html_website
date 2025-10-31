@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/empower-saas-with-ai-a-better-powerful-user-experience"/>
   <meta property="og:title" content="Empower SaaS With AI: A Better &amp; Powerful User Experience"/>
   <meta property="og:description" content="Table of Contents1. Understanding AI in SaaS Design   1.1 Definition and Rise of AI in UX   1.2 Historical Context2. AI's Role in Enhancing UX   2.1 Personalization and Customization   2.2 Predictive Analytics and Insights   2.3 Automation of Design Processes3. AI-Driven UX Innovations   3.1 Voice and Chat Interfaces   3.2 Visual Recognition and Augmented Reality4. Examples of Successful AI powered SaaS Design   4.1 Example 1: Salesforce's Einstein AI   4.2 Example 2: Adobe Sensei   4.3 Example "/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/ai-in-saas.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/empower-saas-with-ai-a-better-powerful-user-experience"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Empower SaaS With AI: A Better &amp; Powerful User Experience"/>
   <meta name="twitter:description" content="Table of Contents1. Understanding AI in SaaS Design   1.1 Definition and Rise of AI in UX   1.2 Historical Context2. AI's Role in Enhancing UX   2.1 Personalization and Customization   2.2 Predictive Analytics and Insights   2.3 Automation of Design Processes3. AI-Driven UX Innovations   3.1 Voice and Chat Interfaces   3.2 Visual Recognition and Augmented Reality4. Examples of Successful AI powered SaaS Design   4.1 Example 1: Salesforce's Einstein AI   4.2 Example 2: Adobe Sensei   4.3 Example "/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/ai-in-saas.webp"/>
    
 </head>
 
@@ -55,7 +55,7 @@
                     The Software-as-a-Service (SaaS) industry has completely been transformed by AI not only for its <a href="<?php echo $path; ?>blogs/revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning#:~:text=Automation%20in%20Design%20Tasks" target="_blank" >automation</a> and <a href="<?php echo $path; ?>blogs/revolutionizing-ui-ux-design-through-the-empowerment-of-machine-learning#:~:text=and%20smart%20devices.-,Predictive%20analytics,-Incorporating%20predictive%20analytics" target="_blank" >predictive analytics</a> but also to enhance user experience with maximized personalization. AI is making SaaS platforms become smarter, adaptive and more intuitive. In this blog, we explore how AI is revolutionizing <a href="<?php echo $path; ?>product-design-services" target="_blank" >Product Design services in India</a> to deliver a powerful user experience, highlighting the importance of design consultancy and user centered design. 
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/ai-in-saas.webp" alt="AI in SaaS" />
                 </div>
                
                 <h4 class="blog-body-title">
@@ -122,7 +122,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/salesforce.webp" alt="Salesforce" />
                 </div>
 
                 <p class="blog-body-text">
@@ -134,7 +134,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/image3.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/adobe-sensei.webp" alt="Adobe Sensei" />
                 </div>
 
                 <p class="blog-body-text">
@@ -146,7 +146,7 @@
                 </p>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/image4.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/empower-saas-with-ai/zendesk-chatbot.webp" alt="Zendesk chatbot" />
                 </div>
 
                 <p class="blog-body-text">

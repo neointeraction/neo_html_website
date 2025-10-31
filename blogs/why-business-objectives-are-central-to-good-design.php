@@ -13,7 +13,7 @@
     <meta property="og:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta property="og:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/business-objectives-good-ux.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url" content="https://www.neointeraction.com/post/effective-ux-audit-and-website-redesign-to-boost-ux-for-lic" />
@@ -29,7 +29,7 @@
     <meta name="twitter:description"
         content="Life Insurance of Corporation is a government-owned insurance firm in India. It is the largest insurance firm in the region, having a vast number of policyholders and agents. With many businesses going online, websites have become a big deal for all large corporations. And unfortunately, the current LIC website design appears to be out of date. The primary goal of the website is to provide a one-stop online solution to policyholders and insurance advisors, But the site's biggest flaw is the lack" />
     <meta name="twitter:image"
-        content="" />
+        content="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/business-objectives-good-ux.webp" />
 
 </head>
 
@@ -56,14 +56,14 @@
                     Why business objectives are central to good design
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/business-objectives-for-good-ux-ui-design.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/business-objectives-good-ux.webp" alt="business objectives_good ux" />
                 </div>
                 <p class="blog-body-text">
                     While creating an excellent structure is important, communicating great UI UX design is also important, as even the best ideas will fail if they are not
                     recognized by the team and stakeholders. That is why the finest UX designers think about understanding the business objectives before diving into a project.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/understanding-ux-ui-requirements-for-design.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/understanding-ux-requirements.webp" alt="understanding_ux requirements" />
                 </div>
                 <p class="blog-body-text">
                     While creating an excellent structure is important, communicating great UI UX design is also important, as even the best ideas will fail if they are not
@@ -81,7 +81,7 @@
 
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/setting-ux-ui-design-goals-for-success.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/setting-ux-design-goals.webp" alt="setting_ux design goals" />
                 </div>
                 <h4 class="blog-body-title">
                     Listening & Engaging with clients
@@ -98,7 +98,7 @@
                     We need to listen with a focused intent to make our customers feel heard and understood. Our customers should feel recognized to share anything and everything
                     about their product and user experience with us freely.</p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/client-engagement-and-listening-for-ux-ui.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/listening-engaging-with-clients.webp" alt="Listening & Engaging with clients" />
                 </div>
                 <p class="blog-body-text">
                     Encouraging the client to participate actively in the design or research process has numerous invaluable benefits. First and foremost, the client frequently
@@ -128,7 +128,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/key-questions-to-ask-clients-for-ux-ui-design.jpeg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/business-objectives-good-design/questioning-clients.webp" alt="questioning_clients" />
                 </div>
 
                 <p class="blog-body-text">

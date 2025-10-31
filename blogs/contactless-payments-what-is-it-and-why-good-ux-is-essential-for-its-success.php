@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs"/>
   <meta property="og:title" content="Contactless Payments: What is it and why good UX is essential for its success?"/>
   <meta property="og:description" content="Learn about contactless payments, their benefits, and why a great user experience (UX) is crucial for their success. Discover best practices for designing seamless and secure contactless payment systems."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/contactless-payments-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/contactless-payments.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/contactless-payments-what-is-it-and-why-good-ux-is-essential-for-its-success.php"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Contactless Payments: What is it and why good UX is essential for its success?"/>
   <meta name="twitter:description" content="Learn about contactless payments, their benefits, and why a great user experience (UX) is crucial for their success. Discover best practices for designing seamless and secure contactless payment systems."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/contactless-payments-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/contactless-payments.webp"/>
    
 </head>
 
@@ -50,7 +50,7 @@
                 </p>
                 <h1 class="blog-title">Contactless Payments: What is it and why good UX is essential for its success?</h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/contactless-payments.jpeg" alt="contactless payments" />
+                    <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/contactless-payments.webp" alt="contactless payments" />
                 </div>
                 <p class="blog-body-text">
                 The onset of the COVID-19 <a target="_blank" href="https://www.worldbank.org/en/news/press-release/2022/06/29/covid-19-drives-global-surge-in-use-of-digital-payments" rel="noopener">pandemic has expedited</a> the migration to non-cash payments, particularly contactless payments. Contactless payment is a quick and easy alternative for consumers to buy goods and services.&nbsp;
@@ -60,7 +60,7 @@
                 </p>
                 <h4 class="blog-body-title">What makes Contactless payment so attractive?</h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/contactless-payment-benefits.jpeg" alt="user friendly contactless payment" />
+                    <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/user-friednly-contactless-payment.webp" alt="user friednly contactless payment" />
                 </div>
                 <p class="blog-body-text">
                 Consumers seeking to simplify their lives and be more productive are discovering contactless payments to be more and more appealing as they become more widely accepted. So what is it about contactless payments that is so appealing? Here are a few of the factors that lead to their rising popularity.
@@ -81,7 +81,7 @@
                 </div>
                 <h4 class="blog-body-title">UX in contactless payment</h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/ux-contactless-payments.jpeg" alt="ux design contactless payment" />
+                    <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/ux-design-contactless-payment.webp" alt="ux design contactless payment" />
                 </div>
                 <p class="blog-body-text">
                 Businesses must concentrate on the user experience (UX) of their products and services as the contactless payment sector continues to develop. In order to make contactless payments both secure and user-friendly, <a target="_blank" href="<?php echo $path; ?>ux-design-services" rel="noopener">UX (User Experience) design</a> is essential.
@@ -97,7 +97,7 @@
                 </p>
                 <h4 class="blog-body-title">Best Practices for Contactless Payment UX Design</h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/ux-tips-contactless-payments.jpeg" alt="best contactless payment design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/contactless-payments-good-ux/best-contactless-payment-design.webp" alt="best contactless payment design" />
                 </div>
                 <p class="blog-body-text">
                 A contactless payment system should have a straightforward, safe, and user-friendly design. Payments made via contactless technology should be effortless to initiate and provide users with instant feedback on whether the transaction was accepted or rejected. Furthermore, users should have a clear indication of when their payment was approved or denied.

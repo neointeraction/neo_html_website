@@ -14,7 +14,7 @@
     <meta property="og:title" content="What are wireframes and why are they important in UX design?" />
     <meta property="og:description"
         content="Wireframes are a major part of the UI UX workflow and are used to communicate ideas regarding screen layouts, similar to an architectural blueprint, a wireframe is a two-dimensional skeletal outline of a web page or app. For example, Wireframing can range from simple hand-drawn sketches on paper to more sophisticated digital and interactive prototypes that show the desired end product. They are black-and-white layouts that define the size and placement of user interface elements on a screen. The" />
-    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/importance-of-wireframes-in-ux-ui-design-thumbnail-mobile.jpg" />
+    <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/importance-of-wireframes.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -28,7 +28,7 @@
     <meta name="twitter:title" content="What are wireframes and why are they important in UX design?" />
     <meta name="twitter:description"
         content="Wireframes are a major part of the UI UX workflow and are used to communicate ideas regarding screen layouts, similar to an architectural blueprint, a wireframe is a two-dimensional skeletal outline of a web page or app. For example, Wireframing can range from simple hand-drawn sketches on paper to more sophisticated digital and interactive prototypes that show the desired end product. They are black-and-white layouts that define the size and placement of user interface elements on a screen. The" />
-    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/importance-of-wireframes-in-ux-ui-design-thumbnail-mobile.jpg" />
+    <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/importance-of-wireframes.webp" />
 </head>
 
 <body>
@@ -55,8 +55,8 @@
                     What are wireframes and why are they important in UX design?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/importance-of-wireframes-in-ux-ui-design.jpg"
-                        alt="importance-of-wireframes-in-ux-ui-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/importance-of-wireframes.webp"
+                        alt="importance of wireframes" />
                 </div>
                 <p class="blog-body-text">
                     Wireframes are a major part of the UI UX workflow and are used to communicate ideas regarding screen
@@ -77,8 +77,8 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/wireframe-use-cases-in-ux-ui-design.jpg"
-                        alt="wireframe-use-cases-in-ux-ui-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/wireframes-use-cases.webp"
+                        alt="wireframes use cases" />
                 </div>
 
                 <p class="blog-body-text">
@@ -112,8 +112,8 @@
                 <h4 class="blog-body-title">Different types of wireframes</h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/different-types-of-wireframes-in-ux-ui-design.jpg"
-                        alt="different-types-of-wireframes-in-ux-ui-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/types-of-wireframes.webp"
+                        alt="types of wireframes" />
                 </div>
 
 
@@ -169,8 +169,8 @@
                 <h4 class="blog-body-title">Salient Points</h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/wireframes-for-effective-ux-ui-design.jpg"
-                        alt="wireframes-for-effective-ux-ui-design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/what-are-wireframes-and-why/wireframes-ux-design.webp"
+                        alt="wireframes_ux design" />
                 </div>
 
 

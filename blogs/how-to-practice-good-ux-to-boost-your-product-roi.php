@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi"/>
   <meta property="og:title" content="How to practice good UX to boost your product ROI"/>
   <meta property="og:description" content="UX design is the process of designing (digital or physical) products that are useful, easy to use, and delightful to interact with. It’s about enhancing the experience that people have while interacting with your product, and making sure they find value in what you’re providing thereby achieving customer satisfaction. After all User Experience plays a vital role in the success of a product.Benefits of UX designa. Conduct User ResearchDesigning a product starts with collecting data. While develop"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/overcoming-ux-challenges.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/how-to-practice-good-ux-to-boost-your-product-roi"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How to practice good UX to boost your product ROI"/>
   <meta name="twitter:description" content="UX design is the process of designing (digital or physical) products that are useful, easy to use, and delightful to interact with. It’s about enhancing the experience that people have while interacting with your product, and making sure they find value in what you’re providing thereby achieving customer satisfaction. After all User Experience plays a vital role in the success of a product.Benefits of UX designa. Conduct User ResearchDesigning a product starts with collecting data. While develop"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/overcoming-ux-challenges.webp"/>
    
 </head>
 
@@ -52,7 +52,7 @@
                     How to practice good UX to boost your product ROI
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/overcoming-ux-challenges.webp" alt="overcoming ux challenges" />
                 </div>
                 <p class="blog-body-text">
                 UX design is the process of designing (digital or physical) products that are useful, easy to use, and delightful to interact with. It’s about enhancing the experience that people have while interacting with your product, and making sure they find value in what you’re providing thereby achieving customer satisfaction. After all <a href="<?php echo $path; ?>blogs/how-to-align-good-ux-ui-concepts-with-customer-requirements" target="_blank">User Experience</a> plays a vital role in the success of a product.
@@ -61,7 +61,7 @@
                     Benefits of UX design
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/benefits-of-ux-design.webp" alt="benefits of ux design" />
                 </div>
 
                 <p class="blog-body-text">
@@ -99,7 +99,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/how-to-practice-good-ux/ux-design-challenges.webp" alt="UX_design_challenges" />
                 </div>
                 
 

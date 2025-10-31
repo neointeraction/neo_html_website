@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/what-is-digital-transformation-and-why-is-ux-design-important-in-it.php"/>
   <meta property="og:title" content="What is digital transformation, and why is UX design important in it?"/>
   <meta property="og:description" content="Digital transformation is the integration of digital technology into all aspects of a business. This process finally raises the fundamental structure of operation in order to add the most value to customer needs."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/ux-in-digital-transformation-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/importance-of-digital-transformation.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/what-is-digital-transformation-and-why-is-ux-design-important-in-it.php"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="What is digital transformation, and why is UX design important in it?"/>
   <meta name="twitter:description" content="Digital transformation is the integration of digital technology into all aspects of a business. This process finally raises the fundamental structure of operation in order to add the most value to customer needs."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/ux-in-digital-transformation-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/importance-of-digital-transformation.webp"/>
    
 </head>
 
@@ -51,14 +51,14 @@
     <h1 class="blog-title">What is digital transformation, and why is UX design important in it?</h1>
     
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/ux-in-digital-transformation.jpeg" alt="importance of digital transformation" />
+        <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/importance-of-digital-transformation.webp" alt="importance of digital transformation" />
     </div>
     <p class="blog-body-text">We've been hearing a lot about digital transformation and digital transformation strategy lately, but what exactly is it? Digital transformation definition can be given as the integration of digital technology into all aspects of a business. This process finally raises the fundamental structure of operation in order to add the most value to customer needs. It's also a cultural shift that necessitates firms constantly challenge the status quo, experiment, and become comfortable with failure. According to studies, the global market for digital transformation would increase at a compound annual growth rate (CAGR) of 16.5% from $469.8 billion in 2020 to $1,009.8 billion by 2025. (Research & Markets, 2020).</p>
     <p class="blog-body-text">While most traditional companies are striving to remain relevant in the new reality, only some of them understand how to do digital transformation right and what changes it triggers. One of the main mistakes organizations often make is to pay too much attention to technologies while underestimating the role of user experience.</p>
     <p class="blog-body-text">In this article, we’ll explain why focusing on UX design is crucial for receiving positive results from digital transformation.</p>
     <h4 class="blog-body-title">The significance of UX design in digital transformation</h4>
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/ux-digital-transformation.jpeg" alt="significance of UX design in digital transformation" />
+        <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/significance-of-ux-design-in-digital-transformation.webp" alt="significance of UX design in digital transformation" />
     </div>
     <ul class="blog-body-text">
         <li>During digital transformation, your organization has to look at the problem from different perspectives – the perspective of the end-user, the business, and the technology. The intersection where all three perspectives overlap is where UX design resides. The power of leveraging UX design is that as you create a closer alignment between the end-user, the business, and the technology, the circles draw closer together and the impact of UX grows. Digital transformation growth can be seen with the use of UX.</li>
@@ -71,7 +71,7 @@
     </div>
     <h4 class="blog-body-title">Benefits of Ux design for your business</h4>
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/business-ux-advantages.jpeg" alt="Benefits of Ux design" />
+        <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/benefits-of-ux-design.webp" alt="Benefits of Ux design" />
     </div>
     <p class="blog-body-text">Long-term outcomes are vital, but quick wins from small UX tweaks can make a major difference for your customers.</p>
     <p class="blog-body-text"><b>- Significant revenue increase</b> Simple design improvements can help you increase your earnings.</p>
@@ -83,7 +83,7 @@
     <p class="blog-body-text">One of our recent digital transformation model can be seen in our project with Intertrust Group. A completely new Design System was implemented across various digital products across various departments. We believe that a unified design grammar can impact business efficiency directly. Are you looking to transform your business? Hire UI designers & UX developers from Neointeraction Design team to help your business prosper.</p>
     <h4 class="blog-body-title">Salient Points</h4>
     <div class="blog-banner-img">
-        <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/ux-digital-integration.jpeg" alt="integration of digital technology" />
+        <img src="<?php echo $path; ?>assets/images/blog/digital-transformation-ux-important/integration-of-digital-technology.webp" alt="integration of digital technology" />
     </div>
     <ul class="blog-body-text">
         <li>Digital Transformation is the integration of digital technology into all aspects of a business.</li>

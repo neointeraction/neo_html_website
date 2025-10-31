@@ -16,7 +16,7 @@
     <meta property="og:description"
         content="Terminologies are important to understand the technical and scientific contexts. It also helps specialists and students of the respective fields to communicate effectively." />
     <meta property="og:image"
-        content="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-guide-thumbnail-mobile.jpeg" />
+        content="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ux-ui-terminologies.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -35,7 +35,7 @@
     <meta name="twitter:description"
         content="Terminologies are important to understand the technical and scientific contexts. It also helps specialists and students of the respective fields to communicate effectively." />
     <meta name="twitter:image"
-        content="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-guide-thumbnail-mobile.jpeg" />
+        content="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ux-ui-terminologies.webp" />
 </head>
 
 <body>
@@ -61,7 +61,7 @@
                 <h1 class="blog-title">The comprehensive guide for all designers: Terminologies in UI UX design
                     explained</h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-guide.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ux-ui-terminologies.webp"
                         alt="ux ui terminologies" />
                 </div>
                 <p class="blog-body-text">
@@ -81,7 +81,7 @@
                     meetups.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ux-design-terminologies.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ux-design-terminologies.webp"
                         alt="ux design_terminologies" />
                 </div>
                 <p class="blog-body-text">
@@ -111,7 +111,7 @@
                     <b>User Experience Design (UXD)</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/user-experience-design.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/user-experience-design.webp"
                         alt="User Experience Design" />
                 </div>
                 <p class="blog-body-text">
@@ -134,7 +134,7 @@
                     <b>User Interface (UI), or Graphical User Interface (GUI)</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/user-interface.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/user-interface-meaning.webp"
                         alt="User Interface meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -153,7 +153,7 @@
                     <b>Sketching</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-sketching.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/sketching-meaning.webp"
                         alt="Sketching meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -204,7 +204,7 @@
                     <b>Flat Design</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-flat-design.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/flat-design-meaning.webp"
                         alt="Flat Design meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -235,7 +235,7 @@
                     <b>Responsive design</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-responsive-design.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/responsive-design-meaning.webp"
                         alt="Responsive design meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -247,7 +247,7 @@
                     <b>Wireframe</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-wireframe.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/wireframes-meaning.webp"
                         alt="wireframes meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -260,7 +260,7 @@
                     <b>Mockup</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-mockup.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/mockup-meaning.webp"
                         alt="Mockup meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -271,7 +271,7 @@
                     <b>Prototype</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-prototype.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/prototype-meaning.webp"
                         alt="Prototype meaning" />
                 </div>
                 <p class="blog-body-text">
@@ -300,7 +300,7 @@
                     <b>Card Sorting</b>
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/ui-ux-terminologies-card-sorting.jpeg"
+                    <img src="<?php echo $path; ?>assets/images/blog/ui-ux-design-terminologies/card-sorting-meaning.webp"
                         alt="Card Sorting meaning" />
                 </div>
                 <p class="blog-body-text">

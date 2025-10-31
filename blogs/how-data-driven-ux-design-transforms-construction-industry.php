@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/blogs/how-data-driven-ux-design-transforms-construction-industry"/>
   <meta property="og:title" content="How Data-Driven UX Design Transforms Construction Industry"/>
   <meta property="og:description" content="As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation."/>
-  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/construction-ux-ui-thumbnail-mobile.jpeg"/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-ux-design.webp"/>
   <meta property="og:image:width" content="1098"/>
   <meta property="og:image:height" content="1098"/>
   <meta property="og:url" content="https://www.neointeraction.com/blogs/how-data-driven-ux-design-transforms-construction-industry"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="How Data-Driven UX Design Transforms Construction Industry"/>
   <meta name="twitter:description" content="As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation."/>
-  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/construction-ux-ui-thumbnail-mobile.jpeg"/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-ux-design.webp"/>
    
 </head>
 
@@ -51,7 +51,7 @@
                 How Data-Driven UX Design Transforms Construction Industry
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-ux-design-construction-industry-ux-ui.jpeg" alt="Data-Driven UX Design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-ux-design.webp" alt="Data-Driven UX Design" />
                 </div>
                 <p class="blog-body-text">
                     As data becomes more important in various industries, companies are using it to improve their operations and enhance customer experiences. This blog examines the guidelines and benefits of data driven UX design, its impact on development, and a few key tools to consider during various stages of integrating user experience data for a more robust foundation.
@@ -63,7 +63,7 @@
                     <a href="https://www.neointeraction.com/post/netflix-s-data-driven-ui-ux-a-catalyst-for-business-growth" target="_blank">Data driven UX design</a> involves enhancing user interfaces and experiences, catering to the needs of different user groups through the use of advanced analytics tools to communicate critical information within a company. This involves gathering and examining both quantitative and qualitative data from research on individual choices, interactions, and behaviors. This will ensure design decisions are based on data rather than assumptions.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-user-experiance-ux-design-explained.jpeg" alt="Data driven user experience" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-user-experience.webp" alt="Data driven user experience" />
                 </div>
                 <h4 class="blog-body-title">
                     Present state of the construction industry
@@ -91,7 +91,7 @@
                     Data driven user experience has reduced repetitive tasks, allowing individuals to focus on analyzing data and increasing productivity. Machines can handle data gathering and analysis, allowing skilled professionals to focus on providing expert care and creative tasks.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/benefits-of-data-driven-ux-ui-design.jpeg" alt="benefit of data driven ux design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/benefit-of-data-driven-ux-design.webp" alt="benefit of data driven ux design" />
                 </div>
                 <h4 class="blog-body-title">
                     Building with Data: Main Action Items
@@ -118,7 +118,7 @@
                     Skanska, a multinational construction and development company based in Sweden, effectively utilized a project management tool driven by data, resulting in a 15% increase in project productivity and a decrease in necessary resources. By implementing advanced safety measures with data from workplace incidents and compliance, Bechtel's BLMS achieved a 25% reduction in workplace incidents, ultimately improving the safety of the work environment.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/data-driven-ux-design-implementation-success-construction-industry.jpeg" alt="implementation of data driven ux design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/implementation-of-data-driven-ux-design.webp" alt="implementation of data driven ux design" />
                 </div>
                 <h4 class="blog-body-title">
                     Challenges and Considerations
@@ -142,7 +142,7 @@
                     By integrating AI and Machine learning, data driven design in UX design will reach a new level of insights and predictions.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/future-of-data-driven-ux-design-in-construction.jpeg" alt="Future of data driven ux design" />
+                    <img src="<?php echo $path; ?>assets/images/blog/data-driven-ux-construction/future-of-data-driven-ux-design.webp" alt="Future of data driven ux design" />
                 </div>
                 <p class="blog-body-text">
                     <b>a. Integration with Emerging Technologies</b><br>

@@ -12,7 +12,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization"/>
   <meta property="og:title" content="Tailoring AI-Powered DTx: The Importance of Healthcare Personalization"/>
   <meta property="og:description" content="Table of Contents1. Introduction2. Why are UXUI Principles Important in Digital Therapeutics?3. User-Centered Design4. Intuitive Navigation5. Personalization6. ConclusionWith the rise of Digital therapeutics (DTx), healthcare has been reshaped with the introduction of evidence-based software applications for the treatment of various medical conditions. A study by Statista shows that the DTx revenue is expected to reach US$4.68bn in 2024. This rapid rise is due to the growth of digital-based heal"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/digital-therapeutics.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/tailoring-ai-powered-dtx-the-importance-of-healthcare-personalization"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Tailoring AI-Powered DTx: The Importance of Healthcare Personalization"/>
   <meta name="twitter:description" content="Table of Contents1. Introduction2. Why are UXUI Principles Important in Digital Therapeutics?3. User-Centered Design4. Intuitive Navigation5. Personalization6. ConclusionWith the rise of Digital therapeutics (DTx), healthcare has been reshaped with the introduction of evidence-based software applications for the treatment of various medical conditions. A study by Statista shows that the DTx revenue is expected to reach US$4.68bn in 2024. This rapid rise is due to the growth of digital-based heal"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/digital-therapeutics.webp"/>
    
 </head>
 
@@ -56,7 +56,8 @@
                     With the rise of Digital therapeutics (DTx), healthcare has been reshaped with the introduction of evidence-based software applications for the treatment of various medical conditions. A study by Statista shows that the <a href="https://www.statista.com/outlook/hmo/digital-health/digital-treatment-care/digital-therapeutics/worldwide" target="_blank">DTx revenue </a>is expected to reach US$4.68bn in 2024. This rapid rise is due to the growth of digital-based health solutions and the potential to improve patient care. Artificial Intelligence (AI) has maximised the capabilities of DTx by creating effective treatment plans. AI algorithms can examine huge amounts of patient data, identify patterns, and predict potential risks therefore allowing for customised interventions. A well-designed user interface (UI) is the key in increasing the benefits of AI-powered DTx.
                 </p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/digital-therapeutics.webp" alt="Digital therapeutics
+" />
                 </div>
 
                 <div class="blog-quote-block">
@@ -69,7 +70,9 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/healthcare-personalization.webp" alt="Healthcare personalization
+
+" />
                 </div>
 
 
@@ -100,7 +103,8 @@
                 </h4>
                 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/image3.jpg" alt="image3" />
+                    <img src="<?php echo $path; ?>assets/images/blog/tailoring-ai-powered-dtx/personalisation-in-health-care.webp" alt="Personalisation in health care
+" />
                 </div>
 
                 <p class="blog-body-text">

@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"/>
   <meta property="og:title" content="Neobanking and the need to redefine banking solutions in the Indian Economy"/>
   <meta property="og:description" content="The Indian economy has been going through a rapid transformation in recent years, and the banking sector is at the forefront of this growth. With the increasing demand for digital financial services, the traditional banking system has been challenged to keep up with the pace of technological advancements. This has resulted in the emergence of neobanking solutions, which are digital-first and technology-driven, and offer innovative financial services that cater to the needs of modern customers. H"/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/neobanking-and-the-need/neobanking-app-design.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/neobanking-and-the-need-to-redefine-banking-solutions-in-the-indian-economy"/>
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Neobanking and the need to redefine banking solutions in the Indian Economy"/>
   <meta name="twitter:description" content="The Indian economy has been going through a rapid transformation in recent years, and the banking sector is at the forefront of this growth. With the increasing demand for digital financial services, the traditional banking system has been challenged to keep up with the pace of technological advancements. This has resulted in the emergence of neobanking solutions, which are digital-first and technology-driven, and offer innovative financial services that cater to the needs of modern customers. H"/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/neobanking-and-the-need/neobanking-app-design.webp"/>
 
 </head>
 
@@ -51,7 +51,7 @@
                 Neobanking and the need to redefine banking solutions in the Indian Economy
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/neobanking-and-the-need/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/neobanking-and-the-need/neobanking-app-design.webp" alt="neobanking app design" />
                 </div>
                 <p class="blog-body-text">
                     The Indian economy has been going through a <a href="https://timesofindia.indiatimes.com/blogs/voices/digital-transformation-in-the-indian-financial-sector/" target="_blank">rapid transformation</a> in recent years, and the banking sector is at the forefront of this growth. With the increasing demand for digital financial services, the traditional banking system has been challenged to keep up with the pace of technological advancements. This has resulted in the emergence of neobanking solutions, which are digital-first and technology-driven, and offer innovative financial services that cater to the needs of modern customers. However, despite their potential to revolutionize the banking industry, neobanking solutions are yet to reach their full potential in India. This can be attributed to a number of factors, including a lack of awareness and understanding of these solutions, as well as limited accessibility to these services. In order to maximize the potential of neobanking solutions in India, it is crucial to redefine these services and make them more accessible to a wider audience. In this blog, we will explore the need for redefining neobanking solutions in the Indian economy and the role of user interface and user experience design in this transformation.
@@ -89,7 +89,7 @@
                 </h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/neobanking-and-the-need/image2.jpg" alt="image2" />
+                    <img src="<?php echo $path; ?>assets/images/blog/neobanking-and-the-need/ux-redesign-banking-app.webp" alt="ux redesign banking app" />
                 </div>
                 
 

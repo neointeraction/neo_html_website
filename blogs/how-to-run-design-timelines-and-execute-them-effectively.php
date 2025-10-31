@@ -15,7 +15,7 @@
     <meta property="og:description"
         content="Planning is an essential part in the process of product design. By outlining the scope when designing a product you will be equipped to identify and avoid roadblocks that would otherwise steer your progress off track.One of the most effective tools for planning your ui ux design project is the schedule. A project schedule allows you to outline, assess, and communicate the essentials of a job and includes its deliverables, timeframe, and the resources allotted to individual tasks.What does the go" />
     <meta property="og:image"
-        content="<?php echo $path; ?>assets/images/blog/design-timelines-execution/effective-design-timelines-project-management-and-execution -thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/design-timelines-execution/design-timeline-projects.webp" />
     <meta property="og:image:width" content="941" />
     <meta property="og:image:height" content="727" />
     <meta property="og:url"
@@ -33,7 +33,7 @@
     <meta name="twitter:description"
         content="Planning is an essential part in the process of product design. By outlining the scope when designing a product you will be equipped to identify and avoid roadblocks that would otherwise steer your progress off track.One of the most effective tools for planning your ui ux design project is the schedule. A project schedule allows you to outline, assess, and communicate the essentials of a job and includes its deliverables, timeframe, and the resources allotted to individual tasks.What does the go" />
     <meta name="twitter:image"
-        content="<?php echo $path; ?>assets/images/blog/design-timelines-execution/effective-design-timelines-project-management-and-execution -thumbnail-mobile.jpg" />
+        content="<?php echo $path; ?>assets/images/blog/design-timelines-execution/design-timeline-projects.webp" />
 
 </head>
 
@@ -60,7 +60,7 @@
                     How to run design timelines and execute them effectively?
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/effective-design-timelines-project-management-and-execution.jpg" alt="effective-design-timelines-project-management-and-execution" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/design-timeline-projects.webp" alt="design timeline projects" />
                 </div>
                 <p class="blog-body-text">
                     Planning is an essential part in the process of product design. By outlining the scope when
@@ -75,7 +75,7 @@
                     What does the good design timeline include?
                 </h4>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/planning-a-good-design-timeline-for-ux-ui.jpg" alt="planning-a-good-design-timeline-for-ux-ui" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/planning-design-timeline.webp" alt="planning design timeline" />
                 </div>
 
                 <p class="blog-body-text">
@@ -106,7 +106,7 @@
                 <h4 class="blog-body-title">How to create a project timeline?</h4>
 
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/creating-effective-project-timeline-for-ux-ui.jpg" alt="creating-effective-project-timeline-for-ux-ui" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/creating-project-timeline.webp" alt="creating project timeline" />
                 </div>
                 <p class="blog-body-text">
                     Regardless of how excited you are to jump right in, you should always start your new projects by
@@ -119,7 +119,7 @@
                     include these points while planning the Stages Of Project Management</h4>
                 <p class="blog-body-text"><b>a) Identify individual deliverables</b></p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/project-management-stages-identify-timeline-deliverables.jpg" alt="project-management-stages-identify-timeline-deliverables" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/timeline-deliverables.webp" alt="timeline deliverables" />
                 </div>
                 <p class="blog-body-text">
                     Begin by writing down your final deliverable (i.e. a website or app) then work your way down and
@@ -133,7 +133,7 @@
                 </p>
                 <p class="blog-body-text"><b>b) Determine the resources required</b></p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/project-management-stages-determine-required-resources.jpg" alt="project-management-stages-determine-required-resources" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/project-resources-required.webp" alt="project resources required" />
                 </div>
                 <p class="blog-body-text">
                     Now that you have listed out the flow of your project, it’s time to forecast the amount of resources
@@ -146,7 +146,7 @@
                 <p class="blog-body-text"><b>c) Determine the outside elements that could have an impact on your
                         project</b></p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/design-timeline-project-management-factors-and-external-influences.jpg" alt="design-timeline-project-management-factors-and-external-influences" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/factors-affecting-design-timeline.webp" alt="factors affecting design timeline" />
                 </div>
                 <p class="blog-body-text">
                     While you are outlining your resources, you should try to identify any external factors that could
@@ -158,7 +158,7 @@
                 </p>
                 <p class="blog-body-text"><b>d) Monitor and reforecast</b></p>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/monitor-and-reforecast-design-timeline.jpg" alt="monitor-and-reforecast-design-timeline" />
+                    <img src="<?php echo $path; ?>assets/images/blog/design-timelines-execution/monitor-design-timeline.webp" alt="monitor design timeline" />
                 </div>
                 <p class="blog-body-text">
                     Creating a timeline is just the first step of project planning. Your project should be continuously

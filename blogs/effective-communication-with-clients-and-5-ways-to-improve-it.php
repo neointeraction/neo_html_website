@@ -11,7 +11,7 @@
   <link rel="canonical" href="https://www.neointeraction.com/post/effective-communication-with-clients-and-5-ways-to-improve-it"/>
   <meta property="og:title" content="Effective Communication with clients and 5 ways to improve it"/>
   <meta property="og:description" content="Consider if someone asked you to prepare a meal but didn't specify what type of meal they wanted. They expected you to know what they wanted. This type of scenario occurs frequently with design teams, resulting in a waste of time for both parties.Designers are expected to be multi-disciplinary and result-oriented as technology advances. One of the most important abilities is not only to design but also to communicate design effectively; therefore, it is critical for a designer to possess active "/>
-  <meta property="og:image" content=""/>
+  <meta property="og:image" content="<?php echo $path; ?>assets/images/blog/effective-communication/effective-communication-with-clients.webp"/>
   <meta property="og:image:width" content="941"/>
   <meta property="og:image:height" content="727"/>
   <meta property="og:url" content="https://www.neointeraction.com/post/effective-communication-with-clients-and-5-ways-to-improve-it"/>
@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="Effective Communication with clients and 5 ways to improve it"/>
   <meta name="twitter:description" content="Consider if someone asked you to prepare a meal but didn't specify what type of meal they wanted. They expected you to know what they wanted. This type of scenario occurs frequently with design teams, resulting in a waste of time for both parties.Designers are expected to be multi-disciplinary and result-oriented as technology advances. One of the most important abilities is not only to design but also to communicate design effectively; therefore, it is critical for a designer to possess active "/>
-  <meta name="twitter:image" content=""/>
+  <meta name="twitter:image" content="<?php echo $path; ?>assets/images/blog/effective-communication/effective-communication-with-clients.webp"/>
    
 </head>
 
@@ -52,7 +52,7 @@
                 Effective Communication with clients and 5 ways to improve it
                 </h1>
                 <div class="blog-banner-img">
-                    <img src="<?php echo $path; ?>assets/images/blog/effective-communication/image1.jpg" alt="blog1" />
+                    <img src="<?php echo $path; ?>assets/images/blog/effective-communication/effective-communication-with-clients.webp" alt="effective communication with clients" />
                 </div>
                 <p class="blog-body-text">Consider if someone asked you to prepare a meal but didn't specify what type of meal they wanted. They expected you to know what they wanted. This type of scenario occurs frequently with design teams, resulting in a waste of time for both parties.
                 </h4>
@@ -70,7 +70,7 @@
                 </div>
                 <h4 class="blog-body-title">How to set a better communication standard with the client?</h4>
                 <div class="blog-section-banner-img">
-                <img src="<?php echo $path; ?>assets/images/blog/effective-communication/image2.jpg" alt="blog1" />
+                <img src="<?php echo $path; ?>assets/images/blog/effective-communication/communication-with-client.webp" alt="communication with client" />
                 </div>
                 <p class="blog-body-text">To maintain a good relationship with the client, it is critical to establish some standards that will make the entire <a href="https://www.neointeraction.com/ui-ux-design-services">development process</a> easier, in addition to numerous benefits such as project clarity, a continuous cycle of feedback, being thoroughly informed, and so on. Reach out to us <a href="https://www.neointeraction.com/contact-us">here</a> if you would like to connect with us to discuss your project.</p>
 
@@ -85,7 +85,7 @@
 
                 <h4 class="blog-body-title">Conclusion</h4>
                 <div class="blog-section-banner-img">
-                <img src="<?php echo $path; ?>assets/images/blog/effective-communication/image3.jpg" alt="blog1" />
+                <img src="<?php echo $path; ?>assets/images/blog/effective-communication/understanding-clients.webp" alt="understanding clients" />
                 </div>
                 <p class="blog-body-text">As <a href="https://www.neointeraction.com/ui-ux-design-services">Product Design service</a>, we want to understand our client's goals and plans for achieving them. We also want our clients to feel heard, to be included in the steps in the product design process, and to keep them up to date on every little change made. These are some of the most important factors in developing a long-term working relationship we follow as a creative consulting firm.</p>
                 <?php 
