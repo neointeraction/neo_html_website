@@ -7,7 +7,7 @@
     <?php include $path . 'includes/favicon.php'; ?>
     <?php include $path . 'includes/css.php'; ?>
     <title>UX Design Team - Improve User Experience |  Neointeraction Design</title>
-    <meta name="description" content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" >
+    <meta name="description" content="India's leading UI/UX design company reveals their process for creating digital products with delightful CX and measurable business impact." >
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" >
     <link rel="canonical" href="https://www.neointeraction.com/blog" >
     <meta property="og:title" content="UX Design Team -Enhance User Experience |  Neointeraction Design" >

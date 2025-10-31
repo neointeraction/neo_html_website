@@ -19,14 +19,14 @@ include_once 'includes/tracking-functions.php';
     <meta name="description"
         content="Neointeraction Design offers top UX Design services in India, creating visually appealing and user-friendly websites for your business needs. Request a free quote today." />
     <meta name="keywords" content="UX Design services in India, UX Design company" />
-    <link rel="canonical" href="https://www.neointeraction.com/blog" />
+    <link rel="canonical" href="https://www.neointeraction.com/ux-design-services" />
     <meta property="og:title" content="Top UX Design services in India | UX Design company | Neointeraction Design" />
     <meta property="og:description"
         content="Neointeraction Design offers top UX Design services in India, creating visually appealing and user-friendly websites for your business needs. Request a free quote today." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/ux-design-thumbnail.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:url" content="" />
+    <meta property="og:url" content="https://www.neointeraction.com/ux-design-services" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />

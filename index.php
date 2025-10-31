@@ -12,13 +12,13 @@
     <title>UI UX Design Agency in India | UI UX Design Company | Neointeraction Design</title>
     <meta name="description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
     <meta name="keywords" content=" UI UX design agency in India , ui ux design company in India,web design, UI/UX, digital transformation, web development, neointeraction" >
-    <link rel="canonical" href="<?php echo $base_url; ?>blog" >
+    <link rel="canonical" href="<?php echo $base_url; ?>" >
     <meta property="og:title" content="UI UX Design Agency in India | UI UX Design Company | Neointeraction Design" >
     <meta property="og:description" content="Looking for the best UI UX design agency in India? Neointeraction Design is a trusted UI UX design company in India, creating innovative digital products and solutions." >
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-home-og.webp" >
     <meta property="og:image:width" content="1200" >
     <meta property="og:image:height" content="630" >
-    <meta property="og:url" content="<?php echo $base_url; ?>blog" >
+    <meta property="og:url" content="<?php echo $base_url; ?>" >
     <meta property="og:site_name" content="Neointeraction Design" >
     <meta property="og:type" content="website" >
     <meta name="google-site-verification" content="" >

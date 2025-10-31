@@ -15,21 +15,21 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <title>Expert UX Design Audit in India | Neointeraction Design | Contact Us</title>
+    <title>Expert UX Design Audit in India | Neointeraction Design</title>
     <meta name="description"
         content="Boost your digital presence with our UX Design Audit services in India. Uncover actionable insights for user experiences and drive business growth." />
     <meta name="keywords" content="UX Design Audit in India" />
-    <link rel="canonical" href="https://www.neointeraction.com/blog" />
+    <link rel="canonical" href="https://www.neointeraction.com/ux-design-audit" />
     <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
-    <meta property="og:title" content="Expert UX Design Audit in India | Neointeraction Design | Contact Us" />
+    <meta property="og:title" content="Expert UX Design Audit in India | Neointeraction Design" />
     <meta property="og:description"
         content="Boost your digital presence with our UX Design Audit services in India. Uncover actionable insights for user experiences and drive business growth." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/ux-audit-thumbnail.webp" />
-    <meta property="og:url" content="" />
+    <meta property="og:url" content="https://www.neointeraction.com/ux-design-audit" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Expert UX Design Audit in India | Neointeraction Design | Contact Us" />
+    <meta name="twitter:title" content="Expert UX Design Audit in India | Neointeraction Design" />
     <meta name="twitter:description"
         content="Boost your digital presence with our UX Design Audit services in India. Uncover actionable insights for user experiences and drive business growth." />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/ux-audit-thumbnail.webp" />

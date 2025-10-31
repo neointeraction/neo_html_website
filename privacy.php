@@ -8,10 +8,10 @@
     <?php include $path . 'includes/css.php'; ?>
     <title>Privacy Policy Protection - Stay Secure Online | Neointeraction </title>
     <meta name="description"
-        content="Discover the latest trends and expert insights in UI/UX designs on our blog. Stay informed and inspired with our informative articles and tips. Explore now!" />
+        content="Navigate Our Privacy Policy: Keeping Your Data Safe" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="https://www.neointeraction.com/blog" />
-    <meta property="og:title" content="Privacy Policy Protection - Stay Secure Online | Neointeraction " />
+    <meta property="og:title" content="Navigate Our Privacy Policy: Keeping Your Data Safe" />
     <meta property="og:description" content="Navigate Our Privacy Policy: Keeping Your Data Safe" />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-privacy-policy-og.webp" />
     <meta property="og:image:width" content="1200" />
@@ -21,7 +21,7 @@
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Privacy Policy Protection - Stay Secure Online | Neointeraction " />
+    <meta name="twitter:title" content="Navigate Our Privacy Policy: Keeping Your Data Safe" />
     <meta name="twitter:description" content="Navigate Our Privacy Policy: Keeping Your Data Safe" />
     <meta name="twitter:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-privacy-policy-og.webp" />
 </head>

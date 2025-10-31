@@ -15,18 +15,18 @@ include_once 'includes/tracking-functions.php';
     <?php include $path.'includes/head-additional-scripts.php'; ?>
     <?php include $path.'includes/favicon.php'; ?>
     <?php include $path.'includes/css.php'; ?>
-    <title>Product Design Services in india | Neointeraction Design | Contact us</title>
+    <title>Product Design Services in india | Neointeraction Design</title>
     <meta name="description"
         content="Unlock the full potential of your business with our digital transformation services in India. Contact us today for your digital transformation journey." />
     <meta name="keywords" content="Digital Transformation services in india" />
-    <link rel="canonical" href="https://www.neointeraction.com/blog" />
-    <meta property="og:title" content="Digital Transformation services in india | Neointeraction Design | Contact us" />
+    <link rel="canonical" href="https://www.neointeraction.com/product-design-services" />
+    <meta property="og:title" content="Digital Transformation services in india | Neointeraction Design" />
     <meta property="og:description"
         content="Unlock the full potential of your business with our digital transformation services in India. Contact us today for your digital transformation journey." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/product-design-thumbnail.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:url" content="" />
+    <meta property="og:url" content="https://www.neointeraction.com/product-design-services" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />

@@ -10,13 +10,13 @@
     <meta name="description"
         content="Neointeraction hosts events on UX research services in India. Join industry leaders to explore user experience strategies, design innovations, and front-end trends." />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
-    <link rel="canonical" href="https://www.neointeraction.com/blog" />
+    <link rel="canonical" href="https://www.neointeraction.com/events" />
     <meta property="og:title" content="Neointeraction UX Designs &amp; Front-End Development Blogs | Insights &amp; Innovations" />
     <meta property="og:description" content="Neointeraction hosts events on UX research services in India. Join industry leaders to explore user experience strategies, design innovations, and front-end trends." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-events-og.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:url" content="https://www.neointeraction.com/blog" />
+    <meta property="og:url" content="https://www.neointeraction.com/events" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />

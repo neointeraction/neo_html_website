@@ -19,14 +19,14 @@ include_once 'includes/tracking-functions.php';
     <meta name="description"
         content="Neointeraction Design provides best Front end development services in India. Hire talented Front-End developers for your upcoming web projects." />
     <meta name="keywords" content="Front End Development Services in India, Front End Development Company" />
-    <link rel="canonical" href="https://www.neointeraction.com/blog" />
+    <link rel="canonical" href="https://www.neointeraction.com/front-end-development-services" />
     <meta property="og:title"
         content="Front End Development Services in India | Front End Development Company | Neointeraction Design" />
     <meta property="og:description"
         content="Neointeraction Design provides best Front end development services in India. Hire talented Front-End developers for your upcoming web projects." />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/ui-development-thumbnail.webp" />
     <meta property="og:logo" content="https://www.neointeraction.com/assets/images/header_logo.png" />
-    <meta property="og:url" content="" />
+    <meta property="og:url" content="https://www.neointeraction.com/front-end-development-services" />
     <meta property="og:site_name" content="Neointeraction Design" />
     <meta property="og:type" content="website" />
     <meta name="google-site-verification" content="" />

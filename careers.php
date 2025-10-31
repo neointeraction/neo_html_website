@@ -9,12 +9,12 @@
 
     <title>Join our Design and Technology team | Neointeraction Design</title>
     <meta name="description"
-        content="Build a design and technology career with Neointeraction Design team. Join as UX Designer,  UI Designer, Front-end developer, Intern to be a part of a global team" />
+        content="Build your design and technology career with the Neointeraction Design team. Join us as a UX Designer, UI Designer, Front-End Developer, or Intern, and be part of a global team" />
     <meta name="keywords" content="web design, UI/UX, digital transformation, web development, neointeraction" />
     <link rel="canonical" href="https://www.neointeraction.com/blog" />
     <meta property="og:title" content="Join our Design and Technology team |  Neointeraction Design" />
     <meta property="og:description"
-        content="Build a design and technology career with Neointeraction Design team. Join as UX Designer,  UI Designer, Frontent developer, Intern to be a part of a global team" />
+        content="Build your design and technology career with the Neointeraction Design team. Join us as a UX Designer, UI Designer, Front-End Developer, or Intern, and be part of a global team" />
     <meta property="og:image" content="<?php echo $base_url; ?>assets/images/og/neointeraction-careers-og.webp" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -25,7 +25,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Join our Design and Technology team |  Neointeraction Design" />
     <meta name="twitter:description"
-        content="Build a design and technology career with Neointeraction Design team. Join as UX Designer,  UI Designer, Frontent developer, Intern to be a part of a global team" />
+        content="Build your design and technology career with the Neointeraction Design team. Join us as a UX Designer, UI Designer, Front-End Developer, or Intern, and be part of a global team" />
     <meta name="twitter:image"
         content="<?php echo $base_url; ?>assets/images/og/neointeraction-careers-og.webp" />
 </head>

@@ -8,11 +8,11 @@
     <?php include $path . 'includes/css.php'; ?>
     <title>Crew Mobility Management in a Cruise | Neointeraction Design</title>
     <meta name="description"
-        content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
+        content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, designed to simplify UX/UI and reduce operational tasks and team calls" />
     <link rel="canonical" href="<?php echo $base_url; ?>projects/crew-mobility-management-in-a-cruise.php" />
     <meta property="og:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
     <meta property="og:description"
-        content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
+        content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, designed to simplify UX/UI and reduce operational tasks and team calls" />
     <meta property="og:image"
         content="<?php echo $base_url; ?>assets/images/og/crew-mobility-management-thumbnail.webp" />
     <meta property="og:image:width" content="2500" />
@@ -23,7 +23,7 @@
     <meta name="google-site-verification" content="" />
     <meta name="twitter:title" content="Crew Mobility Management in a Cruise | Neointeraction Design" />
     <meta name="twitter:description"
-        content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, enhancing UX/UI to reduce operational tasks and team calls." />
+        content="Streamline onboarding for 1,500 cruise ship employees with our new mobile solution, designed to simplify UX/UI and reduce operational tasks and team calls" />
     <meta name="twitter:image"
         content="<?php echo $base_url; ?>assets/images/og/crew-mobility-management-thumbnail.webp" />
     <meta name="twitter:card" content="summary" />
